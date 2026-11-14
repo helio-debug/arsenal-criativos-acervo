@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-5673799372846137",
+  "tipo": "estatico",
+  "titulo": "Campanha de cupom com dois custos em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul com painel promocional à esquerda e homem de camiseta azul apontando para a oferta à direita. Um carro pequeno, faixas diagonais e cupom completam a composição.",
+  "por_que_funciona": [
+    "O gesto de apontar direciona o olhar para o painel da promoção.",
+    "“ZERO + ZERO” recebe tamanho maior que os textos de apoio.",
+    "A cápsula preta destaca o código do cupom sobre o azul.",
+    "A miniatura do carro associa a oferta ao seguro automotivo."
+  ],
+  "quando_usar": "Para campanhas de seguro auto que tenham isenção de adesão e desconto adicional com regra clara.",
+  "estrutura_texto": "[Nome da campanha]\n[Produto] com [condição 1] + [condição 2]\nApenas [quantidade] cupons\nCupom [código]\n[Explicação do cálculo do desconto].",
+  "legenda": "Na [campanha], contrate [seguro] com [condição de adesão] e desconto equivalente a [critério verificável]. Use [cupom] enquanto houver disponibilidade entre os [quantidade] cupons. Confira [vigência e condições] na cotação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul com textura discreta e painel retangular à esquerda. À direita, use uma pessoa adulta autorizada apontando para a oferta, sem copiar a identidade da referência. Destaque os dois benefícios no centro, limite de cupons abaixo e código em cápsula preta. Adicione carro pequeno na base e faixas diagonais da campanha. Apresente desconto equivalente a tributos com explicação clara e legível, sem sugerir isenção tributária real.",
+  "alerta_politica": "Meta e regras aplicáveis à publicidade de seguros: informe condições, elegibilidade, vigência e limites da promoção; não sugira cobertura irrestrita. Identifique corretamente seguradora e produto conforme regulação SUSEP. Descontos, valores de adesão e quantidade de cupons precisam ser comprováveis e acompanhados das condições aplicáveis. A expressão “zero imposto” deve ser esclarecida como desconto equivalente à carga tributária média, sem induzir a falsa isenção de tributos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "5673799372846137",
+    "anunciante": "Renato Cariani with Loovi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-06",
+    "dias_no_ar": 39,
+    "variacoes_ativas": 1,
+    "texto_original": "💸 Tem duas cobranças que ninguém sente falta quando somem da conta.\n\nNa Semana do Cliente da Loovi, a condição é simples:\nZERO adesão.\n\nE um desconto equivalente à carga tributária média do seguro contratado.\n\nOu seja: antes mesmo de falar da mensalidade, já tem custo saindo da frente. 👀\n\nSó que existe um detalhe importante:\n\n🔥 São apenas 1.000 cupons.\n🏷️ Cupom CLIENTE1000\n\nNão é sorteio.\nNão é “cadastre-se e veremos”.\nÉ usar o cupom enquanto ainda estiver disponível.\n\nSeu carro já tem IPVA, combustível, manutenção, estacionamento…\n\nquando aparece a chance de zerar duas linhas da conta, talvez não seja o anúncio pra deixar salvo pra depois.\n\n👇 Clique em Saiba Mais, faça sua cotação e use CLIENTE1000.",
+    "origem_coleta": "acervo:loovi"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-5673799372846137.jpg"
+}

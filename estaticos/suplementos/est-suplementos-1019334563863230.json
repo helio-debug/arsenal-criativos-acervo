@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1019334563863230",
+  "tipo": "estatico",
+  "titulo": "Proteína crocante apresentada como topping",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Pote de proteína crocante ao lado de uma tigela com frutas e iogurte. Texto verde destaca o uso como topping, a textura e a quantidade de proteína.",
+  "por_que_funciona": [
+    "A tigela mostra uma aplicação concreta do produto na alimentação.",
+    "Os pequenos flocos em queda tornam a textura crocante visível.",
+    "A chamada grande à esquerda apresenta uma forma de consumo em poucas palavras.",
+    "O pote ocupa a metade direita e permite reconhecer a embalagem."
+  ],
+  "quando_usar": "Para apresentar uma proteína em formato diferente e explicar como consumi-la.",
+  "estrutura_texto": "Seu [modo de uso] proteico\n[textura], [sabor] e [quantidade de proteína] por porção",
+  "legenda": "Adicione [produto] ao seu [alimento ou receita]. Com [textura] e [sabor], ele oferece [quantidade de proteína] por porção de [porção]. [Chamada para conhecer].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo bege, luz natural suave e tipografia verde. Coloque o produto grande à direita e uma tigela com uma sugestão realista de consumo no canto inferior esquerdo. Reserve o alto esquerdo para a chamada e abaixo para textura, sabor e informação nutricional comprovada. Inclua alguns grãos em movimento e poucos elementos de cozinha.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1019334563863230",
+    "anunciante": "Evida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-14",
+    "dias_no_ar": 184,
+    "variacoes_ativas": 1,
+    "texto_original": "Cansado da mesma textura de sempre? Chegou o Crispy de Whey Protein da Evida. São bolinhas super crocantes com sabor neutro para você adicionar em qualquer receita. Transforme seu iogurte ou fruta em um banquete proteico!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1019334563863230.jpg"
+}

@@ -1,0 +1,89 @@
+{
+ "id": "vid-mensagem-cena-risco",
+ "tipo": "video",
+ "titulo": "Mensagem na abertura, resposta e cena de contexto em tela dividida",
+ "formato_video": "split-screen",
+ "nichos": [
+  "seguros",
+  "consorcio-credito",
+  "automotivo"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "fundo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Recebi esta dúvida: “Contratei [produto], mas deixei de informar [dado relevante]. Como confiro o que fazer agora?”",
+  "texto_tela": "Dúvida sobre [contratação] | Exemplo fictício",
+  "visual": "Apresentadora sentada em cadeira escura, close médio. Mensagem fictícia sobreposta acima do rosto e título branco no topo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Apresentadora sentada em cadeira escura, close médio. Mensagem fictícia sobreposta acima do rosto e título branco no topo.",
+   "fala": "Recebi esta dúvida: “Contratei [produto], mas deixei de informar [dado relevante]. Como confiro o que fazer agora?”",
+   "texto_tela": "Dúvida sobre [contratação] | Exemplo fictício"
+  },
+  {
+   "tempo": "6-13s",
+   "cena": "Tela dividida: apresentadora na metade superior e cena neutra do contexto na inferior.",
+   "fala": "Antes de concluir qualquer coisa, confira [cláusula ou condição] e fale com [canal responsável]. O atendimento precisa analisar o caso.",
+   "texto_tela": "Confira [cláusula ou condição]"
+  },
+  {
+   "tempo": "13-20s",
+   "cena": "Mantém divisão e legendas brancas; cena inferior ilustra o uso sem mostrar acidente ou dano.",
+   "fala": "Na contratação de [produto], informe [dado necessário]. Essa informação ajuda a verificar se [condição contratual] atende ao uso pretendido.",
+   "texto_tela": "Informe [dado necessário]"
+  },
+  {
+   "tempo": "20-28s",
+   "cena": "Cartão de oferta no alto, sem cobrir rosto ou legendas; contexto segue abaixo.",
+   "fala": "Para uma nova contratação elegível, [cupom] oferece [desconto] em [cobrança específica]. Confira [restrição principal].",
+   "texto_tela": "[CUPOM] | [Benefício] | [Restrição]"
+  },
+  {
+   "tempo": "28-35s",
+   "cena": "Encerra em cartela azul com identidade do comprador e condições legíveis, sem pessoa famosa.",
+   "fala": "Acesse [canal] para ver as condições completas. Se já existe uma ocorrência, procure o atendimento responsável pelo contrato atual.",
+   "texto_tela": "Consulte condições e atendimento"
+  }
+ ],
+ "por_que_funciona": [
+  "A mensagem aparece acima da apresentadora logo na abertura e fornece a situação que ela responde.",
+  "A divisão mantém o rosto na parte superior enquanto o trânsito ocupa a inferior.",
+  "O cartão de cupom entra no alto durante a resposta, deixando a apresentadora visível.",
+  "A cartela azul final separa o encerramento do relato e reserva uma área para informações legais."
+ ],
+ "quando_usar": "Para responder a uma dúvida comum de contratação e apresentar uma oferta com condições claras. Use no fundo do funil; em crédito, troque a cena de trânsito por contexto de contratação, sem prometer aprovação.",
+ "roteiro_modelo": "Recebi esta dúvida: “Contratei [produto], mas deixei de informar [dado relevante]. Como confiro o que fazer agora?”\n\n[CORTE / PAUSA]\n\nAntes de concluir qualquer coisa, confira [cláusula ou condição] e fale com [canal responsável]. O atendimento precisa analisar o caso.\n\n[CORTE / PAUSA]\n\nNa contratação de [produto], informe [dado necessário]. Essa informação ajuda a verificar se [condição contratual] atende ao uso pretendido.\n\n[CORTE / PAUSA]\n\nPara uma nova contratação elegível, [cupom] oferece [desconto] em [cobrança específica]. Confira [restrição principal].\n\n[CORTE / PAUSA]\n\nAcesse [canal] para ver as condições completas. Se já existe uma ocorrência, procure o atendimento responsável pelo contrato atual.",
+ "tomadas_celular": [
+  "Grave 6s sentada em plano de peito, cadeira escura, luz de janela frontal e espaço acima da cabeça para a mensagem.",
+  "Grave 7s da resposta em close médio com a mesma luz, deixando margem para recortar a metade superior.",
+  "Grave 7s de explicação em plano de peito, luz suave e olhar para a lente.",
+  "Grave 8s da oferta em plano médio, iluminação frontal e espaço livre no topo para cartão.",
+  "Grave 10s de contexto com celular fixo: carro parado em local permitido ou mãos conferindo proposta sem dados; luz natural, sem filmar ao dirigir. Use trechos na metade inferior.",
+  "Grave 7s de conclusão em plano médio com luz frontal e monte a cartela azul no editor."
+ ],
+ "caminho_ia": "Use avatar e voz sintética licenciada para a resposta, com cenas ilustrativas no Runway ou Veo. Prompts: \"Vertical 9:16 medium close-up of a generic female presenter seated in a dark office chair, soft frontal daylight, neutral home office, upper frame clear for an editor-added fictional message, no text, discussing [product contract], 6 seconds.\" e \"Vertical 9:16 static high-angle view of a calm urban intersection, normal traffic moving safely, daylight, no collision, no visible license plates or logos, illustrative context for [product use], 7 seconds.\" Para crédito, substitua o trânsito por mãos lendo uma proposta genérica. No CapCut, componha a tela dividida, identifique mensagem e cenas como ilustrativas, aplique legendas e cartão de cupom com regras legíveis. Não fabrique sinistro ou depoimento real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto, sem reproduzir a identidade da referência.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 5 blocos: 0-6, 6-13, 13-20, 20-28 e 28-35s. Abra com mensagem fictícia identificada e título neutro. Responda sem decidir o caso individual. Use apresentadora acima e cena ilustrativa do uso abaixo; introduza cartão de oferta com desconto, cobrança e restrição; termine em cartela azul com condições. Tom de orientação, fala calma e legendas brancas curtas. Não copie aplicativos, marcas, cupons, rosto conhecido, slogan ou relato literal. Não use acidente, alarmismo, garantia de indenização ou sugestão de que novo contrato cobre evento passado. Em crédito, use dúvida de condições e proposta no lugar do contexto de trânsito. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltar informação. Não invente números, comprovações, depoimentos ou condições comerciais. Não copie pessoas, marcas, nomes, logotipos, contatos, cenários identificáveis ou falas literais da referência. Evite perguntas retóricas, promessas de resultado, superlativos sem prova e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Dado relevante] precisa ser informado na contratação de [produto]. Confira [condição] com [canal responsável]. Para novas contratações elegíveis, use [cupom]: [desconto] em [cobrança]. Consulte [validade e restrições]. Exemplo fictício para orientação geral.",
+ "alerta_politica": "Meta: não atribuir dívida ou dificuldade financeira ao espectador nem anunciar cobertura, aprovação ou vantagem garantida. Seguro: observar SUSEP, condições, exclusões e identificação regulatória aplicável; responder corretamente à avaliação de risco e não afirmar que omissão gera sempre a mesma decisão. Contrato novo não cobre automaticamente evento anterior. Crédito e consórcio: observar Banco Central; informar custos e condições, sem aprovação ou contemplação garantida. Se a adaptação envolver investimento, observar CVM e não prometer rentabilidade. Cupom deve informar validade, elegibilidade e cobrança atingida.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-97cba331",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-mensagem-cena-risco/frames/f1.jpg",
+    "videos/vid-mensagem-cena-risco/frames/f2.jpg",
+    "videos/vid-mensagem-cena-risco/frames/f3.jpg",
+    "videos/vid-mensagem-cena-risco/frames/f4.jpg",
+    "videos/vid-mensagem-cena-risco/frames/f5.jpg"
+   ]
+  }
+ ]
+}

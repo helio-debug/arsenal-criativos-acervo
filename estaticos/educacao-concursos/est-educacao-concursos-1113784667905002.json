@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1113784667905002",
+  "tipo": "estatico",
+  "titulo": "Análise de preparação com faixas por cargo",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça branca e azul destaca o próximo concurso, apresenta duas faixas com cargos e salários e termina em chamada para análise de preparação.",
+  "por_que_funciona": [
+    "A palavra “CONCURSO” em uma cápsula azul cria o maior contraste do título.",
+    "Duas faixas equivalentes permitem comparar rapidamente cargos e remuneração.",
+    "O texto sobre esperar o edital conecta a oferta ao momento de preparação.",
+    "O botão “Solicitar minha análise” indica um próximo passo específico."
+  ],
+  "quando_usar": "Para captar interessados em orientação de estudos antes da publicação de um edital.",
+  "estrutura_texto": "[Concurso-alvo]\n[Chamada de preparação antecipada]\n[Cargo 1 e remuneração]\n[Cargo 2 e remuneração]\n[Argumento sobre começar antes]\n[Como a análise ajuda]\n[CTA para análise]\n[Identidade]",
+  "legenda": "Sua preparação para [concurso] precisa considerar [cargo], [rotina] e [pontos de dificuldade]. Com [mentoria], você recebe [plano personalizado e acompanhamento disponível]. Solicite [análise da preparação] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo branco com curvas azuis discretas nas bordas. Centralize título em caixa alta com uma palavra em cápsula azul. Organize dois blocos horizontais azuis, dividindo cargo à esquerda e remuneração à direita. Abaixo, use argumento curto, explicação da análise e botão azul. Incorpore a IMAGEM 2 apenas se couber sem competir com as informações. Remunerações e referências ao edital devem vir dos dados fornecidos; não prometa aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1113784667905002",
+    "anunciante": "Gustavo Dias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-02",
+    "dias_no_ar": 43,
+    "variacoes_ativas": 3,
+    "texto_original": "🔥 A sua aprovação em Concursos Públicos não depende dos Materiais! Depende de direcionamento correto.\n\nSe você tá perdido sem saber como começar ou já estuda mas sente que não evolui, está correndo um sério risco de ficar anos sem a sua aprovação.\n\nA verdade é simples:\n❌ Não é falta de esforço\n❌ Não é falta de inteligência\n✅ É falta de estratégia certa e personalizada pra VOCÊ\n\nCom a Mentoria Premium, você não vai receber acompanhamento genérico ou em grupo.\n\nVocê vai ter:\n✔️ Um plano de estudos 100% personalizado\n✔️ Acompanhamento individual comigo\n✔️ Estratégia validada na prática\n✔️ Suporte completo (inclusive no emocional)\n✔️ Direcionamento até atingir nível de aprovação (85%+)\n\nSem promessas milagrosas. Sem enrolação.\nApenas o que realmente funciona.\n\n💰 Concursos com salários de até R$20.000 estão ao seu alcance — mas você precisa do caminho certo.\n\n👉 Clique agora para tirar um diagnóstico e conhecer a Mentoria Premium",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1113784667905002.jpg"
+}

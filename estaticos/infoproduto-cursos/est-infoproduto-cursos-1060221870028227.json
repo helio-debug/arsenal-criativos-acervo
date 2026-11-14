@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1060221870028227",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre o catálogo com foto de aula",
+  "formato": "novo:Chamada de formação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma mulher sorrindo e estendendo um sino para a câmera ocupa o topo. Um degradê branco abre espaço para uma apresentação da escola e uma pergunta em fonte serifada itálica.",
+  "por_que_funciona": [
+    "O sino em primeiro plano cria profundidade e chama atenção para a cena.",
+    "O degradê branco permite ler a mensagem sobre a fotografia.",
+    "A pergunta em fonte grande introduz a descoberta de outros cursos."
+  ],
+  "quando_usar": "Para apresentar o catálogo a pessoas que já conhecem a escola e precisam escolher uma modalidade.",
+  "estrutura_texto": "Que a [escola] é [atributo comprovado] você já sabe,\nmas será que conhece todos os nossos [cursos]?",
+  "legenda": "Há opções de [curso] para diferentes objetivos, de [formato breve] a [acompanhamento individual]. Veja as modalidades e comente [palavra-chave] para receber ajuda na escolha.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada com foto autorizada de uma pessoa sorrindo em ambiente de aula na parte superior, segurando um objeto relacionado à atividade em primeiro plano. Faça transição suave para branco na base. Use introdução em fonte sem serifa e pergunta grande em serifada itálica, com linha fina colorida abaixo. Não invente liderança de mercado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1060221870028227",
+    "anunciante": "Vox2you Curitiba Cristo Rei",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-20",
+    "dias_no_ar": 117,
+    "variacoes_ativas": 1,
+    "texto_original": "Tem curso da Vox2you pra cada tipo de objetivo: do intensivo de fim de semana ao acompanhamento mais completo com mentoria individual. 🎙️\nPassa o dedo e descobre qual combina com o seu momento.\nComenta \"ORATÓRIA\" que a gente te ajuda a escolher o ideal pra você! ✨",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1060221870028227.jpg",
+  "formato_novo_def": "Peça editorial de divulgação de curso ou mentoria, com nome da formação, chamada principal, benefícios e convite de contato em composição gráfica própria."
+}

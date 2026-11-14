@@ -1,0 +1,97 @@
+{
+ "id": "vid-painel-material-real-e-cartao-com-cabeca",
+ "titulo": "Painel com material real em cima e apresentador num cartão com a cabeça saindo",
+ "formato_video": "painel-material-real",
+ "nichos": [
+  "mentoria-high-ticket",
+  "ia-ferramentas",
+  "marketing-trafego",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "aula-ou-live-gratuita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "45-55s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Painel superior com foto real do material num notebook claro junto à janela; cartão do apresentador embaixo, cabeça ultrapassando a borda.",
+   "fala": "Pra começar em [atividade], eu mostro este material antes de escolher [decisão].",
+   "texto_tela": "COMECE AQUI"
+  },
+  {
+   "tempo": "5-14s",
+   "cena": "Recorte ampliado do primeiro item; mão aponta no material. Apresentador permanece no cartão inferior.",
+   "fala": "Primeiro, encontre [critério de escolha]. Aqui, [detalhe visível] indica [o que observar].",
+   "texto_tela": "[CRITÉRIO]"
+  },
+  {
+   "tempo": "14-24s",
+   "cena": "Painel troca para tela real de uma etapa do produto; destaque acompanha o cursor ou dedo.",
+   "fala": "Depois, faça [ação inicial] com [produto]. Neste exemplo, eu preenchi [campo] e recebi [saída demonstrável].",
+   "texto_tela": "[AÇÃO]"
+  },
+  {
+   "tempo": "24-34s",
+   "cena": "Ampliação do resultado real, com dados de terceiros ocultos. Legenda de uma ou duas palavras por vez.",
+   "fala": "Antes de avançar, confira [critério de qualidade]. Se aparecer [falha concreta], ajuste [parte] e teste de novo.",
+   "texto_tela": "CONFIRA [ITEM]"
+  },
+  {
+   "tempo": "34-44s",
+   "cena": "Painel reúne os recortes já vistos; apresentador faz gesto curto de sequência.",
+   "fala": "Esse é o caminho que eu ensino em [aula gratuita]. Lá eu mostro [demonstração específica] do início ao fim.",
+   "texto_tela": "AULA GRATUITA"
+  },
+  {
+   "tempo": "44-55s",
+   "cena": "Convite com imagem real da aula; cartão inferior fica visível e aponta para a ação.",
+   "fala": "Pra assistir, comente [palavra-chave]. Eu envio [acesso à aula] com [condição de acesso]. Siga o perfil pra ver os próximos exemplos.",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "hook": {
+  "falado": "Pra começar em [atividade], eu mostro este material antes de escolher [decisão].",
+  "texto_tela": "COMECE AQUI",
+  "visual": "Painel superior com foto real do material num notebook claro junto à janela; cartão do apresentador embaixo, cabeça ultrapassando a borda."
+ },
+ "por_que_funciona": [
+  "O dedo apontando para o infográfico no notebook indica onde olhar dentro de um material com vários tópicos.",
+  "A luz da janela e a mesa ao redor deixam visível que há uma tela física sendo apresentada.",
+  "Os frames variam entre o notebook inteiro e recortes laterais do mesmo conteúdo, permitindo orientar a atenção por região.",
+  "A fala organiza a explicação em pontos numerados enquanto mantém o material como referência visual."
+ ],
+ "quando_usar": "Para quem vende uma aula, curso ou método e tem um material real que pode demonstrar. Use antes da inscrição, quando a pessoa ainda precisa entender uma etapa do processo.",
+ "roteiro_modelo": "Pra começar em [atividade], eu mostro este material antes de escolher [decisão].\n\n[pausa curta; corte]\n\nPrimeiro, encontre [critério de escolha]. Aqui, [detalhe visível] indica [o que observar].\n\n[pausa curta; corte]\n\nDepois, faça [ação inicial] com [produto]. Neste exemplo, eu preenchi [campo] e recebi [saída demonstrável].\n\n[pausa curta; corte]\n\nAntes de avançar, confira [critério de qualidade]. Se aparecer [falha concreta], ajuste [parte] e teste de novo.\n\n[pausa curta; corte]\n\nEsse é o caminho que eu ensino em [aula gratuita]. Lá eu mostro [demonstração específica] do início ao fim.\n\n[pausa curta; corte]\n\nPra assistir, comente [palavra-chave]. Eu envio [acesso à aula] com [condição de acesso]. Siga o perfil pra ver os próximos exemplos.",
+ "tomadas_celular": [
+  "Plano do notebook sobre mesa junto à janela, câmera na altura da tela e exposição ajustada para evitar reflexo, 5s.",
+  "Close de mão apontando um item do material, luz difusa lateral, 9s.",
+  "Filme a tela de perto mostrando uma ação do produto; trave foco e exposição para manter legibilidade, 10s.",
+  "Close do resultado com dados pessoais ocultos, luz de janela sem reflexo, 10s.",
+  "Plano frontal do apresentador do peito para cima contra parede lisa, luz frontal suave; grave 55s para recortar o fundo e usar no cartão.",
+  "Plano detalhe da página da aula no celular ou notebook, luz difusa e aparelho firme, 11s."
+ ],
+ "caminho_ia": "Monte o painel no CapCut com capturas reais fornecidas pelo comprador e um avatar recortado num cartão inferior, com a cabeça acima da borda. Use voz sintética ou clonada com autorização. O Runway pode criar planos de apoio, sem fabricar provas ou interfaces funcionais. Prompt 1: \"Vertical 9:16, close-up of an unbranded laptop on a desk beside a bright window, blank screen reserved for [product material] compositing, hand pointing at upper screen, soft daylight, locked exposure, 5 seconds.\" Prompt 2: \"Vertical 9:16, front-facing original adult presenter explaining [product], medium close-up, plain background, soft key light, clear head silhouette for masking, restrained gestures, no text, 8 seconds.\" Insira material verdadeiro no painel e sincronize legendas curtas com a voz.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nVídeo de 55s com painel de material real em cima e apresentador num cartão menor embaixo, cabeça passando da borda. Essa composição é a adaptação pedida; os frames mostram notebook e mão, sem rosto. Abra numa decisão concreta; mostre escolha, execução e conferência; convide para aula gratuita e palavra-chave. Troque recortes a cada 2 a 6s e use legendas de 1 a 2 palavras, sem cobrir o painel. Tom didático e direto. Use apenas telas e exemplos reais do meu produto; peça o material que faltar. Não copie infográfico, título, tema de aplicativos, números, identidade ou promessa financeira da referência. Escreva em pt-BR falado, com frases curtas e campos [adaptáveis]. Evite antítese vazia, perguntas decorativas, superlativos sem prova e promessas não comprovadas. Use só os dados fornecidos do meu produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja como eu faço [ação] com [produto]. O material do vídeo mostra [etapa demonstrada]. Na [aula gratuita], vou executar [exemplo] do início ao fim. Comente [palavra-chave] para receber [acesso e condição].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-48103563",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-painel-material-real-e-cartao-com-cabeca/frames/f1.jpg",
+    "videos/vid-painel-material-real-e-cartao-com-cabeca/frames/f2.jpg",
+    "videos/vid-painel-material-real-e-cartao-com-cabeca/frames/f3.jpg",
+    "videos/vid-painel-material-real-e-cartao-com-cabeca/frames/f4.jpg",
+    "videos/vid-painel-material-real-e-cartao-com-cabeca/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-2304530280382165",
+  "tipo": "estatico",
+  "titulo": "Lista de demandas com chamada para atendimento",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul com cabeçalho de terapia e mentoria e cinco faixas brancas acompanhadas de checks. A base reúne chamada promocional, abordagem religiosa e modalidades de atendimento.",
+  "por_que_funciona": [
+    "Os cinco checks organizam diferentes demandas de relacionamento em uma leitura rápida.",
+    "As faixas brancas destacam cada tema sobre o fundo azul.",
+    "A tarja vermelha concentra a atenção no valor promocional.",
+    "A indicação de vídeo e presencial esclarece as formas de atendimento."
+  ],
+  "quando_usar": "Para divulgar atendimento individual ou de casal, apresentando temas trabalhados e uma condição comercial real.",
+  "estrutura_texto": "[SERVIÇO]\n[INDIVIDUAL OU CASAL]\n[ABORDAGEM]\n✓ [DEMANDA 1]\n✓ [DEMANDA 2]\n✓ [DEMANDA 3]\n✓ [DEMANDA 4]\n✓ [DEMANDA 5]\n[CONDIÇÃO PROMOCIONAL]\n[RECURSOS DA ABORDAGEM]\n[MODALIDADES DE ATENDIMENTO]\n[CONVITE]",
+  "legenda": "Conheça o atendimento de [especialidade] com abordagem [abordagem]. Sessões para [público], com foco em [temas trabalhados], por [modalidades]. Consulte [condição promocional] e agende pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul, cabeçalho em área curva escura, título laranja e subtítulo branco. Organize cinco demandas em cápsulas brancas com checks pretos à esquerda. Finalize com faixa vermelha de oferta, selo inclinado e modalidades de atendimento. Use a IMAGEM 2 em um detalhe discreto, se pertinente; priorize o texto. Evite promessas de transformação garantida.",
+  "alerta_politica": "Evite atribuir ao leitor problemas emocionais ou conjugais e prometer resultados terapêuticos garantidos. Descreva a abordagem e a qualificação profissional com precisão.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2304530280382165",
+    "anunciante": "Mente Solution",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-18",
+    "dias_no_ar": 57,
+    "variacoes_ativas": 1,
+    "texto_original": "Olá !!!\nCom um valor muito baixo você fala diretamente com Especialistas em Relacionamento. Conosco você tem Atendimento Psico-cristão de Qualidade seja Presencial em SP ou On-line por Video em todo o Brasil.\n\nATENDIMENTO \n# Restauração do Relacionamento\n# Quero me Casar & ter Família\n# Superações & Força Emocional\n# Relacionamento Tóxico \n# Superações & Força Emocional\n# Passado - Traição - Divórcio\n# Filhos & Finança do Casal\n# Separação - Reconciliação - Recomeço\n# Harmonia & Cuidados \n# Zero Briga & Zero Discussão\n# Lutar Juntos ou Lutar Sozinho\n# Comunicação & Conecção\n# Juntos para Sempre\n\nAtendimento com Técnicas Psicológicas, Profissionais Cristãos e Ferramentas Práticas!\nChame no Whatsapp 011 98747-1608\nTempo de Mudança!\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-2304530280382165.jpg"
+}

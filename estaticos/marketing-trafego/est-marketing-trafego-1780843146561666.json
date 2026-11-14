@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1780843146561666",
+  "tipo": "estatico",
+  "titulo": "Aula e estrutura de quiz com mockups e preço",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Título preto e azul anuncia uma estrutura de quiz acima de notebook com aula, celular e caixa digital. Abaixo, três benefícios com ícones precedem o preço e informações de pagamento e acesso.",
+  "por_que_funciona": [
+    "Notebook com aula e celular com quiz mostram o conteúdo e uma aplicação do método.",
+    "O “5x” em azul concentra a atenção na alegação de resultado.",
+    "Três blocos com ícones resumem os benefícios logo abaixo dos mockups.",
+    "Preço em azul e avisos de acesso imediato facilitam localizar as condições de compra."
+  ],
+  "quando_usar": "Para cursos práticos ou kits digitais de funis, com demonstração do material e preço visível; substituir multiplicadores sem evidência por descrição concreta da entrega.",
+  "estrutura_texto": "[Nome do método]\nSeu [produto] com [benefício comprovável]\nusando [estrutura].\n[Mockups de aula e aplicação]\n[Benefício 1] | [Benefício 2] | [Benefício 3]\nAcesso por [preço]\n[Condições de pagamento e liberação].",
+  "legenda": "Use [estrutura de quiz] pronta para adaptar ao seu [produto]. Veja [aulas e materiais incluídos] e saiba como colocar o funil em prática. Toque em [CTA] para conhecer a estrutura completa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use proporção vertical com fundo branco e amplas margens superiores e inferiores. No miolo, posicione selo discreto, título preto com palavras em azul e mockups de notebook com aula, celular exibindo quiz e caixa do material. Abaixo, crie três colunas curtas com ícones azuis. Finalize com preço grande azul à esquerda e condições de pagamento e acesso à direita. Não reproduza nomes ou promessas numéricas da referência; destaque uma entrega concreta do produto informado.",
+  "alerta_politica": "Meta: a promessa “vendendo 5x mais” e alegações universais sobre nicho e ticket precisam de evidência e contexto. Evite resultados de vendas garantidos e títulos que sugiram faturamento assegurado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1780843146561666",
+    "anunciante": "Henrique Melo Ads",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1780843146561666.jpg"
+}

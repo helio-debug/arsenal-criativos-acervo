@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2520383178456353",
+  "tipo": "estatico",
+  "titulo": "Placas de direção com dois caminhos profissionais",
+  "formato": "Mídia de rua",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Duas placas em um poste apontam para direções opostas e contrapõem especialização e atuação generalista. Uma faixa azul identifica a formação no topo e um botão azul aparece abaixo.",
+  "por_que_funciona": [
+    "As setas opostas tornam a escolha de percurso visível.",
+    "As placas grandes concentram a mensagem em duas opções fáceis de ler.",
+    "A faixa azul destaca o tema da formação sobre o cenário urbano.",
+    "O botão azul repete a cor do cabeçalho e direciona para conhecer o curso."
+  ],
+  "quando_usar": "Para apresentar uma formação a profissionais que consideram aprofundar uma área de atuação.",
+  "estrutura_texto": "[Identificação da formação]\nSer especialista em [área] →\n← [Caminho profissional alternativo]\nConhecer [curso]",
+  "legenda": "Conheça a formação em [área] e veja [conteúdos], [modalidade] e [duração]. Consulte a programação em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie cenário urbano original com duas placas realistas num poste, uma acima da outra, apontando para lados opostos. Use placa superior azul-escura e inferior preta, texto branco em caixa alta, faixa azul de identificação no topo e botão azul na base. Adapte os caminhos à formação da IMAGEM 2 sem prometer renda ou superioridade profissional garantida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2520383178456353",
+    "anunciante": "Personal Trainer Academy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 2,
+    "texto_original": "🎓 Pós-graduação em Biomecânica, Musculação e Reabilitação Musculoesquelética\nO título que você precisa para aplicar a biomecânica de forma prática, se destacar no mercado e aumentar seu faturamento.\n\n✔️ Reconhecida pelo MEC\n✔️ 100% online, com aulas ao vivo e gravadas\n✔️ 18 meses de formação com especialistas de verdade\n✔️ Método EspecialistaPro com aplicação prática e avaliações ativas\n✔️ Marketplace exclusivo para alunos formados\n\n🔹 Credibilidade técnica + posicionamento de autoridade no mercado fitness e clínico.\n\n👉 Matrículas abertas. Bônus liberados enquanto durarem as vagas.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2520383178456353.jpg"
+}

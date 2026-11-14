@@ -1,0 +1,97 @@
+{
+ "id": "vid-narracao-sobre-tela-gravada",
+ "titulo": "Tela do celular ou computador gravada com narração explicando o passo",
+ "formato_video": "tela-celular",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "infoproduto-cursos",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "40-45s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Olha onde aparece [saída da tarefa] nesta tela.",
+  "texto_tela": "[Saída da tarefa] na tela",
+  "visual": "Interface ocupa o quadro. Um toque ou cursor destaca o campo de saída, como o dedo que aponta o dado no notebook da referência."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Abrir com close da saída na interface; marcador circular aponta um campo. Dados de demonstração identificados na própria tela.",
+   "fala": "Olha onde aparece [saída da tarefa] nesta tela.",
+   "texto_tela": "[Saída da tarefa]\nDados de demonstração"
+  },
+  {
+   "tempo": "4-12s",
+   "cena": "Voltar ao começo do fluxo e preencher um campo em tempo real. Captura vertical ou recorte legível da tela, sem rosto.",
+   "fala": "Vou começar com [entrada do exemplo]. Preencho [campo] e escolho [opção adequada]. Esse dado vai ser usado em [etapa seguinte].",
+   "texto_tela": "1. Insira [entrada]"
+  },
+  {
+   "tempo": "12-21s",
+   "cena": "Toque visível no comando principal. Deixar a operação acontecer sem acelerar e destacar o elemento que muda.",
+   "fala": "Agora eu toco em [comando]. A tela mostra [mudança observável]. Repare neste [campo ou elemento]: ele indica [significado concreto].",
+   "texto_tela": "2. Execute [ação]"
+  },
+  {
+   "tempo": "21-30s",
+   "cena": "Navegar até o detalhe da saída e abrir sua visualização. Manter a informação no centro; legenda branca na parte livre.",
+   "fala": "Aqui está [saída do exemplo]. Eu abro [detalhe] para conferir [critério de qualidade]. Neste teste, [limite ou condição de uso].",
+   "texto_tela": "3. Confira [critério]"
+  },
+  {
+   "tempo": "30-38s",
+   "cena": "Mostrar o próximo uso da saída: abrir, salvar ou consultar, conforme o produto. Um toque por explicação.",
+   "fala": "Com isso, dá para [próxima ação real]. Vou [comando final] e deixar [saída] disponível em [local de acesso].",
+   "texto_tela": "Use em [próxima etapa]"
+  },
+  {
+   "tempo": "38-45s",
+   "cena": "Segurar a tela final com a área de teste destacada. Encerrar sem mudar para uma fala frontal.",
+   "fala": "Para testar com [entrada do comprador], toque em [botão]. Veja [condições do teste] antes de começar.",
+   "texto_tela": "Teste [produto]\n[Condições de acesso]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame mostra um notebook voltado para a câmera e um dedo perto dos dados. Essa indicação dá um alvo concreto à frase inicial.",
+  "A tela escura do notebook contrasta com a sala clara; o objeto mostrado ganha destaque antes da explicação frontal.",
+  "As legendas brancas ficam próximas do centro e acompanham trechos curtos da fala; a leitura continua quando o notebook sai do enquadramento.",
+  "Nos frames seguintes, o enquadramento aproxima o rosto durante a explicação de prazo e convite. A referência separa a prova inicial da explicação; o modelo leva essa sequência para a própria tela."
+ ],
+ "quando_usar": "Para produtos cuja função possa ser mostrada em uma interface, como uma consulta, aula, configuração ou ferramenta. Use quando o público precisa ver uma tarefa acontecendo antes de testar.",
+ "roteiro_modelo": "Olha onde aparece [saída da tarefa] nesta tela.\n\n[Corte]\n\nVou começar com [entrada do exemplo]. Preencho [campo] e escolho [opção adequada]. Esse dado vai ser usado em [etapa seguinte].\n\n[Corte]\n\nAgora eu toco em [comando]. A tela mostra [mudança observável]. Repare neste [campo ou elemento]: ele indica [significado concreto].\n\n[Corte]\n\nAqui está [saída do exemplo]. Eu abro [detalhe] para conferir [critério de qualidade]. Neste teste, [limite ou condição de uso].\n\n[Corte]\n\nCom isso, dá para [próxima ação real]. Vou [comando final] e deixar [saída] disponível em [local de acesso].\n\n[Corte]\n\nPara testar com [entrada do comprador], toque em [botão]. Veja [condições do teste] antes de começar.",
+ "tomadas_celular": [
+  "Ative a gravação de tela do celular e capture o campo de saída por 4s, em retrato; luz externa não interfere na captura, use brilho confortável.",
+  "Grave o preenchimento da entrada por 8s, em captura nativa, fonte ampliada e notificações desligadas; nenhuma iluminação extra.",
+  "Capture o toque no comando e a resposta real por 9s, sem cortes de espera; enquadramento de tela inteira e sem luz externa necessária.",
+  "Abra o detalhe da saída por 9s, mantendo o campo importante no centro da captura; brilho constante, sem necessidade de luz de cena.",
+  "Grave a ação final por 8s, captura em retrato com área de texto livre no rodapé; nenhuma luz adicional.",
+  "Capture a tela de teste por 7s. Grave a narração no microfone do celular em quarto silencioso, sentado perto de cortina ou tecido; luz de janela basta se filmar algum apoio."
+ ],
+ "caminho_ia": "Sem gravar, use capturas fornecidas do próprio produto e monte um slideshow com cursor e zoom no CapCut. Uma voz sintética em pt-BR explica cada toque; voz clonada só com autorização. Para transições, use Runway com: \"Vertical 9:16 screen-only composition based on [product screenshot], locked camera, gentle digital push-in toward [output field], preserve supplied UI geometry, no invented labels, no logos from other products.\" Outro prompt: \"Vertical 9:16 interface explainer based on [product screen], animated cursor moving from [input field] to [action button], clean screen capture aesthetic, steady framing, no human presenter, no fabricated metrics.\" Se não houver capturas, gere um mockup e escreva SIMULAÇÃO na tela. Essa versão explica o fluxo; só uma execução real sustenta alegações de tempo e funcionamento.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte 45s de gravação de tela narrada, sem apresentador: saída em destaque (0-4s), entrada (4-12s), execução (12-21s), conferência (21-30s), próximo uso (30-38s), teste (38-45s). Voz prática, sincronizada com o toque ou cursor. Ritmo de execução real, uma ação por vez; não acelere para alegar velocidade. Recorte a interface para leitura em celular. Use legendas brancas curtas e rótulos numerados de ação. Adapte o gesto de apontar da referência para um marcador na tela. Não copie a fala frontal prolongada, o painel financeiro, valores, faturamento ou promessas de prazo. Use uma tarefa compatível com meu produto e identifique dados fictícios.\n\nUse pt-BR falado, frases curtas e dados verificáveis. Não copie nomes, pessoas, marcas, logotipos, valores, domínios, interfaces proprietárias ou frases da referência. Use apenas informações do meu produto; quando faltar um dado, marque [preencher]. Não invente prova, prazo ou benefício. Evite superlativos, perguntas decorativas, antíteses vazias e promessa de resultado.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Do [dado de entrada] até [saída]: veja o caminho na tela. Experimente [produto] com [condições do teste] em [botão].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f0d74447",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-narracao-sobre-tela-gravada/frames/f1.jpg",
+    "videos/vid-narracao-sobre-tela-gravada/frames/f2.jpg",
+    "videos/vid-narracao-sobre-tela-gravada/frames/f3.jpg",
+    "videos/vid-narracao-sobre-tela-gravada/frames/f4.jpg",
+    "videos/vid-narracao-sobre-tela-gravada/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

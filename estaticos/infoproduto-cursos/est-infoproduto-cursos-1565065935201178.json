@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1565065935201178",
+  "tipo": "estatico",
+  "titulo": "Graduação semipresencial com foto da unidade e bolsa de 50%",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de fachada de uma unidade educacional ocupa o topo. Na base branca, títulos vermelhos apresentam graduação semipresencial, bolsa de 50% durante o curso e curso de inglês gratuito.",
+  "por_que_funciona": [
+    "A fotografia da fachada apresenta uma unidade física ligada à oferta semipresencial.",
+    "O nome da modalidade aparece em faixa logo abaixo da foto.",
+    "O percentual de 50% recebe destaque dentro da condição de bolsa.",
+    "O selo matriculou, ganhou separa o incentivo de matrícula do restante do texto."
+  ],
+  "quando_usar": "Para campanhas locais de matrícula em graduação semipresencial com bolsa e benefício adicional documentados.",
+  "estrutura_texto": "[FOTO DA UNIDADE E IDENTIFICAÇÃO]\nGraduação [MODALIDADE]\nSua graduação em [CIDADE]\n[ATRIBUTOS DA MODALIDADE]\nMatriculou, ganhou!\nGaranta sua vaga com [PERCENTUAL] de bolsa durante [VIGÊNCIA]!\n+ [BÔNUS]\n[REGULAMENTO]\n[MARCA]",
+  "legenda": "Inscrições abertas para [período letivo] da graduação [modalidade] em [cidade]. Consulte a bolsa de [percentual] durante [vigência], o benefício de [bônus] e as regras da campanha. Fale com um consultor educacional em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com formas cinza muito suaves e vermelho como cor principal. Posicione uma foto da unidade da IMAGEM 2 no topo com cantos inferiores arredondados. Abaixo, adicione etiqueta de modalidade, chamada local em vermelho e bloco de oferta com selo de matrícula à esquerda e percentual de bolsa destacado à direita. Inclua bônus, regulamento legível e assinatura da marca fornecida. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1565065935201178",
+    "anunciante": "Uninta Semipresencial Sobral",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-09",
+    "dias_no_ar": 158,
+    "variacoes_ativas": 1,
+    "texto_original": "As inscrições para o nosso processo seletivo 2026.2 estão abertas, com bolsas de estudo de 50% durante todo o curso*! \n\nVem ser UNINTA Semipresencial🎓\n\nClique e fale com um consultor educacional!\nWHATSAPP\nInscrições Abertas!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1565065935201178.jpg"
+}

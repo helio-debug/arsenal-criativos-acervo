@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1685876449989929",
+  "tipo": "estatico",
+  "titulo": "Aplicativo médico com preço e benefícios em bloco amarelo",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "saas-app",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma mão segura um celular com a interface do aplicativo. A chamada azul divide espaço com um bloco amarelo de benefícios e preço, além de um selo de consultas gratuitas.",
+  "por_que_funciona": [
+    "O celular em uso mostra como acessar o serviço.",
+    "O bloco amarelo reúne disponibilidade, documentos e preço em uma área fácil de localizar.",
+    "O selo de consultas gratuitas cria uma segunda chamada visual na parte inferior."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de atendimento médico a pessoas comparando acesso, disponibilidade e custo.",
+  "estrutura_texto": "Baixe o app da [marca] e tenha [serviço] no seu celular!\n[Disponibilidade]\n[Benefício 1]\n[Benefício 2]\nApenas [preço]\n[Quantidade] [serviços gratuitos] [periodicidade]\n[Condição da promoção]",
+  "legenda": "Consulte um médico pelo celular com [serviço], disponível em [horários], por [preço e condição]. Documentos são emitidos quando houver indicação médica. Veja como acessar e confira [condições da oferta].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma mão com celular à esquerda e chamada grande à direita. Aplique azul nos títulos, fundo cinza claro e bloco amarelo arredondado com três benefícios e preço grande. Acrescente um selo inferior de oferta somente se comprovada e espaço para marca e canais de acesso. Não invente telas clínicas nem disponibilidade.",
+  "alerta_politica": "Meta: evitar atribuir doenças ao leitor ou prometer resultados. CFM: identificar o responsável médico e observar as regras de publicidade e telemedicina; documentos dependem de avaliação médica. Explicitar condições do preço e das consultas gratuitas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1685876449989929",
+    "anunciante": "Help Global Brazil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-27",
+    "dias_no_ar": 48,
+    "variacoes_ativas": 3,
+    "texto_original": "Ficar doente já é ruim, mas esperar horas para conseguir se consultar é pior ainda. 📱🩺\n\nDor de garganta, febre, mal-estar, diarreia, dor nas costas, no ouvido, sintomas que apareceram do nada… coisa que você não pode esperar até o dia seguinte e nem enfrentar horas em uma emergência.\n\nCom a Doutor Social, você pode falar com um médico 24 horas por dia, direto pelo celular, por apenas R$ 29,90.\n\nE, quando houver indicação médica, você pode receber receitas, atestados e outros documentos com assinatura digital e validade nacional.\n\nSem deslocamento. Sem sala de espera. Sem precisar reorganizar o seu dia para buscar atendimento.\n\n💙 E ainda são disponibilizadas 10 mil consultas gratuitas todos os meses*.\n\nDa próxima vez que você precisar de um médico, ele pode estar na tela do seu celular.\n\n📲 Baixe agora o app da Doutor Social pelo link da bio e conheça o serviço.\n\n*Consulte as regras e condições da promoção. Em situações de urgência ou emergência que exijam avaliação presencial imediata, procure o serviço de saúde adequado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1685876449989929.jpg"
+}

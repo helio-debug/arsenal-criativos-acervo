@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1137229758924353",
+  "tipo": "estatico",
+  "titulo": "Lançamento de aplicativo em cena cotidiana",
+  "formato": "Comunicado oficial",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "saas-app",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de pessoa usando um celular sobre uma cama com roupa estampada. Uma chamada branca anuncia o aplicativo, enquanto o convite para baixar aparece no rodapé com setas.",
+  "por_que_funciona": [
+    "O celular em uso demonstra o acesso ao aplicativo.",
+    "A cama e o tecido situam a oferta no universo de produtos para casa.",
+    "A frase curta no alto comunica o lançamento rapidamente.",
+    "As setas em bloco azul reforçam o convite no canto inferior."
+  ],
+  "quando_usar": "Para varejistas anunciarem um aplicativo e estimularem o primeiro download entre clientes.",
+  "estrutura_texto": "Nosso app está no ar\nVeja [BENEFÍCIOS] se ainda não baixou\n[INDICADOR VISUAL DE AÇÃO]",
+  "legenda": "[Benefícios do app, como cupons e favoritos] estão no aplicativo de [marca]. Baixe para [sistemas disponíveis] em [link] e confira [novidades].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma fotografia de uso cotidiano: mãos segurando um celular sobre uma superfície ligada à categoria do produto. Mostre uma tela coerente com o app fornecido, sem inventar funcionalidades. Use luz natural, cores suaves, chamada branca curta no terço superior e convite pequeno no canto inferior com bloco de cor e setas. Preserve contraste e legibilidade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1137229758924353",
+    "anunciante": "Karsten",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-13",
+    "dias_no_ar": 32,
+    "variacoes_ativas": 1,
+    "texto_original": "Tem cupom, novidade chegando antes, favoritos, achadinhos e até ajuda para comprar. A pergunta agora é: por que o app Karsten ainda não está no seu celular? 👀\n\nBaixe para Android ou iOS pelo link da bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1137229758924353.jpg"
+}

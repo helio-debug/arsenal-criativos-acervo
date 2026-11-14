@@ -1,0 +1,36 @@
+{
+  "id": "est-moveis-decoracao-953196603788965",
+  "tipo": "estatico",
+  "titulo": "Placa decorativa com carro em estampa de pôster",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Placa preta de cantos arredondados sobre fundo branco. A estampa combina título dourado e vermelho, estrelas e carro emoldurado por papel rasgado.",
+  "por_que_funciona": [
+    "O fundo branco evidencia o formato da placa.",
+    "Os furos nos cantos mostram sua finalidade de fixação.",
+    "O papel rasgado direciona o olhar ao carro central."
+  ],
+  "quando_usar": "Lojas de decoração que precisam exibir estampa e formato de placas.",
+  "estrutura_texto": "[Título da estampa]\n[Edição]",
+  "legenda": "Decore [ambiente] com [placa temática]. Confira medidas, material e [oferta vigente] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Centralize a placa em visão frontal sobre branco com margens amplas. Preserve formato, furos e textura reais. Use somente a estampa autorizada do produto, sem reproduzir personagens ou títulos da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "953196603788965",
+    "anunciante": "Gadgets",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 7,
+    "texto_original": "SUPER DEALS  on DHgate🔥\nShop at the $1.99 store for the best discounts🎉",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-953196603788965.jpg"
+}

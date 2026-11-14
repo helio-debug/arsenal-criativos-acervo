@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1605845081096638",
+  "tipo": "estatico",
+  "titulo": "Tabela de evolução de aportes mensais",
+  "formato": "Print de tela",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Tela branca com ícones de navegação e uma tabela de projeção de patrimônio. O aporte mensal aparece destacado em azul e a taxa presumida fica no rodapé.",
+  "por_que_funciona": [
+    "O aporte em azul chama atenção antes dos valores da tabela.",
+    "As duas colunas permitem relacionar prazo e saldo rapidamente.",
+    "A sequência de um a 35 anos mostra a progressão no tempo.",
+    "O rodapé explicita a taxa usada na projeção."
+  ],
+  "quando_usar": "Para explicar aportes recorrentes, com premissas, riscos e limitações visíveis.",
+  "estrutura_texto": "Se você investir [APORTE] por mês.\nEM... VOCÊ [PODERÁ TER NA SIMULAÇÃO]\n[PRAZO] [SALDO ESTIMADO]\nRendimento hipotético: [TAXA]",
+  "legenda": "Aportes de [valor] podem ser simulados ao longo de [prazos] para visualizar diferentes cenários. Após organizar [reserva], defina [objetivos] e avalie alternativas compatíveis com [prazo e risco].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a linguagem de tela branca com ícones genéricos de navegação no alto, título preto, aporte destacado em azul, tabela de duas colunas e faixa cinza de premissas no rodapé. Use cálculos verificados e escreva projeção hipotética, sem afirmar que o saldo será obtido.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta. A expressão “você terá” e a taxa fixa de 1% ao mês devem ser qualificadas como hipótese, com indicação de impostos, custos e variação dos retornos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1605845081096638",
+    "anunciante": "Mirna Borges",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "Não é sobre “ter muito”.\nÉ sobre constância + estratégia.\n\nE se a pergunta é: onde investir?\nApós formar a reserva de emergência, é hora de estabelecer seus objetivos.\n\n✅ Objetivos de curto prazo\n(até 1 ano, como uma viagem ou comprar um eletrônico)\nOnde investir: renda fixa com prazo definido\n(CDB, LCI, LCA ou Tesouro Selic, conforme o prazo).\n\n✅ Objetivos de médio prazo\n(até 5 anos, como comprar um carro)\nOnde investir: renda fixa com prazo definido\n(CDB, LCI, LCA ou Tesouro Prefixado, conforme o prazo).\n\n✅ Objetivo de longo prazo\n(aposentadoria, geração de renda)\nO que você precisa: longo prazo e constância\nOnde investir: boas empresas pagadoras de dividendos e bons fundos imobiliários\n(Carteira MW Ações Renda e Carteira MW FIIs).\n\n✅ Investimento para filhos\n(5, 10, 15+ anos)\nOnde investir: Carteira MW Ações Valorização da Money Wise Research.\n\nQuando você conhece o seu objetivo, tem constância e a estratégia certa, o resultado aparece.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1605845081096638.jpg"
+}

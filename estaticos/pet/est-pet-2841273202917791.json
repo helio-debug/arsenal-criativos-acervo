@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2841273202917791",
+  "tipo": "estatico",
+  "titulo": "Saco de ração isolado em fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Saco de alimento para cães em perspectiva, isolado em fundo branco. A embalagem combina verde e branco, foto de cachorro, lista de atributos e peso em destaque.",
+  "por_que_funciona": [
+    "O fundo branco deixa a embalagem como único foco.",
+    "A fotografia do cachorro identifica o público do produto.",
+    "A lateral visível mostra volume e formato do saco.",
+    "O peso destacado ajuda a reconhecer a apresentação comercial."
+  ],
+  "quando_usar": "Para catálogo, remarketing e apresentação de uma embalagem reconhecível, com informações verificadas sobre a alimentação.",
+  "estrutura_texto": "[Categoria]\n[Marca]\n[Linha do produto]\n[Características da fórmula]\n[Público animal]\n[Peso líquido]",
+  "legenda": "Conheça [alimento] para [espécie e fase de vida]. Confira [composição], [peso] e as orientações de alimentação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre somente a embalagem da IMAGEM 2 sobre fundo branco, em perspectiva de três quartos, com sombra suave e amplo respiro. Preserve a legibilidade do rótulo, da indicação de espécie e do peso. Mantenha cores e identidade do próprio produto. Não acrescente alegações de tratamento de coceira, parasitas ou outras doenças.",
+  "alerta_politica": "Alimentos para animais seguem as regras aplicáveis do MAPA. Alegações nutricionais e funcionais precisam de respaldo; não atribua ao alimento ação contra pulgas ou tratamento de doenças sem enquadramento e autorização adequados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2841273202917791",
+    "anunciante": "Zenpet",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-23",
+    "dias_no_ar": 144,
+    "variacoes_ativas": 1,
+    "texto_original": "Atenção, tutores que querem mais saúde e bem-estar para seus pets! 🐾\n\nSeu pet está com coceira, pulgas, estresse ou imunidade baixa?\nSaiba que muitos desses problemas podem ser cuidados com soluções naturais e seguras, sem agressões ao organismo.\n\nNa Zenpet, você encontra uma seleção pensada para cada necessidade:\n\n🐶 Soluções naturais para coceira e pele sensível\n🐱 Proteção contra pulgas e carrapatos sem química agressiva\n🐾 Apoio à imunidade e ao bem-estar do dia a dia\n💚 Alternativas naturais para ansiedade e estresse\n\nE o melhor:\n💳 5% de desconto no Pix\n💳 Até 3x sem juros no cartão\n🎁 10% OFF na primeira compra com o cupom PRIMEIRACOMPRA\n🚚 Entrega rápida para sua região\n\nMais do que produtos, são cuidados pensados para quem trata o pet com atenção de verdade.\n👉 Descubra a solução ideal para o seu pet agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2841273202917791.jpg"
+}

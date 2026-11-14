@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1940224380012913",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com cenário industrial e data de início",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Título de curso técnico em letras grandes ocupa a esquerda, enquanto um operador e máquinas industriais preenchem a direita. A data recebe contorno laranja e o rodapé reúne contato, botão e quatro atributos.",
+  "por_que_funciona": [
+    "A sigla em laranja é o maior elemento e identifica rapidamente a especialidade.",
+    "Operador, máquina e peças metálicas contextualizam a formação prática.",
+    "A data dentro de uma caixa destaca o início da turma.",
+    "Botão laranja e chamada para contato oferecem uma ação explícita."
+  ],
+  "quando_usar": "Para divulgar abertura de turma de formação técnica com início definido.",
+  "estrutura_texto": "[Instituição]\nCURSO TÉCNICO EM\n[Área]\nINÍCIO EM [data]\n[Aplicação profissional]\nFALE CONOSCO NO [canal]\nSAIBA MAIS\n[Atributos do curso]",
+  "legenda": "Nova turma de [curso técnico], com início em [data]. Aprenda [conteúdos] com [atividades práticas disponíveis]. Consulte [grade, certificação e condições] pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição industrial em azul escuro, com título condensado grande à esquerda e foto de profissional em atividade à direita. Destaque a especialidade e a data em laranja. No rodapé, inclua faixa de contato, botão Saiba mais e quatro atributos com ícones. Use apenas credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1940224380012913",
+    "anunciante": "CNC Treinamentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-08",
+    "dias_no_ar": 159,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 Quer entrar de verdade na área industrial e aprender uma profissão técnica valorizada?\n\nA CNC Treinamentos está com nova turma para o Curso Técnico em Usinagem CNC, com início em 23/09/26.\n\nNeste curso, você se prepara para atuar com máquinas CNC, interpretação de processos, programação e usinagem, desenvolvendo conhecimentos técnicos importantes para quem busca crescer na indústria.\n\n✅ Formação técnica de alto nível\n✅ Prática em máquinas CNC\n✅ Certificado reconhecido\n✅ Mais oportunidades para sua carreira profissional\n✅ Opção de fazer o Curso com Aulas Online ao Vivo ou Presencial em Curitiba/PR\n\n📲 Quer receber valores, datas, conteúdo do curso e condições de matrícula?\n\nDigite USINAGEM nos comentários ou clica no link abaixo da foto para receber todos os detalhes.\n\nCNC Treinamentos — formando profissionais para a indústria.\nWHATSAPP\napi.whatsapp.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1940224380012913.jpg"
+}

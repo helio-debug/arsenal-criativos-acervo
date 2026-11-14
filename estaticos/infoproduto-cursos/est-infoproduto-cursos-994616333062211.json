@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-994616333062211",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com carga horária e foto em recorte circular",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul com título branco e destaque amarelo para a gratuidade. Uma foto de reunião em recorte circular ocupa a direita; carga horária e certificado aparecem à esquerda.",
+  "por_que_funciona": [
+    "A faixa amarela com gratuito se destaca contra o fundo azul.",
+    "O título branco em duas linhas apresenta o tema com leitura rápida.",
+    "Carga horária e certificado aparecem em linhas separadas com ícones.",
+    "A foto de uma reunião contextualiza o tema de relações internacionais."
+  ],
+  "quando_usar": "Para atrair interessados em cursos livres gratuitos e apresentar uma opção de formação com duração definida.",
+  "estrutura_texto": "Curso de\n[TEMA]\n[MODALIDADE]\nGRATUITO\n[CARGA HORÁRIA]\n[CERTIFICADO]\n[MARCA/SITE]",
+  "legenda": "Encontre um curso gratuito de [área] para ampliar seus conhecimentos. Estude a distância, com [carga horária] e [condições do certificado]. Veja as opções e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul profundo com formas curvas discretas e detalhes amarelos no canto superior. Alinhe tema e modalidade à esquerda, com título branco forte. Use faixa amarela horizontal para a gratuidade, duas linhas inferiores com ícones para duração e certificado, e foto temática da IMAGEM 2 em grande recorte circular à direita. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "994616333062211",
+    "anunciante": "Grupo Uninter",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 Encontre agora um curso gratuito, de alta qualidade e online que seja a sua cara! 🎯\n\nA Uninter disponibiliza cursos de diversas áreas para você turbinar o seu currículo e alcançar grandes espaços no mercado de trabalho. ⚙ \n\nTemos cursos nas áreas da:\n\n ✅ Educação ✅ Negócios ✅ Politécnica  ✅ Jurídica  \n\nNão perca tempo! Seja Aluno da Uninter! Inscreva-se já! 📚",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-994616333062211.jpg"
+}

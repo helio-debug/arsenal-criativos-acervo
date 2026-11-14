@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1481526986694591",
+  "tipo": "estatico",
+  "titulo": "Curso de marketing em cartão recortado com cupom",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo preto, um cartão creme com cantos recortados apresenta o curso. Elementos rosa, setas, megafone, cupom inclinado e botão de desconto compõem a oferta.",
+  "por_que_funciona": [
+    "O cartão creme contrasta com o fundo preto e concentra a leitura no nome do curso.",
+    "O desconto em caixa rosa dá destaque ao incentivo financeiro.",
+    "O cupom em formato de ingresso apresenta o código de uso.",
+    "O botão com seta oferece uma ação direta após a leitura."
+  ],
+  "quando_usar": "Para campanhas de matrícula com cupom e desconto adicional, quando as condições de uso estiverem definidas.",
+  "estrutura_texto": "[MARCA]\nCurso de [TEMA]\nAprenda a [HABILIDADE] e [APLICAÇÃO]\ncom [VALOR] de desconto\nFORMAÇÃO [MODALIDADE E ATRIBUTOS]\nUse o cupom [CÓDIGO]\n[CTA]",
+  "legenda": "Aprenda a [planejar estratégias] e [criar conteúdos] no curso online de [tema]. Aproveite [desconto principal] e [desconto adicional] com o cupom [código], conforme as condições da campanha. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto e cartão creme com recortes arredondados na região central. Crie título preto grande, setas e caixas rosa, um pequeno megafone e um cupom rosa inclinado com código legível. Coloque um botão creme abaixo do texto de modalidade. Incorpore a IMAGEM 2 como pequeno elemento ilustrativo do curso sem disputar com o título. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1481526986694591",
+    "anunciante": "EBAC",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 2,
+    "texto_original": "Transforme sua paixão em carreira!\nAprenda a criar conteúdos que engajam e impulsionar marcas no digital com o curso de Social Media Marketing da EBAC.\n\n50% OFF + R$300 extra com cupom MARKETING300! \nInscreva-se agora e comece seu sucesso!\nCurso online de Social Media Marketing",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1481526986694591.jpg"
+}

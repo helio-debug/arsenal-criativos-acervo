@@ -1,0 +1,102 @@
+{
+ "id": "vid-comparacao-objetos",
+ "tipo": "video",
+ "titulo": "Objetos de tamanhos diferentes para explicar etapas e escopo",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "emagrecimento-fitness",
+  "suplementos",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Este objeto representa [primeira parte do processo].",
+  "texto_tela": "[Processo] em etapas",
+  "visual": "Apresentador sentado junto à mesa de madeira, pequeno objeto vermelho perto da lente. Título em faixas brancas."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Apresentador sentado junto à mesa de madeira, pequeno objeto vermelho perto da lente. Título em faixas brancas.",
+   "fala": "Este objeto representa [primeira parte do processo].",
+   "texto_tela": "[Processo] em etapas"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Plano médio com mesa visível; coloca o objeto pequeno ao lado de outro vermelho maior.",
+   "fala": "Aqui entra [segunda parte]. Ela acrescenta [tarefa concreta] ao processo.",
+   "texto_tela": "[Etapa 1] | [Etapa 2]"
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Apresenta objeto amarelo maior e o apoia ao lado dos dois vermelhos.",
+   "fala": "Este maior representa o conjunto: [escopo do produto]. Os tamanhos só ajudam a organizar a explicação.",
+   "texto_tela": "Tamanhos ilustrativos, sem escala de resultado"
+  },
+  {
+   "tempo": "15-22s",
+   "cena": "Enquadramento mais próximo das mãos; aponta para cada objeto, mantendo o rosto visível.",
+   "fala": "Com [produto], você começa por [ação inicial] e acompanha [critério observável]. Veja o que está incluído em cada etapa.",
+   "texto_tela": "[Ação inicial] → [Critério]"
+  },
+  {
+   "tempo": "22-30s",
+   "cena": "Corte para apresentador em pé no ambiente de aplicação, sem pessoas identificáveis ao fundo.",
+   "fala": "Abra a página do [produto] para conferir [conteúdo ou composição] e as orientações de uso.",
+   "texto_tela": "Confira o conteúdo e as orientações"
+  }
+ ],
+ "por_que_funciona": [
+  "O objeto vermelho perto da lente ocupa o primeiro plano já na abertura.",
+  "Dois objetos vermelhos e um amarelo maior ficam alinhados na mesa, permitindo apontar cada parte da comparação.",
+  "O amarelo contrasta com os objetos vermelhos e torna a entrada do terceiro elemento visível.",
+  "O último frame troca a mesa externa por um ambiente de prática, marcando a passagem da explicação ao convite."
+ ],
+ "quando_usar": "Para explicar etapas, módulos ou escopo de uma solução com apoio físico simples. Use no meio do funil, sem transformar o tamanho dos objetos em promessa de resultado corporal ou desempenho.",
+ "roteiro_modelo": "Este objeto representa [primeira parte do processo].\n\n[CORTE / PAUSA]\n\nAqui entra [segunda parte]. Ela acrescenta [tarefa concreta] ao processo.\n\n[CORTE / PAUSA]\n\nEste maior representa o conjunto: [escopo do produto]. Os tamanhos só ajudam a organizar a explicação.\n\n[CORTE / PAUSA]\n\nCom [produto], você começa por [ação inicial] e acompanha [critério observável]. Veja o que está incluído em cada etapa.\n\n[CORTE / PAUSA]\n\nAbra a página do [produto] para conferir [conteúdo ou composição] e as orientações de uso.",
+ "tomadas_celular": [
+  "Grave 4s sentado à mesa em plano médio, objeto vermelho perto da lente, sombra aberta e luz natural frontal.",
+  "Grave 5s colocando dois objetos vermelhos na mesa; enquadre rosto e mãos, com luz difusa.",
+  "Grave 6s adicionando um objeto amarelo maior, celular fixo e mesa inteira visível, mesma luz.",
+  "Grave 7s apontando os objetos em plano um pouco mais fechado, luz lateral suave sem sombra nas mãos.",
+  "Grave 8s em pé no local de aplicação, plano médio e luz frontal; para saúde ou estudo, use ambiente apropriado sem pacientes ou alunos identificáveis."
+ ],
+ "caminho_ia": "Gere as cenas no Sora ou Veo e acrescente narração sintética licenciada. Prompts: \"Vertical 9:16 medium shot of a generic presenter seated at an outdoor wooden table, holding a small red foam ball close to camera, soft open-shade daylight, shallow depth of field, no text, [product process] educational demonstration, 4 seconds.\" e \"Vertical 9:16 locked medium shot, hands arrange two red foam balls and one larger yellow foam prop on a wooden table, presenter face visible, consistent daylight, objects symbolize [product stages], no body imagery, no text, 6 seconds.\" Monte no CapCut com faixas brancas na abertura e legendas; escreva que a escala é ilustrativa. O objeto maior representa escopo, sem sugerir quilos perdidos.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto, sem reproduzir a identidade da referência.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nUse 5 blocos: 0-4, 4-9, 9-15, 15-22 e 22-30s. Pequeno objeto vermelho abre perto da lente; segundo vermelho representa outra etapa; amarelo maior representa escopo completo; a mão aponta a sequência; corte final para ambiente de aplicação. Tom didático e ritmo de uma ação física por bloco. Título preto em faixas brancas, depois legendas brancas curtas. Diga que os objetos são ilustrativos. Não copie alegações de obesidade, perda de gordura em prazo fixo, números de participantes ou recomendações de medicamentos. Adapte a comparação a etapas verificáveis, sem hierarquia inventada de eficácia. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltar informação. Não invente números, comprovações, depoimentos ou condições comerciais. Não copie pessoas, marcas, nomes, logotipos, contatos, cenários identificáveis ou falas literais da referência. Evite perguntas retóricas, promessas de resultado, superlativos sem prova e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Etapa 1] entra primeiro. Depois, [etapa 2]. No [produto], você encontra [escopo verificável]. Os objetos ilustram etapas, sem representar resultados. Confira os detalhes em [canal].",
+ "alerta_politica": "Meta: não usar antes/depois de corpo, promessas de resultado de saúde ou emagrecimento em prazo determinado, nem atribuir peso ou condição de saúde ao espectador. Objetos não devem simular gordura perdida ou eficácia garantida. ANVISA: suplementos não podem anunciar emagrecimento, cura ou tratamento; use apenas alegações autorizadas para a composição e condições de uso. Quando houver médico ou serviço médico, observe as regras de publicidade do CFM; não recomendar medicamentos ou manipulados como atalho.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b7bff7ec",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-comparacao-objetos/frames/f1.jpg",
+    "videos/vid-comparacao-objetos/frames/f2.jpg",
+    "videos/vid-comparacao-objetos/frames/f3.jpg",
+    "videos/vid-comparacao-objetos/frames/f4.jpg",
+    "videos/vid-comparacao-objetos/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b142bad5",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d28372d1",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

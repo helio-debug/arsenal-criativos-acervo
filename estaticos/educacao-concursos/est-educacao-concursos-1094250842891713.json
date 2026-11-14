@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1094250842891713",
+  "tipo": "estatico",
+  "titulo": "Perfil editorial com retrato em colagem",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo verde oliva reúne título serifado e breve biografia à esquerda. Um retrato em preto e branco aparece em colagem geométrica na parte superior direita.",
+  "por_que_funciona": [
+    "O retrato em preto e branco diferencia o perfil do fundo verde.",
+    "O título serifado em creme dá hierarquia ao tema do trabalho.",
+    "O nome pequeno acima do título identifica o perfil apresentado.",
+    "O parágrafo reúne cargos e instituições como sinais concretos de trajetória."
+  ],
+  "quando_usar": "Para projetos editoriais e instituições apresentarem trajetórias de especialistas em conteúdos de descoberta; a peça não explicita uma venda.",
+  "estrutura_texto": "[Nome do perfil]\n[Caracterização da trajetória]\n[Profissão], [nome] atua em [área]. [Cargos e contribuições verificáveis].",
+  "legenda": "Conheça a trajetória de [profissional], com atuação em [área]. Sua experiência inclui [pesquisas], [instituições] e [contribuições verificáveis]. Leia mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde oliva e bastante espaço vazio. À esquerda, nome pequeno sublinhado, título serifado creme em três linhas e biografia em fonte estreita legível. À direita, monte uma colagem vertical de recortes geométricos com o retrato autorizado da IMAGEM 2, em preto e branco, e pequenos fragmentos em verde. Não invente cargos ou credenciais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1094250842891713",
+    "anunciante": "projeto_notaveis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-12",
+    "dias_no_ar": 428,
+    "variacoes_ativas": 1,
+    "texto_original": "Sociólogo formado pela Escola de Sociologia e Política (FESPSP), José Pastore foi professor na Faculdade de Economia, Administração, Contabilidade e Atuária da Universidade de São Paulo (FEA-USP), onde realizou diversas pesquisas nas áreas das Relações do Trabalho e do Desenvolvimento Agrícola. \n\nOs conhecimentos adquiridos em anos de estudo levaram Pastore a colaborar em projetos da ONU, especialmente no Conselho de Administração da Organização Internacional do Trabalho (OIT). \n\nSua outra paixão, a música clássica, levou-o a integrar os conselhos da Orquestra Sinfônica do Estado de São Paulo (Osesp) e do Instituto Baccarelli. É presidente do Conselho de Emprego e Relações do Trabalho da FecomercioSP.\n\nSaiba mais em notaveis.fecomercio.com.br/",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1094250842891713.jpg"
+}

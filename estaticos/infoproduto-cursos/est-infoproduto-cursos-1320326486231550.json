@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1320326486231550",
+  "tipo": "estatico",
+  "titulo": "Curso de biscoitos com vitrine de embalagens",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Composição em creme e rosa combina título de curso, bandeja de biscoitos carimbados e fotos de embalagens para presente. Selos e uma faixa de benefícios conduzem ao botão rosa de inscrição.",
+  "por_que_funciona": [
+    "A bandeja mostra um resultado concreto que o curso ensina a produzir.",
+    "As embalagens com laços apresentam aplicações para presentear ou vender.",
+    "Os ícones separam receitas, sabores, renda e suporte em blocos visuais.",
+    "O botão rosa no rodapé concentra a chamada de inscrição."
+  ],
+  "quando_usar": "Para apresentar um curso culinário com foco em produção caseira e possibilidades de venda.",
+  "estrutura_texto": "[selos de qualidade]\nTransforme [ingredientes] em [resultado]\nCurso de [especialidade]\n[benefício das receitas]\n[receitas testadas] | [variedade] | [possibilidade de renda] | [suporte]\n[frase de aplicação]\nFaça sua inscrição e [próximo passo]",
+  "legenda": "Aprenda a preparar [especialidade] para consumir, presentear ou vender. O curso inclui [quantidade real] receitas, [conteúdo] e [bônus confirmados]. Veja o programa e faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme, detalhes florais suaves, título com letras escuras e palavra manuscrita rosa. Monte uma vitrine com foto grande de biscoitos à esquerda e coluna de embalagens à direita. Distribua selos pequenos no topo, benefícios com ícones na parte inferior e botão rosa de inscrição no rodapé. Evite promessas de lucro.",
+  "alerta_politica": "Meta: apresentar a oportunidade e os requisitos com clareza, sem garantir renda, lucro ou independência financeira. Ganhos dependem de atividade, custos e condições individuais; não sugerir emprego ou remuneração garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1320326486231550",
+    "anunciante": "Curso Biscoitos Caseiros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 2,
+    "texto_original": "👀 Quer fazer biscoitos como esses?\nAprenda no meu curso de Biscoitos! Mais de 25 receitas incríveis para vender muito, todos os dias. Receitas baratas e lucrativas.\n\nPerfeitos para quem gosta de comer biscoitos, para fazer para os amigos, família e até vender e faturar MUITO! 💰\n👉 CURSO COMPLETO + BÔNUS EXCLUSIVOS\nJá formei várias alunas, e agora chegou sua vez! Faça agora mesmo sua inscrição.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1320326486231550.jpg"
+}

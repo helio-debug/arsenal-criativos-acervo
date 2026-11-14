@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1824332885639365",
+  "tipo": "estatico",
+  "titulo": "Cartão na mesa com benefício de pontos",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Cartão azul centralizado sobre mesa posta clara, com óculos à esquerda. Texto azul acima apresenta pontos e formas de uso; chamada para abrir conta aparece embaixo.",
+  "por_que_funciona": [
+    "O cartão azul se destaca dos tons claros da mesa.",
+    "A taxa de pontos abre o texto e apresenta um benefício mensurável.",
+    "A mesa posta e os acessórios associam o produto a uma experiência cotidiana de consumo.",
+    "O CTA sublinhado na base direciona à abertura de conta."
+  ],
+  "quando_usar": "Para divulgar cartão com programa de pontos a quem compara benefícios e critérios de contratação.",
+  "estrutura_texto": "[PONTOS POR UNIDADE DE GASTO]\n[FORMAS DE UTILIZAR OS PONTOS]\n[PRODUTO]\n[CHAMADA DE POSICIONAMENTO]\n[CTA]",
+  "legenda": "Conheça [cartão] e confira [benefícios de acesso a salas e acompanhantes], conforme [regras do programa]. Consulte elegibilidade, tarifas e condições para solicitar. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma cena horizontal de mesa posta em tons bege, com óculos à esquerda e louças nas bordas. Centralize o produto da IMAGEM 2 em azul. Acima, benefício numérico e três linhas de apoio em azul escuro; abaixo, chamada curta e CTA sublinhado com seta. Inclua condições legíveis apenas quando fornecidas.",
+  "alerta_politica": "Meta: não sugerir aprovação garantida nem condições de crédito sem comprovação. Informar análise, elegibilidade, tarifas e condições aplicáveis; benefícios e limites precisam corresponder à oferta real.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1824332885639365",
+    "anunciante": "BTG Pactual",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-23",
+    "dias_no_ar": 114,
+    "variacoes_ativas": 2,
+    "texto_original": "Salas VIP DragonPass e LoungeKey ilimitadas para você e até 12 acompanhantes.\nO cartão mais completo do BTG\nO cartão completo do maior Banco de Investimentos da América Latina. Peça o seu.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1824332885639365.jpg"
+}

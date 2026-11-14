@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2098620124230658",
+  "tipo": "estatico",
+  "titulo": "Catálogo de graduação com preço diário",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Peça azul-escura reúne listas de cursos, preço diário em laranja e selo de primeira mensalidade grátis. Uma estudante ocupa a metade direita inferior.",
+  "por_que_funciona": [
+    "O preço laranja se destaca do fundo azul.",
+    "As categorias verdes organizam a lista extensa de cursos.",
+    "O selo inclinado evidencia a mensalidade promocional.",
+    "O botão inferior apresenta a inscrição como ação direta."
+  ],
+  "quando_usar": "Para divulgar matrículas de graduação com variedade de cursos e condições promocionais verificáveis.",
+  "estrutura_texto": "[Instituição]\nGraduação [modalidades]\nCursos a partir de [valor]/dia\n[Benefício promocional]\n[Categorias e cursos]\n[Polos]\nInscreva-se agora",
+  "legenda": "Comece sua graduação em [modalidade], com mensalidades a partir de [valor e periodicidade] e [condição promocional]. Confira cursos, polos e regras em [link de inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-escuro, título branco no topo, preço laranja em caixa contornada e selo verde de benefício. Distribua cursos em colunas por categoria e posicione estudante na metade direita inferior. Coloque botão de inscrição com contorno verde no rodapé. Use somente cursos e condições fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2098620124230658",
+    "anunciante": "Instituto Educar - Educação e Carreira",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-15",
+    "dias_no_ar": 303,
+    "variacoes_ativas": 1,
+    "texto_original": "🎓 Quer fazer faculdade pagando pouco? Na UNISA EAD, você começa sua graduação com mensalidades a partir de R$ 4,29/dia!\n\n📚 Cursos reconhecidos pelo MEC\n💻 100% online, com flexibilidade para sua rotina\n💰 Investimento acessível para transformar seu futuro\n\nNão perca tempo! Garanta sua vaga agora. 🔗 Cadastre-se!\n\n#UNISAEAD #FaculdadeAcessível #SeuFuturoComeçaAqui\n⏰ Comece sua graduação ainda em 2025\nA 1ª mensalidade por nossa conta",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2098620124230658.jpg"
+}

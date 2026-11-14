@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-24204474799227141",
+  "tipo": "estatico",
+  "titulo": "Vaga de vendedor com equipamento e condições",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Anúncio vermelho entre faixas pretas, com chamada de renda extra, carrinho de sorvete à esquerda e quadro de condições à direita. Contato e identificação do negócio aparecem no rodapé.",
+  "por_que_funciona": [
+    "O carrinho com guarda-sol mostra o equipamento usado na atividade.",
+    "O quadro vermelho escuro separa a lista das demais informações.",
+    "O percentual de comissão torna uma condição comercial explícita.",
+    "O ícone de mensagem junto ao número indica o canal de candidatura."
+  ],
+  "quando_usar": "Para recrutar vendedores sazonais com condições de comissão, logística e disponibilidade já estabelecidas.",
+  "estrutura_texto": "Procurando [oportunidade]?\nEstamos selecionando!\nVAGA PARA [FUNÇÃO]\n· [Forma de remuneração]\n· [Comissão]\n· [Condição de taxas]\n· [Apoio logístico]\n· [Disponibilidade]\n[Contato]\n[Empresa]",
+  "legenda": "Há oportunidades para [atividade] em [região]. Confira comissão de [percentual], [condições de custos] e [apoio logístico]. Fale com [canal] para conhecer os requisitos e a disponibilidade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie peça vertical com área central vermelha, chamada branca grande e apoio amarelo no topo. À esquerda, mostre o equipamento ou produto da IMAGEM 2; à direita, crie um painel vermelho escuro com título amarelo e lista branca. Na base, destaque contato com ícone de mensagem e identidade própria. Use somente condições comprovadas.",
+  "alerta_politica": "Meta: não garantir renda nem usar ganhos acima da média sem base verificável. Informar critérios da comissão, custos e natureza da relação comercial. Se caracterizar emprego, observar regras de anúncios de emprego e categoria especial quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "24204474799227141",
+    "anunciante": "Kibon Ubatuba - Praias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-21",
+    "dias_no_ar": 389,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 Quer fazer uma renda extra nesse verão? 🚨\nA Kibon está com oportunidade exclusiva para você vender os sorvetes mais amados do Brasil 🏖🍦\n\n✅ Ganhos acima da média\n✅ Comissão diária de 25%\n✅ Sem taxa de maquininha\n✅ Trabalhe nos seus dias livres ou finais de semana\n✅ Exclusividade Kibon em Ubatuba e Caraguatatuba\n\n👉 Nós levamos o carrinho até a praia para você começar a vender!\n\n💬 Chame agora no WhatsApp e garanta sua vaga!\nWHATSAPP\nQuero garantir minha vaga!\nClique no botão para mais informações!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-24204474799227141.jpg"
+}

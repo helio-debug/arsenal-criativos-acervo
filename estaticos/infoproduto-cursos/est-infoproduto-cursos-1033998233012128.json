@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1033998233012128",
+  "tipo": "estatico",
+  "titulo": "Programa executivo com título editorial e benefícios em faixas",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça clara com título serifado grande, destaque dourado para IA e indicação de público executivo. Três faixas cinza apresentam benefícios, seguidas de botão dourado e aviso de vagas limitadas.",
+  "por_que_funciona": [
+    "O título serifado ocupa a maior área e dá destaque imediato ao tema do programa.",
+    "A frase sobre alta liderança delimita o público sem exigir leitura dos benefícios.",
+    "As três faixas cinza organizam aplicações do conteúdo na tomada de decisão.",
+    "O botão dourado repete a cor do destaque do título e concentra a ação."
+  ],
+  "quando_usar": "Para divulgar educação executiva a lideranças que precisam avaliar aplicações e riscos de uma tecnologia.",
+  "estrutura_texto": "[Marca]\n[Alegação de pioneirismo comprovável]\nPROGRAMA DE [TEMA]\nfeito exclusivamente para [público].\n[Benefício de decisão]\n[Visão sobre riscos]\n[Aplicação de valor]\nInscreva-se agora\nVagas limitadas",
+  "legenda": "O tema [tecnologia] já faz parte das decisões de [público]. O programa [nome] aborda [aplicações], [riscos] e critérios para avaliar oportunidades no negócio. Conheça o conteúdo e as condições de inscrição em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com curvas suaves em cinza muito claro. Centralize uma assinatura discreta no alto, seguida de título serifado grande em preto, com o tema principal em dourado. Abaixo, use subtítulo sem serifa com o público em negrito, três faixas cinza arredondadas com pequenas setas e um botão dourado com seta em círculo branco. Integre a IMAGEM 2 discretamente como apoio do programa, preservando a predominância tipográfica. Não reproduza alegações de pioneirismo sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1033998233012128",
+    "anunciante": "Saint Paul Escola de Negócios",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-15",
+    "dias_no_ar": 60,
+    "variacoes_ativas": 1,
+    "texto_original": "A inteligência artificial deixou de ser assunto de área técnica. Virou pauta de conselho.\nQuando o board pergunta o que a IA muda no negócio, quais riscos ela traz e onde estão as oportunidades reais, alguém precisa responder com critério, não com achismo. E a verdade é que poucos líderes construíram esse repertório até agora. Os riscos éticos, regulatórios e reputacionais já chegaram à mesa de decisão, mesmo para quem ainda não olhou para eles de perto.\nO Programa de Inteligência Artificial para C-Levels, Conselheiros e Acionistas, da Saint Paul, foi criado exatamente para isso. Você desenvolve um ponto de vista estratégico sobre IA, ganha critério próprio para avaliar riscos e oportunidades e passa a posicionar o tema como agenda de liderança na sua organização.\nSão 93 horas, 8 encontros presenciais e mentoria individual, ao lado de líderes que decidem no mesmo nível que você.\nConheça o programa e veja se ele faz sentido para o seu momento.\nO primeiro programa de IA para quem decide.\nSaint Paul. IA para quem decide de verdade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1033998233012128.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-782053883998444",
+  "tipo": "estatico",
+  "titulo": "Frase de afeto ao cachorro em tipografia grande",
+  "formato": "novo:Frase tipográfica",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Peça com frase sobre o vínculo com o cachorro sobre fundo azul e turquesa. O texto alterna branco e azul escuro, com assinatura pequena no canto inferior direito.",
+  "por_que_funciona": [
+    "O texto ocupa quase toda a peça e fica fácil de ler.",
+    "A mudança de branco para azul escuro dá destaque à parte sobre o cachorro.",
+    "O fundo sem fotografia concentra a atenção na frase afetiva."
+  ],
+  "quando_usar": "Para marcas pet criarem identificação e interação em campanhas de relacionamento.",
+  "estrutura_texto": "[Frase cotidiana sobre a vida],\n[complemento afetivo sobre o pet].\n[Assinatura da marca]",
+  "legenda": "A parte mais especial do meu dia: [momento com meu pet]. 💙 Conte nos comentários: [pergunta sobre o vínculo com o animal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma composição tipográfica sobre fundo azul e turquesa com textura suave. Use frase afetiva curta em letras grandes, alinhada à esquerda, com primeira parte branca e segunda em azul escuro. Deixe assinatura discreta no canto inferior direito; não invente benefícios de produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "782053883998444",
+    "anunciante": "Farmina Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-22",
+    "dias_no_ar": 753,
+    "variacoes_ativas": 1,
+    "texto_original": "A parte mais perfeita da minha vida: meu #pet 💙\n\n#farmina #farminapetfoods #quote",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-782053883998444.jpg",
+  "formato_novo_def": "Composição centrada em uma frase curta, com tipografia como elemento principal e assinatura discreta, sem demonstração de produto ou oferta."
+}

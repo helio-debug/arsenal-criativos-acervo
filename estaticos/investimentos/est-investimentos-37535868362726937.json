@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-37535868362726937",
+  "tipo": "estatico",
+  "titulo": "Carteira ilustrada em gráfico de pizza",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Título em verde e preto apresenta um gráfico de pizza com códigos de ativos, símbolos de prédios e logotipos. Um aviso discreto no rodapé declara que a peça não é recomendação.",
+  "por_que_funciona": [
+    "O gráfico circular reúne os ativos em uma única composição.",
+    "Os códigos ao redor permitem localizar cada fatia.",
+    "O título grande explica o tema antes da leitura do gráfico.",
+    "As cores distinguem visualmente os componentes."
+  ],
+  "quando_usar": "Para educação financeira introdutória sobre composição de carteira, com contexto de risco e critérios de seleção.",
+  "estrutura_texto": "[TÍTULO SOBRE FUNDAMENTO]\n[SUBTÍTULO SOBRE INVESTIMENTOS]\n[GRÁFICO COM CATEGORIAS OU ATIVOS]\n[AVISO EDUCACIONAL]",
+  "legenda": "Entenda como [classes de ativos] podem compor uma carteira conforme [objetivo], [prazo] e [perfil de risco]. Veja os critérios de [diversificação] e avalie os riscos antes de investir.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com textura leve, título superior verde e preto e gráfico circular central com setores coloridos. Prefira categorias genéricas e ícones simples; só represente percentuais se houver dados fornecidos. Inclua aviso educacional legível no rodapé.",
+  "alerta_politica": "Conteúdo financeiro: não prometer rentabilidade, renda garantida ou segurança absoluta. Explicitar riscos e caráter educacional; o aviso de que não é recomendação não substitui as obrigações aplicáveis da CVM.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "37535868362726937",
+    "anunciante": "robertoguedesm",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-01",
+    "dias_no_ar": 105,
+    "variacoes_ativas": 1,
+    "texto_original": "O básico bem feito na bolsa é o que constrói resultados consistentes no longo prazo. 👇\n\nNesse post, você vê um exemplo de carteira equilibrada, combinando ações sólidas como BBAS3, ITUB4, CMIG4 e PETR4, com fundos imobiliários como HGLG11, XPLG11, XPML11, KNCR11 e MXRF11.\n\nEssa diversificação é essencial para quem busca renda passiva e segurança:\n✔️ Bancos gerando lucro recorrente\n✔️ Energia trazendo previsibilidade\n✔️ FIIs pagando renda mensal\n✔️ Commodities fortalecendo a carteira\n\nNão é sobre escolher “a melhor ação”, é sobre montar um conjunto que trabalhe para você todos os meses.\n\nE a verdade é uma só:\n👉 Quem foca no básico bem feito, cresce no longo prazo.\n\nSe você quer uma carteira personalizada, ajustada ao seu objetivo e realidade, eu posso te ajudar.\n\n📩 Entre na minha mentoria individual personalizada\nPreencha o formulário no link da minha página e vamos montar sua estratégia juntos.\n\nOu comenta aqui: CARTEIRA que eu te ajudo 👇\n\n#viverderendimentos #rendapassiva #investimentos #dividendos #bolsadevalores",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-37535868362726937.jpg"
+}

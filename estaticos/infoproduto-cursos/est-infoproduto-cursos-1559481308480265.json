@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1559481308480265",
+  "tipo": "estatico",
+  "titulo": "Comissão em destaque com profissionais e casa",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "A chamada sobre comissão aparece no topo branco em dois tons de verde. Dois profissionais de roupa social ocupam a base, com uma casa em miniatura nas mãos da figura em primeiro plano e uma curva verde ao fundo.",
+  "por_que_funciona": [
+    "O número de comissão recebe o maior tamanho de texto e concentra a atenção.",
+    "A casa nas mãos deixa explícita a relação com a venda de imóveis.",
+    "O contraste entre branco e verde separa a chamada das figuras humanas."
+  ],
+  "quando_usar": "Para apresentar uma formação ligada ao mercado imobiliário, com informações contextualizadas sobre remuneração.",
+  "estrutura_texto": "[Possibilidade de comissão]\n[Atividade profissional]\n[Assinatura da instituição]",
+  "legenda": "Quer conhecer a atuação em [área profissional]? Veja como funciona o [curso online], os requisitos para atuar e as condições de remuneração no setor. Fale pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reserve o terço superior para uma chamada numérica em verde claro e complemento verde escuro. Na metade inferior, use duas pessoas em trajes profissionais, uma em primeiro plano segurando objeto ligado à formação. Inclua uma curva verde ampla na base. Só inclua percentuais documentados e contextualizados, sem garantir renda. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": "Meta: não apresentar percentual de comissão como renda garantida ou resultado típico do curso. Contextualizar condições, variações e requisitos profissionais; evitar promessas de ganho fácil.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1559481308480265",
+    "anunciante": "Escola Técnica São Vicente de Paula Campina Grande",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-18",
+    "dias_no_ar": 241,
+    "variacoes_ativas": 1,
+    "texto_original": "🏠Curso de Corretor de Imóveis online.\n.\nGanhe Dinheiro, vendendo Imóveis 💰\n.\n✅Clique Agora e saiba mais Informações...",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1559481308480265.jpg"
+}

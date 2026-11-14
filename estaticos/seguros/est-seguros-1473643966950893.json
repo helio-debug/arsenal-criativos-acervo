@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1473643966950893",
+  "tipo": "estatico",
+  "titulo": "Preço inicial de seguro auto em bloco gigante",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Faixa roxa traz o nome da categoria, seguida de foto de um carro com capô aberto. Um bloco em degradê destaca o preço inicial, e a base reúne marcas de fornecedores.",
+  "por_que_funciona": [
+    "O número branco gigante faz do preço o foco da peça.",
+    "A foto do carro com capô aberto contextualiza uma situação de assistência.",
+    "O contraste entre roxo e ciano separa chamada e oferta.",
+    "A fileira de assinaturas na base comunica variedade de fornecedores."
+  ],
+  "quando_usar": "Para captar pedidos de simulação de seguro auto com preço inicial sujeito a perfil e coberturas.",
+  "estrutura_texto": "[Categoria de seguro]\n[Marca]\nA partir de\nR$ [valor]\n[Fornecedores autorizados]",
+  "legenda": "Seguro auto a partir de R$ [valor]/[período], conforme perfil e condições. Consulte [coberturas] e [assistências disponíveis]. Faça uma simulação gratuita em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo, chamada branca muito grande no topo e pequenos ícones tridimensionais de conversa. Posicione foto relacionada ao automóvel no centro e sobreponha à direita um retângulo arredondado em degradê ciano-azul com preço gigante e a expressão “a partir de”. Use a IMAGEM 2 como visual do serviço. Reserve o rodapé para assinaturas autorizadas e condições legíveis, diferenciando seguro de outras modalidades de proteção.",
+  "alerta_politica": "Meta: apresente preço, desconto e coberturas com condições verificáveis. Informe elegibilidade, análise de risco, franquias, limites e condições da seguradora; não prometa aceitação ou proteção irrestrita. Observe as regras da SUSEP e o CDC. Diferencie seguro de proteção veicular; não apresente associações de proteção como seguradoras nem sugira equivalência automática entre produtos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1473643966950893",
+    "anunciante": "Ozzi Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-10",
+    "dias_no_ar": 522,
+    "variacoes_ativas": 1,
+    "texto_original": "🚗 Seguro Auto a partir de R$149/mês – Proteção que Cabe no Seu Bolso! \nVocê sabia que pode proteger seu carro sem pesar no orçamento?\n\n💸 Planos a partir de R$149/mês\n🔐 Cobertura contra roubo, furto, colisão e muito mais\n📍 Assistência 24h em todo o Brasil\n⚙️ Sem burocracia e com análise rápida\n📱 Cotação 100% online, em poucos minutos!\n\n👉 Clique agora e descubra quanto você pode economizar.\n\nSimule grátis e veja o valor do seu seguro!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1473643966950893.jpg"
+}

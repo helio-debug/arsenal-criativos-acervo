@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-1321610600085151",
+  "tipo": "estatico",
+  "titulo": "Catálogo de camisetas com estampas de personagens",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Sete camisetas pretas com estampas de personagens são organizadas em grade sobre fundo claro. Quatro modelos maiores ocupam duas fileiras e três peças menores aparecem na base.",
+  "por_que_funciona": [
+    "A grade permite comparar as estampas em uma única imagem.",
+    "O fundo claro destaca o contorno das camisetas pretas.",
+    "As cores dos personagens diferenciam os modelos sem alterar o fundo das peças.",
+    "Os três modelos menores na base ampliam a variedade apresentada."
+  ],
+  "quando_usar": "Para apresentar uma coleção recém-lançada e conduzir o público à escolha de uma estampa.",
+  "estrutura_texto": "[Marca] × [Coleção]\n[Estampas e nomes dos modelos]\n[Crédito de licenciamento]",
+  "legenda": "[Coleção] disponível agora. Escolha entre [modelos ou estampas] e confira [tamanhos e disponibilidade] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma grade de catálogo sobre fundo cinza-claro, com quatro camisetas em duas fileiras e três peças menores na base. Use peças pretas com estampas autorizadas fornecidas pelo usuário. Reserve o topo para a identidade da coleção e a base para créditos necessários. Não reproduza os personagens da referência.",
+  "alerta_politica": "Use apenas personagens, estampas e elementos licenciados ou de autoria própria; não sugira colaboração oficial sem autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1321610600085151",
+    "anunciante": "Berzerk",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 1,
+    "texto_original": "CREATINA, PROTEÍNA E TUDO O QUE HÁ DE BOM…\n\nBerzerk x As Meninas Superpoderosas\n\n🚀Drop 01 Disponível agora.\n\nFlorzinha, Lindinha e Docinho, além do icônico Macaco Louco. \n\n🔗 Link na bio para garantir a sua antes que acabe.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-1321610600085151.jpg"
+}

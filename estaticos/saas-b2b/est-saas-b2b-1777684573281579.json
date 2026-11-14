@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1777684573281579",
+  "tipo": "estatico",
+  "titulo": "Lua em meia sombra apresenta causas ocultas de rotatividade",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma lua com crateras e metade sombreada ocupa a esquerda do fundo preto. A chamada branca se sobrepõe à lateral da lua e destaca o tema em uma faixa branca.",
+  "por_que_funciona": [
+    "A lua parcialmente iluminada traduz visualmente a expressão lado oculto.",
+    "A palavra final em preto sobre faixa branca concentra a atenção no tema.",
+    "O fundo preto e a chamada curta criam leitura com poucos elementos."
+  ],
+  "quando_usar": "Para abrir uma discussão sobre causas de rotatividade antes de apresentar uma solução de gestão de pessoas.",
+  "estrutura_texto": "O LADO OCULTO DO [PROBLEMA]",
+  "legenda": "Além de [causas visíveis], [problema] pode envolver [fatores pouco discutidos]. Investigue esses fatores com [abordagem] para orientar [decisão de gestão].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo preto com uma lua grande e detalhada à esquerda, parcialmente sombreada. Sobreponha a chamada em letras brancas, alinhada à esquerda no centro direito. Destaque o nome do problema em preto dentro de uma faixa branca. Mantenha poucos elementos e amplo espaço vazio.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1777684573281579",
+    "anunciante": "Grou",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-12",
+    "dias_no_ar": 33,
+    "variacoes_ativas": 3,
+    "texto_original": "Assim como a Lua, o turnover nas empresas tem um lado visível e um oculto.\n\n🔍 O lado visível → Salário abaixo do mercado, falta de benefícios, poucas oportunidades de crescimento… os motivos óbvios que aparecem nas entrevistas de desligamento.\n\n🌑 O lado oculto → Cultura tóxica, liderança ruim, burnout, falta de reconhecimento… os motivos que poucos falam, mas que impactam (e muito!) na decisão de sair.\n\nO problema? Muitas empresas tentam reter talentos só com aumento salarial ou novos benefícios, sem investigar os reais motivos da saída. O resultado? O ciclo de turnover continua.\n\nComo revelar o lado oculto do turnover? \n✔️ Pesquisas anônimas e feedback contínuo\n✔️ Análises comportamentais para entender o engajamento\n✔️ Mapeamento de cultura organizacional\n✔️ Desenvolvimento de lideranças mais humanas e estratégicas\n\nEstá na hora de enxergar além! Sua empresa está olhando para o lado oculto do turnover? Nós podemos te ajudar a descobrir o real motivo da rotatividade e como solucioná-lo. Vamos conversar? 💬\n\n#GestãoDePessoas #RH #Turnover #Liderança #Engajamento",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1777684573281579.jpg"
+}

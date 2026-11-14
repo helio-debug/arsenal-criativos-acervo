@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-860530206552702",
+  "tipo": "estatico",
+  "titulo": "Retrato com produto e chamada de cadastro",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma mulher segura um frasco de cosmético sobre fundo bege, com efeito de névoa na transição para o texto. O convite de cadastro aparece em letras grandes alaranjadas, acima de uma fileira de logotipos.",
+  "por_que_funciona": [
+    "A mulher segurando o frasco vincula a oportunidade ao produto vendido.",
+    "O degradê claro abre espaço de leitura abaixo do retrato.",
+    "O cadastro em caixa alta e laranja domina a parte inferior.",
+    "A fileira de assinaturas mostra a abrangência do portfólio de revenda."
+  ],
+  "quando_usar": "Para captar interessados em revender um portfólio de beleza com suporte comercial.",
+  "estrutura_texto": "[selo de atendimento]\n[benefício ligado à categoria], [possibilidade comercial]\nCadastre-se agora!\n[assinaturas do portfólio]",
+  "legenda": "Conheça a oportunidade de revender [categorias de beleza] com [programa]. Consulte as condições de cadastro, o catálogo e o suporte disponível em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato de pessoa adulta segurando o produto da IMAGEM 2 sobre fundo bege. Faça transição suave para uma área clara inferior com chamada curta em vinho, CTA grande em laranja e assinatura própria no rodapé. Inclua selo discreto apenas se houver informação comprovada. Não prometa vendas ou lucro garantidos.",
+  "alerta_politica": "Meta: apresentar a oportunidade e os requisitos com clareza, sem garantir renda, lucro ou independência financeira. Ganhos dependem de atividade, custos e condições individuais; não sugerir emprego ou remuneração garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "860530206552702",
+    "anunciante": "vdjaragua",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-15",
+    "dias_no_ar": 152,
+    "variacoes_ativas": 1,
+    "texto_original": "🌿 Já pensou em empreender com a marca de beleza mais lembrada e amada do Brasil?\n\nPerfumes, maquiagens e cuidados pessoais que já fazem parte da rotina de milhões de pessoas: vender O Boticário é simples, rápido e muito lucrativo!\n\n💬 Seja um revendedor e transforme sua paixão por beleza em renda extra com todo o suporte do Grupo Odila.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-860530206552702.jpg"
+}

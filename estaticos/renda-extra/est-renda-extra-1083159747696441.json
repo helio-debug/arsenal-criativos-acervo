@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1083159747696441",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre vender de casa com três caminhos visuais",
+  "formato": "Interativo",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher usa o celular em uma mesa de casa. Acima dela, três quadros mostram gravação de produto, conversa por mensagem e edição de vídeo, ligados por linhas luminosas ao celular.",
+  "por_que_funciona": [
+    "A pergunta no topo convida o leitor a identificar uma opção pessoal.",
+    "Os três quadros mostram atividades distintas relacionadas a vendas digitais.",
+    "As linhas luminosas conectam as alternativas ao celular na mão da personagem.",
+    "O ambiente doméstico reforça visualmente a proposta de vender de casa."
+  ],
+  "quando_usar": "Para levar interessados em vendas digitais a um quiz que indica caminhos de aprendizado conforme seu momento.",
+  "estrutura_texto": "Qual é o seu caminho para [atividade] de [local]?\n[Opção visual 1] | [Opção visual 2] | [Opção visual 3]",
+  "legenda": "Existem diferentes formas de [atividade] sem sair de [local]. Responda ao quiz e conheça caminhos de aprendizado que combinam com [seu momento/interesses]. [CTA para responder].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma cena doméstica clara e acolhedora com pessoa adulta usando celular à mesa. Use a IMAGEM 2 nos quadros de possibilidades ou na cena, conforme a natureza do produto. No topo, coloque pergunta grande em azul-marinho. Logo abaixo, alinhe três pequenos quadros com atividades diferentes, bordas douradas e linhas suaves conectadas ao celular. Não reproduza a identidade da pessoa da referência. Não use dinheiro, saldos ou promessas de ganhos.",
+  "alerta_politica": "Meta: não prometa ganhos garantidos, renda rápida ou resultados financeiros sem comprovação. Apresente o quiz como orientação, sem assegurar emprego, vendas ou remuneração; informe com clareza a proposta e eventuais custos da próxima etapa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1083159747696441",
+    "anunciante": "Pablo Marçal - SP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-30",
+    "dias_no_ar": 76,
+    "variacoes_ativas": 13,
+    "texto_original": "O digital abriu novas formas de vender sem sair de casa. Responda ao quiz e descubra qual caminho combina mais com o seu momento.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1083159747696441.jpg"
+}

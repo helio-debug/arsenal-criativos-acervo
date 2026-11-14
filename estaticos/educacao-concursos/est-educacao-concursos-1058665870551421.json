@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1058665870551421",
+  "tipo": "estatico",
+  "titulo": "Título gigante dividido entre cor e fotografia",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte dividida entre vermelho sólido e foto urbana clara. O nome do curso, a instituição e o período atravessam as duas metades em letras muito grandes, com botão de inscrição abaixo.",
+  "por_que_funciona": [
+    "O título ocupa quase toda a metade superior e dá prioridade ao curso e ao período.",
+    "A alternância entre letras preenchidas e contornadas acompanha a divisão do fundo.",
+    "O botão branco com seta vermelha destaca a ação de inscrição.",
+    "A menção ao bairro combina com a fotografia urbana e situa a instituição."
+  ],
+  "quando_usar": "Para divulgar ingresso em cursos com localização relevante para a decisão do candidato.",
+  "estrutura_texto": "[CURSO]\n[INSTITUIÇÃO]\n[CIDADE E PERÍODO]\n[CHAMADA DE CARREIRA]\n[ATRIBUTO ACADÊMICO E LOCALIZAÇÃO]\nINSCREVA-SE ↗",
+  "legenda": "Inscrições abertas para [curso], turma [período]. Conheça [avaliação acadêmica comprovada] e [indicador de resultados verificável]. Ingresse por [modalidades de seleção]. Inscreva-se em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o quadrado verticalmente entre vermelho sólido e fotografia urbana em cinza muito claro da localização do produto. Sobreponha título tipográfico gigante, branco na área vermelha e com contorno vermelho na área clara. Use dois blocos curtos de apoio e botão retangular branco com seta diagonal. Reserve a base para a identidade própria.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1058665870551421",
+    "anunciante": "Mackenzie 1870",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 2,
+    "texto_original": "Direito 2027.1. Nota máxima no MEC e alto índice de aprovação na OAB. Ingresso por prova ou ENEM. Inscreva-se.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1058665870551421.jpg"
+}

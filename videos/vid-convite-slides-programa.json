@@ -1,0 +1,95 @@
+{
+ "id": "vid-convite-slides-programa",
+ "formato_video": "convite-evento",
+ "nichos": [
+  "eventos-lives",
+  "educacao-concursos",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "lancamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Convite com notebook, slides da programação e ingresso",
+ "duracao": "45-50s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Em [data], eu vou conduzir [evento] sobre [tema específico].",
+  "texto_tela": "[Evento] | [data]",
+  "visual": "Foto contextual com título central em fundo preto, seguida de apresentador à mesa com notebook."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Cartela sobre foto contextual dentro de um retângulo com cantos arredondados e margens pretas; entra a voz.",
+   "fala": "Em [data], eu vou conduzir [evento] sobre [tema específico].",
+   "texto_tela": "[Evento] | [data]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Plano lateral de quem apresenta sentado à mesa com notebook; janela ilumina o ambiente.",
+   "fala": "A proposta é sair com [entrega prevista: um plano preenchido], trabalhando um exemplo durante o encontro.",
+   "texto_tela": "[Entrega prevista]"
+  },
+  {
+   "tempo": "12-22s",
+   "cena": "Apresentador olha o notebook; slide do primeiro tema ampliado na parte superior do vídeo.",
+   "fala": "A primeira parte cobre [tema inicial]. Vamos usar [material ou dado] para entender [decisão que o participante precisa tomar].",
+   "texto_tela": "Parte 1 | [tema inicial]"
+  },
+  {
+   "tempo": "22-33s",
+   "cena": "Volta o olhar à câmera e gesticula; notebook segue à direita do quadro.",
+   "fala": "Depois, eu mostro [processo ensinado] e aplico cada etapa em [exemplo adequado ao público]. Você acompanha com [material de apoio].",
+   "texto_tela": "Parte 2 | [processo]"
+  },
+  {
+   "tempo": "33-41s",
+   "cena": "Retorna ao notebook; dois slides ampliados acima da pessoa mostram o exercício e o espaço de dúvidas.",
+   "fala": "No final, teremos [atividade] e um período para perguntas sobre o conteúdo apresentado.",
+   "texto_tela": "[Atividade] + perguntas"
+  },
+  {
+   "tempo": "41-50s",
+   "cena": "Cartela final com foto contextual escurecida, texto branco, destaque em amarelo e CTA na base.",
+   "fala": "Veja a programação completa e as condições do [lote atual] na página. Toque em saiba mais para reservar sua participação em [evento].",
+   "texto_tela": "[Data] | [modalidade]\nVeja a programação e reserve"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura usa uma foto de obra com título central dentro de margens pretas, sinalizando o tema antes da apresentação.",
+  "O notebook aberto aparece ao lado da apresentadora, dando um objeto concreto à explicação da programação.",
+  "Slides ampliados na parte superior permitem alternar a atenção entre o conteúdo e a fala à câmera.",
+  "A cartela final reúne texto branco, trecho amarelo e indicação de ingresso sobre foto escurecida, separando o convite da explicação."
+ ],
+ "quando_usar": "Para encontros ao vivo, aulas e eventos de mentoria que já tenham agenda e entrega definidas. Use na fase de inscrição, quando o público precisa conferir o que vai acompanhar antes de comprar.",
+ "roteiro_modelo": "[0-5s | corte e pausa breve]\nEm [data], eu vou conduzir [evento] sobre [tema específico].\n\n[5-12s | corte e pausa breve]\nA proposta é sair com [entrega prevista: um plano preenchido], trabalhando um exemplo durante o encontro.\n\n[12-22s | corte e pausa breve]\nA primeira parte cobre [tema inicial]. Vamos usar [material ou dado] para entender [decisão que o participante precisa tomar].\n\n[22-33s | corte e pausa breve]\nDepois, eu mostro [processo ensinado] e aplico cada etapa em [exemplo adequado ao público]. Você acompanha com [material de apoio].\n\n[33-41s | corte e pausa breve]\nNo final, teremos [atividade] e um período para perguntas sobre o conteúdo apresentado.\n\n[41-50s | corte e pausa breve]\nVeja a programação completa e as condições do [lote atual] na página. Toque em saiba mais para reservar sua participação em [evento].",
+ "tomadas_celular": [
+  "Filme 5s de um objeto ou espaço ligado ao tema, celular vertical fixo, luz natural difusa; use como fundo da abertura.",
+  "Grave 7s em plano lateral, sentado com notebook sobre a mesa, janela a 45 graus sem estourar o fundo.",
+  "Grave 10s olhando o primeiro slide no notebook, plano médio lateral e luz suave de janela.",
+  "Grave 11s explicando a etapa seguinte à câmera, notebook na borda direita, luz frontal lateral.",
+  "Grave 8s navegando pelos slides, celular próximo à altura dos olhos, exposição ajustada para a tela.",
+  "Filme 9s de fundo contextual com espaço livre para a cartela de inscrição, luz uniforme e câmera parada."
+ ],
+ "caminho_ia": "Use um avatar sentado com notebook para a apresentação e voz sintética autorizada. No Runway, gere: \"Vertical 9:16 medium side shot of a fictional educator seated at a wooden desk beside an open laptop, large window with diffused daylight, subtle hand gestures, locked smartphone camera, blank laptop screen for compositing, 7 seconds.\" Para a abertura e o fim: \"Vertical 9:16 contextual still-life related to [event topic], realistic [relevant objects] on a desk, soft daylight, static camera, ample negative space for typography, no logos, 5 seconds.\" Crie slides com imagens geradas e conteúdo real da programação; faça a sobreposição no CapCut, com cartela final branca e amarela sobre fundo escurecido.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 50s em seis blocos: 0-5 cartela com tema e data; 5-12 proposta concreta; 12-22 primeiro assunto e material usado; 22-33 processo e exemplo; 33-41 atividade final e perguntas; 41-50 ingresso. Use tom de quem explica a própria aula, ritmo de conversa e mudanças de imagem a cada assunto. Alterne notebook, olhar à câmera e slides ampliados no topo. Legendas brancas; na cartela final, branco com um destaque amarelo. Não copie o tema imobiliário nem a promessa de rentabilidade da referência. Adapte agenda e entrega ao produto informado, sem inventar virada de lote. Use pt-BR falado, frases curtas e campos [adaptáveis] onde faltar informação. Não invente provas, preços, datas, depoimentos ou condições. Não copie nomes, rostos, marcas, identidade visual, falas literais ou dados comerciais da referência. Evite superlativos, perguntas decorativas, antíteses vazias e fechos de efeito.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Em [data], [evento] vai abordar [tema]. Confira a programação, a atividade prevista e as condições de participação em [modalidade]. Inscrições em [CTA].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-989dd116",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-convite-slides-programa/frames/f1.jpg",
+    "videos/vid-convite-slides-programa/frames/f2.jpg",
+    "videos/vid-convite-slides-programa/frames/f3.jpg",
+    "videos/vid-convite-slides-programa/frames/f4.jpg",
+    "videos/vid-convite-slides-programa/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1511679760317008",
+  "tipo": "estatico",
+  "titulo": "Fórmula com três ativos em cenário cítrico",
+  "formato": "Rótulo e ingredientes",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Pote inclinado ao centro em cenário laranja com frutas cítricas e gotas. A palavra “creatina” ocupa o fundo, enquanto seis caixas laterais apresentam atributos da fórmula.",
+  "por_que_funciona": [
+    "O pote inclinado cria um foco central e mantém os ativos do rótulo em evidência.",
+    "As frutas e a paleta laranja associam visualmente o produto ao sabor.",
+    "As caixas laterais permitem ler os atributos separadamente.",
+    "A palavra de categoria ampliada identifica rapidamente o ingrediente em destaque."
+  ],
+  "quando_usar": "Apresentação de fórmula composta quando ingredientes, sabor e alegações estão confirmados no rótulo.",
+  "estrutura_texto": "[Categoria em destaque]\n[Atributo da fórmula]\n[Público ou contexto de uso]\n[Quantidade de ativos]\n[Outros atributos verificáveis]\n[Foto do produto com ingredientes e sabor]",
+  "legenda": "Conheça [produto], com [ativos declarados no rótulo] e sabor [sabor confirmado]. Confira [composição], [modo de uso] e [informações do fabricante] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário monocromático laranja, frutas compatíveis com o sabor real e gotas na embalagem. Posicione o pote inclinado no centro, uma palavra de categoria branca gigante ao fundo e seis caixas arredondadas laterais com atributos verificáveis. Preserve o rótulo da IMAGEM 2; confirme o sabor, pois referência e legenda podem divergir. Evite alegações de carência e promessas de longevidade.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio. Alegações sobre proteínas, músculos e ossos devem corresponder à composição e às condições autorizadas. Confirmar o sabor: a arte indica tangerina, enquanto a legenda menciona morango.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1511679760317008",
+    "anunciante": "Alobela Revolution",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-07",
+    "dias_no_ar": 191,
+    "variacoes_ativas": 1,
+    "texto_original": "Você já se cuida, mas sente que algo falta?\nSeu corpo pode estar precisando de mais do que a alimentação oferece.\nA solução é o Colágeno Tipo II + Creatina + Vitamina C da Alobela!\nFórmula limpa e eficaz com 3 ativos em um só. Sabor morango delicioso! \nQuer manter sua rotina ativa por muito tempo?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1511679760317008.jpg"
+}

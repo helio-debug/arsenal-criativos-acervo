@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1454245946399872",
+  "tipo": "estatico",
+  "titulo": "Foto de veículo com parcela em faixa contrastante",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de um SUV preto em uma loja ocupa a maior parte da peça. Um degradê azul conduz à base, onde modelo, ano e parcela aparecem em faixas com branco e amarelo.",
+  "por_que_funciona": [
+    "A foto grande mostra o veículo que dá contexto ao crédito.",
+    "A parcela em letras grandes ocupa uma faixa amarela de alto contraste.",
+    "Modelo e ano acima do preço delimitam o bem usado na simulação."
+  ],
+  "quando_usar": "Para divulgar carta de crédito para veículos com uma simulação associada a um modelo específico.",
+  "estrutura_texto": "[MODELO DO VEÍCULO] [VERSÃO] [ANO]\nPARCELA: R$ [VALOR]\n[MARCA]\n[MODALIDADE]",
+  "legenda": "Conheça as opções de [modalidade de crédito] para adquirir [veículo]. Simulação com parcelas de [valor], sujeita às condições do plano. Cadastre-se para consultar custos, prazos e critérios de análise.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto do veículo da IMAGEM 2 em destaque nos dois terços superiores. Aplique um degradê azul na transição para o rodapé. Coloque modelo e ano em branco e a parcela em uma faixa amarela larga; reserve a lateral inferior para a marca do usuário. Identifique que se trata de carta de crédito e acrescente condições legíveis.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1454245946399872",
+    "anunciante": "Cred MS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-20",
+    "dias_no_ar": 208,
+    "variacoes_ativas": 1,
+    "texto_original": "✅TEM SCORE BAIXO?\n✅ É AUTÔNOMO?\n✅ NAO APROVOU O FINANCIAMENTO?\n🚘 AQUI NÓS TEMOS A SOLUÇÃO PARA VOCÊ! 🫵🫵\n\n📲CLIQUE NO BOTÃO E CADASTRE-SE\n\nNÃO PERCA ESSA OPORTUNIDADE!!!\n\nA CRED MASTER MS TRABALHA EM VÁRIAS  MODALIDADES DE CRÉDITO. \nANALISAREMOS SEU PERFIL PARA TE ENQUADRAR NA MELHOR OPÇÃO DE CRÉDITO PARA VOCÊ.\n\n*Parcelas referentes a Carta de Crédito para veículos.\n📫Av. Fábio Zahran, 8324 - Vila Carvalho\n\nClique e fale conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1454245946399872.jpg"
+}

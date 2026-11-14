@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1623766258748735",
+  "tipo": "estatico",
+  "titulo": "Capa com representação de comprimidos e tema hormonal",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Representação tridimensional de quatro comprimidos sobre base roxa domina o topo. O nome do tema aparece em letras grandes, com subtítulo e botão de deslizar sobre fundo escuro.",
+  "por_que_funciona": [
+    "Os comprimidos em grande escala tornam o tema farmacológico reconhecível.",
+    "O contraste entre roxo luminoso e fundo escuro destaca o objeto central.",
+    "O título em caixa alta estabelece a hierarquia antes do subtítulo.",
+    "O botão contornado na base indica que há conteúdo adicional no carrossel."
+  ],
+  "quando_usar": "Como referência visual de capa educativa revisada sobre saúde hormonal, sem promover medicamento de prescrição ao público.",
+  "estrutura_texto": "[TEMA EDUCATIVO]\n[RECORTE DO TEMA]\n[DESCRIÇÃO INFORMATIVA SEM SUPERLATIVO]\nArraste para o lado",
+  "legenda": "Entenda [tema de saúde] e quais aspectos podem ser discutidos em uma avaliação individual. Deslize para conhecer [conteúdo educativo]. A indicação de qualquer tratamento exige avaliação de [profissional habilitado].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com degradê roxo, objeto ilustrativo da IMAGEM 2 em grande escala na metade superior e título condensado claro abaixo. Inclua subtítulo lavanda, explicação curta branca e CTA contornado na base. Adapte para educação em saúde sem exibir embalagem comercial nem afirmar superioridade terapêutica.",
+  "alerta_politica": "ANVISA: medicamentos sujeitos a prescrição não podem ser anunciados ao público geral. Usar esta composição apenas em conteúdo educativo sem promoção do medicamento. CFM/Meta: evitar alegações de superioridade, como “mais fisiológica”, e benefícios sem comprovação ou indicação individual.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1623766258748735",
+    "anunciante": "Dr. Leonardo Jacobsen",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-18",
+    "dias_no_ar": 241,
+    "variacoes_ativas": 2,
+    "texto_original": "Visit Instagram Profile",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1623766258748735.jpg"
+}

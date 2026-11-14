@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-988255367086025",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com prática clínica em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul quase preto com título grande da especialidade. Um cartão azul apresenta o teleambulatório, sobre foto de atendimento com prancheta e botão branco.",
+  "por_que_funciona": [
+    "O nome da especialidade em branco grande identifica o curso rapidamente.",
+    "O cartão azul isola o diferencial de prática com pacientes reais.",
+    "A foto da prancheta situa a oferta no contexto de atendimento.",
+    "O botão branco contrasta com a área escura e explicita o próximo passo."
+  ],
+  "quando_usar": "Para divulgar formação continuada a profissionais habilitados, destacando uma atividade prática real do curso.",
+  "estrutura_texto": "[Restrição de público]\n[Pós-graduação em]\n[Especialidade]\n[Formato de prática]\n[Diferencial da prática]\n[CTA para conhecer o curso]",
+  "legenda": "A [pós-graduação] oferece [atividade prática supervisionada] e [acompanhamento docente] para [público habilitado]. Conheça a metodologia e fale com [equipe de atendimento] para consultar a grade e as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição azul-marinho escuro com título branco grande no alto e subtítulo azul claro. Inclua selo discreto do público habilitado no canto superior direito. Sobreponha um cartão azul vivo com o diferencial a uma fotografia de atendimento na metade inferior. Use seta para baixo dentro de círculo branco e botão branco com texto azul. Não reproduza dados de pacientes.",
+  "alerta_politica": "Formação médica: descreva corretamente a habilitação e a supervisão da prática. Não sugira que a pós-graduação, por si só, concede título de especialista ou RQE; preserve a privacidade e o consentimento de pacientes.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "988255367086025",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 1,
+    "texto_original": "A saúde mental já faz parte da rotina de consultório e plantão de médicos de diferentes especialidades. Você sente segurança para conduzir casos psiquiátricos?\n\nNa Pós em Psiquiatria, você desenvolve segurança para atuar com práticas em teleambulatório com pacientes reais, mentoria individual com o Dr. Saulo Ciasca e metodologia focada no dia a dia da especialidade.\n\n👉 Fale com um consultor e conheça a Pós em Psiquiatria.\nInicie a Pós em Psiquiatria\nDomine o diagnóstico e tratamento dos principais transtornos psiquiátricos, com atendimento a pacientes reais em teleambulatório. Garanta sua vaga na Pós em Psiquiatria.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-988255367086025.jpg"
+}

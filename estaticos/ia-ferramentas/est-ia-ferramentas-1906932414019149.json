@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-1906932414019149",
+  "tipo": "estatico",
+  "titulo": "Comparação de post genérico e carrossel personalizado",
+  "formato": "Comparativo",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Dois exemplos de posts aparecem lado a lado sobre fundo escuro, com uma seta entre eles. Etiquetas vermelha e verde distinguem a peça genérica do carrossel com fotografia real.",
+  "por_que_funciona": [
+    "Os dois posts lado a lado permitem comparar fotografia e tratamento de texto.",
+    "A seta central dá direção à mudança proposta pela ferramenta.",
+    "As etiquetas vermelha e verde tornam explícito qual resultado o anúncio recomenda.",
+    "A data junto ao recurso informa quando o carrossel estará disponível."
+  ],
+  "quando_usar": "Para demonstrar diferenças observáveis de personalização em ferramentas de criação visual.",
+  "estrutura_texto": "[Produto]\n[Recurso e data]\nDo [resultado inicial]\nao [resultado desejado].\n[Como funciona e disponibilidade]\n[Exemplo inicial] → [Exemplo personalizado]\n[Barra do produto e status]\n[Aviso institucional]",
+  "legenda": "Compare os exemplos: [característica observável do primeiro] e [característica observável do segundo]. Com [produto], você pode montar [formato] usando [materiais próprios] e [preferências de linguagem]. O recurso fica disponível em [data]; o acesso atual inclui [recurso já liberado].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul quase preto, título branco grande no alto e subtítulo menor. Coloque à esquerda um post menor com etiqueta vermelha e à direita um carrossel maior com etiqueta verde e páginas empilhadas. Insira seta azul luminosa entre eles. Use a foto fornecida no exemplo personalizado e textos genéricos de demonstração. Na base, inclua barra arredondada do produto com status ilustrativo. A comparação deve mostrar diferenças reais, sem fabricar prova de desempenho.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1906932414019149",
+    "anunciante": "Raphael Cardoso Marketing Jurídico",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 5,
+    "texto_original": "O carrossel da esquerda foi feito com IA e entrega isso logo de cara: rosto inventado, cenário de banco de imagem e uma frase que qualquer advogado poderia assinar. O da direita também foi feito com IA, com foto real, o tom de quem publica e a base legal no lugar.\n\n A diferença é o plugin Marketing Jurídico com Claude, que monta o carrossel no seu Canva com as suas fotos. O plugin de carrossel chega em 26/10 para quem já estiver dentro, e quem entra agora começa pelo plugin de edição de vídeo, que já está liberado. R$ 157 até 01/11. Depois da Black, R$ 297.",
+    "origem_coleta": "acervo:raphael-cardoso"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1906932414019149.jpg"
+}

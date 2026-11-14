@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3257921607847052",
+  "tipo": "estatico",
+  "titulo": "Mensalidade em destaque abaixo de foto de estudo",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma pessoa acompanhando a leitura de uma Bíblia ocupa a parte superior. Na base, blocos laranja, verde e amarelo apresentam o curso e o preço mensal.",
+  "por_que_funciona": [
+    "A foto de leitura contextualiza o tema antes da oferta.",
+    "O valor ocupa a maior área tipográfica da base amarela.",
+    "Os blocos coloridos separam o nome do curso e a condição comercial.",
+    "O botão escuro com chamada curta encerra a leitura da oferta."
+  ],
+  "quando_usar": "Campanhas de matrícula com preço mensal acessível e condições de cobrança claramente informadas.",
+  "estrutura_texto": "ESTUDE [ÁREA]\nAPENAS R$ [VALOR] MENSAIS\n[CTA]",
+  "legenda": "Estude [área] por R$ [valor]/mês. Tenha acesso a [conteúdos da formação] em [modalidade]. Confira as condições da assinatura e faça sua matrícula em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto horizontal de estudo nos dois terços superiores, com margem branca. Na base, divida a área entre blocos laranja e verde para a chamada e um bloco amarelo para o preço. Dê máxima hierarquia ao valor mensal em preto e inclua um botão escuro com CTA curto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3257921607847052",
+    "anunciante": "Academia de Pregadores",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-03-22",
+    "dias_no_ar": 967,
+    "variacoes_ativas": 2,
+    "texto_original": "Nós tomamos uma decisão muito importante aqui na Academia! Decidimos cobrar apenas R$ 10 de mensalidade, um valor simbólico e acessível para você também fazer parte da Maior Escola Teológica Online do Brasil.\n\nChega de incertezas e de superficialidade em relação à Palavra. Você pode garantir sua vaga pagando apenas R$ 10/mês e desfrutar de um ensino profundo, genuíno e verdadeiro das Escrituras.\n\nTorne-se agora um membro e junte-se a mais de 20 mil",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3257921607847052.jpg"
+}

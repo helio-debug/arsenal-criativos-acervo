@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1633095291208346",
+  "tipo": "estatico",
+  "titulo": "Recrutamento de entregadores com ganhos e benefícios",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Entregador com uniforme amarelo mostra um celular. Um cartão branco destaca o teto de ganhos mensais e três faixas listam bônus e seguro.",
+  "por_que_funciona": [
+    "O valor mensal em preto ocupa o maior tamanho de texto da peça.",
+    "O entregador com mochila contextualiza a atividade anunciada.",
+    "As três faixas amarelas separam bônus de adesão, indicação e seguro.",
+    "O celular voltado para a câmera associa o cadastro ao aplicativo."
+  ],
+  "quando_usar": "Plataformas de entrega em campanhas de captação de parceiros, com condições verificáveis de remuneração.",
+  "estrutura_texto": "[Marca]\n[Atividade]\nGanhe até [valor]*\nPor mês\nBônus de adesão de até [valor]\nBônus por indicação de até [valor]\nSeguro de até [cobertura]\n[Condições]",
+  "legenda": "Cadastre-se como [atividade] em [região]. Os ganhos podem chegar a [valor] por [período], conforme [jornada, demanda e critérios]. Consulte os requisitos e as condições de [bônus e cobertura] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo, personagem com roupa de trabalho e mochila na metade superior e celular visível. Na base, crie cartão branco arredondado com valor máximo de ganhos em preto muito grande, período logo abaixo e três faixas amarelas com ícones para benefícios. Inclua condições legíveis junto aos valores. Não invente ganhos ou coberturas.",
+  "alerta_politica": "Ganhos devem ser comprováveis, apresentados como variáveis e acompanhados de condições, sem garantia de renda. Bônus e seguro precisam informar critérios de elegibilidade e limites; não sugerir cobertura automática ou irrestrita.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1633095291208346",
+    "anunciante": "Blinkit Delivery Partners",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-18",
+    "dias_no_ar": 269,
+    "variacoes_ativas": 1,
+    "texto_original": "हर महीने ₹30,000 तक कमाएं, अपनी शर्तों पर। कोई इंटरव्यू नहीं, आज ही जुड़ें!\n30 din, 30 hazar!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1633095291208346.jpg"
+}

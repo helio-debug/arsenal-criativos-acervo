@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1096748982271287",
+  "tipo": "estatico",
+  "titulo": "Lista numerada sobre a coluna com modelo anatômico",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Profissional de roupa social aponta para um modelo de coluna. Um degradê branco na base recebe título azul e assinatura visual.",
+  "por_que_funciona": [
+    "O modelo anatômico mostra imediatamente o tema da publicação.",
+    "O gesto de apontar direciona o olhar para a coluna.",
+    "O número 4 delimita a quantidade de conteúdo prometida.",
+    "O degradê branco mantém a chamada legível sobre a fotografia."
+  ],
+  "quando_usar": "Para profissionais de saúde divulgarem uma sequência educativa sobre anatomia.",
+  "estrutura_texto": "[Número] fatos surpreendentes sobre [tema]\n[Assinatura profissional]",
+  "legenda": "Reunimos [número] informações sobre [tema] para ajudar a entender [aspecto educativo]. Deslize para conferir. Para orientação individual, agende [consulta].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione foto do profissional ao lado de um modelo anatômico na parte superior. Aplique degradê branco na base, título azul em duas linhas, numeral grande translúcido ao fundo e assinatura genérica no rodapé.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ao público ou prometer resultados. CFM: conteúdo médico deve ser informativo, sem garantia de resultado, com identificação profissional quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1096748982271287",
+    "anunciante": "Dr. João Rufino",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-23",
+    "dias_no_ar": 509,
+    "variacoes_ativas": 1,
+    "texto_original": "😱Descubra os segredos escondidos da sua coluna vertebral!\n\nPreparei uma lista com 4 fatos surpreendentes que você precisa saber.\n\n➡Deslize para conferir e surpreenda-se!\n\n📲 91 98623-2834\n📍Ed. Mirai Office. Trav. Municipalidade,985.\n\n#saude #drjoaorufino #ortopedia #belém #doresnacoluna #coluna #artrose #cuidadoscomacoluna #desviosnacoluna #cirurgialombar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1096748982271287.jpg"
+}

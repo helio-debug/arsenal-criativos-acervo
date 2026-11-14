@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3295195294011406",
+  "tipo": "estatico",
+  "titulo": "MBA de tecnologia com escultura metálica e manifesto",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo preto com nome de MBA no topo e escultura prateada dentro de um recorte circular. A parte inferior reúne uma chamada sobre liderança, modalidades e lista de áreas conectadas, com seta magenta.",
+  "por_que_funciona": [
+    "O título superior combina letras brancas, magenta e contorno, distinguindo a categoria do programa.",
+    "A escultura metálica fornece um foco visual associado à linguagem tecnológica.",
+    "A chamada branca em três linhas domina a metade inferior.",
+    "A lista lateral explicita as áreas do curso ao lado da seta magenta."
+  ],
+  "quando_usar": "Apresentação de programas de tecnologia para profissionais interessados em decisões estratégicas.",
+  "estrutura_texto": "[Nome do programa]\n[Categoria]\n[Atributo]\n[Modalidades]\n[Chamada sobre competência desenvolvida]\nConecte: [Área 1] + [Área 2] + [Área 3]",
+  "legenda": "Conheça [MBA] e amplie sua visão sobre como [tecnologia] participa de decisões em [área profissional]. Confira os conteúdos, a proposta de formação e as modalidades [modalidades].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, identidade própria grande no topo com branco e magenta e objeto abstrato prateado em recorte circular no centro superior. Separe a metade inferior com linha fina, acrescente modalidade pequena, chamada branca grande à esquerda e lista curta de áreas à direita com seta magenta. Integre a IMAGEM 2 como visual do produto, sem copiar a escultura exata da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3295195294011406",
+    "anunciante": "FIAP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 1,
+    "texto_original": "Conheça o MBA Tech da FIAP e amplie\nsua visão para conectar tecnologia, IA\ne negócios às decisões que movem\no mercado.\nMBAs TECH FIAP\nPotencialize seu impacto.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3295195294011406.jpg"
+}

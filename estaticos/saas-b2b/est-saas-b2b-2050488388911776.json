@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-2050488388911776",
+  "tipo": "estatico",
+  "titulo": "Esfera em sombra revela lacuna de uma avaliação",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com esfera dividida em quatro quadrantes coloridos, parcialmente encoberta por sombra. A chamada sobre o lado oculto de uma avaliação ocupa a direita.",
+  "por_que_funciona": [
+    "A sombra encobre parte das letras da esfera e materializa a ideia de informação oculta.",
+    "A chamada branca em linhas curtas se destaca no fundo preto.",
+    "As quatro cores conectam a palavra final aos quadrantes do objeto."
+  ],
+  "quando_usar": "Para apresentar limites de uma abordagem conhecida antes de explicar uma ferramenta de avaliação comportamental.",
+  "estrutura_texto": "O LADO OCULTO DO [MÉTODO]",
+  "legenda": "O relatório de [método] mostra [informação aparente]. Mas como ficam [variáveis menos exploradas]? Conheça como [solução] ajuda a analisar esses dados na gestão de pessoas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, esfera texturizada à esquerda com quatro quadrantes verde, vermelho, amarelo e azul e sombra sobre a metade direita. Coloque uma chamada curta em branco à direita, com o termo final nas cores dos quadrantes. Adapte a metáfora ao produto sem reproduzir alegações de superioridade sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2050488388911776",
+    "anunciante": "Grou",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-17",
+    "dias_no_ar": 58,
+    "variacoes_ativas": 1,
+    "texto_original": "Assim como a Lua, o DISC também tem um lado visível e um lado oculto.\n\n🔍 O lado visível → O DISC tradicional mostra o comportamento aparente: como a pessoa parece agir, seu estilo dominante, sua forma de se comunicar… as respostas óbvias que aparecem num relatório rápido e simplificado.\n\n🌑 O lado oculto → O que o DISC simplificado de 1960 deixou de fora: a intensidade dos traços, o comportamento sob pressão versus o natural, o nível de energia e a autocontenção da pessoa… as informações que realmente explicam por que alguém age como age — e que poucas ferramentas conseguem revelar.\n\nO problema? Muitas empresas tomam decisões sobre pessoas (contratação, promoção, formação de equipes) baseadas apenas na versão reduzida do DISC, sem enxergar a profundidade real do comportamento. O resultado? Escolhas equivocadas, times desalinhados e retrabalho constante.\n\nComo revelar o lado oculto do comportamento?\n\n✔️ Resgatar a metodologia original de Marston, que o DISC simplificado abandonou\n\n✔️ Analisar dados que a versão de 1960 não contempla — como intensidade, energia e adaptação sob pressão\n\n✔️ Contar com uma válvula de consistência que garante a confiabilidade das respostas e evita distorções\n\n✔️ Transformar dados comportamentais em decisões sobre pessoas mais assertivas e estratégicas\n\nÉ exatamente isso que o PDA Assessment entrega: enquanto o DISC tradicional mostra só a superfície, o PDA revela o lado oculto do comportamento com profundidade científica e dados consistentes.\n\nEstá na hora de enxergar além! Sua empresa está tomando decisões olhando só para o lado visível do comportamento? Nós podemos te ajudar a revelar o quadro completo e tornar suas decisões sobre pessoas muito mais assertivas. Vamos conversar? 💬",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2050488388911776.jpg"
+}

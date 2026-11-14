@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1328069949273679",
+  "tipo": "estatico",
+  "titulo": "Trio de séruns com benefícios e preço fechado",
+  "formato": "Oferta e promoção",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Três frascos âmbar com conta-gotas aparecem alinhados, com o central mais alto. Na faixa preta inferior, benefícios ficam à esquerda e preço com frete à direita.",
+  "por_que_funciona": [
+    "O título superior explica imediatamente a proposta do kit.",
+    "O frasco central mais alto organiza a composição dos três itens.",
+    "A lista curta com sinais matemáticos torna os benefícios fáceis de localizar.",
+    "O preço em branco sobre preto domina o bloco de oferta."
+  ],
+  "quando_usar": "Para apresentar um kit de séruns a pessoas que já comparam rotinas e preços.",
+  "estrutura_texto": "KIT [FINALIDADE]\n[Três produtos]\n+ [Benefício]\n+ [Benefício]\n− [Aspecto a reduzir]\napenas R$ [Preço]\n[FRETE]",
+  "legenda": "Conheça o kit [finalidade], com [composição]. Uma rotina voltada a [benefícios comprovados], por [preço] e com [condição de frete]. Consulte as orientações de uso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte três frascos em destaque sobre fundo claro de azulejos, com o central vertical e os laterais levemente inclinados. Use título preto em caixa alta no topo. Na base, crie faixa preta com três benefícios em branco à esquerda e preço grande e frete à direita. Use somente alegações comprovadas.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ou aparência ao público e prometer resultados garantidos. ANVISA: usar apenas alegações cosméticas comprovadas e compatíveis com a regularização do produto; não prometer tratamento ou cura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1328069949273679",
+    "anunciante": "Principia Skincare Pro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 1,
+    "texto_original": "O KIT TRIO ANTISSINAIS da Principia tem alta eficácia aumentar a firmeza, elasticidade, hidratação, viço e maciez da pele 😱😍 Está disponível no site da Principia e nas farmácias do Brasil  😄😍\nAlta performance dermatológica 😍",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1328069949273679.jpg"
+}

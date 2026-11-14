@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-921216599183634",
+  "tipo": "estatico",
+  "titulo": "Formação capilar com ilustração científica",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul escuro com ilustração digital de fios e folículos capilares. Um bloco em degradê traz o nome da formação, e uma faixa clara no rodapé reúne identificação e contato.",
+  "por_que_funciona": [
+    "Os folículos ilustrados identificam o tema capilar sem depender da legenda.",
+    "O bloco em ciano e azul destaca o nome da formação contra o fundo escuro.",
+    "O selo superior informa as modalidades online e presencial.",
+    "O rodapé claro torna o contato fácil de localizar."
+  ],
+  "quando_usar": "Apresentar uma formação especializada e abrir conversas sobre programa, teoria e prática.",
+  "estrutura_texto": "[MODALIDADES]\nFORMAÇÃO [ABORDAGEM] EM [ESPECIALIDADE]\n[CONTATO]",
+  "legenda": "Formação em [especialidade], com teoria [modalidade] e prática em [duração da imersão]. Consulte o programa, os pré-requisitos e as próximas turmas em [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho e ilustração científica relacionada ao assunto, com traços finos em ciano. Coloque o título em branco dentro de um bloco com degradê ciano e azul no canto inferior esquerdo. Acrescente selo de modalidade no alto e faixa clara de contato no rodapé.",
+  "alerta_politica": "A formação não deve prometer cura, reversão de queda capilar ou habilitação para procedimentos fora das atribuições profissionais. Descreva conteúdo e pré-requisitos com precisão, sem atribuir uma condição de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "921216599183634",
+    "anunciante": "Caeci Centro de Aperfeiçoamento",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-05-19",
+    "dias_no_ar": 1275,
+    "variacoes_ativas": 1,
+    "texto_original": "Formação Científica em Terapia Capilar - Curso com a teoria on line e prática em 5 dias de imersão. Para informações 11 970814365",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-921216599183634.jpg"
+}

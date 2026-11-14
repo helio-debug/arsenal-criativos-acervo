@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1671355574206150",
+  "tipo": "estatico",
+  "titulo": "Fogão fotografado no ambiente de casa",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto vertical de um fogão preto de quatro bocas, visto de cima e de frente em um ambiente doméstico. A imagem destaca mesa de vidro, botões e porta do forno com puxador metálico.",
+  "por_que_funciona": [
+    "O ângulo elevado mostra as quatro bocas e a distribuição dos botões.",
+    "O enquadramento inclui o forno e permite ver o produto quase inteiro.",
+    "O piso e o batente de porta dão contexto doméstico à apresentação.",
+    "O puxador claro contrasta com o acabamento preto e destaca a porta."
+  ],
+  "quando_usar": "Para divulgar eletrodomésticos com foto de uso real, quando acabamento e configuração ajudam a avaliar a compra.",
+  "estrutura_texto": "[foto do produto no ambiente]\n[identificações originais do produto, sem chamada sobreposta]",
+  "legenda": "Gostei do [produto] com [característica visível]. Clique em [CTA] e confira medidas, preço e disponibilidade em [loja]. [Identificação de parceria, quando aplicável].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia doméstica vertical do produto, com ângulo elevado que mostre a superfície superior e a frente inteira. Use piso e passagem de porta como contexto discreto, iluminação natural e acabamento fiel à IMAGEM 2. Não acrescente preço, botão ou chamada promocional; a composição deve se apoiar na foto do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1671355574206150",
+    "anunciante": "Achadinhos da Loe",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 1,
+    "texto_original": "Apaixonada nesse fogão 4 bocas 🌸\n✨ Clique em ‘’Comprar agora’’ e veja na Shopee!\n#parceria",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1671355574206150.jpg"
+}

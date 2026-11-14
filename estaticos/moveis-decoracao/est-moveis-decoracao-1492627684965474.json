@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1492627684965474",
+  "tipo": "estatico",
+  "titulo": "Sala pronta com painel e iluminação integrada",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "garantia",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fotografia vertical de sala compacta com sofá claro, painel de televisão e armários planejados. Linhas de iluminação no teto e no painel destacam a composição, com marca-d’água discreta no alto.",
+  "por_que_funciona": [
+    "A vista ampla mostra como sofá, painel e armários cabem no mesmo ambiente.",
+    "As linhas de luz evidenciam o acabamento do teto e do painel.",
+    "A combinação de tons claros, cinza e madeira apresenta uma referência visual de decoração.",
+    "A fotografia do espaço montado permite observar proporções e distribuição dos móveis."
+  ],
+  "quando_usar": "Para marcenarias e lojas de planejados mostrarem projetos concluídos e receberem pedidos de orçamento.",
+  "estrutura_texto": "[MARCA-D’ÁGUA DISCRETA]\n[SEM CHAMADA TEXTUAL PRINCIPAL]",
+  "legenda": "Veja este projeto de [ambiente] com [acabamento e solução de espaço]. Trabalhamos com [material] e oferecemos [prazo e condições de garantia]. Solicite seu orçamento de móveis planejados em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia de ambiente montado com aparência real, preservando os móveis e acabamentos da IMAGEM 2. Use enquadramento amplo a partir de um canto da sala, sofá claro em primeiro plano, painel de televisão com armários e iluminação linear integrada ao teto. Priorize tons neutros e luz natural. Não acrescente chamadas promocionais; use apenas uma assinatura própria discreta, se fornecida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1492627684965474",
+    "anunciante": "AMS Home Ambientes Planejados",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-06-28",
+    "dias_no_ar": 869,
+    "variacoes_ativas": 1,
+    "texto_original": "E o que temos para hoje…\n\nUma linda montagem vistoriada no Lá Sicília ⚠️\n\nAmbientes simplesmente incríveis 😍 Quem mais amou?! 🙋🏽♀️\n\nAgradecemos a confiança!\n\n▪️5 anos de garantia.\n▪️Materiais 100% MDF.\n▪️Loja direto da Indústria.\n\nSolicite seu orçamento de móveis planejados com a AMS Home Ambientes Planejados.\n\nLink na bio ou adicione nosso WhatsApp \n\n📲 (43) 99135-1903\n\nAMS Home planejando sonhos sob medida.\n\n☎️ (43) 3066-7913\n📍 Rua: Borba Gato 728 loja 5\n🌐 www.amshomeplanejados.com.br\n\n#arquitetura #designerdeinteriores #interiores #decoração #apartamentos #mrv #lasicilia #londrina #londrinando",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1492627684965474.jpg"
+}

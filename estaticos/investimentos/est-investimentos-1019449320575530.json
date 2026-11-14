@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1019449320575530",
+  "tipo": "estatico",
+  "titulo": "Ranking de dividendos em composição editorial",
+  "formato": "Alerta e educação",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo vermelho com camadas curvas e degradê preto enquadra uma chamada sobre ações e dividendos. Texto serifado e uma seta isolada conduzem à consulta do ranking.",
+  "por_que_funciona": [
+    "O círculo com TOP ações estabelece a ideia de seleção.",
+    "O texto sobre dividendos e Selic explicita o critério de comparação.",
+    "O espaço escuro ao redor mantém a chamada legível.",
+    "A seta abaixo de Confira o ranking indica continuidade."
+  ],
+  "quando_usar": "Para captar interessados em conteúdo educativo sobre investimentos por meio de um material gratuito.",
+  "estrutura_texto": "TOP [ativos]\ncom [indicador] [critério de comparação]\nConfira o [material]",
+  "legenda": "Conheça [seleção de ativos] e entenda [critérios de análise]. Acesse o [material gratuito] para consultar os dados e a metodologia.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça composição editorial com fundo vermelho profundo, curvas sobrepostas no alto e degradê para preto embaixo. Use um círculo para o título curto, tipografia serifada branca para a tese e uma linha fina antes do CTA. Termine com seta discreta. Identifique período e fonte da comparação, sem prometer retorno.",
+  "alerta_politica": "CVM/Meta: comparações de dividendos e juros devem informar período, fonte e metodologia; rendimentos passados não garantem resultados futuros. Evitar promessa de retorno e apresentar riscos; recomendações de valores mobiliários exigem observância das regras aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1019449320575530",
+    "anunciante": "SVN Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 1,
+    "texto_original": "Conheça as ações que superam os juros básicos e entenda as estratégias que apoiam  os investidores de sucesso. 📈\n\nClique e acesse o e-book gratuito.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1019449320575530.jpg"
+}

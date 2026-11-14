@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1785038489322312",
+  "tipo": "estatico",
+  "titulo": "Combo de capacitação com caminhão e preço em laranja",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Caminhão-tanque aparece no alto à direita sobre fundo preto e alaranjado. O nome do curso, bônus, preço e contato ocupam blocos grandes, com benefícios em ícones na parte inferior.",
+  "por_que_funciona": [
+    "O caminhão-tanque identifica a atividade relacionada ao curso.",
+    "O nome do curso em laranja ocupa grande parte da composição.",
+    "O sinal de adição e o nome do bônus deixam o combo visível.",
+    "O botão de contato contrasta com o fundo preto."
+  ],
+  "quando_usar": "Para vender um combo de capacitações a profissionais que já reconhecem as siglas dos cursos.",
+  "estrutura_texto": "[marca e público]\nFAÇA CURSO [principal] E GANHE + [bônus]\nPOR APENAS R$[preço]\nDOIS CURSOS EM UM SÓ\n[benefícios com ícones]\n[modalidade] | [prazo] | [credencial]\n[prova social]\nQUERO FAZER MEU CURSO!\n[contato]",
+  "legenda": "Atualize sua formação em [área] com o curso [principal] e receba [bônus] nas condições da oferta. Estude [modalidade] e consulte prazo, requisitos e validade da certificação. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, destaques laranja e texto branco com textura discreta. Coloque veículo relacionado à atividade no alto à direita, nome do curso muito grande à esquerda, bônus abaixo e preço em caixa contornada à direita. Organize benefícios em ícones e finalize com botão de contato. Não reproduza telefone ou selo da referência.",
+  "alerta_politica": "Comprove homologação, validade nacional e prazo de conclusão. Não prometa emprego ou aumento de ganhos; a certificação deve cumprir os requisitos aplicáveis à atividade.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1785038489322312",
+    "anunciante": "Parceirão do Motorista",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-13",
+    "dias_no_ar": 124,
+    "variacoes_ativas": 1,
+    "texto_original": "🚚 🚌 🚑 Quer valorizar sua carteira, conseguir as melhores vagas de emprego e turbinar seus ganhos sem sair de casa?\n\nChegou a sua hora com o Parceirão do Motorista! Cursos 100% online, homologados pelo SENATRAN e válidos em todo o Brasil. Você estuda no seu tempo e conclui em apenas 7 dias!\n\n🎁 E tem mais: Você compra o curso principal e GANHA um curso bônus indispensável sem custo adicional! Tudo isso por um preço que cabe no seu bolso.\n\n🛑 Pare de perder oportunidades por falta de certificado. O retorno é garantido!\n\n👉 Arraste para o lado para ver as opções, escolha o seu e clique no botão abaixo para falar com o nosso suporte agora mesmo!\n\n📲 WhatsApp: (19) 98148-4758",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1785038489322312.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-26217786281255961",
+  "tipo": "estatico",
+  "titulo": "Convite para encontro de cães com atividades",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo verde com título branco, lista de benefícios e chamada em caixa branca. Três cães em movimento aparecem sobre forma laranja na parte inferior.",
+  "por_que_funciona": [
+    "O título grande identifica o encontro.",
+    "A lista explica interação entre cães e troca entre tutores.",
+    "A caixa branca destaca a chamada para organizar o evento.",
+    "Os cães em movimento ilustram o público do encontro."
+  ],
+  "quando_usar": "Lojas pet e organizadores de encontros de tutores.",
+  "estrutura_texto": "[Nome do encontro]\n[Pergunta de convite]\n[Características do espaço]\n[Atividades]\n[Chamada para participar]\n[Hashtag]",
+  "legenda": "Que tal reunir [perfil de pets] e conhecer outros tutores? Confira os próximos encontros em [link] e participe de [evento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde, título branco no topo e lista central de atividades. Destaque a chamada em caixa branca com letras laranjas. Coloque cães recortados sobre forma orgânica laranja na metade inferior. Adapte a foto da IMAGEM 2 ao evento informado e inclua [local e data] se disponíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "26217786281255961",
+    "anunciante": "Cobasi - Essencial para a vida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-30",
+    "dias_no_ar": 198,
+    "variacoes_ativas": 1,
+    "texto_original": "Acesse os próximos eventos aqui\nQue tal reunir cães da mesma raça do seu cachorro? Vem pro Encontro de Raças Cobasi!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-26217786281255961.jpg"
+}

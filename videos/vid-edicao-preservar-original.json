@@ -1,0 +1,96 @@
+{
+ "id": "vid-edicao-preservar-original",
+ "titulo": "Selfie com exemplos: pequena alteração estraga o original e exige controle",
+ "formato_video": "comparativo-teste",
+ "nichos": [
+  "ia-ferramentas",
+  "beleza-cosmeticos",
+  "moda-acessorios",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "kit-combo",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "40-45s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Era para mudar só [detalhe]. Olha o que mudou junto.",
+  "texto_tela": "Mudar só [detalhe]",
+  "visual": "Tela dividida: exemplo visual e objeto de referência no alto, apresentador em selfie embaixo; seta liga o detalhe ao objeto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Selfie na metade inferior; imagem de produto e cartão do detalhe na superior, unidos por seta.",
+   "fala": "Era para mudar só [detalhe]. Olha o que mudou junto.",
+   "texto_tela": "Mudar só [detalhe]"
+  },
+  {
+   "tempo": "6-13s",
+   "cena": "Exemplo ocupa a tela; X marca alteração indevida e duas miniaturas mostram o pedido original.",
+   "fala": "O pedido era [alteração desejada]. Mas [elemento a preservar] também mudou. Precisei revisar a peça.",
+   "texto_tela": "X • [Alteração indevida]"
+  },
+  {
+   "tempo": "13-20s",
+   "cena": "Volta à selfie em escritório, palavra branca grande na parte inferior.",
+   "fala": "Quando isso entra em [etapa do trabalho], eu preciso refazer [tarefa concreta].",
+   "texto_tela": "RETRABALHO"
+  },
+  {
+   "tempo": "20-29s",
+   "cena": "Cartela clara sobre a selfie apresenta o que muda e o que fica; produto em dois enquadramentos.",
+   "fala": "Antes de executar, eu registro: mudar [detalhe]. Manter [característica essencial] como está. Depois confiro os dois pontos.",
+   "texto_tela": "MUDAR: [detalhe]\nMANTER: [característica essencial]"
+  },
+  {
+   "tempo": "29-37s",
+   "cena": "Mostra o conteúdo do kit em cartões simples, sem marcas, e retorna ao apresentador.",
+   "fala": "Em [produto], o kit reúne [itens incluídos] para orientar esse cuidado em [situação de uso]. Veja um exemplo: [instrução curta].",
+   "texto_tela": "Kit com [itens incluídos]"
+  },
+  {
+   "tempo": "37-45s",
+   "cena": "Selfie próxima com chamada branca e indicação para o link abaixo.",
+   "fala": "Confira o kit de [produto] no link. Veja [conteúdo] e [condição de acesso] antes de usar em [próxima tarefa].",
+   "texto_tela": "Veja o kit no link • [condição de acesso]"
+  }
+ ],
+ "por_que_funciona": [
+  "A divisão entre selfie e exemplo deixa o problema visível enquanto o apresentador explica.",
+  "A seta e o cartão do objeto indicam qual parte deveria mudar.",
+  "O X sobre o resultado identifica a alteração indevida sem depender só da narração.",
+  "A palavra RETRABALHO em branco liga o erro mostrado à consequência narrada; a chamada para o link encerra a sequência."
+ ],
+ "quando_usar": "Para ferramentas, kits, cursos e produtos cujo uso exige preservar uma característica enquanto se ajusta outra. Use no meio do funil com demonstração real e critérios visíveis; em cosméticos, mostre embalagem ou material de campanha, sem comparação corporal.",
+ "roteiro_modelo": "[Corte / pausa | 0-6s]\nEra para mudar só [detalhe]. Olha o que mudou junto.\n\n[Corte / pausa | 6-13s]\nO pedido era [alteração desejada]. Mas [elemento a preservar] também mudou. Precisei revisar a peça.\n\n[Corte / pausa | 13-20s]\nQuando isso entra em [etapa do trabalho], eu preciso refazer [tarefa concreta].\n\n[Corte / pausa | 20-29s]\nAntes de executar, eu registro: mudar [detalhe]. Manter [característica essencial] como está. Depois confiro os dois pontos.\n\n[Corte / pausa | 29-37s]\nEm [produto], o kit reúne [itens incluídos] para orientar esse cuidado em [situação de uso]. Veja um exemplo: [instrução curta].\n\n[Corte / pausa | 37-45s]\nConfira o kit de [produto] no link. Veja [conteúdo] e [condição de acesso] antes de usar em [próxima tarefa].",
+ "tomadas_celular": [
+  "Selfie do peito para cima, celular na altura dos olhos e luz de janela, 6s; reserve metade superior para os exemplos.",
+  "Close de objeto sobre fundo liso, câmera fixa e luz difusa lateral, 7s; fotografe o detalhe correto e um erro ilustrativo identificado.",
+  "Selfie com gesto curto, mesmo enquadramento e luz, 7s para explicar a revisão.",
+  "Plano superior de cartão com campos mudar/manter ao lado do produto, luz suave e câmera fixa, 9s.",
+  "Close dos itens reais do kit ou de sua lista de conteúdo, sem reflexos e com luz de janela, 8s.",
+  "Selfie próxima apontando para baixo, luz frontal suave e espaço para CTA, 8s."
+ ],
+ "caminho_ia": "Crie cenas com Kling ou Sora e monte o comparativo no CapCut usando imagens geradas, sem filmar. Prompt 1: \"Vertical 9:16 studio product close-up of [product] against a warm orange backdrop, preserve [essential feature], change only [requested detail], locked camera, soft directional light, realistic materials, no text, no logo.\" Prompt 2: \"Vertical 9:16 overhead shot of [product] beside two blank instruction cards on a clean white desk, preserve product shape and color, diffused daylight, slow push-in, space for change and keep labels, no text.\" Use avatar em selfie para explicar; gere o erro ilustrativo separadamente e identifique-o como simulação. Adicione seta, X e instruções no editor. A oferta deve seguir os termos reais do kit, sem presumir gratuidade.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 45s em seis blocos: 0-6 pedido pequeno; 6-13 erro demonstrado; 13-20 retrabalho; 20-29 instrução mudar/manter e conferência; 29-37 conteúdo do kit; 37-45 acesso. Alterne selfie e exemplo, use divisão vertical de conteúdo, seta para o detalhe, X no erro, cartela clara de instrução e palavra RETRABALHO em branco. Tom de orientação prática. Adapte o teste ao meu produto: pode ser configuração, acabamento ou material de campanha. Não copie rosto, óculos, imagens nem quantidade de materiais da referência. Não declare gratuito sem essa condição no bloco MEU PRODUTO. Em cosméticos, use embalagem ou arte e evite antes/depois corporal. Não copie pessoas, marcas, nomes, falas literais, cenários identificáveis ou alegações da referência. Use apenas informações fornecidas sobre meu produto; mantenha campos sem informação entre [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias ou perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para ajustar [detalhe], registre também o que precisa ficar igual: [característica essencial]. O kit de [produto] inclui [conteúdo]. Confira [condição de acesso] no link.",
+ "alerta_politica": "Meta: não afirme atributos pessoais de aparência ou saúde do público nem use antes/depois corporal ou promessa de resultado de saúde. Para beleza e cosméticos, use apenas alegações compatíveis com a regularização e a rotulagem do produto na ANVISA; não atribua ação terapêutica a cosmético. Identifique exemplos de edição como ilustração e não os apresente como resultado do produto.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d76ab779",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-edicao-preservar-original/frames/f1.jpg",
+    "videos/vid-edicao-preservar-original/frames/f2.jpg",
+    "videos/vid-edicao-preservar-original/frames/f3.jpg",
+    "videos/vid-edicao-preservar-original/frames/f4.jpg",
+    "videos/vid-edicao-preservar-original/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-1429113835589185",
+  "tipo": "estatico",
+  "titulo": "Desconto de 60% dentro de interface escura",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical escura imita a tela de um aplicativo de treino, com indicadores de sequência no topo e navegação inferior. O centro reúne logotipo, chamada em alemão e desconto de 60%.",
+  "por_que_funciona": [
+    "O desconto de 60% ocupa a maior área tipográfica.",
+    "O contorno arredondado e os ícones dão aparência de tela de aplicativo.",
+    "Os indicadores de sequência e semana remetem à rotina de treino.",
+    "O texto branco contrasta com o fundo escuro."
+  ],
+  "quando_usar": "Para divulgar desconto de assinatura de aplicativo de treino a pessoas que já conhecem a categoria.",
+  "estrutura_texto": "[indicador de sequência] + [resumo da semana] + [marca] + [frase sobre planejamento] + [percentual] DE DESCONTO + [navegação do app].",
+  "legenda": "Tenha orientação de [treinos personalizados], [rotina de exercícios] e [planejamento alimentar compatível com o serviço]. Aproveite [percentual de desconto] no [plano elegível]. Consulte condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Recrie uma composição inspirada em interface de app com fundo grafite, contorno fino arredondado, indicadores de sequência no topo e três ícones discretos no rodapé. No centro, coloque a marca informada, frase curta sobre planejamento e [percentual] DE DESCONTO em branco muito grande. Utilize a IMAGEM 2 para representar a identidade do produto sem copiar a interface ou os ícones exatos da referência.",
+  "alerta_politica": "Meta: evitar atribuir condição física ou de saúde ao leitor, prometer transformação corporal garantida ou usar antes e depois de corpo. Desconto e condições devem ser verdadeiros e claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1429113835589185",
+    "anunciante": "Freeletics",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-20",
+    "dias_no_ar": 298,
+    "variacoes_ativas": 1,
+    "texto_original": "Hol dir deinen personalisierten Training Coach und komm in die Form deines Lebens.\n►Tägliche Orientierungshilfe\n►Effektive Workouts\n►Einfache Ernährungspläne",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-1429113835589185.jpg"
+}

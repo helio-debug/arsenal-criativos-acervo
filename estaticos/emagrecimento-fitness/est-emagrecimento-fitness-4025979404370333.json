@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-4025979404370333",
+  "tipo": "estatico",
+  "titulo": "Desafio de exercícios com início e preço destacados",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Mulher executa uma postura de exercício em uma sala clara. À esquerda aparecem o desafio e quatro problemas físicos; cartões de início e vagas e uma faixa de preço ocupam a base.",
+  "por_que_funciona": [
+    "A postura de equilíbrio demonstra o tipo de atividade oferecida.",
+    "A indicação 50+ torna a proposta específica para uma faixa etária.",
+    "Os cartões com calendário e relógio destacam início e disponibilidade.",
+    "O valor verde grande e o preço anterior riscado facilitam a comparação comercial."
+  ],
+  "quando_usar": "Para divulgar uma semana de aulas online com data e preço definidos, após substituir a promessa de resolver condições físicas em prazo fixo.",
+  "estrutura_texto": "Desafio [modalidade] em casa\n[Faixa etária]\nUma semana de [atividades propostas]\n[Conteúdos ou objetivos sem garantia de resultado]\nComeça [dia]\n[Disponibilidade real]\nDe [preço anterior] por [preço atual]",
+  "legenda": "Participe de [duração] de aulas ao vivo de [modalidade] em casa, voltadas a [público]. As atividades trabalham [objetivos do programa], respeitando as possibilidades de cada participante. Início em [data]. Confira [preço] e garanta sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use sala clara com pessoa demonstrando exercício à direita e identidade própria no topo esquerdo. Organize à esquerda uma chamada verde e roxa e quatro itens com ícones discretos sobre conteúdos das aulas. Na base, coloque dois cartões para data e disponibilidade real e uma faixa lavanda com preço atual verde grande e anterior riscado. Não reproduza promessa de resolver dores, peso ou aparência em uma semana. Escreva em pt-BR, adaptando o texto aos dados de MEU PRODUTO, sem inventar benefícios, credenciais ou condições comerciais.",
+  "alerta_politica": "Meta: evitar atribuição direta de excesso de peso, dores ou insatisfação corporal ao público. A promessa de resolver esses problemas em uma semana precisa ser removida; não garantir emagrecimento ou alívio de dor. Escassez e desconto devem ser reais. Aulas devem respeitar habilitação profissional e limitações individuais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4025979404370333",
+    "anunciante": "Lays Sant'anna",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-03",
+    "dias_no_ar": 72,
+    "variacoes_ativas": 3,
+    "texto_original": "Vem aí o desafio pilates em casa 50+! 🙏🏼\n\nUma semana de aulas AO VIVO de pilates em casa, específico para mulheres após  os 50 anos.\n\nVocê vai diminuir suas dores, fortalecer seu corpo e emagrecer.\n\nClique em SAIBA MAIS e garanta a sua vaga!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-4025979404370333.jpg"
+}

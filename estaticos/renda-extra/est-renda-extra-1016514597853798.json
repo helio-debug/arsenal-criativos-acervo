@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1016514597853798",
+  "tipo": "estatico",
+  "titulo": "Revenda sem estoque em cena de afeto",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Duas mulheres sorrindo e abraçadas em um ambiente doméstico seguram um frasco. A chamada no topo destaca a oportunidade de revenda sem exigência de estoque.",
+  "por_que_funciona": [
+    "A faixa amarela dá destaque à expressão “sem complicação”.",
+    "O subtítulo explicita a ausência de exigência de estoque.",
+    "O frasco nas mãos conecta a oportunidade a um produto físico.",
+    "Os sorrisos e o abraço criam uma cena acolhedora de convivência."
+  ],
+  "quando_usar": "Para apresentar um modelo de revenda de cosméticos e explicar uma condição de entrada relevante.",
+  "estrutura_texto": "[Chamada de oportunidade]\n[Facilidade em destaque]\nCOMECE A REVENDER SEM\n[Exigência dispensada]",
+  "legenda": "Transforme [tempo disponível] em uma oportunidade de revenda de [categoria]. Conheça o portfólio e as condições para começar [condição de estoque]. A renda depende das suas vendas. Cadastre-se em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia quadrada de duas pessoas adultas sorrindo em ambiente doméstico acolhedor, com o produto da IMAGEM 2 visível nas mãos. Reserve o topo para título branco em caixa alta, segunda linha sobre faixa amarela e subtítulo branco menor. Adote luz quente, tons terrosos e assinatura discreta da marca própria no canto inferior. Não prometa ganhos nem ausência de custos sem comprovação.",
+  "alerta_politica": "Meta: não prometer renda garantida nem apresentar ganhos excepcionais como resultado típico. Informar condições, elegibilidade, custos e que os ganhos dependem da atividade e dos resultados individuais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1016514597853798",
+    "anunciante": "Hinode Group",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-04",
+    "dias_no_ar": 102,
+    "variacoes_ativas": 1,
+    "texto_original": "Que tal transformar seu tempo livre em uma nova oportunidade?\n\nCom a Hinode, você pode começar a revender produtos de beleza, perfumaria e cuidados pessoais, organizar sua rotina do seu jeito e construir uma renda extra de acordo com as suas vendas.\n\nVocê conta com uma marca reconhecida, um portfólio completo de produtos e a liberdade para desenvolver seu negócio de onde estiver.\n\nQuer saber como começar? Cadastre-se e conheça a oportunidade de ser um(a) revendedor(a) Hinode.\nSeja Uma Revendedora Hinode\nAproveite Agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1016514597853798.jpg"
+}

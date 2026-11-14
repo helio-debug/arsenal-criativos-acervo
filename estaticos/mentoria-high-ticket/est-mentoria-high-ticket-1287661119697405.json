@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1287661119697405",
+  "tipo": "estatico",
+  "titulo": "Chamada sobre vendas em cena de atendimento",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de profissional com luvas atendendo uma paciente em cadeira clínica. Duas tarjas brancas no alto trazem uma chamada sobre a mentalidade de quem vende.",
+  "por_que_funciona": [
+    "As duas tarjas brancas tornam o texto legível sobre a fotografia.",
+    "A cena de atendimento identifica o contexto de atuação do público.",
+    "A palavra SUA em destaque direciona a mensagem ao profissional.",
+    "A iluminação quente cria continuidade entre cenário e fotografia."
+  ],
+  "quando_usar": "Para atrair profissionais de clínicas a uma mentoria de comunicação e processo comercial.",
+  "estrutura_texto": "[Afirmação sobre vendas]\n[Complemento dirigido ao profissional]",
+  "legenda": "Para profissionais de [segmento]: conheça como [mentoria] trabalha posicionamento, comunicação e proposta no atendimento. Veja a abordagem em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto autorizada de atendimento profissional da IMAGEM 2 como fundo integral, com luz quente. No terço superior, coloque duas tarjas brancas com texto serifado preto, primeira com [Tema comercial] e segunda com [Complemento para profissionais]. Destaque uma palavra em cor vinho. Não prometa aumento garantido de faturamento.",
+  "alerta_politica": "A peça promove mentoria para profissionais de estética: não prometer faturamento ou desempenho garantido. A cena clínica exige autorização de imagem e comunicação compatível com as regras do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1287661119697405",
+    "anunciante": "Dra Laís Silveira - Harmonização Facial",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-08",
+    "dias_no_ar": 463,
+    "variacoes_ativas": 1,
+    "texto_original": "Venda é 100% mente… E não é do paciente. É a sua.\n\nA Carini não precisava de mais pacientes. Precisava de mais direção.\nE quando entendeu isso, vendeu em 2 dias o que antes levava 2 semanas.\nMesma agenda. Mesmos pacientes.\nResultado novo.\n\nPorque o que trava não é o número de pessoas na sua frente.\nÉ a forma como você se posiciona, conduz, comunica e propõe.\n\nQuando a mente vira, a venda vem.\n\nNo ARKX Club a gente ajusta o que ninguém ensina:\nposicionamento, comunicação, proposta e processo de venda com constância.\n\nNão é pra quem quer dica solta.\nÉ pra quem quer resultado real com o que já tem",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1287661119697405.jpg"
+}

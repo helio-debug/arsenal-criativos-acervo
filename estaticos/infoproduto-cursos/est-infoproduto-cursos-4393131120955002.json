@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-4393131120955002",
+  "tipo": "estatico",
+  "titulo": "Curso presencial com bolo decorado e chamada local",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma confeiteira uniformizada junto de um bolo alto e colorido. Faixas sobrepostas destacam o curso, a cidade e as últimas vagas.",
+  "por_que_funciona": [
+    "O bolo elaborado mostra o tipo de técnica associado ao curso.",
+    "A pessoa uniformizada contextualiza a formação profissional.",
+    "A cidade em faixa amarela identifica a região atendida.",
+    "O bloco de últimas vagas com triângulo de alerta destaca a disponibilidade."
+  ],
+  "quando_usar": "Para divulgar turmas presenciais de confeitaria com inscrições abertas e vagas realmente limitadas.",
+  "estrutura_texto": "Curso de [especialidade]\n[Cidade]\nÚltimas [vagas]\n[Instituição/unidade]",
+  "legenda": "Aprenda [técnicas da área] no curso de [especialidade], em [cidade]. A formação inclui [atividades práticas] com [acompanhamento]. Consulte [datas] e a disponibilidade de vagas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto real de profissional ao lado de um trabalho final expressivo. Sobreponha faixa marrom translúcida com nome do curso em amarelo, faixa amarela com cidade em preto e selo menor de últimas vagas com ícone de alerta. Reserve canto inferior para a identidade própria. Só anuncie escassez verificável.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4393131120955002",
+    "anunciante": "Instituto Gourmet Barreiro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-01",
+    "dias_no_ar": 136,
+    "variacoes_ativas": 1,
+    "texto_original": "Você admira bolos, tortas e doces incríveis e pensa: \"Será que eu conseguiria fazer isso também?\"\n\nA resposta é sim.\n\nO Curso de Confeitaria Profissional foi desenvolvido para quem deseja aprender técnicas profissionais, mesmo começando do zero.\n\nSeja para criar uma nova fonte de renda, abrir seu próprio negócio ou simplesmente realizar o sonho de dominar a arte da confeitaria, aqui você aprende na prática, com acompanhamento especializado e técnicas utilizadas pelos melhores profissionais do mercado.\n\n✨ Aprenda a produzir bolos, recheios, coberturas, tortas, doces finos e muito mais.\n\nEste curso é ideal para quem:\n\n✔ Deseja ganhar dinheiro com confeitaria\n✔ Quer trabalhar profissionalmente na área\n✔ Sonha em abrir seu próprio negócio\n✔ Procura uma renda extra trabalhando de casa\n✔ Ama confeitaria e deseja aprender por hobby\n\nImagine poder produzir doces e bolos que encantam os olhos, conquistam clientes e geram oportunidades reais de crescimento.\n\nMas atenção: este curso é para pessoas que realmente desejam aprender e desenvolver novas habilidades.\n\nPreencha o formulário abaixo e descubra:\n\n📌 Como funcionam as aulas\n📌 Próximas turmas disponíveis\n📌 Investimento e condições especiais\n📌 Como a confeitaria pode se tornar uma oportunidade para você\n\nAs vagas são limitadas.\n\nPreencha o formulário agora e receba todas as informações.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-4393131120955002.jpg"
+}

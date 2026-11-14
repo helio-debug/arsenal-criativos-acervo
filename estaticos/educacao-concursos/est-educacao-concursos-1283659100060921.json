@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1283659100060921",
+  "tipo": "estatico",
+  "titulo": "Bolsa de estudos com percentual em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical azul com chamada sobre a nota de exame e bolsa de até 100%. Fotos de estudantes em recortes arredondados enquadram o texto.",
+  "por_que_funciona": [
+    "O percentual amarelo é o maior elemento da oferta.",
+    "A expressão “até” delimita o benefício anunciado.",
+    "As fotos de estudantes contextualizam a graduação.",
+    "O texto divide a mensagem em nota de ingresso e benefício financeiro."
+  ],
+  "quando_usar": "Para instituições divulgarem bolsas vinculadas à nota de um exame durante o período de inscrições.",
+  "estrutura_texto": "[CHAMADA] com a sua nota do [EXAME] no [INSTITUIÇÃO]\ne ganhe bolsa de até [PERCENTUAL]\n[CONDIÇÕES]",
+  "legenda": "Use sua nota do [exame] para concorrer a bolsas de até [percentual] em [curso ou instituição]. Confira [regras e critérios] e faça sua inscrição em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho com reflexos discretos, texto branco e palavras-chave amarelas. Distribua a chamada no topo e a oferta no centro inferior; faça o percentual dominar a hierarquia. Inclua fotos de estudantes nas bordas em janelas arredondadas com filtro azul e condições legíveis no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1283659100060921",
+    "anunciante": "UniBrasil Centro Universitário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-03",
+    "dias_no_ar": 437,
+    "variacoes_ativas": 1,
+    "texto_original": "Sua nota do ENEM é o primeiro passo para fazer o seu futuro brilhar! 🎓\n\nCom sua nota, você pode garantir até 100% de desconto em todo o curso no UniBrasil!\n\nNão perca essa chance, vem ser UniBrasil!\n\n#UniBrasil #Enem #MelhorDeCuritiba #CarreiraDeSucesso\nFaça sua inscrição!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1283659100060921.jpg"
+}

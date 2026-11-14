@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-26645571908388800",
+  "tipo": "estatico",
+  "titulo": "Valor potencial com checklist de cadastro no aplicativo",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul com blocos amarelos destaca um valor de renda potencial e três etapas com checks. Motociclista de amarelo aparece na metade inferior, acompanhado de botão no rodapé.",
+  "por_que_funciona": [
+    "O número grande domina o bloco superior e evidencia o benefício anunciado.",
+    "Os checks apresentam download, cadastro e recebimento em sequência.",
+    "Moto, capacete e celular identificam o contexto do serviço.",
+    "O botão amarelo no rodapé indica a ação de continuidade."
+  ],
+  "quando_usar": "Captação para plataformas de trabalho por aplicativo com regras de ganhos e repasse informadas.",
+  "estrutura_texto": "Renda extra de até [valor]\ncom [plataforma]\n✓ Baixe o app\n✓ Cadastre-se\n✓ Receba [prazo]\n[Aproveite as vantagens] →\n[Termos e condições]",
+  "legenda": "Baixe [aplicativo] e confira as oportunidades de [atividade]. Cadastre-se e consulte [requisitos], [condições de ganhos] e [prazos de repasse] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul intenso com formas diagonais discretas, cartões amarelos arredondados e texto preto. Faça o valor potencial ocupar o topo, com qualificador “até” e contexto de apuração. Posicione checklist de três passos no centro e profissional com veículo na metade inferior direita. Inclua botão amarelo com seta no rodapé e termos legíveis. Não invente renda, período ou prazo de pagamento.",
+  "alerta_politica": "Meta: não prometer renda garantida nem resultados típicos sem comprovação. Explique condições, custos e critérios de pagamento; valores e ganhos potenciais devem ser verificáveis. A cifra precisa indicar período e critérios de apuração; não acrescente moeda ou periodicidade não confirmadas. Informe requisitos e condições do repasse no mesmo dia.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "26645571908388800",
+    "anunciante": "Vou de 99",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-10",
+    "dias_no_ar": 218,
+    "variacoes_ativas": 3,
+    "texto_original": "Baixe o app➡️\nEarn more by doing 99Food rides or deliveries, using a car, motorbike and more!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-26645571908388800.jpg"
+}

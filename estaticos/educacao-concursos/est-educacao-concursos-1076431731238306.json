@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1076431731238306",
+  "tipo": "estatico",
+  "titulo": "Aprovação com foto e depoimento do aluno",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo escuro com chamada de aprovação em amarelo, nome em branco e retrato em moldura arredondada ao lado de um depoimento.",
+  "por_que_funciona": [
+    "A palavra de aprovação em amarelo concentra a atenção no resultado relatado.",
+    "O retrato aproxima o depoimento de uma experiência individual.",
+    "O texto ao lado da foto detalha a contribuição da orientação e do método."
+  ],
+  "quando_usar": "Para mentorias de concursos com depoimentos autorizados de alunos aprovados.",
+  "estrutura_texto": "APROVADO — [concurso]\n[Nome do aluno]\n[Depoimento sobre orientação e preparação]\n[Assinatura do método]",
+  "legenda": "Cada dia de preparação conta. Conheça [mentoria], com [recursos de estudo], e organize sua rotina para [concurso]. Veja como acessar [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo grafite texturizado, título amarelo no topo e subtítulo branco. Coloque foto autorizada do aluno em moldura amarela arredondada à esquerda e depoimento curto à direita. Reserve o rodapé à assinatura da marca. Use somente depoimentos e aprovações comprovados; não invente resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1076431731238306",
+    "anunciante": "PMMinas - Otávio Souza",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-13",
+    "dias_no_ar": 427,
+    "variacoes_ativas": 1,
+    "texto_original": "O relógio não para: cada dia sem a Mentoria OBA é um dia a mais que seus concorrentes avançam. 📚💥 Garanta já seu acesso e marque nos comentários quem vai comemorar com você no dia da posse! #EuSouOBA",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1076431731238306.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1556756582270478",
+  "tipo": "estatico",
+  "titulo": "Entregador em foto com chamada de flexibilidade",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Chamada preta em itálico sobre fundo amarelo ocupa o topo. A metade inferior creme mostra um entregador sorrindo em bicicleta, com capacete e mochila amarela; há texto legal muito pequeno na lateral direita.",
+  "por_que_funciona": [
+    "A foto do entregador com mochila mostra uma situação reconhecível de trabalho.",
+    "A diagonal entre amarelo e creme acompanha o recorte da pessoa.",
+    "A chamada em itálico recebe destaque pelo tamanho e pelo espaço livre ao redor."
+  ],
+  "quando_usar": "Para apresentar a atividade de entregas com uma imagem humana em campanhas de alcance e aquisição.",
+  "estrutura_texto": "[MARCA]\nRenda extra [PROPOSTA DE FLEXIBILIDADE]\nFaça entregas de [VEÍCULO 1] ou [VEÍCULO 2]\n[CONDIÇÕES]",
+  "legenda": "Conheça a atividade de entregas pela [plataforma] em [região]. Veja quais veículos são aceitos, os requisitos de participação e as condições de remuneração. Cadastre-se em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use topo amarelo e base creme separados por diagonal suave. Centralize título preto em itálico e subtítulo curto. Posicione foto de entregador com capacete e mochila sobre bicicleta na metade inferior, adaptando a IMAGEM 2 à solução anunciada. Mantenha espaço para termos em tamanho legível; não replique a pessoa ou o cenário da referência.",
+  "alerta_politica": "Meta: não apresentar renda como garantida nem prometer ganhos fáceis. Valores e estimativas precisam de comprovação e condições claras, incluindo requisitos, custos e variação dos resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1556756582270478",
+    "anunciante": "Sou Motorista 99",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 3,
+    "texto_original": "Nova na área: 99Food chegou! Ganhe entregando pela cidade🛵💛\nSeja entregador 99Food➡️\nCadastre-se agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1556756582270478.jpg"
+}

@@ -1,0 +1,97 @@
+{
+ "id": "vid-newsletter-prints",
+ "formato_video": "green-screen",
+ "nichos": [
+  "investimentos",
+  "imoveis",
+  "marketing-trafego",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Apresentador recortado sobre prints de newsletter",
+ "duracao": "26s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quem acompanha [tema] pode receber este resumo por e-mail.",
+  "texto_tela": "Resumo de [tema]",
+  "visual": "Apresentador recortado sobre o topo de um e-mail."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Apresentador recortado sobre o topo de um e-mail.",
+   "fala": "Quem acompanha [tema] pode receber este resumo por e-mail.",
+   "texto_tela": "Resumo de [tema]"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Print da primeira seção, apresentador na metade inferior.",
+   "fala": "O cadastro em [nome do conteúdo] é gratuito. Olha uma edição por dentro.",
+   "texto_tela": "Cadastro gratuito"
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Apresentador pequeno no canto inferior direito, notícia visível.",
+   "fala": "Aqui entram [tipo de notícia] e um link para consultar a fonte.",
+   "texto_tela": "[Notícia] + fonte"
+  },
+  {
+   "tempo": "15-21s",
+   "cena": "Troca para seção de dados; recorte do apresentador ampliado.",
+   "fala": "Também tem [dado ou orientação], com [fonte ou contexto]. Você recebe [frequência].",
+   "texto_tela": "[Dado útil] • [Frequência]"
+  },
+  {
+   "tempo": "21-26s",
+   "cena": "Volta ao topo do e-mail, apresentador em destaque.",
+   "fala": "Toque em [botão], cadastre seu e-mail e receba a próxima edição.",
+   "texto_tela": "Receba a próxima edição"
+  }
+ ],
+ "por_que_funciona": [
+  "A interface de e-mail aparece já no primeiro frame e mostra o tipo de entrega.",
+  "As legendas amarelas com contorno preto se destacam sobre os prints brancos.",
+  "O apresentador diminui para o canto inferior direito e libera a leitura da notícia.",
+  "O último frame retorna ao topo do e-mail durante o convite falado para cadastro."
+ ],
+ "quando_usar": "Para captar contatos com conteúdo recorrente sobre o mercado do comprador. Use quando existir uma edição que possa ser mostrada com fontes verificáveis.",
+ "roteiro_modelo": "[0-4s; início]\nQuem acompanha [tema] pode receber este resumo por e-mail.\n\n[4-9s; corte]\nO cadastro em [nome do conteúdo] é gratuito. Olha uma edição por dentro.\n\n[9-15s; corte]\nAqui entram [tipo de notícia] e um link para consultar a fonte.\n\n[15-21s; corte]\nTambém tem [dado ou orientação], com [fonte ou contexto]. Você recebe [frequência].\n\n[21-26s; corte]\nToque em [botão], cadastre seu e-mail e receba a próxima edição.",
+ "tomadas_celular": [
+  "Grave o trecho 1 da fala em plano médio, celular vertical apoiado, parede lisa e luz frontal de janela; 4s. Recorte o apresentador e ajuste sua escala na edição.",
+  "Grave o trecho 2 da fala em plano médio, celular vertical apoiado, parede lisa e luz frontal de janela; 5s. Recorte o apresentador e ajuste sua escala na edição.",
+  "Grave o trecho 3 da fala em plano médio, celular vertical apoiado, parede lisa e luz frontal de janela; 6s. Recorte o apresentador e ajuste sua escala na edição.",
+  "Grave o trecho 4 da fala em plano médio, celular vertical apoiado, parede lisa e luz frontal de janela; 6s. Recorte o apresentador e ajuste sua escala na edição.",
+  "Grave o trecho 5 da fala em plano médio, celular vertical apoiado, parede lisa e luz frontal de janela; 5s. Recorte o apresentador e ajuste sua escala na edição.",
+  "Grave a tela do celular percorrendo uma edição autorizada e sem dados pessoais; brilho fixo, 12s para recortar."
+ ],
+ "caminho_ia": "Use Sora ou Runway para cenas e CapCut para montagem e textos editáveis. Use avatar autorizado ou voz clonada com autorização para a fala. Prompts: \"Vertical 9:16, white email newsletter interface with blank article panels for [product topic], front view, no personal data, eye-level smartphone camera, soft frontal fill lighting, natural motion, no logos, no text.\" e \"Vertical 9:16, generic presenter pointing toward upper right, neutral background for compositing, [product topic] explainer, soft indoor lighting, locked camera, realistic proportions, no branding.\" Monte páginas com imagens geradas e conteúdo real em texto editável; sobreponha o avatar, reduza-o no detalhe da notícia e use legendas amarelas com contorno preto.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao produto abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nApresentador recortado sobre cinco prints, com mudança de escala para liberar a leitura. Tom de dica prática, legendas amarelas com contorno preto. Mostre entrega, gratuidade, notícia com fonte, segunda seção e cadastro. Não copie notícias, indicadores, números, identidade ou dados pessoais da referência. Use estes blocos: 0-4s: Apresentador recortado sobre o topo de um e-mail.; 4-9s: Print da primeira seção, apresentador na metade inferior.; 9-15s: Apresentador pequeno no canto inferior direito, notícia visível.; 15-21s: Troca para seção de dados; recorte do apresentador ampliado.; 21-26s: Volta ao topo do e-mail, apresentador em destaque.. Escreva em pt-BR falado, frases curtas e campos [adaptáveis], sem superlativos sem prova ou frases de efeito. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Receba [conteúdo] sobre [tema] por e-mail, [frequência]. O cadastro é gratuito em [canal].",
+ "alerta_politica": "Meta: não sugira conhecer a situação financeira pessoal do público nem prometa retorno garantido. CVM: publicidade de análise deve ser verdadeira, sem promessa de rentabilidade futura ou ausência de risco; desempenho passado não garante retorno futuro. Recomendações profissionais de valores mobiliários podem exigir credenciamento mesmo quando chamadas de educativas. Se houver oferta de crédito, observar as exigências do Banco Central sobre custos e condições. Referência: https://www.gov.br/cvm/pt-br/assuntos/noticias/2019-1/orientacoes-para-analistas-de-valores-mobiliarios-4773d2705983437eab40f7a0e3c45579",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-49bdc31f",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-newsletter-prints/frames/f1.jpg",
+    "videos/vid-newsletter-prints/frames/f2.jpg",
+    "videos/vid-newsletter-prints/frames/f3.jpg",
+    "videos/vid-newsletter-prints/frames/f4.jpg",
+    "videos/vid-newsletter-prints/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c86fdda4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

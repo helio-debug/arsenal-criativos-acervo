@@ -1,0 +1,102 @@
+{
+ "id": "vid-prints-beneficio-contestado",
+ "tipo": "video",
+ "titulo": "Apresentador recortado sobre prints contesta um benefício com evidências",
+ "formato_video": "green-screen",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "investimentos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "33-39s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "O anúncio destaca [benefício]. A condição de uso merece uma olhada.",
+  "texto_tela": "Confira [CONDIÇÃO]",
+  "visual": "Print escuro ocupa o fundo; apresentador recortado na parte inferior e faixa branca com título no centro."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Print autorizado do anúncio ao fundo, com título em faixa branca; rosto recortado abaixo.",
+   "fala": "O anúncio destaca [benefício]. A condição de uso merece uma olhada.",
+   "texto_tela": "Confira [CONDIÇÃO]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Troque o fundo por painel ou documento que mostre a condição; deixe o campo livre do recorte.",
+   "fala": "O destaque fala em [medida anunciada]. Neste campo aparece [limite ou condição], válido em [período].",
+   "texto_tela": "[MEDIDA] / [PERÍODO]"
+  },
+  {
+   "tempo": "12-19s",
+   "cena": "Amplie o trecho relevante; adicione contorno vermelho sem alterar o dado.",
+   "fala": "No exemplo de [uso], isso significa [consequência verificável]. A conta considera [premissa].",
+   "texto_tela": "[CONSEQUÊNCIA VERIFICÁVEL]"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Troque para uma segunda fonte autorizada, com data e origem genérica legíveis.",
+   "fala": "Eu conferi também [segunda fonte]. Ela informa [fato documentado], na data de [data].",
+   "texto_tela": "Fonte: [DOCUMENTO] • [DATA]"
+  },
+  {
+   "tempo": "26-33s",
+   "cena": "Mostre uma ficha com as condições comparadas; rosto continua recortado na parte inferior.",
+   "fala": "Antes de escolher [produto], compare [critério principal] com [necessidade de uso]. Confira a versão atual das condições.",
+   "texto_tela": "Confira [CRITÉRIO]"
+  },
+  {
+   "tempo": "33-39s",
+   "cena": "Corte para câmera direta em cômodo claro, enquadramento próximo e legenda branca.",
+   "fala": "Eu explico as condições de [categoria] por aqui. Acompanhe para ver as próximas análises.",
+   "texto_tela": "Acompanhe as análises"
+  }
+ ],
+ "por_que_funciona": [
+  "A faixa branca com a contestação se destaca sobre o print escuro no primeiro frame.",
+  "O painel de uso no segundo frame coloca uma condição mensurável atrás do apresentador.",
+  "Os prints mudam enquanto o rosto recortado permanece na parte inferior, ligando comentário e documento.",
+  "O último frame abandona os prints e mostra o cômodo claro, dando um encerramento visual à análise."
+ ],
+ "quando_usar": "Para serviços, ferramentas e conteúdo de investimentos quando houver um benefício anunciado com condições documentadas. Use no topo do funil para ensinar a conferir limites e critérios antes da contratação.",
+ "roteiro_modelo": "O anúncio destaca [benefício]. A condição de uso merece uma olhada.\n\n[Corte / pausa]\n\nO destaque fala em [medida anunciada]. Neste campo aparece [limite ou condição], válido em [período].\n\n[Corte / pausa]\n\nNo exemplo de [uso], isso significa [consequência verificável]. A conta considera [premissa].\n\n[Corte / pausa]\n\nEu conferi também [segunda fonte]. Ela informa [fato documentado], na data de [data].\n\n[Corte / pausa]\n\nAntes de escolher [produto], compare [critério principal] com [necessidade de uso]. Confira a versão atual das condições.\n\n[Corte / pausa]\n\nEu explico as condições de [categoria] por aqui. Acompanhe para ver as próximas análises.",
+ "tomadas_celular": [
+  "Grave a abertura em plano próximo, celular vertical e luz frontal de janela, fundo liso para recorte; 5s.",
+  "Grave a explicação do primeiro documento com o rosto na metade inferior, luz frontal constante; 7s.",
+  "Grave o cálculo com gesto para a área superior, celular apoiado e luz suave; 7s.",
+  "Filme o segundo documento com câmera traseira perpendicular à tela, brilho ajustado e sem reflexos; 7s.",
+  "Grave a orientação final em plano próximo, fundo liso e luz frontal; 7s.",
+  "Grave o encerramento no cômodo, sem recorte, com celular à altura dos olhos e janela à frente; 6s."
+ ],
+ "caminho_ia": "Use avatar com voz sintética no CapCut sobre documentos autorizados; recorte o fundo e preserve os trechos citados. Para fundos ilustrativos, use Runway: \"Vertical 9:16 editorial background, dark generic dashboard for [product category], empty readable panels for verified data to be added in post, static camera, no logos, no invented numbers.\" e \"Vertical medium close-up of a fictional presenter in a bright home office, soft window light, eye-level camera, neutral expression, subtle hand gesture, clean background, no logos.\" Documentos gerados devem aparecer como simulação, nunca como evidência; se não houver documentos, mantenha os campos para preenchimento e não publique conclusões.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 39s em seis blocos: benefício anunciado; condição documentada; consequência calculada; segunda fonte; critério de escolha; convite para acompanhar. Apresentador recortado embaixo, prints escuros ao fundo, faixa branca inicial, contorno vermelho nos campos e legendas brancas curtas. Termine em câmera direta. Tom crítico e factual, sem acusar mentira ou intenção oculta. Não copie marcas, pessoas, posts ou alegações da referência. Exija data, fonte e premissas para cada comparação; deixe [campo a verificar] onde faltar evidência. Para investimentos, não prometa rentabilidade nem recomende ativo individualmente. Não use antíteses vazias, superlativos sem prova ou perguntas decorativas. Escreva em pt-BR falado, com [colchetes] para dados que preciso completar.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Benefício anunciado] tem esta condição: [condição documentada]. Confira [documento e data] e compare com [necessidade de uso]. Acompanhe as próximas análises de [categoria].",
+ "alerta_politica": "Meta: não use afirmações financeiras enganosas, lucro garantido ou atributos pessoais sobre a situação financeira do público. Para investimentos, siga as regras da CVM aplicáveis à publicidade e à atividade exercida, incluindo riscos e ausência de garantia de rentabilidade. Se a adaptação envolver crédito ou instituição financeira, observe também as regras do Banco Central; não prometa aprovação.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-70d7db4a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-prints-beneficio-contestado/frames/f1.jpg",
+    "videos/vid-prints-beneficio-contestado/frames/f2.jpg",
+    "videos/vid-prints-beneficio-contestado/frames/f3.jpg",
+    "videos/vid-prints-beneficio-contestado/frames/f4.jpg",
+    "videos/vid-prints-beneficio-contestado/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-94d8ae66",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

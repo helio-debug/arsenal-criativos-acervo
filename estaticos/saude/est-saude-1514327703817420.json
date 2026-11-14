@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1514327703817420",
+  "tipo": "estatico",
+  "titulo": "Embalagem com produto e lista de aplicações",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Caixa branca em perspectiva com duas meias ilustradas e setas verdes indicando compressão. Duas faixas pretas exibem endosso profissional e uma lista de condições de saúde.",
+  "por_que_funciona": [
+    "A caixa em perspectiva apresenta o produto como item de prateleira.",
+    "As meias azuis contrastam com a embalagem branca.",
+    "As setas verdes tornam visível a proposta de compressão.",
+    "As faixas pretas organizam endosso e lista em blocos distintos."
+  ],
+  "quando_usar": "Para apresentar características de acessórios de compressão, com indicação e especificações adequadas ao produto.",
+  "estrutura_texto": "[Categoria do produto]\n[Imagem do par]\n[Endosso comprovado, se houver]\n[Características ou indicações autorizadas]",
+  "legenda": "Conheça [produto] para [uso indicado]. Consulte [tamanhos e níveis de compressão] e as orientações de uso em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e embalagem retangular em perspectiva, com sombra suave à direita. Na frente, mostre um par do produto em azul com detalhes verdes; acrescente título preto no topo e blocos pretos inferiores com texto branco. Use características verificadas e inclua endosso profissional somente se documentado.",
+  "alerta_politica": "Meta: evite atribuir doenças ao público. ANVISA: indicações terapêuticas e alegações de compressão devem corresponder à regularização e às instruções do produto. Não reproduza a lista de doenças como promessa de tratamento; endosso profissional exige comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1514327703817420",
+    "anunciante": "Ortoetech",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 2,
+    "texto_original": "🔥 Cuide dos seus pés com o conforto e a qualidade que eles merecem!\n\n🌟 Descubra a linha completa de produtos da OrtoeTech, especialmente desenvolvidos para aliviar dores e melhorar a sua saúde.🥰\n\n🧦 Meias de Compressão: Melhoram a circulação e reduzem o inchaço, trazendo alívio imediato para as pernas cansadas.\n\n🩺 Meias Diabéticas: Feitas para garantir conforto e proteção, mantendo seus pés saudáveis e livres de irritações.\n\n👟 Palmilhas Ortopédicas: Suporte perfeito para reduzir o impacto e aliviar a fascite plantar e esporão de calcâneo.\n\n✅ Cuide da sua saúde e sinta a diferença que nossos produtos podem fazer no seu dia a dia.\nEscolha o seu agora e dê o primeiro passo para uma vida sem dores!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1514327703817420.jpg"
+}

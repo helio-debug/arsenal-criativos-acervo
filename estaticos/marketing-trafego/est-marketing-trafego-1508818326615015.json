@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1508818326615015",
+  "tipo": "estatico",
+  "titulo": "Vaga de tráfego com requisitos e tarefas em lista",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical em azul-escuro apresenta uma vaga de gestor de tráfego. Texto branco centralizado organiza requisitos, responsabilidades e condições de trabalho com sinais verdes de confirmação.",
+  "por_que_funciona": [
+    "O título com símbolos de alerta anuncia a vaga imediatamente.",
+    "Os subtítulos separam experiência exigida das tarefas do cargo.",
+    "Os sinais verdes marcam cada item da lista de responsabilidades.",
+    "Contrato e trabalho remoto aparecem ao final, antes da assinatura."
+  ],
+  "quando_usar": "Para recrutar profissionais de marketing com experiência e responsabilidades previamente definidas.",
+  "estrutura_texto": "🚨 Vaga para [cargo] ⚠️\nPré-requisitos\n• [experiência]\n• [ferramentas]\nDemandas a serem atendidas:\n• [entrega]\n• [rotina com clientes]\n• [responsabilidade]\n[modelo de contrato]\n[local de trabalho]\n[assinatura]",
+  "legenda": "[Empresa] está com vaga para [cargo]. Buscamos experiência em [área] e domínio de [ferramentas]. Atuação em [modelo de trabalho], com [tipo de contrato]. Candidate-se em [canal] seguindo [instruções].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo vertical azul-marinho com formas geométricas discretas e iluminação azul na base. Use título branco em negrito com pequenos ícones de alerta. Organize o centro em seções de pré-requisitos e responsabilidades, com texto branco e pequenos checks verdes. Destaque modelo de contrato e local de trabalho na parte inferior, terminando com a assinatura da minha marca. Use a IMAGEM 2 apenas se corresponder a um elemento pertinente à empresa.",
+  "alerta_politica": "Por se tratar de recrutamento, respeite as regras da Meta para anúncios de emprego, incluindo categoria especial quando exigida e restrições de segmentação aplicáveis. Evite requisitos discriminatórios sem justificativa legal.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1508818326615015",
+    "anunciante": "Scala.Ecommerce",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-09-19",
+    "dias_no_ar": 1152,
+    "variacoes_ativas": 1,
+    "texto_original": "Scala.Ecommerce",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1508818326615015.jpg"
+}

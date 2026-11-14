@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-655286533362248",
+  "tipo": "estatico",
+  "titulo": "Diálogo de meme com preço de procedimento",
+  "formato": "Comparativo",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Dois cães com aparências distintas aparecem lado a lado sob um diálogo humorístico sobre dinheiro. O canto inferior direito traz selo de preço e oferta de bioestimulador de colágeno.",
+  "por_que_funciona": [
+    "O diálogo no cabeçalho transforma as duas fotos em uma piada de leitura rápida.",
+    "O contraste visual entre os cães sustenta o humor da peça.",
+    "O preço destacado no canto inferior direito conecta o meme ao serviço anunciado.",
+    "A moldura azul organiza cabeçalho, imagem e assinatura."
+  ],
+  "quando_usar": "Como referência de composição para divulgar serviços com humor, substituindo a associação entre aparência e resultado por uma situação sem comparação estética.",
+  "estrutura_texto": "[Pergunta bem-humorada sobre compra]\n[Resposta curta]\n[Selo comercial comprovável]\n[Procedimento]\nR$ [valor]\n[Assinatura]",
+  "legenda": "Conheça [procedimento] em [clínica]. Solicite uma avaliação com [profissional habilitado] para entender indicação, condições e valor de [serviço]. Atendimento em [local].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use moldura azul-marinho e cabeçalho azul-claro arredondado com duas falas em azul escuro, uma acima de cada personagem. Na área central, use dois cães expressivos em uma situação humorística sem sugerir transformação estética ou antes e depois. No canto inferior direito, destaque o nome do serviço e o preço informado; no rodapé, reserve assinatura discreta. Use a IMAGEM 2 para identificar o serviço sem mostrar aplicação invasiva. Não use selo de menor preço sem comprovação.",
+  "alerta_politica": "Meta/ANVISA e conselho profissional aplicável: evitar comparação que sugira antes e depois ou resultado estético garantido. Bioestimulador injetável exige avaliação e profissional habilitado; não anunciar produto de uso profissional como suplemento. Alegação de menor preço exige comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "655286533362248",
+    "anunciante": "Huff Life - Barra Sul",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-03-23",
+    "dias_no_ar": 966,
+    "variacoes_ativas": 1,
+    "texto_original": "✨ Bioestimulador de colágeno ✨\n\nGerencie o seu envelhecimento e desacelere o tempo com o poder do bioestimulador de colágeno!\n\n💰 R$ 699,90 - Next\n💰 R$ 1.199,90 - Radiesse\n💰 R$ 1.599,90 - Sculptra\n💰 R$ 899,90 - Rennova Diamond\n\n📍Porto Alegre - Av. Diário de notícias, 200 - Cristal Tower / Barra Shopping Sul\n\n📍Porto Alegre - Zona Norte - Av. Assis Brasil, 2827, sala 1118 / Torre A \n\n📍Canoas, centro - R. Silva Paes, 160 \n\n📍São Leopoldo, centro - R. Bento Gonçalves, 1001, loja 02\n\n📍Viamão, centro - Av Bento Gonçalves, 727\n\nAgende agora a sua avaliação! \n📲 (51) 99214-5114 \n\n🏆 Temos o menor preço do BRASIL! \n\n#bioestimuladordecolageno #bioestimulador #colageno #flacidez #rejuvenescimento #procedimentosesteticos #procedimentos #clinicaestetica #hufflife #barrasul #poazonanorte #canoas #saoleopoldo #viamão",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-655286533362248.jpg"
+}

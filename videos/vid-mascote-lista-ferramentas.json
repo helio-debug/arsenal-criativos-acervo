@@ -1,0 +1,101 @@
+{
+ "id": "vid-mascote-lista-ferramentas",
+ "titulo": "Mascote pixelado apresenta ferramentas e suas funções em sequência",
+ "formato_video": "mascote-animado",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "40-50s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Separei cinco recursos de [produto] para usar em [tarefa].",
+  "texto_tela": "5 recursos para [tarefa]",
+  "visual": "Mascote original pixelado sobre um painel claro, conectado a cinco cartões pequenos."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano geral gráfico: mascote acima de cinco cartões conectados. Título curto no topo.",
+   "fala": "Separei cinco recursos de [produto] para usar em [tarefa].",
+   "texto_tela": "5 recursos para [tarefa]"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Primeiro cartão ocupa o centro; mostrar uma entrada e a saída correspondente.",
+   "fala": "Um: [recurso 1]. Use para [ação 1] quando [situação 1].",
+   "texto_tela": "01 | [recurso 1]"
+  },
+  {
+   "tempo": "11-18s",
+   "cena": "Segundo cartão entra de lado com demonstração de uma ação. Mascote pequeno no canto.",
+   "fala": "Dois: [recurso 2]. Ele ajuda a [ação 2]. Veja [exemplo curto].",
+   "texto_tela": "02 | [recurso 2]"
+  },
+  {
+   "tempo": "18-25s",
+   "cena": "Trocar fundo claro por escuro. Painel do terceiro recurso mostra o material sendo organizado.",
+   "fala": "Três: [recurso 3]. Aqui, [entrada] vira [saída observável].",
+   "texto_tela": "03 | [recurso 3]"
+  },
+  {
+   "tempo": "25-32s",
+   "cena": "Quarto cartão com diagrama simples ligando o recurso à tarefa.",
+   "fala": "Quatro: [recurso 4]. Use em [situação 4] para [ação 4].",
+   "texto_tela": "04 | [recurso 4]"
+  },
+  {
+   "tempo": "32-39s",
+   "cena": "Quinto cartão em fundo escuro; abrir pequenas janelas de exemplo ao redor.",
+   "fala": "Cinco: [recurso 5]. Ele serve para [ação 5], como neste [exemplo].",
+   "texto_tela": "05 | [recurso 5]"
+  },
+  {
+   "tempo": "39-45s",
+   "cena": "Reunir os cinco cartões no alto e destacar uma caixa de comentário no centro.",
+   "fala": "Quer consultar a lista depois? Comente [palavra-chave] para receber [material gratuito].",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "por_que_funciona": [
+  "O mascote pixelado reaparece ao lado das interfaces e mantém um ponto de referência durante a troca de painéis.",
+  "Os títulos numerados e a fileira de abas permitem acompanhar a lista de cinco itens.",
+  "A alternância entre fundos claros e escuros separa os exemplos de interfaces.",
+  "A caixa de comentário no fechamento transforma a lista apresentada em um pedido específico de material."
+ ],
+ "quando_usar": "Para cursos, ferramentas e soluções B2B com cinco recursos demonstráveis. Use no primeiro contato para oferecer uma lista gratuita ligada ao produto.",
+ "roteiro_modelo": "Separei cinco recursos de [produto] para usar em [tarefa].\n\n[PAUSA / CORTE]\n\nUm: [recurso 1]. Use para [ação 1] quando [situação 1].\n\n[PAUSA / CORTE]\n\nDois: [recurso 2]. Ele ajuda a [ação 2]. Veja [exemplo curto].\n\n[PAUSA / CORTE]\n\nTrês: [recurso 3]. Aqui, [entrada] vira [saída observável].\n\n[PAUSA / CORTE]\n\nQuatro: [recurso 4]. Use em [situação 4] para [ação 4].\n\n[PAUSA / CORTE]\n\nCinco: [recurso 5]. Ele serve para [ação 5], como neste [exemplo].\n\n[PAUSA / CORTE]\n\nQuer consultar a lista depois? Comente [palavra-chave] para receber [material gratuito].",
+ "tomadas_celular": [
+  "Grave cinco cartões de papel vistos de cima, 4s, luz de janela lateral; desenhe um personagem próprio no primeiro.",
+  "Filme a mão acionando [recurso 1] em plano fechado, 6s, luz difusa e tela sem reflexos.",
+  "Filme [recurso 2] em uso, plano a 45 graus, 6s, janela à frente.",
+  "Capture [recurso 3] em detalhe, 6s, celular apoiado e luz lateral suave.",
+  "Mostre [recurso 4] e [recurso 5] em dois planos fechados de 6s, mesma luz.",
+  "Filme a lista completa sobre a mesa, plano superior, 5s, luz uniforme; adicione a chamada no editor."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou Runway e monte no CapCut com imagens geradas em camadas. Use estes prompts de cena: \"Vertical 9:16 motion design, original pixel mascot above five connected blank feature cards for [product], pale background, slow lateral camera slide, clean negative space, no logos, no text.\" \"Vertical 9:16 dark interface mockup demonstrating [feature] with [input] changing into [output], cyan highlights, locked camera, six seconds, no readable text, no logos.\" Acrescente títulos, numeração e legendas no editor, para manter o texto legível. Use voz sintética em pt-BR ou voz clonada com autorização, sem imitar a voz da referência. Sincronize cada troca visual à narração. Represente funções e resultados verificáveis do produto; identifique como ilustração qualquer interface ou demonstração simulada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo e exemplos próprios.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nLista de cinco recursos: abertura de 4s, cinco demonstrações de 7s e fechamento de 6s, total 45s. Mascote original recorrente, cartões numerados, alternância de fundo claro e escuro e legendas curtas. Uma função e um uso concreto por item. Não afirme que todo produto tem integrações; adapte para recursos, módulos ou aplicações reais. Não copie o personagem, interfaces, nomes de ferramentas, promessa multiplicadora ou falas da referência. Use pt-BR falado e direto, frases curtas e [colchetes] para dados ausentes. Não invente benefícios, números ou condições. Evite superlativos, perguntas de enfeite e antíteses vazias. Mostre apenas informações da minha marca; não reproduza nomes, pessoas, logotipos, contatos ou domínios da referência. Ofereça material gratuito apenas se informado; se faltar, sinalize [material gratuito a definir].\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [aplicações ou etapas demonstradas] de [produto] em [situação de uso]. Comente [palavra-chave] para receber [material gratuito] com [conteúdo do material]. [Condição real de acesso, se houver].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f63cdb0a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-mascote-lista-ferramentas/frames/f1.jpg",
+    "videos/vid-mascote-lista-ferramentas/frames/f2.jpg",
+    "videos/vid-mascote-lista-ferramentas/frames/f3.jpg",
+    "videos/vid-mascote-lista-ferramentas/frames/f4.jpg",
+    "videos/vid-mascote-lista-ferramentas/frames/f5.jpg"
+   ]
+  }
+ ]
+}

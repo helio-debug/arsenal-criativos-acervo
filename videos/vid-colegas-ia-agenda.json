@@ -1,0 +1,109 @@
+{
+ "id": "vid-colegas-ia-agenda",
+ "formato_video": "cenas-ia",
+ "nichos": [
+  "saas-b2b",
+  "servicos-locais",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Diálogo animado com demonstração no celular e preço",
+ "duracao": "35s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio de duas personagens 3D num balcão; uma de costas em primeiro plano e movimento ao fundo.",
+   "fala": "A: Tem bastante movimento aqui numa [dia da semana]. O que você mudou?",
+   "texto_tela": "[Situação visível no negócio]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Close da visitante, sobrancelhas levantadas; legenda branca abaixo do rosto.",
+   "fala": "A: Eu ainda faço [tarefa] do jeito antigo. Demoro [tempo real] e preciso de outra opção.",
+   "texto_tela": "[Tarefa] leva [tempo real]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Contraplano da atendente, que inclina o celular para a câmera.",
+   "fala": "B: Comecei a usar [produto]. Ele ajuda a [função principal]. Olha aqui como faço [ação concreta].",
+   "texto_tela": "[Produto]: [função principal]"
+  },
+  {
+   "tempo": "19-25s",
+   "cena": "Detalhe do celular com exemplo legível, seguido da reação da visitante.",
+   "fala": "A: E quanto custa? B: [Preço] por [período]. O plano inclui [recurso demonstrado].",
+   "texto_tela": "[Preço] / [período]"
+  },
+  {
+   "tempo": "25-30s",
+   "cena": "Plano das duas ao lado do balcão; expressão relaxada, sem novos elementos.",
+   "fala": "A: Dá pra experimentar antes? B: Dá. O teste tem [duração] e funciona com [condição do teste].",
+   "texto_tela": "Teste: [duração e condição]"
+  },
+  {
+   "tempo": "30-35s",
+   "cena": "Cartela clara com botão roxo central, sem avaliações inventadas.",
+   "fala": "B: Toque em Saiba mais e veja como testar [produto].",
+   "texto_tela": "Teste [produto] | Saiba mais"
+  }
+ ],
+ "hook": {
+  "falado": "A: Tem bastante movimento aqui numa [dia da semana]. O que você mudou?",
+  "texto_tela": "[Situação visível no negócio]",
+  "visual": "Plano médio de duas personagens 3D num balcão; uma de costas em primeiro plano e movimento ao fundo."
+ },
+ "por_que_funciona": [
+  "A fila atrás da visitante torna a observação sobre o movimento visível logo na abertura.",
+  "O close da visitante acompanha a fala sobre gasto e dificuldade, antes de apresentar a ferramenta.",
+  "A atendente vira o celular para a câmera enquanto explica a função; a solução ganha um objeto em cena.",
+  "A conversa termina numa cartela clara com botão roxo, separando a história da ação de testar."
+ ],
+ "quando_usar": "Para software ou serviço com uma função que caiba numa tela de celular. Use no fundo do funil, quando preço e condições do teste ajudam a decidir.",
+ "roteiro_modelo": "A: Tem bastante movimento aqui numa [dia da semana]. O que você mudou?\n\n[Pausa curta / corte]\n\nA: Eu ainda faço [tarefa] do jeito antigo. Demoro [tempo real] e preciso de outra opção.\n\n[Pausa curta / corte]\n\nB: Comecei a usar [produto]. Ele ajuda a [função principal]. Olha aqui como faço [ação concreta].\n\n[Pausa curta / corte]\n\nA: E quanto custa? B: [Preço] por [período]. O plano inclui [recurso demonstrado].\n\n[Pausa curta / corte]\n\nA: Dá pra experimentar antes? B: Dá. O teste tem [duração] e funciona com [condição do teste].\n\n[Pausa curta / corte]\n\nB: Toque em Saiba mais e veja como testar [produto].",
+ "tomadas_celular": [
+  "Plano médio de duas pessoas num balcão, celular apoiado na vertical e luz de janela lateral; grave 5s.",
+  "Close da pessoa que pergunta, câmera na altura dos olhos e luz frontal difusa; grave 6s.",
+  "Contraplano de quem explica, celular na mão e luz lateral suave; grave 8s.",
+  "Detalhe do celular sem reflexos, perto de uma janela e com exposição travada na tela; grave 6s.",
+  "Plano conjunto com as duas pessoas, mesma luz e câmera fixa; grave 5s.",
+  "Plano de uma folha clara com [produto] e indicação de teste, luz uniforme e enquadramento fechado; grave 5s para receber o botão na edição."
+ ],
+ "caminho_ia": "Faça as cenas no Veo ou Kling, com duas personagens 3D originais e vozes sintéticas distintas em pt-BR. Mantenha roupa, cenário e direção dos olhares entre planos. Prompt 1: \"Vertical 9:16 stylized 3D animation, medium over-the-shoulder shot of two original adult coworkers at a [business type] counter, background activity, soft warm practical lighting, subtle facial acting, five seconds, no logos, no baked-in text.\" Prompt 2: \"Vertical 9:16 stylized 3D animation, reverse medium close-up of the same worker presenting a smartphone with a blank screen for [product] demo compositing, controlled wrist movement, consistent wardrobe and lighting, eight seconds, no logos.\" Monte no CapCut, aplique telas demonstrativas autorizadas e cartela com preço real. Mantenha aviso legível de personagens geradas por IA e história ilustrativa; a animação não deve parecer um depoimento real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 35s em seis blocos: 0-5s observação concreta; 5-11s dificuldade; 11-19s resposta e celular; 19-25s preço; 25-30s condições do teste; 30-35s CTA. Use diálogo A/B informal, alternância de planos e closes de reação. Legendas brancas curtas, aviso de história ilustrativa e personagens de IA, cartela final clara com botão roxo. Mostre a função do meu produto numa situação plausível. Não atribua movimento, economia ou clientes ao produto sem prova. Não copie a cafeteria, a aparência das personagens ou o preço da referência. Não invente estrelas de avaliação. Não copie pessoas, marcas, nomes, interfaces identificáveis nem falas da referência. Use apenas benefícios comprováveis. Não invente preço, prazo ou resultado. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas de enfeite e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa] ainda ocupa [tempo real] na rotina? Veja como [produto] ajuda a [função]. Teste por [duração], com [condições]. Toque em Saiba mais.",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-efa529b8",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-colegas-ia-agenda/frames/f1.jpg",
+    "videos/vid-colegas-ia-agenda/frames/f2.jpg",
+    "videos/vid-colegas-ia-agenda/frames/f3.jpg",
+    "videos/vid-colegas-ia-agenda/frames/f4.jpg",
+    "videos/vid-colegas-ia-agenda/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-6d2f5669",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f41f3b76",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

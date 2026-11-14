@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1741965867040256",
+  "tipo": "estatico",
+  "titulo": "Limite extra com interface inclinada e CTA central",
+  "formato": "Print de tela",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Chamada branca sobre fundo verde vivo anuncia limite para parcelar no Pix. A tela inclinada tem cartão de limite em primeiro plano, dois balões laterais e botão de download sobre a parte inferior da interface.",
+  "por_que_funciona": [
+    "O título branco grande torna a proposta de limite extra o primeiro foco.",
+    "A tela inclinada e o cartão sobreposto criam camadas para destacar o valor.",
+    "Os balões laterais explicam ausência de cartão e número de parcelas.",
+    "O botão branco contornado permanece destacado sobre o verde da interface."
+  ],
+  "quando_usar": "Para divulgar parcelamento por aplicativo, mostrando uma simulação de limite e as condições de uso.",
+  "estrutura_texto": "[marca]\nLIMITE EXTRA\nPARA PARCELAR NO PIX\n[dispensa de cartão]\n[saudação]\nAproveite seu limite\n[valor ilustrativo]\n[bônus e condições]\n[campo Pix]\nSuas compras online em até [parcelas]\n[lojas parceiras]\nBAIXE O APP\n[ressalva de análise]",
+  "legenda": "Use [solução] para parcelar compras via Pix sem cartão. A primeira parcela é paga em [momento] e as demais em [condições]. Baixe em [destino] para consultar seu limite e os custos. Sujeito à análise de crédito.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use verde vivo com brilho suave central e título branco grande no terço superior. Incline a interface do aplicativo no centro e sobreponha cartão branco com limite ilustrativo. Acrescente dois balões verdes laterais com condições comprovadas e um botão branco contornado na parte inferior. Mantenha ressalvas legíveis, parceiros autorizados e valores claramente ilustrativos; não invente bônus ou urgência.",
+  "alerta_politica": "Meta: publicidade de crédito deve informar critérios de elegibilidade, análise, juros, CET e condições do parcelamento conforme aplicáveis. Não garantir aprovação ou limite imediato para todas as pessoas; valores ilustrativos e bônus precisam de condições claras.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1741965867040256",
+    "anunciante": "Koin Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-15",
+    "dias_no_ar": 60,
+    "variacoes_ativas": 2,
+    "texto_original": "Pix Parcelado Sem Cartão Nunca Foi Tão Fácil. A 1ª Parcela Na Hora e o Restante Depois\nLimite Extra na hora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1741965867040256.jpg"
+}

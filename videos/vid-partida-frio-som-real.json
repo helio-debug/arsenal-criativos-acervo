@@ -1,0 +1,74 @@
+{
+ "id": "vid-partida-frio-som-real",
+ "tipo": "video",
+ "titulo": "Partida a frio em plano contínuo com painel e áudio do motor",
+ "formato_video": "som-direto-mecanico",
+ "nichos": [
+  "automotivo"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Ouve a partida deste [modelo e ano].",
+  "texto_tela": "Áudio real da unidade",
+  "visual": "Painel aparece antes de acionar a partida, sem música."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Painel aparece antes de acionar a partida, sem música.",
+   "fala": "Ouve a partida deste [modelo e ano].",
+   "texto_tela": "Áudio real da unidade"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Plano contínuo registra ignição e estabilização.",
+   "fala": "Gravado em [data], com [condição verificada].",
+   "texto_tela": "Captação sem troca de áudio"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Corta depois da sequência para odômetro e identificação.",
+   "fala": "Esta unidade tem [quilometragem conferida]. O histórico disponível está em [documento].",
+   "texto_tela": "Confira o histórico"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Plano externo com convite de vistoria.",
+   "fala": "O vídeo é uma amostra. Agende uma avaliação e um test drive de [veículo].",
+   "texto_tela": "Veja a unidade de perto"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Painel aparece antes de acionar a partida, sem música.",
+  "O desenvolvimento mantém a informação ligada à imagem: Plano contínuo registra ignição e estabilização.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Corta depois da sequência para odômetro e identificação."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho automotivo, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Ouve a partida deste [modelo e ano]. [Manter na tela: Áudio real da unidade]\n4-11s | Gravado em [data], com [condição verificada]. [Manter na tela: Captação sem troca de áudio]\n11-19s | Esta unidade tem [quilometragem conferida]. O histórico disponível está em [documento]. [Manter na tela: Confira o histórico]\n19-27s | O vídeo é uma amostra. Agende uma avaliação e um test drive de [veículo]. [Manter na tela: Veja a unidade de perto]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Painel aparece antes de acionar a partida, sem música.",
+  "Plano próximo sem reflexos; travar foco e exposição: Plano contínuo registra ignição e estabilização.",
+  "Plano de detalhe legível, sem zoom digital: Corta depois da sequência para odômetro e identificação.",
+  "Plano final estável, com área livre para legenda e botão: Plano externo com convite de vistoria.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Painel aparece antes de acionar a partida, sem música. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Plano contínuo registra ignição e estabilização. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Partida a frio em plano contínuo com painel e áudio do motor, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Painel aparece antes de acionar a partida, sem música. Depois, Plano contínuo registra ignição e estabilização. Depois, Corta depois da sequência para odômetro e identificação. Depois, Plano externo com convite de vistoria. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "legenda": "O vídeo é uma amostra. Agende uma avaliação e um test drive de [veículo]. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "4258540287622635",
+   "dias_no_ar": 155,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/automotivo/carro-seminovo/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

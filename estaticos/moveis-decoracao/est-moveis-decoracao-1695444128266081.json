@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1695444128266081",
+  "tipo": "estatico",
+  "titulo": "Tendências de marcenaria sobre ambiente decorado",
+  "formato": "Alerta e educação",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Ambiente com estante planejada, livros e poltrona em tons naturais. Um painel translúcido com contorno inclinado recebe título branco em caixa alta e subtítulo menor.",
+  "por_que_funciona": [
+    "O título grande em branco destaca o assunto sobre a foto.",
+    "A estante e a poltrona ilustram visualmente o tema de interiores.",
+    "O painel translúcido cria uma área de leitura sem ocultar todo o ambiente.",
+    "Os pequenos blocos coloridos marcam o canto superior do painel."
+  ],
+  "quando_usar": "Para fornecedores de materiais e móveis planejados abrirem uma conversa sobre tendências com profissionais e compradores.",
+  "estrutura_texto": "TENDÊNCIAS\nDE [SEGMENTO]\nQUE ESTÃO EM ALTA\nIdeias para [melhoria nos projetos] e [benefício para o cliente]",
+  "legenda": "[Tema] aparece cada vez mais em projetos de [segmento]. Observe como [característica de material ou acabamento] e [solução funcional] podem entrar no seu próximo projeto. O que seus clientes mais têm pedido?",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto de ambiente com o produto da IMAGEM 2, estante ao fundo e poltrona no primeiro plano, em cinza, verde suave e madeira. No centro, coloque um painel escuro translúcido com contorno fino inclinado. Aplique título branco em caixa alta, negrito e itálico, em três linhas, seguido de subtítulo menor. Acrescente dois pequenos retângulos sobrepostos em cores complementares no canto do painel. Use texto sobre [tendências do segmento] sem inventar dados de mercado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1695444128266081",
+    "anunciante": "Clube Duratex",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-28",
+    "dias_no_ar": 170,
+    "variacoes_ativas": 1,
+    "texto_original": "O mercado da marcenaria está em constante transformação.\n\nTons naturais, texturas, funcionalidade e integração de ambientes seguem em alta nos projetos e ajudam a criar espaços mais atuais e acolhedores.\n\nPara o marceneiro, acompanhar tendências é uma forma de ampliar repertório, agregar valor ao atendimento e oferecer soluções mais alinhadas ao que os clientes buscam hoje.\n\nQual dessas tendências mais aparece nos seus projetos atualmente?\n\n#decoraçãodeinteriores #marcenaria #duratex",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1695444128266081.jpg"
+}

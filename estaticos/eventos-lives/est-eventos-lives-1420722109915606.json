@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1420722109915606",
+  "tipo": "estatico",
+  "titulo": "Imersão com especialistas e promessa de controle do cronograma",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Dois especialistas ocupam o topo sobre fundo azul, com transição para preto. O texto central apresenta o benefício da imersão e a base informa data e cidade com ícones.",
+  "por_que_funciona": [
+    "Os dois retratos dão rosto aos responsáveis pela formação.",
+    "A primeira frase em amarelo destaca o problema de cronograma.",
+    "O texto branco descreve controles e antecipação de desvios como conteúdo de interesse.",
+    "Os ícones de calendário e localização facilitam encontrar data e cidade."
+  ],
+  "quando_usar": "Para divulgar uma imersão presencial a gestores que já reconhecem problemas de planejamento.",
+  "estrutura_texto": "[Nome da imersão]\n[Perfil do público]\nPare de [problema operacional].\nTenha [métodos e controles] para [benefício].\n[Datas]\n[Cidade | UF]",
+  "legenda": "[Imersão] para [público]. Serão [duração] de [atividades previstas] para desenvolver [competência]. Encontro em [datas], em [cidade]. Clique em [CTA] e faça sua aplicação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione dois retratos autorizados de especialistas na metade superior sobre azul com arquitetura discreta. Faça uma transição escura para a área de texto. Destaque uma frase curta em amarelo e desenvolva o benefício em branco com tipografia serifada centralizada. Finalize com calendário, datas e localização. Não invente credenciais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1420722109915606",
+    "anunciante": "O Incorporador",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-30",
+    "dias_no_ar": 76,
+    "variacoes_ativas": 1,
+    "texto_original": "[Imersão Incorpora Pro FL] Última turma de 2026! Exclusivo para incorporadores\n \nProfissionalize sua incorporadora com quem já desenvolveu mais de R$ 3 bilhões em VGV.\n \nSão três dias intensos, visitas técnicas, boards consultivos e conteúdos 100% práticos.\n \nA Imersão Incorpora Pro é uma imersão presencial que acontecerá nos dias 26, 27 e 28 de novembro em Goiânia - Goiás.\n \nFaça agora sua aplicação, clique em saiba mais.",
+    "origem_coleta": "acervo:o-incorporador"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1420722109915606.jpg"
+}

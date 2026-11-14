@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1076503291958325",
+  "tipo": "estatico",
+  "titulo": "Indicação a prêmio com convite de participação",
+  "formato": "Comunicado oficial",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Pessoa sorrindo com almofada de viagem aparece sobre fundo azul, cercada por palavras ligadas ao serviço. A metade inferior clara destaca uma indicação a prêmio e mensagem de trajetória conjunta.",
+  "por_que_funciona": [
+    "A almofada de pescoço situa a comunicação no contexto de viagens.",
+    "As etiquetas coloridas ao redor da pessoa tornam visíveis os atributos do serviço.",
+    "A frase central em área clara recebe destaque pela separação da fotografia.",
+    "A indicação inclui ano e categoria, tornando o reconhecimento específico."
+  ],
+  "quando_usar": "Para comunicar uma indicação real a prêmio e mobilizar a base de clientes a votar.",
+  "estrutura_texto": "[Atributos do serviço]\nA gente chegou até aqui. Vamos [continuação coletiva]\nIndicados ao [prêmio e ano]\nCategoria: [categoria]",
+  "legenda": "Fomos indicados ao [prêmio] em [ano], na categoria [categoria]. Você faz parte dessa trajetória. Acesse [link de votação] e vote em [marca].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com azul vivo na metade superior e azul muito claro na inferior. Coloque uma pessoa sorrindo com acessório de viagem da IMAGEM 2 e etiquetas arredondadas coloridas com atributos curtos ao redor. Separe as áreas por uma faixa de módulos geométricos com ícones. Na parte inferior, destaque mensagem de participação conjunta, indicação ao prêmio, ano e categoria. Repita a faixa geométrica no rodapé. Use somente uma indicação comprovada e não copie selos ou logotipos da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1076503291958325",
+    "anunciante": "Quero Passagem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 1,
+    "texto_original": "A QueroPassagem foi indicada ao Prêmio ReclameAqui 2026 em Serviço de Turismo – Grandes Operações! Chegamos até aqui com você. Bora mais longe juntos? Clique no link e vote na gente. 💙",
+    "origem_coleta": "acervo:quero-passagem"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1076503291958325.jpg"
+}

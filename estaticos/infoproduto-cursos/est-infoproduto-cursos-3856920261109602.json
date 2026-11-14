@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3856920261109602",
+  "tipo": "estatico",
+  "titulo": "Curso de informática com ferramentas, certificado e preço",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte quadrada azul com título amarelo dentro de moldura e uma fileira de ícones de programas. Abaixo há uma lista de benefícios ao lado do certificado, com preço em faixa branca no rodapé.",
+  "por_que_funciona": [
+    "O título amarelo em letras grandes destaca a área do curso.",
+    "A fileira de ícones e nomes torna os conteúdos reconhecíveis.",
+    "Os checks verdes organizam modalidade, suporte e acesso em uma lista rápida.",
+    "A faixa branca inferior concentra o preço em grande destaque."
+  ],
+  "quando_usar": "Para vender formação introdutória de informática com conteúdo amplo, suporte e condições de acesso explicitadas.",
+  "estrutura_texto": "CURSO COMPLETO DE [TEMA]\n+ [NÚMERO] bônus exclusivos\n[FERRAMENTAS ENSINADAS]\nCertificado de conclusão\nAulas [MODALIDADE]\n[SUPORTE]\n[CONDIÇÃO DE ACESSO]\nPOR APENAS [PREÇO]",
+  "legenda": "Aprenda [ferramentas e conteúdos] no curso completo de [tema], com aulas [modalidade], [suporte] e [condição de acesso]. Certificado [condições]. Inscreva-se por [preço] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada com fundo azul escuro, moldura amarela arredondada no topo e título branco com tema em amarelo. Organize ícones identificando conteúdos em uma linha central, checks verdes com benefícios à esquerda e imagem de certificado ou material da IMAGEM 2 à direita. Reserve uma faixa branca no rodapé para o preço em azul grande. Use ícones próprios ou autorizados e certificado sem dados pessoais reais. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3856920261109602",
+    "anunciante": "Informática Descomplicada",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 1,
+    "texto_original": "📚 Curso completo de informática 100% online.\n🖥️ Aprenda Windows, Office, Internet e Email.\n🎓 Certificado incluso + acesso vitalício.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3856920261109602.jpg"
+}

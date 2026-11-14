@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-986297380669598",
+  "tipo": "estatico",
+  "titulo": "Curso de idioma ligado à carreira internacional",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Dois profissionais de terno aparecem diante de um mapa-múndi. Um degradê preto sustenta a chamada sobre carreira global, texto sobre aprendizado em seis meses e botão vermelho.",
+  "por_que_funciona": [
+    "O mapa-múndi atrás dos profissionais situa a proposta no contexto internacional.",
+    "A palavra global em vermelho destaca o benefício central do título branco.",
+    "O degradê preto mantém a leitura do texto sobre a fotografia.",
+    "O botão vermelho na base oferece uma próxima ação visível."
+  ],
+  "quando_usar": "Para divulgar cursos de idiomas a profissionais interessados em comunicação no trabalho e oportunidades internacionais.",
+  "estrutura_texto": "[CHAMADA SOBRE OBJETIVO PROFISSIONAL]\n[ALCANCE INTERNACIONAL]\n[OBJETIVO DE APRENDIZADO] EM [PRAZO]\nCOM [MÉTODO]\n[BENEFÍCIO PRETENDIDO]\n[CTA] > [DESTINO]",
+  "legenda": "Quer desenvolver seu [idioma] para situações profissionais? Conheça o curso de [idioma], com [método] e foco em [aplicações práticas]. Confira o programa, a dedicação prevista e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use moldura vermelha com desenhos técnicos finos e painel central de cantos arredondados. Coloque fotografia temática da IMAGEM 2 na metade superior com mapa-múndi ao fundo. Aplique degradê preto para receber título branco em caixa alta e uma palavra-chave vermelha, seguido de texto menor e botão vermelho na base. Trate prazos de aprendizagem como metas condicionadas ao programa e à dedicação, sem prometer emprego. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "986297380669598",
+    "anunciante": "Sharp Curso de Ingles",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-03",
+    "dias_no_ar": 164,
+    "variacoes_ativas": 1,
+    "texto_original": "Como está seu inglês ? Gostaria de falar fluentemente e ganhar mais liberdade e melhorar suas oportunidades de carreira ? Clique no link da bio e saiba como",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-986297380669598.jpg"
+}

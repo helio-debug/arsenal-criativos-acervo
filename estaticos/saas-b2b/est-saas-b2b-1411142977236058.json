@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1411142977236058",
+  "tipo": "estatico",
+  "titulo": "Bingo de desafios do RH com coluna de soluções",
+  "formato": "Interativo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Cartela de bingo de RH aparece sobre uma mesa clara, abaixo de parte de um notebook. A coluna central roxa destaca soluções e uma faixa amarela convida a completar a cartela.",
+  "por_que_funciona": [
+    "A grade de bingo transforma desafios de RH em itens para reconhecer.",
+    "A coluna central roxa concentra benefícios em contraste com as células cinza.",
+    "O botão amarelo separa a ação do conteúdo da cartela.",
+    "O notebook e a mesa situam o tema em ambiente de trabalho."
+  ],
+  "quando_usar": "Para gerar identificação com problemas de um departamento e apresentar uma ferramenta de gestão de forma lúdica.",
+  "estrutura_texto": "[Marca]\nBINGO DO [Departamento]\n[Grade de desafios com coluna destacada de soluções]\n[Verbo de ação] sua cartela",
+  "legenda": "Quais desafios de [departamento] aparecem na sua cartela? Com [solução], sua equipe pode [benefício comprovável] e [outro benefício]. Veja como preencher essa coluna de melhorias em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte cena vertical de mesa clara com borda de notebook no topo. Centralize folha com título “Bingo do [departamento]” e grade de cinco por cinco células legíveis. Use células cinza com desafios reais e coluna central roxa com benefícios comprováveis do produto. Abaixo, coloque CTA curto em faixa amarela arredondada com seta. Reserve respiro na metade inferior.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1411142977236058",
+    "anunciante": "Sólides",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-05",
+    "dias_no_ar": 344,
+    "variacoes_ativas": 2,
+    "texto_original": "Bingo! A Sólides Preenche Sua Cartela com Recrutamento Ágil e Redução de Rotatividade🟣\nCartela da vitória para o RH 🟣",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1411142977236058.jpg"
+}

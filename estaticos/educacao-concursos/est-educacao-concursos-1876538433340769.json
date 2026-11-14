@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1876538433340769",
+  "tipo": "estatico",
+  "titulo": "Sessão de estudo com diagnóstico individual",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de um homem de terno no topo de uma peça escura. Blocos em bege destacam a chamada sobre aprender a estudar e o convite para solicitar uma sessão estratégica.",
+  "por_que_funciona": [
+    "A abertura dirigida ao concurseiro explicita o público da sessão.",
+    "O bloco bege com a palavra COMO em caixa alta destaca o foco no modo de estudar.",
+    "O parágrafo de apoio explica que a sessão identifica desafios da preparação.",
+    "O CTA em caixa bege separada facilita localizar a solicitação."
+  ],
+  "quando_usar": "Para captar candidatos que já estudam e querem analisar dificuldades de preparação com um mentor.",
+  "estrutura_texto": "[Chamada ao público]\n[Dificuldade com o planejamento atual]\nAprenda [como executar o estudo].\nNa [sessão individual], vamos identificar [desafios] e apresentar [método].\n[CTA para solicitar sessão]",
+  "legenda": "Conheça a [mentoria] e solicite uma [sessão individual] para analisar [desafios da preparação] e entender como [método] pode orientar seus estudos. Saiba mais em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com tons marrons e retrato da IMAGEM 2 na parte superior. Organize o texto centralizado abaixo do retrato. Crie uma faixa marrom para a saudação, destaque a principal orientação em retângulo bege e acrescente explicação branca em corpo menor. Finalize com botão bege e seta. Preserve a hierarquia sem reproduzir a oposição verbal da referência nem garantir aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1876538433340769",
+    "anunciante": "Mentoria Premium",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "Mentoria Premium",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1876538433340769.jpg"
+}

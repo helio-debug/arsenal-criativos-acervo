@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-3978769389105881",
+  "tipo": "estatico",
+  "titulo": "Vaga de trabalho com lista de requisitos",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça de recrutamento com foto escura de uma pessoa usando óculos e título branco. Um painel verde arredondado apresenta os requisitos em tópicos.",
+  "por_que_funciona": [
+    "O cargo em letras grandes identifica imediatamente a oportunidade.",
+    "O painel verde reúne os critérios em uma área de leitura.",
+    "Os tópicos permitem conferir experiência e disponibilidade separadamente.",
+    "A foto de uma pessoa diante da tela contextualiza o trabalho digital."
+  ],
+  "quando_usar": "Para recrutar profissionais de mídia paga e informar os critérios antes da candidatura.",
+  "estrutura_texto": "Vaga para\n[CARGO]\nPré-requisitos:\n• [EXPERIÊNCIA EM FERRAMENTAS]\n• [EXPERIÊNCIA NO SEGMENTO]\n• [COMPETÊNCIAS]\n• [MODELO DE TRABALHO]\n• [DISPONIBILIDADE]\n[IDENTIDADE DA EMPRESA]",
+  "legenda": "Estamos com uma vaga para [cargo]. Buscamos experiência em [ferramentas] e [segmento], com atuação em [modelo de trabalho]. Veja requisitos e envie sua candidatura em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com foto de profissional trabalhando e elementos diagonais verdes discretos. Coloque o cargo em branco no topo e um painel verde arredondado no centro com requisitos em tópicos brancos. Reserve o rodapé para identidade própria e canal de candidatura. Evite requisitos discriminatórios.",
+  "alerta_politica": "Anúncio de emprego: respeitar as regras da Meta para oportunidades de trabalho e a legislação antidiscriminatória. Não restringir candidatos por atributos pessoais protegidos; configurar a categoria especial quando exigida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3978769389105881",
+    "anunciante": "Scala.Ecommerce",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-13",
+    "dias_no_ar": 519,
+    "variacoes_ativas": 1,
+    "texto_original": "Scala.Ecommerce",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-3978769389105881.jpg"
+}

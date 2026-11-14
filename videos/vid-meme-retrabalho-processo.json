@@ -1,0 +1,95 @@
+{
+ "id": "vid-meme-retrabalho-processo",
+ "titulo": "Meme de abertura seguido de fala e documentos que evitam o retrabalho",
+ "formato_video": "colagem",
+ "nichos": [
+  "marketing-trafego",
+  "ia-ferramentas",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "35-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Chegou mais um pedido para refazer [parte da tarefa].",
+  "texto_tela": "POV: [mesmo ajuste] voltou pela [número]ª vez",
+  "visual": "Apresentador sentado atrás de notebook; acima dele, cartela branca com POV vermelho e reação cômica em uma janela."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Reação cômica autoral em janela sobre o apresentador e cartela de situação.",
+   "fala": "Chegou mais um pedido para refazer [parte da tarefa]. Eu já estava fechando [entrega].",
+   "texto_tela": "POV: [mesmo ajuste] voltou pela [número]ª vez"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Corta para apresentador na mesa; palavra grande vermelha acima da cabeça.",
+   "fala": "O problema começou quando [ponto que ficou indefinido]. Cada pessoa esperava [resultado diferente].",
+   "texto_tela": "RETRABALHO"
+  },
+  {
+   "tempo": "12-20s",
+   "cena": "Fala alterna com close de rascunho sem nomes, mostrando uma etapa de validação.",
+   "fala": "Agora eu começo por [prévia ou checklist]. Marco [critério de aprovação] antes de avançar.",
+   "texto_tela": "1. [Prévia ou checklist]"
+  },
+  {
+   "tempo": "20-28s",
+   "cena": "Insere demonstração do processo numa tela e volta ao plano da mesa.",
+   "fala": "Depois, mostro [teste ou simulação] e confiro [ponto crítico]. O ajuste fica nessa etapa.",
+   "texto_tela": "2. [Teste ou simulação]"
+  },
+  {
+   "tempo": "28-34s",
+   "cena": "Apresentador aponta para o documento aprovado.",
+   "fala": "Com [critério] confirmado, eu sigo para [entrega final]. Dá para consultar o combinado quando surgir uma mudança.",
+   "texto_tela": "[Critério] registrado"
+  },
+  {
+   "tempo": "34-40s",
+   "cena": "Volta ao enquadramento inicial; botão arredondado na parte inferior.",
+   "fala": "Em [produto], você aprende a montar [processo]. Toque no link e fale com [canal de atendimento] para ver o conteúdo.",
+   "texto_tela": "Ver [conteúdo] • Falar"
+  }
+ ],
+ "por_que_funciona": [
+  "O meme aparece junto do apresentador e nomeia um pedido de ajuste repetido logo na abertura.",
+  "A palavra DORES em vermelho ocupa boa parte do quadro e enfatiza a fala sobre desalinhamento.",
+  "O notebook na frente e o ambiente de trabalho conectam o assunto à execução de uma entrega.",
+  "O botão arredondado com convite para falar torna o próximo passo visível no encerramento."
+ ],
+ "quando_usar": "Para cursos, ferramentas e consultorias que ensinam um processo de trabalho. Use no meio do funil para mostrar uma etapa concreta que o comprador consegue aplicar antes da entrega final.",
+ "roteiro_modelo": "[Corte / pausa | 0-5s]\nChegou mais um pedido para refazer [parte da tarefa]. Eu já estava fechando [entrega].\n\n[Corte / pausa | 5-12s]\nO problema começou quando [ponto que ficou indefinido]. Cada pessoa esperava [resultado diferente].\n\n[Corte / pausa | 12-20s]\nAgora eu começo por [prévia ou checklist]. Marco [critério de aprovação] antes de avançar.\n\n[Corte / pausa | 20-28s]\nDepois, mostro [teste ou simulação] e confiro [ponto crítico]. O ajuste fica nessa etapa.\n\n[Corte / pausa | 28-34s]\nCom [critério] confirmado, eu sigo para [entrega final]. Dá para consultar o combinado quando surgir uma mudança.\n\n[Corte / pausa | 34-40s]\nEm [produto], você aprende a montar [processo]. Toque no link e fale com [canal de atendimento] para ver o conteúdo.",
+ "tomadas_celular": [
+  "Reação cômica original em close, luz de janela lateral e celular fixo, 5s para a janela de meme.",
+  "Plano médio sentado atrás de notebook sem logotipo, luz lateral suave, 7s para explicar o problema.",
+  "Plano superior de papel com checklist fictício, luz difusa de janela, 8s.",
+  "Close do celular exibindo um teste criado por você, sem dados de clientes, luz sem reflexo, 8s.",
+  "Plano médio apontando para o critério marcado, mesma luz lateral, 6s.",
+  "Plano médio olhando para a lente, espaço inferior para botão, luz suave, 6s."
+ ],
+ "caminho_ia": "Use Runway ou Veo para criar apresentador e inserts, com reação cômica original. Prompt 1: \"Vertical 9:16 medium shot of a fictional presenter seated behind an unbranded laptop in a small office, soft window side light, dark neutral wardrobe, mildly frustrated expression about [product-related task], realistic smartphone look, no text.\" Prompt 2: \"Vertical 9:16 overhead close-up of hands marking a generic approval checklist for [product-related workflow], paper on a desk, soft diffused daylight, slow controlled camera movement, blank labels, no logos.\" Use avatar para a fala, voz sintética para a reação e CapCut para cartela POV, palavra vermelha e botão. Mostre documentos ilustrativos, sem inventar aprovação de cliente.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 40s em seis blocos: 0-5 meme autoral sobre ajuste repetido; 5-12 desalinhamento; 12-20 prévia; 20-28 teste; 28-34 critério registrado; 34-40 convite. Alterne apresentador atrás do notebook com documentos específicos do produto. Use humor de frustração leve, cortes curtos, cartela branca com POV vermelho, uma palavra grande vermelha e legendas brancas. Não copie o meme de terceiros nem prometa eliminar toda revisão. Cada documento deve corresponder a uma entrega real. Não copie pessoas, marcas, nomes, falas literais, cenários identificáveis ou alegações da referência. Use apenas informações fornecidas sobre meu produto; mantenha campos sem informação entre [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias ou perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Pedido repetido] costuma voltar quando [ponto indefinido]. Neste modelo, você confere [critério] antes de [entrega final]. Conheça o processo de [produto] no link.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-7a13e5f4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-meme-retrabalho-processo/frames/f1.jpg",
+    "videos/vid-meme-retrabalho-processo/frames/f2.jpg",
+    "videos/vid-meme-retrabalho-processo/frames/f3.jpg",
+    "videos/vid-meme-retrabalho-processo/frames/f4.jpg",
+    "videos/vid-meme-retrabalho-processo/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-900319919205303",
+  "tipo": "estatico",
+  "titulo": "Formação profissional com imagem de laboratório",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo verde com título branco à esquerda e fotografia de uma profissional usando pipeta no laboratório à direita, dentro de um recorte curvo. Faixas brancas indicam modalidade e realização.",
+  "por_que_funciona": [
+    "O título lista as três áreas abordadas pela formação.",
+    "A foto com pipeta e tubos conecta o curso à prática laboratorial.",
+    "A faixa branca isola a modalidade online do restante do texto.",
+    "O bloco inferior de realização reserva um espaço próprio para a identificação institucional."
+  ],
+  "quando_usar": "Para apresentar uma formação técnica na área da saúde e levar interessados a consultar programa e requisitos.",
+  "estrutura_texto": "[Curso de]\n[TRILHA DE FORMAÇÃO PROFISSIONAL EM]\n[Área 1, área 2 e área 3]\n[On-line]\n[Realização: instituições]",
+  "legenda": "Conheça a formação online em [áreas do curso]. Consulte [conteúdo programático], [carga horária] e [pré-requisitos] para avaliar se ela atende à sua atuação profissional. Informações e inscrições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde, título branco alinhado à esquerda e imagem de uma atividade técnica relacionada ao meu curso à direita em um recorte curvo amplo. Inclua uma faixa branca arredondada para a modalidade e um bloco branco inferior para a minha marca e instituições autorizadas. Priorize legibilidade do nome da formação e não acrescente preços ou benefícios ausentes das informações do produto.",
+  "alerta_politica": "Por envolver formação em saúde, evite prometer resultados terapêuticos ou sugerir habilitação para prescrever e atuar sem a qualificação exigida. Na Meta, mantenha alegações educacionais verificáveis e não atribua condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "900319919205303",
+    "anunciante": "Manole Educação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-19",
+    "dias_no_ar": 299,
+    "variacoes_ativas": 2,
+    "texto_original": "Confira o livro Renoir - Uma biografia íntima! Em até 12x s/ juros ou 5% off no boleto!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-900319919205303.jpg"
+}

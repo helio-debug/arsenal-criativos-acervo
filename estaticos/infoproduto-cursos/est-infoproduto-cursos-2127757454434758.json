@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2127757454434758",
+  "tipo": "estatico",
+  "titulo": "Bolsa para pós com percentual em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com textos pretos, verdes e brancos apresenta uma bolsa para pós-graduação. Uma mulher com óculos segura materiais de estudo à direita; percentuais e caixas de benefícios ocupam o centro.",
+  "por_que_funciona": [
+    "O contraste preto e amarelo dá destaque à chamada e ao percentual.",
+    "O quadro preto repete a bolsa de até 70% e informa sua aplicação ao curso.",
+    "O bloco verde de quantidade apresenta a amplitude do catálogo.",
+    "As caixas sobre a fotografia resumem prazo, acompanhamento e diploma."
+  ],
+  "quando_usar": "Para campanhas de bolsas de estudo com catálogo amplo e condições comerciais claras.",
+  "estrutura_texto": "[MODALIDADE]\nBolsa de [PERCENTUAL] para fazer sua [FORMAÇÃO]!\n[PROPOSTA]\nBOLSAS DE ATÉ [PERCENTUAL]\n[CONDIÇÕES]\n[QUANTIDADE] CURSOS\n[PRAZO]\n[ACOMPANHAMENTO]\n[DIPLOMA]",
+  "legenda": "Conheça as opções de pós-graduação [modalidade] em [áreas]. Bolsas de até [percentual], conforme [condições]. Consulte cursos disponíveis, duração e critérios de certificação em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com fundo amarelo vivo e curvas pretas na base. Coloque chamada em preto no alto à esquerda, quadro preto com percentual branco muito grande e selo verde de quantidade abaixo. À direita, use foto de pessoa com materiais de estudo e caixas alternadas brancas e pretas para benefícios. Inclua condições legíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2127757454434758",
+    "anunciante": "IERGS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-31",
+    "dias_no_ar": 167,
+    "variacoes_ativas": 1,
+    "texto_original": "🎓 Alcance o sucesso com a educação que faz a diferença.\n\n❗️ Bolsa de até 70% \n\n✅ Ofertas exclusivas em mensalidades.\n✅ Conveniência de estudar online, sem sair de casa.\n✅ Cursos estruturados por especialistas de mercado.\n✅ Oportunidades únicas de desenvolvimento profissional.\n\n🚀 Prepare-se para ser um líder em sua área!\n\n🌟 Ensino a distância de alto padrão.\n🌟 Interatividade e suporte contínuo.\n🌟 Diploma de pós-graduação reconhecido e respeitado.\n✨ Dê um novo rumo à sua carreira com a Uniasselvi. \n\nMatricule-se agora!\n❗️ Bolsa de até 70%",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2127757454434758.jpg"
+}

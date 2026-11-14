@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-447297761360340",
+  "tipo": "estatico",
+  "titulo": "Locação de temporada com vista para a praia",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto da praia e do acesso à orla ocupa quase toda a peça. Um cabeçalho colorido reúne temporada, localização e capacidade, enquanto o site aparece em letras grandes no rodapé.",
+  "por_que_funciona": [
+    "A vista da praia sustenta o argumento de proximidade com o mar.",
+    "A palavra temporada em vermelho identifica rapidamente a modalidade.",
+    "Capacidade e dormitórios ajudam a reconhecer opções adequadas ao grupo.",
+    "O endereço do site ampliado indica onde consultar fotos e informações."
+  ],
+  "quando_usar": "Para anunciar locações de temporada com opções por capacidade e localização comprovada.",
+  "estrutura_texto": "Locação de TEMPORADA [período]\n[Praia]\n[Cidade e estado]\nPara [capacidade] pessoas\nApartamentos de [dormitórios]\n[Diferencial de localização]\nFotos e informações\n[site]",
+  "legenda": "Apartamentos para temporada em [praia, cidade e estado], com [tipologias] para [capacidade por unidade]. Confira [comodidades], fotos e disponibilidade em [site ou contato]. Informe [datas] e [número de hóspedes] para receber as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto real da vista ou acesso à praia ocupando o centro. Faça cabeçalho azul claro com modalidade em vermelho, localização em caixa vermelha à direita e capacidade em texto escuro. Reserve faixa clara inferior para site grande em azul com contorno branco. Atualize a temporada e descreva pé na areia apenas se verdadeiro.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "447297761360340",
+    "anunciante": "aptoemsc",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-11-13",
+    "dias_no_ar": 731,
+    "variacoes_ativas": 1,
+    "texto_original": "Apartamentos disponíveis para locação de temporada em Meia Praia, Itapema SC\nTodos em condomínio beira mar, saída na orla de Meia Praia. No coração de Meia Praia. Excelente localização.\n\nPossuo opções de:\n> 1 dormitório: Ideal para 2 Adultos + 1 Criança\n> 2 Dormitórios: Ideal para 4 Adultos + 2 Crianças\n> 3 Dormitórios: Ideal para 6 Adultos + 3 Crianças\n\nTodos com dormitórios climatizados, cozinha completa, utensílios domésticos, limpos e com bela vista do mar.\nAcesso o site em meu perfil, chame no Direct ou no botão saiba mais.\n\n#itapema #itapemasc #meiapraia #locação #locaçãodetemporada #alugar #apartamento #ferias #verao #viagem #turismo #santacatarina #santaebelacatarina #alugarapartamento #temporada #praia",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-447297761360340.jpg"
+}

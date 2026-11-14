@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1664488205035574",
+  "tipo": "estatico",
+  "titulo": "Kit inicial de revenda com preço de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça em tons de chocolate combina uma pessoa segurando bombons, chamada de revenda e produtos. Um bloco claro apresenta preço inicial do kit, percentual de lucratividade e cadastro.",
+  "por_que_funciona": [
+    "A pessoa segurando os bombons mostra o produto em contexto de venda.",
+    "O bloco creme destaca o preço inicial sobre o fundo marrom.",
+    "As embalagens e bombons tornam visível o conteúdo comercial da oferta.",
+    "O selo circular destaca o percentual informado na peça."
+  ],
+  "quando_usar": "Para captar interessados em revenda quando já existem kit inicial, condições comerciais e cadastro definidos.",
+  "estrutura_texto": "[MARCA / REVENDA]\nSeja [REVENDEDOR(A)] e transforme [INTERESSE] em [OPORTUNIDADE].\n[CHAMADA DA CAMPANHA]\nSeu primeiro kit a partir de [PREÇO].\n[CONVITE À REVENDA]\n[PERCENTUAL E CONDIÇÕES]\n[CTA DE CADASTRO]",
+  "legenda": "[Época do ano] pode ser uma oportunidade para revender [categoria]. Conheça o kit inicial a partir de [preço], confira as condições e faça seu cadastro em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma peça quadrada com fundo marrom, título no topo em creme e dourado, dois painéis centrais arredondados e bloco inferior creme. Use foto de pessoa autorizada segurando o produto à esquerda e chamada gráfica à direita. Disponha a foto do kit sobre o bloco inferior, com preço legível e selo de condição comercial comprovada. Termine com CTA de cadastro.",
+  "alerta_politica": "Meta: apresentar investimento inicial e condições de revenda com clareza. Percentual de lucratividade deve ser comprovável, com base de cálculo e custos explicitados; não tratar margem como renda garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1664488205035574",
+    "anunciante": "Venda Direta Cacau Show",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 2,
+    "texto_original": "O Fim de Ano Vem Aí: uma das Melhores Épocas pra Vender Chocolate 🍫 Comece a Revender Cacau Show e Chegue Pronta",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1664488205035574.jpg"
+}

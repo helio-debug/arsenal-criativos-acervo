@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1415432990304079",
+  "tipo": "estatico",
+  "titulo": "Carteira diversificada em gráfico de pizza",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Gráfico de pizza colorido apresenta ações e fundos imobiliários, com códigos ao redor e símbolos dentro das fatias. O título relaciona a composição da carteira à geração de rendimentos.",
+  "por_que_funciona": [
+    "O gráfico de pizza reúne vários ativos em uma imagem fácil de percorrer.",
+    "Cores diferentes separam as fatias e ajudam a distinguir os componentes da carteira.",
+    "Os códigos ao redor permitem identificar os ativos sem depender apenas dos logotipos.",
+    "A expressão verde no título concentra a atenção no objetivo de viver de rendimentos."
+  ],
+  "quando_usar": "Em conteúdo de apresentação de estratégias de diversificação para quem está começando a estudar investimentos.",
+  "estrutura_texto": "O TIPO DE [CARTEIRA] QUE TE FAZ\n[OBJETIVO FINANCEIRO]\n[IDENTIFICAÇÃO DO CONTEÚDO]\n[GRÁFICO COM CATEGORIAS E IDENTIFICADORES]\n[AVISO EDUCACIONAL]",
+  "legenda": "Como organizar uma carteira com exposição a [mercados] e [setores]? Veja exemplos de [classes de ativos] e estude como cada uma participa de uma estratégia de longo prazo. Considere os riscos, os custos e seu perfil antes de investir. Conteúdo educacional; sem garantia de retorno.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Use fundo branco com textura discreta, título preto em caixa alta e destaque verde para o objetivo. No centro, monte um gráfico de pizza com fatias coloridas e identificadores legíveis ao redor, usando apenas categorias e dados fornecidos por mim. Inclua uma identificação pequena abaixo do título e aviso educacional no rodapé. Não invente percentuais ou retornos, nem prometa renda garantida. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Finanças: evitar promessa de renda ou retorno garantido e indicação de carteira adequada a todos. Publicidade e recomendações de valores mobiliários devem observar as regras da CVM aplicáveis e identificar riscos e eventuais conflitos; um aviso de que não é recomendação não elimina essas obrigações.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1415432990304079",
+    "anunciante": "Viver de Rendimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-29",
+    "dias_no_ar": 16,
+    "variacoes_ativas": 1,
+    "texto_original": "Você já imaginou construir uma carteira diversificada, com investimentos no Brasil e no exterior, buscando valorização do patrimônio e geração de renda ao longo do tempo? 🚀\n\nNeste post, reunimos exemplos de ativos de diferentes setores que podem fazer parte de uma estratégia de investimentos de longo prazo:\n\n🏢 Fundos imobiliários (FIIs): HGLG11, KNCR11, MXRF11 e XPML11, que permitem investir em diferentes segmentos do mercado imobiliário e buscar renda por meio de dividendos.\n\n🏦 Ações de bancos: ITUB4 e BBAS3, empresas do setor financeiro que podem contribuir para a diversificação da carteira.\n\n⚡ Energia e commodities: TAEE11, PETR4 e CMIG4, empresas de setores importantes para a economia brasileira e que podem apresentar oportunidades de geração de renda.\n\n🌎 Investimentos no exterior: MSFT, KO e MCD, empresas internacionais que permitem ter exposição a negócios globais e diversificar geograficamente o patrimônio.\n\nMas atenção! ⚠️ Ter vários ativos na carteira não significa, necessariamente, estar bem diversificado. É fundamental avaliar os riscos, a qualidade dos investimentos, os preços de entrada, os objetivos financeiros e o peso de cada ativo na carteira.\n\nO segredo não está simplesmente em copiar uma carteira, mas em construir uma estratégia adequada à sua realidade, ao seu perfil de investidor e aos seus objetivos de longo prazo.\n\n🎯 Quer montar uma carteira de investimentos personalizada para os seus objetivos?\n\nNa minha mentoria individual e personalizada, vamos analisar sua situação atual, seus objetivos e seu perfil para estruturar uma estratégia de investimentos alinhada ao seu planejamento financeiro.\n\n📲 Preencha o formulário no link da minha página e dê o próximo passo rumo à sua liberdade financeira!\n\n💬 E me conta nos comentários: quais desses ativos você já tem na sua carteira?\n\n⚠️ Este conteúdo tem caráter exclusivamente educativo e não constitui recomendação de compra ou venda de ativos.\n\n#ViverDeRendimentos #Investimentos #Dividendos #FundosImobiliarios #LiberdadeFinanceira",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/investimentos/est-investimentos-1415432990304079.jpg"
+}

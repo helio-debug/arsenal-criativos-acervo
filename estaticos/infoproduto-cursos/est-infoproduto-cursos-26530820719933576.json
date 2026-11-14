@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-26530820719933576",
+  "tipo": "estatico",
+  "titulo": "Chamada educativa tributária com curiosidade",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Texto preto e vermelho em uma caixa branca sobre foto escurecida de cédulas, calculadora e caderno. Um cabeçalho de perfil aparece acima e uma seta circular abaixo sugere continuidade.",
+  "por_que_funciona": [
+    "A palavra de abertura identifica o público profissional do conteúdo.",
+    "A caixa branca separa o texto do fundo com muitos objetos.",
+    "A conclusão em vermelho destaca a relação com a reforma.",
+    "A faixa vermelha e a seta sugerem que há mais conteúdo para descobrir."
+  ],
+  "quando_usar": "Para abrir uma sequência educativa sobre temas tributários e atrair profissionais para aprofundamento.",
+  "estrutura_texto": "[Nome do perfil]\n[@perfil]\n[Público], essas são as [oportunidades técnicas] que [relação com uma mudança]!\n([Lacuna de atenção])\n[Seta de continuidade]",
+  "legenda": "Conheça [oportunidades técnicas] e entenda como [mudança regulatória] afeta cada uma. Veja [exemplos] e aprenda a avaliar a aplicação em [contexto profissional], conforme a legislação vigente.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto escurecida de mesa com calculadora, caderno e documentos genéricos. Sobreponha cabeçalho com identidade própria, grande caixa branca com texto serifado preto e conclusão vermelha. Abaixo, adicione faixa vermelha com chamada de curiosidade e uma seta circular de continuidade. Evite selo de verificação falso e afirmações tributárias absolutas sem sustentação.",
+  "alerta_politica": "Conteúdo tributário deve refletir a legislação aplicável e explicitar condições e limitações. Evite prometer lucro, recuperação de valores ou resultados financeiros garantidos; comprove afirmações sobre efeitos da reforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "26530820719933576",
+    "anunciante": "Método SK",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "Agora você já sabe quais são as oportunidades tributárias que não mudam com a reforma e que estão sendo completamente ignoradas.\n\nConstrução civil no Lucro Presumido, Equiparação Hospitalar e recuperação do ICMS-ST. \n\nTrês oportunidades técnicas, lucrativas e que a maioria dos tributaristas ainda deixa passar.\n\nExiste muito dinheiro sendo deixado na mesa. \n\nE quem ampliar o repertório e se preparar agora vai colher resultados muito acima da média em 2026.\n\nSe você quer aprender a operacionalizar oportunidades como essas na prática, faltam apenas 21 dias para a MANSÃO TRIBUTÁRIA IV. ⚜️\n\nMeu evento presencial, 100% prático, onde apresento casos concretos reais da minha consultoria, do primeiro contato com o cliente até o PIX na conta. \n\nCara a cara comigo, em São Paulo.\n\n📍 São Paulo 📆 15 de maio \n⚠️ Vagas limitadas\n\n👇 Comenta “MANSAO2026” que te mando todas as informações.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-26530820719933576.jpg"
+}

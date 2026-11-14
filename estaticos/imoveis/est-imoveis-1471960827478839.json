@@ -1,0 +1,36 @@
+{
+  "id": "est-imoveis-1471960827478839",
+  "tipo": "estatico",
+  "titulo": "Piscina como foto principal com bairro e preço",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma piscina em área externa ocupa a maior parte da peça. A base traz faixa vermelha com tipo e bairro e faixa cinza com metragem, quartos e preço.",
+  "por_que_funciona": [
+    "A piscina ocupa a foto principal e evidencia uma comodidade visível.",
+    "O bairro em branco sobre vermelho estabelece uma hierarquia clara.",
+    "A linha inferior concentra área, quartos e preço para consulta rápida."
+  ],
+  "quando_usar": "Para divulgar um apartamento cuja área de lazer seja relevante na escolha, informando se a piscina é privativa ou compartilhada.",
+  "estrutura_texto": "[TIPO DE IMÓVEL]\n[BAIRRO]\n[ÁREA]m² - [QUARTOS] Quartos - R$[PREÇO]",
+  "legenda": "Encontre imóveis à venda em [cidade]. Conheça este [tipo de imóvel] em [bairro], com [área] m² e [quartos] quartos, anunciado por R$ [preço]. Consulte os detalhes e agende uma visita com [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Valorize uma foto real da piscina ou área de lazer do imóvel e informe na copy se ela é privativa ou compartilhada. Reserve cerca de três quartos da composição para a fotografia da IMAGEM 2. Na base, crie uma faixa vermelha com tipo de imóvel em texto menor e bairro em texto branco grande. Abaixo, use faixa cinza clara com área, quartos e preço em preto. Reserve um pequeno espaço branco à direita para a identidade própria. Mantenha todos os dados legíveis e use informações verificadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1471960827478839",
+    "anunciante": "Zimmermann Imóveis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-25",
+    "dias_no_ar": 173,
+    "variacoes_ativas": 3,
+    "texto_original": "Encontre os melhores imoveis à venda em São Paulo.\n\nSe você está em busca de imoveis à venda em São Paulo-SP, sua jornada começa aqui!\n\nA Zimmermann Imóveis, referência em intermediação de compra e venda de imóveis desde 1994, oferece uma experiência única para quem deseja adquirir propriedades em São Paulo.\n\n Explore conosco as melhores opções de imóveis à venda na capital paulista, atendendo a todas as suas necessidades e desejos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1471960827478839.jpg"
+}

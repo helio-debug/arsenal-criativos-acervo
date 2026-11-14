@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2756902848018366",
+  "tipo": "estatico",
+  "titulo": "Primeiros passos em etiquetas ao redor de uma anfitriã",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher sorridente aparece num recorte circular sobre fundo claro. Três etiquetas brancas ao redor apresentam criação do anúncio, ajuda individual e liberdade de ritmo.",
+  "por_que_funciona": [
+    "O título curto no topo apresenta uma entrada simples para a atividade.",
+    "O retrato circular humaniza o convite e organiza o centro da peça.",
+    "As etiquetas separam as ações e os recursos de apoio em blocos fáceis de ler.",
+    "O espaço vazio e o fundo claro evitam competição com as mensagens."
+  ],
+  "quando_usar": "Para explicar o começo de uma atividade numa plataforma, quando houver suporte individual e flexibilidade reais.",
+  "estrutura_texto": "É fácil [COMEÇAR]\n[PRIMEIRA AÇÃO]\n[SUPORTE DISPONÍVEL]\n[FLEXIBILIDADE DE USO]",
+  "legenda": "Comece a anunciar [seu espaço] em [plataforma]. Crie o anúncio, conheça o suporte disponível e configure a disponibilidade no seu ritmo. Confira os requisitos, as taxas e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco quente, título preto grande no topo e uma fotografia circular central mostrando uma pessoa adulta em ambiente de hospedagem, baseada na IMAGEM 2 quando aplicável. Disponha três etiquetas brancas com cantos arredondados e sombra leve em posições alternadas ao redor do círculo, com ícones simples e benefícios comprovados. Reserve o canto inferior direito para identificação própria. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: não prometer renda, lucro garantido ou ganhos sem esforço. Informar condições, custos e critérios da oportunidade; resultados dependem da atividade e não são assegurados. Não apresentar a pessoa retratada como depoente ou caso de sucesso sem autorização e comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2756902848018366",
+    "anunciante": "Airbnb",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 4,
+    "texto_original": "Transforme seu espaço extra em renda extra.\nComece agora como anfitrião",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2756902848018366.jpg"
+}

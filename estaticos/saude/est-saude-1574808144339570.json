@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1574808144339570",
+  "tipo": "estatico",
+  "titulo": "Tipografia colorida com pessoa e embalagem",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Blocos em amarelo, creme e lilás dividem a peça. Uma mulher de olhos fechados ocupa o lado esquerdo e uma caixa inclinada aparece à direita, sob uma chamada tipográfica grande.",
+  "por_que_funciona": [
+    "As palavras grandes roxas dominam a parte superior.",
+    "A expressão de olhos fechados ilustra um momento de pausa.",
+    "A embalagem inclinada aparece isolada em uma área clara.",
+    "O padrão em zigue-zague preenche o rodapé sem competir com o produto."
+  ],
+  "quando_usar": "Para apresentar um produto de uso autorizado em uma campanha de reconhecimento com linguagem visual leve.",
+  "estrutura_texto": "[Convite ligado ao bem-estar]\ncom [produto]\n[Embalagem com informações regulatórias]",
+  "legenda": "Em meio à rotina, reserve um momento para [hábito de bem-estar]. Conheça [produto] e confira suas indicações e orientações de uso em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte blocos geométricos em creme, amarelo e lilás. No topo, use palavras grandes sobrepostas em roxo e complementos azuis. À esquerda, mostre uma pessoa com expressão serena; à direita, a embalagem real da IMAGEM 2 inclinada. Acrescente zigue-zague roxo no rodapé. Reserve espaço legível para advertências obrigatórias da categoria e não invente indicações.",
+  "alerta_politica": "Meta: não atribuir condições de saúde ao público nem prometer cura ou resultados garantidos. ANVISA: divulgar apenas indicações e alegações autorizadas para a categoria e o registro do produto; não apresentar suplemento como tratamento de doenças. Para fitoterápicos, respeitar as regras de publicidade de medicamentos e incluir advertências obrigatórias; verificar se a divulgação ao público é permitida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1574808144339570",
+    "anunciante": "Maracugina",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-19",
+    "dias_no_ar": 87,
+    "variacoes_ativas": 1,
+    "texto_original": "Quando o mundo não dá trégua, encontrar seu ritmo faz toda a diferença... Maracugina.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1574808144339570.jpg"
+}

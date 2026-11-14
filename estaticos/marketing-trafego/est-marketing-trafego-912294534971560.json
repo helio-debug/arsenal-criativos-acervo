@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-912294534971560",
+  "tipo": "estatico",
+  "titulo": "Estrutura pronta com número em destaque e faixa de preço",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Layout branco e azul com uma pessoa ocupando a metade direita. À esquerda, uma chamada em caixa alta destaca um resultado financeiro, seguida de três benefícios; a base reúne preço e botão.",
+  "por_que_funciona": [
+    "A expressão de copiar e colar apresenta o material como uma estrutura pronta.",
+    "O número grande azul domina a coluna esquerda e atrai a leitura.",
+    "Três ícones organizam os benefícios abaixo da chamada principal.",
+    "A faixa inferior reúne acesso, preço e instrução de clique em uma única área."
+  ],
+  "quando_usar": "Para apresentar um material de funil pronto a quem já vende produtos digitais, usando apenas resultados documentados.",
+  "estrutura_texto": "[Ação de uso simples]\n[estrutura pronta]\n[resultado comprovado] em [período]\n[benefício 1]\n[benefício 2]\n[benefício 3]\nAcesse [produto] por [preço]\n[CTA]",
+  "legenda": "Tenha acesso a [estrutura de funil] pronta para copiar e adaptar a [produto]. Veja [conteúdo incluído] e como aplicar à sua oferta. Toque em [CTA] para conhecer a estrutura completa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e azul intenso. Reserve a metade direita para uma pessoa autorizada ou para o produto da IMAGEM 2. Na esquerda, organize chamada em caixa alta, benefício principal em tamanho grande e três linhas de benefícios com ícones circulares. Na base, crie uma faixa branca de preço e um botão azul largo. Substitua alegações financeiras por um benefício verificável, sem inventar resultados.",
+  "alerta_politica": "Promessas de faturamento, conversão ou lucro precisam de comprovação e contexto; não apresente resultados de terceiros como garantia. Use imagem, nome e depoimento de pessoas apenas com autorização, sem sugerir endosso inexistente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "912294534971560",
+    "anunciante": "Quiz de 100k",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-13",
+    "dias_no_ar": 62,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-912294534971560.jpg"
+}

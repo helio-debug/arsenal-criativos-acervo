@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1434337268430646",
+  "tipo": "estatico",
+  "titulo": "Pneu com chamadas técnicas ligadas por linhas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Pneu em perspectiva ocupa a metade esquerda de um fundo branco. Círculos e linhas vermelhas conectam partes da banda de rodagem a três explicações técnicas à direita.",
+  "por_que_funciona": [
+    "Os círculos vermelhos indicam exatamente os trechos do pneu discutidos.",
+    "As linhas conectam cada detalhe físico à respectiva explicação.",
+    "A foto grande permite observar desenho da banda e acabamento.",
+    "Os textos divididos em três blocos associam construção a benefícios de uso."
+  ],
+  "quando_usar": "Para explicar diferenciais de um pneu durante a comparação entre modelos.",
+  "estrutura_texto": "[MODELO]\n[BENEFÍCIO PRINCIPAL]\n[CARACTERÍSTICA 1]: [BENEFÍCIO 1]\n[CARACTERÍSTICA 2]: [BENEFÍCIO 2]\n[CARACTERÍSTICA 3]: [BENEFÍCIO 3]\n[LOGOTIPO]",
+  "legenda": "Conheça os pneus [linha] para [tipos de veículo compatíveis]. Confira [características técnicas comprovadas] e encontre o modelo adequado ao seu veículo e às condições de uso. Consulte medidas e especificações no [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, produto grande em perspectiva à esquerda e três blocos de texto preto à direita. Desenhe círculos e linhas finas vermelhas ligando detalhes reais do produto às explicações. No topo, coloque o modelo em fonte forte e uma frase curta de benefício. Reserve o canto inferior direito para a identidade própria. Use somente atributos documentados e evite promessas absolutas de segurança.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1434337268430646",
+    "anunciante": "Bridgestone",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-14",
+    "dias_no_ar": 214,
+    "variacoes_ativas": 1,
+    "texto_original": "Explore todos os pneus Bridgestone para SUVs, sedãs, hatches, CUVs e caminhonetes. Conheça nossos modelos e encontre o pneu ideal para cada motorista. Segurança, performance e confiança em qualquer estrada.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1434337268430646.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1959576238160190",
+  "tipo": "estatico",
+  "titulo": "Curso de inglês com preço sobre cena no sofá",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Um homem de óculos usa um notebook sentado no sofá de uma sala iluminada. O título branco e a oferta ficam centralizados, com preço destacado em uma caixa vermelha e condições no rodapé.",
+  "por_que_funciona": [
+    "A cena com notebook ilustra o estudo em casa.",
+    "O preço em branco sobre vermelho é o principal ponto de contraste da oferta.",
+    "O preço anterior riscado apresenta uma referência de comparação.",
+    "O rodapé informa a frequência das aulas e o conteúdo do plano."
+  ],
+  "quando_usar": "Para cursos online com plano parcelado e condições que possam ser explicadas no próprio anúncio.",
+  "estrutura_texto": "[Chamada sobre o curso ou flexibilidade]\nDe [parcelas e preço anterior]\nPor apenas [número de parcelas]\n[valor da parcela]\n*[Plano, frequência de aulas e conteúdo incluído]",
+  "legenda": "Aprenda [idioma] no seu ritmo com [recursos do curso]. O plano [nome] inclui [frequência de aulas] e [conteúdo]. Por [número de parcelas] de [valor], conforme [condições da oferta]. Confira em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use formato horizontal com foto de uma pessoa adulta estudando pelo notebook em ambiente doméstico. Escureça suavemente a área central para destacar o título branco. Abaixo, alinhe preço anterior riscado, número de parcelas e uma caixa vermelha arredondada com o valor da parcela em branco grande. Reserve rodapé legível para plano, frequência e condições; use somente preços e recursos fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1959576238160190",
+    "anunciante": "EnglishCentral Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-22",
+    "dias_no_ar": 418,
+    "variacoes_ativas": 2,
+    "texto_original": "Inglês não é privilégio, é a chave para um futuro melhor!\n• Mais oportunidades\n• Mais liberdade \nAprenda com vídeos autênticos e professores estrangeiros na EnglishCentral. Oferta incrível: R$ 99,90 em 12x! Quer mudar sua vida? Comece agora mesmo.\nSeu inglês fluente começa hoje, por menos de R$ 100/mês.\nAcesse aulas ao vivo, vídeos interativos, IA e muito mais. Aprenda no seu ritmo, com conteúdo útil de verdade. Promoção por tempo limitado!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1959576238160190.jpg"
+}

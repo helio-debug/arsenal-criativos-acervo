@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1190889489868614",
+  "tipo": "estatico",
+  "titulo": "Guia de departamento pessoal fotografado sobre a mesa",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma mão segura um guia espiralado azul sobre uma mesa com calculadora e caneta. A capa destaca departamento pessoal, aplicação prática e atualização, enquanto uma frase amarela aparece sobreposta no rodapé.",
+  "por_que_funciona": [
+    "O exemplar encadernado mostra o material em uma situação de uso.",
+    "O título amarelo grande identifica o assunto do guia.",
+    "O selo de atualização torna a data uma informação visível da capa.",
+    "Calculadora e caneta contextualizam a rotina de trabalho abordada."
+  ],
+  "quando_usar": "Para apresentar um material de consulta para profissionais e estudantes de departamento pessoal, destacando conteúdo e atualização.",
+  "estrutura_texto": "[Selo de atualização e referência]\nGuia completo de [área]\nTeoria e prática para [rotina]\n[Assinatura própria]\n[Frase de apoio]",
+  "legenda": "Consulte [processos de departamento pessoal] em um guia com [recursos visuais e exemplos]. O material reúne [temas] para apoiar [tarefas da rotina]. Confira o conteúdo e a edição atualizada em [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fotografe a IMAGEM 2 como um guia espiralado sendo segurado sobre mesa de trabalho, com calculadora e caneta ao redor. Use capa azul, título amarelo grande e subtítulo branco, além de selo circular amarelo com data de atualização comprovada. Acrescente uma frase curta em amarelo com contorno escuro no rodapé. Não invente legislação ou certificações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1190889489868614",
+    "anunciante": "Atalho Contabilidade",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-15",
+    "dias_no_ar": 122,
+    "variacoes_ativas": 1,
+    "texto_original": "Chega de \"Juridiquês\". Eu desenhei pra você. 🖍️\n\nA legislação trabalhista é confusa de propósito. Mas o seu trabalho não precisa ser.\n\nSe você trava na hora de fazer um fechamento complexo ou tem dúvida se aquele desconto é legal ou não, você precisa do nosso Guia Visual de DP.\n\nNós pegamos toda a burocracia e transformamos em Processos Visuais. 1️⃣ Clica aqui. 2️⃣ Confere ali. 3️⃣ O resultado é esse.\n\nSimples. Direto. Sem enrolação. Serve para quem tá começando e tá perdido, e serve para o veterano que quer consultar rápido sem perder tempo lendo a CLT.\nO Guia de DP que desenha o processo (Literalmente).\nAdmissão, Férias e Rescisão com prints e passo a passo. Botão: Baixar Agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1190889489868614.jpg"
+}

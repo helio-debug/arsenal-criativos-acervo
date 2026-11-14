@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-26312112705116775",
+  "tipo": "estatico",
+  "titulo": "Parcela de consórcio acima do carro desejado",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um carro elétrico prateado ocupa a metade inferior sobre fundo azul claro. Acima dele, a chamada e uma caixa arredondada destacam o valor mensal do consórcio.",
+  "por_que_funciona": [
+    "O número da parcela é o maior texto da peça e permite localizar a condição rapidamente.",
+    "A foto grande do carro concretiza o bem que o plano pretende viabilizar.",
+    "A expressão “pelo consórcio” aparece junto ao preço e identifica a modalidade."
+  ],
+  "quando_usar": "Para divulgar planos de consórcio a quem avalia a compra de um veículo elétrico.",
+  "estrutura_texto": "Seu [tipo de veículo] novo ou seminovo com [condição de parcelas].\nA partir de R$ [valor]* mensais pelo consórcio.\n[Marca]\n*[Condições]",
+  "legenda": "Planeje a compra do seu [tipo de veículo] com [plano de consórcio]. Parcelas a partir de [valor], conforme [condições]. Saiba mais sobre taxas, prazos e regras de contemplação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use degradê branco e azul, chamada centralizada no topo, valor mensal muito grande dentro de contorno arredondado e veículo em três quartos na metade inferior. Coloque a marca própria abaixo e condições legíveis. Identifique expressamente o consórcio junto ao valor.",
+  "alerta_politica": "Consórcio: informar taxas, prazos, composição da parcela e regras de contemplação. Não sugerir entrega imediata ou aprovação garantida; alegações de ausência de juros não devem ocultar taxa de administração e outros custos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "26312112705116775",
+    "anunciante": "Âncora Carros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-31",
+    "dias_no_ar": 228,
+    "variacoes_ativas": 2,
+    "texto_original": "Acelere para a mobilidade sustentável com o Consórcio Âncora. Seu carro elétrico novo ou seminovo, com parcelas que cabem no bolso, sem entrada e sem juros. 📲Clique em SAIBA MAIS e conheça todos os planos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-26312112705116775.jpg"
+}

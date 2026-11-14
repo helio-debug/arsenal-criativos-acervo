@@ -1,0 +1,73 @@
+{
+  "id": "vid-montagem-pecas-contadas",
+  "tipo": "video",
+  "titulo": "Montagem de móvel com peças contadas e etapas numeradas",
+  "formato_video": "montagem-pecas",
+  "nichos": [
+    "moveis-decoracao"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Estas são as peças que vieram para montar [móvel].",
+    "texto_tela": "Conferência do kit",
+    "visual": "Vista superior das peças separadas conforme manual"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Vista superior das peças separadas conforme manual",
+      "fala": "Conferi [quantidade] peças e [ferragens] antes de começar.",
+      "texto_tela": "Conferência do kit"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Mostra primeira união em velocidade normal",
+      "fala": "O primeiro encaixe é [etapa do manual], usando [ferramenta].",
+      "texto_tela": "Etapa 1"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Etapas seguintes aparecem numeradas, com cortes assumidos",
+      "fala": "Depois vêm [etapas]. A montagem levou [tempo real], com [pessoas].",
+      "texto_tela": "Resumo da montagem"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Móvel pronto recebe inspeção das fixações",
+      "fala": "Confira o manual, a fixação e a carga permitida antes de usar.",
+      "texto_tela": "Montado conforme manual"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra vista superior das peças separadas conforme manual, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém o mesmo produto como referência entre os cortes.",
+    "O fechamento exibe móvel pronto recebe inspeção das fixações, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é montagem de móvel com peças contadas e etapas numeradas.",
+  "roteiro_modelo": "[Abertura] Estas são as peças que vieram para montar [móvel].\n[0-4s] Conferi [quantidade] peças e [ferragens] antes de começar.\n[4-10s] O primeiro encaixe é [etapa do manual], usando [ferramenta].\n[10-18s] Depois vêm [etapas]. A montagem levou [tempo real], com [pessoas].\n[18-25s] Confira o manual, a fixação e a carga permitida antes de usar.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Vista superior das peças separadas conforme manual.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mostra primeira união em velocidade normal.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Etapas seguintes aparecem numeradas, com cortes assumidos.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Móvel pronto recebe inspeção das fixações."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, vista superior das peças separadas conforme manual, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, mostra primeira união em velocidade normal, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Montagem de móvel com peças contadas e etapas numeradas. Preserve esta mecânica: Vista superior das peças separadas conforme manual; Mostra primeira união em velocidade normal; Etapas seguintes aparecem numeradas, com cortes assumidos; Móvel pronto recebe inspeção das fixações. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Seguir o manual, usar ferramentas e proteção adequadas e concluir fixações obrigatórias. Não demonstrar carga antes da fixação; não esconder peças de segurança.",
+  "legenda": "Veja [produto] de perto: montagem de móvel com peças contadas e etapas numeradas. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": "Seguir o manual, usar ferramentas e proteção adequadas e concluir fixações obrigatórias. Não demonstrar carga antes da fixação; não esconder peças de segurança.",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1033265243082222",
+      "dias_no_ar": 62,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência de produto e argumento comercial consultada pela copy local. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

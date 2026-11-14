@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-2943632659323321",
+  "tipo": "estatico",
+  "titulo": "Carreira internacional com análise de perfil",
+  "formato": "Oferta e promoção",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de um mentor de terno em escritório escuro ocupa a direita. À esquerda, título em branco e dourado, bandeiras, três caminhos profissionais e botão de análise de perfil.",
+  "por_que_funciona": [
+    "O título em branco e dourado destaca o destino profissional sobre o cenário escuro.",
+    "O prazo de 12 meses torna a duração da mentoria explícita.",
+    "Os três ícones organizam as possibilidades de carreira.",
+    "O botão amarelo de análise de perfil se destaca na parte inferior do bloco de texto."
+  ],
+  "quando_usar": "Para captar candidatos a uma mentoria de carreira com avaliação inicial.",
+  "estrutura_texto": "Mentoria individual de [duração]\nCarreira [profissional] em [destino].\n[Caminho 1] | [Caminho 2] | [Caminho 3]\nFaça sua análise de perfil →",
+  "legenda": "Planeje sua carreira em [destino] com mentoria individual de [duração]. Conheça caminhos para [possibilidades], conforme os requisitos locais. Preencha a análise de perfil para entender os próximos passos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha retrato profissional à direita em escritório noturno, texto à esquerda, tipografia serifada grande e paleta preta, branca e dourada. Inclua duração, três ícones de trajetórias e botão amarelo de análise de perfil. Use cenário próprio e texto sem promessa de aprovação.",
+  "alerta_politica": "Na divulgação de carreira médica, não prometa licença, visto, residência ou emprego. Informe que a atuação depende de requisitos e validações no país de destino; observe as regras do CFM se houver publicidade médica.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2943632659323321",
+    "anunciante": "DocXplore",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-10",
+    "dias_no_ar": 35,
+    "variacoes_ativas": 1,
+    "texto_original": "Carreira médica nos Estados Unidos e no Canadá: um plano para sua trajetória. A DocXplore oferece mentoria individual de 12 meses para médicos interessados em residência, fellowship ou atuação como staff, conforme o país e os critérios aplicáveis. Preencha a análise de perfil e conheça os próximos passos para o seu momento profissional.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-2943632659323321.jpg"
+}

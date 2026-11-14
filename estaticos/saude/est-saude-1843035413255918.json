@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1843035413255918",
+  "tipo": "estatico",
+  "titulo": "Capa de sintomas com retrato em consultório",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de profissional de jaleco sentado em consultório. Duas caixas centrais, branca e preta, apresentam o tema e o convite para deslizar.",
+  "por_que_funciona": [
+    "O título numérico promete uma sequência curta de sintomas.",
+    "A caixa branca cria contraste com a foto do consultório.",
+    "O bloco preto isola a instrução “Arraste para o lado”.",
+    "O jaleco e o ambiente situam a publicação no contexto de atendimento."
+  ],
+  "quando_usar": "Para abrir carrosséis educativos sobre sinais que merecem avaliação profissional.",
+  "estrutura_texto": "[Número] sintomas de [condição].\nArraste para o lado",
+  "legenda": "[Condição] pode afetar [região] e apresentar manifestações diferentes ao longo do tempo. Neste conteúdo, explicamos [número] sinais e quando procurar avaliação. O diagnóstico depende de consulta individual.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato contextual em consultório ocupando todo o fundo. Centralize uma faixa branca com título preto em itálico e, abaixo, um retângulo preto menor com CTA branco. Preserve a simplicidade e a foto visível.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ao público ou prometer resultados. CFM: conteúdo médico deve ser informativo, sem garantia de resultado, com identificação profissional quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1843035413255918",
+    "anunciante": "Dr Bernardo Mercante",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-12",
+    "dias_no_ar": 459,
+    "variacoes_ativas": 1,
+    "texto_original": "O joelho é a articulação do corpo mais afetada pela artrose. O excesso de peso, hábitos de vida e o tempo, são fatores que precisamos levar em conta.\n\nInicialmente a dor pode ocorrer com atividades mais intensas apenas, mas com a progressão da doença pode haver dor com atividades do dia a dia e até mesmo em repouso.\n\nVocê sente dor no joelho? Conta pra gente nos comentários!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1843035413255918.jpg"
+}

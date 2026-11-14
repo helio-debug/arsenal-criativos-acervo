@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1052255717177867",
+  "tipo": "estatico",
+  "titulo": "Seguro de vida apresentado com família e pet",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma família com cachorro ocupa a metade inferior da peça. No topo azul, a promessa de apoio na rotina aparece em letras brancas, com etiqueta turquesa de produto e botão de informação.",
+  "por_que_funciona": [
+    "A família com cachorro torna visíveis os vínculos associados à proteção.",
+    "“Junto com você” é a maior chamada no topo.",
+    "A linha sobre proteção e assistências explica a proposta do seguro.",
+    "O botão “Saiba mais” oferece continuidade para conhecer os detalhes."
+  ],
+  "quando_usar": "Para apresentar seguros de vida com assistências voltadas à casa, família e pets.",
+  "estrutura_texto": "[Nome da categoria]\nJunto com [público]\npara facilitar [contexto].\nCom [proteção] e [assistências].\n[Saiba mais]\n[Assinatura]",
+  "legenda": "Conte com [seguro de vida] para acessar [assistências disponíveis] na rotina de [público]. Consulte também as condições de [sorteios, se houver], coberturas e limites em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Use fundo azul, recortes diagonais turquesa e foto acolhedora de família com pet na metade inferior. Coloque etiqueta inclinada de categoria, chamada branca grande, complemento curto e pequeno botão no topo. Use a IMAGEM 2 como representação da oferta e reserve o rodapé para assinatura. Não copie a marca, o logotipo, as pessoas nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Meta: não atribua vulnerabilidade financeira ou condição de saúde ao público. Informe coberturas, carências, exclusões e condições reais; descontos e assistências devem corresponder ao contrato. Observe as regras da SUSEP quando se tratar de seguro. Se mencionar sorteios, informe regulamento, elegibilidade, periodicidade e premiação sem sugerir ganho garantido.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1052255717177867",
+    "anunciante": "Caixa Vida e Previdência",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-14",
+    "dias_no_ar": 92,
+    "variacoes_ativas": 1,
+    "texto_original": "Para a casa, para os pets e para diferentes momentos da rotina.\n\nO Seguro Vida Multipremiado da CAIXA oferece assistências como Telemedicina, Assistência Pet e Assistência Lar. E mais: você concorre a sorteios mensais de até R$ 200 mil.\n\nMais proteção para acompanhar seu dia a dia.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1052255717177867.jpg"
+}

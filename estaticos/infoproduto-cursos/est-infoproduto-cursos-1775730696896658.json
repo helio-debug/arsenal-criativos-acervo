@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1775730696896658",
+  "tipo": "estatico",
+  "titulo": "Pergunta estratégica com arquitetura em perspectiva",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Arte em tons de cinza apresenta um MBA com pergunta sobre visão global e negócios. Um edifício curvo ocupa a base direita, acompanhado por linhas azuis e pequenos destaques em magenta.",
+  "por_que_funciona": [
+    "A pergunta ocupa quatro linhas e apresenta o tema de visão global.",
+    "A arquitetura fotografada de baixo para cima cria uma composição de grande escala.",
+    "O selo de IA integrada destaca um atributo específico do programa.",
+    "A indicação de modalidades em magenta se distingue da paleta cinza."
+  ],
+  "quando_usar": "Apresentação de MBAs de negócios com foco em tecnologia e repertório internacional.",
+  "estrutura_texto": "[Identidade do programa]\n[Categoria]\nQuanto de [perspectiva] você conecta a [área]?\n[Atributo do programa]\n[Orientação de aplicação]\n[Modalidades]",
+  "legenda": "Amplie seu repertório para aplicar [conhecimento estratégico] aos desafios de [negócios]. Conheça [programa], seus conteúdos de [tecnologia] e as opções de [modalidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição editorial vertical em cinza, com identidade própria no alto, pergunta em sans-serif preta fina à esquerda e foto de arquitetura curva ocupando a base direita. Insira círculo e seta azuis, pequeno selo circular de atributo e modalidade em magenta. Use a IMAGEM 2 como referência do produto em uma área secundária ou como apoio visual coerente, preservando a hierarquia tipográfica.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1775730696896658",
+    "anunciante": "FIAP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 1,
+    "texto_original": "Nos nossos programas de alto impacto, amplie seu repertório para combinar pensamento estratégico global e execução inovadora, levando negócios muito além\ndas fronteiras.\nConheça uma nova visão global.\nGLOBAL MBAs STARTSE E FIAP",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1775730696896658.jpg"
+}

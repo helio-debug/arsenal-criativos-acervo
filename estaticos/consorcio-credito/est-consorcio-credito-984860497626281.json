@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-984860497626281",
+  "tipo": "estatico",
+  "titulo": "Empréstimo via transferência sobre cédula",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma cédula de cinquenta reais inclinada ocupa o centro de uma mesa de madeira clara. Sobre ela, letras azuis anunciam mini empréstimo via transferência instantânea.",
+  "por_que_funciona": [
+    "A cédula torna o tema dinheiro reconhecível antes da leitura.",
+    "A chamada sobre empréstimo ocupa o centro da nota em letras azuis grandes.",
+    "A mesa clara e a sombra da cédula dão aparência de fotografia cotidiana."
+  ],
+  "quando_usar": "Para apresentar uma linha de empréstimo de pequeno valor, acompanhada de condições claras na comunicação.",
+  "estrutura_texto": "[PERGUNTA SOBRE NECESSIDADE DE CRÉDITO]\n[MODALIDADE DO EMPRÉSTIMO]\nvia [MEIO DE TRANSFERÊNCIA]",
+  "legenda": "Conheça o [nome da linha de crédito], com recebimento por [meio de transferência]. Consulte valores, CET, prazo e critérios de análise em [canal]. Veja as condições antes de contratar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia de mesa de madeira clara vista de cima, com uma representação ilustrativa de dinheiro inclinada e sombra suave. Sobreponha uma chamada curta e o nome da modalidade em letras azuis de aspecto manual, com o meio de transferência em destaque. Use a IMAGEM 2 apenas para representar a oferta do usuário, sem reproduzir cédula oficial ou inventar selos. Reserve espaço legível para custos e condições.",
+  "alerta_politica": "Meta: empréstimos de curtíssimo prazo e produtos de crédito proibidos pela plataforma não podem ser anunciados. Verificar prazo e elegibilidade do produto; informar CET, juros, tarifas, prazo e critérios de análise. Evitar afirmar dificuldade financeira pessoal ou prometer aprovação e liberação garantidas. Aplicar categoria especial de crédito quando exigida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "984860497626281",
+    "anunciante": "Saverstyle",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-28",
+    "dias_no_ar": 170,
+    "variacoes_ativas": 1,
+    "texto_original": "Pensado para quem busca praticidade com respeito e segurança 🙌📥\nSaiba mais sobre Mini Empréstimo Via Pix ⬇️",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-984860497626281.jpg"
+}

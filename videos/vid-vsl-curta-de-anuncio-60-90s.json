@@ -1,0 +1,111 @@
+{
+ "id": "vid-vsl-curta-de-anuncio-60-90s",
+ "titulo": "VSL curta de 60 a 90 segundos: gancho, história, oferta e prazo",
+ "formato_video": "vsl-curta",
+ "nichos": [
+  "infoproduto-cursos",
+  "mentoria-high-ticket",
+  "renda-extra",
+  "saude"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "escassez-prazo",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "duracao": "60-90s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Cartelas escuras deslizam sobre fundo claro em vertical. Uma delas amplia um detalhe do produto. Legenda curta com aparência pixelada e pequeno ícone genérico.",
+   "fala": "[Problema concreto] aparece nesta etapa de [tarefa].",
+   "texto_tela": "[PROBLEMA] EM [TAREFA]"
+  },
+  {
+   "tempo": "4-15s",
+   "cena": "Cartão claro central com ilustração do ponto de atrito. Pequena cápsula lateral destaca o tempo ou etapa; movimento horizontal suave.",
+   "fala": "Em [situação real], eu precisava [objetivo]. Só que [obstáculo verificável] interrompia o processo. Eu repetia [ação] e acabava com [consequência observável].",
+   "texto_tela": "O obstáculo: [obstáculo]"
+  },
+  {
+   "tempo": "15-28s",
+   "cena": "Cartão do produto entra no centro. Dois painéis escuros mostram ações distintas, com marcação discreta de etapa e linha de progresso ilustrativa.",
+   "fala": "Foi aí que passei a usar [produto]. Ele funciona por [mecanismo simples]. Primeiro, [entrada ou preparação]. Depois, [ação principal], seguindo [critério].",
+   "texto_tela": "Como funciona [produto]"
+  },
+  {
+   "tempo": "28-43s",
+   "cena": "Amplie um painel por vez para demonstrar o procedimento. Use interface própria ou diagrama, sem gerar textos na imagem base.",
+   "fala": "Na prática, você usa [recurso] para [tarefa específica]. Aqui aparece [sinal verificável da execução]. Se [condição de limite], é preciso [cuidado ou orientação].",
+   "texto_tela": "Veja [recurso] em uso"
+  },
+  {
+   "tempo": "43-55s",
+   "cena": "Fundo escurece e exibe documento ou registro autêntico da prova. Número e período ficam grandes; informações pessoais ocultas.",
+   "fala": "Neste registro de [teste ou caso documentado], [medida verificável] foi observado em [período e condições]. O dado vale para esse recorte e não garante o mesmo resultado em outros casos.",
+   "texto_tela": "[DADO COMPROVADO] | [PERÍODO]"
+  },
+  {
+   "tempo": "55-68s",
+   "cena": "Volta ao fundo claro. Cartão central reúne produto, conteúdo incluído e preço. Cada linha surge quando é citada.",
+   "fala": "O acesso a [produto] inclui [entrega principal] e [recurso de apoio]. Custa [preço e condição]. Você consulta [forma de acesso ou atendimento] na página da oferta.",
+   "texto_tela": "[Produto] | [entregas] | [preço]"
+  },
+  {
+   "tempo": "68-78s",
+   "cena": "Cartela de garantia com texto curto, seguida de cartão de calendário. Sem contador animado artificial.",
+   "fala": "A garantia é [condição real e prazo], conforme os termos. Esta condição da oferta vale até [data e horário reais], por [motivo verificável do encerramento].",
+   "texto_tela": "[Garantia real] | Até [data e horário]"
+  },
+  {
+   "tempo": "78-85s",
+   "cena": "Cartão final cinza com representação de botão, mantendo o estilo do último frame. Legenda pixelada pede uma única ação.",
+   "fala": "Clique no botão para conferir os detalhes de [produto]. Leia as condições e escolha [próximo passo] até [prazo real].",
+   "texto_tela": "Confira [produto] no botão"
+  }
+ ],
+ "hook": {
+  "falado": "[Problema concreto] aparece nesta etapa de [tarefa].",
+  "texto_tela": "[PROBLEMA] EM [TAREFA]",
+  "visual": "Cartelas escuras deslizam sobre fundo claro em vertical. Uma delas amplia um detalhe do produto. Legenda curta com aparência pixelada e pequeno ícone genérico."
+ },
+ "por_que_funciona": [
+  "Os cartões escuros sobre fundo claro organizam assuntos diferentes sem depender de um apresentador no quadro.",
+  "A referência amplia um cartão claro de instruções e usa pequenas cápsulas laterais para destacar informações curtas.",
+  "Os painéis de problema aparecem lado a lado; depois o fundo escurece para destacar números de prova.",
+  "O último frame apresenta um cartão cinza com campo central, dando uma forma visual ao convite final."
+ ],
+ "quando_usar": "Para cursos e mentorias com mecanismo demonstrável, prova autorizada e condição comercial com data real. Use no fundo do funil quando o público já conhece a oferta e precisa entender entrega, limites e acesso.",
+ "roteiro_modelo": "[Problema concreto] aparece nesta etapa de [tarefa].\n\n[pausa curta; corte]\n\nEm [situação real], eu precisava [objetivo]. Só que [obstáculo verificável] interrompia o processo. Eu repetia [ação] e acabava com [consequência observável].\n\n[pausa curta; corte]\n\nFoi aí que passei a usar [produto]. Ele funciona por [mecanismo simples]. Primeiro, [entrada ou preparação]. Depois, [ação principal], seguindo [critério].\n\n[pausa curta; corte]\n\nNa prática, você usa [recurso] para [tarefa específica]. Aqui aparece [sinal verificável da execução]. Se [condição de limite], é preciso [cuidado ou orientação].\n\n[pausa curta; corte]\n\nNeste registro de [teste ou caso documentado], [medida verificável] foi observado em [período e condições]. O dado vale para esse recorte e não garante o mesmo resultado em outros casos.\n\n[pausa curta; corte]\n\nO acesso a [produto] inclui [entrega principal] e [recurso de apoio]. Custa [preço e condição]. Você consulta [forma de acesso ou atendimento] na página da oferta.\n\n[pausa curta; corte]\n\nA garantia é [condição real e prazo], conforme os termos. Esta condição da oferta vale até [data e horário reais], por [motivo verificável do encerramento].\n\n[pausa curta; corte]\n\nClique no botão para conferir os detalhes de [produto]. Leia as condições e escolha [próximo passo] até [prazo real].",
+ "tomadas_celular": [
+  "Grave 4s em close do objeto ou da tela relacionada à tarefa, luz de janela difusa; use como recorte dentro do primeiro cartão.",
+  "Grave 11s de cima da mesa, luz lateral suave, mostrando a etapa que trava; sem expor dados pessoais.",
+  "Grave 13s em close do produto ou material aberto, celular apoiado e iluminação frontal sem reflexo.",
+  "Grave 15s sobre o ombro demonstrando uma ação completa, janela lateral; o editor divide o trecho entre painéis.",
+  "Grave 12s do registro autêntico em close, luz uniforme, com período e condições visíveis e dados pessoais ocultos.",
+  "Grave 13s do material incluído na oferta sobre mesa, luz difusa, mantendo cada item no centro.",
+  "Grave 10s em close dos termos próprios de garantia e calendário, luz lateral suave; acrescente os textos na edição.",
+  "Grave 7s do produto em plano fixo, fundo neutro e luz frontal, para o cartão final."
+ ],
+ "caminho_ia": "Faça sem câmera usando slideshow de imagens geradas e cartões animados no CapCut; narração por avatar fora de quadro ou voz sintética licenciada. No Sora ou Runway, gere os fundos com estes prompts: \"Vertical 9:16 motion graphics, pale cool background, dark rounded interface cards sliding horizontally and scaling toward camera to explain [product mechanism], small generic pixel icon accents, clean spacing, no logos, no readable text, 8 seconds.\" e \"Vertical 9:16 motion graphics, dark background, one large empty evidence card transitioning into a light gray call-to-action card for [product offer], smooth lateral camera move, high contrast, no fake metrics, no text, 8 seconds.\" Insira textos e documentos autênticos na edição. Use ícone original, sem reproduzir o personagem da referência; nunca gere prova clínica, depoimento ou números de uso fictícios.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma VSL de 85s em oito blocos: 0-4 gancho com problema; 4-15 história curta verificável; 15-28 mecanismo; 28-43 demonstração; 43-55 prova e limites; 55-68 oferta e preço; 68-78 garantia e prazo real; 78-85 CTA. Tom explicativo, sem acelerar a ponto de prejudicar a leitura. Use cartões escuros sobre fundo claro, movimentos laterais, ampliação de painéis, legendas curtas pixeladas e mudança para fundo escuro na prova. Garanta tempo para ler número e condições. Não copie ferramentas, arquivo, código, pessoa, logotipo, domínio, quantidade de usuários ou ícone da referência. O modelo pode ser adaptado aos nichos listados sem manter o assunto de tecnologia. Só use data de encerramento e garantia existentes; se faltarem, marque os campos como pendentes. Use pt-BR falado, frases curtas e campos [entre colchetes] para dados ausentes. Não invente prova, prazo, preço ou garantia. Não copie anunciante, pessoa, marca, logotipo, domínio, contato nem falas da referência. Não use clichês, superlativos sem prova, antíteses vazias nem perguntas de enfeite. Meta: não atribua doença ou condição financeira ao espectador. Em saúde, sem antes/depois de corpo, promessa de cura ou resultado garantido; respeite ANVISA e CFM quando aplicáveis e comprove alegações. Em renda extra, siga os termos da Meta para oportunidades de negócio: sem garantia de ganho ou resultado atípico apresentado como típico; informe contexto e custos. Não fabrique prova, escassez, prazo ou garantia.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] inclui [entrega principal] e [apoio]. Valor: [preço e condição]. Garantia: [termos reais]. A condição vale até [data e horário] por [motivo real]. Confira os detalhes no botão. [Limites da prova e do uso, quando aplicáveis].",
+ "alerta_politica": "Meta: não atribua doença ou condição financeira ao espectador. Em saúde, sem antes/depois de corpo, promessa de cura ou resultado garantido; respeite ANVISA e CFM quando aplicáveis e comprove alegações. Em renda extra, siga os termos da Meta para oportunidades de negócio: sem garantia de ganho ou resultado atípico apresentado como típico; informe contexto e custos. Não fabrique prova, escassez, prazo ou garantia.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-151113c5",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-vsl-curta-de-anuncio-60-90s/frames/f1.jpg",
+    "videos/vid-vsl-curta-de-anuncio-60-90s/frames/f2.jpg",
+    "videos/vid-vsl-curta-de-anuncio-60-90s/frames/f3.jpg",
+    "videos/vid-vsl-curta-de-anuncio-60-90s/frames/f4.jpg",
+    "videos/vid-vsl-curta-de-anuncio-60-90s/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-4646932798910188",
+  "tipo": "estatico",
+  "titulo": "Colagem de cuidados infantis com convite ao grupo",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Colagem de quatro fotos de produtos de higiene e gavetas organizadas, com chamada central para um grupo de ofertas.",
+  "por_que_funciona": [
+    "As quatro fotos mostram categorias reconhecíveis de compras para bebês.",
+    "O texto central conecta as cenas sem exigir leitura de cada embalagem.",
+    "As palavras maiores em branco destacam o grupo e a economia.",
+    "As exclamações vermelhas acrescentam contraste à chamada."
+  ],
+  "quando_usar": "Para captar participantes de um grupo de curadoria de ofertas infantis.",
+  "estrutura_texto": "[Público] estão\nNO [GRUPO]\ne encontram\n[Benefício de economia]",
+  "legenda": "Achados de [categoria] reunidos em [grupo]. Entre para acompanhar [ofertas verificadas] e comparar preços antes de comprar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma colagem vertical de quatro fotos de produtos e organização de itens infantis. Centralize a chamada em branco, com fonte arredondada e pesada nas expressões de destaque, linhas de apoio finas e um pequeno acento vermelho. Troque marcas e embalagens pelas do meu produto; não prometa menor preço sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4646932798910188",
+    "anunciante": "achadinhos do bebe",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-11",
+    "dias_no_ar": 95,
+    "variacoes_ativas": 1,
+    "texto_original": "achadinhos do bebe",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-4646932798910188.jpg"
+}

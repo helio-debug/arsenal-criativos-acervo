@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1394149742849805",
+  "tipo": "estatico",
+  "titulo": "Linha do tempo da evolução das iscas digitais",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo escuro com curva ascendente e três marcos de evolução das iscas digitais. Título no topo e chamada para conhecer o novo formato no rodapé.",
+  "por_que_funciona": [
+    "A curva branca conduz o olhar pelos três marcos e termina no formato mais recente.",
+    "Datas e nomes curtos permitem comparar as etapas sem um texto longo.",
+    "O último ponto tem brilho mais forte, destacando a novidade.",
+    "A seta no rodapé conecta a evolução ao convite para conhecer a solução."
+  ],
+  "quando_usar": "Para treinamentos de captação que apresentam uma mudança de método a profissionais já familiarizados com iscas digitais.",
+  "estrutura_texto": "[Categoria] evolui a cada [período].\n[Ano inicial] — [formato antigo]\n[Ano intermediário] — [formato conhecido]\n[Ano atual] — [novo formato]\nConheça sua nova [solução] →\n[Convite para adotar o método]",
+  "legenda": "Em [período], [formato antigo] ajudava a captar contatos. Depois veio [formato intermediário]. Neste [treinamento], veja como funciona [novo formato] e avalie como aplicá-lo em [contexto]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo grafite, texto branco em fonte sem serifa e título grande em duas linhas. No centro, desenhe uma curva ascendente com três pontos e rótulos de ano e formato. Realce o ponto final com brilho suave. Se a foto do produto couber no conceito, use-a como pequena representação do estágio final. Finalize com chamada e seta no rodapé; use somente datas e alegações fornecidas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1394149742849805",
+    "anunciante": "Vessel Business",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 4,
+    "texto_original": "Every decade has one. A new lead magnet format that the first movers ride to the top while everyone else scrambles to catch up years later.\n2005 — Free reports. Frank Kern and his generation built empires on them.\n2015 — PDF freebies and webinars. Russell Brunson era. Fortunes made.\n2026 — MATEs. And 99% of marketers don't even know they exist yet.\nThe first movers are already eating. You can still be one of them.\nBut the window doesn't stay open forever. It never does.\nIn this training, we'll show you exactly what a MATE is and how to build one before everyone else catches on.\n​\nActive",
+    "origem_coleta": "acervo:vesselbusiness"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1394149742849805.jpg"
+}

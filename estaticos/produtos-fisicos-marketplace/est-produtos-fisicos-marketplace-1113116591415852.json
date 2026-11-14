@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1113116591415852",
+  "tipo": "estatico",
+  "titulo": "Antes e depois de avaria com gancho para análise de dados",
+  "formato": "Antes e depois",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "A composição divide duas fotos de veleiros por uma linha branca: à esquerda, navegação com vela erguida; à direita, barco atracado com mastro caído. Rótulos de antes e depois e uma frase na base convidam a conhecer a análise dos dados de carga.",
+  "por_que_funciona": [
+    "A divisão vertical permite comparar rapidamente as duas situações.",
+    "O mastro caído na foto da direita torna a consequência visível.",
+    "Os rótulos no topo estabelecem a sequência temporal.",
+    "A frase inferior deixa uma questão sobre o intervalo entre as imagens e apresenta os dados como assunto do conteúdo."
+  ],
+  "quando_usar": "Para fabricantes de sensores e instrumentos apresentarem um estudo de caso documentado sobre falhas ou cargas em equipamentos.",
+  "estrutura_texto": "[ANTES]\n[DEPOIS]\n[…E O QUE OS DADOS REVELARAM SOBRE O INTERVALO ENTRE AS CENAS]",
+  "legenda": "Um caso de [falha em equipamento] pode ser investigado a partir de [dados registrados]. Neste estudo, veja [contexto documentado] e o que os registros de [carga ou variável] permitem observar. Acesse [conteúdo] para conhecer a análise e seus limites.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o anúncio em duas fotos verticais de igual largura, separadas por linha branca. Mostre uma situação anterior documentada à esquerda e a posterior à direita, com rótulos brancos grandes no topo. Na base, aplique degradê escuro e chamada branca sobre o que os dados revelaram. Use apenas registros do mesmo caso fornecidos pelo usuário; não fabrique avarias nem atribua causalidade sem evidência. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1113116591415852",
+    "anunciante": "Cyclops Marine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 2,
+    "texto_original": "A dismasting is often associated with extreme conditions, overly aggressive sailing, or loads exceeding the limits of equipment. The case of Rimar 45RS 'Bloom' tells a different story.  \n\nAt the time of the incident, Bloom had sailed approximately 70 nautical miles from the start of the Brindisi-Corfu race and was operating in demanding but entirely normal offshore racing conditions. \n\nThe maximum recorded true wind speed was approximately 25 knots, while the yacht’s maximum recorded speed was only about 15 knots. The boat was sailing on a broad-reach course with waves approaching from the quarter.  \n\nRead the full case study, including what load data revealed, here: https://www.cyclopsmarine.com/what-load-data-revealed/ \n\n#SmartSailing\nSystem status\nAd Library APIAbout ads and data usePrivacyTermsCookies\nEnglish (US)",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1113116591415852.jpg"
+}

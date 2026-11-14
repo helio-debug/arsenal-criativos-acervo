@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2915178495352618",
+  "tipo": "estatico",
+  "titulo": "Produto central com convite para revenda",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Pote de biscoitos centralizado sobre fundo verde, entre a chamada de renda extra e o convite para vender. Condições de entrega e pagamento aparecem acima de uma faixa de contato.",
+  "por_que_funciona": [
+    "O pote ocupa o centro e mostra o produto que será revendido.",
+    "A expressão de renda extra aparece na maior linha do topo.",
+    "A linha de entrega e pagamento responde a duas dúvidas operacionais.",
+    "A faixa inferior concentra o convite para contato e a informação de vagas."
+  ],
+  "quando_usar": "Para captar interessados em revenda quando as condições de entrega e consignação estiverem definidas.",
+  "estrutura_texto": "[Marca]\nJÁ PENSOU EM GANHAR UMA\nRENDA EXTRA\n[Produto]\nVENDENDO [CATEGORIA]?\n[Condição de entrega] | [Condição de pagamento]\n[Disponibilidade real]. FALE COM A GENTE!",
+  "legenda": "Conheça a oportunidade de revender [produto] na sua região. Você recebe [itens] com [condições de entrega] e paga conforme [regras comerciais]. Consulte os detalhes em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical em tons de verde e turquesa, com textura discreta de alimentos no fundo. Destaque a expressão principal em letras brancas grandes no topo, o produto recortado da IMAGEM 2 no centro e a pergunta de revenda abaixo. Termine com condições comerciais legíveis e faixa turquesa de contato. Só inclua limitação de vagas se comprovada.",
+  "alerta_politica": "Meta: oportunidades de renda devem informar condições reais, custos e responsabilidades; não garantir ganhos. Entrega gratuita, pagamento apenas do vendido e escassez precisam ser verdadeiros e ter condições claras.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2915178495352618",
+    "anunciante": "Itaipava Revendas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-25",
+    "dias_no_ar": 415,
+    "variacoes_ativas": 19,
+    "texto_original": "Buscando uma oportunidade que se encaixe na sua rotina? \n\nSeja uma consultora e trabalhe no seu tempo! Você recebe todos os produtos no conforto da sua casa para começar a vender. \n\nConcilie sua vida pessoal com uma nova fonte de lucro de forma simples e prática.\nClique e saiba mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2915178495352618.jpg"
+}

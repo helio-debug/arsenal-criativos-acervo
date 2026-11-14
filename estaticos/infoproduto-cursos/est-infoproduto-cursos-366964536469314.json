@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-366964536469314",
+  "tipo": "estatico",
+  "titulo": "Oferta de pós com preço central e checklist",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Arte sobre fundo branco com título azul escuro e faixas laranja e azul. O preço ocupa o centro; três benefícios com checks e um botão verde aparecem na base.",
+  "por_que_funciona": [
+    "O título ocupa quase toda a largura e identifica a categoria.",
+    "O valor em tamanho grande domina a oferta.",
+    "Os checks verdes tornam os três atributos fáceis de localizar.",
+    "O botão verde separa a ação de inscrição das informações."
+  ],
+  "quando_usar": "Para retargeting de interessados em pós-graduação com oferta e requisitos definidos.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[PÓS-EAD]\n[CONCLUSÃO EM PRAZO]\nCURSOS POR APENAS:\n[PARCELAS]x R$ [VALOR] [MEIO DE PAGAMENTO]\n[ATRIBUTO 1]\n[ATRIBUTO 2]\n[ATRIBUTO 3]\n[CTA]",
+  "legenda": "Escolha sua pós em [área] e estude [modalidade]. Confira [condições de conclusão], [requisitos] e a oferta de [parcelas] de [valor]. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mantenha fundo branco, título azul escuro muito grande no topo, faixa laranja de prazo e faixa azul de oferta. Coloque preço no centro, checklist de três atributos no rodapé esquerdo e botão verde à direita. A foto da IMAGEM 2 pode ser omitida para preservar o layout tipográfico. Use apenas credenciamentos verificáveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "366964536469314",
+    "anunciante": "Prisma Pós Ead",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-09-09",
+    "dias_no_ar": 796,
+    "variacoes_ativas": 7,
+    "texto_original": "A FACPRISMA, fundada pela diretora pedagógica Rosy Prisma, já conquistou milhares de brasileiros que querem ver a vida com um novo Prisma.\nPós-Graduação 100% Online: destaque-se no mercado de trabalho com  com a FACPRISMA.\n\n✅ Mais de 2 mil cursos\n✅ TCC opcional\n✅ Conclusão a partir de 3 meses\n✅ Cursos reconhecidos pelo MEC\n🚀 Transforme sua carreira em 2024 com a PRISMA Pós-graduação! 🌐\n👉 Inscreva-se Já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-366964536469314.jpg"
+}

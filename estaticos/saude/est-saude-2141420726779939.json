@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-2141420726779939",
+  "tipo": "estatico",
+  "titulo": "Convite ao cuidado em cena diante do espelho",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um homem diante do espelho aparece em cena com tons quentes e expressão séria. Pergunta no topo, frase sobre cuidado e botão roxo na base conduzem ao contato profissional.",
+  "por_que_funciona": [
+    "O espelho cria uma cena visual de reflexão pessoal.",
+    "A pergunta em branco fica isolada no topo, com leitura direta.",
+    "O botão roxo se destaca dos tons marrons da fotografia.",
+    "A frase acima do botão liga a cena ao tema de saúde mental."
+  ],
+  "quando_usar": "Para campanhas de acesso a atendimento emocional, adaptando a pergunta para um convite geral de cuidado.",
+  "estrutura_texto": "[Convite geral ao autocuidado]\n[Mensagem sobre acesso ao cuidado]\nFale com [profissional] [prazo real].",
+  "legenda": "Conheça [serviço de atendimento emocional]. Veja os horários disponíveis e comece seu [atendimento] no seu tempo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de adulto diante de espelho em ambiente acolhedor de tons quentes, sem reproduzir a pessoa ou o banheiro da referência. Posicione chamada branca centralizada no alto, mensagem de apoio no terço inferior e botão roxo largo na base. Troque a pergunta sobre negligência pessoal por convite geral ao cuidado. Use apenas disponibilidade de atendimento verificável.",
+  "alerta_politica": "Meta: evite afirmar ou insinuar que o público possui uma condição de saúde mental, está em crise ou negligencia o próprio cuidado. Use convite geral ao atendimento, sem diagnóstico ou promessa de cura; respeite sigilo e regras éticas do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2141420726779939",
+    "anunciante": "Zenklub",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-12",
+    "dias_no_ar": 63,
+    "variacoes_ativas": 2,
+    "texto_original": "Você não precisa esperar uma crise pra procurar ajuda. No Zenklub, dá pra começar agora, no seu tempo.",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-2141420726779939.jpg"
+}

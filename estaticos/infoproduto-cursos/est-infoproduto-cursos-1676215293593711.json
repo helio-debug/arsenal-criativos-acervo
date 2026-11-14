@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1676215293593711",
+  "tipo": "estatico",
+  "titulo": "Coordenador em primeiro plano com aula prática ao fundo",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Composição vertical reúne uma aula com alunos ao fundo e um professor de jaleco em primeiro plano. Um cartão azul-escuro destaca a prática na formação em nutrologia.",
+  "por_que_funciona": [
+    "A cena de aula mostra o ambiente de aprendizado da formação.",
+    "O professor em primeiro plano aproxima a mensagem de quem ministra o curso.",
+    "O cartão escuro torna legível a frase sobre prática em meio às fotografias.",
+    "A identificação como coordenador e os registros profissionais contextualizam sua atuação."
+  ],
+  "quando_usar": "Para divulgar uma formação médica com atividades práticas e apresentação do corpo docente.",
+  "estrutura_texto": "[Especialidade] que vai além da teoria.\nAqui, você pratica.\n[Nome autorizado do docente]\n[Cargo no curso]\n[Registros profissionais]",
+  "legenda": "Conheça a [formação em especialidade] e sua proposta de [prática supervisionada]. Confira a programação, o corpo docente e os requisitos de participação em [canal de informações].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie peça vertical com fotografia de uma aula no topo e recorte grande de um docente de jaleco ocupando a metade inferior, com gesto de explicação. Aplique tratamento azul frio e degradê escuro para legibilidade. À esquerda do rosto, coloque painel azul-marinho arredondado com frase branca sobre prática, destacando a última linha em negrito. No rodapé direito, insira identificação autorizada, cargo e registros reais. Não invente credenciais nem use imagens identificáveis de pacientes sem consentimento.",
+  "alerta_politica": "Formação médica: use credenciais verdadeiras e autorização de imagem. Esclareça requisitos e supervisão das atividades; não sugira título de especialista ou RQE automático pela conclusão da pós-graduação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1676215293593711",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "Learn More",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1676215293593711.jpg"
+}

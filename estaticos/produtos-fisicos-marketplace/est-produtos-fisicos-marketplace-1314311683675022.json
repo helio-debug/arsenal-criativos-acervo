@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1314311683675022",
+  "tipo": "estatico",
+  "titulo": "Chamada de compra com coleção de jogos na base",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte azul e amarela com dois quadros brancos anunciando a compra de jogos usados. Capas e cartuchos ocupam a faixa inferior, abaixo dos canais de contato.",
+  "por_que_funciona": [
+    "O primeiro quadro explica imediatamente o que o público pode vender.",
+    "O segundo quadro destaca que há um comprador disponível.",
+    "As capas e os cartuchos mostram visualmente os tipos de itens aceitos.",
+    "O perfil e o site aparecem juntos, antes das fotos dos jogos."
+  ],
+  "quando_usar": "Para lojas que compram itens usados captarem vendedores e receberem pedidos de avaliação.",
+  "estrutura_texto": "[Marca]\nVENDA SEUS [ITENS] USADOS!\nNÓS COMPRAMOS!\n[Perfil]\n[Site]",
+  "legenda": "Tem [itens usados] em casa? Envie fotos para uma avaliação. Aceitamos [categorias] e oferecemos [dinheiro ou crédito, conforme condições]. Consulte [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie topo azul com nome da minha marca, corpo amarelo e dois painéis brancos com contorno preto. No painel maior, escreva a chamada para vender itens usados; no menor, a confirmação da compra. Posicione contato no centro inferior e fotos dos itens da IMAGEM 2 alinhadas na base. Use letras pretas grandes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1314311683675022",
+    "anunciante": "Kanto dos Jogos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-08",
+    "dias_no_ar": 463,
+    "variacoes_ativas": 1,
+    "texto_original": "Que tal liberar espaço em casa e ainda ganhar dinheiro? 🤩\n\nAqui, transformamos seus JOGOS usados em oportunidades valiosas, oferecendo a você a escolha entre dinheiro ou créditos para gastar em nossa loja! 😄\n\nE o que exatamente estamos interessados em adquirir?\n\n🔸 JOGOS e consoles da Nintendo\n🔸 JOGOS e consoles clássicos e 360 do Xbox\n🔸 JOGOS e consoles da família Sony (PS1, PS2, PS3, PSP, PSVITA, etc.)\n\nChegou a hora de se libertar do que não precisa mais. E o processo é simples!\n\n🔸 Entre em contato conosco\n🔸 Informe-nos sobre os itens que deseja vender e compartilhe fotos (as imagens são essenciais para avaliar o produto, entender o que está incluso e verificar sua autenticidade!)\n🔸 Aguarde nossa avaliação, é só isso!\n\nSua chance de desapegar e lucrar está apenas a um passo de distância! 💰🎮",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1314311683675022.jpg"
+}

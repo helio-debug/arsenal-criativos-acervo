@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1085806473390385",
+  "tipo": "estatico",
+  "titulo": "Serviços cardiológicos em folheto de duas faces",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Duas faces de um folheto branco usam recortes vermelhos e faixas azuis. Uma face reúne identidade e telefone; a outra lista exames e profissionais.",
+  "por_que_funciona": [
+    "A lista com marcadores facilita localizar cada exame.",
+    "O telefone grande aparece junto ao convite para agendar.",
+    "Os blocos inferiores identificam os profissionais e registros."
+  ],
+  "quando_usar": "Para apresentar exames disponíveis em clínica local e receber agendamentos.",
+  "estrutura_texto": "[Especialidade]\n[Identidade da clínica]\n[Lista de exames]\n[Profissionais e registros]\nMarque sua consulta\n[Contato]",
+  "legenda": "Agende sua consulta de [especialidade] em [região]. A clínica oferece [exames disponíveis]. Informações e horários pelo [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição de folheto em duas colunas sobre fundo branco. Use recortes geométricos vermelhos com faixas azul-escuras, identidade genérica à esquerda e lista de serviços à direita. Destaque contato no rodapé e reserve área legível para profissionais e registros.",
+  "alerta_politica": "Saúde/CFM: divulgar somente especialidades e títulos registrados, incluir identificação profissional, CRM/UF e RQE quando aplicável. Não prometer resultados, cura ou superioridade clínica.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1085806473390385",
+    "anunciante": "Clinica coracao em dia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-11",
+    "dias_no_ar": 552,
+    "variacoes_ativas": 1,
+    "texto_original": "Clínica cardiológica na região do CPA. Realize todos os exames Cardiológicos (65)99927-5051\nClinica Coracao Em Dia\nCardiologist",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1085806473390385.jpg"
+}

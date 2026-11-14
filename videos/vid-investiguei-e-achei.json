@@ -1,0 +1,96 @@
+{
+ "id": "vid-investiguei-e-achei",
+ "tipo": "video",
+ "titulo": "Investiguei de onde vem o número e achei isto",
+ "formato_video": "storytime",
+ "nichos": [
+  "investimentos",
+  "consorcio-credito",
+  "seguros",
+  "imoveis"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "50-60s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "De onde saiu esse [número anunciado]? Fui conferir a conta.",
+  "texto_tela": "De onde vem [número]?",
+  "visual": "Close de um objeto cotidiano ligado à decisão, com [número] sobreposto. Corte para a pessoa abrindo uma tabela."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Close de objeto de uso cotidiano, inspirado na abertura com objetos da referência; entrar com o número a investigar.",
+   "fala": "De onde saiu esse [número anunciado]? Fui conferir a conta.",
+   "texto_tela": "De onde vem [número]?"
+  },
+  {
+   "tempo": "5-15s",
+   "cena": "Pessoa em plano médio numa mesa doméstica. Inserir close da fonte, com dados pessoais ocultos.",
+   "fala": "Na [fonte verificável], esse valor aparece como [definição]. Anotei a data e a condição usada. Só assim dá para comparar com outra proposta.",
+   "texto_tela": "[Fonte] • [data]"
+  },
+  {
+   "tempo": "15-27s",
+   "cena": "Mãos apontam duas linhas numa folha; alternar detalhe e rosto, como os closes de atividade da referência.",
+   "fala": "Separei [componente A] de [componente B]. Quando muda [condição], o total também muda. Aqui estão os valores usados nessa conta.",
+   "texto_tela": "[Componente A] + [componente B]"
+  },
+  {
+   "tempo": "27-40s",
+   "cena": "Mostrar cálculo simples e legível; manter o resultado tempo suficiente para leitura.",
+   "fala": "Refazendo com [dados do exemplo], cheguei a [resultado conferido]. Isso vale para este cenário. Em outra condição, é preciso calcular de novo.",
+   "texto_tela": "[Resultado] neste cenário"
+  },
+  {
+   "tempo": "40-51s",
+   "cena": "Retorno ao apresentador, intercalado com uso cotidiano do objeto ligado ao tema.",
+   "fala": "O que eu achei foi [conclusão sustentada pela fonte]. Por isso, em [produto], eu olho primeiro para [critério de comparação].",
+   "texto_tela": "Confira [critério]"
+  },
+  {
+   "tempo": "51-60s",
+   "cena": "Plano médio; terminar com a fonte e a condição do exemplo numa cartela limpa.",
+   "fala": "Antes de decidir, confira [documento] e peça [informação]. Salve este passo a passo para comparar propostas com a mesma base.",
+   "texto_tela": "Salve para comparar"
+  }
+ ],
+ "por_que_funciona": [
+  "O close inicial de brinquedos concentra vários objetos reconhecíveis no quadro; o modelo aproveita esse enquadramento para destacar um objeto e um número.",
+  "Os detalhes da panela e o plano aberto de exercício trocam a escala da imagem; essa alternância serve para passar do documento à situação de uso.",
+  "As legendas brancas curtas acompanham ações concretas; no modelo, destacam fonte e condição enquanto a conta aparece."
+ ],
+ "quando_usar": "Para quem vende soluções que exigem comparação de valores ou condições. Use no primeiro contato, quando o público ainda precisa entender como avaliar uma proposta.",
+ "roteiro_modelo": "De onde saiu esse [número anunciado]? Fui conferir a conta.\n\n[pausa curta; corte]\n\nNa [fonte verificável], esse valor aparece como [definição]. Anotei a data e a condição usada. Só assim dá para comparar com outra proposta.\n\n[pausa curta; corte]\n\nSeparei [componente A] de [componente B]. Quando muda [condição], o total também muda. Aqui estão os valores usados nessa conta.\n\n[pausa curta; corte]\n\nRefazendo com [dados do exemplo], cheguei a [resultado conferido]. Isso vale para este cenário. Em outra condição, é preciso calcular de novo.\n\n[pausa curta; corte]\n\nO que eu achei foi [conclusão sustentada pela fonte]. Por isso, em [produto], eu olho primeiro para [critério de comparação].\n\n[pausa curta; corte]\n\nAntes de decidir, confira [documento] e peça [informação]. Salve este passo a passo para comparar propostas com a mesma base.",
+ "tomadas_celular": [
+  "Objeto ligado à decisão em close, luz lateral de janela, 5s; inserir o número na edição.",
+  "Apresentador à mesa em plano médio, janela a 45 graus, 12s.",
+  "Documento próprio sem dados pessoais em plano superior, luz difusa, 8s.",
+  "Mãos separando duas linhas da conta em detalhe, mesma luz, 12s.",
+  "Uso cotidiano relacionado à escolha em plano aberto, luz natural, 10s.",
+  "Apresentador fecha em plano médio, luz de janela, 10s; cartela final de 3s."
+ ],
+ "caminho_ia": "Sem gravar, use Sora ou Veo para os apoios e um avatar com voz licenciada para a apuração. Prompts: \"Vertical 9:16, macro shot of [everyday object related to product], soft window light, slow push in, five seconds, no logos, no text.\" e \"Vertical 9:16, overhead shot of hands comparing two blank proposal sheets for [product], locked camera, soft daylight, eight seconds, no readable data.\" Monte no CapCut; acrescente fontes e números reais como texto editável. O avatar narra a checagem feita pelo responsável, sem fingir consulta que não ocorreu.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nInvestigação de um número: objeto cotidiano e pergunta factual em 0-5s; fonte em 5-15s; componentes da conta em 15-27s; cálculo em 27-40s; conclusão com limites em 40-51s; critério de comparação em 51-60s. Tom curioso e sóbrio. Alterne plano médio e closes de documentos. Use legendas brancas curtas e mostre a fonte. Não copie o tema clínico, brinquedos com personagens, nomes, idade nem falas da referência. Não invente taxas, fontes, resultados ou consulta. Solicite os dados faltantes antes de escrever afirmações factuais. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos fornecidos. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e fechos de efeito. Não exponha nomes, pessoas, marcas ou contatos da referência.\n\nEntregue o roteiro falado completo no formato descrito, com tempos por bloco, a legenda do post e um prompt de cena em inglês técnico de vídeo por bloco da estrutura.",
+ "legenda": "Fui conferir de onde vem [número]. A conta usa [condição], conforme [fonte e data]. Veja o que muda com [variável] e salve para comparar [produto].",
+ "alerta_politica": "Meta: não atribua ao espectador endividamento ou condição financeira; não prometa aprovação, contemplação ou retorno garantido. Investimentos: observe as regras da CVM, apresente riscos e não trate rentabilidade passada como garantia. Crédito e consórcio: observe as regras do Banco Central, informe custos e condições; em operação de crédito, apresente o CET aplicável. Seguros: respeite as regras da SUSEP e explicite coberturas e exclusões. Não exponha dados pessoais nas propostas.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d41d7dce",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-investiguei-e-achei/frames/f1.jpg",
+    "videos/vid-investiguei-e-achei/frames/f2.jpg",
+    "videos/vid-investiguei-e-achei/frames/f3.jpg",
+    "videos/vid-investiguei-e-achei/frames/f4.jpg",
+    "videos/vid-investiguei-e-achei/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

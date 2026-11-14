@@ -1,0 +1,95 @@
+{
+ "id": "vid-colagem-revela-codigo",
+ "titulo": "Colagem editorial: exemplo visual, mecanismo por código e guia",
+ "formato_video": "colagem",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "30-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Esta cena mostra [situação concreta]. Vou abrir as partes para mostrar como foi feita.",
+  "texto_tela": "Como montar [resultado visual]",
+  "visual": "Recortes de papel sobre fundo escuro, tiras de título, fita verde e pequenos ícones de câmera."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Colagem pronta com título em tiras de papel, fita verde e aproximação lenta.",
+   "fala": "Esta cena mostra [situação concreta]. Vou abrir as partes para mostrar como foi feita.",
+   "texto_tela": "Como montar [resultado visual]"
+  },
+  {
+   "tempo": "5-10s",
+   "cena": "Recortes de teclado e relógio marcam as etapas, sem alegar tempo de execução não medido.",
+   "fala": "Comece definindo [objetivo da cena] e escolhendo [elemento principal].",
+   "texto_tela": "1 | Defina [objetivo]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Mostrar a descrição da cena num campo e um recorte central de [produto ou objeto].",
+   "fala": "Descreva assim: [produto ou objeto] em [situação de uso], com [ação visível].",
+   "texto_tela": "2 | Descreva a cena"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Abrir painel genérico de instruções ou código ao lado da colagem; separar papel, sombra e movimento em camadas.",
+   "fala": "Depois, monte [elemento principal] e [elemento de apoio] em camadas. Ajuste a sombra e o movimento para mostrar [detalhe relevante].",
+   "texto_tela": "3 | Monte as camadas"
+  },
+  {
+   "tempo": "25-30s",
+   "cena": "Elementos saem do painel e recompõem a cena final. Aproximação leve mantém a textura do papel visível.",
+   "fala": "Junte as partes e confira se [detalhe do produto] aparece com clareza.",
+   "texto_tela": "4 | Confira [detalhe]"
+  },
+  {
+   "tempo": "30-36s",
+   "cena": "Guia em papel entra na frente da colagem, com chamada acima e caixa de comentário embaixo.",
+   "fala": "Comente [palavra-chave] para receber [guia gratuito] e adaptar essa montagem ao seu produto.",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "por_que_funciona": [
+  "As tiras de papel rasgado e a fita verde apresentam a linguagem visual antes da explicação.",
+  "O teclado e o relógio recortados ilustram a passagem para o processo de montagem.",
+  "O painel de código aparece ao lado do objeto e liga as instruções às camadas mostradas.",
+  "O guia em papel no fechamento mantém a estética da demonstração e mostra o material oferecido."
+ ],
+ "quando_usar": "Para ferramentas, cursos e serviços de marketing que ensinam uma produção visual ou explicam um mecanismo. Use no meio do funil quando uma demonstração pronta desperta interesse pelo passo a passo.",
+ "roteiro_modelo": "Esta cena mostra [situação concreta]. Vou abrir as partes para mostrar como foi feita.\n\n[PAUSA / CORTE]\n\nComece definindo [objetivo da cena] e escolhendo [elemento principal].\n\n[PAUSA / CORTE]\n\nDescreva assim: [produto ou objeto] em [situação de uso], com [ação visível].\n\n[PAUSA / CORTE]\n\nDepois, monte [elemento principal] e [elemento de apoio] em camadas. Ajuste a sombra e o movimento para mostrar [detalhe relevante].\n\n[PAUSA / CORTE]\n\nJunte as partes e confira se [detalhe do produto] aparece com clareza.\n\n[PAUSA / CORTE]\n\nComente [palavra-chave] para receber [guia gratuito] e adaptar essa montagem ao seu produto.",
+ "tomadas_celular": [
+  "Monte uma colagem própria com papel e foto de [produto]; filme de cima, 5s, luz lateral suave.",
+  "Filme teclado e relógio em plano fechado, 4s, luz difusa e fundo escuro.",
+  "Grave a mão escrevendo a descrição da cena, plano superior, 6s, janela lateral.",
+  "Filme os recortes separados sobre a mesa, 6s, câmera fixa e luz lateral para mostrar sombras.",
+  "Grave a montagem das camadas com celular apoiado, 6s, luz constante; acelere trechos de manipulação.",
+  "Filme o guia de papel entrando no quadro, plano superior, 5s, mesma luz; insira o CTA no editor."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou Runway e monte no CapCut com imagens geradas em camadas. Use estes prompts de cena: \"Vertical 9:16 editorial paper collage of [product] in [usage situation], torn white paper edges, green tape, dark textured background, layered soft shadows, slow camera push in, no text, no logos.\" \"Vertical 9:16 exploded view of paper cutout [product] and [supporting object], layers separate then assemble, subtle parallax, overhead camera, tactile paper texture, dark background, no text.\" Acrescente títulos, numeração e legendas no editor, para manter o texto legível. Use voz sintética em pt-BR ou voz clonada com autorização, sem imitar a voz da referência. Sincronize cada troca visual à narração. Represente funções e resultados verificáveis do produto; identifique como ilustração qualquer interface ou demonstração simulada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo e exemplos próprios.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nColagem editorial de 36s: resultado 0-5s, planejamento até 10s, descrição até 17s, mecanismo em camadas até 25s, resultado recomposto até 30s e guia até 36s. Use papel recortado, fitas verdes, fundo escuro e aproximações lentas. Mostre instruções ou código apenas se fizerem parte do processo real; caso contrário, mostre etapas de montagem. Tom explicativo, legendas curtas nas tiras. Não copie o veículo editorial, o banco com tentáculos, o personagem, arquivos, marcas, falas ou comparação de dias com minutos. Use pt-BR falado e direto, frases curtas e [colchetes] para dados ausentes. Não invente benefícios, números ou condições. Evite superlativos, perguntas de enfeite e antíteses vazias. Mostre apenas informações da minha marca; não reproduza nomes, pessoas, logotipos, contatos ou domínios da referência. Ofereça material gratuito apenas se informado; se faltar, sinalize [material gratuito a definir].\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [aplicações ou etapas demonstradas] de [produto] em [situação de uso]. Comente [palavra-chave] para receber [material gratuito] com [conteúdo do material]. [Condição real de acesso, se houver].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e5c67725",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-colagem-revela-codigo/frames/f1.jpg",
+    "videos/vid-colagem-revela-codigo/frames/f2.jpg",
+    "videos/vid-colagem-revela-codigo/frames/f3.jpg",
+    "videos/vid-colagem-revela-codigo/frames/f4.jpg",
+    "videos/vid-colagem-revela-codigo/frames/f5.jpg"
+   ]
+  }
+ ]
+}

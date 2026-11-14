@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1628692918962953",
+  "tipo": "estatico",
+  "titulo": "Chamada de cinco dicas sobre amamentação",
+  "formato": "Alerta e educação",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de mulher de regata rosa com a mão sobre o peito, acompanhada de uma chamada sobre prevenção da mastite. Uma forma rosada arredondada recebe o título, e uma faixa branca ondulada fecha a base.",
+  "por_que_funciona": [
+    "O número 5 delimita o conteúdo prometido pela chamada.",
+    "O título azul-escuro tem contraste com a forma rosa.",
+    "A foto com a mão sobre o peito contextualiza o tema da amamentação.",
+    "A área branca inferior separa as assinaturas do conteúdo educativo."
+  ],
+  "quando_usar": "Para marcas do universo materno divulgarem conteúdo educativo revisado por profissional de saúde.",
+  "estrutura_texto": "[Número] dicas para ajudar a prevenir [condição] durante [fase]",
+  "legenda": "[Fase] pode trazer dúvidas e desafios. Confira [número] orientações sobre [tema]. Ao perceber sinais de alerta, procure um profissional de saúde.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha foto de mulher adulta à direita e forma orgânica rosa translúcida ocupando centro e esquerda. Insira título azul-escuro grande em quatro linhas com [número] dicas sobre [tema validado]. Use rodapé branco ondulado com assinatura da minha marca. A arte é uma chamada para conteúdo educativo; não invente recomendações clínicas.",
+  "alerta_politica": "Conteúdo sobre mastite deve ter revisão profissional, sem prometer prevenção garantida ou cura. Evite atribuir uma condição de saúde à leitora; oriente a busca de atendimento diante de sinais de alerta. Alegações de produtos de saúde devem respeitar a regulamentação da ANVISA.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1628692918962953",
+    "anunciante": "Nestlé FamilyNes Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 2,
+    "texto_original": "Amamentar é uma jornada única, que também pode trazer desafios 🤱 Confira dicas para ajudar na prevenção da mastite e lembre-se: ao notar qualquer sinal de alerta, procure orientação de um profissional de saúde.\n\n#NestleFamilyNes #Materna #AgostoDourado #Amamentação #AleitamentoMaterno #SaúdeMaterna #PósParto #Mastite",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1628692918962953.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1023965379613745",
+  "tipo": "estatico",
+  "titulo": "Atendimento criminal com lista de demandas",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Mãos entre grades formam o fundo escuro. Faixas brancas destacam a pergunta inicial e a especialidade, com três demandas jurídicas em lista.",
+  "por_que_funciona": [
+    "A palavra em vermelho na chamada cria um foco visual imediato.",
+    "Os três tópicos deixam explícitas as áreas de atendimento.",
+    "As faixas brancas mantêm a leitura sobre o fundo escuro.",
+    "A chamada inferior indica a ação esperada após a leitura."
+  ],
+  "quando_usar": "Para apresentar áreas de atuação criminal a quem busca orientação jurídica, com linguagem informativa.",
+  "estrutura_texto": "[Chamada sobre atendimento criminal]\n• [Demanda jurídica 1]\n• [Demanda jurídica 2]\n• [Demanda jurídica 3]\n[Especialidade]\n[Canal de orientação]",
+  "legenda": "Atendimento em direito criminal para [demandas atendidas]. Saiba como funciona a orientação e quais informações são necessárias para avaliar [situação]. Entre em contato por [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo escuro com imagem simbólica de grades e mãos, sem identificar pessoas. Crie faixa branca arredondada no topo, lista branca espaçada no centro superior e faixa branca inferior com a especialidade. Use vermelho apenas como acento. Prefira chamada informativa sobre atendimento criminal, sem presumir que o leitor tenha familiar preso e sem prometer resultado.",
+  "alerta_politica": "Evite presumir condição criminal do usuário ou de familiares. Na publicidade jurídica, observe as regras da OAB: sem promessa de resultado, sensacionalismo ou captação indevida; substitua alegações de resolução rápida por informação sobre atendimento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1023965379613745",
+    "anunciante": "Anderson Ramon Advocacia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-17",
+    "dias_no_ar": 607,
+    "variacoes_ativas": 3,
+    "texto_original": "🚨 FAMILIAR PRESO? PRECISA DE AJUDA IMEDIATA? 🚨\n\nAdvogado Especialista no Direito Criminal \n\nAtendimento rápido e especializado! 📞💬 Entre em contato agora e receba orientação sobre os próximos passos para garantir a melhor defesa!\n\n🔹 Defesa estratégica\n🔹 Suporte jurídico 24h\n🔹 Resolução rápida para seu caso\n\nClique no botão abaixo e fale conosco pelo WhatsApp! 📲⚖\nConverse conosco\nFale Comigo Agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1023965379613745.jpg"
+}

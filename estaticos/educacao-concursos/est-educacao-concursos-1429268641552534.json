@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1429268641552534",
+  "tipo": "estatico",
+  "titulo": "Mapa manuscrito com resumo de gramática",
+  "formato": "Feito à mão",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma folha branca apresenta um mapa de classes de palavras escrito à mão. Chaves, caixas coloridas e exemplos curtos organizam o conteúdo.",
+  "por_que_funciona": [
+    "A página completa mostra uma amostra concreta do material de estudo.",
+    "Caixas verdes e vermelhas diferenciam classes variáveis e invariáveis.",
+    "Chaves pretas conectam o tema central às categorias.",
+    "Exemplos junto de cada definição mostram como aplicar o conceito."
+  ],
+  "quando_usar": "Para vender materiais de revisão, mostrando uma página real antes da apresentação da oferta.",
+  "estrutura_texto": "[Tema central]\n[Grupo 1]\n[Categoria] → [Definição]\n[Exemplo]\n[Grupo 2]\n[Categoria] → [Definição]\n[Exemplo]",
+  "legenda": "Revise [tema] com esquemas e mapas mentais. O material [nome do material] reúne [conteúdo] em PDF para estudar na tela ou imprimir. Confira [detalhes e bônus] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma página de estudo com aparência de manuscrito sobre papel branco. Use um tema central à esquerda, chaves pretas e categorias em caixas verdes e vermelhas à direita. Escreva definições curtas em azul e exemplos em preto, com pequenas anotações vermelhas. Adapte o conteúdo ao produto informado, mantendo legibilidade e margens amplas; não invente assinatura.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1429268641552534",
+    "anunciante": "Professor Jotta Rocha",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-07",
+    "dias_no_ar": 495,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não precisa estudar centenas de páginas para aprender Português! 🎯\n\nO Manuscrito Gramatical é um material composto por esquemas e por mapas mentais e tem o propósito de facilitar o aprendizado da gramática. ✨\n\nVocê o receberá em PDF para estudar de forma on-line ou para imprimir, caso deseje. \n\nTodo o material foi escrito à mão por quem já possui mais de 10 aprovações em concursos e vestibulares. 🥇\n\nBÔNUS EXCLUSIVOS: 🎁\n\n➖ Curso de Vírgula - em vídeo;\n➖ Curso de Crase - em vídeo; \n➖ Acesso vitalício ao material. \n\nTEMAS ABORDADOS: \n\nFONÉTICA ✅\nORTOGRAFIA ✅\nMORFOLOGIA ✅\nSEMÂNTICA ✅\nSINTAXE ✅\nESTILÍSTICA ✅\n\nSe tiver interesse em dominar a Língua Portuguesa, clique em “saiba mais”!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1429268641552534.jpg"
+}

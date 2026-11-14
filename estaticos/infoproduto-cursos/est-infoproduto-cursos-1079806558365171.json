@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1079806558365171",
+  "tipo": "estatico",
+  "titulo": "Pergunta de carreira sobre silhuetas de líderes",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Silhuetas pretas de profissionais e figuras azuis com binóculos ocupam um fundo azul e ocre. Uma pergunta sobre liderança aparece no centro, seguida da apresentação do programa.",
+  "por_que_funciona": [
+    "Os binóculos associam a formação à visão de futuro.",
+    "As palavras em ocre destacam líder, próximo passo e liderança dentro do título branco.",
+    "A pergunta central permite reconhecer uma ambição profissional antes de apresentar o programa.",
+    "O nome do programa em letras grandes no rodapé identifica a oferta educacional."
+  ],
+  "quando_usar": "Para apresentar uma formação de maior duração a profissionais que consideram avançar para funções de conselho.",
+  "estrutura_texto": "[PERGUNTA SOBRE PRÓXIMO PASSO NA CARREIRA]?\n[INSTITUIÇÃO] acompanha você com [MÉTODO E SUPORTE].\nConheça o:\n[NOME DO PROGRAMA]",
+  "legenda": "Conheça [programa de formação]: uma jornada de [duração] para [público] que deseja se preparar para [função]. O percurso inclui [curso], [acompanhamento] e [certificação, se aplicável]. [CTA para conhecer o programa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use azul intenso e ocre em grandes formas orgânicas, silhuetas de profissionais em primeiro plano e figuras com binóculos ao fundo. Centralize a pergunta em branco e destaque termos-chave em ocre. Acrescente apoio curto, linhas finas de enquadramento e nome do programa em tipografia leve no rodapé. Utilize a imagem do produto como apoio quando compatível com a oferta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1079806558365171",
+    "anunciante": "IBGC - Instituto Brasileiro de Governança Corporativa",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-29",
+    "dias_no_ar": 46,
+    "variacoes_ativas": 2,
+    "texto_original": "Conheça o novo Programa de Formação para Conselheiros do IBGC:�uma jornada de 18 meses, estruturada para líderes que desejam elevar seu nível de atuação em governança e se preparar para conselhos. A iniciativa combina\n\n- Associação ao IBGC\n- Curso para Conselheiros de Administração\n- Mentoria individual\n- Tutoria personalizada\n- Educação continuada\n- Certificação IBGC\n\nPara quem pensa governança como legado.",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1079806558365171.jpg"
+}

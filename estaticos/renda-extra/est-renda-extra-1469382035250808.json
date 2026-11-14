@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1469382035250808",
+  "tipo": "estatico",
+  "titulo": "Carta com checklist de oportunidades no aplicativo",
+  "formato": "Print de tela",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Captura de um editor de texto com uma carta sobre trabalho por aplicativo. Trechos em negrito e marcadores verdes destacam possibilidades de uso e cadastro.",
+  "por_que_funciona": [
+    "A saudação e o corpo em parágrafos dão à peça aparência de carta.",
+    "Os quatro marcadores verdes permitem localizar rapidamente as possibilidades de trabalho.",
+    "O negrito destaca experiência, repasse e acesso a veículo.",
+    "A seta azul separa a chamada de cadastro do texto explicativo."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de trabalho a quem precisa entender requisitos e possibilidades antes do cadastro.",
+  "estrutura_texto": "[Saudação]\nQuer [objetivo]? [Contexto de uso].\nCom [aplicativo], você pode:\n✅ [Facilidade de entrada]\n✅ [Condição de repasse]\n✅ [Alternativa de acesso]\n✅ [Outra modalidade]\n[Recursos de apoio]\n➡️ [CTA de cadastro]\n[Condições]",
+  "legenda": "Tenha acesso a [modalidades de trabalho] em [região disponível]. Consulte os requisitos e as condições de [plataforma] e faça seu cadastro em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a aparência de captura de um editor, com barra superior cinza discreta, página branca, texto preto alinhado à esquerda, saudação, parágrafos curtos, quatro itens com checks verdes e trechos em negrito. Termine com seta azul de cadastro e nota de condições legível.",
+  "alerta_politica": "Evite prometer renda garantida, lucro certo ou ganhos sem esforço. Informe condições, custos e critérios de participação; valores de ganhos precisam de comprovação e contexto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1469382035250808",
+    "anunciante": "Uber",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 3,
+    "texto_original": "Tenha mais oportunidades de ganhos com Uber Moto e Flash Moto *onde disponível. Cadastre-se agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1469382035250808.jpg"
+}

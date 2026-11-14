@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2630963420640184",
+  "tipo": "estatico",
+  "titulo": "Formação clínica com chamada para consultor",
+  "formato": "novo:Chamada de formação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul quase preto com título sobre prática clínica, identificação da pós e duas fotos médicas recortadas à direita. Um botão branco convida ao contato com consultor.",
+  "por_que_funciona": [
+    "O selo de pós-graduação identifica o tipo de formação antes da chamada principal.",
+    "As imagens de exame e modelo anatômico situam a especialidade visualmente.",
+    "O botão branco se destaca do fundo escuro e explicita o próximo passo."
+  ],
+  "quando_usar": "Para divulgar formação especializada a profissionais que já avaliam aprofundar sua prática.",
+  "estrutura_texto": "[Marca]\nPós-graduação em [especialidade]\n[Chamada sobre domínio prático]\nExclusivo para [público]\nAprenda com [abordagem], [professores] e [conteúdo aplicado].\nFale com [consultor]",
+  "legenda": "[Situação recorrente da prática profissional] exige preparo. A [formação] reúne [formato de aulas], [casos aplicados] e [acompanhamento]. Clique para conhecer o programa e conversar com [equipe].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, selo arredondado à esquerda, título grande em branco e azul e parágrafo curto abaixo. Posicione duas imagens relacionadas à formação em recortes arredondados à direita e um botão branco no rodapé esquerdo. Não sugira resultados clínicos garantidos.",
+  "alerta_politica": "Divulgue a formação sem prometer cura, resultados clínicos ou habilitação profissional que o curso não confere. Use imagens sem dados identificáveis de pacientes.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2630963420640184",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-17",
+    "dias_no_ar": 150,
+    "variacoes_ativas": 2,
+    "texto_original": "Casos neurológicos não chegam sinalizados. Chegam como uma queixa vaga, um exame alterado, um paciente que \"não está bem.\" 🧠\n\nA Pós em Neurologia da Sanar te prepara para isso: com aulas ao vivo, discussão de casos reais, imersões presenciais no Cetrus em São Paulo e mentoria individual durante todo o curso. \n\n➡️ Clique e conheça.\nSegurança clínica para casos cognitivos\nDiscussão de casos reais, aulas ao vivo, imersões presenciais e mentoria individual. Formação completa para reconhecer, investigar e conduzir casos neurológicos com segurança.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2630963420640184.jpg",
+  "formato_novo_def": "Peça editorial de divulgação de curso ou mentoria, com nome da formação, chamada principal, benefícios e convite de contato em composição gráfica própria."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1292724919142484",
+  "tipo": "estatico",
+  "titulo": "Reposição de estoque com embalagem em tamanho gigante",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma embalagem de whey ocupa quase toda a peça sobre fundo claro com letras gigantes. Uma faixa vermelha inclinada anuncia disponibilidade no topo.",
+  "por_que_funciona": [
+    "A embalagem ampliada permite reconhecer o produto rapidamente.",
+    "A faixa vermelha contrasta com o fundo claro e destaca a reposição.",
+    "A chamada de estoque responde diretamente à disponibilidade de compra.",
+    "O sabor ilustrado no rótulo ajuda a diferenciar a opção anunciada."
+  ],
+  "quando_usar": "Para avisar a reposição de um produto já conhecido por quem acompanha a loja.",
+  "estrutura_texto": "[Sabor ao fundo]\nEm estoque! Garanta já a sua...\n[Produto e informações do rótulo]",
+  "legenda": "[Produto] em estoque! Garanta o seu em [canal de compra].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Centralize a embalagem recortada em grande escala sobre fundo bege claro. Use palavras grandes parcialmente encobertas ao fundo e faixa vermelha diagonal no terço superior com chamada branca de reposição. Preserve as informações reais do rótulo; não invente composição ou quantidade de proteína.",
+  "alerta_politica": "Para suplementos, use apenas alegações permitidas e comprováveis, coerentes com o rótulo. Não prometa cura, prevenção de doenças ou resultados físicos garantidos; evite atribuir condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1292724919142484",
+    "anunciante": "lojarockshape",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-30",
+    "dias_no_ar": 472,
+    "variacoes_ativas": 1,
+    "texto_original": "- - Em estoque! Garanta já a sua…",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1292724919142484.jpg"
+}

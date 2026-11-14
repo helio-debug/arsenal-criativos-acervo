@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1486124346756224",
+  "tipo": "estatico",
+  "titulo": "Captação de brasileiros no exterior com destaque à moeda",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Peça com título amarelo e branco, profissional de terno diante de notebook e símbolos dos Estados Unidos ao fundo. Um globo conecta os dois países, e o botão amarelo encerra a proposta de captação internacional.",
+  "por_que_funciona": [
+    "“TERAPEUTA” no topo define quem deve prestar atenção à proposta.",
+    "“DÓLAR” em corpo grande e amarelo estabelece o principal gancho comercial.",
+    "Bandeira, monumento e mapa tornam o destino do atendimento reconhecível.",
+    "A faixa sobre atendimento na própria língua explica a conexão entre o profissional e o público no exterior."
+  ],
+  "quando_usar": "Para apresentar uma oferta de orientação de marketing a profissionais interessados em alcançar brasileiros que vivem fora do país.",
+  "estrutura_texto": "[Profissional],\n[Público que vive no país-alvo]\n[Contexto de moeda]\n[Demanda apresentada por serviço no próprio idioma]\n[Explicação do contexto do público]\n[CTA]",
+  "legenda": "[Profissional], brasileiros que vivem em [país] podem buscar atendimento em português. Conheça a [orientação de captação] para entender esse público, avaliar canais de divulgação e organizar sua atuação. Veja os detalhes em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha fundo azul-escuro com referências visuais genéricas ao país-alvo, sem copiar o local exato da referência. Use a foto da IMAGEM 2 em primeiro plano à direita, título grande no alto à esquerda e palavra associada à oportunidade em amarelo. Acrescente mapa com rota entre os países na parte inferior esquerda, faixa curta explicativa e botão amarelo arredondado na base. Evite texto miúdo, afirmações de demanda sem comprovação e promessa de faturamento.",
+  "alerta_politica": "Meta: evitar promessa de ganhos, demanda garantida ou enriquecimento com atendimento internacional; afirmações de mercado exigem fundamento. Respeitar regras do conselho profissional aplicável à publicidade de serviços terapêuticos e requisitos para atendimento no país de destino, sem promessa de resultado clínico.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1486124346756224",
+    "anunciante": "Estratégia -X",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-24",
+    "dias_no_ar": 21,
+    "variacoes_ativas": 1,
+    "texto_original": "🇺🇸 TERAPEUTA, EXISTE UM MERCADO NOS ESTADOS UNIDOS QUE PODE AMPLIAR SUA CAPTAÇÃO! 💵\n\nMilhares de brasileiros vivem nos Estados Unidos, constroem suas vidas por lá e podem buscar profissionais que compreendam sua língua, sua cultura e os desafios de viver longe do Brasil.\n\nE você pode explorar essa oportunidade sem precisar sair do país ou abandonar os clientes que já atende.\n\nImagine ampliar sua atuação, alcançar brasileiros que vivem nos EUA e construir uma nova fonte de faturamento com atendimentos on-line.\n\nMas, para isso, você precisa saber como chegar até esse público e apresentar seu trabalho às pessoas certas.\n\n🎯 Se você é psicólogo, psicanalista ou terapeuta holístico, preparei um vídeo rápido para mostrar como começar a direcionar sua captação para brasileiros que vivem nos Estados Unidos.\n\n👉 Clique em “Saiba mais” e descubra como funciona!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1486124346756224.jpg"
+}

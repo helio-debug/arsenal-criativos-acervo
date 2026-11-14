@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1073169265094627",
+  "tipo": "estatico",
+  "titulo": "Dispositivo no ombro com indicações laterais",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "garantia",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Homem de costas usa um dispositivo cinza preso ao ombro. Uma lista de condições aparece à esquerda, com linha apontando para o equipamento.",
+  "por_que_funciona": [
+    "O equipamento vestido mostra onde ele se encaixa no corpo.",
+    "O fundo claro separa a silhueta e o dispositivo.",
+    "A lista lateral concentra os possíveis usos em uma leitura curta."
+  ],
+  "quando_usar": "Para apresentar o encaixe de um dispositivo e seus usos autorizados a quem já pesquisa a categoria.",
+  "estrutura_texto": "[Uso autorizado 1] •\n[Uso autorizado 2] •\n[Uso autorizado 3] •\n[Uso autorizado 4] •\n[Uso autorizado 5] •",
+  "legenda": "Conheça [dispositivo] e seus recursos de [função autorizada]. Veja as orientações de uso e as condições de [garantia] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre uma pessoa de costas usando o produto da IMAGEM 2 no ombro, em fundo branco acinzentado. Posicione à esquerda uma lista curta em azul discreto, com pontos e uma linha fina apontando ao dispositivo. Preserve o encaixe real do produto. Liste somente usos autorizados, sem promessas de cura.",
+  "alerta_politica": "Meta: não atribuir condições de saúde ao público nem prometer cura ou resultados garantidos. ANVISA: divulgar apenas indicações e alegações autorizadas para a categoria e o registro do produto; não apresentar suplemento como tratamento de doenças.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1073169265094627",
+    "anunciante": "FisioTherapy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-07",
+    "dias_no_ar": 99,
+    "variacoes_ativas": 2,
+    "texto_original": "✨ É o fim das dores articulares ✨\n\n✅ Melhora a saúde articular \n✅ 100% Natural e sem dor\n✅ Alívio das dores ou seu dinheiro de volta\n\nClique aqui: https://www.fisiotherapy.com.br/products/massageador-eletrico-e-calor-3-em-1-ombro-joelho-e-cotovelo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1073169265094627.jpg"
+}

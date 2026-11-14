@@ -1,0 +1,100 @@
+{
+ "id": "vid-noticia-caso-aplicacao",
+ "tipo": "video",
+ "titulo": "Especialista sobre notícia: caso de impacto, experiência própria e critérios de aplicação",
+ "formato_video": "green-screen",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "investimentos"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "70-83s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Uma notícia sobre [tema] trouxe este dado: [fato verificado]. O recorte fala de [contexto específico].",
+  "texto_tela": "[Dado verificado] | [data]",
+  "visual": "Apresentador recortado no canto inferior direito diante de recorte editorial; destaque amarelo em um dado."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentador recortado no canto inferior direito diante de recorte editorial; destaque amarelo em um dado.",
+   "fala": "Uma notícia sobre [tema] trouxe este dado: [fato verificado]. O recorte fala de [contexto específico].",
+   "texto_tela": "[Dado verificado] | [data]"
+  },
+  {
+   "tempo": "8-20s",
+   "cena": "Corte para plano fechado do apresentador com prateleiras e luz azul ao fundo.",
+   "fala": "Isso chamou minha atenção porque trabalhamos com [tarefa relacionada]. No nosso caso, observamos [evidência própria], durante [período], com [condição].",
+   "texto_tela": "No nosso caso: [evidência]"
+  },
+  {
+   "tempo": "20-31s",
+   "cena": "Cartão preto ocupa a tela; ícone pequeno e palavra branca grande no alto.",
+   "fala": "Pra avaliar [produto], eu começo por [critério principal]. Olho [medida] antes e depois do teste, mantendo [condição de comparação].",
+   "texto_tela": "Critério: [medida]"
+  },
+  {
+   "tempo": "31-43s",
+   "cena": "Cena digital de notebook com brilho azul, seguida de retorno à fala direta.",
+   "fala": "Na prática, [produto] entra em [etapa do trabalho]. Ele permite [ação específica]. A parte de [responsabilidade humana] continua com [responsável].",
+   "texto_tela": "[Ação específica do produto]"
+  },
+  {
+   "tempo": "43-56s",
+   "cena": "Cartela clara com número de recursos e caixas organizadas; texto azul e ícones simples.",
+   "fala": "Aqui estão [recursos disponíveis]. Pra começar, escolha [recurso inicial] porque ele atende [tarefa]. Os demais podem ser avaliados conforme [necessidade].",
+   "texto_tela": "[Quantidade real] recursos | [recurso inicial]"
+  },
+  {
+   "tempo": "56-70s",
+   "cena": "Volta ao apresentador em plano fechado, alternando legenda branca e palavra azul.",
+   "fala": "O caso da notícia tem condições próprias. Antes de aplicar, confira [requisito] e [limite]. Um teste em [escopo pequeno] ajuda a medir [indicador], sem tratar o caso citado como previsão.",
+   "texto_tela": "Teste em [escopo] | Meça [indicador]"
+  },
+  {
+   "tempo": "70-83s",
+   "cena": "Apresentador conclui olhando para a lente; cartela simples com próximo passo.",
+   "fala": "Se [tarefa] faz parte da sua rotina, veja como [produto] funciona em [canal]. Confira os recursos disponíveis e os requisitos. Depois, escolha o primeiro teste com base no que você precisa acompanhar.",
+   "texto_tela": "Veja como funciona [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A manchete ocupa quase toda a abertura e usa amarelo em trechos específicos, indicando o dado comentado pelo apresentador recortado.",
+  "O corte para o rosto em plano fechado e o texto numérico grande transferem a fala do caso publicado para a experiência relatada.",
+  "O cartão preto com palavra branca grande interrompe o plano do rosto e dá destaque a um critério de avaliação.",
+  "A sequência troca o notebook digital azul por uma cartela clara de recursos em caixas, tornando visível a passagem de conceito para oferta."
+ ],
+ "quando_usar": "Para ferramentas e software ligados a uma notícia verificável do setor. Use no topo do funil para explicar a aplicação e os limites de um caso, antes de apresentar recursos.",
+ "roteiro_modelo": "[0-8s] Uma notícia sobre [tema] trouxe este dado: [fato verificado]. O recorte fala de [contexto específico].\n\n[CORTE / PAUSA]\n\n[8-20s] Isso chamou minha atenção porque trabalhamos com [tarefa relacionada]. No nosso caso, observamos [evidência própria], durante [período], com [condição].\n\n[CORTE / PAUSA]\n\n[20-31s] Pra avaliar [produto], eu começo por [critério principal]. Olho [medida] antes e depois do teste, mantendo [condição de comparação].\n\n[CORTE / PAUSA]\n\n[31-43s] Na prática, [produto] entra em [etapa do trabalho]. Ele permite [ação específica]. A parte de [responsabilidade humana] continua com [responsável].\n\n[CORTE / PAUSA]\n\n[43-56s] Aqui estão [recursos disponíveis]. Pra começar, escolha [recurso inicial] porque ele atende [tarefa]. Os demais podem ser avaliados conforme [necessidade].\n\n[CORTE / PAUSA]\n\n[56-70s] O caso da notícia tem condições próprias. Antes de aplicar, confira [requisito] e [limite]. Um teste em [escopo pequeno] ajuda a medir [indicador], sem tratar o caso citado como previsão.\n\n[CORTE / PAUSA]\n\n[70-83s] Se [tarefa] faz parte da sua rotina, veja como [produto] funciona em [canal]. Confira os recursos disponíveis e os requisitos. Depois, escolha o primeiro teste com base no que você precisa acompanhar.",
+ "tomadas_celular": [
+  "Apresentador do peito para cima contra parede lisa, luz de janela frontal e celular fixo; grave 10s para recortar sobre a notícia.",
+  "Apresentador em plano fechado diante de prateleiras, luz suave no rosto e luminária azul ao fundo; grave 25s para contexto e experiência.",
+  "Mão usando produto no notebook, close lateral e luz difusa sem reflexo; grave 12s para substituir a animação digital.",
+  "Detalhe de um recurso do produto na tela, celular firme e brilho ajustado; grave 12s.",
+  "Apresentador em plano fechado, mesma iluminação e posição; grave 30s para critérios, limites e convite."
+ ],
+ "caminho_ia": "Use Sora para a cena de apoio, avatar com voz sintética licenciada para a fala e CapCut para o recorte editorial e os cartões. Prompts: \"Vertical 9:16 close-up of a generic laptop on a dark desk representing [produto], restrained blue practical lighting, slow dolly-in, realistic materials, blank screen for compositing, no logos, no text.\" e \"Vertical 9:16 fictional expert presenter, chest-up framing, dark neutral shirt, shelving with soft blue accent lights, soft key light on face, direct eye contact, natural explanatory gestures about [tarefa], locked camera.\" Crie a cartela editorial com fatos verificados e fonte autorizada, sem inventar reportagem ou endosso. Insira títulos e números no editor, identificando qualquer simulação.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie sete blocos em 83s: fato de notícia contextualizado, experiência própria verificável, cartão de critério, aplicação em uma tarefa, cartela de recursos, limites e convite. Abra com apresentador recortado no canto inferior direito e palavras-chave em amarelo. Alterne rosto em cenário com luz azul, cartão preto com texto branco e cartela clara com caixas de recursos. Tom explicativo, frases curtas, legendas grandes e termos azuis pontuais. Use apenas notícia fornecida e verificada; se faltar, deixe [notícia a verificar]. Não copie portal, empresa, pessoas, manchete literal, contagens ou alegações de produtividade da referência. Não atribua ao produto o resultado de terceiros. Em investimentos, não sugira retorno garantido. Use pt-BR falado, frases curtas e [colchetes] para informações ausentes. Não use superlativos sem prova, perguntas de enfeite, antíteses vazias ou fechos de efeito. Não copie marcas, pessoas, contatos ou falas literais da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Fato verificado] apareceu em uma notícia sobre [tema]. Veja o contexto e como avaliar [tarefa] com [produto]. Antes do teste, confira [requisito]. Fonte do caso: [fonte autorizada e data].",
+ "alerta_politica": "Para investimentos: Meta, sem promessa de retorno garantido nem apresentação enganosa de resultados. CVM: contextualize dados de desempenho, identifique período e riscos e informe que rentabilidade passada não garante resultados futuros; observe a regra específica do instrumento anunciado. Banco Central: se envolver instituição ou operação sob sua supervisão, verifique a autorização e o escopo permitido, sem sugerir aval do regulador. Referências: https://conteudo.cvm.gov.br/cvm_institucional/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid.pdf e https://www.bcb.gov.br/meubc/encontreinstituicao .",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-0424cfb7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-noticia-caso-aplicacao/frames/f1.jpg",
+    "videos/vid-noticia-caso-aplicacao/frames/f2.jpg",
+    "videos/vid-noticia-caso-aplicacao/frames/f3.jpg",
+    "videos/vid-noticia-caso-aplicacao/frames/f4.jpg",
+    "videos/vid-noticia-caso-aplicacao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

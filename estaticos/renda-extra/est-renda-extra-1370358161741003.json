@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1370358161741003",
+  "tipo": "estatico",
+  "titulo": "Convite à atuação porta a porta com propósito religioso",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical branca com bordas decorativas vermelhas e azuis. Blocos centralizados convidam à evangelização porta a porta com renda extra e destacam site e telefone.",
+  "por_que_funciona": [
+    "A faixa vermelha centraliza o convite para a atuação porta a porta.",
+    "O texto azul sobre branco permite ler a mensagem sem interferência de fotografia.",
+    "Os destaques azuis no site e telefone tornam os canais de contato fáceis de localizar.",
+    "Os símbolos nas bordas reforçam visualmente o contexto religioso."
+  ],
+  "quando_usar": "Para divulgar uma oportunidade de distribuição porta a porta de materiais religiosos, explicando atividade e remuneração.",
+  "estrutura_texto": "[Identidade da organização]\nTorne-se [função]\n[Modalidade de atuação]\n[Convite ligado ao propósito]\n[Possibilidade de renda] enquanto [atividade].\nPara mais informações acesse:\n[Site]\nou nos mande uma mensagem\n[Telefone]",
+  "legenda": "Participe de [atividade porta a porta] e compartilhe [materiais ou mensagem]. Conheça a oportunidade de renda extra, as condições de participação e a forma de remuneração. Cadastre-se em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical com fundo branco, bordas superior e inferior em módulos geométricos vermelhos e azuis e símbolos pertinentes à organização. Centralize a identidade própria no alto; abaixo, coloque faixa vermelha com convite branco, chamada azul em caixa alta, explicação da atividade e bloco de contato. Destaque site e telefone em retângulos azuis. Se usar a foto da IMAGEM 2, coloque-a em pequeno módulo de apoio sem prejudicar a leitura. Não atribua crença religiosa ao leitor nem prometa renda garantida.",
+  "alerta_politica": "Meta: não prometer renda garantida nem apresentar ganhos excepcionais como resultado típico. Informar condições, elegibilidade, custos e que os ganhos dependem da atividade e dos resultados individuais. Meta: não afirmar ou insinuar a religião do destinatário como atributo pessoal; descrever a atividade religiosa sem presumir sua crença.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1370358161741003",
+    "anunciante": "Porta a Porta CN",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-07",
+    "dias_no_ar": 99,
+    "variacoes_ativas": 1,
+    "texto_original": "Espalhe a Palavra de Deus\nTorne-se um evangelizador\nCadastre-se no site",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1370358161741003.jpg"
+}

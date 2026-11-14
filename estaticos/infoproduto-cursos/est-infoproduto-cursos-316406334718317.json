@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-316406334718317",
+  "tipo": "estatico",
+  "titulo": "Cursos gratuitos com chamada por cidade",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Cabeçalho verde anuncia cursos gratuitos e profissionalizantes, com o nome da cidade em uma placa branca. A foto mostra um teatro histórico visto da escadaria; um certificado inclinado acompanha a chamada de inscrição no rodapé.",
+  "por_que_funciona": [
+    "A cidade em letras grandes permite reconhecer rapidamente a região atendida.",
+    "O título branco sobre verde destaca a gratuidade no topo.",
+    "A fotografia de um ponto urbano aproxima a oferta do público local.",
+    "O certificado inclinado torna visível a entrega associada ao curso."
+  ],
+  "quando_usar": "Para captar inscrições em cursos com atendimento regional e condições de gratuidade claramente definidas.",
+  "estrutura_texto": "[CURSOS GRATUITOS]\n[MODALIDADE DOS CURSOS]\n[CIDADE]\n[INSCRIÇÕES ABERTAS — CHAMADA PARA AÇÃO]",
+  "legenda": "Cursos gratuitos e bolsas parciais em [cidade/UF]. Confira [cursos disponíveis], os critérios de cada modalidade e as condições de certificação em [link]. Inscreva-se conforme a disponibilidade de vagas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde com ondas azuis no topo, título em faixa verde escura e subtítulo em faixa branca. Destaque [cidade] em placa branca central; insira uma foto autorizada de um ponto da região ocupando a metade inferior. Acrescente um certificado ilustrativo sem selos oficiais e uma faixa branca curva com CTA vermelho. Diferencie cursos gratuitos de bolsas parciais e informe eventuais custos de certificado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "316406334718317",
+    "anunciante": "Mais Profissão - Projeto Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-01-18",
+    "dias_no_ar": 1031,
+    "variacoes_ativas": 2,
+    "texto_original": ">> CURSOS GRATUITOS E BOLSAS PARCIAIS EM MANAUS - AM ,<<\n\nhttps://maisprofissao.com.br/gratis/ <<\nSelecione agora seu CURSO GRÁTIS e\n✅VAGAS PARA BOLSAS PARCIAIS:\nInformática Avançada\nMarketing Digital\nDesenvolvedor de Games\nDesigner Gráfico\nProgramação de computadores\nMontagem e manutenção de computador\nAdministração\nSecretariado\nGestão de Pessoas\nAtendente de farmácia\nRecepcionista de serviços de saúde\nPower BI\n\n- VAGAS LIMITADAS -\nCURSOS GRATUITOS E BOLSAS PARCIAIS EM MANAUS",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-316406334718317.jpg"
+}

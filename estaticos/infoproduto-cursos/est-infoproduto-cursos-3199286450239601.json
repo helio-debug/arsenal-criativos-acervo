@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-3199286450239601",
+  "tipo": "estatico",
+  "titulo": "Curso profissional com painel de professores e benefícios",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Anúncio vertical de curso de prática jurídica, com título central, benefícios e cinco retratos de professores na mesma faixa. Fundo arquitetônico azul escuro, acentos verdes e endereço de compra no rodapé.",
+  "por_que_funciona": [
+    "O título central identifica de imediato a especialidade do curso.",
+    "Os cinco retratos acompanhados de funções tornam o corpo docente visível.",
+    "Três ícones resumem modalidade, professores e conteúdo antes do endereço de compra."
+  ],
+  "quando_usar": "Para divulgar um curso profissional com professores confirmados e matrícula disponível.",
+  "estrutura_texto": "[Marca]\nCURSO DE [especialidade]\n[Temas e benefício profissional]\nInscreva-se!\n[Retratos, nomes e qualificações dos professores]\n[Modalidade] | [Corpo docente] | [Conteúdo]\nACESSE E ADQUIRA\n[site]",
+  "legenda": "Quer aprofundar sua atuação em [especialidade]? O curso [nome] reúne [temas] com [perfil dos professores]. Conheça o programa, a modalidade [modalidade] e as condições de inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha fundo arquitetônico azul escuro com degradê preto inferior e acentos verde vivo. Centralize o nome do curso no terço superior, seguido de resumo curto e chamada de inscrição. Use a IMAGEM 2 como material do curso ou retratos autorizados, sem inventar docentes; reserve uma faixa para cinco professores, três benefícios com ícones e site no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3199286450239601",
+    "anunciante": "Escola Trabalhista",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-23",
+    "dias_no_ar": 295,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer se destacar na advocacia trabalhista? A Escola Trabalhista junto com um time de feras irá te ajudar nisso! 🔥\n\nLançamos o Curso de Prática Trabalhista que oferece tudo o que você precisa: como conquistar mais clientes, conhecimento em gestão e marketing, ampliação de atuação para consultivo e compliance e MUITO MAIS! 🎯\n\nDescubra como a tecnologia e a inteligência artificial podem transformar sua prática, domine ferramentas avançadas dos grandes escritórios e aprenda a redigir as melhores peças com teses do direito consolidadas. \n\nInscreva-se agora e venha se tornar um(a) Advogado(a) Trabalhista de excelência, como você sempre sonhou! Clique aqui.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3199286450239601.jpg"
+}

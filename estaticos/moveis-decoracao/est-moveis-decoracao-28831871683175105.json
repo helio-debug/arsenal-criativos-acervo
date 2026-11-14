@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-28831871683175105",
+  "tipo": "estatico",
+  "titulo": "Campanha de Natal com prêmio por compras",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Composição natalina com personagem festivo tirando uma selfie diante de duas fachadas e uma caixa de correio vermelha. Faixa inferior destaca o celular sorteado, o valor de compras para receber cupom e as datas da campanha.",
+  "por_que_funciona": [
+    "O personagem com celular conecta a cena ao prêmio anunciado.",
+    "A chamada de sorteio aparece em letras grandes na faixa clara inferior.",
+    "Os ícones organizam prazo, valor mínimo e lojas participantes.",
+    "As fachadas ajudam a situar a promoção em pontos de venda físicos."
+  ],
+  "quando_usar": "Para campanhas sazonais de varejo com sorteio regularizado e regras de participação acessíveis.",
+  "estrutura_texto": "[Nome da campanha sazonal]\n[Chamada ligada ao prêmio]\nCompre e concorra a [prêmio]\nCampanha até [data]\nA cada [valor] em compras, receba [quantidade] cupom.\n[Lojas participantes]\n[Condições e data do sorteio]",
+  "legenda": "Neste [período sazonal], suas compras podem render uma participação no sorteio de [prêmio]. A cada [valor] em compras elegíveis, receba [quantidade] cupom. Participe até [data] e consulte [regulamento e condições]. Sorteio em [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma composição natalina vertical com fundo de fachadas comerciais genéricas, personagem festivo adulto fazendo selfie e caixa de correio vermelha. Use moldura suave nas extremidades e faixa creme inferior com recorte do prêmio, título grande vinho e três colunas de regras com ícones. Exiba datas e regulamento com boa legibilidade e use apenas promoção real e autorizada.",
+  "alerta_politica": "Meta: informar claramente regras, prazo, elegibilidade e acesso ao regulamento; não apresentar o prêmio como garantido. Promoções comerciais com sorteio devem cumprir a legislação brasileira e as exigências de autorização aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28831871683175105",
+    "anunciante": "Casa & Alma",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-11-10",
+    "dias_no_ar": 4,
+    "variacoes_ativas": 1,
+    "texto_original": "Neste Natal, suas compras podem valer um iPhone 17! 🎄\nA ENNE Brasil e a Casa & Alma se uniram para presentear você e participar é muito fácil!\n\nA cada R$ 500,00 em compras nas lojas, você ganha 1 cupom para concorrer! Quanto mais você compra, mais chances tem de ganhar!\n\nFaça suas compras até o dia 23 de dezembro, preencha seus cupons e deposite na urna da loja onde realizou a compra.\n📲 O sorteio será realizado e divulgado em nossas redes sociais!\n\nSeu Natal pode terminar com um iPhone novo. Boa sorte! 🤎🧡\n\nPrêmio: 01 iPhone 17 de 256 GB, cor branca, sem possibilidade de troca por outro modelo ou conversão em dinheiro. O ganhador será responsável pela retirada do prêmio na loja ou pelos custos de entrega. Consulte o regulamento completo nas lojas.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "fraca",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-28831871683175105.jpg"
+}

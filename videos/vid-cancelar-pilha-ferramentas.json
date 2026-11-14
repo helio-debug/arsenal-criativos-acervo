@@ -1,0 +1,102 @@
+{
+ "id": "vid-cancelar-pilha-ferramentas",
+ "titulo": "Tela dividida: cancela várias ferramentas e mostra funções concentradas em uma",
+ "formato_video": "split-screen",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "60-65s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Tela dividida horizontalmente: ícones riscados no preto acima; apresentador com microfone e luz quente abaixo.",
+   "fala": "Eu deixei de usar [quantidade comprovada] ferramentas para [processo]. Vou mostrar quais tarefas passei a fazer com [produto] e o que precisei manter separado.",
+   "texto_tela": "[Quantidade] ferramentas revistas"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Manter rosto abaixo; trocar ícones por um símbolo verde central com nome da solução.",
+   "fala": "Antes, eu usava [ferramenta A] para [tarefa A] e [ferramenta B] para [tarefa B]. A troca começou por [recurso], que já atendia [necessidade específica].",
+   "texto_tela": "[Produto] para [processo]"
+  },
+  {
+   "tempo": "16-28s",
+   "cena": "Painel superior vira sequência de tarefas; indicador de pontos no alto acompanha cada troca de exemplo.",
+   "fala": "Aqui está [tarefa A]: eu coloco [entrada] e recebo [saída]. Já nesta tela, acompanho [tarefa B]. Cada etapa tem [controle disponível] para revisar o que foi feito.",
+   "texto_tela": "[Tarefa A]\n[Entrada] → [saída]"
+  },
+  {
+   "tempo": "28-39s",
+   "cena": "Mostrar conversa ilustrativa no topo, sem dados reais; rosto segue falando abaixo.",
+   "fala": "Quando acontece [situação], o produto executa [ação configurada]. Se aparecer [exceção], eu faço [revisão necessária]. Essa parte precisa estar definida antes de colocar o processo para rodar.",
+   "texto_tela": "[Ação configurada]\nRevisão: [exceção]"
+  },
+  {
+   "tempo": "39-49s",
+   "cena": "Cartela de custo com valores próprios e mesma base de comparação; destaque verde no indicador.",
+   "fala": "Para comparar custo, somei [itens incluídos] no mesmo período. O total ficou em [valor verificado], com [condição]. Você pode fazer essa conta usando os seus contratos.",
+   "texto_tela": "[Custo no período]\nInclui [itens]"
+  },
+  {
+   "tempo": "49-57s",
+   "cena": "Ícone de tempo aponta para símbolo da solução; apresentador gesticula em plano próximo.",
+   "fala": "Também medi [tarefa repetida] durante [período]. Registrei [medida real] e mantive [etapa humana]. Esse foi o recorte do meu teste, com a minha operação.",
+   "texto_tela": "Teste: [período e medida]"
+  },
+  {
+   "tempo": "57-65s",
+   "cena": "Preservar divisão e colocar convite claro no painel superior; fechar com olhar para a câmera.",
+   "fala": "Para avaliar no seu processo, agende [conversa ou demonstração]. Leve [informação necessária]. A equipe mostra o que [produto] cobre e quais etapas exigem outra solução.",
+   "texto_tela": "Agende [próximo passo]"
+  }
+ ],
+ "hook": {
+  "falado": "Eu deixei de usar [quantidade comprovada] ferramentas para [processo]. Vou mostrar quais tarefas passei a fazer com [produto] e o que precisei manter separado.",
+  "texto_tela": "[Quantidade] ferramentas revistas",
+  "visual": "Tela dividida horizontalmente: ícones riscados no preto acima; apresentador com microfone e luz quente abaixo."
+ },
+ "por_que_funciona": [
+  "Os ícones riscados no topo tornam visível a quantidade de ferramentas citada na abertura.",
+  "A faixa inferior mantém rosto e microfone enquanto a superior troca entre funções, permitindo explicar sem abandonar o apresentador.",
+  "O exemplo de conversa usa balões e palavra verde para representar a resposta mencionada na fala.",
+  "As cartelas de custo e tempo dão suportes diferentes aos dois argumentos operacionais da locução."
+ ],
+ "quando_usar": "Para soluções que concentram tarefas antes espalhadas em várias ferramentas. Use no meio do funil, com demonstração real e comparação de escopo antes do convite à reunião.",
+ "roteiro_modelo": "Eu deixei de usar [quantidade comprovada] ferramentas para [processo]. Vou mostrar quais tarefas passei a fazer com [produto] e o que precisei manter separado.\n\n[CORTE / PAUSA]\n\nAntes, eu usava [ferramenta A] para [tarefa A] e [ferramenta B] para [tarefa B]. A troca começou por [recurso], que já atendia [necessidade específica].\n\n[CORTE / PAUSA]\n\nAqui está [tarefa A]: eu coloco [entrada] e recebo [saída]. Já nesta tela, acompanho [tarefa B]. Cada etapa tem [controle disponível] para revisar o que foi feito.\n\n[CORTE / PAUSA]\n\nQuando acontece [situação], o produto executa [ação configurada]. Se aparecer [exceção], eu faço [revisão necessária]. Essa parte precisa estar definida antes de colocar o processo para rodar.\n\n[CORTE / PAUSA]\n\nPara comparar custo, somei [itens incluídos] no mesmo período. O total ficou em [valor verificado], com [condição]. Você pode fazer essa conta usando os seus contratos.\n\n[CORTE / PAUSA]\n\nTambém medi [tarefa repetida] durante [período]. Registrei [medida real] e mantive [etapa humana]. Esse foi o recorte do meu teste, com a minha operação.\n\n[CORTE / PAUSA]\n\nPara avaliar no seu processo, agende [conversa ou demonstração]. Leve [informação necessária]. A equipe mostra o que [produto] cobre e quais etapas exigem outra solução.",
+ "tomadas_celular": [
+  "Grave abertura em plano médio vertical, microfone à frente e luz quente ao fundo com luz frontal suave, 7s.",
+  "Grave explicação com gestos, mesma câmera fixa e espaço para recorte inferior, 9s.",
+  "Filme uma tela de teste em plano de detalhe, brilho ajustado e sem reflexo, 12s.",
+  "Grave ação de configurar ou revisar uma tarefa, plano sobre o ombro e luz lateral, 11s.",
+  "Filme uma tabela com custos próprios sem dados sensíveis, plano fechado e luz difusa, 10s.",
+  "Grave explicação do teste olhando à lente, plano próximo e luz frontal, 8s.",
+  "Grave convite final no mesmo enquadramento e iluminação, 8s."
+ ],
+ "caminho_ia": "Faça um avatar com voz sintética licenciada na metade inferior e painéis no CapCut na superior. Use Kling para apoios, sem simular resultado real. Prompt 1: \"Vertical 9:16 medium shot of a fictional presenter speaking beside a desk microphone, warm amber shelf practical lights, soft frontal key light, natural restrained hand gestures, steady camera, subject framed for lower-half crop, no logos.\" Prompt 2: \"Vertical 9:16 minimalist black motion graphics plate for [product workflow], generic thin-line task icons arranged in a grid, one emerald green central hub, gentle sequential icon illumination, locked camera, no readable text, no branded software icons.\" Use capturas próprias para provar funções; aplique balões, valores e títulos na edição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao meu produto com os dados abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 65s em 7 blocos: 0-7, 7-16, 16-28, 28-39, 39-49, 49-57 e 57-65s. Mantenha tela dividida: apresentador com microfone e cenário quente embaixo; painel preto com ícones e títulos brancos e verdes em cima. Abra com ferramentas substituídas, apresente solução, demonstre tarefas, trate exceção, compare custos, detalhe teste e termine com reunião. Tom de relato operacional, cortes entre frases, painel muda a cada tarefa. Número e economia só entram com prova e período. Não copie a quantidade de ferramentas, promessas de receita ou redução de custo da referência. Sem relato real, escreva como demonstração e comparação proposta, sem fingir cancelamentos. Não copie pessoas, marcas, interfaces, números, depoimentos ou frases da referência. Use somente dados comprováveis do meu produto. Não invente experiência de uso, vínculo de investidor ou resultado. Escreva em pt-BR falado, com frases curtas e campos [entre colchetes] para dados ausentes. Evite superlativos, perguntas de enfeite e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa A] e [tarefa B] podem ficar em [produto], conforme [escopo]. Veja a demonstração e compare [custos e requisitos] com o seu processo. Agende [próximo passo] em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e98b3019",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-cancelar-pilha-ferramentas/frames/f1.jpg",
+    "videos/vid-cancelar-pilha-ferramentas/frames/f2.jpg",
+    "videos/vid-cancelar-pilha-ferramentas/frames/f3.jpg",
+    "videos/vid-cancelar-pilha-ferramentas/frames/f4.jpg",
+    "videos/vid-cancelar-pilha-ferramentas/frames/f5.jpg"
+   ]
+  }
+ ]
+}

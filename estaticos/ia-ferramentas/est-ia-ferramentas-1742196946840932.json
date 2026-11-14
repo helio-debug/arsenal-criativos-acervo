@@ -1,0 +1,36 @@
+{
+  "id": "est-ia-ferramentas-1742196946840932",
+  "tipo": "estatico",
+  "titulo": "Retrato do criador com credencial profissional",
+  "formato": "Produto em destaque",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem de terno ocupa o fundo, com degradê escuro na parte inferior. A chamada relaciona a profissão do criador ao público do plugin, seguida de uma barra com status instalado.",
+  "por_que_funciona": [
+    "O retrato de terno associa a oferta ao contexto profissional do público.",
+    "A frase “criado por um advogado” explicita a credencial usada para apresentar o criador.",
+    "A barra com ícone e chave verde dá forma visual ao plugin anunciado."
+  ],
+  "quando_usar": "Para apresentar uma ferramenta especializada cuja criação envolve experiência verificável no setor atendido.",
+  "estrutura_texto": "[Nome do produto]\n[Nome e credencial do criador]\nUm [produto] para [público],\ncriado por [profissional do setor].\n[Categoria]\n[Barra do produto e status]\n[Contato e aviso de independência]",
+  "legenda": "[Produto] foi criado por [profissional com experiência verificável em área] para apoiar [tarefa do público]. Inclui [recurso disponível] e [funcionalidade relevante]. Conheça o funcionamento e confira [condição comercial].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto fornecida do criador ou representante autorizado como retrato principal, com fundo cinza e degradê azul escuro na base. Posicione o nome e a credencial acima de uma chamada branca em duas linhas. Abaixo, insira etiqueta de categoria e barra arredondada com ícone do produto e chave verde de status demonstrativo. Reserve cantos para marca e informações institucionais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1742196946840932",
+    "anunciante": "Raphael Cardoso Marketing Jurídico",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 5,
+    "texto_original": "Este plugin foi criado por quem senta do mesmo lado da mesa que você. Raphael Cardoso é advogado, foi o primeiro presidente de Marketing Jurídico da OAB, Subseção de Vitória da Conquista, e conhece de perto a dúvida de quem quer aparecer sem arriscar a inscrição. \n\nPor isso o Marketing Jurídico com Claude já nasce com a Trava OAB, que confere cada texto com o Provimento 205, o Código de Ética e o Estatuto antes de chegar a você, e com a edição de vídeo liberada desde o primeiro dia. R$ 157 até 01/11.",
+    "origem_coleta": "acervo:raphael-cardoso"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1742196946840932.jpg"
+}

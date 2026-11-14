@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-962058626714251",
+  "tipo": "estatico",
+  "titulo": "Combo de pós-graduações com preço mensal e curso grátis",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça de fundo claro geométrico com título vermelho e caixa central de preço azul. Um valor anterior aparece riscado, um selo dourado fica à direita e os cursos adicionais são anunciados abaixo.",
+  "por_que_funciona": [
+    "“FAÇA 3 PÓS” apresenta a quantidade contratada já no título.",
+    "O preço atual azul ocupa a maior área de texto e o anterior riscado permite comparação direta.",
+    "“MENSAIS CADA NO CARTÃO” aparece junto do preço e delimita a unidade cobrada.",
+    "“GANHE A 4ª GRÁTIS” destaca o curso adicional em vermelho na parte inferior."
+  ],
+  "quando_usar": "Para campanhas de matrículas com combo de cursos, desde que o custo por curso e as condições completas estejam disponíveis.",
+  "estrutura_texto": "FAÇA [QUANTIDADE] [CURSOS]\nDE: R$[preço anterior] MENSAIS\nPOR APENAS\nR$[preço atual]\nMENSAIS CADA NO [meio de pagamento]\n[Credencial verificável]\nCONSULTE CONDIÇÕES\nGANHE [curso adicional] GRÁTIS\n+[bônus] DE BRINDE",
+  "legenda": "Amplie sua formação com [quantidade] cursos de [área] na modalidade [modalidade]. Cada curso custa [valor] por mês em [condição de pagamento], com [curso adicional] e [bônus] conforme regulamento. Consulte duração, investimento total e requisitos de matrícula em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com formas geométricas cinza suaves. No topo, coloque a quantidade de cursos em vermelho. Dentro de uma caixa de contorno vermelho, apresente preço anterior riscado, preço atual azul muito grande e condição mensal por curso logo abaixo. À direita, use selo apenas se a credencial tiver comprovação e redação correta. Na base, destaque curso adicional e bônus em vermelho e reserve espaço para a marca da IMAGEM 2.",
+  "alerta_politica": "Apresente preço por curso, número de parcelas, custo total e condições do combo com clareza. Só use referência ao MEC conforme a situação regulatória comprovada da instituição e dos cursos; não sugira reconhecimento específico inexistente nem certificação garantida sem requisitos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "962058626714251",
+    "anunciante": "Educaminas EaD",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "Hoje, uma pós já não diferencia.\n\nPor isso a Educaminas permite 3 pós-graduações,\ntodas reconhecidas pelo MEC, com ensino online e certificação rápida.\n\nMais qualificação.\nMesmo tempo.\nMenor investimento.\n\n👉 Clique e entenda como funciona.\nQualificação estratégica, não apenas um diploma\nHoje, uma única pós já não diferencia. Por isso, a Educaminas oferece um modelo de qualificação mais completo e estratégico.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-962058626714251.jpg"
+}

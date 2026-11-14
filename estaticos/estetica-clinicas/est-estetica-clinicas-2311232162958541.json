@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-2311232162958541",
+  "tipo": "estatico",
+  "titulo": "Curso presencial com lista de procedimentos",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte em rosa, vinho e dourado combina foto de treinamento em procedimento facial, lista numerada de conteúdos, certificado ilustrado e contato no rodapé.",
+  "por_que_funciona": [
+    "O título grande destaca que o curso é presencial.",
+    "A lista numerada torna os procedimentos escaneáveis.",
+    "A foto de atendimento mostra o contexto prático do treinamento.",
+    "Os selos destacam certificado e fornecedores."
+  ],
+  "quando_usar": "Para divulgar formação presencial a profissionais habilitados, com programa e canal de informações definidos.",
+  "estrutura_texto": "[CURSOS PRESENCIAIS]\n[DO NÍVEL INICIAL AO AVANÇADO]\n[CHAMADA DO TREINAMENTO]\n[LISTA NUMERADA DE CONTEÚDOS]\n[DIFERENCIAIS]\n[CERTIFICADO]\n[CONTATO]",
+  "legenda": "Aprimore sua prática em [área] com treinamento presencial individual para [profissionais habilitados]. Consulte [programa], requisitos de participação, supervisão e datas pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada com fundo rosa claro, moldura dourada e títulos em vinho. À esquerda, lista numerada de cinco módulos com ícones; à direita, foto de prática supervisionada pertinente ao serviço. Reserve a base para diferenciais comprovados, certificado e contato. Use apenas qualificações fornecidas.",
+  "alerta_politica": "Publicidade de formação em estética: direcionar procedimentos a profissionais legalmente habilitados e informar requisitos. Não garantir domínio clínico, ausência de complicações ou resultados. Respeitar consentimento de imagem e as normas do conselho profissional aplicável, inclusive CFM quando houver publicidade médica.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2311232162958541",
+    "anunciante": "Instituto HM",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-05",
+    "dias_no_ar": 101,
+    "variacoes_ativas": 1,
+    "texto_original": "Se você ainda sente insegurança para aplicar, tem medo de complicações ou depende de terceiros para executar procedimentos, está deixando dinheiro na mesa todos os dias.\n\n✨ É por isso que nasceu a Mentoria VIP Presencial da Dra. Aline Moraes.\n\nAqui você não será apenas mais um aluno assistindo apresentações.\n\nVocê terá:\n\n✅ Mentoria individual (1 aluno por curso)\n✅ Atenção exclusiva durante todo o treinamento\n✅ Base teórica sólida e atualizada\n✅ Protocolos clínicos utilizados diariamente na prática\n✅ Discussão de casos reais\n✅ Técnicas avançadas de harmonização facial\n✅ Correção de erros e aperfeiçoamento de técnicas\n✅ MUITA PRÁTICA supervisionada\n\nPorque ninguém se torna referência apenas estudando teoria.\n\n🎯 Você aprende fazendo.\n\n🎯 Você pratica com acompanhamento.\n\n🎯 Você desenvolve confiança para atender e cobrar mais.\n\nSão cursos VIP para quem quer dominar:\n\n💉 Toxina Botulínica\n💉 Preenchimento Facial Full Face\n💉 Preenchimento Labial\n💉 Rinomodelação\n💉 Bioestimuladores de Colágeno e Fios de PDO\n\n⚠️ E existe um detalhe importante:\n\nComo a mentoria é totalmente personalizada e exclusiva, existe apenas 1 vaga por treinamento.\n\nNão é um curso em grupo.\n\nNão é uma sala cheia de alunos.\n\nÉ você recebendo a experiência, os protocolos e o direcionamento de uma profissional referência na estética avançada.\n\n🔥 Quanto custa continuar inseguro?\n\n🔥 Quanto custa perder pacientes por falta de capacitação?\n\n🔥 Quanto dinheiro você deixa de faturar todos os meses por não dominar procedimentos de alto valor?\n\nA decisão é sua.\n\nVocê pode continuar assistindo outros profissionais crescerem...\n\nOu investir na sua formação, acelerar seus resultados e se tornar a profissional que o mercado procura.\n\n⏳ As vagas VIP são extremamente limitadas.\nQuem deixa para depois normalmente fica para a próxima turma.\n\n📲 Solicite informações agora e reserve sua data antes que as agendas sejam preenchidas.\nWHATSAPP\nTorne-se Referência na Estética\nAprenda na prática, com acompanhamento individual e protocolos reais utilizados diariamente na estética avançada.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-2311232162958541.jpg"
+}

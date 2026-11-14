@@ -1,0 +1,95 @@
+{
+ "id": "vid-real-falso-imperfeicoes",
+ "tipo": "video",
+ "titulo": "Real ou artificial: compara imagens e revela como reproduzir a textura",
+ "formato_video": "comparativo-teste",
+ "nichos": [
+  "ia-ferramentas",
+  "beleza-cosmeticos",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "duracao": "33-39s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Compare estes dois exemplos de [resultado visual]. Repare em [detalhe observável].",
+  "texto_tela": "[EXEMPLO A] × [EXEMPLO B]",
+  "visual": "Dois exemplos lado a lado na metade superior; apresentador em plano médio abaixo, em ambiente com luz suave lateral."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Comparação lado a lado acima do apresentador. Use rótulos curtos, sem identificar terceiros.",
+   "fala": "Compare estes dois exemplos de [resultado visual]. Repare em [detalhe observável].",
+   "texto_tela": "[EXEMPLO A] × [EXEMPLO B]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Troque a comparação por uma tela de preparação; mantenha o rosto embaixo e legendas amarelas curtas.",
+   "fala": "Eu usei [mesma base] nos dois. No segundo, mudei [um ajuste específico].",
+   "texto_tela": "[AJUSTE TESTADO]"
+  },
+  {
+   "tempo": "11-18s",
+   "cena": "Mostre o detalhe ampliado na metade superior, com o mesmo enquadramento nos dois exemplos.",
+   "fala": "Olhe [área do exemplo]. Aqui dá para ver [diferença concreta], com [condição do teste] igual.",
+   "texto_tela": "Repare em [detalhe]"
+  },
+  {
+   "tempo": "18-25s",
+   "cena": "Insira uma ficha ou tela com a instrução aplicada, acima da fala.",
+   "fala": "Para testar com [produto], comece com [instrução curta]. Depois confira [critério de avaliação].",
+   "texto_tela": "[INSTRUÇÃO CURTA]"
+  },
+  {
+   "tempo": "25-33s",
+   "cena": "Exiba a ferramenta ou etapa complementar, sem marcas de terceiros. Alterne tela e detalhe.",
+   "fala": "Eu ainda fiz [etapa complementar]. Neste exemplo, ela ajudou em [efeito visível]. Compare antes de usar.",
+   "texto_tela": "[ETAPA COMPLEMENTAR]"
+  },
+  {
+   "tempo": "33-39s",
+   "cena": "Cartela superior com fundo de instruções e chamada verde grande; rosto continua abaixo.",
+   "fala": "Quer o modelo desse teste? Comente [palavra] que eu envio [material gratuito].",
+   "texto_tela": "Comente [PALAVRA]"
+  }
+ ],
+ "por_que_funciona": [
+  "A comparação rotulada ocupa a metade superior já no primeiro frame; dá um ponto concreto para acompanhar a explicação.",
+  "O rosto permanece embaixo enquanto as inserções mudam de comparação para interface e exemplo, mantendo a fala como fio da demonstração.",
+  "As legendas amarelas curtas contrastam com o ambiente escuro do apresentador.",
+  "A chamada verde grande no último frame destaca o comentário pedido sobre um fundo de instruções."
+ ],
+ "quando_usar": "Para cursos sobre ferramentas, cosméticos ou marketing quando for possível comparar uma característica visível em condições iguais. Use no topo do funil para oferecer um guia de aplicação, sem tratar imagem gerada como prova de eficácia.",
+ "roteiro_modelo": "Compare estes dois exemplos de [resultado visual]. Repare em [detalhe observável].\n\n[Corte / pausa]\n\nEu usei [mesma base] nos dois. No segundo, mudei [um ajuste específico].\n\n[Corte / pausa]\n\nOlhe [área do exemplo]. Aqui dá para ver [diferença concreta], com [condição do teste] igual.\n\n[Corte / pausa]\n\nPara testar com [produto], comece com [instrução curta]. Depois confira [critério de avaliação].\n\n[Corte / pausa]\n\nEu ainda fiz [etapa complementar]. Neste exemplo, ela ajudou em [efeito visível]. Compare antes de usar.\n\n[Corte / pausa]\n\nQuer o modelo desse teste? Comente [palavra] que eu envio [material gratuito].",
+ "tomadas_celular": [
+  "Grave o apresentador do peito para cima, celular vertical na altura dos olhos, luz lateral de janela; 5s de abertura.",
+  "Capture os dois exemplos com o mesmo recorte e luz difusa, celular apoiado; 6s para a comparação.",
+  "Filme um detalhe de cada exemplo com câmera traseira, sem filtro e luz constante; 7s no total.",
+  "Filme uma ficha com a instrução, de cima, perto de uma janela; 7s.",
+  "Filme a etapa complementar em close, celular apoiado e sem reflexo na tela; 8s.",
+  "Grave o convite em plano médio, luz suave de frente; 6s."
+ ],
+ "caminho_ia": "Monte o split-screen no CapCut com imagens geradas e avatar na faixa inferior. Use Veo para ilustrar os exemplos e voz sintética ou voz clonada autorizada para a fala. Prompts: \"Vertical 9:16 video, locked camera, matched side-by-side close-ups of [product example], identical soft side lighting, emphasize [visible texture], no logos, no text.\" e \"Macro insert of [product detail], realistic surface texture, slow push-in, neutral background, consistent exposure, no beauty retouching, no text.\" Insira rótulos e CTA na edição. Identifique as imagens sintéticas e use imagens reais se houver alegação de desempenho.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 39s em seis blocos: comparação em cima e apresentador embaixo; preparação; detalhe ampliado; instrução; etapa complementar; material gratuito por comentário. Tom de demonstração, frases curtas, cortes nas trocas de inserção, legendas amarelas de poucas palavras e CTA verde. Compare uma característica relevante ao meu produto; use condições iguais. Não copie pessoas, retratos, interfaces, marcas, números nem a frase da referência. Não fabrique teste, eficácia cosmética ou depoimento; use campos adaptáveis para evidências ausentes. Não use antíteses vazias, superlativos sem prova ou perguntas decorativas. Escreva em pt-BR falado, com [colchetes] para dados que preciso completar.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Compare [exemplo A] e [exemplo B] em [condição igual]. O detalhe observado foi [diferença]. Comente [palavra] para receber [material gratuito].",
+ "alerta_politica": "Meta: não atribua defeitos físicos ou condições de saúde ao espectador; não use antes/depois de corpo nem prometa resultado de saúde. Para cosméticos, respeite as alegações autorizadas e a regularização aplicável pela ANVISA. Imagens geradas ou retocadas não comprovam eficácia; identifique simulações.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-7030bfb4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-real-falso-imperfeicoes/frames/f1.jpg",
+    "videos/vid-real-falso-imperfeicoes/frames/f2.jpg",
+    "videos/vid-real-falso-imperfeicoes/frames/f3.jpg",
+    "videos/vid-real-falso-imperfeicoes/frames/f4.jpg",
+    "videos/vid-real-falso-imperfeicoes/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1648669166894626",
+  "tipo": "estatico",
+  "titulo": "Mentoria jurídica apresentada em escritório de estudos",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de um profissional de terno sentado à mesa com livros, computador e luminária. Caixas brancas apresentam a mentoria, seus diferenciais e o convite para conversar no direct.",
+  "por_que_funciona": [
+    "O título grande em uma caixa branca identifica a oferta logo no topo.",
+    "Livros jurídicos e mesa de estudo situam visualmente a preparação para concursos.",
+    "A caixa central explicita atendimento individual e cronograma personalizado.",
+    "A chamada inferior nomeia as carreiras atendidas e indica o direct como próximo passo."
+  ],
+  "quando_usar": "Para apresentar acompanhamento individual a candidatos que já sabem qual carreira pública pretendem seguir.",
+  "estrutura_texto": "[NOME DO SERVIÇO]\n[ATENDIMENTO INDIVIDUAL];\n[PLANEJAMENTO PERSONALIZADO];\n[FOCO NO OBJETIVO].\nSe você procura [SERVIÇO] focado em [CARREIRAS OU OBJETIVOS], me procure no [CANAL] [SETA]",
+  "legenda": "Preparação personalizada para quem busca [carreira ou concurso]. A mentoria inclui [cronograma individual], [atendimento] e [acompanhamento da evolução], com foco nas exigências de [objetivo]. Envie [palavra-chave] no direct para conhecer o funcionamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto principal do meu produto ou profissional. Componha um escritório acolhedor com mesa, livros e iluminação quente. Mantenha o profissional centralizado e sobreponha caixas brancas com tipografia serifada preta: título grande no topo, benefícios curtos à esquerda na altura do tronco e convite para contato na faixa inferior. Use textos legíveis e preserve o rosto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1648669166894626",
+    "anunciante": "allanmjoos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-29",
+    "dias_no_ar": 16,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 MENTORIA PARA CARREIRAS JURÍDICAS\n\nUma preparação personalizada para quem busca aprovação na Magistratura, Ministério Público ou Defensoria Pública.\n\nO que você terá:\n\n✅ Cronograma individual de estudos\n✅ Atendimento individual comigo\n✅ Plataforma exclusiva\n✅ Preparação direcionada à carreira pretendida\n✅ Simulados para acompanhar sua evolução\n✅ Estratégia de estudos e acompanhamento personalizado\n✅ E muito mais!\n\nChega de estudar sem saber se está no caminho certo.\n\nTenha planejamento, direcionamento e acompanhamento para transformar sua preparação.\n\n📩 Quer conhecer a mentoria?\n\nEnvie a palavra MENTORIA no Direct e vamos conversar sobre sua preparação.\n#concursopúblico #magistratura #defensoría #promotordejustiça #carreirajurídica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1648669166894626.jpg"
+}

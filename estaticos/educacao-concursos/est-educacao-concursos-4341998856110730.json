@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-4341998856110730",
+  "tipo": "estatico",
+  "titulo": "Graduação em tecnologia com mensalidade em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de alunos em laboratório recebe uma camada azul e roxa. O nome da graduação aparece em amarelo, seguido de mensalidade sobre faixa ciano e botão de inscrição.",
+  "por_que_funciona": [
+    "A foto do laboratório mostra o contexto prático do curso.",
+    "O nome da graduação em amarelo contrasta com o fundo azul.",
+    "O valor grande facilita identificar a mensalidade inicial.",
+    "O botão roxo com seta amarela explicita a inscrição."
+  ],
+  "quando_usar": "Para captar inscrições de interessados em uma graduação com preço inicial definido.",
+  "estrutura_texto": "[Marca da instituição]\n[Graduação e ano]\n[Nome do curso]\nMensalidades a partir de:\n[Preço]\n[CTA de inscrição]\n[Condições]",
+  "legenda": "Estude [curso] com atividades práticas desde [etapa do curso]. Mensalidades a partir de [valor], conforme [condições]. Confira a grade e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de estudantes em laboratório ao fundo, com camada azul e roxa para leitura. Posicione o título do curso em amarelo grande no centro à direita, preço branco sobre faixa ciano e botão roxo com seta amarela abaixo. Adicione marca própria no topo e condições legíveis. Preserve a expressão “a partir de” quando aplicável. Adapte os textos ao MEU PRODUTO, em pt-BR, sem reproduzir nomes de terceiros.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4341998856110730",
+    "anunciante": "Fam",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-29",
+    "dias_no_ar": 16,
+    "variacoes_ativas": 1,
+    "texto_original": "Estude na FAM e tenha acesso a aulas práticas desde o primeiro semestre!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-4341998856110730.jpg"
+}

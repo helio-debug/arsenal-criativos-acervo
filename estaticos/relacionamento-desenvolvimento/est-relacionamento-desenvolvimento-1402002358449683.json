@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1402002358449683",
+  "tipo": "estatico",
+  "titulo": "Estagnação profissional em cena de trabalho noturno",
+  "formato": "Alerta e educação",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma pessoa diante do computador apoia a cabeça na mão em uma mesa iluminada por luminária. Sobre a foto escurecida, a chamada branca aborda estagnação profissional e um botão amarelo convida para o evento.",
+  "por_que_funciona": [
+    "A postura da pessoa e a mesa cheia de papéis tornam visível o desgaste no trabalho.",
+    "O topo escuro dá contraste para a chamada branca em tamanho grande.",
+    "A luminária conduz o olhar ao ambiente de trabalho descrito pela mensagem.",
+    "O botão amarelo se separa da paleta fria e destaca o convite de inscrição."
+  ],
+  "quando_usar": "Para divulgar um evento de desenvolvimento profissional a um público interessado em rever sua rotina de trabalho.",
+  "estrutura_texto": "[Identificação do evento]\n[Frase sobre esforço profissional]\n[Contraponto sobre falta de avanço]\nDescubra [tema trabalhado no evento].\nGaranta sua vaga em [evento]",
+  "legenda": "O evento [nome] acontece em [cidade], nos dias [datas]. Conheça uma experiência voltada a [objetivo de desenvolvimento] e confira a programação em [link]. [CTA de inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia realista de uma pessoa adulta em uma mesa de trabalho à noite, com computador, papéis e luminária, transmitindo cansaço pela postura. Aplique gradiente azul-escuro no topo. Coloque identificação pequena com apoio da IMAGEM 2, título branco grande, subtítulo e botão amarelo arredondado acima da cabeça da pessoa. Não atribua condições pessoais ao leitor.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1402002358449683",
+    "anunciante": "Método CIS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-17",
+    "dias_no_ar": 89,
+    "variacoes_ativas": 1,
+    "texto_original": "O maior evento de inteligência emocional do mundo chega a Goiânia.\n\nQuando você se transforma o crescimento profissional é inevitável.\nEm 27 anos, já foram mais de 1,8 milhão de pessoas treinadas no Método CIS!\n\nEssa é a edição 252, no formato CIS Conceito, com vagas limitadas.\n\n📅 Goiânia, 15, 16 e 17 de outubro.\n\n👉 Garanta seu lugar agora. Clique em \"Saiba mais\".",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1402002358449683.jpg"
+}

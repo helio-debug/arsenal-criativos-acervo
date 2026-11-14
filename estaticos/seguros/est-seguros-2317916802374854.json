@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-2317916802374854",
+  "tipo": "estatico",
+  "titulo": "Plano de saúde com preço ao lado de cena de gestação",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Gestante em quarto infantil ocupa a fotografia de fundo. Um painel azul à esquerda reúne cuidados oferecidos, preço mensal com faixa etária e botão laranja para conhecer o plano.",
+  "por_que_funciona": [
+    "A fotografia no quarto infantil situa a comunicação no contexto de maternidade.",
+    "O painel azul isola o texto sobre o fundo fotográfico.",
+    "O valor laranja ganha destaque ao lado da informação de faixa etária.",
+    "O botão repete o laranja do preço e indica a ação seguinte."
+  ],
+  "quando_usar": "Para divulgar planos de saúde com preço por faixa etária, deixando explícitos a abrangência da oferta e os critérios de contratação.",
+  "estrutura_texto": "Do [momento inicial] aos [marcos seguintes], cuidado em [fases].\n[Serviços disponíveis]\nPreço mensal [valor]*\nFaixa etária [intervalo]\n[Conheça seu plano]\n[Registro e condições]",
+  "legenda": "Conheça os planos de [operadora], com [serviços e cobertura contratados] para [público elegível]. Mensalidades a partir de [preço] para [faixa etária], em [região]. Consulte rede, carências e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical acolhedora de gestante em quarto infantil. À esquerda, sobreponha painel azul arredondado com chamada branca, lista curta de serviços, preço laranja grande e faixa etária junto do valor. Termine o painel com botão laranja. Reserve rodapé para marca e condições contratuais legíveis. Diferencie claramente o preço da faixa etária infantil das condições de cobertura obstétrica. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de planos de saúde: observar regras da ANS e do CDC, informando operadora, registro, faixa etária, abrangência, carências e condições do preço. A imagem de gestante não deve induzir que o valor infantil inclui cobertura obstétrica. Nas políticas da Meta, não presumir gravidez ou condição de saúde da pessoa que vê o anúncio.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2317916802374854",
+    "anunciante": "Hapvida Saúde",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 9,
+    "texto_original": "Conheça a Hapvida. Planos flexíveis para todas as fases da vida com cobertura completa, consultas, exames internações e muito mais.\nPlano de saúde que cabe no seu orçamento",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-2317916802374854.jpg"
+}

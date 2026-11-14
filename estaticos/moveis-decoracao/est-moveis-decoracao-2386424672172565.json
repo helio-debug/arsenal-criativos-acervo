@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-2386424672172565",
+  "tipo": "estatico",
+  "titulo": "Planejados com preço inicial e escolha de brinde",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma cozinha planejada aparece dentro de um grande recorte curvo à esquerda. Um círculo cinza no alto apresenta metragem e preço inicial; à direita, a chamada de brinde acompanha imagens de eletrodomésticos e dispositivos.",
+  "por_que_funciona": [
+    "O círculo no alto reúne categoria, limite de metragem e preço em um bloco único.",
+    "A cozinha ocupa a maior parte da peça e demonstra o acabamento dos planejados.",
+    "A chamada compre e ganhe vem acompanhada das imagens dos possíveis brindes.",
+    "O preço em branco recebe destaque sobre o círculo cinza escuro."
+  ],
+  "quando_usar": "Para captar interessados em projetos planejados com preço inicial, escopo definido e campanha de brindes.",
+  "estrutura_texto": "[Categoria]\n[Escopo] - até [metragem]\na partir de\nR$[preço]\nCOMPRE & GANHE!\n[Opções e condições do brinde]\n[Assinatura da marca]",
+  "legenda": "Móveis planejados para [região], com [características do projeto] e [garantia]. Projetos a partir de [preço] para [escopo e metragem]. Consulte [brindes e condições] em [canal]. O valor varia conforme [materiais, acabamentos e metragem].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Use fundo cinza e foto do ambiente da IMAGEM 2 em grande recorte curvo na lateral esquerda. Sobreponha círculo cinza escuro no alto à direita com [categoria], [escopo], [metragem] e [preço inicial], dando maior peso ao preço. No meio à direita, inclua [chamada de brinde], condições legíveis e imagens dos brindes efetivamente oferecidos. Reserve o rodapé para [marca] e ressalvas de variação do projeto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2386424672172565",
+    "anunciante": "TR Conceito",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-08",
+    "dias_no_ar": 37,
+    "variacoes_ativas": 1,
+    "texto_original": "✨ Móveis planejados alto padrão com condições especiais para você de São Paulo\n✅ Projetos exclusivos\n\n• Design e qualidade superior com preços acessíveis\n• 5 anos de garantia\n• Mais de 50 anos de tradição\n• Entrega rápida e garantida\n• Acompanhe seu pedido a qualquer momento online\n\nAproveite e saiba mais:\n📱 WhatsApp: 11 96145-2283\n📍 R. Tutóia, 777 - Paraíso, São Paulo - SP\n\nValor variável de acordo com materiais, acabamentos e metragem do ambiente\nImagem meramente ilustrativa\nMóveis Planejados",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-2386424672172565.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-2139086963665289",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com preço parcelado e profissional em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Bloco azul à esquerda apresenta cursos técnicos, duração e áreas disponíveis. Um profissional com capacete amarelo ocupa a direita, e uma faixa laranja destaca o parcelamento.",
+  "por_que_funciona": [
+    "A faixa laranja contrasta com o azul e concentra a atenção no preço.",
+    "O profissional com capacete conecta visualmente a oferta às áreas técnicas.",
+    "A lista curta de cursos e a duração ajudam a avaliar a formação antes do clique."
+  ],
+  "quando_usar": "Para captação de matrículas em cursos técnicos com preço e condições verificáveis.",
+  "estrutura_texto": "Cursos [categoria] [modalidade]\n[Reconhecimento comprovado]\nDuração: [prazo]\n• [curso 1]\n• [curso 2]\n• [curso 3]\n• E mais [quantidade] opções!\n[Condição de oferta]\n[parcelas]x R$ [valor]\n[forma de pagamento]\nClique Aqui e Saiba Mais",
+  "legenda": "Conheça os cursos técnicos em [modalidade], com duração de [prazo]. Escolha entre [áreas] e consulte a autorização e a validade da certificação de cada curso. Pagamento em [parcelas] de [valor], por [meio]. Veja condições e grade em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre um painel azul à esquerda e a foto autorizada de um profissional da IMAGEM 2 à direita. Use fundo escuro, texto branco e faixa laranja larga no terço inferior. Destaque quantidade de parcelas e valor, com condições legíveis abaixo. Inclua título, duração, lista de áreas e CTA no rodapé. Só apresente reconhecimento institucional se comprovado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2139086963665289",
+    "anunciante": "Sedis: Polo Autorizado Unicorp Faculdades",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-09",
+    "dias_no_ar": 158,
+    "variacoes_ativas": 1,
+    "texto_original": "Curso Técnico EAD com Certificado Reconhecido pelo MEC e válido em todo Brasil\n\n• Aulas, avaliações e provas feitas de forma 100% online\n• Certificado oficial pelo MEC/SISTEC\n• Formação rápida: 12 meses\n• Apenas 12x de R$59,90 no cartão de crédito\n\nSão mais de 50 opções: Todos ensino à distância e apenas 12x de R$59,90\n1. Área de Administração e Gestão\nTéc. em Qualidade\nTéc. em Eventos\nTéc. em Finanças\nTéc. em Seguros\nTéc. em Geoprocessamento\nTéc. em Publicidade\nTéc. em Administração\nTéc. em Logística\nTéc. em Contabilidade\nTéc. em Recursos Humanos\nTéc. em Marketing e Comunicação\nTéc. em Vendas\nTéc. em Secretaria Escolar\n \n \n2. Área de Engenharia e Manutenção / Manufatura\nTéc. em Eletromecânica\nTéc. em Manutenção de Máquinas Industriais\nTéc. em Máquinas Pesadas\nTéc. em Metalurgia\nTéc. em Refrigeração e Climatização\nTéc. em Manutenção de Máquinas Navais\nTéc. em Mecatrônica\nTéc. em Automotiva\nTéc. em Estradas\nTéc. em Petróleo e Gás\nTéc. em Segurança do Trabalho\nTéc. em Eletrotécnica\nTéc. em Mecânica Industrial\nTéc. em Automação Industrial\nTéc. em Eletrônica\n \n \n3. Área de Construção e Infraestrutura\nTéc. em Agrimensura\nTéc. em Mineração\nTéc. em Edificações (incluindo Desenho em Construção Civil / Desenho Técnico)\nTéc. em Prevenção e Combate a Incêndio\nTéc. em Trânsito\nTéc. em Defesa Civil\nTéc. em Saneamento\n \n \n4. Área do Meio Ambiente e Agropecuária\nTéc. em Agricultura\nTéc. em Agropecuária\nTéc. em Agroindústria\nTéc. em Aquicultura\nTéc. em Meio Ambiente\n \n \n5. Área de Serviços\nTéc. em Gastronomia\nTéc. em Óptica\nTéc. em Design de Interiores\nTéc. em Confeitaria\nTéc. em Optometria\nTéc. em Estética e Cosmetologia\nTéc. em Guia de Turismo\nTéc. em Transações Imobiliárias\nTéc. em Nutrição e Dietética\n \n \n6. Área de Tecnologia e Informática\nTéc. em Telecomunicações\nTéc. em Tradução e Interpretação de Libras\nTéc. em Design Gráfico\nTéc. em Biotecnologia\nTéc. em Inteligência Artificial\nTéc. em Sistemas de Energia Renovável\nTéc. em Informática\nTéc. em Informática para Internet\nTéc. em Redes de Computadores\nTéc. em Manutenção e Suporte para Informática\nTéc. em Programação de Jogos\nTéc. em Computação Gráfica\nTéc. em Desenvolvimento de Sistemas\n \n\n Matrículas grátis para os primeiros 100 alunos!\n Promoção por tempo LIMITADO. Comece 2026 estudando e termine com um certificado em mãos! \n\nClique em \"Enviar mensagem pelo Whatsapp\" e matricule-se agora! \nOu entre em contato: \n\n📲 WhatsApp: (31) 99769-4797\n💬 Mensagens: (31) 3235-5239\n📞 Ligações: 0800-591-6917\nWHATSAPP\nCursos Técnicos EAD por apenas R$59,90 e 12 meses de duração!\nMais de 50 opções válidas em todo Brasil!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2139086963665289.jpg"
+}

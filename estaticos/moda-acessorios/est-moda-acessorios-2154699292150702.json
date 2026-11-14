@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-2154699292150702",
+  "tipo": "estatico",
+  "titulo": "Camiseta manga longa com preço em selo amarelo",
+  "formato": "Oferta e promoção",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma pessoa veste uma camiseta preta de manga longa em enquadramento do pescoço ao quadril. Uma faixa amarela no topo, dois selos laterais e um selo de preço destacam condições comerciais.",
+  "por_que_funciona": [
+    "A camiseta vestida permite observar o caimento no tronco e nas mangas.",
+    "A peça preta ocupa quase toda a imagem, com poucas distrações no fundo cinza.",
+    "O selo amarelo com até R$99 torna a faixa de preço fácil de localizar.",
+    "As etiquetas de frete e devolução ficam junto ao produto e explicitam benefícios da compra."
+  ],
+  "quando_usar": "Para vender roupas com foto no corpo, preço de entrada ou limite de preço e condições comerciais claras.",
+  "estrutura_texto": "[Marca]\n[Chamada curta]\nFRETE GRÁTIS\nDEVOLUÇÃO [condição]\nATÉ R$[valor]",
+  "legenda": "Compre [peça] com [prazo de entrega] e [condições de devolução]. Confira [tamanhos], [cores] e [preço] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Mostre a roupa da IMAGEM 2 vestida, com enquadramento do pescoço ao quadril e fundo cinza claro. Preserve modelagem, cor e textura reais. Adicione faixa amarela superior para [marca] e [chamada], duas etiquetas à esquerda para [frete] e [devolução], e selo amarelo recortado à direita com [preço e qualificador]. Use letras escuras grandes no preço e somente condições fornecidas. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2154699292150702",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 24,
+    "texto_original": "Entrega rápida e devolução grátis em até 30 dias. Compre no Mercado Livre hoje!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-2154699292150702.jpg"
+}

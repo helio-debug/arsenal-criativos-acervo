@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1116359224126146",
+  "tipo": "estatico",
+  "titulo": "Seleção para diagnóstico sobre foto de escritório",
+  "formato": "novo:Story com chamada sobre foto",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de uma estante de escritório com blocos de texto sobrepostos. A chamada informa uma seleção para conversa individual e aponta para um adesivo de link.",
+  "por_que_funciona": [
+    "A foto de estante cria um contexto cotidiano de escritório.",
+    "O número de vagas em vermelho diferencia a seleção no bloco preto.",
+    "A explicação cita gargalos e oportunidades, tornando concreto o objetivo da conversa.",
+    "O adesivo branco de link fica separado do texto e facilita localizar o CTA."
+  ],
+  "quando_usar": "Para captar empresários interessados em uma conversa inicial de diagnóstico antes da contratação de mentoria.",
+  "estrutura_texto": "Vou selecionar [número] [público] para uma [conversa individual] com [equipe], para entender [momento do negócio], analisar [gargalos] e identificar [oportunidades].\nConte sobre [seu negócio] aqui:\n[CTA de link]",
+  "legenda": "[Programa] oferece acompanhamento para [público] que quer [objetivo]. Estamos selecionando [número real] participantes para uma conversa individual sobre [gargalos e oportunidades]. Conte sobre seu negócio em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 como fundo vertical de ambiente cotidiano, sem reproduzir a estante original. Sobreponha na região central um bloco preto com texto branco em negrito e destaque a quantidade de vagas em vermelho. Abaixo, acrescente uma faixa branca com instrução e um adesivo branco arredondado com ícone de link e CTA. Use apenas quantidade de vagas verdadeira.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1116359224126146",
+    "anunciante": "Tallis Gomes com G4 Business",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 3,
+    "texto_original": "O G4 Gestão e Estratégia é o programa de mentoria com fundadores para empresários que querem escalar a operação com método.\nAgora o G4 vai selecionar 100 empresários para uma call individual de negócios com o time, para entender o momento da sua empresa, olhar o que trava o crescimento e identificar onde estão as oportunidades de escalar. Conte sobre seu negócio no link.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1116359224126146.jpg",
+  "formato_novo_def": "Fotografia de ambiente ocupando toda a peça, com blocos de texto e adesivo de link sobrepostos no estilo de um story."
+}

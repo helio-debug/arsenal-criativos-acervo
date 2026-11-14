@@ -1,0 +1,87 @@
+{
+ "id": "vid-acolhimento-camera",
+ "tipo": "video",
+ "titulo": "Fala próxima: acolhe a dor, apresenta ajuda e convida ao contato",
+ "formato_video": "ugc-talking-head",
+ "nichos": [
+  "saude",
+  "relacionamento-desenvolvimento",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "fundo",
+ "duracao": "16s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Na hora de [tarefa], dá para pedir orientação.",
+  "texto_tela": "Orientação para [tarefa]",
+  "visual": "Rosto próximo à câmera, mãos entrando pela base do quadro e fundo claro; legenda branca sobre o peito."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano próximo, olhar na lente; mãos acompanham a primeira frase.",
+   "fala": "Na hora de [tarefa], dá para pedir orientação.",
+   "texto_tela": "Orientação para [tarefa]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Mantenha o quadro; aproxime as mãos e faça uma pausa curta.",
+   "fala": "Um espaço para conversar sobre [tema] pode ajudar no próximo passo.",
+   "texto_tela": "Converse sobre [tema]"
+  },
+  {
+   "tempo": "8-12s",
+   "cena": "Mesmo fundo e distância; diga o nome sem inserir cartela.",
+   "fala": "Em [produto], [profissional ou equipe] atende por [canal disponível].",
+   "texto_tela": "[Produto] • [canal]"
+  },
+  {
+   "tempo": "12-16s",
+   "cena": "Inclinação leve do rosto, sorriso discreto e mãos relaxadas.",
+   "fala": "Veja os horários em [canal de agendamento].",
+   "texto_tela": "Veja os horários"
+  }
+ ],
+ "por_que_funciona": [
+  "O rosto ocupa grande parte do quadro e o olhar segue a lente durante a fala.",
+  "As mãos aparecem junto ao peito e mudam de posição sem trocar de ambiente.",
+  "As legendas brancas divididas em frases ficam sobre a camisa, perto do rosto.",
+  "O convite final vem no mesmo enquadramento, acompanhado de sorriso e leve inclinação do rosto."
+ ],
+ "quando_usar": "Para serviços de orientação, acompanhamento e ensino que dependem de um primeiro contato. Use no fundo do funil para explicar a disponibilidade e indicar onde consultar horários.",
+ "roteiro_modelo": "Na hora de [tarefa], dá para pedir orientação.\n\n[Pausa curta / corte]\n\nUm espaço para conversar sobre [tema] pode ajudar no próximo passo.\n\n[Pausa curta / corte]\n\nEm [produto], [profissional ou equipe] atende por [canal disponível].\n\n[Pausa curta / corte]\n\nVeja os horários em [canal de agendamento].",
+ "tomadas_celular": [
+  "Abertura de 4s: plano próximo do peito para cima, celular na altura dos olhos e luz frontal de janela.",
+  "Explicação de 4s: mesmo plano, parede clara ao fundo, mãos visíveis e luz suave; pause antes da frase seguinte.",
+  "Apresentação de 4s: mantenha posição e luz; olhe na lente ao citar [produto] e [canal].",
+  "Convite de 4s: mesmo plano próximo e luz, incline levemente o rosto; segure o olhar no fim para facilitar a edição."
+ ],
+ "caminho_ia": "Use um avatar autorizado para toda a fala, com voz sintética em pt-BR e pausas curtas. No Runway, gere uma base visual: \"Vertical 9:16 close-up of a fictional adult presenter facing the camera, bright neutral interior, soft frontal window light, hands visible at chest level, locked camera, no text, no logos.\" Para a conclusão: \"Vertical 9:16 close-up of the same fictional adult presenter in the same bright room, subtle head tilt and gentle smile, relaxed hands, soft frontal light, locked camera, four seconds, no text.\" Preserve a identidade entre cenas e sincronize a fala no avatar. Adicione legendas no CapCut. Identifique a apresentação virtual quando necessário, sem fingir ser um profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato; adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 16s em quatro blocos de 4s: situação cotidiana sem diagnóstico do espectador, espaço de orientação, produto com modalidade de atendimento e convite para horários. Plano próximo contínuo, fundo claro, gestos pequenos, tom calmo e frases curtas. Legendas brancas por frase sobre o peito. Não copie rosto, cabelo, roupa, nomes ou frases da referência. Não presuma sofrimento nem prometa melhora clínica. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltarem dados. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não copie marcas, pessoas, contatos ou textos da referência. Não invente oferta, função ou resultado. Em saúde, não atribua condição pessoal ao espectador nem prometa resultado.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] oferece [tipo de orientação] por [canal]. Consulte [disponibilidade ou condições] e escolha um horário em [canal de agendamento].",
+ "alerta_politica": "Meta: não atribua ao espectador condição de saúde física ou mental; fale da situação e do serviço sem diagnóstico presumido. Sem antes/depois de corpo nem promessa de resultado de saúde. Em publicidade médica, siga a Resolução CFM 2.336/2023, com identificação profissional e sem garantia de resultado (https://publicidademedica.cfm.org.br/resolucao/o-que-muda). Para psicologia, respeite as regras do CFP e o sigilo. Se houver produto sujeito à ANVISA, use apenas alegações e indicações autorizadas.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-27409835",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-acolhimento-camera/frames/f1.jpg",
+    "videos/vid-acolhimento-camera/frames/f2.jpg",
+    "videos/vid-acolhimento-camera/frames/f3.jpg",
+    "videos/vid-acolhimento-camera/frames/f4.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-9a072d5a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

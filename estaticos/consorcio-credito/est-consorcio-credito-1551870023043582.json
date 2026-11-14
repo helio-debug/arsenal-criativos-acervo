@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1551870023043582",
+  "tipo": "estatico",
+  "titulo": "Cartas contempladas em tabela com cinco opções",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com título branco grande, tabela de quatro colunas e cabeçalhos vermelhos. Abaixo das cinco opções, há uma frase sobre usos do crédito e o recorte de uma casa.",
+  "por_que_funciona": [
+    "O título em duas linhas identifica a modalidade antes dos números.",
+    "A tabela mostra entrada, prazo e parcela junto do valor de cada carta.",
+    "O recorte da casa no rodapé associa a oferta ao objetivo imobiliário."
+  ],
+  "quando_usar": "Para apresentar estoque verificável de cartas contempladas a interessados em comparar entrada e saldo parcelado.",
+  "estrutura_texto": "[MARCA]\nCARTAS CONTEMPLADAS\nCRÉDITO | ENTRADA | PRAZO | PARCELA\nR$ [CRÉDITO] | R$ [ENTRADA] | [PRAZO] | R$ [PARCELA]\n[USOS PERMITIDOS DO CRÉDITO]. Consulte a disponibilidade.",
+  "legenda": "Consulte cartas contempladas para [finalidade permitida]. Compare crédito, entrada, saldo e prazo nas opções disponíveis. Preencha [formulário] para verificar disponibilidade, custos e requisitos de transferência e liberação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, marca própria pequena no topo e título branco grande em duas linhas. Monte tabela com quatro colunas, cinco linhas, cabeçalhos vermelhos e divisórias brancas finas. Abaixo, coloque frase de usos permitidos e consulta de disponibilidade. Recorte a casa da IMAGEM 2 e encaixe-a na base. Use apenas cartas e condições verificadas e mantenha todos os números legíveis.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma. Comprovar contemplação e disponibilidade; transferência e uso do crédito dependem das regras e aprovação da administradora. Não prometer liberação imediata nem capital de giro sem respaldo contratual.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1551870023043582",
+    "anunciante": "Nilmar da Silva Consórcio e Cartas Contempladas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 1,
+    "texto_original": "💰 Carta Contemplada disponível\n\nAdquira imóvel, veículo ou capital de giro com poder de compra imediato, sem pagar juros de financiamento.\n\nUma solução estratégica para quem quer investir, expandir ou conquistar um patrimônio com planejamento.\n\n✔️ Parcelas organizadas\n✔️ Crédito liberado para aquisição\n✔️ Ideal para quem possui renda estruturada\n\n📩 Responda esse pequeno formulário e veja as opções disponíveis. Logo entraremos em contato!\n\n📲 Faça uma simulação e veja se faz sentido para o seu perfil.\nCartas Contempladas!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1551870023043582.jpg"
+}

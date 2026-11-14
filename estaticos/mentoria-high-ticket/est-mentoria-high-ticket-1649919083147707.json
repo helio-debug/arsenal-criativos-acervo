@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1649919083147707",
+  "tipo": "estatico",
+  "titulo": "Desejo de crescimento sobre retrato editorial",
+  "formato": "novo:Retrato com chamada editorial",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Retrato de uma mulher sentada em uma poltrona diante de uma biblioteca. A chamada em serifada branca ocupa a metade inferior, acompanhada de selos verdes e uma frase manuscrita.",
+  "por_que_funciona": [
+    "O retrato em ambiente de biblioteca dá contexto à figura da mentora.",
+    "A tipografia serifada em grande tamanho concentra a atenção no benefício anunciado.",
+    "As palavras em itálico criam ênfase dentro da chamada.",
+    "A frase manuscrita no selo inferior deixa uma abertura para conhecer a proposta."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de negócios orientada a autonomia e crescimento, antes de detalhar o programa.",
+  "estrutura_texto": "[Convite ao público]\n[Benefício de crescimento] sem abrir mão de [prioridade pessoal].\n[Nome] | [Papel profissional]\nConheça [caminho proposto].",
+  "legenda": "Cada fase de um negócio pede um tipo de acompanhamento. Em [programa], você encontra apoio para [questão de gestão], [liderança] ou [desenvolvimento da empresa], conforme seu momento. Conheça [opções de acompanhamento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a pessoa ou elemento principal da IMAGEM 2 em retrato editorial ocupando o fundo, com ambiente acolhedor e tons quentes. Sobreponha na metade inferior uma chamada branca em fonte serifada grande, com itálico em palavras-chave. Acrescente selo oval verde no início e etiqueta verde com texto manuscrito no canto inferior direito. Mantenha legibilidade sobre a foto e use nome e identidade próprios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1649919083147707",
+    "anunciante": "Juliana Blumer Mentoria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "Mulher, nem toda empresária precisa da mesma ajuda no mesmo momento.\n\nÀs vezes, você precisa entender onde está o ponto que merece sua atenção agora. Em outros momentos, precisa de alguém ao seu lado para resolver uma questão específica. E chega uma fase em que o crescimento pede uma mudança mais profunda na forma como você se gere, lidera pessoas e conduz o negócio.\n\nFoi por isso que eu construí diferentes caminhos dentro do 3G Academy.\n\nO destino, no entanto, é o mesmo: uma empresa que possa crescer, faturar mais e depender menos de você para tudo.\n\nEu acredito em ambição. Gosto de crescer, trabalhar, criar e construir coisas novas. O que eu não acredito é que mais dinheiro precise significar menos vida.\n\nSe você quer crescer sem abrir mão da sua liberdade, comenta 3G. Eu te ajudo a entender qual desses caminhos faz mais sentido para o momento que você está vivendo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1649919083147707.jpg",
+  "formato_novo_def": "Retrato fotográfico em tela cheia com chamada tipográfica de estilo editorial sobreposta e pequenos selos de apoio."
+}

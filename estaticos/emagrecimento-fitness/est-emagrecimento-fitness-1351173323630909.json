@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-1351173323630909",
+  "tipo": "estatico",
+  "titulo": "Aplicativo de treino com acesso por benefício",
+  "formato": "Produto em destaque",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de um homem com roupa esportiva olhando o relógio. Um degradê escuro sustenta a chamada do aplicativo, os recursos e um botão de acesso na metade inferior.",
+  "por_que_funciona": [
+    "O gesto de olhar o relógio conecta o treino à rotina.",
+    "A chamada branca grande explica o vínculo entre aplicativo e benefício.",
+    "O texto reúne aulas, programas e acompanhamento em um bloco curto.",
+    "O botão contornado destaca o caminho de acesso."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de exercícios a pessoas que já possuem acesso por uma plataforma de benefícios.",
+  "estrutura_texto": "[Logo]\nUse o [aplicativo] com o [benefício]\nTreine com a qualidade [credencial] onde estiver. [Recursos disponíveis]\nAcesse pelo [benefício]",
+  "legenda": "Com [aplicativo] no [benefício], você tem acesso a [aulas], [programas] e [acompanhamento online]. Acesse pelo [canal] e conheça as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto esportiva em tela cheia, com pessoa olhando um relógio, título branco na metade inferior, degradê verde escuro, bloco curto de recursos e botão contornado na base. Preserve a legibilidade sobre a foto. Escreva em pt-BR, adaptando o texto aos dados de MEU PRODUTO, sem inventar benefícios, credenciais ou condições comerciais.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ou insatisfação corporal ao público e prometer resultados garantidos. Benefícios de treino devem ser apresentados com contexto, sem garantia de emagrecimento ou alívio de dores.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1351173323630909",
+    "anunciante": "BTFIT",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 5,
+    "texto_original": "Com o aplicativo BTFIT no Wellhub, você treina com a qualidade Bodytech onde estiver 💪📱\nAulas ao vivo e gravadas, programas completos e personal online.\n\nAcesse pelo Wellhub e comece agora!\nBTFIT no Wellhub",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-1351173323630909.jpg"
+}

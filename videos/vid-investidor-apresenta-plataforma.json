@@ -1,0 +1,95 @@
+{
+ "id": "vid-investidor-apresenta-plataforma",
+ "titulo": "Investidor abre no carro e passa a cartelas de aplicações e economia",
+ "formato_video": "motion-texto",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "investimentos"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "50-55s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentador de roupa social dentro de carro parado; cartão de interface no alto e legenda branca junto ao rosto.",
+   "fala": "Eu acompanho [produto] como [vínculo verdadeiro]. Hoje vou mostrar onde ele entra na rotina de [público] e o que dá para conferir antes de contratar.",
+   "texto_tela": "[Vínculo verdadeiro] com [produto]"
+  },
+  {
+   "tempo": "8-16s",
+   "cena": "Rosto dá lugar a fundo preto com nome do produto em letras espaçadas e brilho verde discreto.",
+   "fala": "[Produto] é [categoria]. Ele serve para [tarefa principal], com [recurso verificável]. O uso começa por [primeiro passo].",
+   "texto_tela": "[Produto] | [categoria]"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Cartões inclinados em coluna, cada um com ícone de uma aplicação. A locução acompanha a leitura.",
+   "fala": "Em [situação A], você usa [aplicação A]. Para [situação B], entra [aplicação B]. Escolha a aplicação que corresponde ao que você precisa fazer agora.",
+   "texto_tela": "[Aplicação A]\n[Aplicação B]"
+  },
+  {
+   "tempo": "27-37s",
+   "cena": "Cartela central branca destaca uma consequência operacional, sobre fundo escuro com halo verde.",
+   "fala": "O ponto que eu verificaria é [critério de comparação]. Confira [evidência disponível] e as condições do teste. Assim você compara com a sua rotina usando o mesmo critério.",
+   "texto_tela": "Confira [critério]"
+  },
+  {
+   "tempo": "37-46s",
+   "cena": "Ícones verdes reaparecem em tamanhos diferentes; pequeno painel informa condição de uso.",
+   "fala": "Para usar, você precisa de [requisito]. Veja também [limitação relevante]. Se fizer sentido, comece por [uso inicial] e acompanhe [indicador].",
+   "texto_tela": "[Requisito] para começar"
+  },
+  {
+   "tempo": "46-54s",
+   "cena": "Cartela final com ícones luminosos e convite branco no centro.",
+   "fala": "Toque em Saiba mais para ver [demonstração ou apresentação]. Lá estão [condições disponíveis] e o caminho para avaliar [produto] com calma.",
+   "texto_tela": "Saiba mais: [próximo passo]"
+  }
+ ],
+ "hook": {
+  "falado": "Eu acompanho [produto] como [vínculo verdadeiro]. Hoje vou mostrar onde ele entra na rotina de [público] e o que dá para conferir antes de contratar.",
+  "texto_tela": "[Vínculo verdadeiro] com [produto]",
+  "visual": "Apresentador de roupa social dentro de carro parado; cartão de interface no alto e legenda branca junto ao rosto."
+ },
+ "por_que_funciona": [
+  "O início no carro com roupa social apresenta uma pessoa e um vínculo antes das cartelas comerciais.",
+  "A tela deixa o rosto e passa ao preto com letras espaçadas, separando apresentação e explicação do produto.",
+  "Os cartões de aplicações combinam ícone e nome, permitindo acompanhar os usos mesmo sem ouvir a locução.",
+  "O convite final fica entre ícones verdes repetidos, mantendo a identidade das cartelas até a ação."
+ ],
+ "quando_usar": "Para produtos com várias aplicações e um porta-voz com vínculo real que possa ser declarado. Use no meio do funil para levar o público a uma apresentação mais detalhada.",
+ "roteiro_modelo": "Eu acompanho [produto] como [vínculo verdadeiro]. Hoje vou mostrar onde ele entra na rotina de [público] e o que dá para conferir antes de contratar.\n\n[CORTE / PAUSA]\n\n[Produto] é [categoria]. Ele serve para [tarefa principal], com [recurso verificável]. O uso começa por [primeiro passo].\n\n[CORTE / PAUSA]\n\nEm [situação A], você usa [aplicação A]. Para [situação B], entra [aplicação B]. Escolha a aplicação que corresponde ao que você precisa fazer agora.\n\n[CORTE / PAUSA]\n\nO ponto que eu verificaria é [critério de comparação]. Confira [evidência disponível] e as condições do teste. Assim você compara com a sua rotina usando o mesmo critério.\n\n[CORTE / PAUSA]\n\nPara usar, você precisa de [requisito]. Veja também [limitação relevante]. Se fizer sentido, comece por [uso inicial] e acompanhe [indicador].\n\n[CORTE / PAUSA]\n\nToque em Saiba mais para ver [demonstração ou apresentação]. Lá estão [condições disponíveis] e o caminho para avaliar [produto] com calma.",
+ "tomadas_celular": [
+  "Grave em carro estacionado, plano próximo vertical, luz difusa da janela e motor desligado, 8s.",
+  "Filme uma ficha do produto sem dados pessoais, plano de detalhe, luz lateral suave, 8s.",
+  "Grave objetos que representem duas aplicações, câmera fixa e luz de janela, 11s.",
+  "Grave um detalhe do recurso em funcionamento, foco travado e luz uniforme, 10s.",
+  "Filme mãos preparando o primeiro uso, plano fechado e luz frontal, 9s.",
+  "Filme o produto em fundo escuro, plano fixo com luz lateral, 8s; sobreponha o convite na edição."
+ ],
+ "caminho_ia": "Use Sora para uma abertura ilustrativa e avatar com voz sintética para a fala; não simule endosso de pessoa real. Faça as cartelas no CapCut com ícones próprios. Prompt 1: \"Vertical 9:16 close-up of a fictional business presenter seated in a parked car, soft daylight from side window, eye-level smartphone lens, subtle hand gesture, clear upper space for [product] overlay, vehicle stationary, no logos.\" Prompt 2: \"Vertical 9:16 abstract product presentation background, black surface with restrained green rim glow, floating blank beveled cards for [product applications], slow parallax camera move, high contrast, no text or logos.\" Insira texto e condições manualmente, mantendo a mesma voz entre abertura e cartelas.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao meu produto com os dados abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 54s em 6 blocos: 0-8, 8-16, 16-27, 27-37, 37-46 e 46-54s. Comece com porta-voz no carro parado, vínculo real declarado e tela ilustrativa acima. Passe a cartelas pretas com brilho verde, nome do produto, aplicações em coluna, critério de avaliação, requisitos e CTA. Tom seguro e factual. Uma ideia por cartela, leitura de 3 a 5s, locução contínua. Não use crescimento empresarial como promessa ao comprador. Para investimento, adapte as aplicações à avaliação do produto financeiro e informe riscos; não prometa retorno. Não copie pessoas, marcas, interfaces, números, depoimentos ou frases da referência. Use somente dados comprováveis do meu produto. Não invente experiência de uso, vínculo de investidor ou resultado. Escreva em pt-BR falado, com frases curtas e campos [entre colchetes] para dados ausentes. Evite superlativos, perguntas de enfeite e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] pode ser usado em [aplicação A] e [aplicação B]. Veja [demonstração] e confira [condição relevante] antes de decidir. [CTA].",
+ "alerta_politica": "Para investimentos, não prometa retorno nem ausência de risco. A Resolução CVM 175 exige, na divulgação de rentabilidade de fundos, aviso de que desempenho passado não garante resultados futuros; use dados e advertências aplicáveis ao produto. Declare o vínculo real do porta-voz. Para crédito ou serviço bancário, cumpra as regras do Banco Central e apresente custos e condições, inclusive CET quando aplicável. Fonte CVM: https://conteudo.cvm.gov.br/cvm_institucional/export/sites/cvm/legislacao/resolucoes/anexos/100/resol175consolid.pdf",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a2eb6d04",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-investidor-apresenta-plataforma/frames/f1.jpg",
+    "videos/vid-investidor-apresenta-plataforma/frames/f2.jpg",
+    "videos/vid-investidor-apresenta-plataforma/frames/f3.jpg",
+    "videos/vid-investidor-apresenta-plataforma/frames/f4.jpg",
+    "videos/vid-investidor-apresenta-plataforma/frames/f5.jpg"
+   ]
+  }
+ ]
+}

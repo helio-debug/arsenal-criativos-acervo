@@ -1,0 +1,95 @@
+{
+ "id": "vid-mascote-pixel-card-que-muda-por-palavra",
+ "titulo": "Card que troca a cada palavra com mascote animado em telas cheias",
+ "formato_video": "mascote-animado",
+ "nichos": [
+  "ia-ferramentas",
+  "infoproduto-cursos",
+  "renda-extra",
+  "infantil-maternidade"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Mascote original em tela cheia, fundo azul em degradê, segurando objeto ligado ao problema; título grande no alto.",
+   "fala": "[Tarefa concreta] ficou parada em [obstáculo]. Comece por [ação simples].",
+   "texto_tela": "[TAREFA] PARADA"
+  },
+  {
+   "tempo": "4-7s",
+   "cena": "Card superior recebe um elemento por palavra importante; figurinha recortada do comprador embaixo e legenda em pílula.",
+   "fala": "Curte esse vídeo. Vou mostrar [passo específico].",
+   "texto_tela": "[PASSO]"
+  },
+  {
+   "tempo": "7-13s",
+   "cena": "Card mostra imagem real do produto e objeto que representa a primeira ação; figurinha muda de pose.",
+   "fala": "Abra [produto ou material] e separe [item necessário]. Faça [primeira ação].",
+   "texto_tela": "[PRIMEIRA AÇÃO]"
+  },
+  {
+   "tempo": "13-19s",
+   "cena": "Tela cheia: mascote pixel move um item entre duas áreas e encena a segunda ação.",
+   "fala": "Agora [segunda ação]. Confira [critério] antes de seguir.",
+   "texto_tela": "CONFIRA [CRITÉRIO]"
+  },
+  {
+   "tempo": "19-24s",
+   "cena": "Retorno ao card; recorte do entregável ocupa o topo, figurinha aponta para ele.",
+   "fala": "O [material gratuito] traz [conteúdo concreto] pra consultar nessa etapa.",
+   "texto_tela": "[MATERIAL GRATUITO]"
+  },
+  {
+   "tempo": "24-30s",
+   "cena": "Cartela clara com botão ilustrado e palavra-chave; mascote pequeno ao lado do entregável.",
+   "fala": "Comente [palavra-chave] pra receber [material gratuito]. [Condição curta de acesso].",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "hook": {
+  "falado": "[Tarefa concreta] ficou parada em [obstáculo]. Comece por [ação simples].",
+  "texto_tela": "[TAREFA] PARADA",
+  "visual": "Mascote original em tela cheia, fundo azul em degradê, segurando objeto ligado ao problema; título grande no alto."
+ },
+ "por_que_funciona": [
+  "O mascote central segura um celular, ligando o personagem ao objeto apresentado no anúncio.",
+  "O título preto grande ocupa o topo sobre fundo azul claro e permanece legível nos dois primeiros frames.",
+  "O selo inclinado aparece ao lado do personagem no segundo frame, adicionando informação sem trocar toda a composição.",
+  "A última imagem troca o personagem grande por uma cartela clara com botão, concentrando a atenção na ação final."
+ ],
+ "quando_usar": "Para apresentar uma tarefa curta e oferecer um material gratuito com apoio visual de mascote. Serve no topo do funil; em conteúdo infantil, direcione o convite ao adulto responsável.",
+ "roteiro_modelo": "[Tarefa concreta] ficou parada em [obstáculo]. Comece por [ação simples].\n\n[pausa curta; corte]\n\nCurte esse vídeo. Vou mostrar [passo específico].\n\n[pausa curta; corte]\n\nAbra [produto ou material] e separe [item necessário]. Faça [primeira ação].\n\n[pausa curta; corte]\n\nAgora [segunda ação]. Confira [critério] antes de seguir.\n\n[pausa curta; corte]\n\nO [material gratuito] traz [conteúdo concreto] pra consultar nessa etapa.\n\n[pausa curta; corte]\n\nComente [palavra-chave] pra receber [material gratuito]. [Condição curta de acesso].",
+ "tomadas_celular": [
+  "Foto vertical de corpo ou meio corpo contra parede lisa, luz de janela frontal, pose neutra por 3s para extrair uma figurinha.",
+  "Mesma câmera e luz, pose apontando para cima por 3s.",
+  "Mesma câmera e luz, pose de conferência segurando um objeto do produto por 3s.",
+  "Close vertical do produto ou material sobre mesa, luz lateral difusa, 6s.",
+  "Plano de cima das mãos executando a primeira ação, janela lateral e câmera apoiada, 6s.",
+  "Close da capa do material gratuito sem dados pessoais, luz suave e enquadramento firme, 5s."
+ ],
+ "caminho_ia": "Faça tudo no CapCut com slideshow de imagens geradas, mascote original consistente e voz sintética ou voz clonada com autorização. Use Kling ou Runway para animar ações curtas do mascote, reservando texto para a edição. Prompt 1: \"Vertical 9:16, original pixel-art mascot holding [product-related object], blue gradient background, full-body centered composition, room for headline above, subtle anticipation and bounce, crisp pixel edges, no text, 4 seconds.\" Prompt 2: \"Vertical 9:16, same original pixel-art mascot moving [task item] from pending tray to completed tray, clear readable action, fixed camera, flat studio lighting, no logos or text, 6 seconds.\" Sincronize entradas dos elementos às palavras importantes; alterne card com figurinhas e telas cheias. Não clone o personagem da referência.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 30s, com mascote pixel original em telas cheias encenando o problema e uma ação. Intercale card superior com um elemento entrando por palavra importante, fotos recortadas minhas alternando pose embaixo e legenda em pílula de 1 a 3 palavras. Abra numa tarefa concreta, inclua “Curte esse vídeo” após o gancho, mostre dois passos, apresente o material gratuito e peça palavra-chave. Atualize o estímulo a cada 1 a 2s, sem manter cena parada por mais de 3s. Os frames têm mascote 3D e cartela final; pixel, figurinhas e cards são a adaptação do formato. Não copie personagem, marcas, avaliação, desconto nem promessa de liderança da referência. Não invente prova ou ganhos. Se o público envolver crianças, fale com o adulto responsável. Escreva em pt-BR falado, com frases curtas e campos [adaptáveis]. Evite antítese vazia, perguntas decorativas, superlativos sem prova e promessas não comprovadas. Use só os dados fornecidos do meu produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Pra fazer [tarefa], comece por [primeira ação]. Depois confira [critério]. O [material gratuito] inclui [conteúdo útil]. Comente [palavra-chave] para receber [forma de entrega e condição].",
+ "alerta_politica": "Para renda extra, não garanta ganhos nem apresente resultado excepcional como típico. Informe esforço, custos, condições e resultados típicos comprovados quando citar ganhos; cumpra os termos da Meta para oportunidades de negócio e evite alegações sobre a situação financeira pessoal. Se houver público infantil, dirija a oferta ao adulto responsável.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ca6d887d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-mascote-pixel-card-que-muda-por-palavra/frames/f1.jpg",
+    "videos/vid-mascote-pixel-card-que-muda-por-palavra/frames/f2.jpg",
+    "videos/vid-mascote-pixel-card-que-muda-por-palavra/frames/f3.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

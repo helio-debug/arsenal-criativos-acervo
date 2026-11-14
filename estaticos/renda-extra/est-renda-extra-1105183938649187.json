@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1105183938649187",
+  "tipo": "estatico",
+  "titulo": "Convite para trabalhar em aplicativo com aparência de e-mail",
+  "formato": "Print de tela",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "A peça simula uma mensagem de e-mail em fundo branco, com remetente, assunto e saudação. O corpo reúne benefícios em uma lista com marcadores verdes e encerra com cadastro em negrito.",
+  "por_que_funciona": [
+    "O cabeçalho de e-mail cria uma leitura familiar de mensagem recebida.",
+    "Os marcadores verdes dividem as possibilidades de trabalho.",
+    "Trechos em negrito destacam requisitos, repasses e cadastro.",
+    "O texto final com seta concentra a ação de registro."
+  ],
+  "quando_usar": "Explicar condições de entrada em uma plataforma de trabalho a pessoas que já consideram se cadastrar.",
+  "estrutura_texto": "[Nova mensagem]\nDe: [plataforma]\nAssunto: [convite para conhecer a atividade]\nOlá,\n[Contexto e oportunidade]\nCom [plataforma], você pode:\n✅ [Requisito de entrada]\n✅ [Condição de repasse]\n✅ [Alternativa de recurso necessário]\n✅ [Modalidade disponível]\n[Recursos de apoio e segurança]\n➡️ [CTA de cadastro]\n[Termos aplicáveis]",
+  "legenda": "Conheça as oportunidades de [atividade] em [plataforma], disponíveis em [região]. Confira requisitos, modalidades e condições de repasse. Cadastre-se em [canal]. [Condições e disponibilidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a organização visual de uma janela de composição de e-mail: barra preta superior, corpo branco, linhas de remetente e assunto, saudação e parágrafos pretos. Use quatro marcadores verdes, negrito nos pontos centrais e seta azul no CTA final. Adapte a IMAGEM 2 à identificação própria do serviço, mantendo a peça predominantemente textual. Inclua termos legíveis e não invente interface oficial de terceiros.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1105183938649187",
+    "anunciante": "Uber",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 3,
+    "texto_original": "Tenha mais oportunidades de ganhos com Uber Moto e Flash Moto *onde disponível. Cadastre-se agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1105183938649187.jpg"
+}

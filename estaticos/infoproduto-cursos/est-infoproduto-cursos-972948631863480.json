@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-972948631863480",
+  "tipo": "estatico",
+  "titulo": "Experiência prática de quem ensina",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Dois profissionais de capacete consultam um tablet em uma fábrica. A metade esquerda recebe fundo azul escuro, pergunta branca com destaque laranja e convite para conhecer a instituição responsável pela formação.",
+  "por_que_funciona": [
+    "Os profissionais usando um tablet mostram uma situação de análise dentro da operação.",
+    "O trecho laranja “vive a melhoria na prática” enfatiza a experiência aplicada de quem ensina.",
+    "O convite para conhecer a instituição abre espaço para apresentar credenciais do programa."
+  ],
+  "quando_usar": "Para aprofundar a confiança em uma formação, mostrando a experiência prática dos responsáveis pelo ensino.",
+  "estrutura_texto": "Quer aprender [TEMA] com quem vive [PRÁTICA] no dia a dia?\nConheça a instituição por trás de [PROGRAMA].",
+  "legenda": "Conheça a experiência de quem conduz [programa]. A formação combina [bagagem da instituição], [conexões relevantes] e acompanhamento em [projeto real]. Veja como funciona a orientação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho com foto industrial à direita de pessoas analisando um tablet. Aplique degradê escuro à esquerda para pergunta branca, destacando em laranja o trecho sobre experiência prática. Adicione explicação menor, seta circular e ondas laranja discretas na base. Represente somente credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "972948631863480",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Aprender uma metodologia de gestão envolve conhecer a bagagem e a credibilidade de quem orienta o seu aprendizado.\n\nO Programa Prático de Formação Lean Indústria une a experiência do Lean Institute Brasil, sua conexão global com a Lean Global Network e o acompanhamento individualizado em um projeto real da sua fábrica.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-972948631863480.jpg"
+}

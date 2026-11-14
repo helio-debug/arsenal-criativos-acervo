@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1106181009255267",
+  "tipo": "estatico",
+  "titulo": "Vitrine de cursos de doces em interface de streaming",
+  "formato": "Print de tela",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "A arte simula uma tela de catálogo de streaming com fundo preto, destaques vermelhos e um pudim como imagem principal. Quatro capas de cursos aparecem abaixo da oferta de acesso ao conjunto.",
+  "por_que_funciona": [
+    "O pudim grande dá destaque imediato ao resultado culinário.",
+    "O preço em vermelho diferencia a oferta do restante do título.",
+    "As quatro capas tornam visível a variedade de cursos incluídos.",
+    "Os botões e a seção de destaques organizam a peça como um catálogo navegável."
+  ],
+  "quando_usar": "Para vender um pacote de cursos culinários, mostrando variedade e condições de acesso em uma única peça.",
+  "estrutura_texto": "Comece do [nível]\nVários [cursos] por [preço]\n[Objetivo do aprendizado]\n[Assistir agora]\nDestaques: [curso 1], [curso 2], [curso 3], [curso 4]\n[Acesso] + [itens inclusos]",
+  "legenda": "Conheça o pacote de [cursos e materiais] sobre [especialidade]. Aprenda [técnicas] com [formato das aulas] e consulte os conteúdos incluídos. Acesso por [preço e condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma interface fictícia de catálogo de vídeos com identidade original, fundo preto e detalhes vermelhos. Coloque título e preço no alto à esquerda, uma foto apetitosa do produto à direita e dois botões abaixo da chamada. Organize quatro capas verticais de cursos na metade inferior, com títulos legíveis e fotos próprias. Finalize com uma linha de itens inclusos. Não use o logotipo nem a identidade reconhecível de serviços de streaming.",
+  "alerta_politica": "Meta: evitar promessas de faturamento diário ou lucro garantido. Apresentar o aprendizado e as condições reais do pacote, sem sugerir renda certa para os alunos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1106181009255267",
+    "anunciante": "Thayná Oliveira Doceria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-04",
+    "dias_no_ar": 133,
+    "variacoes_ativas": 2,
+    "texto_original": "✨ Conheça nossos cursos e apostilas que já estão ajudando milhares de alunos a faturarem todos os dias na confeitaria!\n\nSe você sempre quis começar a vender doces, ter uma renda extra ou até transformar a cozinha da sua casa em um negócio lucrativo, aqui você encontra o caminho.\n\nNossos cursos e apostilas foram criados para ensinar receitas completas, práticas e lucrativas, com passo a passo detalhado, técnicas profissionais e dicas que facilitam mesmo para quem está começando do zero. 👩🏻🍳🍮\n\nSão diversos conteúdos pensados para quem quer produzir doces bonitos, saborosos e com alto potencial de venda, sem precisar de grandes investimentos.\n\n📚 Apostilas completas\n🎥 Vídeo aulas práticas\n💡 Dicas de produção, organização e vendas\n🚀 Conteúdos feitos para quem quer começar de verdade\n\nTudo isso com acesso imediato, para você aprender no seu tempo e começar a produzir ainda hoje.\n\n👉🏽 Clique no link e conheça todos os nossos cursos e apostilas disponíveis agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1106181009255267.jpg"
+}

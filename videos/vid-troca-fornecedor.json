@@ -1,0 +1,80 @@
+{
+ "id": "vid-troca-fornecedor",
+ "titulo": "Depoimento em evento: problema com fornecedor anterior e melhora após troca",
+ "formato_video": "depoimento",
+ "nichos": [
+  "saas-b2b",
+  "servicos-locais",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "16-20s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Entrevistado em plano médio em evento, crachá genérico, pessoas desfocadas ao fundo e luz ambiente azulada; tarja azul de cargo.",
+   "fala": "A gente usava [solução anterior genérica] para [tarefa]. O problema era [atrito concreto].",
+   "texto_tela": "[CARGO] • [SEGMENTO]"
+  },
+  {
+   "tempo": "5-9s",
+   "cena": "Mesmo plano, mãos gesticulando; legenda branca inferior acompanha uma frase por vez.",
+   "fala": "Para concluir [etapa], precisávamos [retrabalho observável].",
+   "texto_tela": "[RETRABALHO EM POUCAS PALAVRAS]"
+  },
+  {
+   "tempo": "9-16s",
+   "cena": "Corte para close do rosto, fundo de painéis verticais e luz ambiente lateral.",
+   "fala": "Depois da troca para [solução], passamos a [mudança observada]. Isso ajudou em [efeito verificado na rotina].",
+   "texto_tela": "[MUDANÇA OBSERVADA]"
+  },
+  {
+   "tempo": "16-20s",
+   "cena": "Cartela azul-escura com identificação adaptável central; frase final em voz sobre a cartela.",
+   "fala": "Esse foi o ganho que percebemos em [processo].",
+   "texto_tela": "[PRODUTO] • [CATEGORIA]"
+  }
+ ],
+ "hook": {
+  "falado": "A gente usava [solução anterior genérica] para [tarefa]. O problema era [atrito concreto].",
+  "texto_tela": "[CARGO] • [SEGMENTO]",
+  "visual": "Entrevistado em plano médio em evento, crachá genérico, pessoas desfocadas ao fundo e luz ambiente azulada; tarja azul de cargo."
+ },
+ "por_que_funciona": [
+  "O crachá, os estandes e as pessoas ao fundo situam o relato em um evento.",
+  "O entrevistado gesticula enquanto descreve o trabalho anterior, com legendas brancas curtas na parte inferior.",
+  "O corte do plano médio para o close coincide com a fala sobre a mudança de solução.",
+  "A cartela azul-escura fecha o relato com uma pausa visual após o ambiente movimentado."
+ ],
+ "quando_usar": "Para soluções que substituem uma ferramenta ou fornecedor já usado pelo comprador. Use na consideração, com relato real e uma mudança operacional específica que o cliente possa confirmar.",
+ "roteiro_modelo": "A gente usava [solução anterior genérica] para [tarefa]. O problema era [atrito concreto].\n\n[pausa curta / corte]\n\nPara concluir [etapa], precisávamos [retrabalho observável].\n\n[pausa curta / corte]\n\nDepois da troca para [solução], passamos a [mudança observada]. Isso ajudou em [efeito verificado na rotina].\n\n[pausa curta / corte]\n\nEsse foi o ganho que percebemos em [processo].",
+ "tomadas_celular": [
+  "Grave 5s em plano médio, celular na altura dos olhos, entrevistador ao lado da lente, luz de frente de um estande e crachá sem dados expostos.",
+  "Grave 4s sobre o retrabalho no mesmo plano e luz; inclua as mãos e mantenha circulação desfocada ao fundo.",
+  "Aproxime o celular para close e grave 7s sobre a mudança, com luz ambiente lateral suave e rosto bem exposto.",
+  "Grave 4s de plano fixo de um painel liso, sob luz uniforme, para receber a cartela final no editor."
+ ],
+ "caminho_ia": "No Kling, gere \"Vertical 9:16 medium shot of a fictional business presenter at a trade fair, generic badge with no writing, blurred moving attendees, blue ambient lighting with soft frontal fill, handheld documentary camera, context [produto], no logos\" e \"Vertical 9:16 tight close-up of the same fictional presenter, vertical exhibition panels in background, soft lateral light, natural gestures, shallow depth of field, no logos, no text\". Use avatar e voz sintética para uma demonstração identificada como encenação; adapte a fala para apresentar um caso documentado em terceira pessoa. Se houver depoimento real autorizado, use seu áudio com permissão e imagens de apoio identificadas como ilustrativas. Faça legendas e cartela no CapCut; não invente cliente ou experiência de troca.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao meu produto usando os dados abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 20s em quatro blocos: 0-5 contexto da solução anterior e atrito; 5-9 retrabalho concreto; 9-16 troca e efeito observado, com corte para close; 16-20 síntese sobre cartela azul-escura. Tom de conversa em evento, gestos naturais, legendas brancas inferiores e tarja azul com cargo autorizado. Não nomeie nem ataque concorrentes. Não copie a expressão de crescimento da referência; descreva uma melhoria verificável. Não invente depoente, cargo ou histórico; se for encenação, identifique e use terceira pessoa. Não copie rostos, nomes, marcas, logotipos, clientes, interfaces nem falas da referência. Use apenas dados comprovados do meu produto; mantenha campos entre colchetes se faltar informação. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias ou perguntas de enfeite. Entregue um roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa] exigia [retrabalho]. Depois de adotar [solução], [cliente autorizado ou perfil] passou a [mudança observada]. Veja como funciona em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-72ccb7fc",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-troca-fornecedor/frames/f1.jpg",
+    "videos/vid-troca-fornecedor/frames/f2.jpg",
+    "videos/vid-troca-fornecedor/frames/f3.jpg",
+    "videos/vid-troca-fornecedor/frames/f4.jpg"
+   ]
+  }
+ ]
+}

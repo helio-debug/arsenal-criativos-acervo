@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-2445141829559608",
+  "tipo": "estatico",
+  "titulo": "Abertura de vagas de pós com dois docentes",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Dois docentes aparecem na metade superior de uma peça azul petróleo com detalhes moleculares. O nome da especialidade e a data de abertura das vagas ocupam o centro, com selo institucional no rodapé.",
+  "por_que_funciona": [
+    "Os dois retratos com identificação profissional apresentam quem está associado à formação.",
+    "O nome da especialidade em letras grandes facilita identificar o tema.",
+    "A data e o horário abaixo de abertura das vagas dão um marco concreto para acompanhar a inscrição."
+  ],
+  "quando_usar": "Para anunciar a abertura de inscrições de uma pós-graduação a um público profissional definido.",
+  "estrutura_texto": "[Retratos e identificações profissionais]\nPÓS-GRADUAÇÃO [modalidade]\n[especialidade]\nABERTURA DAS VAGAS\n[data], [dia da semana] ÀS [horário]\n[Credenciamento comprovado]",
+  "legenda": "A turma [ano] da pós-graduação em [especialidade] abre inscrições em [data], às [horário]. A formação aborda [conteúdos] para [público habilitado]. Consulte a grade, os requisitos de ingresso e as informações de certificação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul petróleo com luz suave e grafismos moleculares discretos. Posicione dois retratos autorizados da IMAGEM 2 na metade superior, identificações laterais e faixa dourada arredondada para a modalidade. Abaixo, dê maior destaque ao nome do curso, seguido de abertura das vagas, data e horário. Reserve o rodapé para credenciamento comprovado.",
+  "alerta_politica": "Em formação médica, não prometa resultados clínicos nem título de especialista ou RQE decorrente apenas da pós-graduação. Se a peça configurar publicidade médica, observe as regras do CFM para identificação profissional e especialidade; use alegações de reconhecimento educacional somente quando comprovadas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2445141829559608",
+    "anunciante": "Dra. Janaina Koenen com drbrunocesarbsb",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-16",
+    "dias_no_ar": 59,
+    "variacoes_ativas": 2,
+    "texto_original": "🟢 Pós-Graduação em Endocrinologia \n✅ Turma 2027\n\nUma formação completa em Endocrinologia e todo o universo hormonal.\n\nEsta pós-graduação foi pensada e planejada nos mínimos detalhes, você tem a oportunidade de ampliar o seu conhecimento com o que existe de mais avançado na saúde, aprimorar a sua formação acadêmica, se atualizar com os mais recentes estudos científicos, conhecer novas tecnologias e qualificar a sua prática clínica.\n\nPara o médico que deseja oferecer resultados excepcionais, se manter atualizado e ser mais valorizado no mercado, a decisão de fazer uma Pós-Graduação em Endocrinologia representa um passo fundamental e indispensável.\n\nVocê vai receber o conhecimento científico mais atualizado e avançado existente em Endocrinologia no mundo e ainda terá acesso exclusivo a prática clínica realizada por grandes especialistas.\n\nAlém de um corpo docente de professores convidados cuidadosamente selecionadas, que são referências em suas áreas de atuação.\n\nCada aluno ter um acompanhamento intenso, vamos estar com você auxiliando, tirando dúvidas, analisando casos práticos, direcionando no caminho de uma formação com excelência.\n\n➡️ Ser Pós-Graduado em Endocrinologia enriquece o repertório profissional do médico, o capacita a oferecer tratamentos de qualidade em um campo de alta demanda, amplia seu reconhecimento com os pacientes e aumenta exponencialmente a sua valorização financeira.\n\nEsta é uma oportunidade única de qualificação e valorização profissional!\n\n⏰ Abertura das vagas 10.03 às 08H\n\n➡️ Entre na lista de espera preferencial para ter acesso ao valor promocional e benefícios exclusivos\n\n➡️ O link para a lista de espera está na descrição desse perfil\n\n🔗 Clique no link na descrição do perfil e entre para a lista preferencial com benefícios exclusivos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2445141829559608.jpg"
+}

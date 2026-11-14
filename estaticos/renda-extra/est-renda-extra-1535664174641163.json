@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1535664174641163",
+  "tipo": "estatico",
+  "titulo": "Convite local para revenda em consignação",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma mulher com lingerie e sacola ocupa a direita. À esquerda, textos em rosa e vinho anunciam uma oportunidade de revenda para uma cidade específica e convidam ao cadastro.",
+  "por_que_funciona": [
+    "O nome da cidade em rosa forte dá destaque ao recorte geográfico.",
+    "A palavra revendedora em tamanho maior explicita a proposta.",
+    "A sacola e a peça de lingerie contextualizam a categoria de produto.",
+    "O CTA de cadastro aparece em uma cápsula rosa separada do restante do texto."
+  ],
+  "quando_usar": "Para recrutar revendedores em uma região atendida por um programa de consignação.",
+  "estrutura_texto": "Atenção!\n[Cidade]\nSeja [perfil de parceiro] de [categoria]\n[Condição inicial]\nVantagens para você\n[Identidade]\n[CTA de cadastro]",
+  "legenda": "Comece a revender [categoria] em [cidade] por meio de [modelo de consignação]. Conheça as condições de estoque, tamanhos disponíveis e suporte. Cadastre-se em [destino] para saber como participar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de uma pessoa adulta apresentando o produto ou sacola da IMAGEM 2 em ambiente claro. Concentre a pessoa à direita e reserve espaço à esquerda para cidade em rosa intenso, convite de revenda em vinho e selo com condição comercial. Inclua CTA pequeno em cápsula rosa na base e identidade própria. Não copie o rosto ou a cidade da referência. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganho fácil ou ausência de risco. Valores e condições de ganhos devem ser comprováveis e apresentados com critérios, custos e ressalvas claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1535664174641163",
+    "anunciante": "Laço de Renda Moda Íntima",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-30",
+    "dias_no_ar": 198,
+    "variacoes_ativas": 1,
+    "texto_original": "Comece a revender lingerie com zero investimento!\n\nJá pensou em trabalhar com moda íntima de qualidade e sem precisar fazer estoque?\n\nNa Laço de Renda, você revende em consignação, com peças lindas e acessíveis.\n✔️ Lingerie em consignação\n✔️ Linha completa do P ao Plus Size\n✔️ Atendimento personalizado e apoio total\n\nTemos um representante exclusivo para sua cidade. \n\nConquiste sua autonomia com estilo e confiança!\nCadastre-se agora mesmo!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1535664174641163.jpg"
+}

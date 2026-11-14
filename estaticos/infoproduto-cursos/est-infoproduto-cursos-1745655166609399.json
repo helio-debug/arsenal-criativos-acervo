@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1745655166609399",
+  "tipo": "estatico",
+  "titulo": "Especialização com título sobre fundo texturizado",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Degradê texturizado do rosa claro ao roxo escuro com título branco sobre faixas roxas. Benefício e complemento ficam abaixo, acompanhados de uma seta.",
+  "por_que_funciona": [
+    "O topo claro deixa espaço visual antes do bloco principal.",
+    "As faixas roxas agrupam as três linhas do nome do curso.",
+    "A chamada em negrito diferencia o benefício da explicação menor."
+  ],
+  "quando_usar": "Para divulgar uma formação com aplicação profissional específica e apresentar seu foco.",
+  "estrutura_texto": "Pós em [especialização]: [aplicação]\n[Benefício profissional]\n[Fundamento e uso do aprendizado]",
+  "legenda": "Na pós em [especialização], você aprende a aplicar [fundamento] para desenvolver [entrega profissional]. Formação [modalidade] voltada a [aplicações]. Acesse e conheça o curso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie degradê granulado rosa claro no topo e roxo quase preto na base. Use título branco grande em três linhas, com faixas roxas arredondadas atrás. Abaixo, alinhe uma chamada branca em negrito e uma explicação menor à esquerda. Adicione seta em círculo roxo e selo tipográfico de baixo contraste na base.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1745655166609399",
+    "anunciante": "pospucprdigital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-20",
+    "dias_no_ar": 147,
+    "variacoes_ativas": 2,
+    "texto_original": "Na Pós PUCPR Digital em Neurocomunicação, você aprende a aplicar princípios da neurociência para criar narrativas mais estratégicas, persuasivas e memoráveis, com impacto real em marketing, negócios e comunicação.\n\n🎓 Pós-graduação 100% online\n🧠 Estratégias baseadas em comportamento humano\n🚀 Comunicação que gera resultado\n\n👉 Acesse o site e conheça o curso.\nEstude na Pós PUCPR Digital\nUma Pós como você nunca viu.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1745655166609399.jpg"
+}

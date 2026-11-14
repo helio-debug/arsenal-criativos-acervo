@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-827460193660850",
+  "tipo": "estatico",
+  "titulo": "Curso para educadores sobre foto de treinamento",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma foto de treinamento de primeiros socorros com manequim ocupa toda a peça. Um painel roxo central apresenta o curso e a gratuidade, seguido por uma chamada rosa.",
+  "por_que_funciona": [
+    "O manequim e as mãos em treinamento mostram a aplicação prática do tema.",
+    "O painel roxo separa a oferta do fundo fotográfico.",
+    "A indicação de horas ajuda a dimensionar o curso.",
+    "A chamada rosa cria um ponto de ação abaixo das informações."
+  ],
+  "quando_usar": "Para captar inscrições em cursos de capacitação com benefício gratuito claramente delimitado.",
+  "estrutura_texto": "CURSO ONLINE\n[TEMA]\nPARA [PÚBLICO]\n[CARGA HORÁRIA]\n[ITENS GRATUITOS]\nClique e [ação]!",
+  "legenda": "Curso de [tema] para [público], com [carga horária]. [Itens gratuitos] disponíveis na inscrição. Confira conteúdo, condições e certificação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da IMAGEM 2 em tela cheia mostrando treinamento ou uso prático, preservando o elemento principal na parte inferior. Centralize um painel roxo semitransparente com modalidade pequena, título branco grande, público, carga horária em contorno arredondado e itens gratuitos. Abaixo, inclua uma faixa rosa com a chamada para ação. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Conteúdo de saúde: a imagem e o curso devem seguir orientações técnicas vigentes e não garantir preparo para qualquer emergência. Especifique o que é gratuito e só anuncie reconhecimento ou validade de certificado quando comprovados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "827460193660850",
+    "anunciante": "Só Educador",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-01",
+    "dias_no_ar": 348,
+    "variacoes_ativas": 1,
+    "texto_original": "Curso de Primeiros Socorros para Educadores! \nCertificado válido em todo o Brasil, reconhecido pelo MEC.\nInscrição gratuita!\nAmplie seu currículo agora e esteja preparado para qualquer situação.\nO Futuro da Educação Começa com Você!\nCapacite-se para Melhorar o Futuro da Educação",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-827460193660850.jpg"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "vid-analogia-fatias",
+ "tipo": "video",
+ "titulo": "Bolo dividido entre pratos para explicar partes de um total",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "servicos-locais",
+  "investimentos",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "55-60s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Este bolo representa [total analisado]. Vou separar as partes pra mostrar onde entra [problema que o produto ajuda a organizar].",
+  "texto_tela": "[Total analisado]",
+  "visual": "Plano médio vertical com rosto e mesa preta visíveis. Bolo redondo e dois pratos contrastantes à frente."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano médio vertical com rosto e mesa preta visíveis. Bolo redondo e dois pratos contrastantes à frente.",
+   "fala": "Este bolo representa [total analisado]. Vou separar as partes pra mostrar onde entra [problema que o produto ajuda a organizar].",
+   "texto_tela": "[Total analisado]"
+  },
+  {
+   "tempo": "7-17s",
+   "cena": "Retire uma fatia e coloque no prato branco. Mantenha mãos e rosto no mesmo quadro.",
+   "fala": "Essa primeira parte corresponde a [componente A]. Ela ocupa uma parcela do total porque [explicação concreta do uso].",
+   "texto_tela": "[Componente A]"
+  },
+  {
+   "tempo": "17-27s",
+   "cena": "Mova outra fatia enquanto explica. Palavra branca curta aparece perto do peito.",
+   "fala": "Aqui entra [componente B]. Separei em outro pedaço pra você conseguir acompanhar essa divisão sem misturar as funções.",
+   "texto_tela": "[Componente B]"
+  },
+  {
+   "tempo": "27-37s",
+   "cena": "Deslize uma parte maior para o outro prato, deixando o restante exposto.",
+   "fala": "Este pedaço é [componente C]. O que sobra representa [parcela final]. Os tamanhos são ilustrativos, sem proporção exata.",
+   "texto_tela": "Divisão ilustrativa"
+  },
+  {
+   "tempo": "37-49s",
+   "cena": "Olhe para a câmera e aponte uma fatia que pode ser reorganizada, sem fazê-la desaparecer.",
+   "fala": "Com [recurso do produto], você consegue revisar [componente ajustável]. Dependendo de [condição], uma parte pode ser destinada a [uso desejado]. O total continua o mesmo.",
+   "texto_tela": "[Recurso do produto]"
+  },
+  {
+   "tempo": "49-59s",
+   "cena": "Aponte os dois pratos e conclua olhando para a lente. Preserve rosto e objetos no quadro.",
+   "fala": "Em [produto], você encontra [entrega real] pra analisar essa divisão no seu caso. Veja os detalhes em [destino] e confira quais informações precisa reunir.",
+   "texto_tela": "Veja [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "O bolo e os pratos já aparecem junto ao apresentador na abertura, preparando a analogia antes da divisão.",
+  "A posição das fatias muda entre os frames, permitindo ver cada parcela sair do total.",
+  "O plano mantém mãos, rosto e mesa juntos, ligando a explicação falada ao objeto manipulado.",
+  "As palavras brancas isoladas acompanham a fala sem esconder as fatias que estão sendo movidas."
+ ],
+ "quando_usar": "Para serviços, conteúdos de investimento e educação que precisam explicar partes de um total, como orçamento ou tempo disponível. Use quando a divisão é mais fácil de entender com um objeto do que com uma tabela.",
+ "roteiro_modelo": "[0-7s] Este bolo representa [total analisado]. Vou separar as partes pra mostrar onde entra [problema que o produto ajuda a organizar].\n\n[Pausa curta / corte]\n[7-17s] Essa primeira parte corresponde a [componente A]. Ela ocupa uma parcela do total porque [explicação concreta do uso].\n\n[Pausa curta / corte]\n[17-27s] Aqui entra [componente B]. Separei em outro pedaço pra você conseguir acompanhar essa divisão sem misturar as funções.\n\n[Pausa curta / corte]\n[27-37s] Este pedaço é [componente C]. O que sobra representa [parcela final]. Os tamanhos são ilustrativos, sem proporção exata.\n\n[Pausa curta / corte]\n[37-49s] Com [recurso do produto], você consegue revisar [componente ajustável]. Dependendo de [condição], uma parte pode ser destinada a [uso desejado]. O total continua o mesmo.\n\n[Pausa curta / corte]\n[49-59s] Em [produto], você encontra [entrega real] pra analisar essa divisão no seu caso. Veja os detalhes em [destino] e confira quais informações precisa reunir.",
+ "tomadas_celular": [
+  "Plano médio vertical do apresentador e mesa, bolo inteiro e dois pratos, luz frontal difusa e fundo verde liso; grave 7s.",
+  "Mesmo plano, mãos retirando a primeira fatia para o prato claro, luz lateral suave sem sombras nas mãos; grave 10s.",
+  "Mesma posição do celular, retire uma segunda fatia e nomeie a parte, luz constante; grave 10s.",
+  "Plano médio com rosto e pratos, deslize uma porção maior sem ocultar o restante, luz frontal suave; grave 10s.",
+  "Mesmo plano, aponte a fatia ajustável e reposicione um pedaço, luz uniforme; grave 12s.",
+  "Plano médio estável com pratos visíveis, olhar para a lente e gesto final, mesma luz; grave 10s."
+ ],
+ "caminho_ia": "Para fazer sem filmar, crie no Kling imagens de mesa e bolo e anime movimentos curtos; use narração sintética em pt-BR. Prompts: \"Vertical 9:16 medium tabletop shot, fictional presenter in a plain green polo behind a black table, one round cake and two contrasting plates, soft frontal lighting, muted green background, locked camera, clear hands, no logos, no text, visual metaphor for [product total].\" e \"Vertical 9:16 close-up insert, one hand moving a pre-cut cake slice onto a white plate beside a black plate, same cake and table, soft diffused light, slow controlled motion, static camera, no text, illustrating [product component].\" Se a continuidade das fatias falhar, monte imagens geradas em slideshow no CapCut e anime recortes das porções. Adicione palavras brancas na edição e mantenha a indicação de divisão ilustrativa.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie demonstração de 59s em seis blocos: total representado por bolo, componente A, componente B, componente C e sobra, parcela ajustável pelo produto e convite. Adapte a divisão ao produto: pode ser dinheiro, tempo de estudo ou outro total coerente. Plano médio com rosto e mesa preta, bolo e dois pratos contrastantes; cada parte deve mudar de lugar durante a fala. Use palavras brancas curtas sincronizadas, tom didático e ritmo de uma movimentação por explicação. Mostre que a divisão é ilustrativa; preserve o total. Não copie pessoa, marca da roupa, percentuais de imposto nem promessas de economia da referência. Não invente retorno financeiro ou regra tributária. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e frases de efeito. Use somente informações fornecidas, sem inventar resultados ou provas. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "O bolo representa [total]. Cada fatia mostra [tipo de divisão]. Em [produto], você encontra [entrega] pra analisar [parte ajustável] no seu contexto. Veja [destino]. Divisão ilustrativa, sem proporções exatas.",
+ "alerta_politica": "Meta: não insinuar atributos pessoais financeiros, como dívida ou dificuldade econômica. Em investimentos, observar as regras aplicáveis da CVM, apresentar riscos e não prometer rentabilidade ou preservação garantida de capital. Quando a adaptação envolver crédito, observar as regras do Banco Central e informar custos e condições. Fatias ilustrativas não comprovam retorno, redução tributária nem economia garantida.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-475149aa",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-analogia-fatias/frames/f1.jpg",
+    "videos/vid-analogia-fatias/frames/f2.jpg",
+    "videos/vid-analogia-fatias/frames/f3.jpg",
+    "videos/vid-analogia-fatias/frames/f4.jpg",
+    "videos/vid-analogia-fatias/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1533987438219711",
+  "tipo": "estatico",
+  "titulo": "Contraste entre duas xícaras para discutir percepção de valor",
+  "formato": "Comparativo",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Em fundo branco, título serifado fala de preço e valor. Duas imagens lado a lado mostram uma xícara dourada ornamentada e uma caneca simples; a frase final ocupa uma faixa azul-escura.",
+  "por_que_funciona": [
+    "As xícaras lado a lado materializam a comparação de percepção de valor.",
+    "O dourado nas palavras centrais repete o tom da xícara ornamentada.",
+    "A ampla margem branca mantém o foco no título e no comparativo.",
+    "A faixa final interrompe o fundo claro e cria expectativa pela explicação."
+  ],
+  "quando_usar": "Para iniciar uma explicação sobre preço e posicionamento antes de apresentar uma consultoria de oferta.",
+  "estrutura_texto": "[Afirmação sobre percepção de preço]\n[Imagem de versão sofisticada] × [Imagem de versão simples]\n[Convite para acompanhar a explicação]",
+  "legenda": "O valor percebido de [produto ou serviço] depende de [contexto e entrega]. Veja como apresentar [benefício] e estruturar uma oferta para [público]. Comente [palavra-chave] para saber como funciona [orientação individual gratuita].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com margens amplas. No topo, escreva título serifado centralizado em duas linhas, destacando palavras sobre preço em dourado. No centro, coloque duas fotos adjacentes em um retângulo de cantos suaves: uma apresentação sofisticada e outra simples do mesmo tipo de item. Abaixo, insira faixa azul-marinho com frase curta branca que convida à explicação. Adapte a comparação à minha oferta sem sugerir ganhos financeiros garantidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1533987438219711",
+    "anunciante": "Jonas Kaz",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "Essa é a realidade!\n\nSe você quer criar um produto de alto valor que é simples de entregar.\n\nComenta “10” aqui que vou te contar como ter o direcionamento individual gratuito ainda essa semana. \n\n#empreendedor #empresario #empreendedorismo #psicologia #psicologa #mentoria #mentora #liderança #autoconhecimento #autoestima #reflexão #sucesso #frasesinspiradoras #motivacao #foco #instagramparanegocios",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1533987438219711.jpg"
+}

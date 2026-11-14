@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1803606207652786",
+  "tipo": "estatico",
+  "titulo": "Pessoa segurando cartaz de procura-se na rua",
+  "formato": "Mídia de rua",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma pessoa sorri na calçada enquanto segura um cartaz acima da cabeça. A placa branca com moldura contém chamada azul, perfil do comprador, preço e instrução de clique.",
+  "por_que_funciona": [
+    "A placa levantada ocupa mais da metade da imagem e concentra a mensagem.",
+    "A palavra procura-se acompanhada de lupa introduz o perfil de comprador desejado.",
+    "O preço grande fica isolado em um retângulo azul de alto contraste.",
+    "As setas para baixo reforçam a instrução de acessar pelo botão."
+  ],
+  "quando_usar": "Para chamar vendedores de produtos digitais com uma oferta direta de estrutura pronta para seus funis.",
+  "estrutura_texto": "PROCURA-SE\nquem já [atividade] e quer [benefício] usando [solução].\n[produto] por apenas [preço]\nClique no botão abaixo pra [ação]",
+  "legenda": "Já vende [tipo de produto]? Conheça [estrutura de quiz] para adaptar à sua oferta. Acesse o material por [preço] e veja como organizar [etapa do funil].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia de rua com pedestres ao fundo desfocados e uma pessoa autorizada segurando um cartaz acima da cabeça. O cartaz deve ter moldura clara e superfície branca, título azul com ícone de lupa, texto preto centralizado, ícone de troféu, preço grande em azul e faixa azul inferior com setas brancas. Garanta leitura do cartaz inteiro e mantenha o produto identificável no texto.",
+  "alerta_politica": "Promessas de faturamento, conversão ou lucro precisam de comprovação e contexto; não apresente resultados de terceiros como garantia. Use imagem, nome e depoimento de pessoas apenas com autorização, sem sugerir endosso inexistente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1803606207652786",
+    "anunciante": "Quiz de 100k",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-13",
+    "dias_no_ar": 62,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1803606207652786.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-25791379983789657",
+  "tipo": "estatico",
+  "titulo": "Curso de software sobre projeto arquitetônico",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma casa moderna em tons de cinza se mistura a uma planta técnica. Um painel azul translúcido concentra o nome do software, o nível do curso e a chamada de inscrição.",
+  "por_que_funciona": [
+    "A casa e a planta mostram o tipo de projeto relacionado ao curso.",
+    "O nome do software ocupa a maior linha do painel azul.",
+    "A frase sobre níveis básico e avançado delimita a progressão do conteúdo.",
+    "O ícone no topo identifica visualmente a ferramenta ensinada."
+  ],
+  "quando_usar": "Para apresentar cursos de ferramentas profissionais a pessoas que já conhecem a área de aplicação.",
+  "estrutura_texto": "[APRENDA]\n[SOFTWARE]\n[NA PRÁTICA]\n[Do nível inicial ao nível final]\n[INSCRIÇÕES ABERTAS]\n[Chamada para inscrição]",
+  "legenda": "Aprenda a criar [tipo de projeto] com [ferramenta]. O curso online reúne [quantidade] aulas, do [nível inicial] ao [nível final], com [materiais de apoio]. Consulte o conteúdo e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um fundo em tons de cinza com um projeto relacionado ao meu curso e detalhes técnicos. Sobreponha um painel azul-marinho translúcido, título branco com o nome da ferramenta em grande destaque, nível do curso abaixo e inscrição no fim. No topo, use apenas um ícone autorizado do meu produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "25791379983789657",
+    "anunciante": "Expert Cursos Online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-02",
+    "dias_no_ar": 316,
+    "variacoes_ativas": 2,
+    "texto_original": "✅ Inscrições Abertas – Curso Online de ArchiCAD\n \n👨💻 Aprenda a criar Plantas e Projetos Profissionais!\n\nSão mais de 70 videoaulas com todo o passo a passo partindo do zero até o avançado, e fazendo HOJE a sua inscrição você ainda recebe:\n\n➡️ E-book exclusivo com dicas, comandos e figuras cotadas para praticar\n➡️ Template utilizado durante todo o curso para projetos futuros\n\nCertificado Reconhecido que pode ser utilizado em seu currículo como capacitação profissional e horas complementares, autorizado pelo MEC!\n\nVAGAS LIMITADAS!!! ⌛ 🕑\n\nClique em SAIBA MAIS e aproveite o preço PROMOCIONAL ⬇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-25791379983789657.jpg"
+}

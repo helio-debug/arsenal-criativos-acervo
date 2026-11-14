@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-4306008116375853",
+  "tipo": "estatico",
+  "titulo": "Cartão internacional cercado por avaliações",
+  "formato": "Depoimento em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma mão segura um cartão verde vivo contra um céu azul. Dois quadros brancos com estrelas e relatos de uso ladeiam o cartão, abaixo de uma chamada de adesão coletiva.",
+  "por_que_funciona": [
+    "O cartão verde se destaca do céu azul e identifica o objeto central.",
+    "Os dois quadros com estrelas tornam os relatos fáceis de reconhecer.",
+    "Os depoimentos descrevem situações concretas de conversão e viagem.",
+    "A chamada “Milhões de pessoas” apresenta uma alegação de escala visível no topo."
+  ],
+  "quando_usar": "Para serviços de conta internacional e câmbio que tenham avaliações reais e autorização de uso.",
+  "estrutura_texto": "[Marca]\n[Quantidade comprovada] de pessoas já [ação principal] com [serviço]\n[Estrelas]\n[Depoimento real sobre facilidade]\n[Produto]\n[Estrelas]\n[Depoimento real sobre uso em viagem]\n[Assinatura]\n[Condições]",
+  "legenda": "Converta e pague em [moedas ou destinos disponíveis] com [serviço]. Veja relatos de quem usa e confira taxas, limites e condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Use céu azul suave ao fundo e uma mão segurando o produto da IMAGEM 2 no centro, em diagonal. Disponha dois cartões brancos de avaliações com estrelas, um no alto à esquerda e outro abaixo à direita. Use título branco no topo, destaque verde e texto legal legível. Use somente depoimentos fornecidos e comprovados. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Meta: serviços financeiros devem apresentar informações verdadeiras, sem garantias de economia ou aceitação universal. Informe taxas, câmbio, limites e condições; não reproduza alegações de isenção ou superioridade dos depoimentos sem comprovação. Use avaliações autênticas e observe as regras do Banco Central aplicáveis ao serviço.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4306008116375853",
+    "anunciante": "Wise",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-12",
+    "dias_no_ar": 94,
+    "variacoes_ativas": 3,
+    "texto_original": "Milhões de pessoas já convertem, pagam e economizam no mundo todo com a Wise! Fácil, rápido e seguro.\nQuem avisa, esperto é: vai de Wise!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-4306008116375853.jpg"
+}

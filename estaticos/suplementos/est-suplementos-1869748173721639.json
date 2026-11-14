@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1869748173721639",
+  "tipo": "estatico",
+  "titulo": "Desconto e brinde em cartão sobre produto",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Em fundo rosa, embalagem e coqueteleira aparecem à esquerda. Um cartão claro à direita reúne desconto, brinde, prazo, linhas ocultas e botão de ação.",
+  "por_que_funciona": [
+    "O percentual grande em vinho concentra o destaque comercial.",
+    "A coqueteleira ao lado da embalagem mostra o brinde oferecido.",
+    "O cartão claro cria contraste com o cenário rosa saturado.",
+    "As faixas sobre o texto reforçam a ideia visual de cupom a revelar."
+  ],
+  "quando_usar": "Para retomar interesse de quem já viu o produto, com desconto e brinde reais e prazo verificável.",
+  "estrutura_texto": "OFERTA Nº [número] 🔒\n[desconto]% OFF\n+ [brinde]\n(só [prazo]).\n[O cupom está dentro]\n[CTA] →",
+  "legenda": "Faltou concluir seu pedido? Aproveite [desconto] e receba [brinde] nas condições de [oferta]. Acesse [destino] e confira o prazo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um cenário rosa com embalagem da IMAGEM 2 e brinde real à esquerda, apoiados em base lilás. À direita, insira cartão claro vertical com sombra, desconto em tipografia condensada grande na cor vinho, brinde e prazo abaixo. Acrescente chamada de cupom, faixas gráficas e botão arredondado. Use somente condições comprovadas de {{oferta}}.",
+  "alerta_politica": "Suplementos: não prometer cura, emagrecimento ou resultados físicos garantidos. Desconto, brinde e urgência devem ser verdadeiros; a arte mostra 25%, enquanto a legenda informada menciona 10%, divergência que deve ser corrigida na adaptação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1869748173721639",
+    "anunciante": "Big Boom",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-05",
+    "dias_no_ar": 162,
+    "variacoes_ativas": 1,
+    "texto_original": "Ainda não conseguiu finalizar sua compra?\n\nCorre! 10% OFF e Presente",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1869748173721639.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-997190732653554",
+  "tipo": "estatico",
+  "titulo": "Custo de crescer sem planejamento tributário",
+  "formato": "Alerta e educação",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com título branco e roxo à esquerda e foto de um profissional com headset à direita. Três cartões com ícones apresentam benefícios e volume de atendimentos acima de uma faixa final.",
+  "por_que_funciona": [
+    "O título grande em duas cores destaca o custo associado ao faturamento.",
+    "A foto de uma pessoa trabalhando contextualiza o serviço.",
+    "Os três cartões separam proteção, resultado financeiro e experiência em blocos fáceis de ler.",
+    "O número de negócios atendidos acrescenta uma evidência concreta de experiência."
+  ],
+  "quando_usar": "Para serviços contábeis que atendem negócios digitais e querem apresentar sua especialização.",
+  "estrutura_texto": "[Especialidade] para [público]\n[Resultado desejado] custa caro sem [estratégia]\n[Explicação curta]\n[Benefício 1] + [explicação]\n[Benefício 2] + [explicação]\n[Quantidade] [clientes atendidos]\n[Benefício final]",
+  "legenda": "Crescer sem revisar [estrutura da empresa] pode aumentar [custo]. Nosso serviço de [especialidade] ajuda [público] a avaliar [oportunidades de melhoria]. Conheça [serviço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto e roxo intenso, título condensado grande no alto à esquerda e foto da IMAGEM 2 recortada à direita. Organize três cartões com bordas roxas e ícones simples na base e uma faixa inferior. Adapte os benefícios ao produto; use números somente quando fornecidos e comprovados.",
+  "alerta_politica": "Meta: não prometa economia tributária garantida nem apresente resultados financeiros como certos. Benefícios e percentuais devem ser comprováveis; a tributação depende do enquadramento e da análise de cada empresa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "997190732653554",
+    "anunciante": "Unclik Contabilidade Digital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-24",
+    "dias_no_ar": 174,
+    "variacoes_ativas": 4,
+    "texto_original": "Faturar muito sem estratégia tributária pode estar fazendo você perder dinheiro todos os meses.\nO problema não é vender mais.\nO problema é crescer sem uma estrutura preparada para isso.\nA Unclik é especializada em contabilidade para negócios digitais.\n​\nActive",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-997190732653554.jpg"
+}

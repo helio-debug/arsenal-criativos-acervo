@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-1061837313256171",
+  "tipo": "estatico",
+  "titulo": "Mentoria apresentada por equipe e áreas de acompanhamento",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de três pessoas em ambiente interno, com título em faixas brancas no topo. Três itens com checks verdes sobre faixas azuis mostram as áreas da mentoria, seguidos do convite à aplicação.",
+  "por_que_funciona": [
+    "A foto de três pessoas torna visível a equipe ligada ao acompanhamento.",
+    "Os checks separam as áreas de trabalho para leitura rápida.",
+    "As faixas brancas destacam título e aplicação sem esconder o grupo."
+  ],
+  "quando_usar": "Para apresentar o escopo de uma mentoria e captar candidaturas.",
+  "estrutura_texto": "[Mentoria individual] para quem quer [objetivo]:\n✅ [Área de acompanhamento]\n✅ [Área de acompanhamento]\n✅ [Área de acompanhamento]\nFaça sua aplicação.",
+  "legenda": "Durante [período], receba acompanhamento individual para estruturar [negócio]. O trabalho abrange [áreas de atuação] conforme suas prioridades. Veja os detalhes e faça sua aplicação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da equipe ou produto da IMAGEM 2 como área central, com enquadramento que preserve os rostos. No topo, coloque título serifado escuro em faixas brancas. Sobre a parte inferior da foto, use três faixas azul-marinho com textos brancos e checks verdes. Termine com faixa branca centralizada e convite à aplicação. Evite superlativos sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1061837313256171",
+    "anunciante": "Rodrigo Vinhas com Lucas Puerto",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-01",
+    "dias_no_ar": 74,
+    "variacoes_ativas": 1,
+    "texto_original": "A Craft Blue agora é uma mentoria individual. \n\nDurante 6 meses, você tem o nosso acompanhamento (meu, do Lucas Puerto e da Mari de Toledo), para estruturar seu negócio e fazê-lo crescer com consistência, previsibilidade e escala – sem amadorismo.\n\nSe você quer crescer com clareza, processo\ne direção certa, esse é o caminho.\n\nAperte em ‘Saiba Mais’ para fazer sua aplicação.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1061837313256171.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-828976373075940",
+  "tipo": "estatico",
+  "titulo": "Guia gratuito de prevenção com cena de trabalho",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Cena de trabalhador em altura ao pôr do sol ocupa a parte superior. A chamada de e-book gratuito se combina a um tablet com a capa e uma área branca inferior com o benefício educativo.",
+  "por_que_funciona": [
+    "A silhueta em altura identifica imediatamente o tema do guia.",
+    "A chamada branca em letras grandes destaca a gratuidade.",
+    "O tablet apresenta o conteúdo como material para baixar.",
+    "O bloco inferior azul sobre branco facilita a leitura do objetivo preventivo."
+  ],
+  "quando_usar": "Para captar contatos interessados em orientação técnica de prevenção e segurança no trabalho.",
+  "estrutura_texto": "E-BOOK GRATUITO! + [capa: tema, tipos e causas] + Veja dicas para [objetivo preventivo] + [marca].",
+  "legenda": "Conheça [tipos e causas de riscos] e veja orientações para [prevenção]. Baixe o [e-book gratuito] em [link] e compartilhe o conteúdo com [equipe ou público].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia temática no topo com silhueta de trabalhador e pôr do sol em tons âmbar, observando equipamentos de segurança adequados. Coloque a chamada E-BOOK GRATUITO em branco grande à esquerda e tablet com a capa da IMAGEM 2 à direita. Faça uma divisão diagonal para uma base branca com benefício educativo em azul e pequenos indicadores amarelos. Não prometa eliminar acidentes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "828976373075940",
+    "anunciante": "Danny EPI",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-13",
+    "dias_no_ar": 366,
+    "variacoes_ativas": 1,
+    "texto_original": "Reduza de vez os acidentes de trabalho com essas dicas\nSign Up\nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-828976373075940.jpg"
+}

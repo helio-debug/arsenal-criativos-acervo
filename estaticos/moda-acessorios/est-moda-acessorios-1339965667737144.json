@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-1339965667737144",
+  "tipo": "estatico",
+  "titulo": "Colagem fitness com convite para grupo de ofertas",
+  "formato": "Oferta e promoção",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Colagem vertical com uma pessoa usando conjunto esportivo preto e fotos de sacola, peças dobradas, shorts e conjunto azul-escuro. Ao centro, texto branco em faixa preta afirma economia no grupo e uma faixa vermelha aponta para o link.",
+  "por_que_funciona": [
+    "A foto do conjunto vestido mostra o caimento das peças esportivas.",
+    "Os quadrantes com shorts e conjuntos expostos apresentam variedade visual.",
+    "A faixa preta cria contraste para a mensagem de economia em letras brancas.",
+    "A faixa vermelha com indicação do link destaca o próximo passo."
+  ],
+  "quando_usar": "Para captar interessados em um grupo de ofertas de roupas esportivas, com descontos documentados e condições claras.",
+  "estrutura_texto": "Só compro [categoria] nesse [grupo de ofertas], pagando [economia comprovada] [emoji]\nLink do grupo [indicador]",
+  "legenda": "Quer economizar em [categoria]? Entre no [grupo de ofertas] e acompanhe [condições ou descontos verificados]. Acesse [link] para participar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma colagem vertical em quatro áreas com o produto da IMAGEM 2: uma foto vestida no quadrante superior esquerdo e fotos de peças dispostas sobre tecido claro nos demais espaços. Use apenas produtos efetivamente disponíveis. Sobreponha no centro uma faixa preta com texto branco grande: \"[categoria] com [condição comprovada] no [grupo de ofertas]\". Logo abaixo, coloque faixa vermelha com \"Link do grupo\" e indicador para baixo. Não invente depoimento nem percentual de desconto.",
+  "alerta_politica": "A alegação de pagar metade do preço deve ser comprovada com referência e condições claras. Não use depoimento fictício nem associação com marcas sem autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1339965667737144",
+    "anunciante": "Outlet Fitness",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-14",
+    "dias_no_ar": 123,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer economizar de verdade com ofertas reais? Venha fazer parte desse grupo!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-1339965667737144.jpg"
+}

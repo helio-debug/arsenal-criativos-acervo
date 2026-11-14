@@ -1,0 +1,36 @@
+{
+  "id": "est-pet-1568477743797931",
+  "tipo": "estatico",
+  "titulo": "Aplicativo de nutrição pet com personagem e celular",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "saas-app",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Título azul sobre fundo branco anuncia nutrição personalizada e suporte. Um personagem azul de turbante aponta para o texto, e um celular inclinado acompanha o botão de download na base.",
+  "por_que_funciona": [
+    "O título em caixa alta coloca nutrição e suporte como benefícios principais.",
+    "O personagem gesticulando direciona a atenção ao texto explicativo.",
+    "O celular com tela do app concretiza o produto e acompanha o comando de download."
+  ],
+  "quando_usar": "Para aplicativos pet com orientação nutricional e acompanhamento especializado incentivarem downloads.",
+  "estrutura_texto": "[Marca] | [Nutrição personalizada] | [Suporte completo] | Com [app], tenha acesso a [consultoria especializada] | [Baixe agora]",
+  "legenda": "Com [app], solicite [plano nutricional para seu pet], acompanhe [registros de saúde] e converse com [profissional responsável]. Baixe gratuitamente e confira [condições e serviços disponíveis].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use topo branco com título azul em caixa alta e uma grande faixa azul de bordas onduladas no centro. Coloque um personagem original gesticulando à esquerda, texto curto à direita e celular inclinado com a interface do produto na base. Acrescente botão azul escuro de download. Não copie o personagem, o figurino nem os elementos de marca da referência.",
+  "alerta_politica": "Para orientação nutricional e saúde animal, não prometer cura ou resultados garantidos. Apresentar corretamente a qualificação do profissional responsável e não sugerir que o aplicativo substitui avaliação veterinária.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1568477743797931",
+    "anunciante": "Farmina Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-12-16",
+    "dias_no_ar": 698,
+    "variacoes_ativas": 2,
+    "texto_original": "Com o App FarminaGenius você pode solicitar um plano nutricional personalizado para seu Pet, monitorar a saúde do seu pet, conversar com sua Consultora Farmina e muito mais!\n\nBeixe o App FarminaGenius , é gratuito!\nFarmina Genius App",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-1568477743797931.jpg"
+}

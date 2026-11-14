@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-3796518447267217",
+  "tipo": "estatico",
+  "titulo": "Menu executivo com foto de prato e preço inicial",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de comida em panela ocupa quase toda a arte. Título no topo e quadro inferior apresentam horário, porção individual e preço inicial.",
+  "por_que_funciona": [
+    "A panela em primeiro plano mostra o prato servido e sua textura.",
+    "A faixa “SEG A SEX - ALMOÇO” delimita o período de consumo.",
+    "O preço com números grandes facilita avaliar a oferta.",
+    "O quadro contornado separa preço e chamada sem cobrir toda a comida."
+  ],
+  "quando_usar": "Para restaurantes divulgarem um menu de almoço em dias úteis com preço inicial definido.",
+  "estrutura_texto": "MENU EXECUTIVO\n[Unidade]\n[Dias e período]\n[Chamada para pratos individuais]\nA PARTIR DE\nR$ [Preço]\n[Marca]\n[Condições]",
+  "legenda": "Seu almoço de [dias] pode ter [opções do menu]. Conheça os pratos individuais do nosso menu executivo, a partir de [preço], em [unidade]. Válido em [período], conforme [condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto do prato em tela cheia, com tons quentes e escurecimento nas áreas de texto. No topo, título branco condensado, filete e unidade; abaixo, faixa branca com dias e horário. Na parte inferior, quadro de contorno fino com chamada à esquerda e preço grande à direita. Reserve rodapé para identidade própria e condições legíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3796518447267217",
+    "anunciante": "Coco Bambu Bahia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-01-23",
+    "dias_no_ar": 660,
+    "variacoes_ativas": 1,
+    "texto_original": "Que tal um almoço delicioso e cheio de sabor? 🤩\n\nNo nosso Menu Executivo, você encontra opções perfeitas para o seu dia a dia, com pratos variados e super saborosos!\n\n*Válido de segunda a sexta no ALMOÇO\n\nVenha aproveitar no Coco Bambu Paralela!😋\n\n#AlmoçoExecutivo #Almoço #Pratos\nAproveite!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-3796518447267217.jpg"
+}

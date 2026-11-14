@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1927858318657956",
+  "tipo": "estatico",
+  "titulo": "Graduação híbrida com personagem de cabeça de livro",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo claro com chamada grande em roxo e magenta à esquerda. À direita, uma pessoa segura um celular e tem a cabeça substituída por um livro, cercada por aros amarelo e magenta.",
+  "por_que_funciona": [
+    "A cabeça de livro cria um ponto visual incomum ligado ao tema de aprendizagem.",
+    "A chamada em linhas curtas coloca a modalidade híbrida em destaque.",
+    "Os aros coloridos conectam a figura ao restante da identidade visual."
+  ],
+  "quando_usar": "Para apresentar a proposta de uma graduação híbrida e despertar interesse antes da página de inscrição.",
+  "estrutura_texto": "[Marca] | [modalidade]\nGraduação [modalidade].\n[Promessa de aprendizagem]\n[Contexto e convite para investir na formação]\n[Assinatura institucional]",
+  "legenda": "A graduação em [curso] combina teoria on-line e atividades presenciais em [estrutura]. Conheça a grade, os locais de prática e os horários. Inscrições abertas em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase branco e tipografia grande em roxo e magenta alinhada à esquerda. À direita, crie uma composição conceitual com a pessoa ou material autorizado da IMAGEM 2, um livro no lugar da cabeça e celular na mão. Acrescente aros amarelo e magenta e uma linha curva no canto inferior direito. Inclua uma frase secundária em itálico e assinatura discreta no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1927858318657956",
+    "anunciante": "CEUB",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "O curso de Gastronomia voltou ao CEUB e de forma híbrida! Estude a teoria de onde quiser e pratique presencialmente em nossos laboratórios de excelência. As inscrições estão abertas. Clique e saiba mais!\nGraduação Híbrida\nVenha para o CEUB",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1927858318657956.jpg"
+}

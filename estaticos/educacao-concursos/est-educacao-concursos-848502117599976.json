@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-848502117599976",
+  "tipo": "estatico",
+  "titulo": "Comparação de prazo entre aula e mentoria",
+  "formato": "Comparativo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça verde com título amarelo e dois blocos vermelhos comparando dois anos de aulas com seis meses de mentoria. Uma faixa amarela destaca a diferença de tempo e a base traz botão de ação.",
+  "por_que_funciona": [
+    "Os dois blocos vermelhos tornam as alternativas fáceis de comparar.",
+    "O VS central reforça a leitura de confronto entre caminhos.",
+    "A faixa amarela isola a diferença numérica entre os prazos.",
+    "O botão amarelo conecta a comparação ao desejo de acelerar a preparação."
+  ],
+  "quando_usar": "Como referência de layout para comparar modalidades de preparação com critérios comprovados; substitua prazos de aprovação por diferenças verificáveis do serviço.",
+  "estrutura_texto": "[Título de comparação]\n[Modalidade A]: [prazo ou atributo documentado]\nVS\n[Modalidade B]: [prazo ou atributo documentado]\nDiferença: [diferença comprovada]\nO que separa as duas?\n[Diferencial verificável]\n[CTA]",
+  "legenda": "Compare [modalidade A] e [modalidade B]: em [programa], você recebe [plano diário], [acompanhamento] e [avaliação individual]. Conheça os recursos para organizar sua preparação para [concurso]. O tempo até a aprovação varia conforme cada candidato.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde escuro, título amarelo grande, duas caixas vermelhas lado a lado com texto branco e VS amarelo no centro. Acrescente faixa amarela horizontal para a diferença e botão arredondado na base. Integre a foto do produto discretamente no rodapé. Compare recursos ou duração contratada; não reproduza estimativas de aprovação como resultados garantidos.",
+  "alerta_politica": "A comparação de dois anos com seis meses não apresenta base visível. Identifique hipóteses e fonte de qualquer simulação; não prometa aprovação ou redução garantida do prazo. Se os números não forem comprováveis, substitua por atributos verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "848502117599976",
+    "anunciante": "Prepara Enfermagem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-20",
+    "dias_no_ar": 451,
+    "variacoes_ativas": 2,
+    "texto_original": "Curso Completo com Mentoria e Aulas Diários para o Concurso da EBSERH\n\n✅ Curso Completo das Básicas e Específicas\n\n✅ Plano de Estudos Diário\n\n✅ Aula de 100% dos Tópicos do Edital\n\n✅ Mentorias Diárias com os Professores\n\n✅ Simulados com Resultado e Avaliação Individual de Desempenho\n\n✅ Mapas Mentais e Resumos Prontos\n\n✅ 1.800 Questões Comentadas em Vídeo\n\n✅ Acompanhamento com Tutor e Relatório de Desempenho\n\n✅ Resolução Semanal de Provas Anteriores de Português, SUS, Legislação da EBSERH, Raciocínio Lógico e Específicas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-848502117599976.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-1859654898618592",
+  "tipo": "estatico",
+  "titulo": "Assistente de IA com lista de tarefas prontas",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um robô com sacola ocupa a metade direita sobre fundo escuro com detalhes neon. À esquerda, quatro linhas com checks apresentam tarefas de criação de conteúdo e uma faixa inferior reúne recursos.",
+  "por_que_funciona": [
+    "O título grande associa IA ao contexto de vendas.",
+    "Os checks separam as funções em linhas fáceis de percorrer.",
+    "O robô com sacola comunica assistência voltada ao comércio.",
+    "Os ícones inferiores resumem recursos e canal de uso."
+  ],
+  "quando_usar": "Para apresentar as funções de uma ferramenta de IA a vendedores que precisam produzir conteúdo recorrente.",
+  "estrutura_texto": "IA para [canal]\n[Entregáveis] prontos enquanto você [atividade]\nCria [tipo de conteúdo]\nGera [tipo de texto]\nSugere [ação]\n[Recursos e canal de acesso]",
+  "legenda": "Precisa preparar [conteúdos] para [canal]? A [ferramenta] ajuda a criar [entregáveis] e tirar dúvidas sobre [atividade]. Conheça as funções e veja como usar na sua rotina.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com circuitos e contornos neon roxos, título branco e laranja no topo e subtítulo em caixa arredondada. Monte quatro linhas com checks à esquerda e um mascote robótico original à direita, junto da foto do produto. Acrescente cinco pequenos blocos de recursos no rodapé. Não reproduza personagens ou identidade de plataformas. ",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1859654898618592",
+    "anunciante": "Icaro Dias IL3",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-29",
+    "dias_no_ar": 138,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não precisa de mais um “curso”.🙏🏼\nVocê precisa de uma assistente que trabalha por você dentro da shopee.\n\nA iara shopee 360 foi criada para isso, ela cria ideias de conteúdo, copy, anúncios e textos prontos para você postar e vender e ainda responde suas dúvidas na hora, como se você tivesse alguém do seu lado o dia inteiro.🚀\n\nO melhor, tudo pensado para vender com segurança, respeitando boas práticas e evitando erros comuns que derrubam resultado.\nSe você tem mais de 35 e quer renda extra usando só o celular, essa é a ferramenta que poupa tempo e aumenta suas chances de vender com consistência.\n\n👉🏼Clique em saiba mais e veja como começar hoje.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1859654898618592.jpg"
+}

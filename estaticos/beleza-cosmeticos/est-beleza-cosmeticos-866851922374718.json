@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-866851922374718",
+  "tipo": "estatico",
+  "titulo": "Kit de cuidados com preço e frete em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Três produtos de cuidados faciais ocupam o centro, com título superior e selo circular. Uma faixa preta reúne benefícios, preço e frete grátis.",
+  "por_que_funciona": [
+    "O frasco maior ao centro dá hierarquia ao conjunto de três produtos.",
+    "A faixa preta separa a oferta da foto e facilita a leitura.",
+    "Os sinais de mais e menos resumem os benefícios apresentados.",
+    "Preço grande e frete grátis aparecem juntos no canto inferior direito."
+  ],
+  "quando_usar": "Para vender um conjunto de cuidados faciais com valor fechado e condição de entrega definida.",
+  "estrutura_texto": "KIT [COMPOSIÇÃO]\n[Endosso comprovado]\n− [Aspecto a reduzir]\n− [Aspecto a reduzir]\n+ [Benefício]\napenas R$ [Preço]\n[FRETE]",
+  "legenda": "Monte sua rotina com [produto 1], [produto 2] e [produto 3]. Kit por [preço], com [condição de frete]. Conheça [benefícios comprovados].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro de azulejos genéricos, título preto grande no topo e três produtos recortados no centro, com o maior atrás. Reserve a faixa inferior preta para benefícios em branco à esquerda e preço grande com frete à direita. Inclua selo de recomendação apenas se houver comprovação e autorização.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ou aparência ao público e prometer resultados garantidos. ANVISA: usar apenas alegações cosméticas comprovadas e compatíveis com a regularização do produto; não prometer tratamento ou cura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "866851922374718",
+    "anunciante": "Principia Skincare Pro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "KIT TRIO da Principia 😍 com Gel de Limpeza, Ácido Hialurônico e Protetor Solar 😍 por apenas R$167 com FRETE GRÁTIS para todo o Brasil 😍😍\nAlta performance dermatológica 😍",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-866851922374718.jpg"
+}

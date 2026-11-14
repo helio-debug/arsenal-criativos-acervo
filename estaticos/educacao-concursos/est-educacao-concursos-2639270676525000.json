@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2639270676525000",
+  "tipo": "estatico",
+  "titulo": "Unidades próximas com formas de ingresso",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo roxo com moldura ornamental, título verde-limão e bloco escuro sobre formas de ingresso. Ilustrações de estudantes e profissões, celular e prédio preenchem a metade inferior.",
+  "por_que_funciona": [
+    "O título verde-limão se destaca no fundo roxo.",
+    "A menção à unidade próxima apresenta um critério prático de escolha.",
+    "O bloco escuro separa as duas formas de ingresso.",
+    "As ilustrações de profissões e do prédio relacionam estudo e atuação profissional."
+  ],
+  "quando_usar": "Para retomar o interesse de visitantes que já consultaram cursos e precisam escolher unidade ou ingresso.",
+  "estrutura_texto": "[Marca]\n[Benefício do ensino] em [região].\nEscolha a unidade [critério de proximidade].\nUse sua nota de [exame] ou faça [processo seletivo]\nSAIBA MAIS!\n[Assinatura]",
+  "legenda": "Já conferiu os cursos de [instituição]? Encontre a unidade mais próxima e conheça a formação em [área de interesse]. Use sua nota de [exame] ou participe de [processo seletivo]. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo com moldura decorativa fina, título verde-limão no terço superior e texto branco abaixo. Destaque as opções de ingresso em caixa roxa escura e CTA em botão verde-limão. Na metade inferior, combine ilustrações de estudantes e profissões com uma representação de campus; incorpore a foto do produto em uma tela ou painel. Não acrescente afirmações de reconhecimento sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2639270676525000",
+    "anunciante": "Universidade São Judas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-06",
+    "dias_no_ar": 39,
+    "variacoes_ativas": 1,
+    "texto_original": "Nós vimos que você passou pelo nosso site conferindo as opções de cursos. A sua carreira de sucesso merece uma instituição tradicional, focada no desenvolvimento de competências e em preparar você de verdade para o mercado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2639270676525000.jpg"
+}

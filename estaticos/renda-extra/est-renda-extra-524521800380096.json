@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-524521800380096",
+  "tipo": "estatico",
+  "titulo": "Número grande e lista de ideias para trabalhar de casa",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Retrato de mulher sorrindo com sinal de positivo sob filtro verde. O número 20 ocupa o lado esquerdo, acima de uma chamada em faixas pretas.",
+  "por_que_funciona": [
+    "O número 20 em branco domina o lado esquerdo e informa a quantidade de ideias.",
+    "As faixas pretas separam a chamada do retrato ao fundo.",
+    "O filtro verde unifica foto e elementos gráficos sem apagar o rosto."
+  ],
+  "quando_usar": "Para divulgar um artigo com ideias de atividades feitas em casa e atrair leitores no início da pesquisa.",
+  "estrutura_texto": "[NÚMERO]\nIDEIAS PARA [OBJETIVO]\nE [ATIVIDADE] DE CASA",
+  "legenda": "Conheça [quantidade] ideias para trabalhar de casa, como [atividade] e [atividade]. Acesse [conteúdo] e avalie quais combinam com suas habilidades.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato vertical à direita com filtro verde e gesto de aprovação. Coloque um número muito grande em branco à esquerda e a chamada em letras brancas sobre três faixas pretas. Adicione curvas finas decorativas nos cantos e reserve o topo para a identidade de {{marca}}.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Depoimentos e oportunidades divulgadas devem ser reais e verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "524521800380096",
+    "anunciante": "Haxia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-27",
+    "dias_no_ar": 597,
+    "variacoes_ativas": 1,
+    "texto_original": "📢 Quer ganhar dinheiro na internet e trabalhar de casa? 💻🏡\n\nSe você quer empreender sem sair de casa, temos 20 ideias incríveis para você começar hoje mesmo! 🚀\n\n🔹 Artesanato e customização de roupas\n🔹 Comida saudável, doces e chocolates caseiros 🍫🍩\n🔹 Aulas online e serviços de beleza 🎓💄\n🔹 Marketing de afiliados e vendas online\n🔹 Criação de cursos, e-books e consultorias 📘\n\nE muito mais! 💰🔥\n\n💡 Quer ver todas as ideias e descobrir qual é a melhor para você? Acesse o blog da HAXIA e confira o artigo completo!\n\n📲 Link na bio ou acesse nosso blog agora!\n\n#EmpreendaEmCasa #TrabalhoRemoto #GanharDinheiroOnline #HAXIA #haxiabr",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-524521800380096.jpg"
+}

@@ -1,0 +1,90 @@
+{
+ "id": "vid-ninguem-te-mostra-isso",
+ "titulo": "O que ninguém te mostra sobre [coisa que você usa]",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "beleza-cosmeticos",
+  "automotivo",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "35-40s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela dividida: apresentador com microfone em cima; ilustração simples de duas configurações do mesmo objeto embaixo. Faixa vermelha com texto branco e destaque amarelo, sem corpos.",
+   "fala": "Olha este detalhe de [produto] antes de [uso comum].",
+   "texto_tela": "DETALHE DE [PRODUTO]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Mantém a tela dividida e troca a faixa por uma palavra amarela no centro. Apresentador indica o ponto marcado na ilustração.",
+   "fala": "É [parte ou etapa pouco mostrada]. Ela serve para [função verificável] durante [situação de uso].",
+   "texto_tela": "[PARTE OU ETAPA]"
+  },
+  {
+   "tempo": "10-18s",
+   "cena": "Corte para apresentador sentado num banco ao ar livre, mesa à frente. Segura uma peça grande amarela e mantém duas peças menores vermelhas na mesa, como esquema do produto.",
+   "fala": "Esta peça representa [componente principal]. Estas menores mostram [componentes relacionados]. Veja onde [detalhe] entra.",
+   "texto_tela": "[Detalhe] fica aqui"
+  },
+  {
+   "tempo": "18-28s",
+   "cena": "Plano mais próximo das mãos. Apresentador coloca a peça na mesa e aponta a relação entre os objetos. Legendas brancas no centro inferior.",
+   "fala": "Para conferir, faça [ação segura]. Observe [sinal visível]. Se aparecer [situação de atenção], siga [orientação do fabricante ou profissional].",
+   "texto_tela": "Confira [sinal visível]"
+  },
+  {
+   "tempo": "28-37s",
+   "cena": "Corte para apresentador em pé no ambiente de uso do produto. Plano da cintura para cima, mãos indicando o próximo passo.",
+   "fala": "Essa checagem ajuda a entender [função]. Salve para consultar no próximo uso. A legenda mostra [instrução complementar].",
+   "texto_tela": "Salve para o próximo uso"
+  }
+ ],
+ "hook": {
+  "falado": "Olha este detalhe de [produto] antes de [uso comum].",
+  "texto_tela": "DETALHE DE [PRODUTO]",
+  "visual": "Tela dividida: apresentador com microfone em cima; ilustração simples de duas configurações do mesmo objeto embaixo. Faixa vermelha com texto branco e destaque amarelo, sem corpos."
+ },
+ "por_que_funciona": [
+  "A abertura divide a tela entre fala e ilustração, permitindo acompanhar a explicação com um esquema.",
+  "A faixa vermelha e o destaque amarelo separam a chamada inicial do restante da imagem.",
+  "No banco ao ar livre, a peça amarela maior e as duas vermelhas menores dão escala à comparação feita com as mãos.",
+  "O apontar para a mesa precede a mudança para um ambiente interno no encerramento, separando demonstração e convite."
+ ],
+ "quando_usar": "Para produtos ou serviços que tenham um componente, ajuste ou etapa pouco demonstrada. Use para apresentar uma função verificável antes de pedir a compra.",
+ "roteiro_modelo": "Olha este detalhe de [produto] antes de [uso comum].\n\n[pausa curta; corte]\n\nÉ [parte ou etapa pouco mostrada]. Ela serve para [função verificável] durante [situação de uso].\n\n[pausa curta; corte]\n\nEsta peça representa [componente principal]. Estas menores mostram [componentes relacionados]. Veja onde [detalhe] entra.\n\n[pausa curta; corte]\n\nPara conferir, faça [ação segura]. Observe [sinal visível]. Se aparecer [situação de atenção], siga [orientação do fabricante ou profissional].\n\n[pausa curta; corte]\n\nEssa checagem ajuda a entender [função]. Salve para consultar no próximo uso. A legenda mostra [instrução complementar].",
+ "tomadas_celular": [
+  "Grave 4s em plano próximo com microfone de mesa, luz suave frontal, reservando a metade inferior para um esquema.",
+  "Grave 6s do rosto e do gesto de apontar, mesma luz, para completar a abertura em tela dividida.",
+  "Grave 8s em plano médio num banco ou cadeira, com mesa à frente e sombra aberta; segure um objeto grande e deixe dois menores à vista.",
+  "Grave 10s em close superior das mãos, com luz difusa, mostrando o detalhe ou usando peças como representação identificada.",
+  "Grave 9s da cintura para cima no local de uso, luz frontal, fazendo o convite com o produto à vista."
+ ],
+ "caminho_ia": "Crie no Kling ou Veo a abertura e a mesa com objetos; use avatar para explicar e voz sintética licenciada em pt-BR. Prompts: \"Vertical 9:16 upper-half medium close-up of a generic presenter at a podcast microphone, soft key light, neutral background, lower-half blank space for a diagram of [product component], no text or logos, 4 seconds.\" e \"Vertical 9:16 medium shot of a generic presenter seated at an outdoor wooden table in open shade, holding one large yellow prop beside two small red props representing [product components], deliberate pointing gesture, realistic hands, 8 seconds.\" Gere o esquema do produto como imagem e monte no CapCut. Identifique qualquer analogia como representação; não use cenas sintéticas para simular teste ou resultado real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 37s em cinco blocos: 0-4 detalhe de uso; 4-10 função; 10-18 esquema com objetos; 18-28 checagem demonstrada; 28-37 convite para salvar. Tom de demonstração, sem afirmar que ninguém no mundo conhece o detalhe. Abertura em tela dividida com ilustração do produto, faixa vermelha e destaque amarelo; depois mesa ao ar livre com peças de tamanhos diferentes e legendas brancas. Use o produto real quando possível e identifique analogias. Não copie corpos ilustrados, promessa de emagrecimento, quantidades ou desafio da referência. Revele o detalhe no próprio vídeo e complete as instruções na legenda. Use pt-BR falado, frases curtas e campos [entre colchetes] para dados ausentes. Não invente prova, prazo, preço ou garantia. Não copie anunciante, pessoa, marca, logotipo, domínio, contato nem falas da referência. Não use clichês, superlativos sem prova, antíteses vazias nem perguntas de enfeite. Meta: sem antes/depois de corpo, promessa de resultado de saúde ou atribuição de condição pessoal ao espectador. Em beleza e cosméticos, use benefícios sustentados e compatíveis com a regularização e rotulagem na ANVISA; não atribua efeito terapêutico a cosmético. Não copie a promessa de perda de peso da referência.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "O detalhe fica em [parte do produto]. Para conferir: [ação segura]. Observe [sinal] e siga [orientação]. Salve para consultar quando for [situação de uso].",
+ "alerta_politica": "Meta: sem antes/depois de corpo, promessa de resultado de saúde ou atribuição de condição pessoal ao espectador. Em beleza e cosméticos, use benefícios sustentados e compatíveis com a regularização e rotulagem na ANVISA; não atribua efeito terapêutico a cosmético. Não copie a promessa de perda de peso da referência.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d28372d1",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-ninguem-te-mostra-isso/frames/f1.jpg",
+    "videos/vid-ninguem-te-mostra-isso/frames/f2.jpg",
+    "videos/vid-ninguem-te-mostra-isso/frames/f3.jpg",
+    "videos/vid-ninguem-te-mostra-isso/frames/f4.jpg",
+    "videos/vid-ninguem-te-mostra-isso/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

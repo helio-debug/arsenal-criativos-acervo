@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1073800595015064",
+  "tipo": "estatico",
+  "titulo": "Post com perfil profissional e pergunta de seguidora",
+  "formato": "Post e comentários",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Arte simula um post de rede social com avatar e identificação no topo. O corpo lista características de uma profissional e termina com uma pergunta e convite para acompanhar a solução.",
+  "por_que_funciona": [
+    "O avatar e o identificador reproduzem a aparência de um post.",
+    "A lista com hífens organiza rapidamente o perfil descrito.",
+    "Agenda lotada e falta de tempo formam o problema explícito.",
+    "A pergunta final e o emoji apontam para a continuação do conteúdo."
+  ],
+  "quando_usar": "Para introduzir um conteúdo sobre modelos de serviço e gestão de agenda a partir de um caso real autorizado.",
+  "estrutura_texto": "[AVATAR E AUTOR]\n[INTRODUÇÃO DE RELATO]\n[LISTA DE CARACTERÍSTICAS E CONTEXTO]\n[PERGUNTA SOBRE O PROBLEMA]\n[CONVITE À CONTINUAÇÃO]",
+  "legenda": "Como organizar [serviço] quando a agenda já está cheia? Conheça uma abordagem para [estruturar uma oferta] e avaliar [capacidade de atendimento]. Veja os detalhes de [mentoria] em [canal], sem garantia de renda.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza o layout de post sobre fundo branco, avatar pequeno no topo esquerdo, nome e identificador genéricos ao lado. Use texto preto alinhado à esquerda, introdução curta, lista com hífens e pergunta final separada por espaço. Inclua convite para continuar com emoji discreto. Use apenas caso autorizado e verificável, sem inventar relato, perfil ou ganhos.",
+  "alerta_politica": "Renda e oportunidades de negócio: não prometer aumento de renda ou liberdade financeira. Relatos precisam ser autênticos, autorizados e contextualizados; evitar atribuir ao leitor condição financeira ou pessoal. A profissão citada não torna esta oferta um tratamento de saúde.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1073800595015064",
+    "anunciante": "Jonas Kaz",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-14",
+    "dias_no_ar": 92,
+    "variacoes_ativas": 5,
+    "texto_original": "Psicóloga, aumente o seu faturamento e renda mensal como um método validado.\n\nE se você pudesse ter acesso a uma estratégia testada e validada para empacotar o seu conhecimento e atendimento em forma de um produto altamente lucrativo...\n\nE estou falando aqui de algo que pode te fazer faturar 5, 10, 30, 50 até 100 mil reais todos os meses.\n\nAo mesmo tempo em que você tem liberdade de tempo para o que realmente importa.\n\nEsses resultados estão ao seu alcance exatamente agora.\n\nE tudo o que você precisa fazer é criar e vender o seu conhecimento em forma de mentoria online.\n\nIsso te inspira?\n\nO meu time de especialistas está disponível agora para fazer uma sessão de diagnóstico sobre o seu negócio e para definir qual mentoria você já está pronto para criar, vender e faturar.\n\nVamos juntos traçar uma estratégia para aumentar o seu faturamento mensal em no mínimo 10x. \n\nE a melhor notícia vem agora, é 100% gratuito.\n\nPara garantir uma vaga na sessão de diagnóstico...\n\nÉ só apertar em “Saiba Mais” e fazer a sua aplicação no formulário.\n\nNos vemos do outro lado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1073800595015064.jpg"
+}

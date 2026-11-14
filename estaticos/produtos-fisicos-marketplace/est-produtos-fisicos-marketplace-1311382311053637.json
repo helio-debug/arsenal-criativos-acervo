@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1311382311053637",
+  "tipo": "estatico",
+  "titulo": "Bicicleta inteira em destaque sobre fundo neutro",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma bicicleta de gravel aparece de perfil sobre fundo cinza claro, ocupando quase toda a largura. Duas linhas no topo anunciam o modelo e o tipo de suspensão.",
+  "por_que_funciona": [
+    "A vista lateral permite observar o quadro, o guidão e os componentes.",
+    "O fundo cinza claro separa visualmente a bicicleta escura.",
+    "A chamada “Nova” apresenta a novidade antes da especificação.",
+    "O subtítulo identifica a categoria e a suspensão sem disputar espaço com a foto."
+  ],
+  "quando_usar": "Para apresentar um novo modelo de bicicleta a pessoas que já conhecem a categoria e querem observar o equipamento.",
+  "estrutura_texto": "Nova [MODELO]\nA bike de [CATEGORIA] [DIFERENCIAL TÉCNICO]",
+  "legenda": "Conheça a nova [modelo], uma bicicleta de [categoria] com [diferencial técnico]. Veja os componentes, as opções disponíveis e os detalhes no [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre o produto da IMAGEM 2 de perfil, grande e inteiramente visível, sobre fundo cinza claro com sombra suave no chão. Use título preto centralizado no topo com indicação de lançamento e nome próprio do modelo; abaixo, um subtítulo menor com categoria e diferencial técnico confirmado. Preserve a geometria e os componentes reais do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1311382311053637",
+    "anunciante": "Trek Bicycle",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-10",
+    "dias_no_ar": 218,
+    "variacoes_ativas": 1,
+    "texto_original": "Aventure-se e vá além!\nConheça a nova Trek CheckOUT, a bike de gravel full suspension com guidão drop. Feita para qualquer terreno, perfeita para qualquer aventura.\n\nAcesse o site e descubra cada detalhe da CheckOUT.\nNova CheckOUT\nConheça a bike de gravel full suspension",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1311382311053637.jpg"
+}

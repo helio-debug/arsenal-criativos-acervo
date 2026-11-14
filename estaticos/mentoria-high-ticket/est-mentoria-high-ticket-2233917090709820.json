@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-2233917090709820",
+  "tipo": "estatico",
+  "titulo": "Chamada para imobiliárias sobre foto de entrevista",
+  "formato": "novo:Foto de entrevista com chamada",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de um homem de perfil diante de um microfone em cenário escuro. Caixas brancas arredondadas sobre a parte inferior da foto exibem uma chamada por segmento e faixa de faturamento.",
+  "por_que_funciona": [
+    "A abertura nomeia imobiliárias e torna a seleção de público explícita.",
+    "O critério “$1M+ a year” qualifica o porte da empresa a que o material se dirige.",
+    "O número “5” delimita a quantidade de estruturas oferecidas.",
+    "As caixas brancas preservam a leitura do texto sobre a foto escura com microfone."
+  ],
+  "quando_usar": "Para captar contatos de donos de empresas de um segmento e porte definidos com um material gratuito que antecede uma consultoria ou workshop.",
+  "estrutura_texto": "[Segmento] que faturam [valor] por [período], estes [número] [métodos de crescimento] são para vocês.",
+  "legenda": "Você administra [tipo de empresa]? Receba gratuitamente [número] estruturas para trabalhar [áreas de gestão]. Deixe seu [e-mail] em [canal] para acessar o material e conhecer o [workshop] que aprofunda a aplicação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto em estilo entrevista, com pessoa de perfil e microfone, cenário escuro e enquadramento próximo. Integre a IMAGEM 2 de modo coerente com o produto ou especialista, sem reproduzir a pessoa da referência. Sobreponha caixas brancas arredondadas no terço inferior, com tipografia preta grande. Destaque em negrito o segmento e complete com critério de porte e quantidade de métodos. Preserve espaço acima do texto e um degradê escuro discreto na base. Não invente autoridade nem resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2233917090709820",
+    "anunciante": "Alex Hormozi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-22",
+    "dias_no_ar": 115,
+    "variacoes_ativas": 80,
+    "texto_original": "Business Owners – real quick – can I get your email?\n\nI want to send you the exact frameworks we’ve used to scale: \n\n•   Sales \n•   Teams \n•   Communication \n•   Compensation \n•   Worker productivity\n\nThese are the same systems we implement across our portfolio companies, and you can get them—for free.\n\nBut that’s just the beginning.\n\nThese frameworks are only a fraction of what we cover in our Scaling Workshop.\n\nOur two-day intensive at our headquarters includes:\n- Day 1: Deep dive into our proven scaling methodology\n- Day 2: Group sessions with our leadership team to help you apply it\n\nYou’ll leave with a clear, actionable plan to scale every function of your business.\n\nIf you’re serious about growth this year, spend two days in Vegas surrounded by high-level business owners who are in the trenches like you. \n\n🔗 Download your free scaling frameworks → https://www.acquisition.com/fivescalingframeworks \n\n📞 Book a call to learn more\n\nP.S. This is only for business owners with customers, revenue, and employees—so every conversation stays high level.",
+    "origem_coleta": "acervo:alex-hormozi"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-2233917090709820.jpg",
+  "formato_novo_def": "Foto em contexto de entrevista ou podcast com chamada curta sobreposta em caixas de alto contraste. A cena ocupa quase toda a peça e o texto seleciona o público ou apresenta uma promessa de conteúdo."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1055660853959336",
+  "tipo": "estatico",
+  "titulo": "Simulador de empréstimo como elemento central",
+  "formato": "Interativo",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Um cartão de simulação mostra valor de empréstimo, controle deslizante e opções de parcelas, com 48x destacado. O fundo alterna branco e laranja e inclui cédulas nas bordas e botão de contato.",
+  "por_que_funciona": [
+    "O valor grande no centro torna a simulação o foco da peça.",
+    "As opções de 12x a 48x mostram visualmente a escolha de prazo.",
+    "O prazo selecionado usa laranja para se diferenciar dos demais.",
+    "O botão branco com ícone de mensagem indica o canal de contratação."
+  ],
+  "quando_usar": "Para divulgar simulação de crédito com valores ilustrativos e condições de contratação claramente informadas.",
+  "estrutura_texto": "[Chamada neutra sobre crédito]\nSimule [modalidade]\nValor do empréstimo\n[Valor ilustrativo]\nParcele em até [prazo]\n[Opções de prazo]\n[Condição das parcelas]\nContrate em [canal]",
+  "legenda": "Conheça [modalidade de crédito] e simule [valor] em até [prazo], sujeito à análise e às condições do produto. Confira taxas, CET e valor total antes de contratar em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco na parte superior e laranja na inferior. No centro, desenhe cartão com borda roxa, valor grande, controle deslizante ilustrativo e quatro botões de prazo; destaque um em laranja. Inclua CTA arredondado e condições legais legíveis. Formule chamada neutra, sem presumir endividamento ou dificuldade financeira do leitor. Não sugira que a imagem estática aceita interação.",
+  "alerta_politica": "Em anúncios de empréstimo, evite presumir dificuldade financeira pessoal. Informe taxas, CET, prazo, valor total e condições de elegibilidade; deixe claro que a contratação está sujeita à análise. Não prometa aprovação ou crédito garantido. Valores ilustrativos e condições precisam estar identificados e legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1055660853959336",
+    "anunciante": "Banco Bmg",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-30",
+    "dias_no_ar": 137,
+    "variacoes_ativas": 3,
+    "texto_original": "Precisando de fôlego extra nas contas? Com o Crédito do Trabalhador Bmg, você simula e contrata seu empréstimo direto pelo WhatsApp, com parcelas que cabem no seu bolso. Clique no botão e fale com a gente agora mesmo!\nOlá! Vi um anúncio e gostaria de saber mais sobre Empréstimo Consignado Privado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1055660853959336.jpg"
+}

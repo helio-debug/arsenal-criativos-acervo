@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-909434575449927",
+  "tipo": "estatico",
+  "titulo": "Curso com lista de conteúdos e chamada de última chance",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Título grande sobre nota fiscal e faixa vermelha de urgência. Uma lista de conteúdos ocupa a esquerda, ao lado de uma ilustração de computador, documento, calculadora e instrutor.",
+  "por_que_funciona": [
+    "O título em azul ocupa quase toda a largura e identifica o assunto antes dos detalhes.",
+    "Os marcadores vermelhos tornam o programa do curso fácil de percorrer.",
+    "O computador com nota fiscal e calculadora representa a atividade ensinada.",
+    "A faixa de última chance destaca a urgência acima da lista."
+  ],
+  "quando_usar": "Para divulgar cursos técnicos a pessoas que já reconhecem o tema e querem conferir o programa antes de se inscrever.",
+  "estrutura_texto": "CURSO ONLINE DE [TEMA]\n[URGÊNCIA REAL]\nCURSO INCLUI:\n[CONTEÚDOS EM LISTA]\n[MODALIDADE E BENEFÍCIOS]\n[CHAMADA FINAL]",
+  "legenda": "Aprenda os procedimentos de [atividade] no curso online de [tema]. Voltado a [público], o programa aborda [conteúdos] e inclui [recursos de apoio]. Confira os detalhes em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, título azul-marinho muito grande no topo e faixa vermelha para [urgência real]. Divida o centro entre checklist com marcadores vermelhos à esquerda e ilustração didática relacionada ao produto à direita. Inclua selo de estudo no próprio ritmo e rodapé com quatro benefícios acompanhados de ícones. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "909434575449927",
+    "anunciante": "GJ Treinamentos Contábeis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "Você sabe emitir uma Nota Fiscal corretamente? Sabe quais os procedimentos que envolve a sua elaboração?\n\nSe você é profissional contábil ou empreendedor, saber como emitir uma Nota Fiscal e tudo o que ela envolve é fundamental.\n\nPor conta da obrigatoriedade da emissão das NFs e dos problemas causados pela negligência neste quesito, é fundamental saber como proceder. Por isso, desenvolvemos um curso completo de Nota Fiscal para ajudar você!\n\n🔴 Curso online de Nota Fiscal\n\nConteúdo do curso:\n\nTipos de Notas Fiscais\nOperações de Nota Fiscal\nSituações de emissão\nEmissão da Nota Fiscal\nNFe\nNFCe\nDANFE\nDiferenças entre NFe e NFCe\nCST, CFOP, CSOSN e NCM\nNota fiscal de Serviço Eletrônico\n\nApenas R$ 97,00 (taxa única)\nAcesso vitalício\nAulas em vídeo\n+ Aulas de Fluxo de Caixa\n\n🔸🔸Clique em \"Saiba mais\" e faça sua matricula👇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-909434575449927.jpg"
+}

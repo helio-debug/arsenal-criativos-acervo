@@ -1,0 +1,38 @@
+{
+  "id": "est-renda-extra-2351731528648382",
+  "tipo": "estatico",
+  "titulo": "Convite para afiliados dentro da tela do celular",
+  "formato": "novo:Convite de parceria",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Uma mão segura um celular sobre fundo azul. Na tela branca, o convite ao programa, a possibilidade de renda extra e um botão contornado aparecem centralizados.",
+  "por_que_funciona": [
+    "O celular na mão torna visível o contexto digital da atividade.",
+    "O título central em azul concentra a atenção no papel oferecido.",
+    "A tela branca separa a mensagem do fundo azul.",
+    "O botão “Saiba mais” oferece uma próxima ação de baixa exigência."
+  ],
+  "quando_usar": "Para atrair interessados em programas de afiliados ou divulgação de ofertas e encaminhá-los à explicação das regras.",
+  "estrutura_texto": "[IDENTIFICAÇÃO DO PROGRAMA]\nSeja um [PAPEL NO PROGRAMA]\n[OPORTUNIDADE DE RENDA] [CONDIÇÃO DE ATUAÇÃO]\n[CTA]",
+  "legenda": "Divulgue ofertas de [categoria] e conheça as condições para receber comissões com [programa]. Veja como participar, quais vendas são elegíveis e como funciona o pagamento em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul liso e fotografia de uma mão segurando um smartphone grande na vertical. Na tela branca, coloque título azul em negrito, benefício em corpo menor e botão de contorno azul. Use a IMAGEM 2 dentro da tela se ajudar a identificar a oferta. Inclua apenas identificação própria e condições reais, sem prometer renda certa. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: não prometer renda, lucro garantido ou ganhos sem esforço. Informar condições, custos e critérios da oportunidade; resultados dependem da atividade e não são assegurados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2351731528648382",
+    "anunciante": "Influenciador Magalu",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "Seja um Influenciador de ofertas do Magalu e aproveite para ganhar dinheiro promovendo produtos incríveis!\nMonetize Sua Audiência\nTudo de forma leve, prática e real.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2351731528648382.jpg",
+  "formato_novo_def": "Convite publicitário para aderir a um programa de revenda ou afiliação, centrado no papel do participante e no benefício de participar, com ilustração ou mockup como apoio."
+}

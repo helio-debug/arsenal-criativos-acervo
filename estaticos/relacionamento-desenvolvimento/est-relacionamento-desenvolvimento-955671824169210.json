@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-955671824169210",
+  "tipo": "estatico",
+  "titulo": "Pergunta religiosa em tipografia central",
+  "formato": "Alerta e educação",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Pergunta religiosa centralizada sobre fundo preto com brilho vermelho no topo. Um pequeno símbolo religioso branco aparece acima; uma palavra recebe destaque laranja em itálico.",
+  "por_que_funciona": [
+    "A frase curta cabe em três linhas de leitura rápida.",
+    "A palavra laranja em itálico marca o conceito central da pergunta.",
+    "O espaço vazio embaixo concentra a atenção no texto.",
+    "O símbolo no alto sinaliza o contexto religioso da mensagem."
+  ],
+  "quando_usar": "Para perfis de reflexão religiosa que desejam apresentar uma pergunta de estudo à comunidade.",
+  "estrutura_texto": "Se [REFERÊNCIA DE FÉ] chama de [CONCEITO], [PERGUNTA PARA REFLEXÃO]?",
+  "legenda": "Como [texto de referência] orienta a reflexão sobre [tema]? Leia [passagem] e acompanhe [conteúdo de estudo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho vermelho escuro no topo, símbolo próprio pequeno centralizado acima e pergunta em três linhas no centro superior. Combine tipografia branca de peso alto com uma palavra laranja em itálico serifado. Deixe amplo espaço vazio na metade inferior. Use a IMAGEM 2 apenas se trouxer um elemento próprio pertinente, sem forçar um produto físico. Não atribua crença ao leitor.",
+  "alerta_politica": "Meta: religião é atributo pessoal sensível. Apresentar a reflexão de forma geral, sem afirmar ou insinuar a crença do leitor e sem depreciar pessoas de outras crenças.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "955671824169210",
+    "anunciante": "Igreja Adventista do Sétimo Dia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 2,
+    "texto_original": "No mundo de hoje, ouvimos muitas opiniões sobre o que é certo ou errado. Mas, como cristãos, sabemos que a Bíblia é a nossa verdadeira guia.\n\nQuando a Bíblia diz que algo está errado, não devemos tentar justificar nossas ações. Devemos reconhecer nossos erros, pedir perdão e procurar fazer melhor, confiando em Jesus para nos ajudar.\n\nTome a decisão de seguir a Palavra de Deus e dizer não ao que é errado, mesmo quando for difícil.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-955671824169210.jpg"
+}

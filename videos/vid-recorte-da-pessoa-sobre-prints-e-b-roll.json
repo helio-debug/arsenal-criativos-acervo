@@ -1,0 +1,90 @@
+{
+ "id": "vid-recorte-da-pessoa-sobre-prints-e-b-roll",
+ "tipo": "video",
+ "titulo": "Pessoa recortada sobre prints e b-roll que trocam conforme a fala",
+ "formato_video": "green-screen",
+ "nichos": [
+  "marketing-trafego",
+  "ia-ferramentas",
+  "investimentos",
+  "renda-extra"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "aula-ou-live-gratuita",
+ "etapa_funil": "topo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Indicador principal] mudou nesta semana. Isso entra na decisão de [decisão do público].",
+  "texto_tela": "[Indicador principal] | [período]",
+  "visual": "Apresentador recortado no terço inferior; print real com quadros pretos sobre página branca ao fundo. Aproximar um quadro sem cobrir o dado."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Apresentador recortado no terço inferior; print real com quadros pretos sobre página branca ao fundo. Aproximar um quadro sem cobrir o dado.",
+   "fala": "[Indicador principal] mudou nesta semana. Isso entra na decisão de [decisão do público].",
+   "texto_tela": "[Indicador principal] | [período]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Trocar para outro print e ampliar o recorte do peito para cima. Legendas brancas com contorno preto, de uma a três palavras.",
+   "fala": "Neste quadro, veja [dado verificável]. A fonte e a data estão aqui.",
+   "texto_tela": "[Dado] | [fonte e data]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Reduzir o apresentador e mostrar a página com títulos e links. Um b-roll curto pode ilustrar o assunto citado.",
+   "fala": "Eu reuni isso com [conteúdo relacionado] para explicar o que mudou em [tema].",
+   "texto_tela": "[Tema da atualização]"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Voltar ao print principal; recorte maior e gesto apontando para a área livre.",
+   "fala": "Na [aula gratuita], eu mostro como ler esse material e usar na hora de [tarefa do público].",
+   "texto_tela": "[Aula gratuita] | [assunto]"
+  },
+  {
+   "tempo": "25-32s",
+   "cena": "Manter fundo real, aproximar o apresentador e inserir CTA legível abaixo do rosto.",
+   "fala": "Toque no botão e faça a inscrição gratuita. Você recebe [forma de acesso] para acompanhar a aula.",
+   "texto_tela": "Inscreva-se grátis | [forma de acesso]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame combina quadros pretos de indicadores e o rosto recortado na parte inferior; o material citado já aparece na abertura.",
+  "Nos frames seguintes, o recorte passa de pequeno a grande enquanto as páginas mudam; isso permite alternar leitura do documento e fala direta.",
+  "As legendas brancas com contorno preto continuam visíveis sobre a camisa e sobre a página clara.",
+  "O convite falado para cadastro vem depois da exibição das páginas, dando um objeto concreto ao convite."
+ ],
+ "quando_usar": "Para quem ensina a interpretar dados ou acompanhar novidades em marketing, IA, investimentos ou trabalho por conta própria. Use na captação para uma aula gratuita com material real para mostrar.",
+ "roteiro_modelo": "[Indicador principal] mudou nesta semana. Isso entra na decisão de [decisão do público].\n\n[Pausa curta / corte]\n\nNeste quadro, veja [dado verificável]. A fonte e a data estão aqui.\n\n[Pausa curta / corte]\n\nEu reuni isso com [conteúdo relacionado] para explicar o que mudou em [tema].\n\n[Pausa curta / corte]\n\nNa [aula gratuita], eu mostro como ler esse material e usar na hora de [tarefa do público].\n\n[Pausa curta / corte]\n\nToque no botão e faça a inscrição gratuita. Você recebe [forma de acesso] para acompanhar a aula.",
+ "tomadas_celular": [
+  "Fala inteira em plano médio vertical, celular na altura dos olhos, luz de janela a 45 graus e parede lisa; grave 35s para recortar.",
+  "Repita o gancho em close do peito para cima, mesma luz, 5s; deixe espaço acima para os dados.",
+  "Grave apontando para a lateral em plano médio, luz frontal difusa, 6s; mantenha a mão dentro do quadro.",
+  "Grave um objeto ou ambiente ligado a [tema], sem dados pessoais, plano de detalhe, luz natural, 5s.",
+  "Capture a tela do próprio celular exibindo [documento autorizado], brilho médio e sem reflexos, 8s; esconda nomes e contatos."
+ ],
+ "caminho_ia": "Use avatar autorizado para a fala e recorte automático no CapCut sobre prints próprios anonimizados. Para o b-roll, use Veo ou Runway, sem gerar documentos que aparentem ser prova real. Prompts: \"Vertical 9:16 documentary close-up of [product-related object], soft window light, slow push-in, 5 seconds, no logos, no text.\" e \"Vertical 9:16 medium shot of hands reviewing [product-related material] on a desk, diffused daylight, locked camera, 5 seconds, no readable personal data.\" Sincronize legendas curtas com a voz sintética ou clonada com autorização.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte 32s com pessoa recortada sobre prints reais: dado na abertura, contexto, material, convite para aula e inscrição. Alterne tamanho do recorte e troque o fundo na frase correspondente; legendas brancas de uma a três palavras com contorno preto. Tom explicativo. Gere também duas alternativas de gancho de 4s para teste, mantendo o corpo. Não acrescente clipe viral sem relação com o assunto; os frames não mostram esse recurso. Não copie páginas, índices, identidade ou fala do anunciante. Use pt-BR falado, frases curtas e colchetes onde faltar informação. Não copie marcas, pessoas, nomes de clientes, contatos ou falas da referência. Evite antítese vazia, tríades decorativas, perguntas de enfeite e promessas sem prova. Use somente informações fornecidas e indique dados que precisam de comprovação. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Na [aula gratuita], vamos ler [material] e aplicar em [tarefa]. Inscrição pelo botão. [Data e forma de acesso].",
+ "alerta_politica": "Meta: oportunidades de negócio e renda extra não podem prometer ganho garantido, fácil ou resultado atípico como se fosse comum; informe condições e resultados típicos quando citar ganhos. Não atribua dificuldade financeira ao espectador. Em investimentos, siga as regras da CVM para a atividade e o produto; dados históricos não garantem retorno futuro. Mostre fonte, período e riscos. Se a adaptação oferecer crédito, observe as exigências do Banco Central e divulgue custos e condições.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c86fdda4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-recorte-da-pessoa-sobre-prints-e-b-roll/frames/f1.jpg",
+    "videos/vid-recorte-da-pessoa-sobre-prints-e-b-roll/frames/f2.jpg",
+    "videos/vid-recorte-da-pessoa-sobre-prints-e-b-roll/frames/f3.jpg",
+    "videos/vid-recorte-da-pessoa-sobre-prints-e-b-roll/frames/f4.jpg",
+    "videos/vid-recorte-da-pessoa-sobre-prints-e-b-roll/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

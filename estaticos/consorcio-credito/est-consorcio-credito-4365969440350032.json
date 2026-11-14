@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-4365969440350032",
+  "tipo": "estatico",
+  "titulo": "Cartão inclinado com limite e lista de condições",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo verde-claro com chamada de crédito no topo e cartão grande inclinado à direita. Limite, checklist e botão textual ocupam a coluna esquerda.",
+  "por_que_funciona": [
+    "O valor do limite usa números grandes e ocupa uma área de leitura imediata.",
+    "O cartão inclinado apresenta visualmente a categoria do produto.",
+    "Três itens com caixas marcadas organizam as condições da solicitação.",
+    "O comando sublinhado com seta indica a próxima ação."
+  ],
+  "quando_usar": "Para serviços de indicação ou solicitação de cartão, quando o público já procura opções de crédito.",
+  "estrutura_texto": "[CATEGORIA]\nPeça com [DOCUMENTO]*\n*[CONDIÇÃO DE APROVAÇÃO]\nLimite de crédito até: [VALOR]*\n☑ [CONDIÇÃO 1]\n☑ [CONDIÇÃO 2]\n☑ [FACILIDADE DO PROCESSO]\n[CTA]\n[RESSALVAS]",
+  "legenda": "Encontre opções de [tipo de cartão] e confira os critérios para solicitar. [Benefícios comprovados]. Limites e aprovação sujeitos à análise de [emissor]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde suave, título preto grande no topo, valor em destaque à esquerda e a foto do produto da IMAGEM 2 inclinada à direita. Inclua três condições com checkboxes, CTA sublinhado com seta e ressalvas legíveis no rodapé. Use somente condições verificadas.",
+  "alerta_politica": "Meta: não sugerir aprovação garantida nem condições de crédito sem comprovação. Informar análise, elegibilidade, tarifas e condições aplicáveis; benefícios e limites precisam corresponder à oferta real.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4365969440350032",
+    "anunciante": "Utua credito",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-30",
+    "dias_no_ar": 229,
+    "variacoes_ativas": 1,
+    "texto_original": "Quiz | UTUA | BR\nRecomendação de cartão de crédito com convite pré-aprovado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-4365969440350032.jpg"
+}

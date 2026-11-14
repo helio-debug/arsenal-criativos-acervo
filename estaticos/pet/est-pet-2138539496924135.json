@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2138539496924135",
+  "tipo": "estatico",
+  "titulo": "Coleira para gato com cena externa e ícones",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Gato caminha em um tronco perto de uma pessoa com capacete. A chamada ocupa o céu claro, a duração aparece sobre o gato e três ícones ficam na faixa branca inferior.",
+  "por_que_funciona": [
+    "O gato ao ar livre contextualiza o uso do produto.",
+    "A chamada azul ocupa a área livre do céu.",
+    "O número oito ampliado destaca a duração anunciada.",
+    "Os ícones separam os benefícios em blocos fáceis de ler."
+  ],
+  "quando_usar": "Produtos veterinários para gatos com duração e benefícios comprovados.",
+  "estrutura_texto": "[Chamada curta de colocação e uso]\n[Até X meses de benefício]\n[Benefício 1]\n[Benefício 2]\n[Benefício 3]",
+  "legenda": "[Produto]: [chamada curta]. Proteção contra [parasitas indicados] por [duração autorizada]. Confira as instruções de uso e encontre em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre gato usando o produto em cena externa segura, com céu claro e espaço para chamada azul-petróleo de aspecto manuscrito. Destaque [duração comprovada] perto do animal. Reserve faixa branca inferior para três ícones e benefícios autorizados. Não invente duração ou garantias.",
+  "alerta_politica": "Produto veterinário: ação contra parasitas, duração e resistência à água devem corresponder ao registro e à rotulagem aprovados pelo MAPA. Evite proteção absoluta ou indicação fora da espécie e faixa de uso autorizadas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2138539496924135",
+    "anunciante": "Elanco Pets Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "Seresto™: Colocou, ajustou, bora! \nSeu gato protegido contra pulgas por até 8 meses e pronto para explorar com segurança.\n🐾🐱 #ColocouAjustouBora\nSeresto™: Colocou, ajustou, bora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2138539496924135.jpg"
+}

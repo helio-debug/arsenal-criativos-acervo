@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1152603993852302",
+  "tipo": "estatico",
+  "titulo": "Citação sobre tecnologia a bordo em foto de navegação",
+  "formato": "Depoimento em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma pessoa ao leme ocupa a fotografia de fundo. Na parte inferior, um degradê escuro sustenta uma citação em ciano e uma chamada editorial branca sobre digitalização na navegação.",
+  "por_que_funciona": [
+    "A pessoa operando o leme mostra a tecnologia em um contexto de uso real.",
+    "As aspas destacam uma fala curta antes do tema explicativo.",
+    "O ciano diferencia a citação do título editorial branco.",
+    "O degradê escuro preserva a leitura sem esconder toda a fotografia."
+  ],
+  "quando_usar": "Para marcas de instrumentos e sensores náuticos introduzirem conteúdo sobre integração de dados a bordo, usando uma fala autorizada.",
+  "estrutura_texto": "“[CITAÇÃO CURTA SOBRE A EXPERIÊNCIA]”\n[COMO A TECNOLOGIA ESTÁ MUDANDO A ATIVIDADE]",
+  "legenda": "“[Depoimento real e autorizado sobre tecnologia a bordo]”. Veja como [sensores e instrumentos conectados] ajudam a reunir [dados relevantes] durante [atividade]. Conheça [conteúdo ou solução] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 em contexto de operação, com pessoa utilizando o equipamento quando disponível. Aplique degradê azul quase preto na base. Sobre ele, coloque uma citação curta em ciano e, logo abaixo, chamada editorial branca em tipografia grande e pesada. Não invente depoimento; use fala fornecida e autorizada ou um espaço indicado para inserção. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1152603993852302",
+    "anunciante": "Cyclops Marine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 2,
+    "texto_original": "\"𝙀𝙫𝙚𝙧𝙮𝙩𝙝𝙞𝙣𝙜 𝙤𝙣𝙗𝙤𝙖𝙧𝙙 𝙞𝙨 𝙨𝙢𝙖𝙧𝙩. 𝙄𝙩’𝙨 𝙖𝙡𝙡 𝙩𝙖𝙡𝙠𝙞𝙣𝙜 𝙩𝙤 𝙚𝙖𝙘𝙝 𝙤𝙩𝙝𝙚𝙧 𝙩𝙤 𝙢𝙖𝙠𝙚 𝙮𝙤𝙪 𝙨𝙖𝙛𝙚𝙧 𝙖𝙣𝙙 𝙩𝙤 𝙝𝙚𝙡𝙥 𝙮𝙤𝙪 𝙨𝙖𝙞𝙡 𝙗𝙚𝙩𝙩𝙚𝙧, 𝙞𝙣 𝙢𝙤𝙧𝙚 𝙘𝙤𝙢𝙛𝙤𝙧𝙩.\" \n— Vision Yachts owner on why they chose a fully connected bluewater cruising catamaran.\n\nSo, what's changed?\n\nDigital information like GPS, speed, heel, wind, depth, engine status and so on has been available for some time. \n\nBut the more recent advent of technologies like security monitoring, anchor watch systems, smart sails and rigs represents the widespread digitalisation of physical components. \n\nWhen monitoring technologies become connected and easily viewed via MFDs and mobile apps as an intuitive centralised system, individual gadgets transform into a cohesive onboard ecosystem working together to protect the yacht and empower its owner for simple, efficient sailing and enhanced performance. \n\nRead more about this shift: https://www.cyclopsmarine.com/how-digitalisation-is-changing-sailing/?utm_source=facebook&utm_medium=facebook&utm_campaign=cruising&utm_content=digitalisation\n\n#SmartSailing",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1152603993852302.jpg"
+}

@@ -1,0 +1,90 @@
+{
+ "id": "vid-numero-grande-contador-animado",
+ "tipo": "video",
+ "titulo": "Número gigante contando até o resultado e o que ele significa",
+ "formato_video": "animacao",
+ "nichos": [
+  "investimentos",
+  "saas-b2b",
+  "marketing-trafego",
+  "saude"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Quantidade comprovada] de [unidade]. Esse foi o registro de [período].",
+  "texto_tela": "[Quantidade] [unidade] | [período]",
+  "visual": "Número grande sobe de zero até [quantidade comprovada] sobre fundo preto com brilho verde discreto. Rótulo e período ficam fixos. O contador é uma adaptação dos percentuais vistos na referência."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Número grande sobe de zero até [quantidade comprovada] sobre fundo preto com brilho verde discreto. Rótulo e período ficam fixos. O contador é uma adaptação dos percentuais vistos na referência.",
+   "fala": "[Quantidade comprovada] de [unidade]. Esse foi o registro de [período].",
+   "texto_tela": "[Quantidade] [unidade] | [período]"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Número encolhe para o canto; cartão com primeiro recorte de fonte real, sem dados pessoais.",
+   "fala": "A contagem considera [critério de inclusão]. A fonte é [registro verificável].",
+   "texto_tela": "Conta: [critério] | Fonte: [registro]"
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Segundo cartão entra lateralmente; detalhe de [produto ou processo] em janela vertical.",
+   "fala": "Durante [situação concreta], usamos [produto] para [ação observável].",
+   "texto_tela": "[Ação observável]"
+  },
+  {
+   "tempo": "15-22s",
+   "cena": "Terceiro cartão com linha do tempo simples e marcações verdes. Não preencher uma barra com progresso fictício.",
+   "fala": "O dado cobre [recorte da medição]. [Limitação relevante] também precisa entrar nessa leitura.",
+   "texto_tela": "[Recorte] | [limitação]"
+  },
+  {
+   "tempo": "22-28s",
+   "cena": "Número e rótulo voltam menores; cartela de CTA com uma única ação, inspirada no comentário final da referência.",
+   "fala": "Toque no botão para ver [explicação ou demonstração] e conferir como esse número foi medido.",
+   "texto_tela": "Ver [explicação ou demonstração]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame põe percentuais de imagem e som em gráficos separados; os números vêm acompanhados de rótulo, evitando um valor solto.",
+  "As janelas de exemplos e a timeline oferecem áreas distintas para mostrar dado e contexto; essa composição sustenta os cartões explicativos.",
+  "Etiquetas verde-limão sobre fundo escuro destacam pequenos itens da timeline e podem marcar os pontos da medição.",
+  "O último frame concentra a chamada em uma palavra grande e mostra uma conversa abaixo, ligando a instrução ao próximo passo."
+ ],
+ "quando_usar": "Para quem possui uma contagem documentada de uso, entrega ou atividade e precisa explicar o que ela mede. Use no topo do funil; em saúde e investimentos, escolha dados operacionais sem insinuar cura ou retorno garantido.",
+ "roteiro_modelo": "[Quantidade comprovada] de [unidade]. Esse foi o registro de [período].\n\n[Pausa curta / corte]\n\nA contagem considera [critério de inclusão]. A fonte é [registro verificável].\n\n[Pausa curta / corte]\n\nDurante [situação concreta], usamos [produto] para [ação observável].\n\n[Pausa curta / corte]\n\nO dado cobre [recorte da medição]. [Limitação relevante] também precisa entrar nessa leitura.\n\n[Pausa curta / corte]\n\nToque no botão para ver [explicação ou demonstração] e conferir como esse número foi medido.",
+ "tomadas_celular": [
+  "Filme a fonte própria da contagem em plano fechado, celular fixo, luz difusa sem reflexo, 6s; remova dados pessoais.",
+  "Grave [produto ou processo] em plano médio sem rosto, luz de janela lateral, 6s.",
+  "Grave uma ocorrência real de [ação contada], plano de detalhe, luz uniforme, 5s.",
+  "Filme o material que explica [critério], plano superior, janela lateral, 5s.",
+  "Plano limpo de [produto] para o final, câmera fixa e luz frontal suave, 5s; o número é adicionado no editor."
+ ],
+ "caminho_ia": "Crie o contador, os rótulos e os cartões no CapCut; use voz sintética ou clonada autorizada. Para inserts ilustrativos, use Veo ou Sora: \"Vertical 9:16 macro shot of [product-related object], black background with subtle lime rim light, slow camera slide, 5 seconds, no text, no logos.\" e \"Vertical 9:16 overhead shot of [process-related objects] arranged on a dark desk, soft top light, locked camera, 5 seconds, no readable data, no faces.\" Use fontes reais para a medição; não gere prints como comprovação. Faça o contador terminar no valor verificado e mantenha unidade, período e fonte legíveis.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 28s com contador grande de zero até um número documentado, rótulo e período; depois três beats: critério e fonte, aplicação do produto, recorte e limite da medição. Termine com convite para conferir os detalhes. Fundo escuro, verde-limão, cartões em janelas e timeline simples inspirados nos frames. A referência mostra percentuais e exemplos de edição, não comprova um contador crescente; trate a contagem como adaptação. Tom factual; não invente métricas nem efeitos de som supostamente ouvidos. Não copie mascote, software, arquivos, promessa, termos em inglês ou palavra de comentário da referência. Para saúde, evite métricas de cura; para investimento, não trate resultado passado como previsão. Use pt-BR falado, frases curtas e colchetes onde faltar informação. Não copie marcas, pessoas, nomes de clientes, contatos ou falas da referência. Evite antítese vazia, tríades decorativas, perguntas de enfeite e promessas sem prova. Use somente informações fornecidas e indique dados que precisam de comprovação. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Quantidade] [unidade] em [período], considerando [critério]. Veja a fonte e os limites da medição em [destino]. [Limitação relevante].",
+ "alerta_politica": "Meta: não use antes/depois de corpo nem promessa de resultado de saúde, e não afirme ou insinue condição médica pessoal do espectador. Em saúde, siga ANVISA para alegações e produtos sujeitos à vigilância sanitária e CFM quando houver publicidade médica; contagem operacional não comprova eficácia clínica. Em investimentos, siga a CVM e apresente fonte, período e riscos; desempenho passado não garante retorno futuro. Para crédito, aplicam-se as regras do Banco Central e a divulgação de custos e condições.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-960bee32",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-numero-grande-contador-animado/frames/f1.jpg",
+    "videos/vid-numero-grande-contador-animado/frames/f2.jpg",
+    "videos/vid-numero-grande-contador-animado/frames/f3.jpg",
+    "videos/vid-numero-grande-contador-animado/frames/f4.jpg",
+    "videos/vid-numero-grande-contador-animado/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

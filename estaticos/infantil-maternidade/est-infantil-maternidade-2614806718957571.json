@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-2614806718957571",
+  "tipo": "estatico",
+  "titulo": "Cozinha infantil aberta e fechada com criança ao lado",
+  "formato": "Produto em destaque",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Montagem em fundo branco mostra cozinha de brinquedo montada com panelas e alimentos, sua versão fechada em mala com rodas e a embalagem ao fundo. Uma criança ao lado segura a alça da mala e ajuda a indicar a escala.",
+  "por_que_funciona": [
+    "A cozinha montada à esquerda permite ver bancada, utensílios e alimentos incluídos.",
+    "A mala fechada em primeiro plano evidencia a possibilidade de guardar e transportar o brinquedo.",
+    "A criança ao lado oferece uma referência visual de tamanho.",
+    "As cores amarelo, vermelho e verde separam as partes do conjunto no fundo branco."
+  ],
+  "quando_usar": "Para lojas de brinquedos apresentarem conjuntos com acessórios e transformação entre modos de uso.",
+  "estrutura_texto": "[Nome da categoria]\n[Idade recomendada]\n[Quantidade de modos] em 1\n[Quantidade] peças\n[Imagens do produto montado e fechado]",
+  "legenda": "Conheça [brinquedo], indicado para [faixa etária conforme fabricante]. Veja [acessórios incluídos] e os [modos de uso] no catálogo. Escolha [opção disponível] para presentear.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição em fundo branco: produto aberto e montado ocupando a esquerda, versão fechada em primeiro plano à direita e embalagem atrás. Inclua criança com roupa cotidiana ao lado para indicar escala, sob supervisão quando aplicável. Destaque as cores reais e os acessórios incluídos. Use apenas idade, quantidade de peças e modos de uso confirmados para meu produto; não acrescente itens que não acompanham a compra.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2614806718957571",
+    "anunciante": "Im Toys",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 1,
+    "texto_original": "🎁 Procurando um brinquedo que vai arrancar sorrisos de verdade?\n\nNa IM Toys, você encontra opções para diferentes idades, gostos e momentos de diversão!\n\n🧸 Brinquedos para explorar, brincar, aprender e criar memórias especiais.\n\n🔥 Não deixe para depois a alegria de surpreender!\n\n🛒 Confira nosso catálogo, escolha seus favoritos e garanta o próximo presente especial.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-2614806718957571.jpg"
+}

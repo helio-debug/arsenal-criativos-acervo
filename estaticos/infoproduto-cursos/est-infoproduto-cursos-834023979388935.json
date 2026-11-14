@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-834023979388935",
+  "tipo": "estatico",
+  "titulo": "Curso de curadoria com arquitetura e prova de alcance",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Faixa branca superior com título preto, descrição da instituição e números de participantes e países. A parte inferior mostra um edifício cultural de arquitetura angular sob céu nublado.",
+  "por_que_funciona": [
+    "O título preto grande apresenta a profissão de imediato.",
+    "Os números de participantes e países acrescentam evidência de alcance à formação.",
+    "A fotografia arquitetônica associa a oferta ao universo de espaços culturais."
+  ],
+  "quando_usar": "Para formações culturais com identidade visual sóbria e números de participação comprovados.",
+  "estrutura_texto": "[ÁREA DE FORMAÇÃO]\n[TIPO DE INSTITUIÇÃO] QUE FORMA [PROFISSIONAIS]\n[ORIGEM DA FORMAÇÃO]\n[QUANTIDADE DE PARTICIPANTES] + [QUANTIDADE DE PAÍSES]",
+  "legenda": "As inscrições para [curso] estão abertas. A formação inclui [acompanhamento individual] para desenvolver [competências]. As vagas seguem [capacidade real de atendimento]. Confira o programa, os prazos e a disponibilidade em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma faixa branca no terço superior com título preto em caixa alta e subtítulo centralizado. Abaixo, inclua uma linha de números de alcance somente se fornecidos e comprovados. Preencha os dois terços inferiores com a foto da IMAGEM 2 ou uma representação coerente do produto, mantendo tom sóbrio e contraste. Não reproduza o edifício da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "834023979388935",
+    "anunciante": "momboart",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-28",
+    "dias_no_ar": 170,
+    "variacoes_ativas": 1,
+    "texto_original": "⏰ Cada vez que abrimos convocatoria del Curso de Curador de Arte pasa lo mismo. Se llena. Y la gente que llegó un día tarde se queda fuera hasta la siguiente apertura.\n\nNo es una estrategia de marketing. Es una consecuencia directa de cómo funciona el curso: cada alumno tiene un tutor asignado que le da retroalimentación personalizada.\n\nSi aceptáramos a todo el mundo, la calidad del acompañamiento se desplomaría. Y eso no lo vamos a permitir.\n\nPor eso las plazas son limitadas. Por eso cuando se cierra, se cierra de verdad.\n\nSi llevas tiempo pensando en formarte en curaduría de arte, en entender cómo funciona el sistema expositivo, en aprender a presentar proyectos a museos e instituciones… este es el momento.\n\nNo dentro de un mes. No \"cuando tenga tiempo\". Ahora. Porque cuando esta convocatoria se complete, tendrás que esperar.\n\n📋 5 módulos · Proyecto final real\n👨🏫 Tutor personalizado\n📜 Certificado oficial · ©Mombó Art Gallery España\n🌐 100% online · 30 días · Cualquier país\n💰 150 € · Pago único\n\n⚠️ Convocatoria abierta. Plazas muy limitadas.\n👉 Asegura tu plaza en momboartgallery.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-834023979388935.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1018199157336789",
+  "tipo": "estatico",
+  "titulo": "Ecossistema de integrações em órbitas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo branco com linhas circulares finas e vários logotipos em discos com brilho azul. No centro ficam a marca, a mensagem de integração e um selo azul com a categoria das plataformas.",
+  "por_que_funciona": [
+    "Os discos em órbita tornam visível a ideia de várias integrações em um só lugar.",
+    "O centro livre concentra a leitura na proposta de integração ágil.",
+    "O contraste entre branco e azul dá destaque à mensagem principal.",
+    "Os logotipos representam plataformas concretas do ecossistema."
+  ],
+  "quando_usar": "Para softwares B2B que precisam apresentar compatibilidade com várias ferramentas ou canais.",
+  "estrutura_texto": "[Marca]\nIntegração [benefício operacional]\n[Categoria das integrações]\n[Identificações das plataformas conectadas]",
+  "legenda": "Conecte [plataformas ou canais] em [solução] e simplifique [processo]. Agende uma demonstração para conhecer as integrações disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie diagrama de ecossistema sobre fundo branco, com círculos orbitais finos e discos brancos com halo azul suave. Coloque a identificação própria do produto no centro, proposta de valor em preto e selo azul com a categoria. Use a IMAGEM 2 como identificação visual do produto central. Nos discos, inclua somente integrações comprovadas fornecidas pelo usuário e seus ícones autorizados; não copie os logotipos da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1018199157336789",
+    "anunciante": "Gupy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 4,
+    "texto_original": "Com a Gupy você tem integrações de forma ágil e sem dor de cabeça!\nAgende uma demonstração!",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1018199157336789.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1481134806725408",
+  "tipo": "estatico",
+  "titulo": "Manchete jurídica com retrato no escritório",
+  "formato": "Alerta e educação",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Peça editorial com manchete branca e amarela, fotografia de um profissional sentado em escritório e parágrafo explicativo. Tarja amarela inferior identifica o assunto.",
+  "por_que_funciona": [
+    "Palavras amarelas recortam o tema dentro da manchete branca.",
+    "A fotografia de escritório dá contexto ao serviço apresentado.",
+    "O parágrafo abaixo da foto explica a mudança anunciada no título.",
+    "A tarja inferior repete o assunto e fecha a composição."
+  ],
+  "quando_usar": "Para profissionais jurídicos divulgarem informação sobre financiamento e procedimentos, sem prometer desfecho de processos.",
+  "estrutura_texto": "[CATEGORIA EDITORIAL]\n[PROCEDIMENTO] ganha [MUDANÇA] com [FATOR] e [CONSEQUÊNCIA].\n[FOTO DO PROFISSIONAL]\n[EXPLICAÇÃO COM FONTE E CONTEXTO]\n[TEMA]",
+  "legenda": "Uma equipe organizada ajuda a acompanhar [tipo de demanda] e analisar [documentos relevantes]. Acompanhe conteúdos sobre [tema jurídico] e entenda os procedimentos envolvidos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma composição editorial com fundo escuro, cabeçalho discreto, manchete branca com palavras amarelas e foto da IMAGEM 2 em grande retângulo de cantos arredondados no centro. Inclua parágrafo informativo legível abaixo e tarja amarela de tema no rodapé. Não invente especialista, citação ou notícia; use fatos fornecidos.",
+  "alerta_politica": "Na divulgação de serviços jurídicos, observar as regras de publicidade da OAB: conteúdo informativo, sem promessa de êxito, captação indevida ou alarmismo. Meta: evitar atribuir endividamento ao leitor ou explorar dificuldades financeiras pessoais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1481134806725408",
+    "anunciante": "Bruno Durão Advocacia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 2,
+    "texto_original": "Uma estrutura sólida é o que garante que cada contrato de financiamento receba a atenção técnica que merece. 🏛️\n\nPor trás de cada análise de juros abusivos ou defesa de busca e apreensão, existe uma equipe dedicada e uma logística preparada para atuar com precisão. Acreditamos que a organização é o caminho para a produtividade e a justiça.\n\nSiga o perfil para entender como uma advocacia estruturada protege seus direitos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1481134806725408.jpg"
+}

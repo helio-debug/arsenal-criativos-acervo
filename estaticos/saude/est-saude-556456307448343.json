@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-556456307448343",
+  "tipo": "estatico",
+  "titulo": "Cuidado ortopédico com retrato de pessoa ativa",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Homem com roupa esportiva e toalha aparece à direita, sobre fundo escurecido. Texto verde no alto, caixa contornada e chamada inferior direcionam ao especialista em ombro ou joelho.",
+  "por_que_funciona": [
+    "O retrato com toalha situa a mensagem no contexto de atividade física.",
+    "O título verde sobre fundo escuro ganha destaque imediato.",
+    "O contorno verde agrupa o texto de apoio em uma área de leitura.",
+    "A chamada inferior nomeia ombro e joelho e explicita a especialidade procurada."
+  ],
+  "quando_usar": "Para clínicas de ortopedia apresentarem avaliação especializada a pessoas que buscam orientação sobre dor ou cirurgia.",
+  "estrutura_texto": "[Chamada de cuidado corporal]\n[Texto sobre mobilidade e cuidado]\nAo considerar [procedimento ou avaliação] em\n[região do corpo], procure\n[profissional habilitado]",
+  "legenda": "Cuidados com [ombro ou joelho] começam com avaliação individual. Conheça [serviço de ortopedia] e converse com [especialista habilitado] sobre as opções indicadas para [objetivo de mobilidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a IMAGEM 2 como retrato de pessoa adulta em contexto esportivo à direita. Escureça a metade esquerda para título verde vibrante, texto branco em caixa com contorno verde e orientação de busca por especialista no rodapé. Adicione pontos verdes nas bordas e identificação profissional legível; evite promessa de ausência de dor ou recuperação completa.",
+  "alerta_politica": "CFM/Meta: identificar responsável técnico e registros aplicáveis. Evitar promessa de vida sem dor ou retorno completo à atividade; indicação cirúrgica e resultados dependem de avaliação individual. Não presumir condição de saúde do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "556456307448343",
+    "anunciante": "SC Ortopedia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-04",
+    "dias_no_ar": 620,
+    "variacoes_ativas": 1,
+    "texto_original": "CLINICA SCO ORTOPEDIA, OMBRO E JOELHO PARA VOLTAR A ATIVIDADE COMPLETA",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-556456307448343.jpg"
+}

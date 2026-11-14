@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-1818095918819461",
+  "tipo": "estatico",
+  "titulo": "Seleção de proteínas com desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo claro com chamada verde no alto e três embalagens de proteína agrupadas no centro. A promessa de descontos aparece em preto na base.",
+  "por_que_funciona": [
+    "O título verde identifica a categoria antes da leitura dos rótulos.",
+    "As três embalagens lado a lado comunicam variedade de escolha.",
+    "A frase de descontos na base concentra o incentivo comercial em uma linha."
+  ],
+  "quando_usar": "Lojas com variedade de proteínas e uma condição comercial disponível para a categoria.",
+  "estrutura_texto": "[Marca da loja]\n[Categoria de produto]\n[Chamada de variedade]\n[Fotos dos produtos]\n[Condição promocional]",
+  "legenda": "Escolha seu [tipo de suplemento] entre [opções disponíveis]. Aproveite [desconto à vista] ou pague em [condição de parcelamento]. Confira as ofertas em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com leve tonalidade verde, assinatura discreta no alto, título verde em caixa alta e subtítulo preto. Centralize um grupo de embalagens, com a maior ao centro, e feche com uma linha preta de oferta. Preserve os rótulos do produto fornecido e use somente condições comprovadas.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1818095918819461",
+    "anunciante": "UniNatural Comércio de Produtos Naturais",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-13",
+    "dias_no_ar": 274,
+    "variacoes_ativas": 1,
+    "texto_original": "💪 Equilibre sua dieta com os melhores wheys do mercado!\nConcentrados - Isolados - Hidrolisados\nEscolha o seu preferido!\n💳 Pagamento em até 3x sem juros\n🔥 Desconto à vista!\nWhey Protein\nSite Seguro",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1818095918819461.jpg"
+}

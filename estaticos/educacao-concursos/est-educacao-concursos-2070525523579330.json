@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-2070525523579330",
+  "tipo": "estatico",
+  "titulo": "Capa de resultados com tipografia e dourado",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Capa tipográfica de carrossel em azul muito escuro e dourado anuncia índices de aprovação e relatos. O rodapé traz convite para arrastar e marcador 1/8.",
+  "por_que_funciona": [
+    "A segunda linha dourada destaca a mensagem sobre resultados.",
+    "O selo contornado identifica o tema da sequência.",
+    "O convite para arrastar e o marcador 1/8 indicam continuidade."
+  ],
+  "quando_usar": "Para abrir uma sequência com índices documentados e depoimentos autorizados de alunos.",
+  "estrutura_texto": "[Identificação do curso]\n[Nossos resultados]\n[Nossos números]\n[Chamada sobre resultados]\n[Convite para conhecer índices e relatos]\n[Arraste e confira]\n[Identificação]\n[1/total]",
+  "legenda": "Confira os resultados de [turma/período]: [percentuais verificados e base de cálculo]. Nas próximas imagens, veja relatos autorizados de [alunos]. Conheça [curso] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie capa de carrossel com fundo azul quase preto, pequenos textos dourados com espaçamento amplo e selo oval contornado no topo. Use título grande condensado em branco e dourado, apoio em cinza claro e CTA discreto no rodapé. Inclua marcador de páginas. Use a IMAGEM 2 como pequeno apoio visual apenas se pertinente, preservando o predomínio tipográfico. Não invente percentuais ou depoimentos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2070525523579330",
+    "anunciante": "focototalcursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-17",
+    "dias_no_ar": 89,
+    "variacoes_ativas": 1,
+    "texto_original": "Resultado que fala por si. 🏆\n\nNos últimos concursos do MPSP, o Foco Total aprovou 76% dos nossos alunos no 94º, 70% no 95º e 78% no 96º — números que traduzem método, direcionamento e a experiência de mais de 25 anos de nosso Coordenador Pedagógico lecionando em cursos preparatórios (@prof_estefam).\n\nMas mais do que percentuais, são histórias reais de quem realizou o sonho da aprovação. Arraste e confira os depoimentos de quem chegou lá com a gente. 👉\n\nA próxima história de aprovação pode ser a sua. Conheça nossos cursos em cursofocototal.com.br — link na bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2070525523579330.jpg"
+}

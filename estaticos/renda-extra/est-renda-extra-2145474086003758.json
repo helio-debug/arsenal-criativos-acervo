@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2145474086003758",
+  "tipo": "estatico",
+  "titulo": "Casa física e terreno digital em comparação",
+  "formato": "Comparativo",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Chamada sobre um ex acompanha uma casa demarcada e uma seta para um terreno virtual. Faixas pretas destacam o texto e os botões de download.",
+  "por_que_funciona": [
+    "A frase sobre o ex abre uma história curta antes de apresentar o aplicativo.",
+    "A seta conecta a casa ao lote virtual e explica a relação visualmente.",
+    "O destaque amarelo em “digitalmente” concentra a leitura na modalidade de posse.",
+    "Os selos das lojas indicam como acessar o aplicativo."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de terrenos virtuais com regras de recompensas explicadas na legenda.",
+  "estrutura_texto": "[Gancho sobre posse física] → [terreno virtual] → [contraste com posse digital] → [benefício condicionado] → [download]",
+  "legenda": "Explore [lugares] e colecione [terrenos digitais] em [aplicativo]. Conheça as regras, os custos e as condições para receber [recompensas].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use faixas pretas no topo e na base, letras brancas grandes e palavras em verde e amarelo. No centro, disponha uma cena física à esquerda e um cartão com terreno virtual à direita, unidos por seta. Reserve a base para identidade própria e chamada de download. Não invente saldo nem ganhos.",
+  "alerta_politica": "Recompensas financeiras devem apresentar condições, custos e limitações com clareza; evite promessas de renda garantida ou representação de terreno virtual como propriedade imobiliária real.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2145474086003758",
+    "anunciante": "Atlas Earth",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 1,
+    "texto_original": "Seu bairro. Seus lugares favoritos. Seus terrenos digitais. Colecione o mundo real no ATLAS e ganhe recompensas em dinheiro de verdade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2145474086003758.jpg"
+}

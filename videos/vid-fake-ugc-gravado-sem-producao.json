@@ -1,0 +1,89 @@
+{
+ "id": "vid-fake-ugc-gravado-sem-producao",
+ "tipo": "video",
+ "titulo": "Vídeo casual de celular, sem produção, como se fosse recomendação",
+ "formato_video": "ugc-talking-head",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "beleza-cosmeticos",
+  "suplementos",
+  "pet"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "topo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Preciso te mostrar uma coisa. Esse é o [produto] que eu uso para [uso real].",
+  "texto_tela": "Olha o [produto]",
+  "visual": "Sentado no sofá, celular à altura dos olhos. Incline o corpo para mostrar o objeto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Sentado no sofá, celular à altura dos olhos. Incline o corpo para mostrar o objeto.",
+   "fala": "Preciso te mostrar uma coisa. Esse é o [produto] que eu uso para [uso real].",
+   "texto_tela": "Olha o [produto]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Mesmo plano, objeto perto da lente; destaque branco grande sobre o tronco.",
+   "fala": "Eu usava [alternativa anterior] quando precisava de [tarefa]. O que me incomodava era [limitação concreta].",
+   "texto_tela": "[Limitação em até 5 palavras]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Corte para plano mais próximo. Mostre uma etapa real de uso com as mãos.",
+   "fala": "Com esse aqui, eu faço assim: [etapa de uso]. Dá para ver [característica verificável].",
+   "texto_tela": "[Característica do produto]"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Volte ao plano médio, com gesto indicando o detalhe citado.",
+   "fala": "No meu uso, [observação verdadeira]. Só presta atenção em [limite ou cuidado de uso].",
+   "texto_tela": "[Observação real]"
+  },
+  {
+   "tempo": "25-35s",
+   "cena": "Apresentador sentado, produto na mão e gesto discreto para baixo.",
+   "fala": "O [produto] está com [desconto real] usando [cupom]. Toque no botão para ver [preço e condições] antes de escolher.",
+   "texto_tela": "[Cupom] • [condições]"
+  }
+ ],
+ "por_que_funciona": [
+  "O plano sentado no sofá mantém mãos e rosto visíveis; os gestos acompanham a fala.",
+  "Os primeiros frames usam texto branco grande sobre o tronco, fazendo uma afirmação se destacar das legendas pequenas.",
+  "A aproximação no frame central muda o tamanho do rosto sem trocar de ambiente."
+ ],
+ "quando_usar": "Para produtos físicos que tenham um uso simples de mostrar. Use no primeiro contato, com relato verdadeiro ou apresentador identificado como publicidade.",
+ "roteiro_modelo": "Preciso te mostrar uma coisa. Esse é o [produto] que eu uso para [uso real].\n\n[Pausa / corte]\n\nEu usava [alternativa anterior] quando precisava de [tarefa]. O que me incomodava era [limitação concreta].\n\n[Pausa / corte]\n\nCom esse aqui, eu faço assim: [etapa de uso]. Dá para ver [característica verificável].\n\n[Pausa / corte]\n\nNo meu uso, [observação verdadeira]. Só presta atenção em [limite ou cuidado de uso].\n\n[Pausa / corte]\n\nO [produto] está com [desconto real] usando [cupom]. Toque no botão para ver [preço e condições] antes de escolher.",
+ "tomadas_celular": [
+  "Plano médio sentado no sofá, celular vertical apoiado e luz lateral de janela; grave 4s de abertura.",
+  "Plano médio com o produto junto ao rosto, mesma luz de janela; grave 6s contando a situação anterior.",
+  "Detalhe das mãos usando o produto, celular apoiado perto da mesa e luz difusa; grave 7s sem esconder etapas.",
+  "Plano próximo do rosto, janela à frente e fundo cotidiano; grave 8s com observação real e cuidado de uso.",
+  "Plano médio com produto e gesto para o botão, mesma luz; grave 10s para oferta e condições."
+ ],
+ "caminho_ia": "Use Veo ou Kling para gerar um apresentador fictício sentado em ambiente cotidiano e detalhes do produto. Use avatar identificado como virtual e voz sintética; só use voz clonada com autorização. Não atribua experiência de consumo a quem não a teve: nessa versão, troque o relato por apresentação de características verificadas. Prompts: \"Vertical 9:16 smartphone video, medium shot of a fictional adult presenter seated on a sofa holding [product], soft side window light, slight handheld drift, natural gestures, no logos, no embedded text.\" e \"Vertical 9:16 close-up of hands demonstrating [product usage step], realistic product geometry matching [product reference], soft daylight, continuous action, no invented effects, no text.\" Monte no CapCut, com legendas brancas e um destaque maior por trecho.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte a execução ao meu produto, sem copiar a identidade ou as alegações da peça.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nVídeo casual de celular de 35s: abertura mostrando o produto, situação anterior, uso visível, observação real com limite e cupom no fim. Tom de conversa, pausas curtas, cortes entre plano médio e próximo. Legendas brancas pequenas e destaque grande só no detalhe citado. Não copie números, alegações de faturamento, cenário exato ou identidade da referência. Não invente depoimento; se não houver usuário real, escreva como apresentador publicitário. Use pt-BR falado, frases curtas e campos [adaptáveis]. Evite antíteses vazias, perguntas de enfeite, superlativos sem prova e fechos de efeito. Respeite as políticas aplicáveis ao produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Usei [produto] para [uso real]. Aqui dá para ver [característica verificável]. Cupom [cupom]: [desconto e condições]. Confira [preço e validade] no botão.",
+ "alerta_politica": "Meta: não afirmar atributos pessoais de saúde, criar autopercepção negativa ou prometer resultado de saúde; sem antes/depois de corpo neste modelo. ANVISA: suplementos só podem usar alegações autorizadas, sem prometer cura ou tratamento; cosméticos não devem receber alegações terapêuticas. Não simular recomendação espontânea nem inventar experiência de cliente. Fonte: https://www.gov.br/anvisa/pt-br/assuntos/alimentos/suplementos-alimentares/cuidado-com-a-propaganda-enganosa/",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b7860dbd",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-fake-ugc-gravado-sem-producao/frames/f1.jpg",
+    "videos/vid-fake-ugc-gravado-sem-producao/frames/f2.jpg",
+    "videos/vid-fake-ugc-gravado-sem-producao/frames/f3.jpg",
+    "videos/vid-fake-ugc-gravado-sem-producao/frames/f4.jpg",
+    "videos/vid-fake-ugc-gravado-sem-producao/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

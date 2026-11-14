@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-2120047385256731",
+  "tipo": "estatico",
+  "titulo": "Cartão empresarial com benefício direto",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Dois cartões sobrepostos aparecem no centro de um fundo roxo com cápsula lilás. A chamada superior apresenta aprovação rápida e ausência de anuidade, com convite para abrir conta no rodapé.",
+  "por_que_funciona": [
+    "Os dois cartões no centro tornam imediatamente reconhecível o produto financeiro.",
+    "A chamada cita MEI e delimita o público da oferta.",
+    "O texto “sem anuidade” apresenta um benefício objetivo antes do convite para abrir conta."
+  ],
+  "quando_usar": "Para divulgar cartão empresarial a pequenos negócios, apresentando condições reais de contratação.",
+  "estrutura_texto": "Peça seu [PRODUTO FINANCEIRO] com [CONDIÇÃO] e [BENEFÍCIO] para [PÚBLICO].\nAbra sua [CONTA].",
+  "legenda": "Peça [cartão empresarial] com [condição de anuidade] para acompanhar a rotina do seu [tipo de negócio]. Abra sua [conta empresarial] em [canal]. Consulte os critérios de análise e contratação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo uniforme e cápsula horizontal lilás ao centro. Posicione dois cartões da IMAGEM 2 sobrepostos, um claro na frente e outro escuro atrás. Reserve o topo para chamada branca de duas linhas e o rodapé para CTA e identidade própria. Não invente aprovação garantida nem dados de cartão.",
+  "alerta_politica": "Crédito: informar condições e eventual análise de crédito; alegações de aprovação rápida e ausência de anuidade devem ser comprováveis. Não prometer aprovação garantida nem atribuir situação financeira ao usuário. Observar as restrições da Meta para produtos financeiros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2120047385256731",
+    "anunciante": "Nubank",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-10",
+    "dias_no_ar": 65,
+    "variacoes_ativas": 1,
+    "texto_original": "Peça um Cartão PJ sem anuidade para acompanhar a rotina do seu MEI.\nAbra sua conta Nu Empresas\nAbra sua conta Nu Empresas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-2120047385256731.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-970964568696740",
+  "tipo": "estatico",
+  "titulo": "Tratamento facial parcelado com bônus",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de uma mulher à esquerda, oferta de tratamento e preço à direita, com faixa dourada inferior anunciando bônus de aplicação em três regiões.",
+  "por_que_funciona": [
+    "O retrato ocupa quase toda a lateral esquerda e dá presença humana à peça.",
+    "O valor em fonte grande fica próximo ao nome do tratamento.",
+    "A lista à direita permite localizar os benefícios anunciados.",
+    "A faixa dourada separa o bônus da oferta principal."
+  ],
+  "quando_usar": "Como referência de hierarquia para divulgar serviços estéticos e condições comerciais permitidas pelo conselho profissional.",
+  "estrutura_texto": "[Marca]\n[Tratamento]\n[Parcelas]x R$ [Valor]\n[Benefícios]\nGANHE:\n[Bônus]\n[Detalhes do bônus]",
+  "legenda": "Conheça [tratamento] e consulte as condições de [oferta]. A indicação e o planejamento dependem de avaliação profissional. [CTA para agendamento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com formas orgânicas verde-oliva e bege, retrato autorizado à esquerda, título em serifada à direita e preço destacado abaixo. Acrescente lista curta e faixa dourada inferior para [condição comercial permitida]. Não associe o retrato a resultado comprovado e não anuncie medicamento como brinde.",
+  "alerta_politica": "ANVISA: publicidade de medicamentos sob prescrição ao público é restrita; evitar promoção de toxina botulínica como brinde. Observar regras do conselho profissional, comprovação de alegações e condições de parcelamento, sem garantia de rejuvenescimento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "970964568696740",
+    "anunciante": "Life Estética",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-14",
+    "dias_no_ar": 245,
+    "variacoes_ativas": 1,
+    "texto_original": "instagram.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-970964568696740.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-2628530160926975",
+  "tipo": "estatico",
+  "titulo": "Campanha sazonal com motores e prazo da oferta",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de barco em movimento com paisagem de outono e título promocional branco. Motores de popa recortados ocupam o primeiro plano, acima de rodapé azul com validade e botão.",
+  "por_que_funciona": [
+    "O barco em movimento mostra o contexto de uso dos motores.",
+    "Os motores ampliados em primeiro plano destacam diferentes modelos.",
+    "O título em letras altas ocupa o topo sem esconder o barco.",
+    "A faixa azul isola o período da campanha e o botão de ação."
+  ],
+  "quando_usar": "Para fabricantes e revendedores de equipamentos náuticos anunciarem campanhas sazonais com produtos elegíveis e período definido.",
+  "estrutura_texto": "[Marca ou categoria]\n[Chamada sazonal]\n[Evento promocional]\nOferta válida de [data inicial] a [data final]\n[CTA]",
+  "legenda": "Durante [período], compre [produto elegível] e tenha acesso a [condição de proteção] e [crédito ou benefício promocional]. Consulte os modelos participantes, as regras e a disponibilidade em [canal de venda]. Saiba mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de contexto com embarcação em movimento e paisagem sazonal ao fundo. No topo, aplique chamada branca condensada de grande porte e faixa laranja com identificação da campanha. Recorte os produtos da IMAGEM 2 e amplie-os no primeiro plano, com sobreposições naturais. Reserve rodapé azul para validade da oferta e botão branco. Use somente datas e condições fornecidas, sem acrescentar benefícios inexistentes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2628530160926975",
+    "anunciante": "Yamaha Outboards",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 4,
+    "texto_original": "Buy an eligible Yamaha 30 – 450 HP outboard and receive up to 7 years of protection, and up to $600 in dealer credit.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/automotivo/est-automotivo-2628530160926975.jpg"
+}

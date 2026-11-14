@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-1047496424992884",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre melhoria de processos com profissional pensativa",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma profissional pensativa diante do notebook à direita. À esquerda, uma pergunta em azul e lilás conduz à escolha de um problema real de trabalho.",
+  "por_que_funciona": [
+    "A pergunta em lilás destaca a dúvida central sobre por onde começar.",
+    "A profissional com a mão no queixo dá uma expressão visual à dúvida.",
+    "A orientação curta abaixo do traço lilás oferece um primeiro passo concreto."
+  ],
+  "quando_usar": "Para apresentar uma formação aplicada a gestores que começam a mapear problemas de processos.",
+  "estrutura_texto": "O processo da sua [área] precisa melhorar. Por onde começar? Escolha um [problema real] do seu [contexto].",
+  "legenda": "[Problemas de processo] podem ser o ponto de partida de um projeto de melhoria. No [programa], você aplica [método] a um desafio real da sua empresa com [acompanhamento individual]. Toque em [CTA] para conhecer a dinâmica.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro, foto de profissional em reflexão à direita e texto alinhado à esquerda. Dê destaque azul-escuro ao problema e lilás à pergunta. Insira um traço curto e uma orientação abaixo; ondas luminosas lilases no rodapé sem cobrir o texto. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1047496424992884",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Aprovações demoradas, retrabalho e falhas entre áreas não precisam virar rotina. Elas são o ponto de partida para uma transformação concreta.\n\nNo PPFL Serviços, você aprende a aplicar o Pensamento A3 sobre um problema real da sua empresa, contando com mentoria individualizada de especialistas do Lean Institute Brasil.\n\nToque em \"Saiba Mais\" e veja como funciona a dinâmica do programa.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1047496424992884.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-799740531714830",
+  "tipo": "estatico",
+  "titulo": "Aquarela de barcos apresenta o resultado do curso",
+  "formato": "Feito à mão",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Aquarela de barcos atracados ocupa a maior parte da arte. Uma faixa branca inferior apresenta o curso online, seu título e uma frase de incentivo, com uma linha azul no rodapé.",
+  "por_que_funciona": [
+    "A pintura em grande escala oferece uma amostra da técnica ensinada.",
+    "Os reflexos na água e o desenho dos barcos mostram detalhes do trabalho.",
+    "A faixa branca separa a informação comercial da obra.",
+    "A linha que informa o curso online esclarece o tipo de oferta."
+  ],
+  "quando_usar": "Apresentar cursos de arte cujo principal argumento visual seja uma amostra do resultado ensinado.",
+  "estrutura_texto": "CURSO ONLINE COMPLETO\n[NOME DO CURSO]\n[FRASE DE INCENTIVO]",
+  "legenda": "Conheça o curso online de [técnica artística]. Veja o conteúdo e as informações para inscrição no link de [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Dedique cerca de três quartos da composição a uma aquarela original relacionada ao meu produto, com pigmentos suaves e textura de papel. Abaixo, use faixa branca com pequena linha de modalidade em caixa alta, título serifado maior e frase curta. Finalize com linha azul fina, sem copiar a pintura da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "799740531714830",
+    "anunciante": "Rafael Pita",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-05-02",
+    "dias_no_ar": 926,
+    "variacoes_ativas": 1,
+    "texto_original": "🎨✅➡️Link da BIO🎨",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-799740531714830.jpg"
+}

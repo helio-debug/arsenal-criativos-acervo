@@ -1,0 +1,95 @@
+{
+ "id": "vid-mostruario-contador",
+ "titulo": "Mostruário de efeitos animados com contador e acesso ao recurso",
+ "formato_video": "animacao",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "30-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Veja [quantidade real] aplicações de [produto] antes de escolher por onde começar.",
+  "texto_tela": "[Quantidade real] aplicações de [produto]",
+  "visual": "Cartões em fundo preto, detalhes verde-limão e um contador de demonstrações no rodapé."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Abrir com cartões parcialmente cobertos e título grande; revelar as miniaturas sem simular bloqueio de acesso.",
+   "fala": "Veja [quantidade real] aplicações de [produto] antes de escolher por onde começar.",
+   "texto_tela": "[Quantidade real] aplicações"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Abrir a grade completa, com itens contados e miniaturas distintas.",
+   "fala": "Separei os exemplos por [critério de uso]. O primeiro grupo serve para [situação A].",
+   "texto_tela": "Grupo 1 | [situação A]"
+  },
+  {
+   "tempo": "8-15s",
+   "cena": "Mostrar primeiro grupo em tela cheia, cerca de 2s por exemplo; contador avança apenas quando muda o item.",
+   "fala": "Aqui, [aplicação A1] ajuda em [tarefa A1]. Já [aplicação A2] atende [tarefa A2].",
+   "texto_tela": "[Índice]/[total] | [aplicação atual]"
+  },
+  {
+   "tempo": "15-23s",
+   "cena": "Segundo grupo: títulos em mosaico e enquadramento de celular com exemplos do produto. Manter contador embaixo.",
+   "fala": "No segundo grupo, use [aplicação B1] para [tarefa B1] e [aplicação B2] em [situação B2].",
+   "texto_tela": "Grupo 2 | [situação B]"
+  },
+  {
+   "tempo": "23-30s",
+   "cena": "Último grupo: ampliar cada aplicação e voltar para a grade preenchida.",
+   "fala": "Para [situação C], comece por [aplicação C1]. Na lista, cada exemplo vem com [orientação prática].",
+   "texto_tela": "Grupo 3 | [situação C]"
+  },
+  {
+   "tempo": "30-36s",
+   "cena": "Encerrar com palavra-chave grande em verde e campo de comentário.",
+   "fala": "Comente [palavra-chave] para receber [catálogo ou guia gratuito] e consultar os exemplos.",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "por_que_funciona": [
+  "A grade inicial mostra vários efeitos disponíveis antes de abrir cada demonstração.",
+  "O contador fracionado no rodapé indica o avanço por um conjunto com tamanho definido.",
+  "O mosaico de títulos e o enquadramento de celular mudam a apresentação dos exemplos sem retirar a barra de progresso.",
+  "A palavra-chave grande em verde aparece depois do mostruário e aponta para o material oferecido."
+ ],
+ "quando_usar": "Para cursos, ferramentas e produtos físicos com aplicações que podem ser mostradas rapidamente. Use no topo do funil com um catálogo ou guia gratuito que reúna exatamente os exemplos apresentados.",
+ "roteiro_modelo": "Veja [quantidade real] aplicações de [produto] antes de escolher por onde começar.\n\n[PAUSA / CORTE]\n\nSeparei os exemplos por [critério de uso]. O primeiro grupo serve para [situação A].\n\n[PAUSA / CORTE]\n\nAqui, [aplicação A1] ajuda em [tarefa A1]. Já [aplicação A2] atende [tarefa A2].\n\n[PAUSA / CORTE]\n\nNo segundo grupo, use [aplicação B1] para [tarefa B1] e [aplicação B2] em [situação B2].\n\n[PAUSA / CORTE]\n\nPara [situação C], comece por [aplicação C1]. Na lista, cada exemplo vem com [orientação prática].\n\n[PAUSA / CORTE]\n\nComente [palavra-chave] para receber [catálogo ou guia gratuito] e consultar os exemplos.",
+ "tomadas_celular": [
+  "Filme todos os itens ou cartões em plano superior, 4s, luz de janela difusa.",
+  "Faça um plano fechado de [aplicação A1], 3s, fundo limpo e luz lateral.",
+  "Grave [aplicação A2] em uso, detalhe a 45 graus, 3s, mesma luz.",
+  "Filme duas aplicações do segundo grupo, 4s cada, celular apoiado e luz frontal suave.",
+  "Registre [aplicação C1] em plano fechado, 5s, iluminação uniforme.",
+  "Filme o guia aberto ou cartões reunidos, plano superior, 5s, luz suave; inclua contador e CTA no CapCut."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou Runway e monte no CapCut com imagens geradas em camadas. Use estes prompts de cena: \"Vertical 9:16 product showcase, [product] used for [application A], dark studio background, lime edge lighting, smooth orbit camera, three seconds, no text, no logos.\" \"Vertical 9:16 overhead grid of distinct [product applications] on black cards, cards expand one at a time, slow dolly forward, lime green accents, blank lower area for progress counter, no text.\" Acrescente títulos, numeração e legendas no editor, para manter o texto legível. Use voz sintética em pt-BR ou voz clonada com autorização, sem imitar a voz da referência. Sincronize cada troca visual à narração. Represente funções e resultados verificáveis do produto; identifique como ilustração qualquer interface ou demonstração simulada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo e exemplos próprios.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMostruário de 36s com abertura 0-4s, grade até 8s, grupo 1 até 15s, grupo 2 até 23s, grupo 3 até 30s e CTA até 36s. Cada aplicação visível recebe índice/total; ajuste a quantidade à evidência disponível e sincronize o contador com as trocas. Preto, branco e verde-limão, planos curtos de 2-4s e rótulos de aplicação. Não copie os onze efeitos, textos, personagem, métricas de engajamento ou cadeados que sugiram escassez inexistente. Use pt-BR falado e direto, frases curtas e [colchetes] para dados ausentes. Não invente benefícios, números ou condições. Evite superlativos, perguntas de enfeite e antíteses vazias. Mostre apenas informações da minha marca; não reproduza nomes, pessoas, logotipos, contatos ou domínios da referência. Ofereça material gratuito apenas se informado; se faltar, sinalize [material gratuito a definir].\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [aplicações ou etapas demonstradas] de [produto] em [situação de uso]. Comente [palavra-chave] para receber [material gratuito] com [conteúdo do material]. [Condição real de acesso, se houver].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-45c198ac",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-mostruario-contador/frames/f1.jpg",
+    "videos/vid-mostruario-contador/frames/f2.jpg",
+    "videos/vid-mostruario-contador/frames/f3.jpg",
+    "videos/vid-mostruario-contador/frames/f4.jpg",
+    "videos/vid-mostruario-contador/frames/f5.jpg"
+   ]
+  }
+ ]
+}

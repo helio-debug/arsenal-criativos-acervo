@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-957382586760904",
+  "tipo": "estatico",
+  "titulo": "Capa de audiolivro com título e colagem literária",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "saas-app",
+  "oferta": "amostra-teste",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Capa de audiolivro dividida entre campo mostarda e faixa clara. Título, autoria e narração ficam à esquerda; à direita, colagem com cavalo, figura com binóculos, estrelas, formas geométricas e parte de uma arma antiga.",
+  "por_que_funciona": [
+    "O título branco sobre mostarda recebe espaço próprio e boa legibilidade.",
+    "A autoria em preto e caixa alta cria um segundo nível de leitura.",
+    "O crédito de narração explicita a interpretação em áudio.",
+    "A colagem com figuras de aventura dá pistas visuais do universo da obra."
+  ],
+  "quando_usar": "Para destacar um título disponível em catálogo de audiolivros e apresentar uma oferta de teste na legenda.",
+  "estrutura_texto": "[SELO EDITORIAL] | [CATEGORIA]\n[TÍTULO DA OBRA]\n[AUTORIA]\nNARRADO POR [NARRADOR]\n[ASSINATURA]",
+  "legenda": "Ouça [TÍTULO] e explore [CATÁLOGO] com [PRAZO] de teste grátis. Conheça os títulos incluídos, os descontos adicionais e as condições de assinatura em [LINK].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma capa editorial: campo mostarda ocupando cerca de dois terços à esquerda e faixa marfim à direita. Organize título branco em três linhas, autoria em preto forte e crédito de narração menor. Use o produto da IMAGEM 2 e colagens relacionadas ao conteúdo, com recortes em preto e branco, formas vermelhas e azuis e composição assimétrica. Não reproduza personagens ou ilustrações específicas da referência. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "957382586760904",
+    "anunciante": "Audible",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-03",
+    "dias_no_ar": 103,
+    "variacoes_ativas": 1,
+    "texto_original": "Teste grátis 30 dias, tenha acesso a milhares de audiolivros e descontos exclusivos em títulos do catálogo adicional. Confira condições.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-957382586760904.jpg"
+}

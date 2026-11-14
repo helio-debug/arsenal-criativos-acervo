@@ -1,0 +1,38 @@
+{
+  "id": "est-educacao-concursos-1090581863606125",
+  "tipo": "estatico",
+  "titulo": "Mentoria individual com benefícios sobre foto do mentor",
+  "formato": "novo:Retrato com proposta de serviço",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um profissional sentado à mesa com notebook, diante de parede cinza. Faixas brancas, vinho e verde-claro apresentam a mentoria, o público e a rotina de acompanhamento.",
+  "por_que_funciona": [
+    "O título “Mentoria” ocupa uma faixa branca isolada no topo e identifica o serviço rapidamente.",
+    "A pergunta cita três carreiras jurídicas e delimita quem deve continuar lendo.",
+    "As faixas sobre a foto separam a proposta de cronogramas dos benefícios de frequência e suporte.",
+    "O retrato à mesa mostra a pessoa associada ao acompanhamento individual."
+  ],
+  "quando_usar": "Para divulgar acompanhamento de estudos a candidatos que já conhecem a carreira desejada e precisam organizar a preparação.",
+  "estrutura_texto": "[Nome do serviço]\nEstuda para [objetivos específicos]?\nTopa estudar comigo, recebendo [entrega personalizada] e [benefício de organização]?\n[Periodicidade das reuniões];\n[Frequência do suporte] e\n[Forma de personalização]!",
+  "legenda": "Quer organizar sua preparação para [carreira ou prova]? A [mentoria] inclui [cronogramas personalizados], [reuniões periódicas] e [acompanhamento]. Clique em [CTA] para conversar sobre sua rotina e conhecer o serviço.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 como retrato central de quem presta o serviço, em ambiente de trabalho sóbrio. Posicione título grande em faixa branca no topo, pergunta de qualificação em faixa branca no meio, proposta em bloco vinho e entregas em bloco verde-claro na base. Use letras escuras nas faixas claras e brancas na faixa vinho, com boa separação entre blocos. Adapte o texto aos dados fornecidos sem prometer aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1090581863606125",
+    "anunciante": "allanmjoos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-18",
+    "dias_no_ar": 27,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer uma mentoria que realmente seja feita para você?\n\nChega de estudar sem direção. Na minha mentoria, você terá um acompanhamento individual, com estratégia, organização e foco na sua aprovação.\n\n✔️ Cronogramas semanais personalizados\n✔️ Reuniões quinzenais\n✔️ Revisões estratégicas\n✔️ Acompanhamento contínuo\n\n🎯 Para quem estuda para Defensoria, Magistratura e MP.\n\n⚠️ Vagas limitadas.\n\nClique em “Saiba mais” e me chame no direct. Vamos conversar sobre o seu planejamento e o caminho mais eficiente para a sua aprovação.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1090581863606125.jpg",
+  "formato_novo_def": "Retrato de quem presta o serviço com blocos de texto sobrepostos apresentando público, proposta e entregas do acompanhamento."
+}

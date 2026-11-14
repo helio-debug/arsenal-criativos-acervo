@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1615961966699264",
+  "tipo": "estatico",
+  "titulo": "Resposta adiada em conversa após o pitch",
+  "formato": "Conversa no celular",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo branco quadriculado, uma pergunta grande abre a peça. Abaixo do botão aparece um recorte inclinado de conversa, preso por fita e marcado com círculo verde e anotação manuscrita.",
+  "por_que_funciona": [
+    "A pergunta no topo apresenta uma situação específica de captação.",
+    "O balão “vou olhar com calma” torna o problema reconhecível em uma fala cotidiana.",
+    "A anotação “14 dias depois...” mostra o intervalo sem resposta.",
+    "O marca-texto e o botão verde-lima conectam informação da aula e ação de inscrição."
+  ],
+  "quando_usar": "Para atrair fundadores que vivenciaram silêncio após uma apresentação a investidores.",
+  "estrutura_texto": "[AULA] - [DATA] - [GRATUITA]\n[INTERLOCUTOR] sumiu depois de [SITUAÇÃO]?\nQuem conhece [CRITÉRIOS] entende [PONTO A REVISAR].\nINSCREVA-SE ↓\n“[RESPOSTA QUE ADIA A DECISÃO]”\n[TEMPO] depois...",
+  "legenda": "Depois de [reunião de pitch], veio a promessa de analisar [material] e o contato parou. Na [masterclass gratuita], conheça [critérios de análise de investidores] e veja como revisar [narrativa de captação]. Inscreva-se para [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com grade muito suave, faixa de marca-texto verde-lima no alto com data e gratuidade, título preto pesado e apoio menor. Acrescente botão verde-lima e, abaixo, um recorte ilustrado de conversa inclinado, com fita bege no topo. Circule uma resposta curta com traço verde e coloque ao lado uma anotação manuscrita indicando o tempo decorrido. Trate a conversa como ilustração, sem inventar depoimento real. Integre a imagem do produto como apoio quando adequado.",
+  "alerta_politica": "Por abordar captação e investidores, mantenha caráter educacional e observe as regras da Meta para serviços financeiros. Não prometa aprovação de rodada, aporte ou retorno; qualquer oferta de valores mobiliários deve observar a regulamentação da CVM.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1615961966699264",
+    "anunciante": "Outcast Capital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 10,
+    "texto_original": "O framework oculto dos investidores.\n\nO pitch foi bom. O investidor fez perguntas, pediu o deck e disse que ia olhar com calma. Duas semanas depois, nenhuma resposta.\n\nEsse é o roteiro mais comum de uma captação que não anda. E o founder quase nunca descobre o motivo, porque investidor raramente explica por que passou.\n\nO motivo existe. Anjos e fundos de venture capital analisam startups com o mesmo framework: cinco critérios que definem se a rodada acontece. Cada pergunta feita na reunião serve para preencher um deles. Quando a apresentação deixa um critério em aberto, o investidor completa sozinho, e a conclusão raramente favorece a startup.\n\nTem uma segunda camada. O anjo decide com emoção e justifica com números. Confiança no founder, visão de mercado e medo de ficar de fora pesam tanto quanto o MRR. A narrativa decide; as métricas sustentam o argumento. E urgência e escassez reais aceleram a decisão.\n\nFounder que conhece essa lógica para de apresentar no escuro. Sabe onde a startup está forte, onde trava e qual história os fatos já sustentam. Prepara a reunião respondendo o que o investidor vai perguntar antes de ele perguntar.\n\nA aula abre o framework critério por critério: o que é avaliado, as perguntas que aparecem em cada um e o que muda do anjo ao fundo. No fim, o Raio-X da startup: os prompts para rodar o diagnóstico com AI e enxergar a empresa como o investidor enxerga. Forças, travas e a chance real de captar hoje.\n\nAo vivo e gratuita. Para founders de startups tech decididos a captar uma rodada pre-seed ou seed. Inscrição pelo link.",
+    "origem_coleta": "acervo:outcast-capital"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1615961966699264.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-2673671256471439",
+  "tipo": "estatico",
+  "titulo": "Três telas de aplicativo em vitrine",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Três celulares sobrepostos exibem áreas de um aplicativo de investimentos em fundo verde escuro. O título ocupa o topo e gráficos discretos aparecem ao fundo.",
+  "por_que_funciona": [
+    "As três telas tornam visível a variedade de áreas do aplicativo.",
+    "O aparelho central maior dá prioridade à visão geral da conta.",
+    "O verde da interface se repete no fundo e no título.",
+    "O brilho sob os celulares cria separação entre o produto e o cenário."
+  ],
+  "quando_usar": "Para demonstrar recursos de um aplicativo financeiro em campanhas de lançamento ou atualização.",
+  "estrutura_texto": "A evolução do seu jeito de [ação].\nDescubra uma nova experiência com o app [nome].\n[Telas demonstrativas de funcionalidades]",
+  "legenda": "Conheça o novo app [nome] e acesse [funcionalidades disponíveis] em uma experiência [atributo verificável]. Baixe em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde profundo com gráficos financeiros discretos. Coloque título centralizado em verde e branco no alto, seguido de subtítulo claro. Apresente três celulares sobrepostos na metade inferior, com o central maior e à frente, usando telas reais do produto. Acrescente sombra e iluminação suave na base. Use dados fictícios identificados como ilustrativos e não invente taxas nem promessas de retorno.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis. Saldos, taxas e gráficos em telas demonstrativas devem ser contextualizados e identificados como ilustrativos quando não forem dados reais aplicáveis à oferta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2673671256471439",
+    "anunciante": "Ágora Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 3,
+    "texto_original": "Tudo o que você precisa para investir em uma experiência moderna e intuitiva. Baixe o novo app da Ágora.\nMais tecnologia para você\nConheça o novo app",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/investimentos/est-investimentos-2673671256471439.jpg"
+}

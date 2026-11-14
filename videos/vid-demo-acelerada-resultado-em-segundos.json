@@ -1,0 +1,91 @@
+{
+ "id": "vid-demo-acelerada-resultado-em-segundos",
+ "titulo": "Demo acelerada: a tarefa inteira rodando em segundos, sem narração",
+ "formato_video": "speed-demo",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "marketing-trafego",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "15-20s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Sem fala.",
+  "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada",
+  "visual": "Fundo preto, título fixo no alto e interface em janela central. A primeira ação já começa; sem rosto e sem logotipos de terceiros."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Tela inicial em janela central sobre fundo preto. Iniciar a seleção de entrada. Cabeçalho branco fica fixo até o fim; rótulo de aceleração sempre visível.",
+   "fala": "Sem fala.",
+   "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada\nSelecione [entrada]"
+  },
+  {
+   "tempo": "3-7s",
+   "cena": "Acelerar o trecho de execução, preservando a ordem das ações. A janela muda de visão geral para detalhe, como as mudanças de escala nos mapas da referência.",
+   "fala": "Sem fala.",
+   "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada\nAplique [ação]"
+  },
+  {
+   "tempo": "7-11s",
+   "cena": "Trocar para a próxima visualização da mesma tarefa; cursor conduz até o detalhe. Manter título e área preta constantes.",
+   "fala": "Sem fala.",
+   "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada\nConfira [detalhe]"
+  },
+  {
+   "tempo": "11-16s",
+   "cena": "Mostrar a saída pronta. Reduzir para velocidade normal e segurar o plano para leitura. Se o produto for físico, usar o resultado filmado no mesmo quadro central.",
+   "fala": "Sem fala.",
+   "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada\n[Saída observável] pronta para conferir"
+  },
+  {
+   "tempo": "16-20s",
+   "cena": "Congelar a saída por quatro segundos. Convite em verde na faixa inferior, sem remover o cabeçalho branco.",
+   "fala": "Sem fala.",
+   "texto_tela": "[Tarefa completa], do início à saída\nDemonstração acelerada\nTeste em [botão]\n[Condições da amostra]"
+  }
+ ],
+ "por_que_funciona": [
+  "A referência mantém um cabeçalho fixo sobre fundo preto enquanto a interface muda no centro; a composição continua reconhecível entre as telas.",
+  "O painel passa de globo para mapa aproximado e outras visualizações. As mudanças de escala oferecem alterações visuais concretas em poucos segundos.",
+  "A visão verde do mapa contrasta com o preto que ocupa o restante do quadro, destacando a área em que a ação acontece.",
+  "Os textos curtos ficam abaixo do painel, numa área separada. A adaptação usa esse espaço para identificar a ação sem cobrir a interface."
+ ],
+ "quando_usar": "Para tarefas que tenham entrada e saída fáceis de reconhecer, em ferramenta digital ou produto físico. Use quando o público já entende a utilidade e precisa ver o fluxo completo antes de testar.",
+ "roteiro_modelo": "Sem fala. Sem narração.\n\n0-3s: [Tarefa completa], do início à saída\nDemonstração acelerada\nSelecione [entrada]\n\n[Corte seco; manter silêncio]\n\n3-7s: [Tarefa completa], do início à saída\nDemonstração acelerada\nAplique [ação]\n\n[Corte seco; manter silêncio]\n\n7-11s: [Tarefa completa], do início à saída\nDemonstração acelerada\nConfira [detalhe]\n\n[Corte seco; manter silêncio]\n\n11-16s: [Tarefa completa], do início à saída\nDemonstração acelerada\n[Saída observável] pronta para conferir\n\n[Corte seco; manter silêncio]\n\n16-20s: [Tarefa completa], do início à saída\nDemonstração acelerada\nTeste em [botão]\n[Condições da amostra]",
+ "tomadas_celular": [
+  "Capture a tela inicial no gravador do celular, em retrato e com entrada legível; 3s úteis. Luz externa não interfere na captura.",
+  "Grave a execução inteira sem interromper, por 20-60s para condensar em 4s; celular em captura de tela, brilho constante, sem iluminação de cena.",
+  "Capture a visualização de detalhe por 8-15s para condensar em 4s; mantenha o alvo no centro da interface, sem luz externa necessária.",
+  "Grave a saída parada por 5s, tela legível e sem notificações; capture nativamente, sem iluminação adicional.",
+  "Para produto físico, substitua a captura por celular fixo de cima, mesa neutra, luz difusa lateral e mãos executando uma tarefa inteira por 20-60s; acelere só o processo e reserve 5s para a saída.",
+  "Capture ou filme o resultado por mais 4s para o convite; no físico, plano fechado com luz de janela lateral. Deixe espaço preto no editor para título e CTA."
+ ],
+ "caminho_ia": "Sem gravar, monte no CapCut um slideshow de capturas fornecidas ou imagens geradas do processo, com zooms e cursor. Use Kling ou Runway para transições curtas. Prompts: \"Vertical 9:16 screen demo layout, black negative space above and below, centered [product interface] based on supplied screenshots, rapid controlled digital zoom from overview to [task detail], fixed frame, no logos, no generated typography.\" e \"Vertical 9:16 locked overhead product shot, [product] completing [visible task] on a neutral surface, soft side lighting, clear final [output], speed-ramp through the process then hold the finished state, no people faces, no text.\" Insira cabeçalho branco fixo e convite verde no editor. Não use avatar, voz clonada ou narração: este formato é silencioso. Se as cenas forem geradas, exiba SIMULAÇÃO; não apresente tempo ou funcionamento sintético como teste real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma demo acelerada silenciosa de 20s: entrada (0-3s), execução condensada (3-7s), detalhe (7-11s), saída em velocidade normal (11-16s), convite sobre a saída (16-20s). Sem pessoa falando e sem voz de fundo. Fundo preto, janela central para a ação e cabeçalho branco fixo: [tarefa completa], do início à saída. Mostre Demonstração acelerada durante todo o vídeo. Use rótulos curtos abaixo da janela, um por ação, e CTA verde no final. Preserve a ordem real da tarefa e as mudanças de escala da referência. Para produto físico, faça o mesmo com plano de cima. Não copie logotipos, frase alarmista, tema de vigilância, alegações sobre ferramentas ou falas da referência. Não apresente os 20s editados como tempo real da tarefa. Se houver medição real, informe separadamente o tempo completo e as condições do teste.\n\nUse pt-BR falado, frases curtas e dados verificáveis. Não copie nomes, pessoas, marcas, logotipos, valores, domínios, interfaces proprietárias ou frases da referência. Use apenas informações do meu produto; quando faltar um dado, marque [preencher]. Não invente prova, prazo ou benefício. Evite superlativos, perguntas decorativas, antíteses vazias e promessa de resultado.\n\nEntregue roteiro falado completo no formato descrito (com tempos); neste formato sem narração, registre silêncio em cada bloco e entregue o texto de tela completo, sem acrescentar voz, legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "De [entrada] a [saída], com [produto]. Vídeo acelerado para mostrar o fluxo; [tempo real medido e condições, se houver]. Teste em [botão]. [Condições da amostra].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1015b015",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-demo-acelerada-resultado-em-segundos/frames/f1.jpg",
+    "videos/vid-demo-acelerada-resultado-em-segundos/frames/f2.jpg",
+    "videos/vid-demo-acelerada-resultado-em-segundos/frames/f3.jpg",
+    "videos/vid-demo-acelerada-resultado-em-segundos/frames/f4.jpg",
+    "videos/vid-demo-acelerada-resultado-em-segundos/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "id": "vid-calendario-pos-atendimento",
+ "tipo": "video",
+ "titulo": "Calendário recebe cartões dos cuidados após atendimento",
+ "formato_video": "linha-do-tempo",
+ "nichos": [
+  "estetica-clinicas",
+  "saude"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "A consulta também inclui o que acontece depois de [procedimento].",
+  "texto_tela": "Acompanhamento",
+  "visual": "Mão abre calendário de mesa ao lado de ficha cenográfica."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Mão abre calendário de mesa ao lado de ficha cenográfica.",
+   "fala": "A consulta também inclui o que acontece depois de [procedimento].",
+   "texto_tela": "Acompanhamento"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Cartão de retorno é preso ao dia ilustrativo.",
+   "fala": "A equipe orienta [cuidados aprovados] e combina [retorno conforme indicação].",
+   "texto_tela": "[Retorno orientado]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Outro cartão mostra canal de dúvidas e orientação clínica.",
+   "fala": "Estas datas são ilustrativas. O acompanhamento muda conforme o caso.",
+   "texto_tela": "Plano individual"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Responsável fecha o calendário.",
+   "fala": "Antes de decidir, pergunte sobre riscos e acompanhamento. Veja como agendar sua avaliação em [canal].",
+   "texto_tela": "Tire dúvidas na avaliação"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a operação concreta: Mão abre calendário de mesa ao lado de ficha cenográfica.",
+  "O segundo enquadramento deixa visível o detalhe usado na explicação: Cartão de retorno é preso ao dia ilustrativo.",
+  "A etapa seguinte informa o limite da demonstração junto da imagem: Plano individual"
+ ],
+ "quando_usar": "Quando a pessoa já considera [produto ou serviço] e precisa entender a execução mostrada em “Calendário recebe cartões dos cuidados após atendimento”. Usar somente se a operação for compatível com o produto e houver informação verificável.",
+ "roteiro_modelo": "0-4s | A consulta também inclui o que acontece depois de [procedimento].\n4-11s | A equipe orienta [cuidados aprovados] e combina [retorno conforme indicação].\n11-19s | Estas datas são ilustrativas. O acompanhamento muda conforme o caso.\n19-26s | Antes de decidir, pergunte sobre riscos e acompanhamento. Veja como agendar sua avaliação em [canal].",
+ "tomadas_celular": [
+  "Grave vertical, celular em apoio firme e luz lateral suave: Mão abre calendário de mesa ao lado de ficha cenográfica.",
+  "Faça plano de detalhe com foco travado e sem zoom digital: Cartão de retorno é preso ao dia ilustrativo.",
+  "Grave uma tomada completa, com luz igual à anterior: Outro cartão mostra canal de dúvidas e orientação clínica.",
+  "Grave o fechamento em plano médio ou de produto, deixando margem para legenda: Responsável fecha o calendário."
+ ],
+ "caminho_ia": "Produza uma versão ilustrativa em Sora/Veo com fotos autorizadas e especificações reais de [produto]. Gere a cena de abertura com o prompt: \"Vídeo vertical, luz natural, Mão abre calendário de mesa ao lado de ficha cenográfica. Sem marcas de terceiros, sem letras geradas.\" Para o detalhe use: \"Vídeo vertical com câmera estável, Cartão de retorno é preso ao dia ilustrativo. Preservar dimensões e materiais da referência autorizada.\" Monte as quatro cenas no editor, grave voz sintética identificada e adicione os textos depois. Identifique cenas sintéticas como ilustração. Não use geração para alegar reação real, teste físico, resultado clínico ou execução contínua comprovada; nesses casos substitua a prova por diagrama claramente identificado e mantenha a informação técnica fornecida.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAdapte o formato “Calendário recebe cartões dos cuidados após atendimento” para este produto. Entregue roteiro falado em pt-BR, legenda do anúncio e prompts de cena. Use quatro cenas com estes tempos: 0-4s, 4-11s, 11-19s e 19-26s. Preserve esta operação visual: Mão abre calendário de mesa ao lado de ficha cenográfica. / Cartão de retorno é preso ao dia ilustrativo. / Outro cartão mostra canal de dúvidas e orientação clínica. / Responsável fecha o calendário. Use [colchetes] para informação ausente e peça confirmação antes de transformar suposição em alegação. Escreva instruções de enquadramento, luz, ação e texto de tela para cada cena. Não invente depoimentos, desempenho, preço ou recomendação clínica. Identifique ilustrações geradas e mantenha os limites de segurança e os cuidados do manual. Inclua no fim a legenda e uma lista dos dados que precisam de confirmação.",
+ "legenda": "Veja como funciona [produto ou serviço] nesta demonstração. Confira [informação essencial de escolha] e [condições reais da oferta] em [canal]. A indicação depende de avaliação profissional.",
+ "alerta_politica": "Não atribuir doença, condição corporal ou insegurança a quem assiste. Usar informação revisada pelo profissional responsável, sem promessa de cura, perda de peso ou resultado garantido. Respeitar regras do conselho profissional e da plataforma; obter consentimento específico para imagem. Simulações devem ser identificadas, sem se passar por resultado clínico.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "837875748616461",
+   "dias_no_ar": 383,
+   "views": 0,
+   "frames": [],
+   "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/estetica-clinicas/botox/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+  }
+ ],
+ "validacao": "media"
+}

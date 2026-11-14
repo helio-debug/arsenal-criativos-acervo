@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1699856881080250",
+  "tipo": "estatico",
+  "titulo": "Tela de sonar com navegação ao pôr do sol",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma tela náutica grande exibe visualizações de sonar em cores intensas na metade inferior. Ao fundo, uma embarcação atravessa o mar ao pôr do sol; tecido com cores de bandeira sustenta o aparelho.",
+  "por_que_funciona": [
+    "A tela frontal permite reconhecer os gráficos de sonar como recurso central.",
+    "As cores vivas da interface contrastam com a carcaça preta.",
+    "A embarcação no alto liga o produto à pesca e à navegação.",
+    "O aparelho ocupa quase toda a largura inferior, facilitando a identificação da categoria."
+  ],
+  "quando_usar": "Para apresentar equipamentos eletrônicos náuticos a pessoas que já conhecem a categoria e avaliam recursos ou configurações.",
+  "estrutura_texto": "[Marca no cenário de uso]\n[Nome do equipamento]\n[Marca]\n[Assinatura curta]",
+  "legenda": "Veja [recurso de sonar] em ação com [produto]. Combine [modos de visualização disponíveis] para acompanhar [informações de pesca e navegação]. Confira as especificações em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Destaque um único equipamento da IMAGEM 2 em vista frontal levemente inclinada na metade inferior. Preserve a interface real de sonar, com gráficos coloridos e comandos laterais. No terço superior, crie uma embarcação navegando em mar dourado ao pôr do sol. Apoie o produto sobre tecido azul, vermelho e branco, deixando área clara para a identidade própria no canto inferior direito.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1699856881080250",
+    "anunciante": "Raymarine USA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-18",
+    "dias_no_ar": 88,
+    "variacoes_ativas": 3,
+    "texto_original": "Level up your fishfinding.\nRealVision® MAX delivers longer range, sharper targets, and crystal-clear resolution.\n\nAxiom 2 Pro packs built-in CHIRP DownVision®, SideVision®, RealVision 3D and 1kW dual-channel CHIRP—perfect for coastal and deep-sea fishing.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1699856881080250.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3638418976335183",
+  "tipo": "estatico",
+  "titulo": "Catálogo de cursos projetado em encontro de bairro",
+  "formato": "Mídia de rua",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma apresentadora com microfone aponta para um catálogo de cursos projetado em uma parede. A tabela destaca acesso gratuito e certificado diante de uma plateia.",
+  "por_que_funciona": [
+    "A apresentadora aponta diretamente para a tabela e orienta o olhar para os cursos.",
+    "O título em verde e azul ocupa o topo da projeção e destaca a gratuidade.",
+    "A coluna de acesso repete “Grátis” em cada linha e facilita comparar as opções.",
+    "O botão verde “VER CURSOS” encerra a leitura com uma ação clara."
+  ],
+  "quando_usar": "Para divulgar um catálogo de capacitação gratuita a um público que ainda procura uma área de interesse.",
+  "estrutura_texto": "[CURSOS ONLINE]\n[GRATUITOS]\n[ABRANGÊNCIA]\n[CONDIÇÃO DO CERTIFICADO]\n[LISTA DE CURSOS] | [ACESSO]\n[VER CURSOS]",
+  "legenda": "Capacitação gratuita em [áreas], com [condição de certificação]. Confira os cursos disponíveis e faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre uma apresentação comunitária ao entardecer, com uma pessoa ao lado de uma projeção e público no primeiro plano. Na projeção branca, use título grande azul e verde, faixa de certificação, tabela de oito opções com ícones coloridos e botão verde no rodapé. Use apenas cursos e condições reais; não use símbolos governamentais nem sugira vínculo oficial inexistente.",
+  "alerta_politica": "Meta: não simular endosso governamental nem anunciar gratuidade ou reconhecimento de certificado sem comprovação. Informar eventuais custos e condições.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3638418976335183",
+    "anunciante": "Olav Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-26",
+    "dias_no_ar": 19,
+    "variacoes_ativas": 8,
+    "texto_original": "💼 Capacitação gratuita com certificado reconhecido. Inscreva-se!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3638418976335183.jpg"
+}

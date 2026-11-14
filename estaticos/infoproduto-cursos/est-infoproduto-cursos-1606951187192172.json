@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1606951187192172",
+  "tipo": "estatico",
+  "titulo": "Curso de especialização com duração e docentes",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul com aperto de mãos e emblema institucional esmaecidos. O título amarelo ocupa o topo, as condições ficam à direita e dois docentes são apresentados com retratos circulares na base.",
+  "por_que_funciona": [
+    "O título amarelo contrasta com o fundo azul e identifica a especialidade.",
+    "O bloco de oito semanas e pagamento em parcelas reúne condições objetivas.",
+    "Os retratos circulares associam rostos às credenciais docentes.",
+    "O aperto de mãos ao fundo remete ao tema de negociação e relações institucionais."
+  ],
+  "quando_usar": "Para cursos de especialização que precisam apresentar duração, pagamento e experiência dos docentes.",
+  "estrutura_texto": "Curso de [NÍVEL] em\n[TEMA]\nOnline. [DURAÇÃO].\n[CONDIÇÃO DE PAGAMENTO].\n[RECURSO DE CARREIRA].\n[DOCENTE 1]\n[CREDENCIAIS]\n[DOCENTE 2]\n[CREDENCIAIS]",
+  "legenda": "Estude [tema] online, com [condição de flexibilidade] e professores com experiência em [área]. Duração de [período], pagamento em [parcelas] e acesso a [recurso de carreira]. Consulte requisitos e inscrições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie os textos em pt-BR. Use fundo azul com fotografia temática discreta de aperto de mãos. Título grande em branco e amarelo no topo; condições em bloco alinhado à direita; dois retratos circulares com credenciais na base, usando a IMAGEM 2 quando pertinente. Use símbolos genéricos sem reproduzir emblemas institucionais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1606951187192172",
+    "anunciante": "LISA Institute - Seguridad, Ciberseguridad, Inteligencia y Geopolítica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-10",
+    "dias_no_ar": 249,
+    "variacoes_ativas": 1,
+    "texto_original": "➡️ Fórmate 100% Online, Flexible y a tu ritmo\n📋 Accede +120 Ofertas de trabajo semanales\n👁🗨 Plazas limitadas 💰 Pago en cómodas cuotas\n👨🏽💻 Los Profesores son Profesionales del sector\n🎯 No necesitas conocimientos previos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1606951187192172.jpg"
+}

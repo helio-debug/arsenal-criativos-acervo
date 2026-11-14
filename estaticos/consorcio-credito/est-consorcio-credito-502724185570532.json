@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-502724185570532",
+  "tipo": "estatico",
+  "titulo": "Moto em destaque com tabela de parcelas",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Moto vermelha em perfil ocupa o centro, sobre composição diagonal vermelha e cinza. Tabela de parcelas, miniaturas de detalhes e contato de vendedor cercam o veículo.",
+  "por_que_funciona": [
+    "A moto em grande escala identifica o bem desejado.",
+    "A tabela associa diferentes prazos aos valores das parcelas.",
+    "As três miniaturas mostram detalhes do veículo.",
+    "A faixa inferior reúne retrato e contato em uma área própria."
+  ],
+  "quando_usar": "Para divulgar planos de consórcio com valores vigentes e condições claramente informadas.",
+  "estrutura_texto": "[Marca própria] | [modelo do bem] | [chamada descritiva] | [prazo] [parcela] | [detalhes do produto] | [contato].",
+  "legenda": "Conheça os planos de consórcio para [bem]. Consulte parcelas a partir de [valor], prazos e condições em [canal]. A contemplação ocorre por sorteio ou lance, conforme contrato.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo dividido por diagonais vermelhas e cinza, foto grande do bem no centro, título no alto à esquerda e tabela branca à direita. Inclua três pequenas fotos de detalhes e faixa de contato no rodapé. Use apenas valores fornecidos e reserve espaço legível para taxas, reajustes e regras de contemplação. Não reproduza promessas de contemplação rápida.",
+  "alerta_politica": "Em consórcio, não prometa contemplação, prazo garantido ou liberação imediata de crédito. Informe administradora, condições, taxas, reajustes e regras de sorteio ou lance; parcelas e prazos devem corresponder à oferta vigente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "502724185570532",
+    "anunciante": "bymotohonda_alfenas_vinicius",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-07-20",
+    "dias_no_ar": 847,
+    "variacoes_ativas": 1,
+    "texto_original": "Tabela Atualizada de Consórcio 2024 🏍️🚀\nPlanos que sai até 26 motos por mês.\nAltíssimo índice de contemplados nos 3 primeiros meses ... Falei comigo vendedor N° 1 da Honda em contemplações e conquiste logo a sua moto 0 km comigo.\n\nFaça o consórcio pra pegar a moto ou a carta de crédito ou o (Dinheiro no final do plano se preferir.)\n\nVinícius da Honda (35)98435-8323 🏆🇧🇷\nVocê tem um somho e eu a chave 🔑",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-502724185570532.jpg"
+}

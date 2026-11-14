@@ -1,0 +1,88 @@
+{
+ "id": "vid-motion-arquivo-corretivo",
+ "titulo": "Motion de código: erro recorrente, arquivo corretivo e pedido nos comentários",
+ "formato_video": "motion-texto",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "30-40s",
+ "proporcao": "4:5",
+ "hook": {
+  "falado": "[Erro recorrente] apareceu de novo. Este [arquivo ou recurso] ajuda a conferir essa etapa.",
+  "texto_tela": "[ERRO RECORRENTE]",
+  "visual": "Grade de cartões escuros sobre fundo claro, contador no alto e pequeno mascote pixelado ao lado."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Grade de cartões escuros com trechos abstratos; um mascote pixelado aponta o problema. Legenda grande na base.",
+   "fala": "[Erro recorrente] apareceu de novo. Este [arquivo ou recurso] ajuda a conferir essa etapa.",
+   "texto_tela": "[ERRO RECORRENTE]"
+  },
+  {
+   "tempo": "6-12s",
+   "cena": "Grade sai para o lado e entra um cartão claro de arquivo com quatro linhas.",
+   "fala": "É um [tipo de material] com [quantidade real] orientações. Você abre em [local de uso] e segue [primeira ação].",
+   "texto_tela": "[NOME DO MATERIAL] • [QUANTIDADE] orientações"
+  },
+  {
+   "tempo": "12-21s",
+   "cena": "Três painéis verticais escuros mostram falhas. Uma barra incompleta pausa antes de avançar.",
+   "fala": "Ele ajuda a identificar [falha 1] e [falha 2]. Antes de concluir, confira [critério de revisão]. Veja aqui um exemplo: [checagem curta].",
+   "texto_tela": "[FALHA 1] / [FALHA 2] / [O QUE REVISAR]"
+  },
+  {
+   "tempo": "21-29s",
+   "cena": "Painel de evidência com número e fonte próprios; destaque muda para o resultado de uma checagem.",
+   "fala": "Neste [teste ou registro verificável], [observação documentada]. O material precisa ser ajustado para [limite de aplicação].",
+   "texto_tela": "[EVIDÊNCIA VERIFICADA] • [FONTE E PERÍODO]"
+  },
+  {
+   "tempo": "29-36s",
+   "cena": "Cartão de comentário com campo vazio; mascote indica a palavra que deve ser digitada.",
+   "fala": "Quer acessar [material]? Comente [PALAVRA] para receber [forma real de entrega] com as instruções.",
+   "texto_tela": "Comente [PALAVRA] para receber [material]"
+  }
+ ],
+ "por_que_funciona": [
+  "A grade de cartões escuros abre com vários sinais de trabalho acumulado, antes de apresentar um único arquivo.",
+  "O cartão claro com linhas de orientação muda a organização visual e torna o recurso legível.",
+  "Os painéis de falhas e a barra que marca conclusão incompleta ilustram os erros citados na voz.",
+  "O cartão de comentário no fim mostra onde fazer a ação pedida na narração."
+ ],
+ "quando_usar": "Para distribuir um checklist, modelo ou arquivo que ajude a revisar uma tarefa. Use quando o público já conhece a falha e a entrega gratuita tem instruções e canal de envio preparados.",
+ "roteiro_modelo": "[Erro recorrente] apareceu de novo. Este [arquivo ou recurso] ajuda a conferir essa etapa.\n\n[pausa / corte]\n\nÉ um [tipo de material] com [quantidade real] orientações. Você abre em [local de uso] e segue [primeira ação].\n\n[pausa / corte]\n\nEle ajuda a identificar [falha 1] e [falha 2]. Antes de concluir, confira [critério de revisão]. Veja aqui um exemplo: [checagem curta].\n\n[pausa / corte]\n\nNeste [teste ou registro verificável], [observação documentada]. O material precisa ser ajustado para [limite de aplicação].\n\n[pausa / corte]\n\nQuer acessar [material]? Comente [PALAVRA] para receber [forma real de entrega] com as instruções.",
+ "tomadas_celular": [
+  "Se quiser montar com capturas pelo celular, filme uma folha quadriculada com cartões escuros, câmera de cima e luz difusa; 6s.",
+  "Filme de cima uma ficha clara com as orientações próprias, luz lateral suave e celular apoiado; 6s.",
+  "Grave três cartões verticais de erros numa mesa, plano fechado superior e luz difusa; 9s, movendo uma régua para representar progresso.",
+  "Filme um registro próprio sem dados pessoais, plano de detalhe com luz uniforme; 8s.",
+  "Filme um cartão com a palavra do comentário, plano de cima e luz difusa; 7s. Na edição, recorte os objetos e anime por quadros-chave; esse formato também pode ser feito só com gráficos."
+ ],
+ "caminho_ia": "Sem gravar, monte um slideshow animado no CapCut com cartões e texto editável. Gere apoios no Kling ou Runway: \"Portrait 4:5 motion graphics plate, pale gray background, dark UI cards sliding into a tidy grid, small original orange pixel character, flat orthographic view, crisp edges, no text or logos, [product workflow], 6 seconds.\" e \"Portrait 4:5 motion graphics plate, a white document card expands beside three dark error panels, progress bar pauses before completion, smooth lateral transition, fixed camera, no readable text, [product checklist], 6 seconds.\" Adicione voz sintética em pt-BR, títulos e legendas grandes pixeladas na edição. Use evidência própria; se não existir, troque o contador por uma demonstração identificada como exemplo.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto como fonte do conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie motion 4:5 de 36s com fundo claro, painéis escuros, arquivo claro e mascote pixelado original. Blocos: 0-6s falha recorrente; 6-12s material e modo de abrir; 12-21s falhas e checagem; 21-29s evidência real com limite; 29-36s palavra nos comentários e entrega. Ritmo por troca de painéis a cada bloco, transições laterais e legendas grandes na base. O material pode ser um arquivo, checklist ou modelo conforme meu produto, sem exigir código para todos os nichos. Não copie nomes de ferramentas, repositórios, mascote, comandos ou contadores da referência. Não invente popularidade nem prometa que o material elimina erros. Se faltarem provas, substitua o bloco de evidência por uma checagem demonstrada e identificada como exemplo. Só peça comentário se houver um fluxo real de entrega. Não copie nomes, rostos, marcas, domínios, números ou falas da referência. Não invente resultados, depoimentos, experiência ou condições comerciais. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias, tríades decorativas ou fechos de efeito. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Falha recorrente] pede uma conferência em [etapa]. Preparei [material] com [conteúdo específico]. Comente [PALAVRA] para receber [forma de entrega]. Confira [requisito de uso] antes de aplicar.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-151113c5",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-motion-arquivo-corretivo/frames/f1.jpg",
+    "videos/vid-motion-arquivo-corretivo/frames/f2.jpg",
+    "videos/vid-motion-arquivo-corretivo/frames/f3.jpg",
+    "videos/vid-motion-arquivo-corretivo/frames/f4.jpg",
+    "videos/vid-motion-arquivo-corretivo/frames/f5.jpg"
+   ]
+  }
+ ]
+}

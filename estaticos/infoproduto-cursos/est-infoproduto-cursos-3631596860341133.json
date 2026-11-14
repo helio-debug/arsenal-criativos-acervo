@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3631596860341133",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com preço zero em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo vermelho e rosa com formas geométricas envolve o título branco centralizado. Um bloco de preço com valor anterior riscado e zero ampliado conduz ao botão verde-limão.",
+  "por_que_funciona": [
+    "O selo Curso gratuito explicita a oferta antes do título.",
+    "O nome do curso ocupa várias linhas centrais e identifica o conteúdo.",
+    "O valor zero em tamanho ampliado concentra a atenção na condição de acesso.",
+    "O botão verde-limão contrasta com o vermelho e destaca a inscrição."
+  ],
+  "quando_usar": "Para captar inscrições em curso gratuito com condições de acesso claras.",
+  "estrutura_texto": "CURSO GRATUITO\n[Nome do curso]\nDe [preço anterior comprovado]\nPOR [preço atual]\nINSCREVA-SE AGORA\n[Instituição]",
+  "legenda": "Faça o curso gratuito de [tema], em [modalidade] e com [certificado, se incluído]. Aprenda com [perfil docente] e acesse [conteúdos]. Confira as condições e garanta sua inscrição em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical em vermelho, rosa e vinho, com padrões geométricos nas bordas. Centralize selo de gratuidade e nome do curso em branco. Abaixo, monte bloco de preço: valor anterior riscado apenas se real, valor atual zero em tamanho muito grande e botão verde-limão com inscrição. Reserve rodapé para identidade própria e use a IMAGEM 2 quando pertinente. Não invente preço anterior, certificação ou reconhecimento institucional.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3631596860341133",
+    "anunciante": "Gran Faculdade",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-19",
+    "dias_no_ar": 148,
+    "variacoes_ativas": 3,
+    "texto_original": "Curso gratuito de altíssima qualidade, 100% online e com certificado? Na Gran Faculdade é possível!\n\nEstude com professores renomados, tecnologia de ponta e com a segurança que só uma Instituição autorizada pelo MEC pode oferecer. Tudo isso sem pagar nada!\n\n🚀 Aproveite a chance de transformar sua carreira ao lado de quem acredita no seu potencial. \n\nGaranta sua vaga agora!\nEstude na Gran Faculdade sem pagar nada\nOportunidade única!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3631596860341133.jpg"
+}

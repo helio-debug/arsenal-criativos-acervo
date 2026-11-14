@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1490461328970709",
+  "tipo": "estatico",
+  "titulo": "Pote e bebida prontos para consumo",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um pote de whey e um copo com bebida aparecem sobre superfície refletiva. Ao fundo, uma pessoa com roupa esportiva aparece enquadrada do tronco para baixo.",
+  "por_que_funciona": [
+    "O copo mostra a aparência da bebida preparada.",
+    "O pote em primeiro plano mantém o rótulo como foco.",
+    "As ilustrações no rótulo comunicam o sabor.",
+    "A superfície espelhada reforça a presença dos dois objetos na composição."
+  ],
+  "quando_usar": "Para apresentar um sabor e mostrar o produto em um contexto de consumo.",
+  "estrutura_texto": "[Marca no rótulo]\n[Quantidade declarada de proteína]\n[Nome do produto]\n[Sabor]\n[Peso líquido]",
+  "legenda": "Encontre [produto] em [loja], com [condição comercial]. Confira os sabores disponíveis em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma fotografia de produto com pote à direita e copo de bebida à esquerda sobre mesa refletiva. Use uma pessoa de roupa esportiva desfocada ao fundo, com enquadramento discreto sem enfatizar transformação corporal. Preserve o rótulo da IMAGEM 2 e não adicione manchete ou promessa física.",
+  "alerta_politica": "Para suplementos, use apenas alegações permitidas e comprováveis, coerentes com o rótulo. Não prometa cura, prevenção de doenças ou resultados físicos garantidos; evite atribuir condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1490461328970709",
+    "anunciante": "Drogarias Tamoio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-15",
+    "dias_no_ar": 456,
+    "variacoes_ativas": 1,
+    "texto_original": "Na Tamoio, você encontra Whey Protein da Dux Nutrition com ótimos preços.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1490461328970709.jpg"
+}

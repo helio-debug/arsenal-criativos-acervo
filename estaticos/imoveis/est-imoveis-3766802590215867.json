@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-3766802590215867",
+  "tipo": "estatico",
+  "titulo": "Lançamento com localização e entrada destacadas",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Imagem de lazer entre edifícios recebe moldura preta e faixas com localização e financiamento. Círculos verde e preto destacam características dos apartamentos e valor de entrada.",
+  "por_que_funciona": [
+    "A área de piscina oferece uma demonstração visual do lazer anunciado.",
+    "O bairro em verde sobre preto domina a faixa superior.",
+    "O círculo lateral concentra quartos e comodidades.",
+    "A entrada fica isolada em um círculo preto no canto inferior."
+  ],
+  "quando_usar": "Para divulgar apartamentos com localização, características e condições de entrada confirmadas.",
+  "estrutura_texto": "OPORTUNIDADE EM [bairro]\n[Tipologias]\n[Comodidades]\nENTRADA A PARTIR DE [valor]\nFINANCIAMENTO POR [instituição]",
+  "legenda": "Lançamento em [bairro]: apartamentos com [tipologias] e [comodidades confirmadas]. Confira [acessos e serviços próximos]. Entrada a partir de [valor], conforme [condições], com financiamento sujeito à análise. Solicite informações.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto real do empreendimento como fundo integral e uma moldura preta interna. Coloque faixa preta superior com localização em verde vivo, círculo verde à direita com tipologias e comodidades, círculo preto inferior esquerdo com entrada e faixa preta inferior com condição de financiamento. Diferencie render de fotografia e reserve espaço legível às condições.",
+  "alerta_politica": "As condições de crédito devem informar elegibilidade, análise e composição da entrada; não garantir aprovação. Identificar o responsável e CRECI quando aplicável, comprovar dados do empreendimento e sinalizar imagem ilustrativa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3766802590215867",
+    "anunciante": "Oliveira Imóveis RJ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-04-09",
+    "dias_no_ar": 949,
+    "variacoes_ativas": 1,
+    "texto_original": "CHEGOU A OPORTUNIDAE QUE VOCÊ TANTO ESPERAVA!\n\nLançamento imperdível em São Cristóvão.\nApartamentos de 2 ou 3 quartos com varanda gourmet e opção de garden, vaga e lazer completo.\n\nLocalizado na Rua Fonseca Teles, no antigo terreno da Rádio Tupi, o Origem Porto Imperial é o empreendimento com melhor custo beneficio em São Cristóvão e o lançamento imobiliário mais esperado do ano!\n\nCom fácil acesso a Metrô, ônibus e trens, está próximo a supermercados, escolas, e fartas opções de lazer e cultura.\n\n✅ Unidades a partir de R$300.000,00\n✅ Financiamento pela Caixa Econômica\n✅ Entrada a partir de R$9.900,00\n\nClique em Saiba Mais e receba maiores informações.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-3766802590215867.jpg"
+}

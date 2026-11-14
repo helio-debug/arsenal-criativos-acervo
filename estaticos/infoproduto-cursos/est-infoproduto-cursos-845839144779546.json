@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-845839144779546",
+  "tipo": "estatico",
+  "titulo": "Licenciatura com benefícios em blocos e desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo claro com título laranja contornado e mulher segurando materiais escolares à direita. À esquerda, blocos laranja e cinza apresentam duração, aulas online, desconto e matrículas abertas.",
+  "por_que_funciona": [
+    "O nome do curso em letras grandes e contornadas domina o topo.",
+    "Os blocos empilhados permitem localizar duração, modalidade e desconto separadamente.",
+    "Os ícones de relógio e confirmação facilitam a leitura dos dois primeiros benefícios.",
+    "A pessoa com materiais escolares associa a imagem ao contexto de educação."
+  ],
+  "quando_usar": "Para campanhas de matrícula em graduação com duração, modalidade e desconto claramente definidos.",
+  "estrutura_texto": "[MARCA]\nLICENCIATURA EM [ÁREA]\n[DURAÇÃO]\n[MODALIDADE DAS AULAS]\n[QUALIFICADOR DO DESCONTO] [PERCENTUAL]\n[ABRANGÊNCIA DO DESCONTO]\nMATRÍCULAS ABERTAS\n[SITE]",
+  "legenda": "Conheça a licenciatura em [área], com duração de [prazo] e aulas na modalidade [modalidade]. Consulte as condições de [desconto] durante [período de aplicação]. Prepare-se para atuar em [campos de atuação previstos]. Fale com a equipe em [canal] e confira os requisitos de matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, título laranja com contorno escuro no topo e a foto da IMAGEM 2 à direita. À esquerda, empilhe cartões arredondados com duração, modalidade e desconto, usando ícones simples. Reserve um bloco laranja para matrículas abertas e uma linha inferior para site. Apresente o percentual com seu qualificador e condições, sem transformar desconto variável em benefício garantido para todos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "845839144779546",
+    "anunciante": "UniFatecie Ensino à Distância",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-28",
+    "dias_no_ar": 170,
+    "variacoes_ativas": 1,
+    "texto_original": "📚 Seu futuro na educação começa agora!\n\nRealize o sonho de se tornar professora com a Licenciatura em Pedagogia da UniFatecie EAD\n 🎓\n\n✅ Aulas 100% online\n✅ Formação completa em 4 anos\n✅ Descontos de até 70% durante o curso\n✅ Flexibilidade para estudar onde e quando quiser\n\n👩🏫 Prepare-se para atuar na educação infantil, ensino fundamental e gestão escolar com uma formação de qualidade!\n\n🚨 Matrículas abertas por tempo limitado!\n\n📲 Fale agora com nossa equipe pelo WhatsApp e garanta sua vaga:\n📞 (41) 99514-7373\nWHATSAPP\nFale com um consultor",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-845839144779546.jpg"
+}

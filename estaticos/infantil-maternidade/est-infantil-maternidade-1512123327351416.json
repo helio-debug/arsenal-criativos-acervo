@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1512123327351416",
+  "tipo": "estatico",
+  "titulo": "Quatro itens de enxoval com preços e convite",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Mosaico de quatro ambientes com móveis e acessórios de enxoval, etiquetas de preços e convite central para um grupo de ofertas.",
+  "por_que_funciona": [
+    "Cada quadrante mostra um item diferente do enxoval em uso no ambiente.",
+    "As pequenas etiquetas associam o preço diretamente ao produto.",
+    "A faixa branca central torna o convite legível sobre as fotos.",
+    "O botão preto com texto branco diferencia a ação dos preços."
+  ],
+  "quando_usar": "Para divulgar um grupo de ofertas com exemplos concretos de itens e preços disponíveis.",
+  "estrutura_texto": "[Produto 1] [preço]\n[Produto 2] [preço]\n[Promoção compartilhada no grupo]\n[Clique para entrar]\n[Produto 3] [preço]\n[Produto 4] [preço]",
+  "legenda": "Quer acompanhar ofertas de [itens de enxoval]? Entre no [grupo] e veja opções de [categorias]. Confira disponibilidade, condições e preços em cada oferta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a tela em quatro fotos de produtos em ambientes domésticos. Inclua etiquetas brancas pequenas com nome e preço verificados, usando tipografia preta condensada. No centro, sobreponha uma faixa branca com convite em duas linhas e um retângulo preto menor com CTA branco. Preserve a leitura dos produtos e use apenas ofertas reais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1512123327351416",
+    "anunciante": "Mundo do Bebê",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨Mamãe, quer comprar itens para o seu bebê bem baratinho?! Clique em SAIBA MAIS e entre no nosso grupo de ofertas 😍",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1512123327351416.jpg"
+}

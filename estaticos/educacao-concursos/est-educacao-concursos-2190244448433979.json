@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2190244448433979",
+  "tipo": "estatico",
+  "titulo": "Desconto máximo em destaque sobre foto de estudante",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma estudante sentada com caderno ocupa o fundo da peça. À esquerda, textos sobre tarjas claras apresentam um percentual de desconto muito grande em azul.",
+  "por_que_funciona": [
+    "O número 80% domina a coluna esquerda e comunica a oferta imediatamente.",
+    "A expressão “até” delimita o alcance do desconto anunciado.",
+    "Caderno e caneta situam a oferta no contexto de estudo.",
+    "As tarjas claras mantêm o texto legível sobre a fotografia."
+  ],
+  "quando_usar": "Para divulgar bolsas ou descontos de matrícula com condições e cursos elegíveis definidos.",
+  "estrutura_texto": "Quer [OBJETIVO]\ncom até [PERCENTUAL]%\nde desconto\nna [INSTITUIÇÃO OU MODALIDADE]?\n[ASSINATURA]",
+  "legenda": "Estude [CURSO OU MODALIDADE] com bolsa de até [PERCENTUAL]% em [INSTITUIÇÃO]. Consulte os cursos participantes, os critérios da bolsa e as condições em [LINK].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia da IMAGEM 2 em contexto de estudo preenchendo toda a área. Reserve a esquerda para pergunta em preto sobre tarjas brancas, percentual enorme azul-escuro com contorno branco e complemento da oferta. Inclua assinatura própria no rodapé e um botão circular com seta no canto inferior direito. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2190244448433979",
+    "anunciante": "Educa Mais Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-26",
+    "dias_no_ar": 141,
+    "variacoes_ativas": 1,
+    "texto_original": "Não perca a chance de estudar na ETEP EAD com bolsa de até 80% pelo Educa Mais Brasil.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2190244448433979.jpg"
+}

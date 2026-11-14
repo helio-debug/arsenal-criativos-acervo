@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-877029678329254",
+  "tipo": "estatico",
+  "titulo": "Convite para concluir a simulação do imóvel",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Família vista de costas diante de uma casa ocupa a base, sob um céu azul. Um cartão branco arredondado no alto reúne marca, chamada para compra do imóvel e convite para finalizar a simulação.",
+  "por_que_funciona": [
+    "O cartão branco mantém a mensagem legível sobre a fotografia.",
+    "A família olhando para a casa dá uma representação concreta ao objetivo de compra.",
+    "O botão azul com casa e chave reforça o destino da simulação."
+  ],
+  "quando_usar": "Para retomar o contato com pessoas que iniciaram uma simulação imobiliária.",
+  "estrutura_texto": "[Marca]\n[Chamada sobre o projeto imobiliário]\nFinalize sua simulação\ne [próximo passo]\n[Ícones de casa e chave]",
+  "legenda": "Seu projeto de [imóvel] pode começar com uma simulação. Confira [condições da modalidade] em [canal] e conclua seu atendimento. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de uma família de costas diante de uma casa, com céu azul ocupando o alto. Sobreponha cartão branco arredondado na região superior central, marca pequena, título escuro em linhas curtas e apoio menor. Inclua elemento azul com ícones de casa e chave. Evite sugerir aquisição ou liberação garantida.",
+  "alerta_politica": "Consórcio: não prometer contemplação em prazo certo. Explicitar que a contemplação depende de sorteio ou lance e apresentar taxas, prazo e condições; não equiparar consórcio a crédito com liberação imediata.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "877029678329254",
+    "anunciante": "Porto Vale Consórcio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-18",
+    "dias_no_ar": 361,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não pode perder essa oportunidade!🏠 \nFaça agora mesmo uma simulação.📲\nNão perca!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-877029678329254.jpg"
+}

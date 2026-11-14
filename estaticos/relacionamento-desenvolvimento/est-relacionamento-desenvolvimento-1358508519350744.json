@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1358508519350744",
+  "tipo": "estatico",
+  "titulo": "Grade de perfis com aparência de aplicativo de encontros",
+  "formato": "Print de tela",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Grade de duas colunas com retratos femininos, nomes, idades, status de solteira e pontos verdes. O último bloco traz uma imagem desfocada e a identificação do aplicativo.",
+  "por_que_funciona": [
+    "A grade de retratos apresenta várias possibilidades de perfil em uma única tela.",
+    "Nomes e idades sobre as fotos imitam a navegação de um aplicativo.",
+    "Os pontos verdes sugerem disponibilidade e atraem o olhar para os dados dos perfis.",
+    "As bordas arredondadas e os intervalos brancos organizam a leitura no celular."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de encontros com demonstração fiel de sua interface e perfis autorizados.",
+  "estrutura_texto": "[Foto de perfil]\n[Nome fictício], [idade adulta] [indicador de status]\n[Estado civil]\n[Repetir em grade]\n[Marca do aplicativo]",
+  "legenda": "Conheça [aplicativo de encontros] e descubra perfis de pessoas com interesses em comum. [Condição de gratuidade]. Veja como funciona e crie seu perfil em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma grade de duas colunas e quatro linhas com cantos arredondados e espaços brancos. Use fotos autorizadas de adultos, dados fictícios identificados como demonstração e texto branco no rodapé de cada cartão com degradê escuro. Reserve o último cartão para a marca informada. Use a IMAGEM 2 como material visual do aplicativo; não reproduza identidades da referência nem simule usuários próximos ou online sem comprovação.",
+  "alerta_politica": "Anúncios de encontros exigem autorização da Meta e segmentação para maiores de 18 anos. Use imagens com consentimento e não apresente perfis fictícios ou indicadores de atividade como usuários reais; informe eventuais interações com IA.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1358508519350744",
+    "anunciante": "Talkie Live",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 2,
+    "texto_original": "¡Encuentra tu pareja perfecta con una aplicación de citas 100% gratuita!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1358508519350744.jpg"
+}

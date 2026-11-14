@@ -1,0 +1,36 @@
+{
+  "id": "est-beleza-cosmeticos-1758574902049225",
+  "tipo": "estatico",
+  "titulo": "Clareador com preço e cupom em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma mão segura uma bisnaga inclinada à esquerda. À direita, chamada em azul sobre clareamento, preço com desconto e cupom ocupam uma coluna.",
+  "por_que_funciona": [
+    "A bisnaga na mão comunica o tamanho e aproxima o produto de uma situação real.",
+    "A chamada azul em letras grandes concentra o primeiro olhar.",
+    "Preço anterior riscado, selo de desconto e cupom tornam a condição de compra visível."
+  ],
+  "quando_usar": "Para oferta de cosmético com indicação de uso e alegações documentadas, em campanha de conversão.",
+  "estrutura_texto": "[Marca]\n[Chamada sobre o produto]\n[Áreas de uso autorizadas]\nDe [preço anterior] por [preço atual]\n[Desconto]\nUse o cupom: [cupom]",
+  "legenda": "Inclua [produto] na sua rotina de cuidados para [benefício cosmético comprovado]. Confira [áreas de uso autorizadas] e aproveite [oferta] com o cupom [cupom].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição branca com mão segurando a embalagem na metade esquerda e coluna azul à direita. Use título grande, benefício curto, preço anterior riscado, preço atual dominante, selo circular de desconto e faixa de cupom. Não reproduza referência a genitais; use somente áreas externas autorizadas e benefícios comprovados.",
+  "alerta_politica": "Meta: evitar linguagem sexualizada e insinuação de vergonha sobre a aparência. ANVISA: confirmar indicação para cada área externa e comprovar alegações de clareamento e eficácia; não sugerir uso em mucosas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1758574902049225",
+    "anunciante": "Cicatribem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-03",
+    "dias_no_ar": 72,
+    "variacoes_ativas": 3,
+    "texto_original": "Clareie sua pele enquanto dorme!\nCom 93% de eficácia, o Clareador Dérmico Cicatribem suaviza manchas e devolve a luminosidade natural. \nTextura leve, resultado profundo.\nIdeal para axilas, rosto, colo... Comece hoje seu ritual de transformação!\nVocê merece esse cuidado\nAproveite agora mesmo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1758574902049225.jpg"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "vid-diagnostico-improviso-compra",
+ "titulo": "Tutorial na peça real: teste simples identifica o defeito e leva à busca da reposição",
+ "formato_video": "tutorial-passo-a-passo",
+ "nichos": [
+  "automotivo",
+  "servicos-locais",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "60-75s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Esse [item] está com [sinal de falha]. Vou mostrar o que conferir antes da troca.",
+  "texto_tela": "[SINAL DE FALHA]",
+  "visual": "Plano de cima do item aberto, com a mão apontando o ponto a conferir."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano de cima do item real; dedo indica a região do problema.",
+   "fala": "Esse [item] está com [sinal de falha]. Vou mostrar o que conferir antes da troca.",
+   "texto_tela": "[SINAL DE FALHA]"
+  },
+  {
+   "tempo": "7-18s",
+   "cena": "Close da mão com o instrumento de verificação; nome em branco grande.",
+   "fala": "Isso começou depois de [situação concreta]. Para conferir [ponto], uso [instrumento adequado], seguindo [orientação do fabricante].",
+   "texto_tela": "[INSTRUMENTO]"
+  },
+  {
+   "tempo": "18-32s",
+   "cena": "Aproximação do ponto indicado; mostrar uma verificação segura, sem partes energizadas expostas.",
+   "fala": "Com [item em condição segura], confiro [ponto visível]. Olha este detalhe: [sinal observado]. Ele indica que preciso avaliar [componente].",
+   "texto_tela": "[PONTO A CONFERIR]"
+  },
+  {
+   "tempo": "32-43s",
+   "cena": "Close sustentado do sinal, sem encobrir com a mão.",
+   "fala": "Depois de [confirmação técnica], a reposição indicada é [produto compatível]. Confiro [medida ou especificação] antes de comprar.",
+   "texto_tela": "[ESPECIFICAÇÃO]"
+  },
+  {
+   "tempo": "43-59s",
+   "cena": "Inserção da busca no celular, com dados fictícios e interface do próprio negócio.",
+   "fala": "Na busca, preencho [identificador] e [nome do produto]. Comparo [critério relevante] e confiro [disponibilidade ou entrega] antes de fechar.",
+   "texto_tela": "Busque [produto]"
+  },
+  {
+   "tempo": "59-75s",
+   "cena": "Volta ao item e à peça; mostrar checagem final real.",
+   "fala": "Com [produto] aplicado conforme [orientação], faço [checagem final]. Neste caso, observei [resultado verificável]. Para achar a opção compatível, acesse [canal] com [informação necessária].",
+   "texto_tela": "Confira a compatibilidade em [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro quadro mostra o item aberto e a palavra branca “FALHANDO”, situando a dúvida antes da explicação.",
+  "Os closes da garra e do fio dão um objeto concreto para acompanhar enquanto a fala explica o teste.",
+  "A aproximação do ponto de contato concentra a atenção no local examinado.",
+  "A tela de busca no celular liga o diagnóstico à procura da reposição na mesma narrativa."
+ ],
+ "quando_usar": "Para quem vende produtos de reposição ou atende dúvidas de compatibilidade. Use quando o público precisa entender o que conferir antes de escolher o item.",
+ "roteiro_modelo": "Esse [item] está com [sinal de falha]. Vou mostrar o que conferir antes da troca.\n\n[pausa curta; corte]\n\nIsso começou depois de [situação concreta]. Para conferir [ponto], uso [instrumento adequado], seguindo [orientação do fabricante].\n\n[pausa curta; corte]\n\nCom [item em condição segura], confiro [ponto visível]. Olha este detalhe: [sinal observado]. Ele indica que preciso avaliar [componente].\n\n[pausa curta; corte]\n\nDepois de [confirmação técnica], a reposição indicada é [produto compatível]. Confiro [medida ou especificação] antes de comprar.\n\n[pausa curta; corte]\n\nNa busca, preencho [identificador] e [nome do produto]. Comparo [critério relevante] e confiro [disponibilidade ou entrega] antes de fechar.\n\n[pausa curta; corte]\n\nCom [produto] aplicado conforme [orientação], faço [checagem final]. Neste caso, observei [resultado verificável]. Para achar a opção compatível, acesse [canal] com [informação necessária].",
+ "tomadas_celular": [
+  "Grave 7s de cima do item, apontando a região relevante; luz de janela lateral e celular firme.",
+  "Grave 11s em close do instrumento nas mãos; luz difusa e fundo do local de trabalho.",
+  "Grave 14s da verificação segura em close; iluminação auxiliar fixa e item desenergizado quando aplicável.",
+  "Grave 11s do detalhe observado, com foco travado e luz lateral sem reflexo.",
+  "Faça 16s de captura da busca no celular, com dados fictícios; tela legível e brilho estável.",
+  "Grave 16s da peça e da checagem final em plano próximo; luz uniforme e resultado real."
+ ],
+ "caminho_ia": "Sem gravar, use Veo ou Runway para cenas ilustrativas e voz sintética autorizada para narrar. Prompts: \"Vertical 9:16 overhead handheld close-up of [product] on a workbench, a hand pointing at [inspection point], soft side lighting, realistic materials, no logos, 7 seconds.\" e \"Vertical 9:16 macro shot of [replacement product] beside [compatible item], slow push-in, diffused workshop lighting, no readable labels, 8 seconds.\" Monte no CapCut com slideshow de imagens geradas e uma simulação de busca com dados fictícios. Sobreponha as palavras brancas na edição. Identifique cenas simuladas; não apresente imagens geradas como prova de diagnóstico ou resultado real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça um tutorial de 75s em seis blocos: 0-7 problema visível; 7-18 instrumento e contexto; 18-32 verificação segura; 32-43 especificação; 43-59 busca; 59-75 checagem e canal. Tom de profissional explicando uma tarefa. Alterne plano de cima, closes e tela do celular; use palavras brancas grandes sincronizadas com a fala. Não reproduza o teste elétrico da referência nem o prazo de entrega citado. Adapte a verificação ao produto, com procedimento seguro e tecnicamente correto. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos e condições fornecidos; não invente descontos, prazos, resultados ou gratuidade. Não copie marcas, pessoas, logotipos, contatos, cenários identificáveis nem falas literais da referência. Evite superlativos sem prova, perguntas decorativas e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Sinal de falha] pede uma conferência de [ponto]. Veja o que observar e quais dados usar para buscar [produto compatível]. Consulte [canal] com [identificador].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-72f11e36",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-diagnostico-improviso-compra/frames/f1.jpg",
+    "videos/vid-diagnostico-improviso-compra/frames/f2.jpg",
+    "videos/vid-diagnostico-improviso-compra/frames/f3.jpg",
+    "videos/vid-diagnostico-improviso-compra/frames/f4.jpg",
+    "videos/vid-diagnostico-improviso-compra/frames/f5.jpg"
+   ]
+  }
+ ]
+}

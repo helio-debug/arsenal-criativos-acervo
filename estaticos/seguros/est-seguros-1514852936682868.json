@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1514852936682868",
+  "tipo": "estatico",
+  "titulo": "Seguro de vida em grupo com contato em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Dois profissionais de braços cruzados aparecem na metade superior, entre letras grandes alaranjadas. A metade inferior verde reúne a proposta do seguro de vida em grupo e os canais de contato.",
+  "por_que_funciona": [
+    "A dupla em roupas profissionais contextualiza a oferta para equipes.",
+    "O bloco verde-limão destaca o nome do seguro sobre o fundo escuro.",
+    "Telefone e site grandes deixam o próximo passo visível.",
+    "A faixa laranja separa a promessa central dos demais textos."
+  ],
+  "quando_usar": "Para captar contatos de empresas interessadas em benefícios e proteção para colaboradores.",
+  "estrutura_texto": "[Palavra de impacto distribuída na foto]\nDa [equipe protegida] à [tranquilidade coletiva]:\n[Frase de cuidado]\nContrate um [seguro de vida em grupo]\nFale com [consultores].\n[Telefone]\n[Site]\n[Marca]",
+  "legenda": "Conheça o [seguro de vida em grupo] para colaboradores e familiares. Consulte opções de coberturas, serviços e condições para [perfil de empresa]. Fale com [canal de atendimento] para uma proposta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre foto de dois profissionais na metade superior e bloco verde escuro abaixo. Sobreponha letras grandes alaranjadas na foto formando uma palavra curta. Use faixa laranja para a frase central, caixa verde-limão para o produto e contato branco em destaque. Substitua todos os dados de contato pelos fornecidos.",
+  "alerta_politica": "Para seguros, informe coberturas, exclusões e condições reais de contratação; não prometa proteção total nem indenização garantida. Observe as regras aplicáveis da SUSEP e evite atribuir vulnerabilidades pessoais ao público na copy da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1514852936682868",
+    "anunciante": "Unimed Curitiba",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-26",
+    "dias_no_ar": 172,
+    "variacoes_ativas": 1,
+    "texto_original": "Para o bem-estar dos seus colaboradores e familiares, contrate um seguro de vida em grupo.\nSeguro de Vida Em Grupo Unimed\nTemos soluções flexíveis, planos que cabem no seu bolso e coberturas para: > Morte natural ou acidental > Invalidez permanente total ou parcial por acidente (IPA) > Auxílio-funeral individual ou familiar > Rescisão trabalhista > Cesta básica ou indenização por morte > Apoio psicológico e orientação nutricional > Telemedicina em alguns planos > E dezenas de outras opções Fale com nossos consultores.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1514852936682868.jpg"
+}

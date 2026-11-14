@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1482704350277586",
+  "tipo": "estatico",
+  "titulo": "Conclusão de cadastro com celular em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma faixa vermelha e laranja concentra a chamada de renda extra e o convite para concluir o cadastro. À direita, uma mulher sorrindo segura um celular com a tela voltada para o público.",
+  "por_que_funciona": [
+    "O celular na mão ilustra o canal indicado pela chamada.",
+    "Direto do celular aparece em letras amarelas grandes sobre vermelho.",
+    "Finalize seu cadastro direciona a peça a quem já iniciou a inscrição.",
+    "O botão amarelo de começo hoje oferece uma ação visualmente delimitada."
+  ],
+  "quando_usar": "Para retomar inscrições incompletas em programas de revenda digital e explicar o próximo passo.",
+  "estrutura_texto": "Sua [oportunidade]\nDireto do [canal]\nFinalize seu [cadastro] e conheça [benefícios e condições]\n[Comece hoje]",
+  "legenda": "Falta concluir seu cadastro em [programa]. Confira as condições de [revenda], os benefícios disponíveis e os próximos passos para começar pelo [canal]. Acesse e finalize sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição vertical entre faixa vermelha com degradê laranja à esquerda e foto de pessoa segurando celular à direita. Use amarelo na chamada principal e no botão arredondado; texto de apoio branco e pontos gráficos discretos perto do aparelho. Preserve boa leitura e use pessoa e identidade próprias. Não insira valores de ganhos sem base.",
+  "alerta_politica": "Meta: não apresentar renda ou lucro como resultado certo do cadastro. Explicar a atividade de revenda, seus custos e condições; evitar mensagens que presumam vulnerabilidade financeira do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1482704350277586",
+    "anunciante": "Natura",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-10",
+    "dias_no_ar": 127,
+    "variacoes_ativas": 2,
+    "texto_original": "Sua renda extra está a um clique. Finalize seu cadastro e lucre direto do celular!\nRenda Extra Do Celular\nFalta muito pouco para você começar a ter sua renda extra online. Conclua o cadastro.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1482704350277586.jpg"
+}

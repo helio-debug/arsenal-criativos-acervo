@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-907830948043878",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre falta de vendas em fundo texturizado",
+  "formato": "Alerta e educação",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Texto creme centralizado sobre fundo vinho texturizado diz que publica e não vende. A segunda linha em itálico e a pergunta menor criam três níveis de leitura.",
+  "por_que_funciona": [
+    "A frase curta descreve uma dificuldade comercial específica.",
+    "O itálico destaca a falta de vendas dentro da chamada.",
+    "A pergunta menor deixa aberta a resposta que a legenda pode desenvolver.",
+    "O contraste creme sobre vinho mantém a leitura com poucos elementos."
+  ],
+  "quando_usar": "Para chamar a atenção de revendedores de uma coleção e levar à legenda com orientação e condições comerciais.",
+  "estrutura_texto": "[Ação feita] & [resultado que falta]\n[E agora?]",
+  "legenda": "Publica [produtos] e recebe poucos pedidos? Revise [apresentação das peças] e [informações para compra]. Conheça [coleção] e consulte [desconto vigente] até [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Preencha o fundo com vinho e textura sutil semelhante a papel ou tecido. Centralize chamada curta em creme, com primeira linha serifada regular, segunda linha maior em itálico e pergunta pequena em caixa alta abaixo. Use bastante respiro; sem fotografia, logotipo copiado ou preço inventado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "907830948043878",
+    "anunciante": "Collection Lingerie",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-01-17",
+    "dias_no_ar": 666,
+    "variacoes_ativas": 1,
+    "texto_original": "Dica extra: apostar nas lingeries da Collection é um passo indispensável em suas vendas, afinal, de qualidade, conforto e tendências, a gente entende 😉\n\nAproveite os últimos dias de descontos em nossa black\nwww.collectionlingerie.com.br 💻 🍒",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-907830948043878.jpg"
+}

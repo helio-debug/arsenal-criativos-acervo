@@ -1,0 +1,95 @@
+{
+ "id": "vid-descanso-automacao",
+ "tipo": "video",
+ "titulo": "Cena de descanso revela automação trabalhando e corta para a demonstração",
+ "formato_video": "bastidores",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "escassez-prazo",
+ "etapa_funil": "meio",
+ "duracao": "35-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Voz fora de quadro: Você parou? Apresentador: Fiz uma pausa enquanto [ferramenta ou processo] cuida de [tarefa].",
+  "texto_tela": "Uma pausa enquanto [tarefa] roda",
+  "visual": "Plano médio lateral: pessoa sentada à mesa, revista nas mãos e notebook ao lado. Legenda branca pequena."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio lateral: pessoa sentada à mesa, revista nas mãos e notebook ao lado. Legenda branca pequena.",
+   "fala": "Voz fora de quadro: Você parou? Apresentador: Fiz uma pausa enquanto [ferramenta ou processo] cuida de [tarefa].",
+   "texto_tela": "Uma pausa enquanto [tarefa] roda"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Tela dividida: configuração do processo em cima, apresentador sentado embaixo. Mostrar campos legíveis, sem dados privados.",
+   "fala": "Eu defini [regra da tarefa] e deixei [etapa repetitiva] preparada. Aqui está a configuração.",
+   "texto_tela": "[Regra aplicada]"
+  },
+  {
+   "tempo": "12-18s",
+   "cena": "Aproximação do notebook, com detalhe do resultado; cortar para rosto em close.",
+   "fala": "Olha este exemplo: [resultado observável]. Eu confiro [critério de qualidade] antes de usar.",
+   "texto_tela": "[Resultado demonstrado]"
+  },
+  {
+   "tempo": "18-26s",
+   "cena": "Volta ao plano médio frontal na mesa, gestos acompanhando a explicação.",
+   "fala": "No [evento], você acompanha esse processo e aprende a montar [aplicação ligada ao seu trabalho].",
+   "texto_tela": "Aprenda [aplicação]"
+  },
+  {
+   "tempo": "26-33s",
+   "cena": "Apresentador mantém contato com a câmera; legenda acompanha a fala em trechos curtos.",
+   "fala": "A próxima turma acontece em [data]. Vamos trabalhar com [exemplo prático] durante a aula.",
+   "texto_tela": "[Data] • [formato do evento]"
+  },
+  {
+   "tempo": "33-40s",
+   "cena": "Cartela vertical com fundo em degradê, nome genérico do evento, data e chamada legível.",
+   "fala": "As inscrições ficam abertas até [prazo real]. Toque no link para ver a programação e reservar sua vaga.",
+   "texto_tela": "[Evento]\n[Data]\nVer programação"
+  }
+ ],
+ "por_que_funciona": [
+  "A revista nas mãos ao lado do notebook dá uma imagem concreta à pausa descrita na fala.",
+  "A composição com arquivo de configuração acima do apresentador conecta a explicação ao processo mostrado.",
+  "A passagem do rosto em close para o plano médio varia o enquadramento antes do convite.",
+  "A cartela final em degradê separa a demonstração das informações do evento."
+ ],
+ "quando_usar": "Para divulgar um evento sobre ferramentas, software ou processos de marketing com uma tarefa demonstrável. Use depois que o público já conhece o problema e precisa ver uma aplicação.",
+ "roteiro_modelo": "[0-5s] Voz fora de quadro: Você parou? Apresentador: Fiz uma pausa enquanto [ferramenta ou processo] cuida de [tarefa].\n\n[pausa curta; corte]\n\n[5-12s] Eu defini [regra da tarefa] e deixei [etapa repetitiva] preparada. Aqui está a configuração.\n\n[pausa curta; corte]\n\n[12-18s] Olha este exemplo: [resultado observável]. Eu confiro [critério de qualidade] antes de usar.\n\n[pausa curta; corte]\n\n[18-26s] No [evento], você acompanha esse processo e aprende a montar [aplicação ligada ao seu trabalho].\n\n[pausa curta; corte]\n\n[26-33s] A próxima turma acontece em [data]. Vamos trabalhar com [exemplo prático] durante a aula.\n\n[pausa curta; corte]\n\n[33-40s] As inscrições ficam abertas até [prazo real]. Toque no link para ver a programação e reservar sua vaga.",
+ "tomadas_celular": [
+  "Grave 5s na vertical, plano médio lateral da pessoa lendo à mesa, luz de janela de frente e notebook no quadro.",
+  "Filme 7s da configuração no notebook em close, luz lateral suave e tela sem reflexos; trave o foco.",
+  "Filme 6s de um resultado real na tela, celular apoiado e luz ambiente baixa para evitar reflexos.",
+  "Grave 8s de explicação em plano médio frontal, luz de janela e câmera na altura dos olhos.",
+  "Grave 7s com leve aproximação do rosto, mesma luz, para data e convite.",
+  "Grave 7s de chamada em plano médio, luz frontal; use o áudio sob uma cartela montada no celular."
+ ],
+ "caminho_ia": "Use Veo ou Runway para criar a abertura e o insert; um avatar autorizado pode narrar, com voz sintética licenciada. Prompts: \"Vertical 9:16 medium side shot, adult reading a plain magazine beside a laptop running [product workflow], soft window key light, subtle handheld movement, five seconds, no logos, no generated text.\" e \"Vertical 9:16 over-the-shoulder close-up of a laptop displaying [product output], slow push-in, soft office lighting, six seconds, blank UI areas for compositing, no logos.\" Componha telas reais autorizadas ou mockups identificados no CapCut. Monte a tela dividida, as legendas e a cartela de data no editor; não trate um resultado gerado como prova real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 40s em seis blocos: 0-5s pausa com revista e tarefa em andamento; 5-12s configuração em tela dividida; 12-18s resultado e close; 18-26s convite para aprender o processo; 26-33s data e aplicação; 33-40s prazo e cartela. Tom casual, início com duas vozes, ritmo de conversa e cortes nas mudanças de assunto. Use legendas brancas pequenas e cartela final legível. Mostre uma tarefa compatível com meu produto. Use só quantidades demonstráveis e prazo real. Não copie pessoas, personagens, falas, marcas, nomes de clientes, logotipos, datas ou identidade visual da referência. Use apenas dados e provas fornecidos sobre meu produto; se faltar informação, deixe [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, pergunta decorativa, tríade decorativa ou antítese vazia. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa repetitiva] pode seguir um processo configurado. No [evento], vamos montar [aplicação prática]. Veja a programação no link. Inscrições até [prazo real].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-5026c821",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-descanso-automacao/frames/f1.jpg",
+    "videos/vid-descanso-automacao/frames/f2.jpg",
+    "videos/vid-descanso-automacao/frames/f3.jpg",
+    "videos/vid-descanso-automacao/frames/f4.jpg",
+    "videos/vid-descanso-automacao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

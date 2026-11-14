@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1536096904475148",
+  "tipo": "estatico",
+  "titulo": "Dois modelos de óculos de segurança para óticas",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Dois óculos de segurança ampliados ocupam o centro de um fundo preto com detalhes verdes. O título destaca a palavra graduados e direciona a oferta a óticas, com referências a normas no topo e chamada para deslizar na base.",
+  "por_que_funciona": [
+    "As duas fotos grandes permitem observar armações e hastes de cores diferentes.",
+    "A palavra graduados em verde domina a hierarquia do título.",
+    "A expressão para sua ótica identifica o comprador profissional.",
+    "Os selos visuais de normas apresentam um critério de avaliação do produto."
+  ],
+  "quando_usar": "Para apresentar uma linha de óculos de segurança a lojistas e gestores de óticas.",
+  "estrutura_texto": "[Marca]\n[Demanda e conformidade]\n[Certificações comprovadas]\n[Categoria do produto]\n[Diferencial em destaque]\nPARA [PÚBLICO]\n[Benefício]\n[CTA de navegação]",
+  "legenda": "Ofereça [categoria de produto] na sua [tipo de loja]. Conheça [modelos e benefícios comprovados] e solicite [mostruário ou informações comerciais] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho verde discreto e grafismos geométricos nas bordas. Posicione dois produtos recortados grandes em coluna. Faça título central branco com o diferencial em verde e tamanho maior. Reserve topo para marca e certificações verificadas, e base para apoio e chamada de navegação. Não invente selos ou certificações.",
+  "alerta_politica": "Óculos de segurança: alegações de proteção e conformidade devem corresponder aos ensaios, documentação e certificações aplicáveis ao modelo. Não inventar CA, selos ou benefícios clínicos; evitar promessas de aumento de vendas sem evidência.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1536096904475148",
+    "anunciante": "ID Safety",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-15",
+    "dias_no_ar": 303,
+    "variacoes_ativas": 1,
+    "texto_original": "📢 Dono ou gestor de ótica, atenção!\nVocê sabia que pode aumentar suas vendas em até 30% oferecendo óculos de segurança graduados?\nCom a ID Safety, você garante:\n✅ Margens de lucro atrativas\n✅ Reposição facilitada\n✅ Entrega rápida\n✅ Sistema de pedidos prático\n\nNão perca mais clientes por não ter esse produto no portfólio.\n👉 Clique no botão abaixo e solicite agora seu kit mostruário exclusivo!\n\n#Ótica #SegurançaVisual #IDSafety #NegócioRentável #ÓculosGraduados",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1536096904475148.jpg"
+}

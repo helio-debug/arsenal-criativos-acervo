@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1471739101405712",
+  "tipo": "estatico",
+  "titulo": "Empréstimo pessoal com ícones de planos",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com faixa de marca e cartão azul de cantos arredondados. A mensagem central branca é cercada por bolhas com carteira, casa, viagem, documento e caixas.",
+  "por_que_funciona": [
+    "O contraste entre azul e amarelo separa o cartão principal do fundo.",
+    "A frase central em letras grandes oferece leitura rápida.",
+    "Os objetos nas bolhas representam diferentes usos possíveis do dinheiro.",
+    "A ressalva de análise aparece dentro do bloco principal."
+  ],
+  "quando_usar": "Para apresentar uma modalidade de empréstimo pessoal em campanhas de reconhecimento e consideração.",
+  "estrutura_texto": "[Marca e modalidade]\n[Ícone de dinheiro]\nDinheiro para\n[objetivo do público]\n[Nome da modalidade]\n[Condições sujeitas à análise]",
+  "legenda": "Conheça o [empréstimo pessoal] de [instituição] e simule as condições para [objetivo]. Consulte [taxas, prazo e custo total]. Contratação sujeita à análise de crédito.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo e cartão azul central com cantos bem arredondados. No alto, inclua faixa azul para marca e modalidade. Centralize título branco em três linhas, ícone de moeda amarelo e etiqueta azul escura com o nome do serviço. Distribua bolhas translúcidas com objetos ligados a projetos e mantenha a ressalva legível.",
+  "alerta_politica": "Crédito: evitar afirmações sobre a situação financeira de quem vê o anúncio e promessas de aprovação, economia ou taxa garantidas. Informar condições, custos e sujeição à análise; conferir as regras da Meta para anúncios de produtos financeiros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1471739101405712",
+    "anunciante": "Conta Bemol",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-03",
+    "dias_no_ar": 256,
+    "variacoes_ativas": 1,
+    "texto_original": "Qual é o tamanho da sua necessidade financeira agora? A Conta Bemol consegue te ajudar!\nEmpréstimo Pessoal Bemol",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1471739101405712.jpg"
+}

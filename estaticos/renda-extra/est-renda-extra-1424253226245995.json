@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1424253226245995",
+  "tipo": "estatico",
+  "titulo": "Revenda de fragrâncias com ganho em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Quatro frascos de fragrâncias aparecem sobre uma base amarela diante de uma parede laranja. O topo destaca um valor de lucro e o rodapé traz um botão de cadastro.",
+  "por_que_funciona": [
+    "O valor em reais aparece em uma faixa de alto contraste no topo.",
+    "Os quatro frascos tornam visível o mix disponível para revenda.",
+    "O botão verde no rodapé destaca a ação de cadastro.",
+    "O asterisco liga a chamada de ganho a uma condição em letras pequenas."
+  ],
+  "quando_usar": "Captação de interessados em revenda de um catálogo físico, com condições comerciais e estimativas documentadas.",
+  "estrutura_texto": "[Renda extra] e [linha de produtos]:\n[oportunidade para o público]!\n[Estimativa de lucro com condições]*\n[CADASTRE-SE E REVENDA]\n[Base e condições da estimativa]",
+  "legenda": "Conheça a linha [linha de produtos] e as condições para começar na revenda de [categoria]. Consulte [investimento inicial], [margens] e [requisitos]. Faça seu cadastro em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha quatro produtos da IMAGEM 2 em primeiro plano, um deles elevado em pedestal cilíndrico amarelo, sobre fundo laranja com textura de parede. Use título branco grande no topo, faixa com chamada comercial comprovável e botão verde no rodapé. Reserve espaço legível para condições. Não reproduza a promessa financeira da referência sem comprovação.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1424253226245995",
+    "anunciante": "O Boticário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-09",
+    "dias_no_ar": 66,
+    "variacoes_ativas": 4,
+    "texto_original": "Pronta para lucrar com a vibe mais intensa de O Boticário? 🚀✨\nCom Egeo, diversão e sucesso de vendas andam juntos! É a escolha perfeita para quem quer começar a faturar com renda extra e vender fragrâncias que todo mundo ama 💰💖\nRevenda O Boticário\nSeja um Revendedor do Boticário. Comece seu cadastro, é rápido e grátis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1424253226245995.jpg"
+}

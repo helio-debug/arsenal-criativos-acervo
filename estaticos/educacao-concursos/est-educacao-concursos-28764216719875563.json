@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-28764216719875563",
+  "tipo": "estatico",
+  "titulo": "Total de aprovações com inscrição para prova de bolsa",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça verde com total de aprovações no topo e quadro de resultados por universidade. A chamada para prova de bolsa e o nome do extensivo ficam entre duas estudantes recortadas; o rodapé pede inscrição.",
+  "por_que_funciona": [
+    "O total de 716 aprovações ocupa o topo e abre a leitura com um resultado numérico.",
+    "O quadro por universidade detalha parte dos resultados anunciados.",
+    "A chamada de prova de bolsa apresenta uma ação concreta para o interessado.",
+    "As duas estudantes com inscrições comemorativas reforçam visualmente o tema de aprovação."
+  ],
+  "quando_usar": "Para captar inscrições para uma prova de bolsa de curso preparatório, usando resultados comprovados de ciclos anteriores.",
+  "estrutura_texto": "[TOTAL] APROVAÇÕES EM [CATEGORIA DE INSTITUIÇÕES]\n[CICLO]\n[INSTITUIÇÃO] [QUANTIDADE]\n[PROVA DE BOLSA]\n[NOME DO CURSO]\n[ÁREA E ANO]\n[INSCREVA-SE]",
+  "legenda": "Conheça o [extensivo] para [objetivo acadêmico]. No ciclo [período], o curso registrou [total comprovado] aprovações em [categoria de instituições]. A preparação inclui [estudo orientado] e [acompanhamento]. Inscreva-se na prova de bolsa e consulte o regulamento em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde texturizado e título numérico grande no topo, com ciclo em etiqueta vertical. Monte quadro de resultados em três colunas, chamada central de prova de bolsa e nome do curso em branco. Distribua recortes de estudantes baseados na IMAGEM 2 nos cantos inferiores e faixa escura de inscrição no rodapé. Use resultados verificáveis, indique o período e não prometa aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28764216719875563",
+    "anunciante": "Hexag Medicina",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 10,
+    "texto_original": "Ainda não conquistou sua vaga na Medicina Pública?\nTalvez o problema não seja esforço — e sim método.\n\nHá 30 anos, o Hexag já aprovou mais de 10.000 estudantes em Medicina Pública com uma Metodologia Exclusiva que transforma, em apenas 1 ano, qualquer aluno dedicado em um estudante de alto desempenho.\n\nAqui, você terá acesso a:\n\n✅ Período Integral + Estudo Orientado (EO) com Mentoria Personalizada\n✅ Monitores de Matemática, Natureza e Linguagens todos os dias\n✅ O melhor time de professores, especialistas em Pré-Medicina\n✅ O material didático mais completo e atualizado\n✅ Plataforma Hexag Online exclusiva\n✅ Simulados semanais e Ressonâncias para acompanhar sua evolução\n✅ Revisões Periódicas (UTIs) e Revisões Anuais (Anatomias)\n✅ Apoio psicológico individual + técnicas reais de controle da ansiedade\n✅ Seguro Aprovação + equipe multidisciplinar para customização do estudo\n✅ Encontros com responsáveis ao longo do ano\n\n🔗 Acesse o link da bio e participe do nosso CONCURSO DE BOLSAS.\n\nHEXAG — Líder em Aprovações em Medicina Pública.\n#hexag #hexagmedicina #cursinhoparamedicina",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-28764216719875563.jpg"
+}

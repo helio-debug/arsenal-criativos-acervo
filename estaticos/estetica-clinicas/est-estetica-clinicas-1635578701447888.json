@@ -1,0 +1,36 @@
+{
+  "id": "est-estetica-clinicas-1635578701447888",
+  "tipo": "estatico",
+  "titulo": "Seleção de pacientes modelo sobre foto de atendimento",
+  "formato": "Comunicado oficial",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de profissional marcando o rosto de uma paciente reclinada. No terço inferior, letras serifadas brancas anunciam seleção de pacientes modelo.",
+  "por_que_funciona": [
+    "A cena de atendimento mostra diretamente o contexto do procedimento.",
+    "A expressão “pacientes modelo” ocupa duas linhas grandes e concentra a chamada.",
+    "A frase curta acima esclarece que há uma seleção em andamento."
+  ],
+  "quando_usar": "Para divulgar seleção real de pacientes para atendimento supervisionado, com critérios e condições apresentados antes do agendamento.",
+  "estrutura_texto": "ESTOU SELECIONANDO\n[PÚBLICO DA SELEÇÃO]\n[CONVITE PARA CONSULTAR CRITÉRIOS]",
+  "legenda": "Estão abertas as inscrições para seleção de [pacientes modelo] em [procedimento], durante [atividade supervisionada]. Consulte [critérios], [avaliação necessária], [profissional responsável] e [condições completas]. A indicação depende de avaliação individual.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto autorizada de atendimento estético com profissional à esquerda e paciente reclinada à direita. Mostre preparação ou marcação sem sangue ou detalhes invasivos. Aplique leve gradiente escuro no terço inferior e texto branco serifado: chamada pequena, nome da seleção em duas linhas grandes e convite menor abaixo. Não inclua antes e depois ou promessa de resultado.",
+  "alerta_politica": "Publicidade de procedimentos estéticos deve observar as regras do conselho profissional responsável e da Meta. Exigir consentimento para uso de imagem; não garantir resultados, explorar inseguranças sobre aparência ou omitir riscos, avaliação e condições da seleção. Produtos utilizados devem ter regularização sanitária aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1635578701447888",
+    "anunciante": "Dra Juliana Ramos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 1,
+    "texto_original": "✨ CHEGOU A OPORTUNIDADE QUE VOCÊ TANTO ESPERAVA! ✨\n\nEstou selecionando Pacientes Modelo para a minha Mentoria VIP de Harmonização Facial! 💉🤎\n\nEssa é a sua chance de realçar sua beleza, conquistar aquele contorno que você deseja e realizar sua harmonização com uma condição superespecial!\n\n😍 Já imaginou fazer seu preenchimento por apenas \n R$ 590,00 o ML à vista (Pix ou dinheiro)  ou R$690,00 o ML em até 6x no cartão de crédito , em vez de R$ 1.300,00 o ML?\n\nAlém de cuidar de você, sua participação contribuirá para o aperfeiçoamento de novos profissionais da área, sob minha orientação.\n\n✨ Sonha em fazer sua harmonização há tempos?\n✨ Confia no meu trabalho e busca resultados naturais?\n✨ Quer aproveitar uma condição exclusiva?\n\nEntão, essa oportunidade é para você! 🤍\n\n⚠️  Vagas limitadas e avaliação individual para verificar a indicação do procedimento.\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1635578701447888.jpg"
+}

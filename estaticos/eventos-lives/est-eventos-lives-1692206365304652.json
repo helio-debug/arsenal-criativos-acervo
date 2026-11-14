@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1692206365304652",
+  "tipo": "estatico",
+  "titulo": "Workshop com fotografia de origem e alcance internacional",
+  "formato": "Produto em destaque",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fotografia de uma plantação com uma árvore alta à direita e céu azul. Texto serifado no alto contrasta alcance internacional e origem, enquanto uma faixa inferior apresenta o workshop e a data.",
+  "por_que_funciona": [
+    "A plantação em primeiro plano situa o tema do workshop sem depender de ícones.",
+    "A árvore alta à direita equilibra o texto no espaço livre do céu à esquerda.",
+    "Os números de países e continentes dão escala à narrativa de origem.",
+    "A faixa contornada na base reúne tema, edição e data em um único ponto."
+  ],
+  "quando_usar": "Para apresentar eventos ligados a um território, uma cadeia produtiva ou uma origem com alcance comprovado.",
+  "estrutura_texto": "[Parceiros do evento]\n[Número] Países.\n[Número] Continentes.\n1 Origem.\n[Local de origem].\nWORKSHOP [tema] · [edição] · [data]\n[índice do carrossel]",
+  "legenda": "De [origem] para [mercados atendidos]: conheça a trajetória de [produto ou atividade] e os fatores que caracterizam sua produção. O workshop [tema], em [data], reúne [conteúdo ou experiência]. Confira a programação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia ampla de paisagem produtiva relacionada à IMAGEM 2, com vegetação em primeiro plano, árvore alta à direita e céu livre à esquerda. Sobre o céu, aplique texto branco serifado em linhas curtas com números comprovados de alcance e a origem. Na base, insira faixa discreta com contorno fino para tema, edição e data do evento. Não invente credenciais ou dados de exportação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1692206365304652",
+    "anunciante": "Cacoal Selva Park Oficial com nerio.coffee",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 2,
+    "texto_original": "18 Países. 5 Continentes. 1 Origem. Cacoal.\n\nA Nério Amazon Coffee nasce aqui em Cacoal e leva o nome desta\nterra ao mundo. Hoje é a maior produtora e exportadora de\nRobusta especial do planeta, com o terroir amazônico e o\nsavoir-faire das Matas de Rondônia, a primeira Denominação de\nOrigem de Robusta do mundo.\n\n🌍 Vai para a Harrods, em Londres.\n☕ Está em edições especiais da 3 Corações, a maior empresa\nde café do Brasil.\n✈️ Chega a compradores nos Estados Unidos, Japão, Itália e\nmais 15 países.\n\nPor trás desse café existe a Alquimia Amazônica: origem,\nmicrobiota nativa, método, preparo e leitura sensorial.\nUm jeito próprio de revelar tudo o que esse Robusta pode\nentregar.\n\nDepois do sucesso da 1ª edição, apresentamos o:\n\nWorkshop Robusta Amazônico · 2ª edição\n\nUma imersão de 1 dia para entender, preparar e degustar o\ncafé que colocou Cacoal no mapa mundial do café especial.\n\nEm 3 passos:\n\n🌿 Entender a origem\nO que torna o Robusta Amazônico único. E por que ele vale mais.\n\n☕ Preparar com técnica\nMoagem, água, proporção, tempo, temperatura. V60, prensa\nfrancesa e Koar.\n\n👃 Degustar com consciência\nAroma, corpo, sabor, equilíbrio. E como corrigir o que deixa\no café fraco ou amargo.\n\nEste Workshop é para:\n🤎 Amantes de café que querem fazer café perfeito em casa\n☕ Donos de cafeterias, baristas e equipes que querem servir\ncom mais técnica\n🌱 Cafeicultores que querem entender o que faz o próprio\ncafé valer mais\n💼 Empreendedores de gastronomia, hotelaria e turismo que\nquerem transformar café em experiência\n\n📅 17 de maio\n📍 Cacoal Selva Park\n🍽️ Almoço incluso\n☕ 2 coffee breaks\n🎓 Certificado nominal\n⚠️ Vagas limitadas\n\nUma origem. Uma técnica. Um dia.\n\nReserve sua vaga pelo link na bio.\n\n#NerioAmazonCoffee #RobustaAmazonico #WorkshopRobustaAmazonico\n#MatasDeRondonia #CafeEspecial PrimeiraDORobusta",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1692206365304652.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1191663392408346",
+  "tipo": "estatico",
+  "titulo": "Voucher de restaurante como presente",
+  "formato": "Produto em destaque",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de um prato servido em panela ocupa o topo. Um degradê escuro sustenta a chamada de presente e a apresentação do voucher.",
+  "por_que_funciona": [
+    "O prato em primeiro plano mostra a experiência que o voucher oferece.",
+    "A palavra manuscrita acima da chamada em caixa alta destaca a ocasião de presentear.",
+    "O degradê escuro cria contraste para o texto claro.",
+    "A linha de unidades no rodapé ajuda a avaliar onde usar o presente."
+  ],
+  "quando_usar": "Restaurantes que vendem vouchers para datas comemorativas ou agradecimentos.",
+  "estrutura_texto": "[Marca]\n[Chamada para presentear]\n[Pessoa presenteada]\n[Apresentação do voucher]\n[Descrição da experiência]\n[Unidades]",
+  "legenda": "Presenteie [pessoa querida] com um [almoço ou jantar] em [restaurante]. O [voucher presente] pode ser usado em [unidades e condições]. Adquira o seu em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto gastronômica grande nos dois terços superiores e degradê preto na base. Combine uma palavra em escrita cursiva com chamada em caixa alta creme. Apresente o voucher em dois blocos curtos e coloque [unidades] no rodapé. Use apenas os dados fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1191663392408346",
+    "anunciante": "Paparoto Cucina",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-16",
+    "dias_no_ar": 333,
+    "variacoes_ativas": 1,
+    "texto_original": "Agora você pode presentear quem você ama!\nUma experiência única no restaurante Paparoto o Voucher Presente é uma uma forma elegante e prática de surpreender com um almoço ou jantar inesquecível.\n\nIdeal para datas especiais, agradecimentos ou simplesmente para mimar alguém querido.\nAdquira o seu e proporcione uma experiência especial. \n\n📍JK Iguatemi | Parque da Cidade | Pinheiros",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1191663392408346.jpg"
+}

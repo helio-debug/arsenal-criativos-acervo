@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1809947387031498",
+  "tipo": "estatico",
+  "titulo": "Tema de curso ilustrado por interface de verificação",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Moldura verde envolve painel branco com uma simulação de janela de verificação de idade no alto. Um pequeno bloco amarelo identifica o curso, enquanto a chamada central azul e preta destaca design protetivo aplicado a produtos.",
+  "por_que_funciona": [
+    "A janela de verificação de idade ilustra uma situação concreta ligada ao conteúdo.",
+    "“Design Protetivo” em azul dá destaque ao recorte específico do curso.",
+    "“construção de produtos” conecta o tema à aplicação profissional.",
+    "O bloco amarelo com etiqueta de turma mantém a oferta de curso visível ao lado do exemplo."
+  ],
+  "quando_usar": "Para atrair profissionais de produto, design e tecnologia com uma aplicação específica do conteúdo de um curso.",
+  "estrutura_texto": "[Exemplo de interface relacionado ao tema]\n[Curso] | [turma] | [abordagem]\n[Competência] no [tema]:\nTeoria e Prática na [aplicação profissional].",
+  "legenda": "Como aplicar [tema] em [produto ou processo]? O curso [nome] aborda [desafio de interface], [mecanismo] e [requisito] com foco em aplicação prática. Conheça o programa e veja como trabalhar [competência] em [contexto].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use moldura externa verde e painel branco com contorno preto. No alto à direita, desenhe uma interface ilustrativa de [mecanismo do produto], com pequeno ícone, título e botão; deixe claro que faz parte da ilustração. À esquerda, posicione bloco amarelo do curso com etiqueta rosa. Abaixo, destaque o tema em azul e o complemento em preto condensado. Adicione retângulos de contorno cinza discretos ao fundo e assinatura própria em etiqueta rosa no topo. Use a IMAGEM 2 como referência do produto oferecido.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1809947387031498",
+    "anunciante": "Data Privacy Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-14",
+    "dias_no_ar": 92,
+    "variacoes_ativas": 7,
+    "texto_original": "O ECA Digital não muda apenas o contrato de termos de uso: ele altera a forma como produtos digitais são desenhados.\n\nComo implementar o Design Protetivo no seu app? Como criar mecanismos de Controle Parental sem estragar a experiência do usuário (UX)? Como fazer a Verificação de Idade respeitando a LGPD?\n\nNão basta conhecer o texto da lei. É preciso traduzir regras regulatórias em código, design de interface e fluxos de dados seguros.\n\nAprenda com a Data Privacy Brasil a alinhar produto, tecnologia e segurança regulatória.\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1809947387031498.jpg"
+}

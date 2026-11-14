@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-922357164155921",
+  "tipo": "estatico",
+  "titulo": "Combo com preço e entrega grátis em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Dois potes de suplementos aparecem sobre um balcão com fundo de loja desfocado. Faixa amarela de promoção, preço em vermelho e entrega grátis estruturam a oferta.",
+  "por_que_funciona": [
+    "A faixa amarela com listras pretas sinaliza promoção no topo.",
+    "O preço vermelho sobre preto tem leitura imediata.",
+    "Os dois potes juntos mostram os itens do combo.",
+    "O bloco branco de entrega informa a vantagem e a região atendida."
+  ],
+  "quando_usar": "Para vender um combo de suplementos com preço fechado e condição de entrega local.",
+  "estrutura_texto": "ALERTA DE PROMOÇÃO\n[Produto 1] + [Produto 2]\nR$ [preço do combo]\nEntrega grátis para [região]",
+  "legenda": "[Produto 1] + [produto 2] por R$ [preço]. Entrega grátis em [região], conforme [condições]. Consulte [sabores, volumes e disponibilidade] e peça pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto dos dois produtos sobre balcão e fundo comercial desfocado. Faça uma faixa amarela com listras pretas no topo, preço grande em vermelho dentro de um bloco preto no alto à direita e uma tarja branca abaixo para a condição de entrega e região. Garanta que o preço represente o combo inteiro e use apenas oferta confirmada.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "922357164155921",
+    "anunciante": "Curumim Suplementos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-18",
+    "dias_no_ar": 180,
+    "variacoes_ativas": 1,
+    "texto_original": "💥 PROMOÇÃO IMPERDÍVEL EM MANAUS! 💥\n\n🔥 Whey + Creatina por apenas R$119,00 🔥\n💪 32g de proteína por dose\n⚡ Creatina 300g para mais força e desempenho\n\n👉 Combo ideal para quem busca ganho de massa magra, mais força e resultados de verdade\n😋 Whey com ótimo sabor\n\n🚚 Entrega GRÁTIS em toda Manaus\n\n📲 Garanta agora! Estoque limitado.\n📍 Curumim Suplementos\nWHATSAPP\napi.whatsapp.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-922357164155921.jpg"
+}

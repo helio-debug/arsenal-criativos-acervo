@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1314540754075255",
+  "tipo": "estatico",
+  "titulo": "Moto urbana com parcela em caixa verde",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Moto branca e preta recortada preenche a área central inferior em fundo cinza. Acima, o modelo e uma chamada antecedem a caixa verde com parcela em branco; a base traz ícones sociais e assinatura.",
+  "por_que_funciona": [
+    "O veículo em vista lateral de três quartos permite reconhecer o modelo.",
+    "O preço branco sobre verde recebe destaque maior que a chamada.",
+    "A moldura fina organiza a área da moto e acomoda a assinatura na base."
+  ],
+  "quando_usar": "Para ofertar consórcio de uma motocicleta específica com foco no valor mensal da simulação.",
+  "estrutura_texto": "[MARCA E MODELO]\n[CHAMADA SOBRE A MOTO E O PLANO]\nPARCELAS DE\nR$ [VALOR]*\nMENSAIS PELO CONSÓRCIO\n[CONDIÇÕES E RESSALVAS]\n[MARCA DO CONSÓRCIO]",
+  "legenda": "Conheça o consórcio para [modelo de moto]. Consulte a simulação de [parcela] e veja prazo, custos e condições de contemplação. Clique em [CTA] para escolher o plano adequado ao seu planejamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza com diagonais discretas, título preto centralizado e chamada em três linhas. Coloque uma caixa verde com parcela branca em grande escala e centavos menores. Abaixo, destaque o recorte da moto da IMAGEM 2 com sombra no chão. Complete com moldura fina verde, pequenos ícones sociais e área de marca no rodapé. Inclua ressalvas em tamanho legível.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1314540754075255",
+    "anunciante": "Consórcio Kawasaki Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 2,
+    "texto_original": "Acelere sua Kawasaki Z650 com as vantagens exclusivas do Consórcio. Sem entrada, sem juros e sem burocracia. Fala a verdade, não dá para perder essa!\n\nClique em SAIBA MAIS e escolha o seu.\nConsórcio Kawasaki\nConquiste sua moto",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1314540754075255.jpg"
+}

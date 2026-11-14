@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-789906697105824",
+  "tipo": "estatico",
+  "titulo": "Portabilidade com simulação on-line",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Fundo cinza com chamada branca de portabilidade no alto à esquerda. Um ícone de monitor acompanha a chamada amarela de simulação, com assinatura no canto inferior direito.",
+  "por_que_funciona": [
+    "A palavra portabilidade em negrito identifica a operação logo na primeira linha.",
+    "O amarelo separa a chamada de simulação do restante do texto branco.",
+    "O ícone de monitor reforça visualmente a contratação on-line."
+  ],
+  "quando_usar": "Para divulgar simulação de portabilidade a um público que já conhece o consignado.",
+  "estrutura_texto": "Faça a [operação]\ndo seu [tipo de crédito]\npara [instituição]\nSimule [canal] e conheça [condições].",
+  "legenda": "Simule a [operação de crédito] pelo [site ou aplicativo] de [instituição]. Confira [taxas e condições], sujeitas à análise. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza escuro, título branco alinhado à esquerda e destaque em negrito na operação. Abaixo, coloque ícone linear de computador em contorno amarelo e CTA amarelo. Reserve o canto inferior direito à marca informada. Não prometa as melhores taxas sem comprovação.",
+  "alerta_politica": "Crédito: evitar afirmações sobre a situação financeira de quem vê o anúncio e promessas de aprovação, economia ou taxa garantidas. Informar condições, custos e sujeição à análise; conferir as regras da Meta para anúncios de produtos financeiros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "789906697105824",
+    "anunciante": "C6 Bank",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-22",
+    "dias_no_ar": 418,
+    "variacoes_ativas": 2,
+    "texto_original": "É fácil, rápido e pode ser on-line: simule o Empréstimo Consignado INSS do C6 Consig pelo novo site ou app do C6 Bank 💰\nSeu consignado sem filas ou burocracias\nGaranta já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-789906697105824.jpg"
+}

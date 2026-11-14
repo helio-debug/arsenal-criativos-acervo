@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-2233259050581562",
+  "tipo": "estatico",
+  "titulo": "Condições de compra acima do carro em movimento",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Chamada branca sobre fundo roxo destaca a compra do próximo carro, com uma faixa laranja sob parte do título. Entrada e financiamento aparecem acima da fotografia de um veículo na estrada.",
+  "por_que_funciona": [
+    "A faixa laranja destaca “próximo carro” no bloco de texto superior.",
+    "Os valores 12x e 72x aparecem em branco grande sobre roxo.",
+    "A foto do carro ocupa uma abertura diagonal abaixo das condições.",
+    "A curva laranja da base acompanha a estrada e conecta a foto à identidade visual."
+  ],
+  "quando_usar": "Para campanhas de conversão de seminovos apoiadas nas condições de pagamento.",
+  "estrutura_texto": "Compre seu [próximo produto]\ncom as condições de [empresa]\nEntrada em até [n]x\nFinanciamento em até [n]x\n[Consulte condições]\n[Assinatura]",
+  "legenda": "Escolha seu próximo [veículo] e confira as condições disponíveis: entrada em até [n]x e financiamento em até [n]x, sujeitos a [regras e aprovação]. Consulte [site] e veja as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fundo roxo ocupando o topo e título branco em negrito itálico com trecho em cápsula laranja. Organize dois blocos de parcelamento lado a lado. Abra uma área diagonal inferior para a foto do produto em movimento e finalize com curva laranja e condições legíveis. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": "Publicidade de crédito: informar condições, taxas, custo efetivo total quando aplicável e sujeição à análise de crédito. Não sugerir aprovação garantida; apresentar restrições do parcelamento com legibilidade.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2233259050581562",
+    "anunciante": "Seminovos Movida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-14",
+    "dias_no_ar": 61,
+    "variacoes_ativas": 3,
+    "texto_original": "Seu próximo carro seminovo pode estar mais perto do que você imagina. Aproveite entrada em até 12x sem juros e condições imperdíveis.\nEntrada em até 12x\nCompre agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-2233259050581562.jpg"
+}

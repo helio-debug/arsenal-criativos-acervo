@@ -1,0 +1,36 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1220534933515381",
+  "tipo": "estatico",
+  "titulo": "Mensagem de fé em print de rede social",
+  "formato": "Print de tela",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo preto com avatar, nome, usuário e selo azul no topo. A mensagem branca sobre espera e fé aparece em parágrafos separados, com horário e ícones na base.",
+  "por_que_funciona": [
+    "O fundo preto dá contraste à mensagem branca.",
+    "Parágrafos curtos e espaçados favorecem a leitura.",
+    "Avatar, usuário e horário tornam reconhecível o formato de publicação social."
+  ],
+  "quando_usar": "Para conteúdo de afinidade e reflexão de um perfil de desenvolvimento pessoal com abordagem de fé.",
+  "estrutura_texto": "[Nome do perfil]\n[@perfil]\n[Convite breve à pausa]\n[Reflexão sobre tempo e espera]\n[Fechamento coerente com a visão do perfil]\n[Horário e data]",
+  "legenda": "Salve esta reflexão para reler nos momentos de pressa. [Mensagem sobre lidar com a espera, coerente com a visão do perfil]. Compartilhe com quem possa acolher essas palavras.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, avatar autorizado pequeno, nome e usuário genéricos no topo. Distribua uma reflexão curta em letras brancas, alinhada à esquerda, com respiros entre parágrafos. Inclua data e ícones discretos na base. A imagem do produto pode orientar o avatar quando apropriado. Não copie o perfil original, não invente selo de verificação e não apresente a reflexão como tratamento para ansiedade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1220534933515381",
+    "anunciante": "Rachid Diego",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-03",
+    "dias_no_ar": 284,
+    "variacoes_ativas": 1,
+    "texto_original": "Salva esse print e volta aqui sempre que a ansiedade apertar.\n\nA gente passa a vida toda querendo acelerar as coisas, forçar portas, controlar cada detalhe. \n\nMas a verdade é que existe um plano maior rolando, e nem sempre a gente consegue enxergar ele de onde está.\n\nAquela vaga que você não passou, aquele relacionamento que não deu certo, aquele projeto que travou... \n\nTudo isso tem um propósito. \n\nE quando chegar o que é realmente seu, você vai agradecer por cada “ainda não” que recebeu.\n\nConfia no processo. \n\nConfia no tempo d’Ele. No final, tudo se encaixa.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1220534933515381.jpg"
+}

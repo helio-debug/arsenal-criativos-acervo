@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-829287702940344",
+  "tipo": "estatico",
+  "titulo": "Perfil profissional com retrato lateral",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Retrato masculino em preto e branco ocupa a metade esquerda. À direita, texto sobre o perfil de um profissional alterna azul-escuro e azul-claro, com pergunta final em cápsula azul.",
+  "por_que_funciona": [
+    "O retrato de perfil traduz visualmente a palavra “PERFIL”.",
+    "A palavra “PERFIL” é o maior elemento textual e concentra a atenção no tema.",
+    "O ano explicita o recorte temporal do levantamento.",
+    "A pergunta na cápsula azul convida o leitor a comparar sua atuação com o estudo."
+  ],
+  "quando_usar": "Para divulgar um levantamento gratuito e gerar comentários de profissionais interessados no seu mercado.",
+  "estrutura_texto": "ESSE É O\nPERFIL\nDO [PROFISSIONAL]\n[RECORTE GEOGRÁFICO] EM [ANO].\n[VOCÊ SE ENCAIXA?]",
+  "legenda": "Conheça o perfil de [público] em [ano], com dados sobre [temas pesquisados]. Comente [PALAVRA-CHAVE] para receber o relatório gratuito por mensagem.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza-claro, retrato lateral em preto e branco ocupando a metade esquerda e texto condensado à direita. Faça a palavra principal muito grande em azul, alterne tons de azul nas linhas seguintes e finalize com uma pergunta dentro de cápsula azul. Use pessoa autorizada ou elemento pertinente ao produto. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "829287702940344",
+    "anunciante": "Tintim",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 1,
+    "texto_original": "Você sabe qual é o seu lugar no mercado de tráfego pago?\n\nNão o que você acha. O que os dados dizem.\n\nA gente foi atrás do perfil real do gestor de tráfego brasileiro em 2026. E o resultado é bem diferente do que aparece no Instagram.\n\nComenta RELATÓRIO que a gente manda o benchmark completo no seu direct. É gratuito.\n\n#gestordetráfego #tráfegopago #metaads #tintim #relatório2026 #bench",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-829287702940344.jpg"
+}

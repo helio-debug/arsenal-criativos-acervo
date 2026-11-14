@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1712307453405324",
+  "tipo": "estatico",
+  "titulo": "Fornecedor de calçados com catálogo em mosaico",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Coluna de argumentos e ícones à esquerda acompanha um mosaico de tênis, sandálias e botas à direita. Faixas roxas destacam revenda, pedido mínimo e contato.",
+  "por_que_funciona": [
+    "O mosaico mostra diferentes modelos e amplia a percepção de variedade do catálogo.",
+    "O pedido mínimo de seis pares aparece ao lado de um ícone de caixa, tornando a condição de compra fácil de localizar.",
+    "A chamada de fornecedor ocupa o topo e identifica a proposta antes dos detalhes.",
+    "As faixas roxas separam benefícios e contato sobre o fundo claro."
+  ],
+  "quando_usar": "Para distribuidores que querem apresentar o catálogo e captar contatos de lojistas e revendedores.",
+  "estrutura_texto": "[Seu novo fornecedor]\n[Benefício para a revenda]\n[Chamada de novidades]\n[Características dos produtos]\n[Perfil do comprador]\n[Pedido mínimo]\n[Área de entrega]\n[Benefícios do catálogo]\n[Fale conosco]",
+  "legenda": "Abasteça sua loja com [categoria de produtos]. Consulte [modelos disponíveis], pedido mínimo de [quantidade] e condições de envio para [região]. Fale com nossa equipe em [canal] e solicite o catálogo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre uma coluna de texto à esquerda e um mosaico de fotos de produtos à direita, com recortes inclinados. Use fundo branco, títulos condensados pretos e roxos, detalhes amarelos e faixas roxas. Destaque pedido mínimo, público de revenda, entrega e uma faixa final de contato. Use apenas condições comerciais fornecidas. Adapte a mensagem aos dados de MEU PRODUTO, sem inventar benefícios ou condições. Escreva em pt-BR e preserve a legibilidade.",
+  "alerta_politica": "Meta: não garantir lucro, giro de estoque ou renda com revenda. Informar custos, pedido mínimo e condições comerciais; apresentar ganhos apenas com comprovação e contexto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1712307453405324",
+    "anunciante": "Vitoria shoes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-08",
+    "dias_no_ar": 98,
+    "variacoes_ativas": 1,
+    "texto_original": "💸 Revenda Vitória Régia Shoes e Lucre Muito! 👟👡\n\nHá 6 anos no mercado, somos especialistas em tênis e sandálias no atacado que vendem rápido e garantem ótima margem de lucro para lojistas e revendedores(as).\n\n✨ Modelos exclusivos e atuais\n🛍️ Pedido mínimo: apenas 6 peças\n📦 Enviamos para todo o Brasil\n💳 Compra 100% segura no site\n\n🔥 Quem compra Vitória Régia Shoes garante produtos com qualidade, estilo e alto giro no estoque!\n\n📲 Chame agora no WhatsApp e solicite o catálogo completo:\n👉 (62) 98475-9678\n\n🛒 Ou compre agora no site:\n👉 vitoriaregiashoes.com.br",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1712307453405324.jpg"
+}

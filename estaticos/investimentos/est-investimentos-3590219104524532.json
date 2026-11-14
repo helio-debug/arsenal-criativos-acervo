@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-3590219104524532",
+  "tipo": "estatico",
+  "titulo": "Frequência de dividendos organizada em faixas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Infográfico azul organiza logotipos de empresas em cinco grupos por frequência de pagamento de dividendos. Faixas horizontais claras identificam cada periodicidade e o número de pagamentos anuais.",
+  "por_que_funciona": [
+    "As faixas horizontais dividem a informação por periodicidade.",
+    "O número de pagamentos entre parênteses traduz cada frequência em quantidade anual.",
+    "Os logotipos em cartões brancos ajudam a localizar empresas dentro dos grupos.",
+    "O título grande informa o assunto antes da leitura das linhas."
+  ],
+  "quando_usar": "Para conteúdo educativo de consulta sobre proventos, com dados atualizados, fonte e ressalvas sobre alterações nos pagamentos.",
+  "estrutura_texto": "Frequência de pagamento dos [proventos]\n[Perfil]\n[Periodicidade] ([quantidade] vezes ao ano)\n[Empresas correspondentes]\n[Repetir por periodicidade]",
+  "legenda": "Veja como consultar a frequência de [proventos] das empresas em [fonte e data]. As distribuições podem mudar e não são garantidas. Salve para consulta e confira os comunicados oficiais antes de decidir.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça infográfico de fundo azul texturizado, título branco grande e cinco faixas horizontais azul-claras com títulos de periodicidade. Sob cada faixa, distribua cartões brancos com identificadores autorizados dos itens da minha oferta. Não reproduza os logotipos da referência nem suas classificações sem verificação. Inclua fonte, data e ressalva legível de que pagamentos podem mudar.",
+  "alerta_politica": "Meta: não prometer rentabilidade, ganhos garantidos ou ausência de risco. CVM: apresentar informações verificáveis, riscos e condições; recomendações ou análises de valores mobiliários devem observar as regras aplicáveis à atividade. Frequências e projeções precisam de data e fonte e não garantem pagamentos ou resultados futuros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3590219104524532",
+    "anunciante": "Pedro Fagundes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-11-24",
+    "dias_no_ar": 1086,
+    "variacoes_ativas": 1,
+    "texto_original": "💵 Procurando maximizar seus ganhos com dividendos? Então, você não pode perder este post! 💵\n\n🔎 Para você, que é um verdadeiro entusiasta de dividendos e adora acompanhar as empresas que distribuem proventos, preparamos um guia completo! 🗺️\n\n📲 Compartilhe essa lista com seus amigos e ajude-os a alcançar o sucesso financeiro! 🔔\n\n📣 E você, já está investindo nessas empresas? Conte-nos sua experiência nos comentários abaixo! 💬\n\n📈📊 Aproveite a jornada dos dividendos e construa seu caminho para uma vida de prosperidade financeira! 📊📈\n\n🔸\n\n🎓💰 Quer aprender a investir e GANHAR DIVIDENDOS? Não perca mais tempo! Conheça agora mesmo o meu e-book Dominando o Ato de Investir! Com esse passo a passo completo e detalhado, você vai aprender tudo o que precisa para comprar a sua primeira ação e começar a RECEBER DIVIDENDOS.\n\n📚📈 Você aprenderá sobre investimentos, reserva de emergência, método dos potes, diferença entre especular e investir, tripé dos investimentos, três variáveis que mais importam no investimento de longo prazo, as diferentes formas de se ganhar dinheiro investindo em ações e muito mais!\n\n🎁📊 Além disso, você receberá um Guia Básico de Dividendos, uma Planilha de Rebalanceamento de carteira e um Guia Básico de Análise de Fundos Imobiliários como bônus exclusivo para ajudar ainda mais na sua jornada.\n\n💡👨🎓 Não deixe essa oportunidade passar! Realize o sonho de aprender a investir agora mesmo. Clique no link que está na bio e comece sua jornada rumo ao sucesso financeiro!\n.\nClique duas vezes se gostou da publicação.\n-\n👍🏻 O que achou? Curta, deixe seu comentário e compartilhe esta publicação.\n.\n🔔 Ative as notificações de stories e publicações para receber todos os meus conteúdos.\n-\n#investimentosinteligentes #educacaofinanceira #alfabetizacaofinanceira #financaspessoais #investidorinteligente #ações #fiis #cdi #dólar #ifix #ibovespa #investimentoimobiliario #investirmelhor #comoinvestir #pedrofagundes #mercadofinanceirohoje #bolsadevaloresbrasileira #oinvestimentocerto #fundosimobiliarios #finanças #rendafixa #dinheiro #viverderenda #rendavariavel #liberdadefinanceira #rendapassiva #investimentos #poupardinheiro #investir",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-3590219104524532.jpg"
+}

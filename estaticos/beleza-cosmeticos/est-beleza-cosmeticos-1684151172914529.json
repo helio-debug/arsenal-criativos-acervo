@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1684151172914529",
+  "tipo": "estatico",
+  "titulo": "Coleção de séruns em composição diagonal",
+  "formato": "Produto em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Cinco frascos âmbar com conta-gotas estão distribuídos em diagonais sobre fundo azul-claro. Não há chamada ou preço fora dos rótulos.",
+  "por_que_funciona": [
+    "As diagonais distribuem os cinco produtos sem uma grade rígida.",
+    "O fundo azul-claro contrasta com o vidro âmbar.",
+    "As faixas coloridas dos rótulos diferenciam as fórmulas.",
+    "As sombras projetadas dão volume à foto de catálogo."
+  ],
+  "quando_usar": "Para apresentar uma linha de cosméticos e estimular a exploração das diferentes fórmulas.",
+  "estrutura_texto": "[Foto da linha com rótulos visíveis, sem chamada adicional]",
+  "legenda": "Conheça os séruns de [marca] e escolha sua rotina conforme [necessidade de cuidado]. Confira [composição], [benefícios comprovados] e orientações de uso de cada fórmula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Distribua cinco produtos em diagonais sobre fundo azul-claro fosco, preservando os rótulos reais da IMAGEM 2. Use iluminação lateral com sombras suaves e espaço entre as embalagens. Não adicione chamada, preço, selo de recomendação ou decoração extra.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ou aparência ao público e prometer resultados garantidos. ANVISA: usar apenas alegações cosméticas comprovadas e compatíveis com a regularização do produto; não prometer tratamento ou cura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1684151172914529",
+    "anunciante": "Principia Skincare Pro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "A Principia tem séruns com alta performance dermatológica 😍 e são recomendados por dermatologistas 😍 Aproveite!\nSéruns da Principia 😍",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1684151172914529.jpg"
+}

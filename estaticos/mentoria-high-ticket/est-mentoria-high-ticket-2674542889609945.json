@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-2674542889609945",
+  "tipo": "estatico",
+  "titulo": "Mentoria para vendedores com frota em destaque no fundo preto",
+  "formato": "novo:Chamada de formação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte com fundo preto e brilho amarelo na base, avião no topo e van amarela na metade inferior. O título anuncia mentoria individual personalizada e destaca a exclusividade para vendedores.",
+  "por_que_funciona": [
+    "A faixa “exclusivo para vendedores” delimita o público logo no topo.",
+    "A tipografia condensada dá grande peso à modalidade individual.",
+    "Avião e van remetem visualmente à operação logística de vendas online.",
+    "A chamada “saiba mais” aparece em bloco separado junto ao veículo."
+  ],
+  "quando_usar": "Para captar vendedores de marketplace que procuram consultoria individual sobre operação e anúncios.",
+  "estrutura_texto": "EXCLUSIVO PARA [PÚBLICO]\nMENTORIA INDIVIDUAL\nPERSONALIZADA\n[Áreas de atuação]\n[Credencial verificável]\nCLIQUE EM SAIBA MAIS",
+  "legenda": "A [mentoria] orienta [público] a revisar [seleção de produtos], [precificação] e [anúncios] no [canal de vendas]. Conheça o acompanhamento individual e veja como ele pode ajudar a organizar sua operação. Clique em saiba mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho amarelo na base e títulos amarelo-limão. Posicione um avião recortado no topo, faixa de público abaixo, título condensado grande no meio e uma van recortada na metade inferior. Reserve uma coluna lateral para áreas de atuação e um bloco para o CTA. Adapte os veículos à identidade do produto sem reproduzir marcas de terceiros. Só inclua certificações comprovadas.",
+  "alerta_politica": "Não prometa lucro, renda ou crescimento garantidos. Certificações, parceria com plataformas e uso de marcas de terceiros precisam de comprovação e autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2674542889609945",
+    "anunciante": "Dhiego Rosa - Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-20",
+    "dias_no_ar": 117,
+    "variacoes_ativas": 4,
+    "texto_original": "Se até o Mercado Livre está se adaptando para vender mais…\nImagina você com a estratégia certa nas mãos?\n\nQuem ajusta o jogo, sai na frente.\n\nE é exatamente isso que a Mentoria Escalada faz por você:\n\nEnsina a encontrar os produtos certos\n\nAjustar preço, título, frete e anúncios\n\nE escalar com lucro na nova fase do Mercado Livre\n\nA visibilidade já está aí. A pergunta é: você sabe o que fazer com ela?\n\nClique em saiba mais e faça parte da Mentoria Escalada!\nAprenda a escalar suas vendas\nContrate já nossa consultoria de Mercado Livre",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-2674542889609945.jpg",
+  "formato_novo_def": "Peça editorial de divulgação de curso ou mentoria, com nome da formação, chamada principal, benefícios e convite de contato em composição gráfica própria."
+}

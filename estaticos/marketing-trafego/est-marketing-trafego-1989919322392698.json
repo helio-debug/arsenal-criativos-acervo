@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1989919322392698",
+  "tipo": "estatico",
+  "titulo": "Convite para curso sobre foto de empreendedora",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma mulher em uma loja de plantas usa o celular em posição horizontal. A metade inferior traz o convite para matrícula, com palavras em verde e indicação de curso online gratuito.",
+  "por_que_funciona": [
+    "A loja de plantas situa a oferta no cotidiano de quem mantém um negócio.",
+    "O celular nas mãos da personagem conecta a cena à atividade online.",
+    "Os trechos em verde destacam matrícula e inscrição no bloco branco de texto.",
+    "A indicação “100% Online e Gratuito” apresenta duas condições da oferta em pouco espaço."
+  ],
+  "quando_usar": "Para captar inscrições de pequenos empreendedores em um curso gratuito de divulgação e vendas online.",
+  "estrutura_texto": "[CONVITE À MATRÍCULA]\n[ASSUNTO DO CURSO]\n[MODALIDADE E GRATUIDADE]\n[INSCREVA-SE]",
+  "legenda": "Aprenda estratégias para divulgar [tipo de negócio] online e alcançar [público]. Conheça o curso [nome], [modalidade e condição de acesso]. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de uma pessoa cuidando do próprio negócio, cercada por produtos e usando um celular. Aplique escurecimento suave na base para acomodar texto branco, com matrícula e chamada final em verde vivo. Adicione linhas verdes finas e curvas nas bordas, identificação discreta no alto e condição de acesso em corpo menor no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1989919322392698",
+    "anunciante": "Sebrae",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 2,
+    "texto_original": "Descubra com o Sebrae as estratégias para divulgar o seu negócio online e alcançar cada vez mais clientes.\nCurso Up Digital Marketing do Sebrae\nFaça já sua inscrição!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1989919322392698.jpg"
+}

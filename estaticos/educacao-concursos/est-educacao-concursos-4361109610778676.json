@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-4361109610778676",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com prática simulada em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical em azul muito escuro, com o nome da especialidade em branco e um bloco azul sobre prática presencial simulada. A metade inferior traz foto de aferição de pressão em pessoa idosa e um botão branco.",
+  "por_que_funciona": [
+    "O título grande identifica a especialidade da pós-graduação.",
+    "O bloco azul destaca a prática simulada como recurso da formação.",
+    "A foto de aferição de pressão contextualiza o atendimento à pessoa idosa.",
+    "O botão branco de saiba mais se diferencia do fundo escuro."
+  ],
+  "quando_usar": "Para apresentar uma pós-graduação a profissionais que comparam especialidades e formatos de aprendizagem.",
+  "estrutura_texto": "[MARCA]\n[RESTRIÇÃO DE PÚBLICO]\nPós-graduação em\n[ESPECIALIDADE]\n[DIFERENCIAL PRÁTICO]\n[CONVITE À FORMAÇÃO]\n[SAIBA MAIS]",
+  "legenda": "Conheça a pós-graduação em [especialidade], voltada a [público profissional]. A formação inclui [prática ou diferencial] e uma organização de estudos pensada para [rotina]. Saiba mais sobre o programa e as condições de matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho quase preto com brilhos azuis discretos. Coloque título da especialidade no terço superior, cartão azul à esquerda com diferencial e chamada curta à direita. Na metade inferior, use a IMAGEM 2 em foto com cantos arredondados que represente a prática da área. Acrescente seta circular e botão branco. Não sugira título profissional ou habilitação que o curso não conceda.",
+  "alerta_politica": "Por envolver formação médica, descreva corretamente o curso e suas credenciais. Evite sugerir que a pós-graduação, por si só, concede título de especialista ou registro de especialidade, e não prometa resultados clínicos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4361109610778676",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 1,
+    "texto_original": "Impulsione sua carreira médica com a Pós em Geriatria!\nGaranta sua vaga na Pós que se adapta a sua rotina.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-4361109610778676.jpg"
+}

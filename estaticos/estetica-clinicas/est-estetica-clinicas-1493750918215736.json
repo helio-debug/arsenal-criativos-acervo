@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1493750918215736",
+  "tipo": "estatico",
+  "titulo": "Combo de procedimentos com preço em quadro",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte azul-clara com título grande, dois procedimentos e preço dentro de um quadro cinza. Dois recortes circulares de rostos aparecem à direita, com contato e unidades no rodapé.",
+  "por_que_funciona": [
+    "A palavra COMBO ocupa o topo e define de imediato a natureza da oferta.",
+    "As linhas centrais especificam o volume e as regiões incluídas.",
+    "O quadro cinza concentra preço à vista e parcelamento em uma área contrastante.",
+    "A faixa preta de agendamento conecta a condição comercial ao contato."
+  ],
+  "quando_usar": "Em campanhas de agendamento para público que já conhece os serviços, após revisão das regras de publicidade aplicáveis.",
+  "estrutura_texto": "COMBO\n[nome da campanha]\n[serviço A e quantidade]\n[serviço B e abrangência]\nPor apenas: [preço à vista]\nou [parcelamento]\nAgende pelo [contato]\n[unidades]\n[assinatura]",
+  "legenda": "[Nome da campanha]: [serviço A] + [serviço B]. Consulte [preço], [condições] e disponibilidade em [unidades]. A indicação depende de avaliação individual. Agende em [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-claro, título preto alto no canto superior esquerdo e subtítulo manuscrito. Organize a composição com duas fotos circulares à direita, serviços à esquerda e quadro cinza com preço em destaque. Abaixo, faixa preta de contato e rodapé com unidades. Adapte a oferta às regras do serviço; não anuncie medicamentos sujeitos a prescrição ao público.",
+  "alerta_politica": "Publicidade de estética: observar as políticas da Meta para procedimentos cosméticos, com segmentação adulta e sem explorar inseguranças ou prometer resultados. Respeitar as normas do conselho profissional responsável e as restrições da ANVISA sobre publicidade de medicamentos sujeitos a prescrição.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1493750918215736",
+    "anunciante": "Huff Life - Novo Hamburgo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-05-05",
+    "dias_no_ar": 923,
+    "variacoes_ativas": 1,
+    "texto_original": "✨ COMBO CUIDADO ESPECIAL ✨\n\nBOTOX 3 REGIÕES + PREENCHIMENTO 1ML\n\n💰 R$ 998,00 - 1ml - Só aqui na Huff Life.\n\n📍Canoas - centro\n📍POA - Barra Shopping Sul\n📍POA - Zona Norte \n📍São Leopoldo - centro\n📍Novo Hamburgo\n\nAgende agora a sua avaliação!\n📲 (51) 99214-5114\n\n🏆 Temos o menor preço do BRASIL!\n\n#preenchimento #botox #toxina botulínica #combopromocional #promocao #clinicaestetica #barrashoppingsul #canoas #zonanortepoa #saoleopoldo #barrasul #hufflife",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1493750918215736.jpg"
+}

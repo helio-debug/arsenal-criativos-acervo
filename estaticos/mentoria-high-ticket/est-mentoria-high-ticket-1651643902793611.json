@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1651643902793611",
+  "tipo": "estatico",
+  "titulo": "Retrato com chamada de mentoria individual",
+  "formato": "novo:Chamada de formação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem diante de uma tela com fluxograma. A metade inferior recebe degradê preto, título verde-limão e texto sobre acompanhamento individual.",
+  "por_que_funciona": [
+    "O rosto ocupa grande parte da peça e associa a oferta a um atendimento humano.",
+    "O título verde-limão torna o público da mentoria identificável em duas linhas.",
+    "A expressão “olho no olho” reforça o caráter individual do acompanhamento.",
+    "A indicação de leitura da legenda direciona para os detalhes fora da imagem."
+  ],
+  "quando_usar": "Para apresentar mentoria a profissionais que precisam estruturar ou desenvolver um negócio digital.",
+  "estrutura_texto": "MENTORIA PARA [PÚBLICO]\nTenha acompanhamento [modalidade] para [objetivo] e [benefício].\nLEIA A LEGENDA",
+  "legenda": "A [mentoria] oferece acompanhamento individual para [público], com planos de ação voltados a [objetivo]. Conheça na legenda como funciona o processo e quais desafios podem ser trabalhados.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato autorizado do mentor ocupando o centro, fundo de trabalho desfocado e degradê preto no terço inferior. Aplique título condensado em caixa-alta verde-limão, parágrafo branco centralizado e chamada discreta para ler a legenda. Não prometa faturamento ou resultados garantidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1651643902793611",
+    "anunciante": "Leandro Ladeira",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-19",
+    "dias_no_ar": 148,
+    "variacoes_ativas": 1,
+    "texto_original": "A Mentoria Fluxo é um acompanhamento individual feito por especialistas estratégicos, que criam planos de ação específicos, que te darão um horizonte.\n\nOs resultados são absurdos.\n\nSeja para tirar o seu negócio do papel, ou potencializar os seus resultados, o Fluxo é para profissionais que estão no mercado digital ou querem migrar para ele. \n\nO mercado digital é uma imensidão de técnica, prática, testes, falhas e resultados, e é aí que entra o Fluxo, que torna o que você acha impossível em fácil. \n\nClique em “Saiba mais” e saiba como o Fluxo é a melhor solução para o seu negócio digital.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1651643902793611.jpg",
+  "formato_novo_def": "Peça editorial de divulgação de curso ou mentoria, com nome da formação, chamada principal, benefícios e convite de contato em composição gráfica própria."
+}

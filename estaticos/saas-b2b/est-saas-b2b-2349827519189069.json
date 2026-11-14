@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2349827519189069",
+  "tipo": "estatico",
+  "titulo": "Quatro dimensões explicadas ao lado de figura técnica",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Em fundo branco, quatro blocos explicativos aparecem à esquerda de um perfil humano translúcido com pontos e linhas coloridos. O rodapé apresenta a ferramenta.",
+  "por_que_funciona": [
+    "Os quatro títulos em negrito permitem identificar rapidamente as dimensões apresentadas.",
+    "Linhas e círculos coloridos separam os blocos de texto.",
+    "A figura humana com marcações técnicas associa o conteúdo à análise de pessoas.",
+    "A chamada no rodapé conecta a explicação à solução."
+  ],
+  "quando_usar": "Para explicar funcionalidades de uma avaliação de pessoas e convidar gestores a uma demonstração.",
+  "estrutura_texto": "O que [MÉTODO ATUAL] deixou pra trás:\n[DIMENSÃO 1]\n[EXPLICAÇÃO]\n[DIMENSÃO 2]\n[EXPLICAÇÃO]\n[DIMENSÃO 3]\n[EXPLICAÇÃO]\n[DIMENSÃO 4]\n[EXPLICAÇÃO]\nConheça [SOLUÇÃO].",
+  "legenda": "Conheça [dimensões avaliadas] e veja como esses dados podem apoiar [decisão de gestão]. Agende uma demonstração de [solução].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e título no alto à esquerda. Organize quatro blocos com título em negrito, explicação curta e linha com pequeno círculo em vermelho, amarelo, verde e azul. À direita, use uma figura humana translúcida com marcações técnicas. Reserve o rodapé para apresentar a solução. Use apenas dimensões e capacidades comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2349827519189069",
+    "anunciante": "Grou",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 2,
+    "texto_original": "Agende uma demonstração e comece a mudança na gestão de pessoas do seu negócio, através de dados comportamentais validados. Toque em agendar agora.",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2349827519189069.jpg"
+}

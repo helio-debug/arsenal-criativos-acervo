@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1066576496198062",
+  "tipo": "estatico",
+  "titulo": "Reunião com atualizações automáticas no CRM",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "amostra-teste",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo verde com título e botão amarelo de teste grátis. Uma videochamada ocupa o centro, com cartão de atualizações de contato e valor do negócio sobreposto à foto e um selo de CRM atualizado.",
+  "por_que_funciona": [
+    "O cartão sobre a reunião conecta a conversa às alterações no CRM.",
+    "O botão amarelo torna o teste grátis visível logo abaixo do título.",
+    "O selo com check mostra o estado final de atualização."
+  ],
+  "quando_usar": "Para CRM ou ferramentas de reuniões demonstrarem a passagem da conversa para registros estruturados.",
+  "estrutura_texto": "[Inteligência de reuniões integrada ao processo] | Teste [produto] de graça | Revisar [número] atualizações | [Novo contato] | [Campo anterior → atualizado] | [Status concluído]",
+  "legenda": "Acompanhe cada [negócio] com [resumos, notas ou atualizações] disponíveis em [sistema]. Veja o que foi registrado nas reuniões e revise [informações capturadas]. Teste [produto] grátis conforme [condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde, título branco grande e botão amarelo de teste no topo. Mostre a imagem do produto em uma cena de videochamada com cantos arredondados. Sobreponha um cartão branco com duas alterações demonstrativas e um selo verde com check na base. Use nomes fictícios e valores ilustrativos claramente identificados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1066576496198062",
+    "anunciante": "Pipedrive",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 2,
+    "texto_original": "Veja exatamente em que etapa está cada negócio, sem depender das anotações dos vendedores.\nRevisão, resumo e notas. Prontos no CRM\nTeste o Pipedrive grátis",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1066576496198062.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-736560362816274",
+  "tipo": "estatico",
+  "titulo": "Aulas de idioma com professora e acompanhamento",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Retrato de uma mulher ocupa o lado esquerdo, em composição branca e azul-marinho com curvas amarelas. À direita aparecem a modalidade ao vivo, três benefícios com ícones e os níveis atendidos.",
+  "por_que_funciona": [
+    "O retrato ocupa quase metade da peça e dá presença humana às aulas.",
+    "A palavra do idioma em vermelho se destaca entre os títulos azuis.",
+    "Os três cartões com ícones separam modalidade, material e conversação.",
+    "A lista de níveis ajuda o leitor a identificar se a turma atende seu estágio."
+  ],
+  "quando_usar": "Para cursos de idioma com aulas ao vivo e suporte de professor.",
+  "estrutura_texto": "AULAS DE [idioma] AO VIVO\ncom [acompanhamento]\n[modalidade]\n[materiais]\n[prática]\n[suporte]\n[níveis atendidos]",
+  "legenda": "Pratique [idioma] em aulas ao vivo [modalidade], com [materiais] e [conversação]. Conte com [acompanhamento] no nível [nível]. Conheça as turmas em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione o retrato da IMAGEM 2 à esquerda. Use fundo branco com curvas azul-marinho e filetes amarelos. À direita, monte título condensado azul com o idioma em vermelho, faixa amarela manuscrita e três cartões claros com ícones. Inclua níveis atendidos e bloco inferior de acompanhamento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "736560362816274",
+    "anunciante": "Espanhol para todos online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-03",
+    "dias_no_ar": 195,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 Seu espanhol pode mudar muito quando existe prática, interação e acompanhamento no processo. Com aulas ao vivo 100% online, você aprende com mais clareza, tira dúvidas em tempo real e participa de um caminho mais organizado e eficiente. 💛 Além disso, você conta com materiais inclusos, aulas de conversação e suporte personalizado para sair do básico e ganhar confiança ao falar. É uma proposta pensada para quem quer aprender de forma mais real, seja no nível iniciante, intermediário ou avançado. 🌍📖 Espanhol com presença, prática e evolução de verdade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-736560362816274.jpg"
+}

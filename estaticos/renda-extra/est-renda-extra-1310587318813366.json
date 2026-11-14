@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1310587318813366",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com cosméticos em cenário sofisticado",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título dourado sobre renda extra e flexibilidade abre uma composição escura em tons de ameixa. Dois frascos aparecem entre frutas e flores, sobre superfície refletora, com assinatura na base.",
+  "por_que_funciona": [
+    "O dourado do título mantém contraste com o fundo preto.",
+    "Os frascos em grande escala apresentam o tipo de produto que será revendido.",
+    "Frutas, flor e reflexo criam uma apresentação sensorial coerente com cosméticos."
+  ],
+  "quando_usar": "Para atrair interessados em revenda de cosméticos usando o apelo visual do portfólio.",
+  "estrutura_texto": "RENDA EXTRA\nE [BENEFÍCIO DA ATIVIDADE]\npara [OBJETIVO]\n[PRODUTOS DO PORTFÓLIO]\n[MARCA]",
+  "legenda": "Conheça a oportunidade de revenda de [categoria] e veja como organizar a atividade na sua rotina. Confira os requisitos e as condições de [programa]. Inicie seu cadastro em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição de produto em destaque, com fundo preto e luz roxa central. No topo, use título dourado em caixa alta e subtítulo branco menor. Posicione dois produtos da IMAGEM 2 sobre superfície refletora, com elementos de ingredientes somente se corresponderem à composição real. Reserve a base para a marca fornecida. Fale de revenda e flexibilidade sem garantir resultados financeiros.",
+  "alerta_politica": "Meta: não apresentar renda como garantida nem prometer ganhos fáceis. Valores e estimativas precisam de comprovação e condições claras, incluindo requisitos, custos e variação dos resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1310587318813366",
+    "anunciante": "O Boticário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-09",
+    "dias_no_ar": 66,
+    "variacoes_ativas": 6,
+    "texto_original": "Que tal uma renda extra que cabe na sua rotina e pode transformar seus planos em conquistas?\n\nCom a revenda O Boticário, você tem flexibilidade para fazer do seu jeito, no seu tempo e construir novas possibilidades para o seu futuro. 💚\nSeja Revendedor Grupo Boticário\nSeja um Revendedor do Boticário. Comece seu cadastro, é rápido e grátis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1310587318813366.jpg"
+}

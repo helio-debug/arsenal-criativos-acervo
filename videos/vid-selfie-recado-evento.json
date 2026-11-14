@@ -1,0 +1,95 @@
+{
+ "id": "vid-selfie-recado-evento",
+ "formato_video": "convite-evento",
+ "nichos": [
+  "eventos-lives",
+  "educacao-concursos",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "lancamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Selfie ao ar livre com recado e datas do evento",
+ "duracao": "30-35s",
+ "por_que_funciona": [
+  "A árvore, as coberturas de palha e o moletom situam o recado em um ambiente cotidiano, coerente com a abertura que interrompe as férias.",
+  "As legendas brancas pequenas ficam na região do peito e deixam o rosto e os gestos visíveis.",
+  "A fala repete as datas no encerramento; o último frame também exibe essa repetição em legenda.",
+  "O gesto de pinça perto da lente e as pequenas mudanças na distância dão movimento à selfie sem exigir outro cenário."
+ ],
+ "quando_usar": "Para quem organiza evento, aula ou encontro de formação e já pode divulgar datas e programação. Use como lembrete durante as inscrições, com condições e prazos reais.",
+ "tomadas_celular": [
+  "Selfie do peito para cima sob árvore, celular na altura dos olhos e sombra uniforme no rosto, 4s; abrir o recado.",
+  "Mesmo plano, luz natural difusa e árvore ao fundo, 6s; dizer datas e formato.",
+  "Selfie um pouco mais próxima, rosto na sombra e mão próxima da lente, 7s; explicar a atividade.",
+  "Plano do peito para cima, sombra aberta e gesto livre de uma mão, 8s; explicar público e dinâmica.",
+  "Mesmo enquadramento inicial e luz de sombra, 8s; repetir datas e indicar inscrição."
+ ],
+ "caminho_ia": "Crie no Sora a base de selfie externa com pessoa fictícia e use avatar para sincronizar o recado em pt-BR, ou voz clonada com autorização do titular. Edite no CapCut com legendas brancas curtas em caixa alta. Prompts: \"Vertical 9:16 smartphone selfie, fictional adult presenter wearing a plain hoodie under a leafy tree, thatched canopy in distant background, soft open shade on face, subtle handheld drift, no logos, announcing [event].\" e \"Vertical 9:16 continuous selfie close-up, same fictional presenter raising one hand near lens then relaxing, natural daylight filtered through leaves, realistic skin texture, no baked-in text, inviting viewers to [event dates].\"",
+ "legenda": "[Evento] acontece em [datas], no formato [online ou presencial]. Vamos praticar [atividade prevista]. Confira a programação e as condições de inscrição no botão.",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Parei um minuto pra te passar as datas de [evento].",
+  "texto_tela": "Anote as datas",
+  "visual": "Selfie do peito para cima sob árvore, roupa casual lisa, texto branco pequeno sobre o peito."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Selfie do peito para cima sob árvore, roupa casual lisa, texto branco pequeno sobre o peito.",
+   "fala": "Parei um minuto pra te passar as datas de [evento].",
+   "texto_tela": "Anote as datas"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Mesmo quadro, fundo com árvore e cobertura de palha. Mão acompanha o recado.",
+   "fala": "Vai acontecer em [datas], no formato [online ou presencial]. As inscrições estão abertas.",
+   "texto_tela": "[Datas] | [Formato]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Aproximar um pouco o rosto e fazer gesto curto de pinça perto da lente.",
+   "fala": "Vamos trabalhar [tarefa principal] com [atividade concreta prevista na programação].",
+   "texto_tela": "[Atividade prevista]"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Selfie contínua com gestos na altura do peito, legenda branca pequena em caixa alta.",
+   "fala": "É pra [público] que quer praticar [habilidade]. Você acompanha [dinâmica do encontro] e pode [forma de participação].",
+   "texto_tela": "Para [público]"
+  },
+  {
+   "tempo": "25-33s",
+   "cena": "Retomar distância inicial, manter olhar na lente e repetir as datas em legenda.",
+   "fala": "Reserva essas datas: [datas]. No botão você encontra a programação de [evento] e faz a inscrição.",
+   "texto_tela": "[Datas] | Inscreva-se"
+  }
+ ],
+ "roteiro_modelo": "Parei um minuto pra te passar as datas de [evento].\n\n[Pausa / corte]\n\nVai acontecer em [datas], no formato [online ou presencial]. As inscrições estão abertas.\n\n[Pausa / corte]\n\nVamos trabalhar [tarefa principal] com [atividade concreta prevista na programação].\n\n[Pausa / corte]\n\nÉ pra [público] que quer praticar [habilidade]. Você acompanha [dinâmica do encontro] e pode [forma de participação].\n\n[Pausa / corte]\n\nReserva essas datas: [datas]. No botão você encontra a programação de [evento] e faz a inscrição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meus dados para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie recado de 33 segundos em selfie externa contínua: abertura curta, datas e formato, atividade concreta, público e dinâmica, repetição das datas e inscrição. Tom de conversa, ritmo contínuo e gestos leves, sem urgência inventada. Legendas brancas pequenas em caixa alta na região do peito. Não copie nome, identidade, roupa estampada, datas nem superlativos da referência. Substitua lacunas por [colchetes] quando faltar informação. Entregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-806b5735",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-selfie-recado-evento/frames/f1.jpg",
+    "videos/vid-selfie-recado-evento/frames/f2.jpg",
+    "videos/vid-selfie-recado-evento/frames/f3.jpg",
+    "videos/vid-selfie-recado-evento/frames/f4.jpg",
+    "videos/vid-selfie-recado-evento/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1b9a8b96",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

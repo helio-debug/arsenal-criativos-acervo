@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-910349868199730",
+  "tipo": "estatico",
+  "titulo": "Lista de cursos sobre foto do campus",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma foto de campus serve de fundo para uma faixa de título e um painel azul com cursos. Um selo verde informa que as matrículas estão abertas.",
+  "por_que_funciona": [
+    "A faixa azul no topo mantém a chamada legível sobre a fotografia.",
+    "O painel reúne várias opções de graduação em um único ponto de consulta.",
+    "O selo verde se destaca do painel azul e sinaliza o momento de matrícula."
+  ],
+  "quando_usar": "Para instituições com vários cursos que querem ajudar candidatos a identificar uma opção.",
+  "estrutura_texto": "[Chamada para encontrar o curso]\n[Lista de cursos disponíveis]\nMatrículas abertas\n[Instituição]",
+  "legenda": "Confira os cursos de [instituição] e encontre uma formação alinhada ao seu momento. Veja opções como [curso 1], [curso 2] e [curso 3]. Consulte modalidades, unidades e condições de matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto própria de campus ou espaço de ensino como fundo. Coloque faixa azul de ponta a ponta no topo com título branco centralizado. No centro, crie painel azul de cantos arredondados com lista branca alinhada à esquerda. Inclua selo verde de matrículas abertas na lateral do painel. Preserve legibilidade e evite excesso de cursos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "910349868199730",
+    "anunciante": "Uniderp",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-30",
+    "dias_no_ar": 137,
+    "variacoes_ativas": 1,
+    "texto_original": "🌿 Às vezes, tudo o que falta é olhar a lista certa para encontrar seu curso ideal.\n🌿 Encontre seu curso ideal.\n💙 Veja os cursos em destaque da Uniderp e encontre o que faz sentido para seu momento.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-910349868199730.jpg"
+}

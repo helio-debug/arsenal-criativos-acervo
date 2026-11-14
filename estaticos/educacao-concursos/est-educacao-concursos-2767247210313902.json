@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2767247210313902",
+  "tipo": "estatico",
+  "titulo": "Catálogo de graduações por modalidade",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo laranja com faixa branca de identidade no topo e três caixas brancas com listas de cursos. As caixas distinguem modalidades presencial, semipresencial e online, seguidas de convite para contato.",
+  "por_que_funciona": [
+    "Os títulos em cápsulas separam os cursos por modalidade de estudo.",
+    "As caixas brancas contrastam com o laranja e agrupam muitas opções.",
+    "A lista extensa permite localizar cursos específicos na própria peça.",
+    "A chamada de contato fica abaixo do catálogo e indica o próximo passo."
+  ],
+  "quando_usar": "Para apresentar o portfólio de uma instituição a pessoas que já procuram um curso ou modalidade.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[UNIDADE]\nPRESENCIAIS\n[LISTA DE CURSOS]\nSEMIPRESENCIAIS\n[LISTA DE CURSOS]\n100% ONLINE\n[LISTA DE CURSOS]\n[CTA DE CONTATO]\n[ENDEREÇO]\n[TELEFONE]",
+  "legenda": "Encontre uma graduação em [área de interesse]. São [quantidade] opções nas modalidades [modalidades disponíveis]. Consulte cursos, condições e disponibilidade na unidade [local]. [CTA para conversar].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja vertical, faixa branca superior com identidade própria e três caixas brancas arredondadas: duas empilhadas à esquerda e uma alta à direita. Use cabeçalhos contornados para modalidades e listas com marcadores pequenos. Dimensione a fonte para leitura no celular, limitando a quantidade se necessário. Coloque contato e endereço próprios no rodapé. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2767247210313902",
+    "anunciante": "Anhanguera Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-25",
+    "dias_no_ar": 142,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 Transforme sua carreira agora! Descubra nossos cursos mais populares e acesse MAIS DE 80 opções para alavancar seu futuro! 💡 Não perca tempo, invista no seu crescimento. Clique e saiba mais!\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2767247210313902.jpg"
+}

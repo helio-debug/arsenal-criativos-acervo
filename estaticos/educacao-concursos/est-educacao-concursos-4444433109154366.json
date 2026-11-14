@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-4444433109154366",
+  "tipo": "estatico",
+  "titulo": "Pergunta de cargo com duas opções em destaque",
+  "formato": "Interativo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Pergunta grande no topo divide o público entre dois cargos, em caixas verdes. Abaixo, um homem de terno segura cartões nas mesmas cores.",
+  "por_que_funciona": [
+    "A pergunta no topo permite identificar rapidamente o cargo relevante.",
+    "As duas caixas lado a lado tornam a segmentação visível.",
+    "A seta e o comando de arrastar indicam a próxima ação no carrossel.",
+    "Os cartões nas mãos repetem as cores das opções e conectam foto e chamada."
+  ],
+  "quando_usar": "Em capas de carrossel de cursos com trilhas diferentes por cargo.",
+  "estrutura_texto": "Qual é o seu [cargo/perfil]?\nArraste até o seu →\n[Opção A]\n[Opção B]",
+  "legenda": "[Cargo A] ou [cargo B]? A preparação para [concurso] muda conforme a prova. Veja o plano para o seu cargo, os [bônus] e as condições: [preço]. Curso independente, sem vínculo com [órgão/banca].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro, pergunta preta muito grande e duas caixas arredondadas em tons de verde. Abaixo, posicione uma pessoa segurando dois cartões que retomam as cores das opções. Inclua comando de arrastar com seta; mantenha a leitura de capa de carrossel.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4444433109154366",
+    "anunciante": "Prepara Enfermagem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-10",
+    "dias_no_ar": 35,
+    "variacoes_ativas": 2,
+    "texto_original": "Técnico ou enfermeiro? Os dois fazem o concurso do HU Brasil (EBSERH), mas não fazem a mesma prova. Arraste até o seu cargo: técnico tem plano para o plantão e peso maior em Políticas Públicas; enfermeiro tem desempenho por disciplina e peso maior nas específicas. E os dois levam 4 bônus. 12x de R$ 49,49 ou R$ 497 no Pix.\n\nCurso preparatório independente, sem vínculo com a EBSERH ou com a banca.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-4444433109154366.jpg"
+}

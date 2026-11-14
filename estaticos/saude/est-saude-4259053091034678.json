@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-4259053091034678",
+  "tipo": "estatico",
+  "titulo": "Anatomia do implante em corte ilustrado",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Arte educativa em tons de roxo com título no alto e uma ilustração em corte mostrando coroa, pino e osso na metade inferior.",
+  "por_que_funciona": [
+    "A ilustração em corte torna visíveis partes internas do implante.",
+    "O título identifica o assunto antes da explicação.",
+    "A faixa arredondada destaca o convite para entender o procedimento.",
+    "O contraste entre fundo roxo e texto branco facilita a leitura."
+  ],
+  "quando_usar": "Para clínicas odontológicas ou materiais educativos que expliquem o procedimento antes da avaliação.",
+  "estrutura_texto": "[Marca]\nCompreendendo [procedimento]:\nEntenda o passo a passo para [objetivo].\n[Ilustração explicativa]",
+  "legenda": "Entenda como [procedimento] é estruturado e qual é a função de cada parte. Acesse [conteúdo educativo] para conhecer as etapas e levar suas dúvidas à avaliação profissional. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo em dois tons de roxo separados por curva branca, título branco centralizado no terço superior e subtítulo em cápsula. Abaixo, use ilustração didática em corte do procedimento, com proporções anatomicamente coerentes. Reserve espaço discreto para a marca própria.",
+  "alerta_politica": "Meta: informação educativa deve evitar atributos pessoais e resultados garantidos. Observar normas do CFO para publicidade odontológica e identificação profissional; ilustração não substitui avaliação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4259053091034678",
+    "anunciante": "Neodent",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-14",
+    "dias_no_ar": 365,
+    "variacoes_ativas": 1,
+    "texto_original": "Entenda como funciona o implante dentário do pino à coroa protética.\n\nEstá pensando em fazer um implante? Entender como ele é estruturado faz toda a diferença na sua tomada de decisão.\n\nNo nosso blog, explicamos como cada parte contribui para um sorriso bonito, duradouro e saudável. \n\nAcesse o nosso blog e confira essa e outras dicas.\nAcesse o blog da Neodent",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-4259053091034678.jpg"
+}

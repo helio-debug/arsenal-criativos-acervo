@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-2452509208503141",
+  "tipo": "estatico",
+  "titulo": "Aula experimental grátis com equipamentos inclusos",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma tenista em posição de jogo sobre quadra azul e verde. À esquerda, a chamada de aula grátis destaca equipamentos inclusos e horários flexíveis.",
+  "por_que_funciona": [
+    "“AULA GRÁTIS” aparece em ciano e em letras grandes sobre azul.",
+    "A atleta com raquete mostra imediatamente qual atividade está sendo oferecida.",
+    "O texto sobre raquetes e bolinhas inclusas esclarece o que levar para a experiência.",
+    "O bloco inferior de horários flexíveis responde a uma dificuldade prática de agendamento."
+  ],
+  "quando_usar": "Para escolas esportivas que querem captar interessados em uma primeira aula presencial.",
+  "estrutura_texto": "Uma [AULA GRÁTIS] na [escola]!\nVenha conhecer a [escola] e fazer uma [aula experimental GRATUITA]!\n[Equipamentos] já inclusos.\n[Horários flexíveis] que cabem na sua rotina. Conheça a [escola]!",
+  "legenda": "Experimente [modalidade] em uma aula gratuita na [escola]. Temos turmas para [níveis], com [diferenciais do atendimento]. [Equipamentos] inclusos e horários em [disponibilidade]. Clique para consultar uma turma.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo de quadra em azul e verde, pessoa praticando a atividade à direita e texto alinhado à esquerda. Destaque a gratuidade em ciano, liste equipamentos inclusos e coloque a informação de horários em um bloco azul escuro com cantos arredondados. Use a IMAGEM 2 para representar a oferta real.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2452509208503141",
+    "anunciante": "Academia Tenis & Cia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-02",
+    "dias_no_ar": 226,
+    "variacoes_ativas": 1,
+    "texto_original": "🎾 DESCUBRA O JOGO QUE VAI MUDAR SUA ROTINA!\n\nPare de adiar sua saúde e comece algo que realmente te dá prazer.\nO tênis não é só um esporte… é energia, foco e superação.\n\n🔥 Na nossa academia você encontra:\n✔ Aulas para iniciantes e avançados\n✔ Professores experientes\n✔ Treinos dinâmicos e motivadores\n✔ Ambiente leve e acolhedor\n\n💪 Em poucas semanas você já sente:\n\n-Mais disposição\n-Mais condicionamento físico\n-Menos estresse\n-Mais confiança\n\n🚀 Não importa sua idade ou nível — o importante é começar!\n\n📍 Vagas limitadas!\n👉 Clique agora e agende sua aula experimental\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-2452509208503141.jpg"
+}

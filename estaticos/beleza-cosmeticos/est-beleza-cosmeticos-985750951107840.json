@@ -1,0 +1,36 @@
+{
+  "id": "est-beleza-cosmeticos-985750951107840",
+  "tipo": "estatico",
+  "titulo": "Alerta sobre escolha de shampoo com detalhe do couro cabeludo",
+  "formato": "Alerta e educação",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma mão abre os fios de cabelo cobertos por pontos brancos. No alto à esquerda, a chamada sugere que o shampoo associado a um jogador pode agravar a caspa.",
+  "por_que_funciona": [
+    "O close nos fios torna o assunto da caspa imediatamente reconhecível.",
+    "O texto ocupa a área clara à esquerda e permanece separado do cabelo escuro.",
+    "As palavras amarelas destacam a possibilidade de agravamento e o problema citado."
+  ],
+  "quando_usar": "Para conteúdo educativo sobre escolha de shampoo, com afirmações sustentadas e linguagem sem diagnóstico individual.",
+  "estrutura_texto": "O [produto] do seu [referência de popularidade]\npode estar\n[efeito indesejado relacionado ao uso].",
+  "legenda": "Conheça [shampoo] com [ingredientes comprovados]. Saiba mais sobre sua composição e o uso indicado. Fale com [canal de atendimento] para conhecer o produto.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um close de cabelo e mão afastando os fios no lado direito e inferior. Reserve fundo cinza-claro no alto à esquerda para uma chamada educativa curta, com tipografia serifada marrom e destaques amarelos. Use a IMAGEM 2 como referência do produto promovido, sem exigir sua presença no close. Evite exagerar descamação e substitua acusações ou alegações sem prova por informação verificável.",
+  "alerta_politica": "Cosméticos: não prometer tratar dermatite nem atribuir ação terapêutica sem enquadramento e comprovação pertinentes. Evitar atribuir caspa ao espectador e alegar que outro produto piora o quadro sem evidência.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "985750951107840",
+    "anunciante": "Benvi natural",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "🧼✨ Você tem caspa, dermatite ou couro cabeludo oleoso? Conheça o meu shampoo em barra Bem Real! 🌿 \n\nCom ácido salicílico, extrato de alecrim, manteigas e óleos da Amazônia, ele forma uma espuma incrível e tem um aroma fresco delicioso de capim-limão e alecrim.\n\nFale com uma das nossa consultoras e adquira o seu!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-985750951107840.jpg"
+}

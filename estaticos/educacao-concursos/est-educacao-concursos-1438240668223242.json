@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1438240668223242",
+  "tipo": "estatico",
+  "titulo": "Formanda com promessa acadêmica e matrículas abertas",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de uma jovem com capelo e diploma em sala de aula. O texto à esquerda combina aprovação e bem-estar, e uma faixa verde na base anuncia matrículas e contatos.",
+  "por_que_funciona": [
+    "O capelo e o diploma tornam o resultado acadêmico reconhecível.",
+    "A palavra vestibulares em tamanho grande define o objetivo da oferta.",
+    "A menção à mentoria individualizada apresenta um recurso concreto do ensino.",
+    "O botão roxo sobre a faixa verde destaca as matrículas abertas."
+  ],
+  "quando_usar": "Para escolas de ensino médio que estão captando matrículas e oferecem acompanhamento individual.",
+  "estrutura_texto": "[OBJETIVO ACADÊMICO] com [BENEFÍCIO DE EXPERIÊNCIA].\n[SISTEMA DE ENSINO] + [ACOMPANHAMENTO] no [NÍVEL ESCOLAR].\n[MATRÍCULAS ABERTAS]\n[CONTATO] [SITE]",
+  "legenda": "A preparação para [objetivo acadêmico] pode incluir acompanhamento para [desenvolvimento pessoal]. Em [instituição], [sistema de ensino] se combina com [tutoria] e [apoio às escolhas de carreira]. Agende uma conversa com a coordenação. Matrículas abertas para [ano].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 como fundo de uma sala de aula, com pessoa à direita e área escurecida à esquerda para texto. Destaque o objetivo acadêmico em letras grandes, combine branco e pequenos blocos laranja. Crie rodapé verde com chamada de matrícula em cápsula roxa e contatos. Não prometa aprovação garantida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1438240668223242",
+    "anunciante": "COLÉGIO REGGIO EMILIA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-22",
+    "dias_no_ar": 53,
+    "variacoes_ativas": 1,
+    "texto_original": "Estudar para os vestibulares não precisa significar abrir mão do desenvolvimento pessoal. \n\nNo Reggio Emilia, combinamos a rigidez acadêmica do Sistema Etapa com tutoria individual, projeto de vida com apoio para escolhas de carreira e inteligência emocional.\nClique no link e agende uma conversa com a nossa coordenação!\nMatrículas Abertas 2027!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1438240668223242.jpg"
+}

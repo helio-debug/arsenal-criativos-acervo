@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1102388445640950",
+  "tipo": "estatico",
+  "titulo": "Graduações com desconto e lista de cursos ao lado de formanda",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte laranja com chamada de graduação a distância, faixa de últimas vagas e percentual de desconto. Uma lista de cursos em duas colunas divide espaço com a foto de uma formanda; o rodapé apresenta contato para matrícula.",
+  "por_que_funciona": [
+    "O percentual de 70% ocupa uma faixa própria e explicita o incentivo financeiro.",
+    "A lista extensa permite reconhecer o curso desejado dentro da oferta.",
+    "A foto com beca associa a matrícula à conclusão da formação.",
+    "O contato em faixa escura com ícone de mensagem facilita localizar o próximo passo."
+  ],
+  "quando_usar": "Para captação de matrículas de graduação em período promocional com cursos e condições definidos.",
+  "estrutura_texto": "[Instituição]\n[Unidade]\n[Graduações e modalidade]\n[Prazo ou disponibilidade]\n[Período] com até [desconto]\n[Lista de cursos]\nFaça sua matrícula\n[Canal e contato]",
+  "legenda": "Comece sua graduação em [modalidade] com bolsas de até [percentual], conforme [curso e condições]. Consulte [opções de formação], disponibilidade de vagas e regras para [período letivo]. Fale com a equipe pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja com detalhes dourados e faixas de alto contraste para modalidade, vagas e desconto. Distribua a lista de cursos em duas colunas claras à esquerda e ao centro; use a imagem fornecida à direita. Reserve faixa inferior para chamada de matrícula e contato. Garanta legibilidade e apresente desconto máximo, período e disponibilidade apenas quando comprovados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1102388445640950",
+    "anunciante": "Anhanguera Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-10",
+    "dias_no_ar": 65,
+    "variacoes_ativas": 1,
+    "texto_original": "🎓 ÚLTIMAS VAGAS – BOLSAS REMANESCENTES NA ANHANGUERA (EAD)\n\n🚀 Chegou a sua chance de começar a faculdade com mais flexibilidade\n\n💰 Bolsas de até 70% de desconto\n📚 Cursos 100% EAD ou EAD semi presencial\n🏆 Diploma reconhecido pelo MEC (mesmo valor do presencial)\nWHATSAPP\nFale Conosco\nVAGAS LIMITADAS",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1102388445640950.jpg"
+}

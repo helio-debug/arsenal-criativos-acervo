@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-946245757771502",
+  "tipo": "estatico",
+  "titulo": "Kits para revenda com preços por unidade",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Faixa preta anuncia distribuição e potencial de lucro em verde. Lista de atributos e tabela de kits aparecem sobre fundo de embalagens esmaecidas, com produtos coloridos alinhados na base.",
+  "por_que_funciona": [
+    "O verde destaca o percentual de lucro e o menor preço unitário.",
+    "Os três tamanhos de kit permitem comparar volume e custo por unidade.",
+    "Checks verdes organizam os atributos acima dos preços.",
+    "As embalagens alinhadas mostram variedade de fragrâncias."
+  ],
+  "quando_usar": "Ofertas de atacado para revendedores que comparam investimento por kit e custo unitário.",
+  "estrutura_texto": "[Marca]\nSeja um distribuidor e [potencial de margem comprovado]\n✓ [Atributo]\n✓ [Atributo]\n✓ [Atributo]\nKit [quantidade] unidades — [preço]/unid\n[Demais kits]\n[Variedades]",
+  "legenda": "Revenda [produto] com kits a partir de [quantidade] unidades. Consulte [preços por volume], opções de [variedades] e frete [condições]. Solicite a tabela em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo com embalagens esmaecidas, faixa preta superior com chamada branca e destaque verde. Organize três benefícios com checks e três linhas de quantidades e preços em duas colunas. Realce o menor preço em caixa verde. Exiba as variantes na base. Só inclua margem de lucro quando comprovada e acompanhada das condições.",
+  "alerta_politica": "Meta: não prometer renda garantida nem resultados típicos sem comprovação. Explique condições, custos e critérios de pagamento; valores e ganhos potenciais devem ser verificáveis. Diferencie margem de lucro de acréscimo sobre custo; percentuais devem considerar preço de venda, despesas e condições reais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "946245757771502",
+    "anunciante": "Fire Trees Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-18",
+    "dias_no_ar": 241,
+    "variacoes_ativas": 1,
+    "texto_original": "🚗🔥 AROMATIZANTES AUTOMOTIVOS DIRETO DA FÁBRICA 🔥🚗\n\n✅ Tenha RENDA EXTRA ou seja um DISTRIBUIDOR!\n✅ Frete GRÁTIS para pedidos acima de 24 unidades!\n✅ Fácil revenda, produto de alta demanda!\n\nNão perca tempo! Faça seu pedido agora mesmo🌬️🚗\nFire Trees Brasil",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-946245757771502.jpg"
+}

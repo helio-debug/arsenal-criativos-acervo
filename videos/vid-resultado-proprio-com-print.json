@@ -1,0 +1,104 @@
+{
+ "id": "vid-resultado-proprio-com-print",
+ "titulo": "Meu resultado, com o print do painel na tela",
+ "formato_video": "screencast-prova",
+ "nichos": [
+  "marketing-trafego",
+  "renda-extra",
+  "infoproduto-cursos",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "aula-ou-live-gratuita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "60-70s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Close de notebook numa mesa, mão apontando o próprio painel. Sobreponha recorte legível do número com período; legenda amarela no terço inferior.",
+   "fala": "Este painel registrou [resultado próprio] entre [data inicial] e [data final].",
+   "texto_tela": "[RESULTADO] | [PERÍODO]"
+  },
+  {
+   "tempo": "5-13s",
+   "cena": "Corte para apresentador próximo à câmera, prateleiras discretas ao fundo. Print do painel acima do ombro; dedo aponta o recorte.",
+   "fala": "Esse número mede [métrica]. O recorte inclui [escopo] e deixa de fora [limitação]. É um caso meu, com estas condições.",
+   "texto_tela": "Métrica: [métrica] | Recorte: [escopo]"
+  },
+  {
+   "tempo": "13-25s",
+   "cena": "Volta ao notebook e abre o registro da primeira ação. Mão indica um único campo; título amarelo identifica o passo.",
+   "fala": "Primeiro, eu registrei [ponto de partida] e escolhi [critério de comparação]. Assim consegui acompanhar [indicador] no mesmo período.",
+   "texto_tela": "1. Registrar [ponto de partida]"
+  },
+  {
+   "tempo": "25-37s",
+   "cena": "Corte para rosto e sobreposição da tela da segunda ação. Mantém legenda amarela; destaque acompanha o cursor.",
+   "fala": "Depois, apliquei [ação concreta com o produto] em [contexto]. Mantive [condição] igual para acompanhar o que acontecia com [indicador].",
+   "texto_tela": "2. Aplicar [ação]"
+  },
+  {
+   "tempo": "37-49s",
+   "cena": "Close da tela com comparação dos registros, mesma escala e período identificado. Volta ao rosto no fim.",
+   "fala": "Por fim, conferi [registro] e ajustei [variável]. Foi esse processo que usei neste caso. O resultado depende de [fatores relevantes].",
+   "texto_tela": "3. Conferir [registro]"
+  },
+  {
+   "tempo": "49-59s",
+   "cena": "Plano próximo do apresentador. Sobreponha imagem neutra do material da aula, com título próprio e sem marcas de terceiros.",
+   "fala": "Na [aula gratuita], mostro esses passos com [exemplo concreto]. Você acompanha [conteúdo da aula] e vê como avaliar isso no seu contexto.",
+   "texto_tela": "Aula gratuita: [tema]"
+  },
+  {
+   "tempo": "59-68s",
+   "cena": "Mesmo plano; gesto para o botão. Tela final com tema e instrução de acesso, sem contagem regressiva.",
+   "fala": "Clique no botão para acessar [aula gratuita]. Confira [condição real de acesso]. Use o exemplo para planejar seu teste, sem tratar esse número como promessa.",
+   "texto_tela": "Acesse [aula gratuita]"
+  }
+ ],
+ "hook": {
+  "falado": "Este painel registrou [resultado próprio] entre [data inicial] e [data final].",
+  "texto_tela": "[RESULTADO] | [PERÍODO]",
+  "visual": "Close de notebook numa mesa, mão apontando o próprio painel. Sobreponha recorte legível do número com período; legenda amarela no terço inferior."
+ },
+ "por_que_funciona": [
+  "A câmera passa da mesa para a tela do notebook, deixando o conteúdo apontado ocupar o quadro.",
+  "O painel aparece sobre o apresentador e ele aponta para cima, ligando o gesto ao número mostrado.",
+  "As legendas amarelas permanecem legíveis sobre a camiseta escura e os planos de tela.",
+  "A fala da referência passa da análise mostrada no computador para o próprio resultado e depois para o material oferecido; o modelo mantém essa sequência de demonstração e convite."
+ ],
+ "quando_usar": "Para quem tem um registro próprio verificável e consegue explicar as ações feitas. Use no meio do funil para convidar a uma aula gratuita, escolhendo uma métrica pertinente ao produto, como tarefa concluída ou tempo de operação.",
+ "roteiro_modelo": "Este painel registrou [resultado próprio] entre [data inicial] e [data final].\n\n[pausa curta; corte]\n\nEsse número mede [métrica]. O recorte inclui [escopo] e deixa de fora [limitação]. É um caso meu, com estas condições.\n\n[pausa curta; corte]\n\nPrimeiro, eu registrei [ponto de partida] e escolhi [critério de comparação]. Assim consegui acompanhar [indicador] no mesmo período.\n\n[pausa curta; corte]\n\nDepois, apliquei [ação concreta com o produto] em [contexto]. Mantive [condição] igual para acompanhar o que acontecia com [indicador].\n\n[pausa curta; corte]\n\nPor fim, conferi [registro] e ajustei [variável]. Foi esse processo que usei neste caso. O resultado depende de [fatores relevantes].\n\n[pausa curta; corte]\n\nNa [aula gratuita], mostro esses passos com [exemplo concreto]. Você acompanha [conteúdo da aula] e vê como avaliar isso no seu contexto.\n\n[pausa curta; corte]\n\nClique no botão para acessar [aula gratuita]. Confira [condição real de acesso]. Use o exemplo para planejar seu teste, sem tratar esse número como promessa.",
+ "tomadas_celular": [
+  "Grave 5s do notebook em close inclinado, janela lateral sem reflexo, apontando para o dado próprio com período.",
+  "Grave 8s do peito para cima, luz de janela frontal, deixando espaço acima do ombro para o print.",
+  "Grave 12s sobre o ombro com a primeira ação na tela, luz lateral suave; evite dados de terceiros.",
+  "Grave 12s em plano próximo, luz frontal, explicando a segunda ação; capture também a tela pelo celular.",
+  "Grave 12s do registro final na tela, celular apoiado e brilho ajustado; use a mesma escala para comparar.",
+  "Grave 10s do rosto e do material da aula, luz frontal; deixe área livre para a capa.",
+  "Grave 9s em plano próximo com a mesma luz, indicando o acesso à aula."
+ ],
+ "caminho_ia": "Use gravações ou prints próprios fornecidos pelo comprador e monte a tela no CapCut. Para não gravar, use um avatar autorizado e gere somente o ambiente no Runway. Prompts: \"Vertical 9:16 close-up of an unbranded laptop on an office desk, generic hand pointing at a blank screen reserved for [verified product dashboard], soft side window light, subtle handheld movement, no generated numbers or text, 5 seconds.\" e \"Vertical 9:16 medium close-up of a generic presenter in a home office with neutral shelves, soft frontal daylight, pointing toward empty space above one shoulder for [authentic result screenshot], no logos, 8 seconds.\" Insira os prints autênticos na edição e faça a narração com avatar ou voz sintética licenciada. Não gere um painel fictício para apresentar como prova.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 68s em sete blocos: 0-5 número próprio e período; 5-13 definição e limites da métrica; 13-25 passo 1; 25-37 passo 2; 37-49 passo 3 e ressalvas; 49-59 aula gratuita; 59-68 acesso. Tom de relato demonstrado, legendas amarelas, cortes entre notebook e rosto, print sobre o ombro e gesto apontando o número. O resultado deve aparecer no início. Escolha uma métrica verificável adequada ao produto. Não copie bibliotecas de terceiros, personalidades, faturamento, preço ou urgência da referência. Use prova autêntica e informe custos e limites se o número envolver dinheiro. Use pt-BR falado, frases curtas e campos [entre colchetes] para dados ausentes. Não invente prova, prazo, preço ou garantia. Não copie anunciante, pessoa, marca, logotipo, domínio, contato nem falas da referência. Não use clichês, superlativos sem prova, antíteses vazias nem perguntas de enfeite. Meta, oportunidades de negócio: sem garantia de ganho, renda rápida ou resultado financeiro apresentado como típico sem comprovação. Contextualize período, custos e fatores do resultado; faturamento não é lucro. Não explore condição financeira pessoal. Use prints autênticos com dados pessoais ocultos e deixe claro que o caso individual não garante resultados.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Resultado próprio] em [período], medido por [fonte]. O recorte considera [escopo e limites]. Na [aula gratuita], explico [passos aplicados]. Acesse pelo botão. Esse caso não garante o mesmo resultado em outro contexto.",
+ "alerta_politica": "Meta, oportunidades de negócio: sem garantia de ganho, renda rápida ou resultado financeiro apresentado como típico sem comprovação. Contextualize período, custos e fatores do resultado; faturamento não é lucro. Não explore condição financeira pessoal. Use prints autênticos com dados pessoais ocultos e deixe claro que o caso individual não garante resultados.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-94a6682e",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-resultado-proprio-com-print/frames/f1.jpg",
+    "videos/vid-resultado-proprio-com-print/frames/f2.jpg",
+    "videos/vid-resultado-proprio-com-print/frames/f3.jpg",
+    "videos/vid-resultado-proprio-com-print/frames/f4.jpg",
+    "videos/vid-resultado-proprio-com-print/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

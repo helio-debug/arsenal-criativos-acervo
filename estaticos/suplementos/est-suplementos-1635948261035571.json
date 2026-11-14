@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1635948261035571",
+  "tipo": "estatico",
+  "titulo": "Pergunta de apresentação com sachê na água",
+  "formato": "Interativo",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma pergunta em preto ocupa o alto de uma arte clara. Um sachê inclinado atravessa a superfície da água, com bolhas e uma indicação de continuar ao lado no rodapé.",
+  "por_que_funciona": [
+    "A pergunta curta apresenta uma lacuna de informação sobre o produto.",
+    "A água e as bolhas conectam visualmente a embalagem à hidratação.",
+    "O sachê inclinado se destaca no espaço claro.",
+    "A seta no rodapé indica a continuidade do conteúdo."
+  ],
+  "quando_usar": "Para a primeira peça de uma sequência que explique uma categoria ou produto pouco conhecido.",
+  "estrutura_texto": "O que é [produto]?\n[Embalagem com categoria e sabor]\nDescubra ao lado →",
+  "legenda": "Conheça [produto], uma opção de [categoria]. Veja como preparar, quais são os ingredientes e em que situações pode fazer parte da rotina. [Chamada para continuar a leitura].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco quente com bastante espaço vazio e uma pergunta grande em preto no alto. Coloque o sachê da IMAGEM 2 inclinado no centro inferior, parcialmente submerso em água transparente com pequenas bolhas. Faça uma linha fina no rodapé e a chamada para continuar com uma seta à direita. A chamada de continuidade deve corresponder a uma sequência real.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1635948261035571",
+    "anunciante": "Liquidz Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 1,
+    "texto_original": "Somos a LIQUIDZ: Hidratação Funcional 💧\n\n#EveryDropCounts",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1635948261035571.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-936936402655251",
+  "tipo": "estatico",
+  "titulo": "Livro digital gratuito sobre fundo de livros abertos",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma capa de livro em perspectiva ocupa o centro sobre vários livros abertos. Na base, letras brancas grandes anunciam o livro grátis e pedem o download.",
+  "por_que_funciona": [
+    "A capa central inclinada dá ao conteúdo digital uma apresentação de produto tangível.",
+    "O fundo de livros abertos reforça visualmente a categoria de leitura.",
+    "“Livro Grátis” ocupa boa parte da largura e torna a oferta imediata.",
+    "“BAIXE AGORA” indica a ação esperada logo abaixo da oferta."
+  ],
+  "quando_usar": "Para captar leitores com um e-book gratuito e levar a uma página de download.",
+  "estrutura_texto": "[CAPA DO LIVRO]\nLivro Grátis\nBAIXE AGORA",
+  "legenda": "Baixe gratuitamente [título do e-book] por [prazo real]. Uma leitura sobre [tema] com [conteúdo ou abordagem]. Acesse [destino] e comece a leitura.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Apresente a capa fornecida na IMAGEM 2 em perspectiva sobre livros abertos, com luz suave e tons quentes. Reserve a base para “Livro Grátis” em fonte serifada branca grande e “BAIXE AGORA” em fonte sem serifa. Garanta contraste por meio de sombra discreta. Preserve apenas informações comprovadas da capa; não invente selo de mais vendido.",
+  "alerta_politica": "Em conteúdo religioso, evite afirmar ou insinuar a religião de quem vê o anúncio. Não use alegações de mais vendido sem comprovação nem prometa transformação espiritual garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "936936402655251",
+    "anunciante": "Putting On Christ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-10",
+    "dias_no_ar": 218,
+    "variacoes_ativas": 1,
+    "texto_original": "E-book SUD GRÁTIS por tempo limitado! 📖\n\nExperimente a Poderosa Mudança de Coração (conforme mencionada em Alma 5:14) por meio do amor e da orientação inabaláveis de Cristo. Baixe GRATUITAMENTE o livro SUD mais vendido do país na Amazon e descubra os passos para o renascimento espiritual que podem transformar sua vida para sempre. 🙏🏻\n\nEste livro reverente ajudará você a se aproximar de Cristo, experimentar a mudança que Ele oferece e se revestir diariamente de Sua natureza divina. Comece sua jornada de renovação espiritual hoje mesmo! ❤️",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-936936402655251.jpg"
+}

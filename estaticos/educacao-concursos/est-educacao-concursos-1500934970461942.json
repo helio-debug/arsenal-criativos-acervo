@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1500934970461942",
+  "tipo": "estatico",
+  "titulo": "Depoimento de aprovado com colocação em destaque",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um aluno ocupa a lateral esquerda, enquanto a colocação e um depoimento longo aparecem à direita. Fundo azul, brasão e faixa inferior destacam a aprovação em concurso policial.",
+  "por_que_funciona": [
+    "O retrato associa o depoimento a uma pessoa identificada na peça.",
+    "A faixa vermelha destaca a primeira colocação logo abaixo do nome.",
+    "O relato menciona material, mentoria e rotina de estudo, tornando a experiência concreta.",
+    "A faixa inferior com a sigla do concurso reforça qual aprovação está sendo apresentada."
+  ],
+  "quando_usar": "Para apresentar resultados documentados de alunos a interessados em uma preparação para concursos.",
+  "estrutura_texto": "[Nome do aluno autorizado]\n[Colocação] - [Concurso]\n[Depoimento real sobre preparação e resultado]\n[Nome do método]\nAPROVADO(A) NA\n[Instituição do concurso]\n[Identidade própria]",
+  "legenda": "Celebramos a aprovação de [aluno autorizado] em [concurso], com [colocação comprovada]. Conheça sua trajetória de estudos com [preparação] e veja como funciona [programa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul escuro com textura discreta. Coloque retrato autorizado à esquerda e, à direita, nome grande em branco, faixa vermelha com colocação comprovada e depoimento real em texto branco legível. Na base, destaque a aprovação e o concurso em uma faixa azul mais clara. Use apenas identidade própria; não reproduza brasões, símbolos oficiais ou retratos da referência. Não invente depoimentos ou resultados; use campos editáveis quando faltarem dados.",
+  "alerta_politica": "Use depoimento e imagem com autorização e resultados comprováveis. Não prometa aprovação ou colocação garantida nem sugira vínculo oficial com o órgão do concurso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1500934970461942",
+    "anunciante": "PMMinas - Otávio Souza",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-05-24",
+    "dias_no_ar": 904,
+    "variacoes_ativas": 1,
+    "texto_original": "🥇Homenagem aos Novos Heróis da Gloriosa PMMG\n\nSão 22 primeiros lugares no CFSd/2023, porém o Instagram só permite publicar de 10 em 10, em breve publicarei os demais, vocês são SINISTROS!!!! Quem aí será 1 lugar agora em 2024?\n\n🎈Hoje, nos reunimos não apenas para celebrar uma conquista, mas para honrar uma jornada de determinação inabalável e perseverança extraordinária. É com imenso orgulho que homenageamos os alunos que foram aprovados em primeiro lugar no concurso da Polícia Militar de Minas Gerais, superando desafios que pareciam insuperáveis.\n\nCada um de vocês enfrentou \"tempo ruim o tempo todo\", um caminho repleto de obstáculos e dificuldades. Vocês se depararam com longas horas de estudo, noites sem sono, e a pressão constante de um objetivo ambicioso. Mas, mesmo diante das adversidades, nunca se deixaram abater. Sua jornada foi marcada por uma força de vontade que desafia as palavras, uma determinação que serve de inspiração para todos nós.\n\nA aprovação em primeiro lugar no concurso da PMMG não é apenas um título; é a materialização do esforço, da dedicação e do sacrifício que cada um de vocês empreendeu ao longo dessa jornada. Vocês provaram que, com dedicação e trabalho duro, até os sonhos mais desafiadores podem ser alcançados.\n\nAo conquistarem a farda da gloriosa PMMG, vocês não apenas alcançaram um objetivo pessoal, mas também se tornaram modelos de coragem e persistência. A farda (segunda pele) que, em breve, vestirão simboliza muito mais do que um cargo; ela representa um compromisso com a excelência, a segurança e o bem-estar da sociedade mineira.\n\nNós, da Tropa OBA, comunidade, família, amigos e colegas, estamos imensamente orgulhosos de cada um de vocês. Que esta conquista seja apenas o começo da linda jornada que trilharão. \n\n[concurso público, polícia militar, dicas de estudos, PMMG, soldado, cadete, concurseiro, militar, CFSd, CFO, técnicas de estudos, PMMG 2024, CFSd 2024]",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1500934970461942.jpg"
+}

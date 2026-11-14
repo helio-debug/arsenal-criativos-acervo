@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1120262433939819",
+  "tipo": "estatico",
+  "titulo": "Óleo capilar com chamada de cinco critérios",
+  "formato": "Alerta e educação",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Frasco de óleo capilar inclinado sobre uma superfície dourada com reflexos e blocos translúcidos. Duas faixas na base anunciam cinco coisas a considerar antes da escolha.",
+  "por_que_funciona": [
+    "O frasco inclinado ocupa o centro e deixa o rótulo exposto.",
+    "Os reflexos dourados reforçam visualmente o aspecto oleoso e o brilho.",
+    "O número cinco oferece uma expectativa concreta de conteúdo.",
+    "As faixas amarelas separam a chamada do cenário fotográfico."
+  ],
+  "quando_usar": "Para abrir uma sequência educativa sobre critérios de escolha de um cosmético e apresentar o produto.",
+  "estrutura_texto": "[Nome e categoria no rótulo]\n[Benefícios do rótulo]\n[Quantidade] coisas que você deve saber\nantes de escolher um [categoria]",
+  "legenda": "Antes de escolher [categoria], conheça [critérios relevantes]. [Produto] reúne [composição] e [benefícios comprovados] para [uso]. Confira os detalhes em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Destaque o frasco da IMAGEM 2 inclinado ao centro sobre superfície dourada brilhante, com blocos de vidro e luz quente. Preserve o rótulo real. Na base, use duas faixas mostarda com chamada preta em caixa alta sobre critérios de escolha, sem inventar benefícios.",
+  "alerta_politica": "ANVISA: use apenas alegações cosméticas compatíveis com a regularização e comprovação do produto; não prometa tratamento de doenças. Alegações de proteção UV devem ter suporte técnico e não sugerir proteção solar da pele.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1120262433939819",
+    "anunciante": "Eico",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-14",
+    "dias_no_ar": 31,
+    "variacoes_ativas": 3,
+    "texto_original": "Se você pensa que óleo capilar é tudo igual, precisa saber dessa novidade ✨\nO novo Óleo Reparador Eico Salão em Casa combina 5 óleos em um elixir de nutrição potente para entregar brilho, maciez, controle do frizz, selagem das cutículas e filtro UV.\nUm único produto para diferentes momentos da rotina e diferentes necessidades do cabelo, com a performance de salão que você já conhece na linha Eico Salão em Casa.\nMais que nutrição. 5 benefícios em 1. Conheça esse lançamento no link da bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1120262433939819.jpg"
+}

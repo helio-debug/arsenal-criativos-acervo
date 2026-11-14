@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-3089244237952833",
+  "tipo": "estatico",
+  "titulo": "Cadastro de entregadores com ilustração e botão",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título preto centralizado em fundo creme apresenta entregas de moto ou bicicleta. Um ciclista de blusa azul e mochila amarela ocupa grande parte da peça, acima de botão preto na base amarela.",
+  "por_que_funciona": [
+    "A roupa azul separa o entregador do fundo amarelo.",
+    "A bicicleta em grande escala deixa clara a modalidade da atividade.",
+    "O botão largo “Cadastre-se agora!” indica a próxima ação."
+  ],
+  "quando_usar": "Para campanhas de aquisição de entregadores com destino direto para cadastro.",
+  "estrutura_texto": "[MARCA]\nRenda extra [PROPOSTA DE FLEXIBILIDADE]\nFaça entregas de [VEÍCULO 1] ou [VEÍCULO 2]\n[TERMOS]\nCadastre-se [CTA TEMPORAL]",
+  "legenda": "Faça entregas com [moto/bicicleta] pela [plataforma]. Veja os requisitos e as condições disponíveis em [cidade]. Comece seu cadastro em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo creme e faixa amarela na base. Centralize título preto grande e subtítulo sobre modalidades. Desenhe ciclista lateral com camisa azul, capacete e mochila amarela, usando a IMAGEM 2 como referência da solução quando aplicável. Finalize com botão preto largo de texto amarelo e condições legíveis.",
+  "alerta_politica": "Meta: não apresentar renda como garantida nem prometer ganhos fáceis. Valores e estimativas precisam de comprovação e condições claras, incluindo requisitos, custos e variação dos resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3089244237952833",
+    "anunciante": "Sou Motorista 99",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-07",
+    "dias_no_ar": 68,
+    "variacoes_ativas": 2,
+    "texto_original": "Quer ganhar mais? Faça entregas com Moto ou Bike, Vem pra 99Food.🤑📦\nSeja entregador 99Food➡️\nCadastre-se agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-3089244237952833.jpg"
+}

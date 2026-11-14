@@ -1,0 +1,90 @@
+{
+ "id": "vid-transformacao-revelada-no-corte",
+ "tipo": "video",
+ "titulo": "Mágica de transformação: o antes aparece e o depois entra num corte seco",
+ "formato_video": "antes-depois",
+ "nichos": [
+  "moveis-decoracao",
+  "imoveis",
+  "servicos-locais",
+  "automotivo"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Olha este [objeto ou ambiente] antes do serviço. Agora, pronto.",
+  "texto_tela": "Antes → pronto",
+  "visual": "Mesmo objeto e câmera fixa: 1s do estado inicial, mão passa pela lente e corte seco para o final. Depois, comparação em duas janelas sobre fundo bege."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Câmera fixa mostra o antes; mão cobre a lente e revela o depois no mesmo ângulo.",
+   "fala": "Olha este [objeto ou ambiente] antes do serviço. Agora, pronto.",
+   "texto_tela": "Antes → pronto"
+  },
+  {
+   "tempo": "3-9s",
+   "cena": "Duas janelas verticais em fundo bege, antes menor à esquerda e resultado maior à direita, como na referência.",
+   "fala": "O pedido era [mudança desejada]. Este ponto aqui precisava de [ajuste específico].",
+   "texto_tela": "Pedido: [mudança]"
+  },
+  {
+   "tempo": "9-16s",
+   "cena": "Detalhe do trabalho; voltar à comparação. Inserir um check por alteração, seguindo a lista progressiva da referência.",
+   "fala": "Fizemos [intervenção principal] e ajustamos [detalhe]. O serviço levou [prazo real].",
+   "texto_tela": "✓ [Intervenção]\n✓ [Ajuste]"
+  },
+  {
+   "tempo": "16-23s",
+   "cena": "Close do resultado e retorno ao mesmo plano inicial, sem mudar iluminação para exagerar a diferença.",
+   "fala": "Repara em [detalhe visível]. Dá para conferir a mudança neste mesmo enquadramento.",
+   "texto_tela": "[Detalhe visível]"
+  },
+  {
+   "tempo": "23-30s",
+   "cena": "Cartela bege com escopo resumido e botão escuro de ação.",
+   "fala": "Quer avaliar [objeto ou ambiente]? Envie [foto ou medida] para pedir um orçamento de [serviço].",
+   "texto_tela": "Envie [foto ou medida]"
+  }
+ ],
+ "por_que_funciona": [
+  "As janelas verticais de tamanhos diferentes dão mais espaço à versão final e mantêm a inicial disponível para comparação.",
+  "Os checks verdes aparecem junto das mudanças descritas; o modelo usa cada check para apontar um ajuste visível.",
+  "A cartela final com botão escuro concentra a ação depois da demonstração."
+ ],
+ "quando_usar": "Para serviços com mudança visível em objetos ou ambientes. Use quando o interessado já conhece o serviço e precisa ver o que entra na execução.",
+ "roteiro_modelo": "Olha este [objeto ou ambiente] antes do serviço. Agora, pronto.\n\n[pausa curta; corte]\n\nO pedido era [mudança desejada]. Este ponto aqui precisava de [ajuste específico].\n\n[pausa curta; corte]\n\nFizemos [intervenção principal] e ajustamos [detalhe]. O serviço levou [prazo real].\n\n[pausa curta; corte]\n\nRepara em [detalhe visível]. Dá para conferir a mudança neste mesmo enquadramento.\n\n[pausa curta; corte]\n\nQuer avaliar [objeto ou ambiente]? Envie [foto ou medida] para pedir um orçamento de [serviço].",
+ "tomadas_celular": [
+  "Antes em plano aberto com celular apoiado, luz natural difusa e exposição travada, 4s; marque a posição.",
+  "Mão cobre a lente no mesmo plano e luz, 2s.",
+  "Depois no ponto marcado, mesma lente e exposição, 5s; alinhe os dois clipes.",
+  "Intervenção em close, luz lateral difusa, 6s; repetir para o segundo ajuste.",
+  "Resultado em detalhe, sem filtro, luz igual à do antes, 5s.",
+  "Profissional em plano médio, janela à frente, 7s, convidando a enviar foto ou medida."
+ ],
+ "caminho_ia": "Use Runway ou Kling para criar uma simulação a partir de imagens autorizadas, com voz sintética licenciada e montagem no CapCut. Prompts: \"Vertical 9:16, locked-off wide shot of [object or room] before [service], neutral daylight, fixed focal length, four seconds, no people, no logos.\" e \"Vertical 9:16, exact same composition and lighting, [object or room] after [specified changes], realistic materials, locked camera, five seconds, no text.\" Insira o corte seco e depois as duas janelas em fundo bege. Identifique o material como simulação; não apresente imagens geradas como obra ou serviço realizado.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nRevelação visual em 0-3s com antes, gesto e corte seco; comparação em janelas verticais bege em 3-9s; execução e checks em 9-16s; detalhe verificável em 16-23s; convite para orçamento em 23-30s. Fala curta e demonstrativa. Mantenha ângulo e luz iguais. Use rótulos Antes e Pronto, dois checks e botão escuro no fim. Não copie o software, apresentador, marcas ou oferta da referência. A referência mostra comparação simultânea; o corte de revelação é a adaptação deste formato. Não use transformação corporal ou de saúde. Identifique renderizações como simulações. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos fornecidos. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e fechos de efeito. Não exponha nomes, pessoas, marcas ou contatos da referência.\n\nEntregue o roteiro falado completo no formato descrito, com tempos por bloco, a legenda do post e um prompt de cena em inglês técnico de vídeo por bloco da estrutura.",
+ "legenda": "[Objeto ou ambiente] antes e depois de [serviço]. O trabalho incluiu [escopo], em [prazo real]. Envie [foto ou medida] para avaliar o seu projeto.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-619336e1",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-transformacao-revelada-no-corte/frames/f1.jpg",
+    "videos/vid-transformacao-revelada-no-corte/frames/f2.jpg",
+    "videos/vid-transformacao-revelada-no-corte/frames/f3.jpg",
+    "videos/vid-transformacao-revelada-no-corte/frames/f4.jpg",
+    "videos/vid-transformacao-revelada-no-corte/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

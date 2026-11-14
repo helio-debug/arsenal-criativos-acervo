@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-786504166238243",
+  "tipo": "estatico",
+  "titulo": "Mosaico de estudo e formação com preço mensal",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Colagem reúne leitura, pessoa com livro em ambiente religioso e um formando com diploma. O nome do curso aparece à esquerda, enquanto a oferta mensal fica na parte inferior direita.",
+  "por_que_funciona": [
+    "O mosaico reúne estudo, atuação e conclusão em imagens distintas.",
+    "O título escuro sobre bloco claro identifica a área do curso.",
+    "A oferta fica em uma área clara e separada das fotografias.",
+    "A imagem do formando com diploma torna visível a ideia de conclusão do percurso."
+  ],
+  "quando_usar": "Captação de matrículas para cursos online com mensalidade e proposta de formação bem definidas.",
+  "estrutura_texto": "Estude [ÁREA]\n[CHAMADA DA OFERTA]\n[VALOR] mensais\n[CTA]\n[IDENTIDADE]",
+  "legenda": "Faça parte de [formação] por R$ [valor]/mês. Estude [conteúdos] em [modalidade] e conheça as condições de acesso em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um mosaico com foto de estudo no alto à esquerda, foto contextual maior à direita e imagem de conclusão na base esquerda. Use fundo claro e azul suave. Coloque o título em um bloco claro e a oferta na base direita, com preço em tom ocre e botão preto. Só use diploma e referências à certificação quando corresponderem à formação real.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "786504166238243",
+    "anunciante": "Academia de Pregadores",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-03-22",
+    "dias_no_ar": 967,
+    "variacoes_ativas": 2,
+    "texto_original": "Nós tomamos uma decisão muito importante aqui na Academia! Decidimos cobrar apenas R$ 10 de mensalidade, um valor simbólico e acessível para você também fazer parte da Maior Escola Teológica Online do Brasil.\n\nChega de incertezas e de superficialidade em relação à Palavra. Você pode garantir sua vaga pagando apenas R$ 10/mês e desfrutar de um ensino profundo, genuíno e verdadeiro das Escrituras.\n\nTorne-se agora um membro e junte-se a mais de 20 mil",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-786504166238243.jpg"
+}

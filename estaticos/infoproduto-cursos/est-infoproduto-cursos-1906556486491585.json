@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1906556486491585",
+  "tipo": "estatico",
+  "titulo": "Catálogo gratuito com lista de profissões",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Título de cursos grátis no topo, três colunas de cursos e ilustrações de profissionais na metade inferior. Uma faixa amarela com o endereço do site fecha a peça.",
+  "por_que_funciona": [
+    "A palavra grátis aparece no título e torna a condição visível.",
+    "As três colunas permitem localizar cursos por nome.",
+    "Os personagens com uniformes reforçam a variedade de áreas.",
+    "A faixa amarela destaca o endereço de acesso."
+  ],
+  "quando_usar": "Para apresentar um catálogo amplo de cursos introdutórios com acesso gratuito e certificado pago informado na legenda.",
+  "estrutura_texto": "CURSOS GRÁTIS ONLINE\n[LISTA DE CURSOS EM TRÊS COLUNAS]\n[MARCA]\n[SITE]",
+  "legenda": "Estude em casa com cursos online de [áreas]. O acesso aos cursos é gratuito; o certificado é opcional e custa a partir de [valor], conforme [carga horária]. Confira as opções e matricule-se em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro, título preto grande no topo e três colunas de nomes de cursos em fonte legível. Inclua ilustrações de profissionais com diferentes uniformes na parte inferior e faixa amarela para o site. A IMAGEM 2 pode orientar as ilustrações. Esclareça eventual cobrança de certificado sem sugerir habilitação profissional automática.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1906556486491585",
+    "anunciante": "Adequa Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-24",
+    "dias_no_ar": 751,
+    "variacoes_ativas": 1,
+    "texto_original": "No Adequa Cursos você encontra centenas de cursos online para estudar em casa. São cursos em várias áreas do saber, incluindo cursos para aprender o básico das profissões.\n\nO Certificado fica pronto na mesma hora para o aluno e pode ser adquirido a valores a partir de R$ 16,90 dependendo da carga horária pretendida.\n\nNão perca tempo. Comece a estudar hoje mesmo. Para mais informações, clique no link do curso para ir ao nosso site e se matricular.\n\nAlguns dos cursos disponíveis em nosso site são:\n• Acompanhante Hospitalar e Cuidador\n• Agente Administrativo\n• Agente Comunitário de Saúde\n• Agente de Combate a Endemias\n• Agente de Alimentação Escolar\n• Agente de Limpeza e Conservação\n• Agente de Limpeza Escolar\n• Auxiliar de Cozinha\n• Auxiliar de Creche\n• Auxiliar de Farmácia\n• Auxiliar de Laboratório\n• Auxiliar de Necropsia\n• Auxiliar de Serviços Gerais\n• Auxiliar de Veterinário\n• Cuidador de Criança Autista\n• Cuidador de Idosos\n• Cuidador Escolar\n• Cuidador Social\n• Doula\n• Encarregado de Limpeza\n• Lavador de Veículos\n• Manicure e Pedicure\n• Manipulador de Alimentos\n• Merendeira Escolar\n• Monitor de Transporte Escolar\n• Operador de Caixa\n• Operador de ETA e ETE\n• Operador de Monitoramento\n• Orientador Social\n• Pizzaiolo\n• Porteiro\n• Recepcionista\n• Salgadeiro\n• Secretariado\n• Tanatopraxia\n• Telemarketing e Call Center\n• Vigia e Porteiro\n• Vigia Noturno\n• Zelador Predial\nAdequa Cursos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1906556486491585.jpg"
+}

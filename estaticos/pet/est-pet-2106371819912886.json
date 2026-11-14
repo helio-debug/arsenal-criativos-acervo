@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2106371819912886",
+  "tipo": "estatico",
+  "titulo": "Dois meses grátis com pet em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo claro com chamada roxa e faixa verde destacando a gratuidade. A foto circular de um cachorro brincando ocupa a metade inferior, junto de um selo de oferta.",
+  "por_que_funciona": [
+    "“2 meses” aparece no maior bloco de texto, tornando o incentivo imediato.",
+    "A faixa verde isola “GRÁTIS” e reforça a leitura da oferta.",
+    "O cachorro com brinquedo contextualiza o plano para pets.",
+    "O rodapé informa a contratação anual e as formas de pagamento elegíveis."
+  ],
+  "quando_usar": "Para planos de saúde pet com incentivo real de contratação anual, em campanhas de conversão.",
+  "estrutura_texto": "[Marca]\n[Quantidade de meses] GRÁTIS\nno [tipo de plano]\n[Selo de oferta]\n*Válido para [prazo e pagamento].",
+  "legenda": "Cuide de [pet] com [plano]. Na contratação de [período], você paga [quantidade] e recebe [quantidade] de cobertura. Consulte [condições] e contrate em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Use fundo creme, letras grandes roxas, faixa verde atrás do benefício e foto do produto da IMAGEM 2 em recorte circular na parte inferior. Inclua um selo lateral e rodapé legível com condições. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Meta: a gratuidade deve ser real e suas condições precisam estar claras. Informe vigência, rede, carências e exclusões do plano veterinário; não prometa cura nem atendimento irrestrito.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2106371819912886",
+    "anunciante": "Petlove",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 1,
+    "texto_original": "Não é só pelo desconto! É pela saúde do seu pet e do seu bolso! São 12 meses de proteção, pagando o precinho de 10.\n12 meses por 10! 🎉\nClique e garanta!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2106371819912886.jpg"
+}

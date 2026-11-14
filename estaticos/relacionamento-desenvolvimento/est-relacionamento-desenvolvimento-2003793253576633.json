@@ -1,0 +1,36 @@
+{
+  "id": "est-relacionamento-desenvolvimento-2003793253576633",
+  "tipo": "estatico",
+  "titulo": "Pergunta espiritual sobre foto de convivência",
+  "formato": "Alerta e educação",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Duas mulheres riem enquanto olham um celular à mesa de um café. Uma faixa branca arredondada apresenta uma pergunta sobre propósito espiritual.",
+  "por_que_funciona": [
+    "A pergunta em primeira pessoa permite refletir sobre propósito sem afirmar a crença de quem vê.",
+    "A faixa branca dá contraste ao texto preto sobre a fotografia.",
+    "A cena de conversa e riso aproxima o tema espiritual de uma situação cotidiana."
+  ],
+  "quando_usar": "Para apresentar conteúdo cristão sobre esperança e propósito a um público interessado no tema.",
+  "estrutura_texto": "[Pergunta em primeira pessoa sobre propósito espiritual]",
+  "legenda": "Conheça [conteúdo] sobre esperança, propósito e relacionamento com [referência de fé]. Clique para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia acolhedora de duas pessoas adultas conversando e sorrindo em um café, com um celular sobre a mesa. A IMAGEM 2 deve orientar a identidade do conteúdo ou serviço, sem inserção artificial de embalagem. Aplique tons quentes e uma faixa branca com cantos arredondados no terço inferior, contendo uma pergunta curta em preto e fonte grande.",
+  "alerta_politica": "Meta: não afirmar nem presumir a religião ou crença de quem vê o anúncio; formular a mensagem como convite ao conteúdo.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2003793253576633",
+    "anunciante": "Hope with God",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-30",
+    "dias_no_ar": 229,
+    "variacoes_ativas": 1,
+    "texto_original": "Clique para saber mais sobre o plano incrível de Deus para sua vida!\nA Esperança de Deus para VOCÊ\nEncontre esperança através de um relacionamento com Jesus Cristo…",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-2003793253576633.jpg"
+}

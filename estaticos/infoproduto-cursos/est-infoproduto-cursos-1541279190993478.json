@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1541279190993478",
+  "tipo": "estatico",
+  "titulo": "Profissional com miniatura de casa e benefícios laterais",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma profissional segura uma miniatura de casa diante de prédios. Selos laterais apresentam o curso e um botão verde convida a pedir informações.",
+  "por_que_funciona": [
+    "A miniatura de casa comunica a área de atuação sem depender da leitura.",
+    "Três faixas laterais resumem modalidade e qualificação.",
+    "O botão central na base destaca a próxima ação.",
+    "Prédios e uma cena de atendimento contextualizam o trabalho."
+  ],
+  "quando_usar": "Para captar interessados em formação técnica na área imobiliária.",
+  "estrutura_texto": "Torne-se [profissão] de [objetivo]\n[qualificação]\n[condição de registro]\n[modalidade das aulas]\nClique agora e saiba mais informações\n[convite à carreira]",
+  "legenda": "Conheça o curso de [formação], com aulas [modalidade] e [característica verificável]. Confira requisitos, duração e condições para atuar em [área]. Fale com [canal] para receber informações.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição com pessoa em traje profissional ao centro segurando objeto simbólico do curso, prédios ao fundo e recortes de atendimento. Use verde, branco e azul, título superior em caixa alta, três faixas de benefícios à esquerda e botão inferior. Use personagem original.",
+  "alerta_politica": "Evite prometer sucesso ou renda garantida. Informe corretamente os requisitos para registro profissional; conclusão de curso e obtenção do registro são etapas distintas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1541279190993478",
+    "anunciante": "Escola São Vicente",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-01",
+    "dias_no_ar": 136,
+    "variacoes_ativas": 1,
+    "texto_original": "💰Você já pensou em ser um corretor de Imóveis de Sucesso e Ganhar 5% de Comissão vendendo Imóveis ?\n.\nO Corretor de Imóveis recebe 5% de Comissão na venda de Imóveis.\n.\nO curso de Corretor de Imóveis é Rápido e Online.\n.\n✅ Se você se interessou e quer Ganhar Dinheiro Vendendo Imóveis, clique agora e saiba mais Informações...\nWHATSAPP\nConverse conosco\nO Curso de Corretor de Imóveis é 100% Online.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1541279190993478.jpg"
+}

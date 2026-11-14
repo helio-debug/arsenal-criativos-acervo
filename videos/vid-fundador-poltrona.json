@@ -1,0 +1,116 @@
+{
+ "id": "vid-fundador-poltrona",
+ "titulo": "Fundador na poltrona: dor do cliente, experiência própria e acompanhamento",
+ "formato_video": "ugc-talking-head",
+ "nichos": [
+  "mentoria-high-ticket",
+  "investimentos",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Problema] costuma aparecer quando [situação concreta].",
+  "texto_tela": "[PROBLEMA CONCRETO]",
+  "visual": "Pessoa de suéter escuro e calça clara sentada de pernas cruzadas; cortina clara e abajur ao fundo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano frontal da poltrona, corpo quase inteiro e legenda branca curta sobre o peito.",
+   "fala": "[Problema] costuma aparecer quando [situação concreta].",
+   "texto_tela": "[PROBLEMA CONCRETO]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Mantém o plano; pequeno ajuste de postura e olhar para a lente.",
+   "fala": "Eu sou [nome], [função]. Trabalhei [tempo comprovado] com [atividade ligada ao problema].",
+   "texto_tela": "[FUNÇÃO]"
+  },
+  {
+   "tempo": "11-17s",
+   "cena": "Mesmo quadro, mãos apoiadas; legenda destaca o aprendizado.",
+   "fala": "Nesse trabalho, vi [erro específico]. Isso me levou a criar [produto].",
+   "texto_tela": "[APRENDIZADO]"
+  },
+  {
+   "tempo": "17-24s",
+   "cena": "Leve gesto com uma mão; mantém cenário e distância da câmera.",
+   "fala": "Com [forma de atendimento ou uso], você recebe [entrega] para avaliar [decisão concreta].",
+   "texto_tela": "[ENTREGA]"
+  },
+  {
+   "tempo": "24-29s",
+   "cena": "Olha diretamente para a lente; legenda acompanha o convite.",
+   "fala": "Clique e agende [conversa] para conhecer o escopo.",
+   "texto_tela": "Conheça o acompanhamento"
+  }
+ ],
+ "por_que_funciona": [
+  "A poltrona e as pernas cruzadas sustentam uma conversa sem deslocamento pelo cenário.",
+  "O abajur aceso e as pequenas maquetes ao fundo dão contexto ao trabalho sem exigir imagens de apoio.",
+  "As legendas brancas de poucas palavras ficam sobre o peito e acompanham os termos da fala.",
+  "A apresentação pessoal vem depois da situação de dificuldade, antes da explicação do acompanhamento."
+ ],
+ "quando_usar": "Para fundadores ou profissionais com experiência comprovável e uma oferta de acompanhamento. Use perto da decisão, quando o público precisa entender quem atende e o que recebe.",
+ "roteiro_modelo": "[Problema] costuma aparecer quando [situação concreta].\n\n[pausa / corte]\n\nEu sou [nome], [função]. Trabalhei [tempo comprovado] com [atividade ligada ao problema].\n\n[pausa / corte]\n\nNesse trabalho, vi [erro específico]. Isso me levou a criar [produto].\n\n[pausa / corte]\n\nCom [forma de atendimento ou uso], você recebe [entrega] para avaliar [decisão concreta].\n\n[pausa / corte]\n\nClique e agende [conversa] para conhecer o escopo.",
+ "tomadas_celular": [
+  "Celular vertical em tripé na altura do peito, plano da cabeça aos pés, luz de janela lateral e cortina difusora; grave 5s da situação inicial.",
+  "Mesmo plano, luz suave também no rosto e abajur ao fundo; grave a apresentação por 6s.",
+  "Plano frontal fixo, mãos apoiadas, mesma luz; grave o aprendizado por 6s.",
+  "Mesmo enquadramento, luz lateral; explique a entrega em 7s com um gesto curto.",
+  "Mesmo quadro e luz; olhe para a lente e grave o convite por 5s."
+ ],
+ "caminho_ia": "Sem gravar, use um avatar autorizado para a fala e um cenário criado no Sora ou Runway. Prompts: \"Vertical 9:16 locked-off full seated shot of a fictional professional in a fabric armchair, crossed legs, pale curtains and warm floor lamp behind, soft side key light on face, neutral office objects related to [product category], no logos, 6 seconds.\" e \"Vertical 9:16 same fictional presenter and armchair, eye-level camera, small natural hand gesture while explaining [product deliverable], soft face lighting, static background, no text, 7 seconds.\" Use voz sintética e legendas brancas no CapCut. Não atribua experiência real ao personagem gerado: a biografia deve ser do responsável autorizado, ou substituída por uma explicação impessoal da oferta.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto como fonte do conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo 9:16 de 29s, quase sem mudança de enquadramento, com uma pessoa sentada numa poltrona. Blocos: 0-5s problema em uma situação concreta; 5-11s função e experiência comprovadas; 11-17s aprendizado e origem da oferta; 17-24s entrega e forma de acompanhamento; 24-29s agendamento. Tom sereno, sem discurso motivacional. Use legendas brancas de poucas palavras sobre o peito, cortina e abajur no fundo. Adapte os objetos ao meu mercado sem copiar o cenário exato. Não invente currículo nem use promessa de impedir erros ou garantir aprovação, captação ou retorno. Se faltar experiência, mantenha o campo pendente para preenchimento. Não copie nomes, rostos, marcas, domínios, números ou falas da referência. Não invente resultados, depoimentos, experiência ou condições comerciais. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias, tríades decorativas ou fechos de efeito. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] oferece [entrega] para apoiar [decisão concreta]. Conheça o escopo, os requisitos e quem faz o acompanhamento. Agende [conversa] em [destino].",
+ "alerta_politica": "Em investimentos, não prometa rentabilidade, aprovação ou captação garantida. Informe riscos e condições; serviços e ofertas sujeitos à CVM exigem o registro ou a autorização aplicável. Se houver crédito ou instituição financeira, observe as normas do Banco Central e informe custos e condições. Na Meta, não atribua ao espectador dificuldade financeira pessoal.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-4a846a56",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-fundador-poltrona/frames/f1.jpg",
+    "videos/vid-fundador-poltrona/frames/f2.jpg",
+    "videos/vid-fundador-poltrona/frames/f3.jpg",
+    "videos/vid-fundador-poltrona/frames/f4.jpg",
+    "videos/vid-fundador-poltrona/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-75281028",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-341b9488",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f56a2434",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-31970299",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

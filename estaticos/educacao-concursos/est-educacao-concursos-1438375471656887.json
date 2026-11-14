@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1438375471656887",
+  "tipo": "estatico",
+  "titulo": "Bolsas regionais com áreas de graduação",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Peça branca com região em letras pretas à esquerda, brasão central e lista de áreas à direita. Faixas curvas coloridas separam um rodapé verde com quantidade de bolsas e cursos.",
+  "por_que_funciona": [
+    "O nome da região em letras grandes delimita a abrangência da oferta.",
+    "As setas verdes organizam a lista de áreas disponíveis.",
+    "O número “58” em grande escala torna a quantidade de bolsas concreta.",
+    "O rodapé verde reúne bolsas parciais e variedade de cursos em uma faixa de oferta."
+  ],
+  "quando_usar": "Para captar interessados em bolsas parciais disponíveis em uma região específica.",
+  "estrutura_texto": "[PROGRAMA]\n[REGIÃO]\nÁreas disponíveis\n[LISTA DE ÁREAS]\nSua Faculdade Agora é Possível\n[QUANTIDADE] BOLSAS PARCIAIS\n+ DE [QUANTIDADE] CURSOS DISPONÍVEIS",
+  "legenda": "Há [quantidade] oportunidades de bolsas parciais para [região]. Consulte as opções de graduação em [áreas], os percentuais de desconto e os critérios de participação. [CTA de inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use formato horizontal com fundo branco, nome da região à esquerda, ilustração regional autorizada no centro e lista de áreas à direita com setas verdes. Crie faixas curvas em amarelo, vermelho e verde sobre um rodapé verde com números brancos grandes. Não replique brasões ou símbolos que sugiram vínculo oficial sem autorização. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1438375471656887",
+    "anunciante": "Brasil Educa Mais",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-02",
+    "dias_no_ar": 135,
+    "variacoes_ativas": 1,
+    "texto_original": "📚Sua Faculdade Agora é Possível!📚\nO Programa Brasil Educa Mais acaba de liberar 58 oportunidades de bolsas parciais para região do Rio Grande do Sul.\nMais de 100 cursos de Graduação.\n\nInscreva-se já e garanta uma das oportunidades!\n\nCURSOS (GRADUAÇÃO) DISPONÍVEIS ✅\n\n📚 DIREITO\n\n📚 EDUCAÇÃO\n📌BACHARELADOS \nCiências Biológicas \nEducação Física (Bacharelado/Licenciatura)\nFilosofia \nFísica \nGeografia \nHistória \nInterdisciplinar em Humanidades \nMatemática\nQuímica \nTeologia \n\n📌LICENCIATURA\nArtes visuais \nCiências Biológicas\nCiências Sociais\nEducação Especial\nEducação Física (Bacharelado/Licenciatura)\nFilosofia\nFísica \nGeografia\nHistória\nLetras - Libras\nLetras - Português e Espanhol \nLetras - Português e Inglês \nLetras - Português e Japonês\nMatemática \nPedagogia \nPedagogia para Licenciados\nQuímica \n\n🧠SAÚDE \n📌BACHARELADOS\nPsicopedagogia\nPsicanálise Biomedicina Farmácia\nNaturologia\nNutrição Terapia Ocupacional \n\n📌 TECNÓLOGOS\nEstética e Cosmética\nGerontologia\nTerapias Integrativas e Complementares\nPodologia\nRadiologia\nGestão da Saúd\n Pública Gestão Hospitalar\n\n📲TECNOLOGIA \n📌 TECNÓLOGOS\nAnálise e Desenvolvimento de Sistemas Banco de Dados\nCiência de Dados\nGestão de Tecnologia da Informação \nCoaching e Mentoring Desenvolvimento Back-End\nDesenvolvimento Mobile Inteligência Artificial Internet das Coisas\nJogos Digitais\nRedes de Computadores\nSegurança da Informação\nSistemas para Internet \nSistemas de Informação\n\n📌 BACHARELADO \nCiências da Computação\n\n👥 SOCIAL \nCiências Políticas\nServiço Social\n\n🦺 SEGURANÇA \nSegurança da Informação\nSegurança do Trabalho\nSegurança no Trânsito\nSegurança Pública\nGestão de Segurança Privada Criminologia\n\n🧑💻 COMUNICAÇÃO \nPublicidade e Propaganda\nRelações Públicas\nRelações Internacionais\nJornalismo\n\n📊GESTÃO E NEGÓCIOS\n📌BACHARELADOS\nAdministração \nAdministração Pública\nCiências Contábeis \nCiências Econômicas\n\n📌TECNÓLOGOS Comércio Exterior \nConciliação, Mediação e Arbitragem \nDesign de Interiores\nDesign de Moda\nDesign de Produto\nDesign Gráfico\nEmpreendedorismo\nEventos\nFotografia \nGastronomia \nGestão Ambiental\nGestão Comercial Gestão de Cooperativas\nGestão de Qualidade\nGestão de Recursos Humanos\nGestão de Segurança Privada\nGestão de Turismo\nGestão Desportiva e de Lazer\nGestão do Agronegócio\nGestão do Terceiro Setor\nGestão Financeira Gestão Pública\nLogística\nMarketing\nMarketing Digital\nNegócios Imobiliários Processos Gerenciais\nProdução Cultura\n\n🛠️ ENGENHARIAS E ARQUITETURA\n📌BACHARELADOS \nEngenharia Ambiental\nEngenharia da Computação\nEngenharia de Produção\nEngenharia de Software\nArquitetura e Urbanismo Engenharia Civil\nEngenharia da Computação \nEngenharia Elétrica\nEngenharia Mecânica\nEngenharia Mecatrônica \n\n📌TECNÓLOGOS\nGestão de Produção Industrial\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1438375471656887.jpg"
+}

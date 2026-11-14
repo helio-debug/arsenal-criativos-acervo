@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1013267944630673",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre documentos médicos com demonstração no celular",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma pessoa segura um celular com um atestado na metade superior. A metade inferior azul traz pergunta sobre validade, explicação em duas colunas, preço da consulta e chamada para baixar o aplicativo; o corpo do documento na tela não está legível.",
+  "por_que_funciona": [
+    "O atestado exibido no celular dá uma referência visual ao assunto da pergunta.",
+    "O título combina azul claro e branco para destacar o tema da validade.",
+    "As duas colunas separam a explicação do documento da apresentação do atendimento.",
+    "Os selos das lojas indicam onde obter o aplicativo."
+  ],
+  "quando_usar": "Para serviços de telemedicina explicarem documentos digitais e esclarecerem dúvidas antes da contratação.",
+  "estrutura_texto": "[Documento médico na tela]\n[Documentos de telemedicina] têm validade?\n[Condições de emissão e verificação]\n[Como funciona a consulta e preço]\nBaixe [aplicativo]\n[Lojas de aplicativos]",
+  "legenda": "Entenda como funcionam [receitas e atestados digitais]. A emissão depende de avaliação médica e deve atender às exigências aplicáveis de identificação e assinatura. Consulte [disponibilidade], [valor] e condições de atendimento em [aplicativo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de uma mão segurando celular em ambiente doméstico na metade superior. Mostre um documento fictício sem dados de pacientes. Na metade inferior, use fundo azul, pergunta grande em branco e azul claro, dois blocos curtos de explicação e CTA para baixar o app. Adicione uma moldura fina de cantos arredondados e identidade própria. Não prometa emissão automática de documentos nem atendimento em prazo garantido.",
+  "alerta_politica": "Observar as regras de publicidade médica e telemedicina do CFM e as políticas Meta para saúde. Não garantir emissão de receita ou atestado, resultado clínico ou tempo de atendimento; documentos dependem de avaliação e requisitos legais de assinatura. Não expor dados de pacientes.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1013267944630673",
+    "anunciante": "Gratus Tecnologia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-03",
+    "dias_no_ar": 134,
+    "variacoes_ativas": 1,
+    "texto_original": "Atendimento médico 24h sem sair de casa por apenas R$ 25,00\nInicie sua consulta em segundos\nA Doutor Social chegou para mudar completamente a forma que a Saúde é tratada e vista no Brasil. - Aqui você fala com nossos médicos em poucos segundos; - Se for necessário, recebe receitas e atestados diretamente no seu email e WhatsApp com validade jurídica em todo o Brasil; - Paga um valor acessível pela consulta e conta com a mesma qualidade das consultas caríssimas; - O atendimento é para todas as idades; - E você pode se consultar de qualquer lugar: pode ser de casa, do trabalho, em uma viagem, não importa. Baixe nosso app agora para quando precisar e a ainda ganhe acesso na hora ao nosso clube de benefícios 100% gratuito com descontos em farmácias, cinemas e centenas de estabelecimentos parceiros espalhados pelo país. E um detalhe, se precisar se consultar agora, estamos 24h, 100% prontos para te atender com a eficiência e qualidade que apenas a Help Global, dona da plataforma Doutor Social possui. Baixe agora nosso app e não deixe de nos seguir aqui no Instagram. #telemedicina #doutorsocial #consultaonline #helpglobal",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1013267944630673.jpg"
+}

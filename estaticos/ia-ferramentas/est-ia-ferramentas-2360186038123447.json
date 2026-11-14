@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-2360186038123447",
+  "tipo": "estatico",
+  "titulo": "Aplicativo financeiro versus planilha manual",
+  "formato": "Comparativo",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Duas colunas contrastam um aplicativo de finanças em fundo preto com uma planilha em fundo branco. Capturas de interface ficam acima de listas com sinais de confirmação e de reprovação.",
+  "por_que_funciona": [
+    "A divisão preto e branco separa imediatamente as alternativas.",
+    "As capturas de interface tornam visível a diferença entre painel e tabela.",
+    "Os quatro pares de argumentos permitem comparar tarefas específicas.",
+    "O selo verde no topo anuncia diretamente a comparação."
+  ],
+  "quando_usar": "Para aplicativos de organização financeira explicarem suas funções a quem usa planilhas.",
+  "estrutura_texto": "[Convite à comparação]\n[Sua solução] | [Alternativa manual]\n[Interface da solução] | [Interface da alternativa]\n✓ [Automação] | × [Trabalho manual]\n✓ [Ajuda disponível] | × [Dificuldade]\n✓ [Monitoramento] | × [Limitação]\n✓ [Personalização] | × [Abandono]",
+  "legenda": "Organize [contas e gastos] com [solução]. Conecte [fontes de dados], acompanhe [informações financeiras] e tire dúvidas por [canal]. Comece com [condição de entrada] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie duas colunas iguais: esquerda escura com detalhes verdes e direita clara com texto preto. Insira interfaces próprias ou demonstrativas na metade superior e quatro pares de critérios abaixo, com checks e cruzes. Coloque um selo de comparação no topo. Evite caricaturar alternativas ou inventar funções.",
+  "alerta_politica": "Finanças: não prometer economia ou resultados garantidos. Sustentar alegações de segurança e integração bancária e tratar dados financeiros com consentimento, conforme LGPD e regras aplicáveis ao Open Finance.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2360186038123447",
+    "anunciante": "Pierre Finance",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-22",
+    "dias_no_ar": 53,
+    "variacoes_ativas": 8,
+    "texto_original": "Converse com seu dinheiro no Wpp 📲\n- Conecte suas contas bancárias via Open Finance\n- Veja saldos, gastos e orçamentos em tempo real\n- 100% seguro, simples e gratuito para começar\n👉 Comece Grátis!\nSuas finanças organizadas em segundos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-2360186038123447.jpg"
+}

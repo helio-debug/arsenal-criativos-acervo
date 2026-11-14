@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-846271957764053",
+  "tipo": "estatico",
+  "titulo": "Especialização sobre foto de prática respiratória",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher sentada em um tapete, de olhos fechados e mãos sobre o peito, aparece diante de cortinas claras. O título branco condensado atravessa a região central, com uma faixa azul inclinada para a modalidade.",
+  "por_que_funciona": [
+    "A postura da pessoa conecta a imagem ao tema da respiração.",
+    "O título condensado em duas linhas grandes domina a leitura.",
+    "A faixa azul diferencia o nível de formação do assunto do curso.",
+    "A linha com modalidade e carga horária reúne dados úteis para avaliar a formação."
+  ],
+  "quando_usar": "Para divulgar especializações a profissionais que precisam avaliar tema, carga horária e formato das aulas.",
+  "estrutura_texto": "[ÁREA DE ESTUDO]\nPÓS-GRADUAÇÃO EM\n[TEMA]\n[MODALIDADE] | [DINÂMICA] · [CARGA HORÁRIA] · [CREDENCIAL COMPROVADA]\n[Proposta do curso]",
+  "legenda": "Aprofunde sua formação em [tema] com uma pós-graduação [modalidade], com [carga horária] e [dinâmica das aulas]. Confira o programa, os requisitos e as informações de certificação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da IMAGEM 2 em tela cheia, com pessoa em prática relacionada ao tema. Aplique sombreado inferior para legibilidade. Sobreponha título branco muito grande em fonte condensada e faixa azul levemente inclinada com o nível de formação. Abaixo, coloque uma linha de modalidade e carga horária, uma descrição curta e a identidade da marca. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Tema relacionado à saúde: não prometa resultados clínicos ou transformação de pacientes. Alegações de reconhecimento acadêmico devem corresponder ao credenciamento e à situação efetiva da instituição e do curso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "846271957764053",
+    "anunciante": "Instituto de Inteligência Existencial",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-26",
+    "dias_no_ar": 353,
+    "variacoes_ativas": 1,
+    "texto_original": "Chegou a hora de transformar a sua carreira e elevar sua prática clínica a um novo patamar!\nA Pós-Graduação em Neurociência da Respiração não é apenas mais um curso — é uma virada de chave profissional, construída com rigor acadêmico, inovação e credibilidade máxima no mercado.\n\n🔥 Somos a ÚNICA especialização da área com encontros 100% Online, Ao Vivo e em tempo real!\nVocê aprende, interage, pratica e tira dúvidas diretamente com especialistas — sem conteúdo engessado e sem aulas gravadas como único recurso.\n\n🎓 Sua formação será realmente de alto nível:\n\n✅ Reconhecimento MEC\nVocê recebe um título de especialista com validade nacional e qualidade institucional garantida.\n\n✅ Corpo Docente de Elite\nMais de 10 professores — Mestres, Doutores e Especialistas — com experiência clínica, pesquisa científica e publicações relevantes nas áreas de neurociência, respiração, trauma, mindfulness e saúde integrativa.\n\n✅ Métodos Globais Validados\nDomine os protocolos mais respeitados no mundo:\n• Método Buteyko\n• Wim Hof Method\n• Respiração Holotrópica\n• Low Pressure Fitness\ne outros métodos contemporâneos e tradicionais que ampliam sua atuação terapêutica.\n\n📚 Carga Horária Completa\n\n360 horas de formação profunda, prática e aplicável.\n\nVocê aprenderá a unir a Neurociência moderna com práticas respiratórias tradicionais, construindo uma abordagem realmente integrativa e baseada em evidências — capaz de transformar vidas e ampliar seu impacto profissional.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-846271957764053.jpg"
+}

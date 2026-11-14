@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1075171465447224",
+  "tipo": "estatico",
+  "titulo": "Guia gratuito com número de ideias em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Um painel verde-limão reúne a chamada de um guia com 35 ideias e um botão rosa de download. À direita, uma mulher sorrindo segura uma maquininha.",
+  "por_que_funciona": [
+    "O número 35 em rosa define uma quantidade concreta de ideias oferecidas.",
+    "O selo “guia prático” identifica o tipo de material antes da chamada principal.",
+    "O botão “Baixar grátis” explicita a ação e o custo de acesso.",
+    "A pessoa segurando a maquininha conecta a oferta a uma atividade comercial visível."
+  ],
+  "quando_usar": "Para captar interessados em conteúdo introdutório sobre atividades de renda extra com um material gratuito.",
+  "estrutura_texto": "[Guia prático]\n[Número de formas] de [objetivo]\n[Breve descrição do conteúdo e uso]\n[Baixar grátis]",
+  "legenda": "Baixe grátis [nome do guia] e conheça [quantidade] ideias de [atividade]. Veja sugestões práticas para avaliar quais opções combinam com [tempo disponível e recursos]. Acesse em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde vivo com faixas diagonais verde-limão nas extremidades. Monte um painel central arredondado com texto à esquerda e uma pessoa segurando o produto da IMAGEM 2 à direita. Destaque a quantidade de ideias em rosa, use letras pretas grandes no título e um botão rosa com chamada para baixar gratuitamente. Não prometa ganhos garantidos. Adapte a mensagem aos dados de MEU PRODUTO, sem inventar benefícios ou condições. Escreva em pt-BR e preserve a legibilidade.",
+  "alerta_politica": "Meta: ideias de renda extra não devem ser apresentadas como garantia de ganhos. O material anunciado como gratuito deve estar disponível nas condições informadas, com coleta de dados transparente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1075171465447224",
+    "anunciante": "Ton",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-11",
+    "dias_no_ar": 95,
+    "variacoes_ativas": 1,
+    "texto_original": "Baixe o guia com ideias práticas para tirar do papel e ganhar dinheiro. 100% grátis!\n35 ideias para ganhar dinheiro: guia prático\nDescubra estratégias simples para faturar no seu tempo livre. Sem enrolação e direto ao ponto. Acesse já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1075171465447224.jpg"
+}

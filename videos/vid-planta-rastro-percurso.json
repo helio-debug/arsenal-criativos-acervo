@@ -1,0 +1,74 @@
+{
+ "id": "vid-planta-rastro-percurso",
+ "tipo": "video",
+ "titulo": "Ponto na planta acompanha o percurso real por dentro do imóvel",
+ "formato_video": "planta-sincronizada",
+ "nichos": [
+  "imoveis"
+ ],
+ "tipo_solucao": "imovel",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Da entrada até [cômodo], olha como é o caminho.",
+  "texto_tela": "Acompanhe pela planta",
+  "visual": "Planta ocupa o canto enquanto a porta abre."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Planta ocupa o canto enquanto a porta abre.",
+   "fala": "Da entrada até [cômodo], olha como é o caminho.",
+   "texto_tela": "Acompanhe pela planta"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Câmera passa de um ambiente a outro e o ponto avança.",
+   "fala": "Aqui ficam [ambientes], ligados por [circulação real].",
+   "texto_tela": "[Área e distribuição]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Pausa no acesso mais estreito e mantém a planta.",
+   "fala": "Essa passagem mede [medida conferida]. O desenho mostra [posição do ambiente].",
+   "texto_tela": "Medidas verificadas"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Ponto chega ao final e abre tela de visita.",
+   "fala": "Quer conferir a circulação ao vivo? Agende uma visita a [imóvel].",
+   "texto_tela": "Agende sua visita"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Planta ocupa o canto enquanto a porta abre.",
+  "O desenvolvimento mantém a informação ligada à imagem: Câmera passa de um ambiente a outro e o ponto avança.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Pausa no acesso mais estreito e mantém a planta."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho imoveis, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Da entrada até [cômodo], olha como é o caminho. [Manter na tela: Acompanhe pela planta]\n4-11s | Aqui ficam [ambientes], ligados por [circulação real]. [Manter na tela: [Área e distribuição]]\n11-19s | Essa passagem mede [medida conferida]. O desenho mostra [posição do ambiente]. [Manter na tela: Medidas verificadas]\n19-27s | Quer conferir a circulação ao vivo? Agende uma visita a [imóvel]. [Manter na tela: Agende sua visita]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Planta ocupa o canto enquanto a porta abre.",
+  "Plano próximo sem reflexos; travar foco e exposição: Câmera passa de um ambiente a outro e o ponto avança.",
+  "Plano de detalhe legível, sem zoom digital: Pausa no acesso mais estreito e mantém a planta.",
+  "Plano final estável, com área livre para legenda e botão: Ponto chega ao final e abre tela de visita.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Planta ocupa o canto enquanto a porta abre. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Câmera passa de um ambiente a outro e o ponto avança. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Ponto na planta acompanha o percurso real por dentro do imóvel, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Planta ocupa o canto enquanto a porta abre. Depois, Câmera passa de um ambiente a outro e o ponto avança. Depois, Pausa no acesso mais estreito e mantém a planta. Depois, Ponto chega ao final e abre tela de visita. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Informar identificação profissional e condições reais da unidade. Não prometer aprovação de financiamento ou subsídio. Exibir valores, disponibilidade e imagens fiéis; perspectivas e decoração virtual devem ser identificadas.",
+ "legenda": "Quer conferir a circulação ao vivo? Agende uma visita a [imóvel]. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Informar identificação profissional e condições reais da unidade. Não prometer aprovação de financiamento ou subsídio. Exibir valores, disponibilidade e imagens fiéis; perspectivas e decoração virtual devem ser identificadas.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1083097967377784",
+   "dias_no_ar": 110,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/imoveis/apartamento-a-venda/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

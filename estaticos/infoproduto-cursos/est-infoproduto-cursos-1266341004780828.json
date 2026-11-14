@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1266341004780828",
+  "tipo": "estatico",
+  "titulo": "Pós online com retrato e parcela em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul escuro com título branco, faixa laranja de prazo e retrato de estudante à direita. Um bloco azul vivo destaca o parcelamento e um botão laranja fecha a oferta.",
+  "por_que_funciona": [
+    "O título branco grande explicita a modalidade online.",
+    "A faixa laranja isola o prazo de conclusão.",
+    "O bloco azul reserva grande área para o valor da parcela.",
+    "O retrato à direita dá presença humana à composição."
+  ],
+  "quando_usar": "Para campanhas de matrícula com preço parcelado e condições de conclusão claramente definidas.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[PÓS-GRADUAÇÃO ONLINE]\n[CONCLUA EM PRAZO]\n[MODALIDADE E BENEFÍCIO]\nPor apenas: [NÚMERO DE PARCELAS]x R$ [VALOR]\n[MEIO DE PAGAMENTO]\n[CTA]",
+  "legenda": "Estude [área] em uma pós-graduação [modalidade]. Confira [cursos], [condições de conclusão] e pagamento em [parcelas] de [valor]. Consulte os requisitos e faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul escuro, título branco no alto à esquerda, faixa laranja para o prazo e retrato de estudante na metade direita. Use a IMAGEM 2 como foto de apoio. Destaque preço em bloco azul vivo no canto inferior esquerdo e CTA laranja. Mostre número de parcelas e condições sem prometer emprego.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1266341004780828",
+    "anunciante": "Prisma Pós Ead",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-09-09",
+    "dias_no_ar": 796,
+    "variacoes_ativas": 7,
+    "texto_original": "A FACPRISMA, fundada pela diretora pedagógica Rosy Prisma, já conquistou milhares de brasileiros que querem ver a vida com um novo Prisma.\nPós-Graduação 100% Online: destaque-se no mercado de trabalho com  com a FACPRISMA.\n\n✅ Mais de 2 mil cursos\n✅ TCC opcional\n✅ Conclusão a partir de 3 meses\n✅ Cursos reconhecidos pelo MEC\nCondição especial para os 100 primeiros inscritos\nPÓS-GRADUAÇÃO FACPRISMA",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1266341004780828.jpg"
+}

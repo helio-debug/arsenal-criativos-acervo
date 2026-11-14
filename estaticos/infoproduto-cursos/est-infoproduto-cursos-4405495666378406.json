@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-4405495666378406",
+  "tipo": "estatico",
+  "titulo": "Post sobre preparo para receber casos complexos",
+  "formato": "Post e comentários",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1.91:1",
+  "descricao": "Em fundo branco, um cabeçalho de perfil antecede duas passagens de texto preto. A mensagem conecta o desejo de atrair clientes ao preparo para conduzir os casos.",
+  "por_que_funciona": [
+    "O cabeçalho de perfil aproxima a peça de um post editorial.",
+    "A referência ao advogado delimita o público da mensagem.",
+    "O segundo bloco liga a atração de clientes ao preparo para os casos.",
+    "O espaço em branco separa as duas ideias e deixa o texto como foco."
+  ],
+  "quando_usar": "Para divulgar conteúdo ou formação prática a profissionais que desejam assumir casos mais exigentes.",
+  "estrutura_texto": "[NOME DO PERFIL]\n[IDENTIFICAÇÃO]\nÀs vezes [PROFISSIONAL] não precisa de mais [DEMANDA].\nPrecisa [PREPARO NECESSÁRIO]\npara [OBJETIVO PROFISSIONAL].",
+  "legenda": "Assumir novos casos em [área] exige preparo para analisar documentos, esclarecer informações e escolher por onde começar. Conheça [formação] e veja como o estudo de [casos práticos] pode apoiar sua atuação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um post minimalista de fundo branco com avatar circular derivado da IMAGEM 2, nome de perfil e identificação no topo. Distribua a mensagem em dois blocos pretos separados por amplo espaço, com alinhamento à esquerda. Preserve a aparência editorial sem inventar verificação ou métricas sociais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4405495666378406",
+    "anunciante": "MDI - Manual de Direito Imobiliário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-28",
+    "dias_no_ar": 47,
+    "variacoes_ativas": 1,
+    "texto_original": "Tem advogado que quer crescer no Direito Imobiliário, mas ainda não prospecta como poderia.\n\nNão necessariamente porque não sabe vender.\n\nMas porque existe uma pergunta silenciosa:\n\n“Se esse cliente chegar, eu vou saber o que fazer com o caso?”\n\nE isso muda tudo.\n\nPorque uma coisa é estudar usucapião, adjudicação, inventário, retificação.\n\nOutra é receber uma história real, com documentos incompletos, informações confusas e mais de um caminho possível e conseguir decidir por onde começar.\n\nÉ por isso que segurança profissional não vem apenas de acumular conteúdo.\n\nEla vem de desenvolver raciocínio, diagnóstico e capacidade de condução.\n\nQuando o advogado confia mais no próprio julgamento, ele também passa a se sentir mais preparado para buscar as oportunidades que antes evitava.\n\nProcedimento se aprende. Diagnóstico se desenvolve.\n\nMentoria Individual MDI — link na bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-4405495666378406.jpg"
+}

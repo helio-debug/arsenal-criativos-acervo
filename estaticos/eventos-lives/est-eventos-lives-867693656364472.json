@@ -1,0 +1,36 @@
+{
+  "id": "est-eventos-lives-867693656364472",
+  "tipo": "estatico",
+  "titulo": "Transmissão esportiva com elenco em colagem",
+  "formato": "Produto em destaque",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Colagem de jogadores em torno de uma chamada central para assistir a um campeonato. Fundo azul e verde, moldura luminosa e identificação do plano no rodapé.",
+  "por_que_funciona": [
+    "O texto branco condensado ocupa o centro e torna o campeonato o foco da leitura.",
+    "Jogadores com uniformes diferentes mostram a variedade de times da competição.",
+    "O rodapé reúne serviço e plano, indicando onde encontrar a transmissão."
+  ],
+  "quando_usar": "Para serviços de transmissão divulgarem uma competição disponível no catálogo.",
+  "estrutura_texto": "[ASSISTA O] [CAMPEONATO] [NO SERVIÇO]\n[SERVIÇO] no [PLATAFORMA]\n[PLANO]",
+  "legenda": "Assista a [jogos ou eventos] ao vivo em [serviço], no [plano] de [plataforma].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul com gradientes verdes, moldura fina luminosa e colagem de participantes autorizados em diferentes escalas. Centralize uma chamada branca alta e condensada; reserve o rodapé para serviço e plano. Use apenas imagens e identidades com direito de uso.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "867693656364472",
+    "anunciante": "Disney+",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-14",
+    "dias_no_ar": 31,
+    "variacoes_ativas": 1,
+    "texto_original": "Assista a todos os jogos da Premier League ao vivo pela ESPN no plano Premium do Disney+.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-867693656364472.jpg"
+}

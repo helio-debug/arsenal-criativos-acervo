@@ -1,0 +1,116 @@
+{
+ "id": "vid-fala-cards-combo",
+ "formato_video": "catalogo-produto",
+ "nichos": [
+  "educacao-concursos",
+  "infoproduto-cursos",
+  "ia-ferramentas"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "kit-combo",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Apresentador com cards de combo e competências na tela",
+ "duracao": "50-60s",
+ "por_que_funciona": [
+  "O blazer claro se destaca do fundo escuro com barras azuis, mantendo o apresentador legível no plano médio.",
+  "O card horizontal aparece sobre o peito enquanto a fala apresenta o combo, dando um objeto visual à oferta.",
+  "O título branco grande sobre aplicação acompanha a passagem da explicação do curso para o uso profissional.",
+  "O destaque grande de início imediato ocupa o centro perto do fechamento e reforça a informação de acesso dita na fala."
+ ],
+ "quando_usar": "Para cursos, formações e treinamentos de ferramentas vendidos em combo, com conteúdos complementares. Use quando o público precisa comparar a grade e entender a aplicação antes da matrícula.",
+ "tomadas_celular": [
+  "Plano médio com celular fixo, luz de janela frontal e luminária azul no fundo escuro, 7s; introduzir tarefas relacionadas.",
+  "Plano próximo com a mesma luz, deixando espaço sobre o peito para o card, 9s; apresentar combo e conteúdo.",
+  "Plano médio com luz frontal suave e fundo azul, 9s; explicar um exercício com gestos.",
+  "Plano próximo do tronco e rosto, mesma luz, 11s; detalhar as duas competências.",
+  "Plano médio fixo, janela frontal e fundo sem objetos legíveis, 11s; explicar público e pré-requisitos.",
+  "Plano próximo, mesma luz e mãos abertas abaixo do rosto, 9s; informar prazo de acesso e CTA."
+ ],
+ "caminho_ia": "Use avatar com voz em pt-BR para a apresentação e Runway para gerar o fundo, sem precisar gravar. Monte um card original do combo no CapCut e alterne recortes médios e próximos. Prompts: \"Vertical 9:16 medium shot of a fictional adult presenter in a plain light gray blazer and dark shirt, dark studio with vertical blue LED bars on left, soft frontal key light, clear chest area for [course bundle] overlay, no logos, no text.\" e \"Vertical 9:16 chest-up presenter shot, same fictional character and blue-lit studio, small explanatory hand gestures, static camera, soft frontal lighting, clean central space for [access information], no text.\"",
+ "legenda": "O combo [nome] reúne [conteúdo A] e [conteúdo B]. Veja a grade, os materiais incluídos e o prazo de acesso. As condições de matrícula estão no botão.",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Na rotina de [público], [tarefa A] costuma aparecer junto de [tarefa B]. Dá pra estudar as duas com exemplos conectados.",
+  "texto_tela": "[Tarefa A] + [Tarefa B]",
+  "visual": "Plano médio de apresentador com blazer liso; fundo escuro e barras azuis laterais. Legenda branca pequena."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano médio de apresentador com blazer liso; fundo escuro e barras azuis laterais. Legenda branca pequena.",
+   "fala": "Na rotina de [público], [tarefa A] costuma aparecer junto de [tarefa B]. Dá pra estudar as duas com exemplos conectados.",
+   "texto_tela": "[Tarefa A] + [Tarefa B]"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Aproximar o quadro e inserir card horizontal do combo sobre o peito, sem cobrir o rosto.",
+   "fala": "O [nome do combo] reúne [conteúdo A] e [conteúdo B] em um acesso. Você encontra [formato das aulas] e [material incluído].",
+   "texto_tela": "[Nome do combo] | [Conteúdos]"
+  },
+  {
+   "tempo": "16-25s",
+   "cena": "Voltar ao plano médio; título branco grande no centro e legenda menor abaixo.",
+   "fala": "Você acompanha [exemplo de aplicação] e depois pratica com [exercício disponível]. Cada etapa mostra como usar o conteúdo em [situação concreta].",
+   "texto_tela": "[Aplicação prática]"
+  },
+  {
+   "tempo": "25-36s",
+   "cena": "Plano próximo do rosto e tronco, mãos pontuando cada explicação.",
+   "fala": "Em [conteúdo A], o foco é [competência A]. Em [conteúdo B], você trabalha [competência B]. O material permite [forma real de consulta ou prática].",
+   "texto_tela": "[Competência A] / [Competência B]"
+  },
+  {
+   "tempo": "36-47s",
+   "cena": "Plano médio, retirar o card e manter legenda branca junto da base do tronco.",
+   "fala": "Serve pra [público] que precisa de [objetivo de aprendizagem]. Confira [pré-requisito] e veja se os conteúdos correspondem ao que você procura.",
+   "texto_tela": "Para [público]"
+  },
+  {
+   "tempo": "47-56s",
+   "cena": "Plano próximo com título branco grande de acesso no centro e mãos abertas.",
+   "fala": "O acesso começa em [prazo real]. Clique pra ver a grade completa, o valor e as condições do combo [nome].",
+   "texto_tela": "Acesso em [prazo] | Veja a grade"
+  }
+ ],
+ "roteiro_modelo": "Na rotina de [público], [tarefa A] costuma aparecer junto de [tarefa B]. Dá pra estudar as duas com exemplos conectados.\n\n[Pausa / corte]\n\nO [nome do combo] reúne [conteúdo A] e [conteúdo B] em um acesso. Você encontra [formato das aulas] e [material incluído].\n\n[Pausa / corte]\n\nVocê acompanha [exemplo de aplicação] e depois pratica com [exercício disponível]. Cada etapa mostra como usar o conteúdo em [situação concreta].\n\n[Pausa / corte]\n\nEm [conteúdo A], o foco é [competência A]. Em [conteúdo B], você trabalha [competência B]. O material permite [forma real de consulta ou prática].\n\n[Pausa / corte]\n\nServe pra [público] que precisa de [objetivo de aprendizagem]. Confira [pré-requisito] e veja se os conteúdos correspondem ao que você procura.\n\n[Pausa / corte]\n\nO acesso começa em [prazo real]. Clique pra ver a grade completa, o valor e as condições do combo [nome].",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meus dados para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie apresentação de 56 segundos em seis blocos: tarefas complementares, card do combo, exercício aplicado, competências, público e pré-requisitos, prazo de acesso e CTA. Tom profissional direto, ritmo moderado. Alterne plano médio e próximo; legenda branca pequena, card sobre o peito e dois títulos brancos grandes. Não copie professores, retratos, marca, endereço, área profissional nem alegações de demanda ou faturamento da referência. Use apenas conteúdos, condições e credenciais fornecidos. Substitua lacunas por [colchetes] quando faltar informação. Entregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-2cd1394b",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-fala-cards-combo/frames/f1.jpg",
+    "videos/vid-fala-cards-combo/frames/f2.jpg",
+    "videos/vid-fala-cards-combo/frames/f3.jpg",
+    "videos/vid-fala-cards-combo/frames/f4.jpg",
+    "videos/vid-fala-cards-combo/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e1c93dc0",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d14578a2",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-9272c364",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

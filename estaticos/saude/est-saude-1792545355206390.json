@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1792545355206390",
+  "tipo": "estatico",
+  "titulo": "Selfie em farmácia anuncia ranking de produtos",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher faz uma selfie no corredor de uma farmácia. Duas caixas brancas com texto preto anunciam a avaliação de cinco fitoterápicos e um ranking.",
+  "por_que_funciona": [
+    "As prateleiras de farmácia contextualizam o assunto.",
+    "O número cinco delimita a quantidade de itens avaliados.",
+    "As caixas brancas destacam a chamada sobre a foto.",
+    "O enquadramento de selfie aproxima a apresentação de um conteúdo pessoal."
+  ],
+  "quando_usar": "Para introduzir conteúdo educativo comparando uma categoria por critérios transparentes e fontes identificáveis.",
+  "estrutura_texto": "[Emoji opcional] Avaliei [número]\n[produtos da categoria] para\n[tema].\nEsse foi o meu [ranking/comparativo].",
+  "legenda": "Como comparar [categoria]? Avaliei [número] opções considerando [critérios verificáveis]. Confira a análise e suas limitações em [destino]. Conteúdo educativo; a escolha de tratamento exige orientação individual.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical espontânea de uma pessoa em corredor de farmácia, com prateleiras ao fundo. Na metade inferior, sobreponha duas caixas brancas arredondadas com texto preto forte, anunciando uma avaliação de [número] opções e um comparativo. Use a IMAGEM 2 como apoio discreto, sem sugerir endosso profissional ou resultado clínico. Não invente ranking, credenciais ou evidências.",
+  "alerta_politica": "Meta: não atribuir condições de saúde ao público nem prometer cura ou resultados garantidos. ANVISA: divulgar apenas indicações e alegações autorizadas para a categoria e o registro do produto; não apresentar suplemento como tratamento de doenças. Se houver profissional de saúde identificável, observar também as regras do conselho competente; não simular credenciais nem transformar conteúdo educativo em prescrição individual.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1792545355206390",
+    "anunciante": "Franciele Santos Mateus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-14",
+    "dias_no_ar": 61,
+    "variacoes_ativas": 1,
+    "texto_original": "🌿 Qual o melhor fitoterápico para ansiedade?\n\nRecebo essa pergunta com frequência no consultório e, por isso, resolvi fazer uma análise técnica de alguns dos fitoterápicos mais encontrados nas farmácias.\n\nNeste ranking, considerei critérios como qualidade da formulação, padronização do extrato, evidências científicas disponíveis, custo-benefício e minha experiência clínica.\n\n⚠️ Importante: este conteúdo tem finalidade exclusivamente educativa e informativa. As notas apresentadas refletem uma análise técnica e não configuram propaganda, publicidade, recomendação de compra, prescrição médica ou desqualificação de qualquer marca.\n\nCada organismo responde de uma forma. O melhor tratamento depende da história clínica, dos sintomas, das doenças associadas e dos medicamentos em uso. Além disso, fitoterápicos também possuem contraindicações, efeitos adversos e interações medicamentosas, por isso devem ser utilizados com orientação profissional.\n\nSe você sofre com ansiedade frequente, lembre-se: o tratamento vai muito além de um único produto. Sono, alimentação, atividade física, manejo do estresse e, quando necessário, acompanhamento médico e psicológico fazem parte da abordagem.\n\nDra. Franciele Santos Mateus CRM/SP: 250.213\n\nMe segue: @dra.francielemateus",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1792545355206390.jpg"
+}

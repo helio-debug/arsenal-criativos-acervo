@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-895592773153390",
+  "tipo": "estatico",
+  "titulo": "Bolsa por nota de exame em cartão de notícia",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Um cartão branco com cabeçalho amarelo apresenta uma oferta de bolsas como notícia. O fundo azul traz a palavra do exame em contorno e o cartão termina com botão amarelo.",
+  "por_que_funciona": [
+    "O rótulo “NOTÍCIA” enquadra a oferta como atualização.",
+    "O percentual na manchete explicita o benefício.",
+    "A lista de áreas mostra a abrangência dos cursos.",
+    "O botão amarelo se destaca na base do cartão branco."
+  ],
+  "quando_usar": "Para instituições divulgarem bolsas de graduação e direcionarem interessados à consulta de critérios.",
+  "estrutura_texto": "NOTÍCIA\n[INSTITUIÇÃO] oferece bolsas de até [PERCENTUAL] com a nota do [EXAME]\n[COMO CONSULTAR E CRITÉRIOS]\n[ÁREAS DE CURSO]\nSAIBA MAIS",
+  "legenda": "Sua nota do [exame] pode ser usada para concorrer a bolsas em [instituição]. Consulte [ferramenta ou canal] para verificar cursos, percentuais e critérios. Faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul vivo com tipografia de contorno ampliada na parte inferior. Centralize cartão branco arredondado com leve sombra azul, cabeçalho amarelo identificado como comunicado da instituição, manchete azul grande e parágrafo explicativo menor. Inclua lista curta de áreas e botão amarelo com CTA azul. Mantenha critérios legíveis e não simule veículo jornalístico independente.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "895592773153390",
+    "anunciante": "PUC Goiás",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-16",
+    "dias_no_ar": 302,
+    "variacoes_ativas": 3,
+    "texto_original": "A nota do Enem já está disponível, e este é o momento ideal para planejar seu futuro acadêmico.\n\nNa PUC Goiás, você pode utilizar sua pontuação para concorrer a bolsas e iniciar sua graduação em uma universidade reconhecida pela excelência.\n➡️Aproveite esta oportunidade e faça sua inscrição. Seu próximo passo começa aqui.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-895592773153390.jpg"
+}

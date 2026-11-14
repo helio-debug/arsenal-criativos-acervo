@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1303293001946149",
+  "tipo": "estatico",
+  "titulo": "Campanha sazonal com preço do primeiro mês",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Anúncio azul com painel promocional à esquerda e porta-voz à direita. O valor do primeiro mês domina o painel, acompanhado de cupom, carro na base e faixas diagonais da campanha sazonal.",
+  "por_que_funciona": [
+    "O preço em fonte alta é o maior elemento textual do painel.",
+    "A frase logo abaixo delimita a condição ao primeiro mês.",
+    "As faixas diagonais repetem o evento promocional.",
+    "O cupom em cápsula preta mantém o código destacado."
+  ],
+  "quando_usar": "Para campanha sazonal de seguro com desconto inicial, prazo e elegibilidade definidos.",
+  "estrutura_texto": "[Marca]\n[Evento promocional]\n[Descrição da cobertura e elegibilidade]\n[Preço]\nNo primeiro mês\nCupom [código]\n[Prazo e limite de clientes]",
+  "legenda": "[Evento promocional]: contrate [seguro] pelo celular e tenha [condição] no primeiro mês com [cupom]. Oferta válida para [público e limite]. Confira [coberturas e valor após a promoção] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada azul com textura leve, painel retangular de cantos arredondados à esquerda e porta-voz autorizado à direita apontando para a oferta. Use título de campanha e preço em tipografia branca condensada, linha rosa sob o valor, cápsula preta para cupom e imagem do bem na base. Inclua faixas diagonais nas bordas e condições promocionais legíveis. Não prometa cobertura universal sem comprovação.",
+  "alerta_politica": "Meta: evite alegações enganosas e superlativos de preço sem comprovação. Informe condições de adesão, vigência, elegibilidade e cobertura; diferencie taxa de adesão de mensalidade. Use apenas depoimentos e imagens de pessoas com autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1303293001946149",
+    "anunciante": "Loovi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-26",
+    "dias_no_ar": 202,
+    "variacoes_ativas": 7,
+    "texto_original": "O seguro de carro do Neymar! 100% rápido para contratar, online e direto no seu celular.",
+    "origem_coleta": "acervo:loovi"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1303293001946149.jpg"
+}

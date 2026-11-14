@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2005755863411737",
+  "tipo": "estatico",
+  "titulo": "Capacitação técnica com material de apoio em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical azul-escura com título no alto, sigla colorida e livro em perspectiva à direita. Três blocos com ícones descrevem o conteúdo e dois selos inferiores apresentam apostila e certificado.",
+  "por_que_funciona": [
+    "A sigla em letras grandes e coloridas identifica o tema da capacitação.",
+    "O livro em perspectiva dá uma representação visual ao conteúdo técnico.",
+    "Os três blocos descrevem etapas específicas do aprendizado.",
+    "Apostila e certificado aparecem em caixas próprias no rodapé."
+  ],
+  "quando_usar": "Para apresentar uma capacitação especializada a profissionais que já conhecem o instrumento ou a área.",
+  "estrutura_texto": "[MODALIDADE] | [TIPO DE AULA]\nDomine [COMPETÊNCIA]\n[SIGLA OU TEMA]\nAprenda [APLICAÇÕES]\n[ESCOPO DA FORMAÇÃO]\n[FOCO TÉCNICO]\n[QUANTIDADE DE AULAS]\n[MATERIAL DE APOIO]\n[CERTIFICADO]",
+  "legenda": "Aprenda [competência técnica] em uma formação com [quantidade de aulas]. O conteúdo percorre [etapas do processo], com [material de apoio] e [certificado]. Consulte [pré-requisitos] e o programa em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com fundo azul-marinho e título branco no alto à esquerda. Destaque a sigla do tema em três cores. Posicione o material da IMAGEM 2 em perspectiva à direita, com três blocos de conteúdo e ícones à esquerda. No rodapé, crie duas caixas para material de apoio e certificado. Não invente capa, autoria ou credenciamento.",
+  "alerta_politica": "Meta e normas profissionais: anuncie capacitação sem prometer diagnóstico infalível ou habilitação automática. Aplicação de testes psicológicos exige profissional habilitado e observância das normas do CFP e do SATEPSI.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2005755863411737",
+    "anunciante": "ElloCursos Psicologia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-24",
+    "dias_no_ar": 174,
+    "variacoes_ativas": 1,
+    "texto_original": "Neste curso, você aprende a utilizar o HTP de forma técnica e estruturada dentro da avaliação psicológica, compreendendo os fundamentos do instrumento, o setting de aplicação, a postura do avaliador e as instruções necessárias para condução do processo.\n\nA capacitação percorre desde a aplicação e o inquérito até a análise gráfica formal, leitura clínica dos desenhos e integração dos dados do caso.\n\n🎯 Você vai aprender:\n📍 Fundamentos essenciais para aplicação do HTP\n📍 Setting, postura do avaliador e instruções\n📍 Aplicação do HTP e condução do inquérito\n📍 Integração clínica, ética e devolutiva\n\nCurso 100% online, com aulas gravadas, apostila de apoio e certificado.\n\n💬 Clique em saiba mais e conheça o conteúdo completo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2005755863411737.jpg"
+}

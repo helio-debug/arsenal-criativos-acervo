@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1645954543818777",
+  "tipo": "estatico",
+  "titulo": "Ingresso com preço de entrada em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça bege com texto e setas laranja. A chamada de ingresso sem exame aparece acima de um preço grande, limitado ao primeiro mês, com condições em letras pequenas no rodapé.",
+  "por_que_funciona": [
+    "O valor “79” é o maior elemento e concentra a atenção na oferta.",
+    "“No 1º mês” delimita visualmente o período do preço.",
+    "A chamada curta apresenta a condição de ingresso antes do preço.",
+    "O uso de uma única cor forte mantém título, preço e assinatura coesos."
+  ],
+  "quando_usar": "Para divulgar uma condição de entrada em cursos, com preço inicial e regras claramente informados.",
+  "estrutura_texto": "[Curso ou formação] sem [exame].\nApenas R$ [valor]*\nno [período]\n[Assinatura da marca]\n*Consulte [condições] em [canal]",
+  "legenda": "Conheça as condições de ingresso em [curso] e escolha entre [modalidades disponíveis]. Consulte [bolsas ou condições de pagamento], os critérios de elegibilidade e os valores para o seu curso em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo bege levemente texturizado, textos laranja e pequenas setas decorativas. Centralize chamada curta no alto e preço muito grande no meio, com moeda menor à esquerda e período logo abaixo. Inclua assinatura e condições legíveis no rodapé e uma pequena foto do produto como apoio. Evite confundir preço inicial com mensalidade recorrente.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1645954543818777",
+    "anunciante": "Anhanguera Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 1,
+    "texto_original": "Use sua nota do Enem e garanta bolsa de até 100% para estudar no formato que combina com você.\nUse sua nota e ganhe bolsa\nUse sua nota do Enem e garanta bolsa de até 100% para estudar no formato que combina com sua rotina: EAD, semipresencial ou presencial.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1645954543818777.jpg"
+}

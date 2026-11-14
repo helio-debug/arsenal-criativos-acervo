@@ -1,0 +1,102 @@
+{
+ "id": "vid-assistente-entrevista-documento",
+ "titulo": "Gravação de tela: assistente faz perguntas e transforma respostas em documento",
+ "formato_video": "screencast-prova",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "servicos-locais",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "90-110s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Vou mostrar como [produto] usa suas respostas para montar [entrega].",
+  "texto_tela": "[Comando de início] na própria interface, sem cartela externa.",
+  "visual": "Navegador em tela cheia com conversa escura; comando e primeira resposta no centro, sem apresentador visível."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-10s",
+   "cena": "Tela inteira da conversa em interface escura. Cursor sobre o comando de início.",
+   "fala": "Vou mostrar como [produto] usa suas respostas para montar [entrega]. Vou usar um exemplo fictício de [situação] e abrir o arquivo que ele produz no final.",
+   "texto_tela": "[Comando de início]"
+  },
+  {
+   "tempo": "10-27s",
+   "cena": "Digitar o comando e mostrar a primeira pergunta. Aproximar a área útil no editor.",
+   "fala": "Eu começo com [comando ou ação]. A primeira pergunta é sobre [informação básica]. Respondo com [resposta de exemplo]. Isso define qual trabalho o produto vai fazer e o que precisa aparecer na entrega.",
+   "texto_tela": "[Primeira pergunta]"
+  },
+  {
+   "tempo": "27-44s",
+   "cena": "Mostrar pergunta seguinte e preenchimento; cortar o tempo de digitação.",
+   "fala": "Depois ele pede [segunda informação]. Eu informo [resposta curta] e acrescento [detalhe necessário]. Se essa parte ficar vaga, eu reviso antes de continuar. As respostas são a base do arquivo que vou conferir.",
+   "texto_tela": "[Segunda pergunta]"
+  },
+  {
+   "tempo": "44-61s",
+   "cena": "Mostrar a conversa avançada e um arquivo disponível para abrir. Corte identificado na espera.",
+   "fala": "Envio as respostas e aguardo a preparação. Aqui eu cortei o tempo de espera de [tempo medido]. Quando o arquivo aparece, abro [formato de saída] para conferir o conteúdo, sem precisar copiar a conversa inteira.",
+   "texto_tela": "[Arquivo gerado] · espera de [tempo medido]"
+  },
+  {
+   "tempo": "61-83s",
+   "cena": "Abrir documento branco no painel direito; conversa permanece à esquerda. Rolar por uma seção.",
+   "fala": "O documento reúne [seção útil]. Vou abrir este trecho: [exemplo curto de saída]. Agora confiro se ele corresponde às respostas que enviei. Qualquer dado inferido pelo sistema precisa ser revisado antes de entrar no trabalho.",
+   "texto_tela": "[Título da seção]"
+  },
+  {
+   "tempo": "83-100s",
+   "cena": "Abrir a visão resumida do documento e destacar a parte pronta para reutilizar.",
+   "fala": "Também há [resumo ou visualização disponível]. Ele ajuda a localizar [informação útil]. Eu posso usar esse trecho em [próxima tarefa], depois da revisão. O formato de exportação disponível aqui é [formato real].",
+   "texto_tela": "[Resumo ou visualização]"
+  },
+  {
+   "tempo": "100-110s",
+   "cena": "Manter o documento aberto, cursor sobre uma seção relevante.",
+   "fala": "No perfil, veja como acessar [produto] e quais entregas estão incluídas. Para avaliar, comece com [exemplo simples] e confira a saída.",
+   "texto_tela": "Conheça [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A sequência de perguntas e respostas no chat mostra a entrada de informações antes da apresentação do arquivo.",
+  "O documento branco aberto à direita contrasta com a conversa escura à esquerda, tornando visível a passagem de conversa para entrega.",
+  "A rolagem por uma seção de listas e depois por uma página com retrato mostra duas formas de consultar o material.",
+  "A narração descreve comandos e arquivos enquanto a tela avança, permitindo acompanhar o caminho sem um apresentador sobreposto."
+ ],
+ "quando_usar": "Para ferramentas, cursos ou serviços com uma etapa digital que transforma informações em uma entrega consultável. Use no meio do funil, com exemplo fictício ou dados autorizados, quando o público precisa ver o fluxo antes de decidir.",
+ "roteiro_modelo": "Vou mostrar como [produto] usa suas respostas para montar [entrega]. Vou usar um exemplo fictício de [situação] e abrir o arquivo que ele produz no final.\n\n[pausa breve / corte]\n\nEu começo com [comando ou ação]. A primeira pergunta é sobre [informação básica]. Respondo com [resposta de exemplo]. Isso define qual trabalho o produto vai fazer e o que precisa aparecer na entrega.\n\n[pausa breve / corte]\n\nDepois ele pede [segunda informação]. Eu informo [resposta curta] e acrescento [detalhe necessário]. Se essa parte ficar vaga, eu reviso antes de continuar. As respostas são a base do arquivo que vou conferir.\n\n[pausa breve / corte]\n\nEnvio as respostas e aguardo a preparação. Aqui eu cortei o tempo de espera de [tempo medido]. Quando o arquivo aparece, abro [formato de saída] para conferir o conteúdo, sem precisar copiar a conversa inteira.\n\n[pausa breve / corte]\n\nO documento reúne [seção útil]. Vou abrir este trecho: [exemplo curto de saída]. Agora confiro se ele corresponde às respostas que enviei. Qualquer dado inferido pelo sistema precisa ser revisado antes de entrar no trabalho.\n\n[pausa breve / corte]\n\nTambém há [resumo ou visualização disponível]. Ele ajuda a localizar [informação útil]. Eu posso usar esse trecho em [próxima tarefa], depois da revisão. O formato de exportação disponível aqui é [formato real].\n\n[pausa breve / corte]\n\nNo perfil, veja como acessar [produto] e quais entregas estão incluídas. Para avaliar, comece com [exemplo simples] e confira a saída.",
+ "tomadas_celular": [
+  "Com outro celular na horizontal, filme 10s de um aparelho exibindo o início do chat; enquadre só a tela, use luz ambiente indireta e evite reflexos. Prefira a gravação de tela do próprio aparelho se a interface funcionar nele.",
+  "Capture 17s da primeira pergunta no gravador de tela do celular, orientação horizontal e texto ampliado; luz não se aplica à captura digital.",
+  "Capture 17s da resposta seguinte, horizontal e área útil ampliada; luz não se aplica. Oculte notificações e dados reais.",
+  "Capture 17s do arquivo ficando disponível, tela horizontal; luz não se aplica. Anote o tempo real e sinalize o corte da espera.",
+  "Capture 22s do documento aberto com rolagem lenta e texto legível, horizontal; luz não se aplica. Se o painel lateral não existir no celular, componha as duas capturas lado a lado no editor.",
+  "Capture 17s do resumo e 10s do fechamento, horizontal, sem reflexos se filmar uma tela externa com luz indireta. Grave a narração no celular em local silencioso."
+ ],
+ "caminho_ia": "Para fazer sem filmagem, monte no CapCut um slideshow animado com capturas autorizadas do produto e voz sintética. Se ainda não houver interface, use Runway para uma simulação identificada como tal. Prompts: \"Landscape 16:9 screen simulation of a generic dark chat interface, sequential question and answer panels for [product intake], fixed screen view, slow cursor movement, blank text areas for editorial overlays, no logos.\" e \"Landscape 16:9 software mockup, dark conversation panel on the left and white [deliverable document] panel on the right, slow vertical scroll, crisp layout, blank headings to typeset in post, no personal data.\" Escreva perguntas e respostas legíveis no editor. Não apresente UI gerada como prova de funcionalidade real; use capturas reais se a promessa for demonstrar o produto funcionando.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma demonstração horizontal 16:9 de 110s em 7 blocos: 0-10s entrega prometida; 10-27s primeira pergunta; 27-44s resposta e detalhamento; 44-61s preparação com espera sinalizada; 61-83s documento aberto à direita; 83-100s resumo e reutilização; 100-110s acesso. Sem apresentador visível. Narração didática e cursor calmo, com cortes na digitação e na espera. Use os textos da própria interface e aumente as áreas relevantes; não acrescente legendas decorativas. A duração é uma proposta de edição, pois a referência não informa tempo total. Não copie a interface, os comandos, o retrato, os nomes ou o exemplo financeiro da referência. Se meu produto não for software, demonstre uma etapa digital real da sua entrega. Identifique inferências e revise a saída. Não prometa leitura da mente ou capacidade que o produto não tenha. Escreva em pt-BR falado, com frases curtas e [colchetes] para informações que faltarem. Sem antítese vazia, tríade decorativa, superlativos sem prova, pergunta de enfeite ou fecho de efeito. Não invente resultados, depoimentos ou condições comerciais. Não copie nomes, marcas, pessoas, logotipos, domínios, contatos, falas longas nem dados de clientes da referência. Use só os dados do bloco MEU PRODUTO.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "De [informações de entrada] para [entrega]: veja o fluxo de [produto]. O exemplo usa dados fictícios. Confira os recursos incluídos e as condições de acesso no perfil.",
+ "alerta_politica": "Não exponha dados de clientes nem informações sensíveis na demonstração. Use dados fictícios ou autorizados e identifique simulações. Meta: a demonstração deve corresponder aos recursos disponíveis; não apresente documentos ou interfaces gerados como prova de uma funcionalidade inexistente.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-38fe0d08",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-assistente-entrevista-documento/frames/f1.jpg",
+    "videos/vid-assistente-entrevista-documento/frames/f2.jpg",
+    "videos/vid-assistente-entrevista-documento/frames/f3.jpg",
+    "videos/vid-assistente-entrevista-documento/frames/f4.jpg",
+    "videos/vid-assistente-entrevista-documento/frames/f5.jpg"
+   ]
+  }
+ ]
+}

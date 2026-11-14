@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1952313295339009",
+  "tipo": "estatico",
+  "titulo": "Loteamento com condições de compra em lista e preço",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fotografia aérea de loteamento ao entardecer, com chamada em forma orgânica laranja no topo. Uma lista branca antecede o bloco roxo de preço e a faixa vermelha de prazo.",
+  "por_que_funciona": [
+    "A lista de três condições permite localizar rapidamente os termos comerciais.",
+    "O bloco roxo dá contraste ao valor da parcela em branco.",
+    "A faixa vermelha coloca o prazo de até 240 vezes junto do preço.",
+    "A fotografia ampla mostra o traçado do empreendimento."
+  ],
+  "quando_usar": "Para campanhas de cadastro voltadas a compradores que comparam entrada, parcelas e prazo de pagamento.",
+  "estrutura_texto": "[Chamada de compra]\n[Empreendimento]\n[Cidade - UF]\n[Condição de análise]\n[Disponibilidade]\n[Entrada]\nParcelas a partir de [valor]\nParcelado em até [prazo]\n[Marca]",
+  "legenda": "Lotes em [empreendimento], com parcelas a partir de [valor] em até [prazo]. [Condição de entrada] e [critérios de análise], conforme regulamento. Clique em [CTA] para consultar unidades e condições completas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Preencha o fundo com foto aérea autorizada ao entardecer. No alto, coloque chamada branca dentro de forma orgânica laranja. Abaixo, insira identidade e localização, seguidas de lista curta de condições em branco. Destaque o preço em retângulo roxo arredondado à esquerda e o prazo em faixa vermelha logo abaixo. Mantenha condições legíveis e não invente disponibilidade.",
+  "alerta_politica": "Na oferta de imóveis parcelados, informe entrada, quantidade e valor das parcelas, correção, juros e condições de aprovação aplicáveis. Não prometa valorização ou retorno garantidos nem aprovação de crédito irrestrita; a comunicação deve corresponder às condições reais da oferta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1952313295339009",
+    "anunciante": "Trinus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-24",
+    "dias_no_ar": 386,
+    "variacoes_ativas": 1,
+    "texto_original": "Parcelas a partir de R$ 299, em até 240x, e sem consulta ao SPC/Serasa. \n\nNo Recanto do Sol, o seu sonho é possível!\n\nClique em Saiba Mais e garanta essa chance imperdível!\nSua oportunidade está aqui! ✨",
+    "origem_coleta": "acervo:trinus"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1952313295339009.jpg"
+}

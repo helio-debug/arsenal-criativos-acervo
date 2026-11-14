@@ -1,0 +1,74 @@
+{
+ "id": "vid-mesmo-imovel-horarios",
+ "tipo": "video",
+ "titulo": "Mesmo enquadramento mostra luz e som em horários identificados",
+ "formato_video": "comparacao-horarios",
+ "nichos": [
+  "imoveis"
+ ],
+ "tipo_solucao": "imovel",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Como fica esse [cômodo] de manhã e no fim do dia?",
+  "texto_tela": "Mesmo ponto, outros horários",
+  "visual": "Dois quadros fixos do mesmo ambiente com horários."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Dois quadros fixos do mesmo ambiente com horários.",
+   "fala": "Como fica esse [cômodo] de manhã e no fim do dia?",
+   "texto_tela": "Mesmo ponto, outros horários"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Tela alterna as tomadas sem mudar exposição na edição.",
+   "fala": "Às [hora A], a luz entra por [janela]. Às [hora B], fica assim.",
+   "texto_tela": "Captação em [data]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Trechos de som ambiente entram com legenda.",
+   "fala": "Este é o som captado nessas visitas. Dia e movimento da rua podem mudar.",
+   "texto_tela": "Áudio ambiente sem trilha"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Retorna aos dois quadros com convite.",
+   "fala": "Se esse detalhe pesa na escolha, agende sua visita a [imóvel] em [horário disponível].",
+   "texto_tela": "Veja no horário da sua rotina"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Dois quadros fixos do mesmo ambiente com horários.",
+  "O desenvolvimento mantém a informação ligada à imagem: Tela alterna as tomadas sem mudar exposição na edição.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Trechos de som ambiente entram com legenda."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho imoveis, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Como fica esse [cômodo] de manhã e no fim do dia? [Manter na tela: Mesmo ponto, outros horários]\n4-11s | Às [hora A], a luz entra por [janela]. Às [hora B], fica assim. [Manter na tela: Captação em [data]]\n11-19s | Este é o som captado nessas visitas. Dia e movimento da rua podem mudar. [Manter na tela: Áudio ambiente sem trilha]\n19-27s | Se esse detalhe pesa na escolha, agende sua visita a [imóvel] em [horário disponível]. [Manter na tela: Veja no horário da sua rotina]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Dois quadros fixos do mesmo ambiente com horários.",
+  "Plano próximo sem reflexos; travar foco e exposição: Tela alterna as tomadas sem mudar exposição na edição.",
+  "Plano de detalhe legível, sem zoom digital: Trechos de som ambiente entram com legenda.",
+  "Plano final estável, com área livre para legenda e botão: Retorna aos dois quadros com convite.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Dois quadros fixos do mesmo ambiente com horários. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Tela alterna as tomadas sem mudar exposição na edição. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Mesmo enquadramento mostra luz e som em horários identificados, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Dois quadros fixos do mesmo ambiente com horários. Depois, Tela alterna as tomadas sem mudar exposição na edição. Depois, Trechos de som ambiente entram com legenda. Depois, Retorna aos dois quadros com convite. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Informar identificação profissional e condições reais da unidade. Não prometer aprovação de financiamento ou subsídio. Exibir valores, disponibilidade e imagens fiéis; perspectivas e decoração virtual devem ser identificadas.",
+ "legenda": "Se esse detalhe pesa na escolha, agende sua visita a [imóvel] em [horário disponível]. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Informar identificação profissional e condições reais da unidade. Não prometer aprovação de financiamento ou subsídio. Exibir valores, disponibilidade e imagens fiéis; perspectivas e decoração virtual devem ser identificadas.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1083097967377784",
+   "dias_no_ar": 110,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/imoveis/apartamento-a-venda/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

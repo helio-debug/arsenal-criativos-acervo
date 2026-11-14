@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1419278196117464",
+  "tipo": "estatico",
+  "titulo": "Desconto com cupom sobre demonstração do curso",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Notebook com modelos estruturais ocupa a metade superior. Um selo de desconto se sobrepõe à foto, enquanto a parte inferior destaca o curso e as certificações.",
+  "por_que_funciona": [
+    "O selo amarelo e vermelho destaca os 40% e o código do desconto.",
+    "Os modelos no notebook mostram o tipo de projeto abordado no curso.",
+    "O nome da especialidade em azul ocupa a maior linha do título.",
+    "Os ícones de certificado no rodapé tornam as credenciais fáceis de localizar."
+  ],
+  "quando_usar": "Para cursos técnicos com demonstração visual do conteúdo e campanha de desconto para matrícula.",
+  "estrutura_texto": "[Marca e credencial]\n[Desconto] usando o código [cupom]\nCurso certificado\n[Nome do curso e especialidade]\n[Instrutor]\n[Modalidade]\n[Certificações]",
+  "legenda": "Aprenda [ferramenta ou especialidade] com [curso]. Aproveite [percentual] de desconto usando o código [cupom]. Confira [conteúdo e certificações] e faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de notebook com uma demonstração do conteúdo na metade superior. Sobreponha selo amarelo e vermelho com desconto e cupom à esquerda. Faça a base em azul-marinho com curvas em ciano, título grande branco e ciano, identificação discreta do instrutor e rodapé com ícones de modalidade e certificados. Use apenas credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1419278196117464",
+    "anunciante": "Konstruedu.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-05",
+    "dias_no_ar": 619,
+    "variacoes_ativas": 4,
+    "texto_original": "😱 No hay nada mejor que lo que deseas obtener tenga un GRAN DESCUENTO🎁\n\nPor esa razón te regalamos el 40% de descuento adicional en todos nuestros cursos para que te vuelvas un experto en las mejores herramientas y software BIM\n\nAprovecha esta oferta con el 40% de descuento \nUtiliza el siguiente código para aplicar el descuento: PROMO40\n\n¡Toca el botón y aprovecha el descuento!\nUtiliza el código para el descuento: PROMO40",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1419278196117464.jpg"
+}

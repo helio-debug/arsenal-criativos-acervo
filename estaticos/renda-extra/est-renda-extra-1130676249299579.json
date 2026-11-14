@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1130676249299579",
+  "tipo": "estatico",
+  "titulo": "Programa de indicação com valor e quantidade vinculados",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo amarelo, a chamada de renda extra e dois tópicos ocupam o topo. Duas mulheres segurando maquininhas aparecem em recortes na parte inferior, entre sinais de mais.",
+  "por_que_funciona": [
+    "O título preto sobre amarelo concentra contraste na proposta principal.",
+    "O valor máximo aparece vinculado à indicação de dez aparelhos, mostrando a quantidade associada à chamada.",
+    "As duas pessoas seguram os aparelhos e tornam visível o objeto da indicação.",
+    "Os sinais de mais e as bases coloridas preenchem o fundo sem competir com os tópicos."
+  ],
+  "quando_usar": "Para divulgar programas de indicação com regras claras e remuneração verificável por venda elegível.",
+  "estrutura_texto": "[Renda extra no programa]\n• [Ganhe até valor] indicando [quantidade de produtos]\n• [Benefício para os clientes]",
+  "legenda": "Participe do programa de indicação de [produto]. A remuneração depende de [vendas elegíveis e critérios do programa]. Conheça as taxas disponíveis para seus clientes e consulte as regras completas em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo vibrante, título preto no terço superior e dois tópicos curtos abaixo. Distribua duas pessoas segurando o produto da IMAGEM 2 em alturas diferentes na metade inferior, com bases horizontais verde-água e sinais de mais vazados em branco. Se houver valor de comissão, vincule-o à quantidade e aos critérios verificáveis de elegibilidade; não invente taxa ou ganho. Adapte a mensagem aos dados de MEU PRODUTO, sem inventar benefícios ou condições. Escreva em pt-BR e preserve a legibilidade.",
+  "alerta_politica": "Meta: alegações de renda devem ter comprovação e informar critérios, limites e condições de pagamento. Comparações como “melhores taxas” exigem base verificável; serviços financeiros devem atender aos requisitos aplicáveis de publicidade e transparência.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1130676249299579",
+    "anunciante": "PagBank",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-20",
+    "dias_no_ar": 86,
+    "variacoes_ativas": 2,
+    "texto_original": "Tenha ganhos rápidos indicando as maquininhas mais famosas do Brasil!\nQuanto mais indicar, mais você vai ganhar!\nCadastre-se agora e faça parte do time de consultores PagBank. Vagas limitadas para novos consultores em 2026, não perca essa chance!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1130676249299579.jpg"
+}

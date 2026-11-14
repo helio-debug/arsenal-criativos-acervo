@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1054514046920916",
+  "tipo": "estatico",
+  "titulo": "Convite para avaliar o regime tributário",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de duas pessoas trabalhando ocupa o fundo, com degradê roxo escuro na parte inferior. Título branco, explicação curta e botão claro apresentam a consulta com especialista.",
+  "por_que_funciona": [
+    "A cena de escritório dá contexto ao atendimento profissional.",
+    "O título menciona um ano específico e uma preocupação objetiva com impostos.",
+    "O degradê roxo aumenta a legibilidade sobre a fotografia.",
+    "O botão claro se destaca e indica uma ação direta de contato."
+  ],
+  "quando_usar": "Para captar contatos de empresas que já procuram orientação sobre regime tributário.",
+  "estrutura_texto": "[Benefício tributário condicionado] em [ano]\nDescubra qual [opção] faz sentido para [empresa]\nFalar com [especialista] agora",
+  "legenda": "A decisão sobre [regime] em [período aplicável] pode influenciar [tributação] em [ano]. Converse com [especialista] para avaliar as opções da sua empresa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da IMAGEM 2 como fundo em enquadramento de trabalho, quando pertinente. Aplique degradê roxo escuro na metade inferior, título branco em negrito, subtítulo branco menor e botão arredondado claro com texto roxo. Formule o benefício como possibilidade sujeita à análise, sem garantir redução de impostos.",
+  "alerta_politica": "Meta: não prometa economia tributária garantida nem apresente resultados financeiros como certos. Benefícios e percentuais devem ser comprováveis; a tributação depende do enquadramento e da análise de cada empresa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1054514046920916",
+    "anunciante": "Unclik Contabilidade Digital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-13",
+    "dias_no_ar": 124,
+    "variacoes_ativas": 3,
+    "texto_original": "Setembro vai definir quanto imposto sua empresa paga em 2027.",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1054514046920916.jpg"
+}

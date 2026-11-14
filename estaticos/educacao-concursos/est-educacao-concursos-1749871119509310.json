@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1749871119509310",
+  "tipo": "estatico",
+  "titulo": "Vagas e remuneração destacadas ao lado de estudante",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul com prédio esmaecido e homem segurando um tablet à direita. À esquerda, a chamada do concurso destaca vagas, escolaridade, remuneração e curso com questões.",
+  "por_que_funciona": [
+    "O título azul ocupa a largura superior e identifica a preparação oferecida.",
+    "O bloco verde isola a quantidade de vagas para leitura rápida.",
+    "A remuneração em verde recebe mais peso que o texto de apoio.",
+    "O tablet na mão do personagem situa a oferta no estudo digital."
+  ],
+  "quando_usar": "Para cursos preparatórios que precisam apresentar a oportunidade e a modalidade de estudo em uma peça.",
+  "estrutura_texto": "Concurso\n[órgão]\n[quantidade] vagas\n[escolaridade]\nRemuneração até [valor]\n[curso online] + [plataforma de questões]",
+  "legenda": "Prepare-se para [concurso] com [curso online]. Conte com [conteúdo organizado], [flexibilidade de horários] e [questões para treinar]. Confira [requisitos e condições] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul em degradê com imagem arquitetônica discreta. Posicione a foto da IMAGEM 2 à direita, recortada até a borda inferior. Organize à esquerda título grande azul, selo verde de vagas, escolaridade, remuneração verde e descrição do curso. Use somente informações confirmadas sobre o concurso.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1749871119509310",
+    "anunciante": "Degrau Cultural",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-17",
+    "dias_no_ar": 211,
+    "variacoes_ativas": 1,
+    "texto_original": "DETRAN RJ: 552 vagas + Remuneração até R$6.642💰\nVocê vai ficar de fora dessa oportunidade?\nCargos de nível médio e superior\n\nEstabilidade garantida no serviço público\nCarreira sólida e reconhecida\nA diferença entre aprovado e lista de espera está na PREPARAÇÃO.\n\n🎓 Curso Online Degrau Cultural oferece:\n\n✅ Conteúdo direto ao ponto (sem enrolação)\n✅ Flexibilidade total de horários\n✅ Plataforma Degrau Questões para treino intensivo\n✅ Professores especialistas em concursos\n✅ Tradição de mais de 40 anos em aprovações\n\nNão espere a concorrência te ultrapassar.\n👉 Garanta seu curso online agora\nConcurso Detran RJ: Curso Online + Degrau Questões",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1749871119509310.jpg"
+}

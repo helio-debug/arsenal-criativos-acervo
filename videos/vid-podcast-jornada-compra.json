@@ -1,0 +1,89 @@
+{
+ "id": "vid-podcast-jornada-compra",
+ "titulo": "Dupla no podcast: pergunta de funcionamento vira explicação da busca até a entrega",
+ "formato_video": "corte-podcast",
+ "nichos": [
+  "automotivo",
+  "saas-b2b",
+  "produtos-fisicos-marketplace",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "40-50s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Como eu faço para escolher e pedir [produto ou serviço] por aí?",
+  "texto_tela": "Como funciona o pedido?",
+  "visual": "Apresentadora junto ao microfone, enquadrada de perto; moldura azul e botão na base."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Apresentadora em plano médio próximo, voltada ao convidado.",
+   "fala": "Apresentadora: Como eu faço para escolher e pedir [produto ou serviço] por aí?",
+   "texto_tela": "Como funciona o pedido?"
+  },
+  {
+   "tempo": "5-16s",
+   "cena": "Corte para convidado ao microfone; mão acompanha a explicação.",
+   "fala": "Convidado: Você começa informando [dado de busca]. Pode usar [alternativa de identificação], se tiver. Isso ajuda a localizar [opções adequadas].",
+   "texto_tela": "Informe [dado de busca]"
+  },
+  {
+   "tempo": "16-28s",
+   "cena": "Mesmo convidado em plano próximo, gesto indica as opções.",
+   "fala": "Convidado: Aí você confere [critério de escolha] e compara [opções disponíveis]. A descrição mostra [informação importante] antes de seguir.",
+   "texto_tela": "Confira [critério]"
+  },
+  {
+   "tempo": "28-40s",
+   "cena": "Convidado segue a sequência com gesto de mão; legenda central.",
+   "fala": "Convidado: Depois, escolhe [forma de atendimento ou recebimento] e confere [valor e condições]. Com tudo certo, confirma [pedido ou agendamento].",
+   "texto_tela": "Confira as condições"
+  },
+  {
+   "tempo": "40-50s",
+   "cena": "Sustenta o convidado; botão azul continua na base.",
+   "fala": "Convidado: A confirmação chega por [canal], com [próximo passo informado]. Para começar, acesse [canal de acesso] e informe [dado inicial].",
+   "texto_tela": "Comece em [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro quadro traz uma pergunta operacional diante do microfone, dando assunto definido à resposta.",
+  "Os quadros seguintes ficam no convidado, que usa as mãos para acompanhar a sequência da busca à logística.",
+  "As legendas brancas centrais tornam legíveis os passos citados na conversa.",
+  "A moldura azul e o botão azul persistente na base mantêm o acesso visível durante a explicação."
+ ],
+ "quando_usar": "Para serviços online que intermediam escolha, pedido ou agendamento nos nichos listados. Use no meio do funil, quando a dúvida é como começar e o que acontece depois.",
+ "roteiro_modelo": "Apresentadora: Como eu faço para escolher e pedir [produto ou serviço] por aí?\n\n[pausa curta; corte]\n\nConvidado: Você começa informando [dado de busca]. Pode usar [alternativa de identificação], se tiver. Isso ajuda a localizar [opções adequadas].\n\n[pausa curta; corte]\n\nConvidado: Aí você confere [critério de escolha] e compara [opções disponíveis]. A descrição mostra [informação importante] antes de seguir.\n\n[pausa curta; corte]\n\nConvidado: Depois, escolhe [forma de atendimento ou recebimento] e confere [valor e condições]. Com tudo certo, confirma [pedido ou agendamento].\n\n[pausa curta; corte]\n\nConvidado: A confirmação chega por [canal], com [próximo passo informado]. Para começar, acesse [canal de acesso] e informe [dado inicial].",
+ "tomadas_celular": [
+  "Grave 5s da pergunta em plano médio próximo; celular na altura dos olhos e luz suave lateral.",
+  "Grave 11s do convidado junto ao microfone; fundo escuro e luz frontal difusa.",
+  "Grave 12s do convidado explicando os critérios; enquadre rosto e mãos, com a mesma luz.",
+  "Grave 12s da etapa de confirmação; celular fixo e espaço inferior para botão.",
+  "Grave 10s da orientação final; mantenha o olhar no interlocutor e a luz constante."
+ ],
+ "caminho_ia": "Use avatares licenciados para os dois interlocutores e vozes sintéticas autorizadas. Gere o cenário no Sora ou Kling: \"Vertical 9:16 medium close-up of a fictional podcast host at a desk microphone, dark curtain background, blue rim light, soft key light, looking toward an off-camera guest, no logos.\" e \"Vertical 9:16 medium close-up of a fictional guest explaining [product ordering process], natural hand gestures, desk microphone, dark studio, blue rim light, consistent camera angle, no text.\" Monte a conversa no CapCut, com legendas brancas, moldura e botão azul. Use slideshow de cenas geradas se não precisar de sincronização labial; apresente a conversa como explicação encenada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie conversa de 50s em cinco blocos: 0-5 pergunta prática; 5-16 dado de entrada; 16-28 escolha; 28-40 confirmação; 40-50 próximo passo. Faça uma pergunta real de funcionamento, respondida de forma direta. Alterne para o convidado e mantenha a resposta em sequência, com gestos naturais, legendas brancas centrais, moldura azul e botão azul fixo na base. No botão, use uma ação verdadeira para minha oferta; não copie a gratuidade nem o prazo da referência. Não simule entrevista de pessoas reais nem endosso independente. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos e condições fornecidos; não invente descontos, prazos, resultados ou gratuidade. Não copie marcas, pessoas, logotipos, contatos, cenários identificáveis nem falas literais da referência. Evite superlativos sem prova, perguntas decorativas e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para pedir [produto ou serviço], comece por [dado inicial]. Confira [critério] e [condições] antes de confirmar. Veja as opções em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-9b3dc4c4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-podcast-jornada-compra/frames/f1.jpg",
+    "videos/vid-podcast-jornada-compra/frames/f2.jpg",
+    "videos/vid-podcast-jornada-compra/frames/f3.jpg",
+    "videos/vid-podcast-jornada-compra/frames/f4.jpg",
+    "videos/vid-podcast-jornada-compra/frames/f5.jpg"
+   ]
+  }
+ ]
+}

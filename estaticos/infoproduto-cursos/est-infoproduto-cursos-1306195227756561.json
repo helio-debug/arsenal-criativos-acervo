@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1306195227756561",
+  "tipo": "estatico",
+  "titulo": "Formação forense com faixa diagonal de turma confirmada",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Composição dividida entre informações do curso em painel branco e retrato em preto e branco de uma profissional com lupa. Uma faixa amarela e preta atravessa a base com a indicação de turma confirmada.",
+  "por_que_funciona": [
+    "O retrato com lupa e vestimenta profissional remete à investigação apresentada no título.",
+    "Duração e carga horária em vermelho formam um bloco de consulta rápida.",
+    "A faixa diagonal amarela interrompe a composição e destaca a turma confirmada.",
+    "O painel branco preserva o contraste do texto explicativo."
+  ],
+  "quando_usar": "Para apresentar uma formação especializada a interessados que precisam entender área de atuação, duração e modalidade.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[ÁREA DA FORMAÇÃO]\n[NOME DO CURSO]\n[DESCRIÇÃO E POSSIBILIDADES DE ATUAÇÃO]\n[DURAÇÃO]\n[CARGA HORÁRIA]\n[MODALIDADE]\n[INFORMAÇÃO REGULATÓRIA VERIFICÁVEL]\n[SITE]\nTURMA CONFIRMADA",
+  "legenda": "Estude [área] com foco em [conteúdos e aplicações]. A formação tem [carga horária], duração de [prazo] e modalidade [modalidade]. Consulte requisitos, disponibilidade de vagas e informações da próxima turma em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça verticalmente: painel branco de informações à esquerda e retrato temático da IMAGEM 2 em preto e branco à direita, sobre fundo vinho. Use título vinho, texto explicativo menor, ícones de formação e duração. Cruze a parte inferior com faixa diagonal amarela com bordas pretas e [status real da turma]. Não apresente reconhecimento institucional sem comprovação. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1306195227756561",
+    "anunciante": "FVM - Faculdade Volpe Miele",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "🕵️♂️ Independência, ciência e justiça. Desvende mistérios e evolua com a referência em Ciências Forenses. Últimas Vagas!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1306195227756561.jpg"
+}

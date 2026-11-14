@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1717682008859905",
+  "tipo": "estatico",
+  "titulo": "Silo em destaque com capacidade e especificações",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Anúncio vertical de silo metálico com fundo cinza texturizado, título em laranja e branco e texto técnico à esquerda. O produto ocupa a metade direita e um botão laranja chama para saber mais.",
+  "por_que_funciona": [
+    "A imagem grande do silo deixa clara a estrutura comercializada.",
+    "A capacidade de até 19,2 toneladas qualifica o porte do equipamento.",
+    "O texto sobre chapas zincadas e funil de 66° fornece critérios objetivos de avaliação.",
+    "O botão laranja se destaca do fundo cinza e orienta o próximo passo."
+  ],
+  "quando_usar": "Para fornecedores de equipamentos apresentarem capacidade e características antes do contato comercial.",
+  "estrutura_texto": "[Produto] de [atributo]\nPara [aplicação]\n[Material], [especificação técnica] e capacidade de até [capacidade].\n[Benefício comprovável]\n[CTA]",
+  "legenda": "[Produto] para [aplicação]. Estrutura em [material], com [especificação técnica] e capacidade de até [capacidade]. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo grafite texturizado e detalhes diagonais laranja na base. Posicione título grande no alto, texto técnico à esquerda e recorte do equipamento à direita sobre base clara. Adicione botão laranja com CTA curto e assinatura inferior. Use somente especificações fornecidas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1717682008859905",
+    "anunciante": "Kepler Weber",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-05",
+    "dias_no_ar": 466,
+    "variacoes_ativas": 1,
+    "texto_original": "Silos de Alta Qualidade para Armazenamento de Ração\nSilos de chapas zincadas com funil de 66° e capacidade de até 19,2 toneladas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1717682008859905.jpg"
+}

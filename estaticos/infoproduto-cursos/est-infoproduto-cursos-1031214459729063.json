@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1031214459729063",
+  "tipo": "estatico",
+  "titulo": "Curso em bloco amarelo com datas em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo dividido entre cinza claro e rosa, com bloco amarelo central contornado de preto anunciando um curso. Uma etiqueta rosa sobreposta traz a assinatura; modalidade e datas aparecem na base.",
+  "por_que_funciona": [
+    "O bloco amarelo com borda preta concentra o nome do curso.",
+    "“teoria & prática” explicita a abordagem no próprio título.",
+    "“Online e ao Vivo” informa como as aulas serão acompanhadas.",
+    "O intervalo de datas permite avaliar a disponibilidade antes do clique."
+  ],
+  "quando_usar": "Para anunciar inscrições de um curso com tema definido, modalidade e calendário confirmados.",
+  "estrutura_texto": "CURSO\n[TEMA]\n[abordagem]\n[Modalidade]\n[Data inicial] a [data final]",
+  "legenda": "O curso [nome] aborda [tema] e sua aplicação em [contexto profissional]. Estude [conceitos] e pratique [competências]. Aulas [modalidade], de [data inicial] a [data final]. Consulte a programação e as inscrições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o fundo horizontalmente em cinza muito claro no alto e rosa intenso embaixo. Centralize um retângulo amarelo com contorno preto, título preto pesado e subtítulo condensado. Sobreponha pequena etiqueta rosa com identidade própria no canto superior direito do bloco. Inclua “curso” no alto e modalidade e datas na base. Use a IMAGEM 2 como material do curso se pertinente, mantendo o título como foco.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1031214459729063",
+    "anunciante": "Data Privacy Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-08",
+    "dias_no_ar": 98,
+    "variacoes_ativas": 9,
+    "texto_original": "A entrada em vigor do ECA Digital mudou o cenário dos direitos digitais no Brasil. Agora, empresas de jogos, redes sociais e educação precisam adaptar seus ambientes para garantir a proteção integral de crianças e adolescentes.\n\nNão fique para trás na agenda de conformidade. No curso ECA Digital: Teoria e Prática, você dominará conceitos essenciais como acesso provável, mecanismos de aferição de idade e os novos deveres de segurança exigidos pela ANPD.\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1031214459729063.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1442989291091177",
+  "tipo": "estatico",
+  "titulo": "Objetivo de carreira com recorte de público",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Arte minimalista branca com título preto sobre cargo e ano. Uma caixa preta abaixo apresenta a mentoria e os perfis profissionais atendidos.",
+  "por_que_funciona": [
+    "O cargo e o ano ocupam duas linhas grandes e definem o objetivo.",
+    "A caixa preta separa a descrição da mentoria do título.",
+    "A enumeração de perfis profissionais explicita para quem a oferta foi pensada.",
+    "O amplo espaço branco concentra a atenção em apenas dois blocos de texto."
+  ],
+  "quando_usar": "Para comunicar mentoria individual a profissionais interessados em transição de carreira.",
+  "estrutura_texto": "[Cargo desejado]\n[Horizonte de tempo]\nMentoria individual para [perfis de público] em transição de carreira para [área ou instituição].",
+  "legenda": "Busca uma transição para [carreira]? A [mentoria individual] oferece [plano de estudos] e [acompanhamento disponível] para [público]. Faça sua aplicação em [link] para conhecer as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição minimalista sobre fundo branco, com amplo espaço vazio acima e abaixo. Perto do centro, alinhe à esquerda duas linhas de título preto em fonte leve: cargo e horizonte de tempo. Logo abaixo, insira retângulo preto largo com descrição branca centralizada em três linhas. Preserve o foco tipográfico; a IMAGEM 2 serve de contexto do produto e só deve aparecer se não comprometer esse layout. Trate cargo e ano como objetivo, sem assegurar nomeação ou aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1442989291091177",
+    "anunciante": "Mentoria Tribunal do Trabalho",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 4,
+    "texto_original": "Você está a um clique de estudar com um plano 100% guiado por mim até sua aprovação no TRT.\nFaça sua aplicação agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1442989291091177.jpg"
+}

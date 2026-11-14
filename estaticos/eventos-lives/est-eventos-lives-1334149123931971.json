@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1334149123931971",
+  "tipo": "estatico",
+  "titulo": "Metade das vagas preenchidas em curso presencial",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "O percentual de vagas preenchidas domina o lado esquerdo em azul e amarelo. À direita, um homem de terno aponta para a câmera segurando um megafone; a base reúne inscrição e apoiadores.",
+  "por_que_funciona": [
+    "O número 50% em tamanho grande torna a ocupação das vagas o primeiro argumento.",
+    "As faixas amarelas destacam a frase sobre vagas preenchidas.",
+    "O megafone e o gesto de apontar reforçam visualmente a convocação.",
+    "A indicação de curso presencial e o endereço de inscrição esclarecem o próximo passo."
+  ],
+  "quando_usar": "Para fechar inscrições de um curso presencial com ocupação e limite de vagas comprovados.",
+  "estrutura_texto": "[Tema e quantidade de perguntas]\n[Percentual]% DAS VAGAS PREENCHIDAS\n[Convite para o evento]\n[Edição e cidades]\nSOMENTE [quantidade] VAGAS POR [local]\nINSCREVA-SE AGORA\n[Site]\nCURSO [modalidade]",
+  "legenda": "[Tema de interesse do público] em um curso presencial com [conteúdo prático]. Confira [cidades], [datas] e [disponibilidade real de vagas]. Inscreva-se em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre texto à esquerda e foto recortada de porta-voz com megafone à direita. Use fundo claro, azul escuro e amarelo. Destaque o percentual de ocupação em tamanho muito grande, seguido de faixas com a chamada e bloco de inscrição. Reserve rodapé para identidade própria e parceiros autorizados. Não invente ocupação, escassez ou desconto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1334149123931971",
+    "anunciante": "Conprev Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-11-13",
+    "dias_no_ar": 1097,
+    "variacoes_ativas": 1,
+    "texto_original": "⚠️Você pediu. A ConPrev Educacional atendeu!!!⚠️\n\n🇧🇷O TEMA DE MAIOR RELEVÂNCIA DO RH 360, virou curso presencial exclusivo e uma única edição. \n\n“50 PERGUNTAS E RESPOSTAS PRÁTICAS QUE TODA RH NA GESTÃO PÚBLICA PRECISA SABER“.\n\n💡 Quais os conceitos e fundamentos legais administrativos?\n💡Como informar no eSocial?\n💡E ai, como INSS recebe esta informação e garante o direito do servidor?\n\n✅Professores: Rubens Pires @rubensoficial (Goiânia – GO), Rodrigo Moraes @profrodrigomoraes (Maringá-PR) e Claudeci da Silva @claudecidasilvaoficial (São Paulo – SP).\n\n✅07 / 12 – CAMPO GRANDE – MS – HOTEL DEVILLE\n✅12 / 12 – GOIÂNIA – GO – IPOG;\n✅14 / 12 – PALMAS – TO – FECOMERCIO\n\n👍06 Horas de conhecimento intenso \nAmbiente Climatizado + Coffee Break + Material Didático + Certificado + Plantão de Dúvidas + Poltronas Confortáveis + Grandes opções de hotéis e restaurantes próximos.\n\n>>> ÚLTIMOS CURSOS DO ANO REALIZADOS PELA CONPREV EDUCACIONAL <<<\n\n*** Clientes ConPrev Assessoria e Educacional, está rolando a Back do curso R$ 499,00 até dia 27/11 ou enquanto disponibilidade de vagas.\n\n🤩 Quero te lembrar que o último evento, todas as inscrições encerram com 03 semanas de antecedente. ✅ GARANTA A SUA VAGA PARA MAIS ESTE GRANDE EVENTO NA GESTÃO PÚBLICA!\n\n>>>> w w w . c o n p r e v e d u c a c i o n a l . c o m . b r \n\nFone (62) 98212-0163 <<<",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1334149123931971.jpg"
+}

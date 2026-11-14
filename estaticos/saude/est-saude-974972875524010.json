@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-974972875524010",
+  "tipo": "estatico",
+  "titulo": "Assinatura com parceiros reunidos em uma faixa",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "saas-app",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Peça horizontal bege com título central, fileira de oito ícones de aplicativos e descrição da assinatura para equipes. Um botão verde largo encerra a composição.",
+  "por_que_funciona": [
+    "A fileira de ícones torna visível a variedade de serviços reunidos.",
+    "O título central resume a conveniência de uma única assinatura.",
+    "O botão largo destaca a ação seguinte sem disputar espaço com a explicação."
+  ],
+  "quando_usar": "Para apresentar um benefício corporativo que reúne aplicativos e acesso a serviços em um plano.",
+  "estrutura_texto": "[Nome do plano]\n[Tudo em um único lugar]\n[Ícones dos serviços incluídos]\n[Seu time acessa categorias e serviços em uma assinatura]\n[Comece agora]",
+  "legenda": "Seu time pode acessar [apps e serviços incluídos] em uma única assinatura. O plano [nome] reúne [categorias de benefícios] e [acesso presencial, se incluído]. Confira disponibilidade e condições em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use formato horizontal com fundo bege, título verde centralizado, fileira de oito cartões quadrados de aplicativos no centro, explicação em duas linhas e botão verde largo na base. Use a imagem fornecida para representar o pacote ou seus serviços. Inclua somente parceiros autorizados e efetivamente disponíveis no plano; use ícones genéricos quando não houver arquivos de marca.",
+  "alerta_politica": "Em benefícios de saúde, não prometa melhora clínica, prevenção ou cura sem respaldo e não atribua condições de saúde ao leitor. Se mencionar serviços financeiros incluídos, descreva o acesso sem prometer rentabilidade; informe condições e disponibilidade do plano.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "974972875524010",
+    "anunciante": "Contajá Contabilidade Online.",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-14",
+    "dias_no_ar": 123,
+    "variacoes_ativas": 2,
+    "texto_original": "E se seu time tivesse acesso aos melhores apps de saúde, finanças e bem-estar em um só lugar?\n\nCom o Contajá Vida+, isso é possível: Mobills, Strava, Meditopia, TecnoNutri e outros apps parceiros, além de academias físicas. Tudo incluído no plano Contajá Total.\n\nClique e comece hoje mesmo!",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-974972875524010.jpg"
+}

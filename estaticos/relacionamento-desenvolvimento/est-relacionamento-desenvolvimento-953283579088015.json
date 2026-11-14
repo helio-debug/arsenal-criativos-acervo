@@ -1,0 +1,36 @@
+{
+  "id": "est-relacionamento-desenvolvimento-953283579088015",
+  "tipo": "estatico",
+  "titulo": "Reflexão sobre progresso em fundo preto",
+  "formato": "Comunicado oficial",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Texto motivacional branco centralizado em fundo preto aborda progresso gradual e paciência. Uma assinatura discreta em tom acinzentado aparece abaixo do bloco principal.",
+  "por_que_funciona": [
+    "O contraste entre letras brancas e fundo preto facilita a leitura.",
+    "O bloco central mantém o foco em uma única reflexão.",
+    "As quebras curtas de linha controlam o ritmo da mensagem."
+  ],
+  "quando_usar": "Para publicar uma reflexão de desenvolvimento pessoal e convidar o público a comentar sobre seus objetivos.",
+  "estrutura_texto": "[Reflexão sobre progresso gradual].\n[Orientação breve].\n[Complemento sobre tempo e constância].\n[assinatura]",
+  "legenda": "Qual pequeno avanço você conseguiu em [objetivo] nesta semana? Compartilhe nos comentários [um passo concreto da sua rotina].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma peça tipográfica com fundo preto, texto branco em fonte sem serifa e peso forte, centralizado em seis linhas curtas. Use uma reflexão específica sobre {{problema}} sem prometer resultado. Deixe margens amplas e uma assinatura discreta abaixo, com identidade própria.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "953283579088015",
+    "anunciante": "Ana Barragão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-03-13",
+    "dias_no_ar": 976,
+    "variacoes_ativas": 1,
+    "texto_original": "O que pensas disto? Comenta 👇 👇👇\n\nA ideia de que progredir lentamente é melhor do que não progredir, reflete uma abordagem paciente e persistente aos objetivos e desafios da vida. Esta mentalidade encoraja a valorização de cada pequeno passo no caminho em direção a um objetivo maior, reconhecendo que o progresso, independentemente de quão pequeno ou lento possa parecer, é sempre preferível à estagnação.\n\nA expressão dê um passo de cada vez, ressalta a importância de abordar tarefas e objetivos complexos de forma fragmentada, dividindo-os em etapas menores e mais fáceis de gerir. Este método ajuda a evitar a sensação de sobrecarga, facilitando o foco numa tarefa de cada vez e aumenta a probabilidade de sucesso a longo prazo.\n\nA afirmação só porque está a levar tempo não significa que não vá acontecer é um lembrete de que a paciência é crucial no processo de alcançar objetivos. Muitas vezes, os resultados mais significativos exigem tempo e persistência. Esta perspectiva ajuda a manter a motivação e a perseverança, mesmo quando os resultados não são imediatos, e encoraja a confiança no processo, sabendo que os esforços consistentes eventualmente levarão ao sucesso.\n\nEm resumo, essa filosofia enfatiza a importância da paciência, da persistência e do reconhecimento de que cada pequeno passo em direção a um objetivo é valioso. Relembra que o sucesso muitas vezes vem gradualmente e que a jornada em si é uma parte importante do processo de alcançar nossas metas.\n\nAna Barragão \nP r o j e t o - Despertar da Consciência \n\nPsicóloga \nPsicoterapeuta \nNeuropsicóloga\nHipnoterapeuta\nLife Coach \nHigh Performance Coach\nExecutive Coach \nPNL Practitioner\nEscritora\nOradora Motivacional \n\n#anabarragaocoaching  #mentalidade  #mindset  #fé  #mudança #frases #frasesinpiradoras #desenvolvimento #frasesmotivadoras #sabedoria #serfeliz #foco #agradecersempre #pensamentopositivo #otimismo #façaterapia #terapia  #coaching  #inspiration #inspiração #sucesso #amorproprio #despertar #awareness #gratidao  #esperança #pinterest #gratidão #feliz #poder",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-953283579088015.jpg"
+}

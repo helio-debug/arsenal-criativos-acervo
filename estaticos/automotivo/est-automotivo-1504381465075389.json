@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1504381465075389",
+  "tipo": "estatico",
+  "titulo": "SUV em cena noturna com preço e últimas unidades",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "SUV escuro avança por uma pista molhada, com água projetada e céu noturno carregado. Na base, modelo, versão e preço aparecem em branco ao lado de um botão contornado.",
+  "por_que_funciona": [
+    "Os faróis acesos e o spray de água destacam a frente do veículo.",
+    "O preço em números grandes concentra a atenção na oferta.",
+    "A chamada de últimas unidades aparece logo abaixo do valor.",
+    "O botão contornado separa o convite à compra do bloco de preço."
+  ],
+  "quando_usar": "Para anunciar uma versão específica em estoque limitado com preço definido.",
+  "estrutura_texto": "[Marca]\n[Modelo]\n[Versão]\nR$ [preço]\nÚLTIMAS UNIDADES [ano/modelo]\n[Consulte as condições]\n[CTA]\n[Assinatura]",
+  "legenda": "Confira [modelo e versão] por [preço], conforme [condições]. Restam [quantidade real] unidades de [ano/modelo] em [concessionária/região]. Consulte a disponibilidade e garanta o seu.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Cena noturna em azul profundo, com produto em ângulo frontal de três quartos, pista molhada, reflexos e spray de água. Reserve a área inferior escura para modelo, versão e preço branco grande. Acrescente informação verificável de estoque, botão contornado e condições legíveis. Não sugira capacidades de desempenho não comprovadas. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1504381465075389",
+    "anunciante": "Jeep | Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 4,
+    "texto_original": "Ofertas imperdíveis pra você garantir o seu Jeep Compass 0km. Vá à concessionária e aproveite\nJeep Compass com condições especiais\nGaranta o seu!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/automotivo/est-automotivo-1504381465075389.jpg"
+}

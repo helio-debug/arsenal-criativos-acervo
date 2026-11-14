@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1472693901346517",
+  "tipo": "estatico",
+  "titulo": "Conexão entre tecnologia e negócios com foto circular",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Arte vertical cinza com título de MBA no alto e chamada à esquerda sobre tecnologia, negócios e visão global. À direita, foto em preto e branco de pessoas em reunião aparece em recorte circular com seta azul sobreposta.",
+  "por_que_funciona": [
+    "O recorte circular aproxima a cena de reunião do bloco de texto.",
+    "A seta azul é o principal acento de cor e conduz o olhar para o encontro entre foto e título.",
+    "A chamada em linhas curtas explicita o foco em tecnologia e negócios.",
+    "O selo de IA e a indicação de modalidades acrescentam atributos concretos do programa."
+  ],
+  "quando_usar": "Campanhas de reconhecimento de MBAs que conectam gestão, tecnologia e contexto internacional.",
+  "estrutura_texto": "[Nome do programa]\n[Categoria]\n[Atributo]\nConecte [área 1] e [área 2] com [perspectiva]\nCombine [competência] com [aplicação]\n[Modalidades]\n[Instituição]",
+  "legenda": "Conecte os conhecimentos de [tecnologia] à estratégia e aos desafios de [mercados]. Conheça a proposta de [MBA], os temas abordados e as opções de [modalidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza claro em degradê, identidade própria no alto à esquerda e texto preto em sans-serif leve, alinhado à esquerda em linhas curtas. À direita, grande recorte circular com cena de colaboração profissional em preto e branco, seta azul sobreposta no alto e assinatura vertical discreta. Inclua selo circular de atributo e modalidade pequena abaixo da chamada. Use a IMAGEM 2 como referência visual complementar do programa.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1472693901346517",
+    "anunciante": "FIAP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 1,
+    "texto_original": "Tecnologia cria possibilidades. Nos Global MBAs, você conecta essas possibilidades à estratégia, aos negócios e aos desafios de diferentes mercados.\nConheça o MBA que vai além.\nGLOBAL MBAs STARTSE E FIAP",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1472693901346517.jpg"
+}

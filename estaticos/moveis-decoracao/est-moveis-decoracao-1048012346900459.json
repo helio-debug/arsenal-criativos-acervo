@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1048012346900459",
+  "tipo": "estatico",
+  "titulo": "Trio de quadros em sala decorada",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Três quadros com palavras em caligrafia e pequenos textos religiosos são exibidos acima de um aparador de madeira. Livros, vaso, luminária e poltrona compõem uma sala em tons neutros.",
+  "por_que_funciona": [
+    "A ambientação mostra como os quadros ocupam a parede sobre um móvel.",
+    "As molduras pretas criam unidade entre as três peças.",
+    "O contraste entre caligrafia grande e texto pequeno destaca as palavras principais.",
+    "A madeira e os tecidos neutros mantêm o conjunto em evidência."
+  ],
+  "quando_usar": "Para vender quadros e conjuntos decorativos mostrando escala, combinação e aplicação em ambientes.",
+  "estrutura_texto": "[Palavra principal 1]\n[Texto de apoio 1]\n[Palavra principal 2]\n[Texto de apoio 2]\n[Palavra principal 3]\n[Texto de apoio 3]",
+  "legenda": "Decore [ambiente] com [conjunto de quadros] inspirado em [tema]. Confira as medidas, os materiais e as condições de [envio e garantia] na página do produto.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Apresente o produto em uma sala clara, acima de um aparador de madeira, com três quadros alinhados e espaçados regularmente. Inclua poucos objetos decorativos e parte de uma poltrona lateral para indicar escala. Preserve a arte real do produto da IMAGEM 2. Use luz suave e tons neutros, sem sobrepor chamadas promocionais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1048012346900459",
+    "anunciante": "God Is Above",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-08-07",
+    "dias_no_ar": 829,
+    "variacoes_ativas": 1,
+    "texto_original": "⭐️⭐️⭐️⭐️⭐️ \"These paintings aren't just a decorative piece, it's a daily reminder to embrace life's challenges with faith, to cherish every moment with love, and to look forward with hope.\" -Michelle N.\n\n🌎 Fast worldwide shipping\n✨ Spread the faith in your house\n🙌 30-day money-back guarantee\n📚 Free bonus Christian e-book set\n🌲 Plant a tree with every purchase\n\nCustom handcrafted by Godisabove™, only available here → \nhttps://godisabove.com/products/handmade-canvas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1048012346900459.jpg"
+}

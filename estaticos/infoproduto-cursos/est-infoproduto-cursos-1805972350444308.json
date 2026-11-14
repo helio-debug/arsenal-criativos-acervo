@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1805972350444308",
+  "tipo": "estatico",
+  "titulo": "Capacitação profissional com catálogo no celular",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de profissional embarcado ocupa a lateral direita sobre fundo azul-escuro. À esquerda, chamada de capacitação, volume de cursos e celular inclinado exibindo o catálogo.",
+  "por_que_funciona": [
+    "O profissional com capacete e rádio situa a oferta no trabalho marítimo.",
+    "O título branco e ciano tem contraste alto sobre o fundo escuro.",
+    "O celular mostra como o catálogo chega ao aluno.",
+    "A quantidade de cursos comunica variedade em uma linha."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de cursos especializados a profissionais que precisam estudar durante a rotina de trabalho.",
+  "estrutura_texto": "[Categoria de ensino]\n[Benefício principal em duas linhas]\n[Quantidade de cursos] para [público e níveis]\n[Catálogo no celular]\n[Convite para deslizar]",
+  "legenda": "Desenvolva suas habilidades em [área]. São [quantidade] cursos online para [público], do [nível inicial] ao [nível avançado]. Estude em [contextos e dispositivos disponíveis]. Siga [perfil] para acompanhar novos cursos e conteúdos de [área].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, título grande em branco com segunda linha ciano no alto à esquerda, uma linha de quantidade e público abaixo, celular inclinado no canto inferior esquerdo com catálogo legível e foto contextual de profissional na metade direita. Inclua marca própria discreta no topo e convite para deslizar no rodapé. Não invente certificações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1805972350444308",
+    "anunciante": "Maritime Trainer",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 1,
+    "texto_original": "𝗨𝗽𝘀𝗸𝗶𝗹𝗹 𝗮𝘁 𝘀𝗲𝗮. ⚓ 𝟳𝟯𝟬+ 𝗲-𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗰𝗼𝘂𝗿𝘀𝗲𝘀 for seafarers, from cadet to master.\n\n𝗙𝗹𝗮𝗴 𝗔𝗽𝗽𝗿𝗼𝘃𝗲𝗱, 𝗦𝗧𝗖𝗪-𝗮𝗹𝗶𝗴𝗻𝗲𝗱 and ready when you are: on board or ashore, on any device.\n\n👉 𝗙𝗼𝗹𝗹𝗼𝘄 for new courses, maritime insights, safety updates and industry news.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1805972350444308.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1513546066895165",
+  "tipo": "estatico",
+  "titulo": "Mudança geracional como pergunta ao mercado",
+  "formato": "Alerta e educação",
+  "nicho": "imoveis",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Cena de dois adultos sentados no chão de uma sala ocupa o topo. Um degradê preto sustenta a manchete em fonte serifada branca e laranja, seguida por uma pergunta ao mercado imobiliário e assinatura no rodapé.",
+  "por_que_funciona": [
+    "A cena doméstica reforça visualmente o tema da permanência na casa dos pais.",
+    "O trecho laranja concentra a atenção na mudança de comportamento.",
+    "A pergunta inferior conecta a tendência ao planejamento de produtos imobiliários.",
+    "A tipografia serifada e a assinatura dão apresentação editorial ao conteúdo."
+  ],
+  "quando_usar": "Para consultores e especialistas que querem iniciar uma conversa com incorporadores sobre mudanças na demanda.",
+  "estrutura_texto": "[Geração ou público] está [mudança de comportamento].\nQuando [evento de mercado] acontecer, [produto adequado] estará pronto?\n[Assinatura]",
+  "legenda": "A sequência de [marcos de vida] está mudando para [público]. [Fatores de contexto] afetam a decisão de morar e comprar. Como [empresa do setor] pode adaptar seus produtos a essa demanda?",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto contextual da IMAGEM 2 no alto, com situação doméstica natural e degradê preto até a base. Crie manchete serifada grande centralizada em branco, destacando a mudança de comportamento em laranja. Abaixo, inclua pergunta curta em fonte sem serifa e assinatura genérica no rodapé. Use afirmações sustentadas por fonte; não copie personagens ou pessoas da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1513546066895165",
+    "anunciante": "Gustavo Favaron",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-03",
+    "dias_no_ar": 164,
+    "variacoes_ativas": 1,
+    "texto_original": "Durante muito tempo, o mercado imobiliário trabalhou com uma sequência quase automática: estudar, começar a trabalhar, sair da casa dos pais, casar, comprar o primeiro imóvel.\n\nEssa régua está ficando velha.\n\nA Geração Z está entrando na vida adulta em outro contexto: renda mais pressionada, aluguel mais caro, crédito mais difícil, juros altos e uma relação diferente com mobilidade, trabalho e propriedade.\n\nIsso não significa que essa geração não queira morar sozinha, comprar ou construir patrimônio. Significa que o caminho ficou mais longo, mais caro e menos linear.\n\nE aqui mora uma pergunta importante para o real estate: quando essa demanda finalmente aparecer com mais força, o mercado vai ter o produto certo?\n\nTalvez não seja o apartamento grande, financiado por 30 anos, longe do trabalho e dependente de carro. Talvez seja uma unidade menor, mais bem localizada, com aluguel profissional, custo previsível, serviços compartilhados, flexibilidade contratual e uma lógica de moradia mais conectada à vida real dessa geração.\n\nO ponto não é romantizar o atraso na independência. É entender o que ele revela.\n\nSe o jovem demora mais para sair da casa dos pais, a demanda não desapareceu. Ela ficou represada.\n\nE demanda represada, quando encontra produto certo, vira mercado.\n\nA pergunta é se o setor está olhando para essa geração como um problema de renda… ou como uma nova tese de produto.",
+    "origem_coleta": "acervo:gri-building-tomorrow"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1513546066895165.jpg"
+}

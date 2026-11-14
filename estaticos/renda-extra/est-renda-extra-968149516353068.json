@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-968149516353068",
+  "tipo": "estatico",
+  "titulo": "Checklist curto para começar a vender roupas",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Um cartão branco imita uma janela de computador sobre fundo lilás. A manchete roxa abre uma lista de três itens com checks verdes, acompanhada por recortes de camiseta e celular e um botão roxo.",
+  "por_que_funciona": [
+    "Os três checks verdes transformam a proposta em requisitos fáceis de percorrer.",
+    "A camiseta e o celular ilustram dois itens citados na lista.",
+    "A manchete roxa ocupa o topo e explicita o objetivo de renda extra.",
+    "O botão roxo na parte inferior fecha o percurso de leitura."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de revenda a pessoas com peças sem uso e explicar os passos iniciais.",
+  "estrutura_texto": "Para [objetivo], você precisa de:\n✓ [Recurso disponível]\n✓ [Ferramenta]\n✓ [Etapa simples]\n[CTA]",
+  "legenda": "Tem [item sem uso]? Anuncie em [plataforma] e acompanhe as etapas de venda pelo [dispositivo]. Veja [taxas e condições] e comece sua loja.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo lilás com cartão branco de cantos arredondados e sombra, simulando uma janela com três círculos no alto. Crie manchete roxa grande, três linhas de checklist com checks verdes, recortes do produto e de celular à direita e botão roxo na base. Use tempo de execução somente se comprovado.",
+  "alerta_politica": "Meta: oportunidades de renda devem explicar a atividade e as condições, sem garantir ganhos ou sugerir resultados típicos sem comprovação. Valores e depoimentos precisam de evidências; ressalvas não corrigem uma promessa enganosa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "968149516353068",
+    "anunciante": "enjoei.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 4,
+    "texto_original": "vender no enjoei é fácil, rápido e seguro. chega mais, faz tua lojinha. 😎\nvenda o que não usa\nSell Now",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-968149516353068.jpg"
+}

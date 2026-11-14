@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-3344034859088684",
+  "tipo": "estatico",
+  "titulo": "Entrega de água explicada em três passos",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Painel azul-escuro apresenta três passos para pedir água. Embalagens de diferentes tamanhos aparecem na base, sobre um fundo com textura de água.",
+  "por_que_funciona": [
+    "A chamada numerada antecipa um processo curto.",
+    "Ícones de lupa, carrinho e caminhão acompanham cada etapa.",
+    "O painel azul-escuro dá contraste às instruções brancas.",
+    "Galão, garrafa e fardo tornam visíveis as opções de compra."
+  ],
+  "quando_usar": "Serviços de entrega que precisam explicar a primeira compra e mostrar os formatos disponíveis.",
+  "estrutura_texto": "Você está a [número] passos de [produto em casa]\n[Escolha os produtos]\n[Adicione ao carrinho]\n[Agende a entrega]\n[Marca]",
+  "legenda": "Receba [produto] em [local atendido]. Escolha entre [opções], adicione ao carrinho e agende sua entrega em [canal]. Consulte [disponibilidade e condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul muito claro com reflexos de água e painel vertical azul-escuro com cantos arredondados. No alto, use chamada branca grande com o número de etapas; abaixo, três linhas com ícones ciano de busca, compra e entrega. Posicione fotos dos produtos na base, sobrepondo a borda do painel. Preserve as embalagens do produto fornecido.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3344034859088684",
+    "anunciante": "Primo Water",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-20",
+    "dias_no_ar": 267,
+    "variacoes_ativas": 2,
+    "texto_original": "You’re only 3 steps away from hydration made easy. Choose from a variety of iconic brands like Pure Life®, Saratoga®, and The Mountain Valley® Spring Water delivered to you.\n3 steps to quality hydration\nOrder, schedule, enjoy",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-3344034859088684.jpg"
+}

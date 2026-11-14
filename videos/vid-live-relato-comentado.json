@@ -1,0 +1,95 @@
+{
+ "id": "vid-live-relato-comentado",
+ "formato_video": "corte-live",
+ "nichos": [
+  "emagrecimento-fitness",
+  "educacao-concursos",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Corte de live lê um relato e explica a etapa aplicada",
+ "duracao": "60-71s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Vídeo de atividade na parte superior; cartão de mensagem anonimizada sobreposto. Metade inferior com arte fixa do produto.",
+   "fala": "Chegou um relato de quem participou de [produto]. Vou ler o trecho sobre [etapa da experiência].",
+   "texto_tela": "Relato de participante"
+  },
+  {
+   "tempo": "8-21s",
+   "cena": "Manter atividade ao fundo e ampliar só o trecho autorizado da mensagem; sem nome, valor de doação ou foto pessoal.",
+   "fala": "A pessoa conta: [paráfrase fiel de relato real sobre execução ou aprendizado]. Ela descreve o que conseguiu colocar em prática em [contexto].",
+   "texto_tela": "[Trecho autorizado do relato]"
+  },
+  {
+   "tempo": "21-34s",
+   "cena": "Cortar da atividade para apresentador frontal na metade superior; arte inferior continua fixa.",
+   "fala": "Vou explicar onde isso entra no [produto]. A primeira orientação é [ação concreta]. O material mostra [recurso] pra ajudar nessa etapa.",
+   "texto_tela": "[Ação concreta]"
+  },
+  {
+   "tempo": "34-48s",
+   "cena": "Apresentador gesticula em plano médio, palavras vermelhas curtas próximas à divisão das faixas.",
+   "fala": "Depois, a pessoa registra [informação] e usa [recurso de revisão]. Se aparece [dificuldade], a orientação é [próximo passo previsto].",
+   "texto_tela": "[Recurso de revisão]"
+  },
+  {
+   "tempo": "48-61s",
+   "cena": "Mesmo plano frontal; destacar na arte inferior o nome adaptável do produto, sem alegação de resultado.",
+   "fala": "Obrigado por contar como foi aplicar [etapa]. Esse é um relato individual. A experiência depende de [condição relevante] e precisa ser vista nesse contexto.",
+   "texto_tela": "Experiência individual"
+  },
+  {
+   "tempo": "61-71s",
+   "cena": "Apresentador encerra olhando à câmera; arte fixa exibe chamada discreta.",
+   "fala": "No link você encontra [conteúdo ou funcionamento do produto]. Veja [requisito de participação] e confira se o formato cabe na sua rotina.",
+   "texto_tela": "Veja como funciona"
+  }
+ ],
+ "hook": {
+  "falado": "Chegou um relato de quem participou de [produto]. Vou ler o trecho sobre [etapa da experiência].",
+  "texto_tela": "Relato de participante",
+  "visual": "Vídeo de atividade na parte superior; cartão de mensagem anonimizada sobreposto. Metade inferior com arte fixa do produto."
+ },
+ "por_que_funciona": [
+  "O cartão de mensagem sobre a atividade abre o vídeo com uma contribuição específica da live.",
+  "A composição mantém vídeo em cima e arte de campanha embaixo mesmo quando muda o apresentador.",
+  "A passagem da cena de treino para a fala frontal separa a leitura do relato da explicação.",
+  "As palavras vermelhas junto à divisão das faixas acompanham a fala e contrastam com o fundo escuro inferior."
+ ],
+ "quando_usar": "Para cursos e programas que têm relatos reais autorizados sobre participação ou aprendizado. Use no meio do funil para explicar uma etapa que o público ainda não conhece.",
+ "roteiro_modelo": "Chegou um relato de quem participou de [produto]. Vou ler o trecho sobre [etapa da experiência].\n\n[Pausa / corte]\n\nA pessoa conta: [paráfrase fiel de relato real sobre execução ou aprendizado]. Ela descreve o que conseguiu colocar em prática em [contexto].\n\n[Pausa / corte]\n\nVou explicar onde isso entra no [produto]. A primeira orientação é [ação concreta]. O material mostra [recurso] pra ajudar nessa etapa.\n\n[Pausa / corte]\n\nDepois, a pessoa registra [informação] e usa [recurso de revisão]. Se aparece [dificuldade], a orientação é [próximo passo previsto].\n\n[Pausa / corte]\n\nObrigado por contar como foi aplicar [etapa]. Esse é um relato individual. A experiência depende de [condição relevante] e precisa ser vista nesse contexto.\n\n[Pausa / corte]\n\nNo link você encontra [conteúdo ou funcionamento do produto]. Veja [requisito de participação] e confira se o formato cabe na sua rotina.",
+ "tomadas_celular": [
+  "Plano aberto de uma atividade relacionada a [produto], luz de janela e celular fixo, 8s.",
+  "Mesmo ambiente com atividade ao fundo, luz constante, 13s para a leitura em voz sobreposta.",
+  "Apresentador em plano médio frontal, luz suave a 45 graus, 13s para explicar a primeira etapa.",
+  "Mesmo enquadramento com mãos visíveis, luz constante, 14s para explicar a revisão.",
+  "Plano médio de agradecimento, luz frontal, 13s; deixe espaço inferior para as palavras vermelhas.",
+  "Plano médio do convite, luz frontal, 10s; produza a faixa fixa no editor do celular."
+ ],
+ "caminho_ia": "Gere a atividade no Runway ou Veo e faça a explicação com avatar ou voz clonada autorizada. Monte duas faixas no CapCut: vídeo superior e arte inferior criada com imagens geradas. Prompts: \"Vertical 9:16 upper-panel composition, fictional adults practicing [product-related activity] in [environment], candid livestream framing, soft practical light, leave lower half clear for a separate graphic, no logos, no text.\" e \"Vertical 9:16 medium shot of a fictional host explaining [product step], natural hand gestures, eye-level camera, consistent indoor lighting, upper-half safe composition, no text.\" Use somente relato real autorizado e anonimizado; se não houver, troque o cartão por uma pergunta ilustrativa identificada e não simule depoimento real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um corte de live de 71s: 0-8 chegada do relato; 8-21 leitura anonimizada; 21-34 explicação frontal; 34-48 aplicação; 48-61 agradecimento e contexto; 61-71 convite. Vídeo superior sobre arte fixa inferior, palavras vermelhas por vez, ritmo de conversa com pausas de leitura. Use relato real fornecido e autorizado; se faltar, peça o relato ou use pergunta ilustrativa identificada. Não invente depoimentos, doações, números de participantes ou resultados. Para saúde, foque adesão e processo, sem promessa de perda de peso. Não copie pessoas, marcas, nomes, slogans, interface, números ou alegações da referência. Use apenas informações comprováveis do meu produto. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas decorativas e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Relato autorizado sobre participação ou aprendizado]. Neste trecho, explicamos como funciona [etapa do produto]. Veja [conteúdo disponível] no link. Experiências individuais variam.",
+ "alerta_politica": "Meta: não use antes/depois corporal, promessa de resultado de saúde ou quilos perdidos em prazo fixo; não atribua condição de saúde ao espectador. Relatos individuais não comprovam resultado típico e não justificam repetir promessa extrema. Use consentimento, anonimização e documentação do relato. Se houver profissional médico ou produto regulado na adaptação, observe CFM e ANVISA, respectivamente.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-95ff53e8",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-live-relato-comentado/frames/f1.jpg",
+    "videos/vid-live-relato-comentado/frames/f2.jpg",
+    "videos/vid-live-relato-comentado/frames/f3.jpg",
+    "videos/vid-live-relato-comentado/frames/f4.jpg",
+    "videos/vid-live-relato-comentado/frames/f5.jpg"
+   ]
+  }
+ ]
+}

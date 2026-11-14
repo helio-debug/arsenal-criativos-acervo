@@ -1,0 +1,36 @@
+{
+  "id": "est-imoveis-1308500748146886",
+  "tipo": "estatico",
+  "titulo": "Fachada de edifício vista da rua",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto em ângulo baixo de um edifício residencial com sacadas, portão metálico e palmeiras. Uma pequena placa de fechamento do portão aparece no canto inferior.",
+  "por_que_funciona": [
+    "O enquadramento de baixo para cima mostra a altura do edifício.",
+    "As sacadas repetidas permitem reconhecer o desenho da fachada.",
+    "O portão e as palmeiras contextualizam o acesso pela rua."
+  ],
+  "quando_usar": "Para complementar a apresentação de um apartamento com a aparência externa do prédio.",
+  "estrutura_texto": "[Foto da fachada e do acesso ao edifício, sem chamada comercial]",
+  "legenda": "Apartamento à venda em [bairro], próximo a [referência local]. [Preço], [número de quartos] quartos e [número de banheiros] banheiros. Agende uma visita. [Se houver carrossel: informações referentes à primeira unidade.]",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático de imóvel na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base do imóvel anunciado. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto verticalizada da fachada ocupando todo o quadro, vista da rua em ângulo baixo, com sacadas, acesso e vegetação visíveis. Preserve os tons reais do edifício e evite faixas comerciais. Utilize os dados de MEU PRODUTO e não invente características, valores ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1308500748146886",
+    "anunciante": "Imóveis Presidente Ltda",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-09",
+    "dias_no_ar": 158,
+    "variacoes_ativas": 1,
+    "texto_original": "Viver na Rua Coronel Dulcídio, 587 é estar no epicentro do prestígio, no coração pulsante do Batel, a poucos passos do Shopping Batel! \nR$1,150,000 \nRua Coronel Dulcídio, 587 \n3  Quartos\n 3 Banheiros\nref: AP 94000 \n\nAo comprar com a Imóveis Presidente, você conta com a solidez de uma empresa com mais de 40 anos de experiência no mercado e que é sinônimo de tradição e confiabilidade.\n\nAgende já sua visita!\n\nObs. As informações desta descrição referem-se apenas ao primeiro imóvel do carrossel.\n\nCRECI-PR J-643.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1308500748146886.jpg"
+}

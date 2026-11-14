@@ -1,0 +1,95 @@
+{
+ "id": "vid-retomada-pagina-dividida",
+ "tipo": "video",
+ "titulo": "Retomada em tela dividida com página do evento, desconto e prazo",
+ "formato_video": "split-screen",
+ "nichos": [
+  "eventos-lives",
+  "infoproduto-cursos",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "fundo",
+ "duracao": "35-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "As inscrições para [evento] seguem abertas. Aqui estão as condições desta turma.",
+  "texto_tela": "INSCRIÇÕES ABERTAS",
+  "visual": "Tela dividida: página da oferta na metade superior, selfie com microfone na inferior. Faixa preta com chamada branca entre as duas."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Tela dividida: página da oferta na metade superior, selfie com microfone na inferior. Faixa preta com chamada branca entre as duas.",
+   "fala": "As inscrições para [evento] seguem abertas. Aqui estão as condições desta turma.",
+   "texto_tela": "INSCRIÇÕES ABERTAS"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Mantém a divisão, página com preço e condição destacados acima do rosto.",
+   "fala": "O ingresso está por [preço atual], com [desconto real] até [prazo real]. Confira as regras na página.",
+   "texto_tela": "[Preço atual] • até [prazo]"
+  },
+  {
+   "tempo": "12-20s",
+   "cena": "Parte superior troca a página por notebook mostrando um exemplo; apresentador segue embaixo.",
+   "fala": "Durante o encontro, você vai praticar [atividade]. Este exemplo mostra [aplicação concreta].",
+   "texto_tela": "PRATIQUE [ATIVIDADE]"
+  },
+  {
+   "tempo": "20-27s",
+   "cena": "Segundo exemplo no notebook, com detalhe do uso; manter faixa preta e texto branco.",
+   "fala": "Também vamos trabalhar [segunda aplicação] usando [recurso disponível no evento].",
+   "texto_tela": "[Segunda aplicação]"
+  },
+  {
+   "tempo": "27-33s",
+   "cena": "Retorna à página na metade superior; data e formato legíveis.",
+   "fala": "Será em [data], no formato [online ou presencial]. A programação está no mesmo link.",
+   "texto_tela": "[Data] • [formato]"
+  },
+  {
+   "tempo": "33-38s",
+   "cena": "Selfie em tela cheia, microfone na mão e fundo de tijolos ou parede neutra.",
+   "fala": "Toque no link para conferir o valor e concluir sua inscrição até [prazo real].",
+   "texto_tela": "Consultar oferta e inscrição"
+  }
+ ],
+ "por_que_funciona": [
+  "A página ocupa a metade superior enquanto o rosto permanece embaixo, permitindo ouvir a explicação e localizar a oferta.",
+  "A faixa preta com letras brancas marca a divisão e mantém a chamada separada da página.",
+  "Os inserts do notebook trocam a página por exemplos visuais sem retirar o apresentador do quadro.",
+  "A selfie em tela cheia no fim concentra a atenção no pedido de clique após as demonstrações."
+ ],
+ "quando_usar": "Para retomar a divulgação de evento ou curso com oferta vigente e exemplos visuais do conteúdo. Use no fundo do funil, com preço, prazo e página coerentes entre si.",
+ "roteiro_modelo": "[0-5s] As inscrições para [evento] seguem abertas. Aqui estão as condições desta turma.\n\n[pausa curta; corte]\n\n[5-12s] O ingresso está por [preço atual], com [desconto real] até [prazo real]. Confira as regras na página.\n\n[pausa curta; corte]\n\n[12-20s] Durante o encontro, você vai praticar [atividade]. Este exemplo mostra [aplicação concreta].\n\n[pausa curta; corte]\n\n[20-27s] Também vamos trabalhar [segunda aplicação] usando [recurso disponível no evento].\n\n[pausa curta; corte]\n\n[27-33s] Será em [data], no formato [online ou presencial]. A programação está no mesmo link.\n\n[pausa curta; corte]\n\n[33-38s] Toque no link para conferir o valor e concluir sua inscrição até [prazo real].",
+ "tomadas_celular": [
+  "Grave 5s em selfie com microfone na mão, luz de janela frontal, rosto na metade inferior para montar a divisão.",
+  "Filme 7s da página com preço e regras, celular estável, enquadramento frontal e luz sem reflexos.",
+  "Filme 8s do primeiro exemplo no notebook, close da tela, luz ambiente suave e foco travado.",
+  "Filme 7s do segundo exemplo, detalhe da interação no teclado, luz lateral e tela exposta corretamente.",
+  "Filme 6s da seção com data e formato, câmera apoiada e sem reflexo da janela.",
+  "Grave 5s em selfie cheia, luz frontal, câmera à altura dos olhos e chamada curta para o link."
+ ],
+ "caminho_ia": "Crie a base com avatar autorizado ou voz sintética licenciada e monte a página e os exemplos no CapCut. Use Runway ou Veo para inserts: \"Vertical 9:16 close-up of a laptop displaying [product demo], slow handheld push-in, soft side light, screen area ready for compositing, eight seconds, no logos or text.\" e \"Vertical 9:16 selfie-style medium close-up of an authorized presenter holding a small microphone, brick wall office background, soft frontal daylight, steady eye contact, five seconds, no text or logos.\" Componha a página real da oferta na metade superior. Insira preço e prazo como texto no editor, usando condições reais; exemplos sintéticos precisam ser identificados.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 38s em seis blocos: 0-5s inscrições abertas; 5-12s preço, desconto e prazo; 12-20s primeiro exemplo; 20-27s segunda aplicação; 27-33s data e formato; 33-38s chamada em selfie cheia. Mantenha página ou demonstração na metade superior e apresentador embaixo até o último bloco. Use faixa preta com texto branco, tom de conversa e cortes quando mudar o exemplo. Não afirme saber que a pessoa visitou a página. Não diga que o vídeo nunca aparecerá de novo. Não culpe o público pelo preço nem invente escassez; se não houver prazo ou desconto, use as condições vigentes sem urgência. Não copie pessoas, personagens, falas, marcas, nomes de clientes, logotipos, datas ou identidade visual da referência. Use apenas dados e provas fornecidos sobre meu produto; se faltar informação, deixe [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, pergunta decorativa, tríade decorativa ou antítese vazia. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Inscrições abertas para [evento], em [data]. Nesta turma, vamos praticar [aplicação]. Valor de [preço atual] com [condição real], válido até [prazo real]. Confira as regras e a programação no link.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-eeaa030a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-retomada-pagina-dividida/frames/f1.jpg",
+    "videos/vid-retomada-pagina-dividida/frames/f2.jpg",
+    "videos/vid-retomada-pagina-dividida/frames/f3.jpg",
+    "videos/vid-retomada-pagina-dividida/frames/f4.jpg",
+    "videos/vid-retomada-pagina-dividida/frames/f5.jpg"
+   ]
+  }
+ ]
+}

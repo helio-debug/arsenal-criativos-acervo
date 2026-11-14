@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-28287722790899252",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre quem acompanha o projeto",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Pergunta no alto à esquerda introduz a instituição responsável por uma formação aplicada. Uma conversa entre dois profissionais ocupa a direita e a parte inferior, com ondas lilases no rodapé.",
+  "por_que_funciona": [
+    "O trecho lilás enfatiza o acompanhamento no projeto.",
+    "O profissional sorrindo e gesticulando torna visível uma situação de orientação.",
+    "O bloco curto abaixo da pergunta direciona a atenção para quem oferece a formação."
+  ],
+  "quando_usar": "Para apresentar a equipe ou instituição a pessoas que já consideram uma formação com acompanhamento.",
+  "estrutura_texto": "Quem estará ao seu lado no seu [projeto]? Conheça a [instituição/equipe] por trás do [programa].",
+  "legenda": "Escolher uma formação aplicada também envolve conhecer quem vai orientar o projeto. O [programa] reúne [experiência verificável] e [acompanhamento] em um desafio real de [contexto]. Conheça a proposta em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma conversa profissional na metade direita e inferior, usando a IMAGEM 2 como apoio visual do serviço. Reserve o alto à esquerda para pergunta em azul-escuro, com um trecho lilás, traço curto e texto de apresentação. Use fundo claro e ondas lilases discretas no rodapé. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28287722790899252",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Escolher uma formação aplicada é escolher quem vai orientar o seu desenvolvimento. O Program Prático de Formação Lean Serviços reúne a experiência de quase 30 anos do Lean Institute Brasil, nossa conexão com a Lean Global Network e o acompanhamento de especialistas seniores em um projeto A3 real da sua empresa.\n\nAprenda a eliminar a burocracia, organizar fluxos e elevar o nível de entrega do seu setor.\n\nConheça o programa.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-28287722790899252.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1755392415637639",
+  "tipo": "estatico",
+  "titulo": "Chamada para imóvel com multidão ao fundo",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com homem sorridente no centro e multidão em desfoque radial sobre fundo preto. A chamada de imóvel está no alto, enquanto o botão de simulação ocupa o canto inferior esquerdo.",
+  "por_que_funciona": [
+    "O título ocupa o topo à direita da área de marca.",
+    "O personagem nítido se destaca da multidão desfocada.",
+    "O botão branco no rodapé separa o CTA do fundo preto.",
+    "Os trechos em negrito destacam o imóvel como assunto principal."
+  ],
+  "quando_usar": "Para captar simulações de consórcio voltado à aquisição planejada de imóveis.",
+  "estrutura_texto": "Invista em [bem] com [solução].\n[Afirmação institucional comprovável]\n[Mensagem de posicionamento]\nSIMULE AGORA\n[Condições legais]",
+  "legenda": "Conheça os planos de [consórcio imobiliário] para adquirir [tipo de imóvel]. Simule em [canal] e confira custos, condições de parcela reduzida e regras de contemplação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição vertical preta, pessoa autorizada ao centro em perspectiva superior e multidão com desfoque radial. Coloque título branco no alto à direita, área da própria marca à esquerda e botão branco com letras vermelhas embaixo. Reserve espaço legível para condições. Não copie pessoa, slogan ou alegações de liderança da referência.",
+  "alerta_politica": "Em anúncios de crédito e consórcio, informe taxas, custos e condições de forma clara. Não prometa aprovação, contemplação ou entrega imediata do bem. Consórcio depende de contemplação por sorteio ou lance; ausência de juros não elimina taxa de administração e outros encargos. Evite afirmar a situação financeira pessoal do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1755392415637639",
+    "anunciante": "Ademicon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 1,
+    "texto_original": "Imóvel para renda?!\ninvista em imóveis prontos ou na planta com crédito à vista e condições especiais. Simule seu plano!\nConsórcio imobiliário com parcelas reduzidas\nÉ crédito. É investimento.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1755392415637639.jpg"
+}

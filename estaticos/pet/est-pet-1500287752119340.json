@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-1500287752119340",
+  "tipo": "estatico",
+  "titulo": "Compra online com retirada na loja",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "A metade esquerda traz uma fachada sob filtro laranja e a chamada de retirada. À direita, um cachorro segura uma embalagem sobre um balcão, ao lado de uma lista de compras pet.",
+  "por_que_funciona": [
+    "A chamada branca sobre laranja destaca a modalidade de compra e retirada.",
+    "O cachorro com a embalagem representa visualmente o pedido pronto.",
+    "A lista de ração, petisco e acessórios lembra itens de reposição.",
+    "O balcão e a fachada conectam o pedido online à loja física."
+  ],
+  "quando_usar": "Para lojas pet com retirada presencial, ao divulgar essa opção a compradores da região.",
+  "estrutura_texto": "COMPRE [CANAL DE COMPRA]\nRETIRE [LOCAL]\n[INSTRUÇÃO CURTA]\n[LISTA DE ITENS PET]",
+  "legenda": "Mora em [cidade ou região]? Compre em [site] e retire em [loja]. Seu pedido fica disponível em [prazo após aprovação]. Consulte [unidades e condições de retirada].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição em duas metades: à esquerda, foto de fachada autorizada com filtro laranja e chamada branca em caixa alta, com maior peso em “RETIRE [LOCAL]”; à direita, cachorro com a embalagem do produto sobre balcão de madeira e pequena lista com ícones de patas. Use fundo bege, texto de apoio pequeno e marca própria discreta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1500287752119340",
+    "anunciante": "Pet Shop Casa Do Produtor",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-11",
+    "dias_no_ar": 95,
+    "variacoes_ativas": 1,
+    "texto_original": "Mora em Curitiba ou região? Agora você pode fazer suas compras no site e retirar em nossa loja física e economizar!\n\nEm até 2 horas após a aprovação do seu pedido, você poderá passar na em qualquer loja física da Casa Do Produtor e retirar os que comprou pelo site, sem precisar descer do carro. É muita agilidade e velocidade para o seu dia a dia!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-1500287752119340.jpg"
+}

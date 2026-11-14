@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1373410544783571",
+  "tipo": "estatico",
+  "titulo": "Benefício de clareza com funil de vendas na tela",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "amostra-teste",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo verde com chamada grande em branco e amarelo, faixa de teste gratuito e uma demonstração de funil comercial em colunas.",
+  "por_que_funciona": [
+    "A palavra destacada em amarelo concentra a promessa em clareza.",
+    "A faixa amarela torna o teste gratuito fácil de localizar.",
+    "As colunas e os cartões mostram como o CRM organiza as oportunidades."
+  ],
+  "quando_usar": "Para apresentar um CRM a equipes comerciais e converter interesse em teste.",
+  "estrutura_texto": "[Marca]\nTroque [dificuldade] por [benefício]\nTeste [produto] de graça\n[Interface com etapas e oportunidades]",
+  "legenda": "Organize [processo comercial] com um CRM visual. Acompanhe [oportunidades] e saiba qual é o próximo passo de cada negociação. Teste [produto] de graça.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo de cor sólida, logotipo próprio pequeno no topo e título grande alinhado à esquerda. Destaque a palavra do benefício em cor contrastante. Abaixo, inclua uma faixa de CTA e uma interface em três colunas com cartões, usando dados fictícios e textos legíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1373410544783571",
+    "anunciante": "Pipedrive",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-27",
+    "dias_no_ar": 201,
+    "variacoes_ativas": 3,
+    "texto_original": "Feche negócios mais rápido com o Pipedrive, o CRM de vendas visual que ajuda você a vender com confiança.\nMenos tarefas. Mais negócios.\nTransforme visibilidade em resultados com o CRM de vendas para fechar mais negócios. Mude para o Pipedrive.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1373410544783571.jpg"
+}

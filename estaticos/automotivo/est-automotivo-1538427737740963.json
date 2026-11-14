@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-1538427737740963",
+  "tipo": "estatico",
+  "titulo": "Foto de estoque com veículo em três quartos",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de um hatch prateado em um salão claro, com identificação da revenda na parede e na placa. O carro aparece inteiro em ângulo de três quartos, sem oferta sobreposta.",
+  "por_que_funciona": [
+    "O ângulo de três quartos mostra frente e lateral do veículo na mesma foto.",
+    "O ambiente claro permite observar carroceria, rodas e acabamento.",
+    "A identificação na parede e na placa situa o veículo dentro de uma loja."
+  ],
+  "quando_usar": "Para apresentar uma unidade de estoque e iniciar consultas sobre disponibilidade e características.",
+  "estrutura_texto": "[Identificação da revenda no ambiente]\n[Foto do veículo sem chamada sobreposta]",
+  "legenda": "Encontre seu próximo [tipo de veículo] em [revenda]. Conheça o [modelo/ano], confira [características] e consulte [disponibilidade e condições]. Fale com [canal] para agendar uma visita.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma foto de apresentação do veículo em salão claro, com piso neutro e enquadramento de três quartos que mostre o carro inteiro. Preserve as características reais do produto da IMAGEM 2. Use identificação própria discreta no ambiente, sem acrescentar preço ou promoção. Adapte o enquadramento à proporção solicitada sem cortar o veículo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1538427737740963",
+    "anunciante": "Ecco multimarcas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-15",
+    "dias_no_ar": 152,
+    "variacoes_ativas": 1,
+    "texto_original": "Ecco Multimarcas – Tradição, Confiança e Qualidade há mais de 20 anos\n\nHá mais de duas décadas, a Ecco Multimarcas atua no mercado automotivo oferecendo aos seus clientes segurança, transparência e excelência em cada negociação. Nossa história foi construída com base na confiança de milhares de clientes que encontraram conosco o veículo ideal para suas necessidades.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1538427737740963.jpg"
+}

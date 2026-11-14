@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1053456824081266",
+  "tipo": "estatico",
+  "titulo": "Convite para revenda em dois blocos de beleza",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Chamada branca sobre topo vinho e dois blocos inferiores, laranja e rosa, apresentam cosméticos. Uma faixa branca atravessa os blocos e convida à consultoria de beleza.",
+  "por_que_funciona": [
+    "“Contrate-se” resume o convite à atividade independente em uma palavra.",
+    "Os dois blocos de cor organizam os grupos de produtos.",
+    "A faixa branca central conecta os produtos ao convite para consultoria."
+  ],
+  "quando_usar": "Para apresentar uma oportunidade de revenda usando o portfólio como principal atrativo.",
+  "estrutura_texto": "[CHAMADA PARA ATIVIDADE INDEPENDENTE]\n[CONVITE À OPORTUNIDADE]\nFaça parte de [PROGRAMA DE REVENDA].",
+  "legenda": "Conheça a revenda de [categoria de produtos] e veja como participar de [programa]. Consulte requisitos, margens e condições antes de começar. Acesse [destino] para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie topo vinho com título branco curto e subtítulo centralizado. Divida a metade inferior em duas áreas, laranja e rosa, com recortes dos produtos da IMAGEM 2. Sobreponha uma faixa branca arredondada de convite e um pequeno ícone monetário. Reserve espaço para a identidade fornecida sem reproduzir marcas da referência.",
+  "alerta_politica": "Meta: não apresentar renda como garantida nem prometer ganhos fáceis. Valores e estimativas precisam de comprovação e condições claras, incluindo requisitos, custos e variação dos resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1053456824081266",
+    "anunciante": "Consultoria Natura e Avon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-04",
+    "dias_no_ar": 71,
+    "variacoes_ativas": 3,
+    "texto_original": "Lucro certo com os produtos que todo mundo ama. Faça parte da nossa rede de beleza!\nVenda Natura e Avon\nGaranta sua renda extra vendendo os melhores produtos. Contrate-se e comece a lucrar!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1053456824081266.jpg"
+}

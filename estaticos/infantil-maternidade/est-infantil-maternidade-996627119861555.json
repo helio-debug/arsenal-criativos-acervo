@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-996627119861555",
+  "tipo": "estatico",
+  "titulo": "Guia de brinquedos caseiros com grade de projetos e preço",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Peça de fundo preto combina título em branco, vermelho e amarelo, mockup de guia e grade de nove projetos de brinquedos. A base reúne entregáveis, preço de R$ 10 e botão vermelho.",
+  "por_que_funciona": [
+    "As nove fotos mostram exemplos concretos de projetos incluídos.",
+    "As etiquetas amarelas identificam cada categoria sem depender da legenda.",
+    "O preço em vermelho sobre amarelo ganha destaque na base.",
+    "Os ícones de vídeos, PDFs e bônus tornam os entregáveis identificáveis."
+  ],
+  "quando_usar": "Para vender um guia prático com variedade de projetos e oferta com preço definido.",
+  "estrutura_texto": "[Transformação prática] + [quantidade de projetos] + [mockup do guia] + [grade de categorias] + [entregáveis] + [preço anterior e atual] + [CTA].",
+  "legenda": "Crie [tipo de projeto] em casa com o guia [nome]. Acesse [quantidade] atividades, [formatos dos materiais] e [bônus reais]. Aproveite [oferta] até [prazo verdadeiro] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição de fundo preto com manchete no alto à esquerda e mockup do guia à direita. No centro, organize nove fotos reais de projetos em grade de três colunas, com etiquetas amarelas. Na base, mostre entregáveis com ícones, preço em bloco amarelo e CTA vermelho. Use somente quantidades, bônus, preço e prazo confirmados; não replique a divergência entre bônus da arte e da legenda.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "996627119861555",
+    "anunciante": "Mundo Pequeno Gênio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-22",
+    "dias_no_ar": 115,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 Última dia da oferta! Com o Mundo Pequeno Gênio, seu filho aprende, cria e se diverte longe das telas com mais de 100 brincadeiras sustentáveis e criativas.\n\n🌱 Menos celular, mais risadas e memórias inesquecíveis!\n🎁 Acesse agora e receba 4 bônus exclusivos somente hoje!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-996627119861555.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1615707773439166",
+  "tipo": "estatico",
+  "titulo": "Linha de telas náuticas em composição de profundidade",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Três equipamentos náuticos de tamanhos diferentes aparecem sobre tecido ondulado, com mapas e gráficos de sonar nas telas. Uma embarcação em mar dourado ocupa a parte superior.",
+  "por_que_funciona": [
+    "Os três aparelhos em tamanhos diferentes apresentam a variedade da linha.",
+    "As telas com mapa e sonar mostram aplicações distintas no mesmo conjunto.",
+    "A disposição em profundidade permite ver os produtos sem dividir a arte em blocos.",
+    "O mar dourado contrasta com a base azul e mantém a embarcação reconhecível ao fundo."
+  ],
+  "quando_usar": "Para apresentar equipamentos eletrônicos náuticos a pessoas que já conhecem a categoria e avaliam recursos ou configurações.",
+  "estrutura_texto": "[Marca no cenário de uso]\n[Linha de produtos]\n[Marca]\n[Assinatura curta]",
+  "legenda": "Integre [GPS], [sonar] e [outros recursos disponíveis] em [linha de equipamentos]. Conheça as opções de tela e escolha a configuração para [tipo de embarcação ou uso]. Consulte [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize três equipamentos da IMAGEM 2 em tamanhos e ângulos diferentes sobre tecido ondulado azul, vermelho e branco. Deixe o menor ao centro e atrás, com os maiores nas laterais, preservando mapas e gráficos reais das telas. No terço superior, mostre uma embarcação navegando ao pôr do sol, com luz alaranjada. Reserve o canto inferior direito para identidade própria e assinatura curta. Não sugira que os itens formam um kit se isso não constar da oferta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1615707773439166",
+    "anunciante": "Raymarine USA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-18",
+    "dias_no_ar": 88,
+    "variacoes_ativas": 1,
+    "texto_original": "Power up and go.\nAxiom 2 Pro’s 6-core processor and intuitive LightHouse OS deliver lightning-fast GPS, sonar, radar and video—seamlessly integrated.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1615707773439166.jpg"
+}

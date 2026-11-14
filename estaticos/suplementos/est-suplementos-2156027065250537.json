@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-2156027065250537",
+  "tipo": "estatico",
+  "titulo": "Colagem de suplementos convida para grupo",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Colagem de quatro fotos caseiras mostra embalagens de suplementos diante de um computador. A chamada central branca destaca o grupo de ofertas, com faixa laranja e dedos apontando para baixo.",
+  "por_que_funciona": [
+    "A colagem mostra diferentes categorias de suplementos em uma única peça.",
+    "A faixa laranja separa a categoria do restante do título.",
+    "A chamada central permanece legível sobre a divisão das fotos."
+  ],
+  "quando_usar": "Aquisição de participantes para um grupo que reúne ofertas de várias categorias de suplementos.",
+  "estrutura_texto": "Você achou [grupo de ofertas]\nO [qualificador verificável] GRUPO\nde ofertas\nde [categoria]\n[Indicadores para o link]",
+  "legenda": "Entre em [grupo/canal] para acompanhar ofertas de [categorias]. Receba [cupons e condições disponíveis] de [plataformas participantes]. Acesse por [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma grade de quatro fotos espontâneas com produtos próximos a um computador, sem copiar telas ou cenários da referência. Sobreponha texto branco central em hierarquia condensada e uma faixa laranja para a categoria. Acrescente indicadores amarelos para baixo. Não crie promessas de desempenho nem superioridade sem comprovação.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2156027065250537",
+    "anunciante": "ONFIT l Promoções",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-26",
+    "dias_no_ar": 202,
+    "variacoes_ativas": 12,
+    "texto_original": "🚨 ECONOMIZE DE VERDADE NOS MAIORES MARKETPLACES DO BRASIL!\n\nEntre no grupo e tenha acesso a:\n✅ Produtos 100% originais\n✅ Promoções com preços abaixo do normal\n✅ Cupons de desconto exclusivos\n\nTudo isso nas principais plataformas do país 🛒\n\n👉 Clique em Saiba Mais e participe agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-2156027065250537.jpg"
+}

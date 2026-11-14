@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1101412705770133",
+  "tipo": "estatico",
+  "titulo": "Convite para cadastro em postagem de fundo preto",
+  "formato": "Print de tela",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma postagem estilizada em fundo preto traz avatar circular azul e identificação no topo. Texto branco, marcadores verdes e trechos em negrito apresentam condições e um convite ao cadastro.",
+  "por_que_funciona": [
+    "O fundo preto e o texto branco criam contraste constante.",
+    "O avatar e a identificação no topo dão aparência de postagem digital.",
+    "Os marcadores verdes permitem localizar cada possibilidade de trabalho.",
+    "O título e o fechamento repetem a ação de cadastro."
+  ],
+  "quando_usar": "Apresentar modalidades e requisitos de uma plataforma de trabalho em uma peça textual para leitura no feed.",
+  "estrutura_texto": "[Identificação do perfil]\n[Nome da plataforma]\n[CADASTRE-SE E CONHEÇA A OPORTUNIDADE]\n[Contexto da atividade]\nCom [plataforma], você pode:\n✅ [Requisito]\n✅ [Condição de repasse]\n✅ [Opção de recurso]\n✅ [Modalidade]\n[Recursos de apoio]\n➡️ [CTA]\n[Termos aplicáveis]",
+  "legenda": "Conheça as oportunidades de [atividade] em [plataforma], disponíveis em [região]. Confira requisitos, modalidades e condições de repasse. Cadastre-se em [canal]. [Condições e disponibilidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma postagem digital em fundo preto com avatar circular azul no canto superior esquerdo e identificação própria ao lado. Use título branco em negrito, corpo branco alinhado à esquerda, quatro marcadores verdes e CTA final com seta azul. Reserve margens amplas e espaço para termos no rodapé. Use a IMAGEM 2 somente como identificação visual própria do serviço e preserve a predominância do texto.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1101412705770133",
+    "anunciante": "Uber",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 3,
+    "texto_original": "Tenha mais oportunidades de ganhos com Uber Moto e Flash Moto *onde disponível. Cadastre-se agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1101412705770133.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1150817977620220",
+  "tipo": "estatico",
+  "titulo": "Depoimento de liderança sobre marco financeiro",
+  "formato": "Depoimento em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de uma executiva sobre fundo azul com linhas curvas. Um painel escuro reúne a citação, os trechos em negrito e a identificação profissional.",
+  "por_que_funciona": [
+    "O retrato ocupa a maior parte da peça e associa uma pessoa à fala.",
+    "O número em negrito destaca o marco dentro da citação.",
+    "O painel escuro separa o depoimento do retrato e mantém a leitura.",
+    "O cargo abaixo da assinatura contextualiza a experiência de quem fala."
+  ],
+  "quando_usar": "Para gestoras apresentarem um marco institucional com um depoimento autorizado.",
+  "estrutura_texto": "“[Sentimento sobre o marco]. Porque por trás desses [marco] existe [equipe e trabalho realizado] para [objetivo do serviço].”\n[Nome autorizado]\n[Cargo]",
+  "legenda": "O que [marco institucional] representa para quem participa dessa trajetória? Conheça a perspectiva de [cargo] sobre [trabalho da equipe] e [compromisso com os clientes].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato autorizado da IMAGEM 2 nos dois terços superiores, fundo azul-marinho com curvas discretas e painel inferior translúcido. Inclua citação curta, destaque um marco comprovado em negrito e adicione nome autorizado e cargo com hierarquia menor.",
+  "alerta_politica": "CVM/Meta: comprovar o marco financeiro; patrimônio sob gestão não equivale a rentabilidade. Não prometer retorno nem segurança absoluta; usar depoimento com autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1150817977620220",
+    "anunciante": "SulAmérica Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-30",
+    "dias_no_ar": 15,
+    "variacoes_ativas": 1,
+    "texto_original": "O que os R$ 100 bilhões representam para quem constrói essa história todos os dias? 💙\n\nConvidamos algumas de nossas lideranças para compartilhar suas perspectivas sobre essa conquista. São diferentes olhares, que traduzem o trabalho, a confiança e o compromisso por trás desse marco.\n\nDeslize para conhecer cada depoimento!\n\n#SulAméricalnvestimentos #SulAmérica #100Bilhões\n#CompromissoPraVidaToda",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/investimentos/est-investimentos-1150817977620220.jpg"
+}

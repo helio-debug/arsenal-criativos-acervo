@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1541801727188259",
+  "tipo": "estatico",
+  "titulo": "Posição em ranking como prova de desempenho",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo amarelo com mapa do Brasil em contorno. Uma posição de ranking em verde ocupa o centro, acompanhada de texto azul e nota de fonte no rodapé.",
+  "por_que_funciona": [
+    "O número ordinal muito grande concentra a atenção no resultado.",
+    "O mapa reforça a abrangência nacional da comparação.",
+    "Azul e verde contrastam com o fundo amarelo.",
+    "A nota de fonte indica a base declarada para o ranking."
+  ],
+  "quando_usar": "Para escolas divulgarem desempenho acadêmico com fonte, recorte e metodologia verificáveis.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[POSIÇÃO] melhor escola de [RECORTE GEOGRÁFICO]\nno [EXAME E PERÍODO]\nSegundo [FONTE E METODOLOGIA]",
+  "legenda": "[Instituição] alcançou [posição] em [ranking ou indicador], considerando [período e recorte]. Conheça [proposta pedagógica] e consulte [fonte e metodologia]. Matrículas em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo intenso com mapa nacional em linhas finas. Centralize uma posição ordinal verde em escala muito grande, com nome institucional no topo e descrição do resultado em azul condensado abaixo. Reserve rodapé para identidade própria e fonte legível. Use somente posições comprovadas, informando período e critério.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1541801727188259",
+    "anunciante": "Sistema de Ensino Equipe",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-22",
+    "dias_no_ar": 418,
+    "variacoes_ativas": 1,
+    "texto_original": "O Equipe alcançou mais uma conquista histórica: 11ª melhor escola do Brasil no Enem 2024/2025 e, mais uma vez, a escola melhor pontuada na região Norte, segundo dados do INEP. Um resultado que reafirma a força de um projeto pedagógico sólido, focado em excelência acadêmica e formação integral.\n\nA consistência nos grandes resultados mostra que, no Equipe, o sucesso não é exceção, é consequência de um trabalho sério, comprometido e contínuo. E se você quer também fazer parte dessa história, matricule o seu filho. Venha vencer com a gente!\nMatricule já o seu filho!\nFale conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1541801727188259.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1718709232888628",
+  "tipo": "estatico",
+  "titulo": "Desconto de kit com porta-voz e produto à esquerda",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo preto com textura de fumaça, título branco e verde e desconto em grande escala à esquerda. A foto de um porta-voz ocupa a metade direita, acompanhada de embalagens e botão verde.",
+  "por_que_funciona": [
+    "O valor do desconto em verde é o maior elemento do bloco comercial.",
+    "As embalagens ao lado da oferta mostram o que está sendo vendido.",
+    "A indicação de 90 dias dá dimensão ao kit.",
+    "O botão verde sobre a área escura mantém a ação visível."
+  ],
+  "quando_usar": "Para divulgar kits de suplementos com desconto verificável, junto de informações claras sobre composição e uso.",
+  "estrutura_texto": "[Categoria] [atributo comprovado]\n[Benefício permitido ou praticidade]\nKit [duração] com\n[valor] DE DESCONTO\n[Produto]\n[Porta-voz autorizado]\n[CTA]",
+  "legenda": "Conheça [suplemento] e sua composição. O kit para [duração] está com [desconto], conforme [condições da oferta]. Confira [modo de uso e informações do produto] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição vertical com fundo grafite e leve fumaça. Coloque título no alto, valor do desconto grande em verde à esquerda, embalagens abaixo e foto autorizada de porta-voz à direita. Use botão verde na região central inferior. Não invente endosso, atributos naturais ou efeitos sobre emagrecimento.",
+  "alerta_politica": "Meta: não atribuir ao leitor sintomas, condição intestinal ou insatisfação corporal. ANVISA: suplementos só podem divulgar alegações autorizadas e comprovadas; não prometer emagrecimento, cura ou efeito terapêutico. O atributo “100% natural” e o desconto precisam de comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1718709232888628",
+    "anunciante": "Renato Cariani",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-26",
+    "dias_no_ar": 141,
+    "variacoes_ativas": 2,
+    "texto_original": "Você treina, faz dieta, suplementa… mas o resultado ainda não aparece? O problema pode estar no seu intestino. \nQuando a microbiota está desequilibrada, seu corpo simplesmente não consegue absorver os nutrientes que você ingere. \nBarriga estufada, inchaço, irregularidade intestinal — são todos sinais de que algo está errado por dentro. \nConstlivre Fibras é um prebiótico 100% natural que age no equilíbrio da sua flora intestinal, promovendo a prevalência das bactérias boas sobre as ruins. \n1 sachê por dia, sem sabor, zero açúcar, zero glúten e zero lactose. E o melhor: 90 dias de desafio. \nSe não tiver resultado, você recebe 100% do seu dinheiro de volta. \n👇 Clique no link, use o cupom CARIANI e garanta seu desconto.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1718709232888628.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1563476785333162",
+  "tipo": "estatico",
+  "titulo": "Grupo gratuito com números do concurso e chamada de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Peça em azul, amarelo e branco com a gratuidade como maior chamada. Blocos com ícones apresentam números do concurso, recursos de estudo e um convite destacado para entrar no grupo.",
+  "por_que_funciona": [
+    "A palavra “GRATUITO” ocupa quase toda a largura e explicita a condição de entrada.",
+    "Vagas e salário aparecem em dois blocos separados por uma linha, facilitando a comparação das informações.",
+    "Os três ícones centrais tornam os recursos do grupo escaneáveis.",
+    "O painel branco com setas amarelas concentra a ação no rodapé."
+  ],
+  "quando_usar": "Para captar interessados em um grupo de estudos gratuito e apresentar o que será compartilhado.",
+  "estrutura_texto": "[CONCURSO]\nGRUPO DE ESTUDOS GRATUITO\nPARA [PROVA E ANO]\n[QUANTIDADE E STATUS DAS VAGAS] | [REMUNERAÇÃO E REFERÊNCIA]\n[RECURSO 1] | [RECURSO 2] | [RECURSO 3]\nTOQUE NO BOTÃO ABAIXO E ENTRE NO GRUPO!",
+  "legenda": "Entre no grupo gratuito de estudos para [CONCURSO]. Receba [MATERIAIS], avisos de [AULAS] e informações sobre [EDITAL]. Toque em [CTA] para acessar o grupo em [CANAL].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça em cabeçalho branco e corpo azul com curvas suaves. Dê destaque ao nome do concurso e à palavra GRATUITO em azul grande. Use faixa amarela para prova e ano, dois blocos numéricos com ícones, três benefícios em colunas e painel branco de CTA com setas amarelas no rodapé. Use identidade própria, sem reproduzir emblemas oficiais. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": "Diferencie vagas solicitadas de vagas autorizadas ou abertas. Verifique remuneração, ano e status do concurso em fonte oficial; não prometa aprovação nem sugira que o grupo pertence ao órgão público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1563476785333162",
+    "anunciante": "Lucas - O primo concursado",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-30",
+    "dias_no_ar": 137,
+    "variacoes_ativas": 2,
+    "texto_original": "Grupo de estudos focado no concurso do INSS.\nAqui você recebe orientações de estudo, avisos de aulas ao vivo, resolução de questões, informações sobre o edital, calendário, salário, benefícios e tudo que envolve o concurso público do INSS.\n\nToque em Saiba Mais\nWHATSAPP\nGrupo de Estudos Gratuito",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1563476785333162.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1449512447288226",
+  "tipo": "estatico",
+  "titulo": "Estoque amplo com entrada e financiamento parcelados",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Bloco roxo superior apresenta o tamanho do estoque e duas condições de pagamento. A metade inferior mostra um SUV em uma estrada ao pôr do sol, integrado a uma curva laranja.",
+  "por_que_funciona": [
+    "A quantidade de carros aparece na primeira linha da chamada e comunica disponibilidade.",
+    "A palavra central sobre faixa laranja interrompe o bloco roxo e recebe destaque.",
+    "Os números 12x e 72x ficam lado a lado para leitura rápida das condições.",
+    "O carro em movimento ocupa a foto inferior e mostra o produto em uso."
+  ],
+  "quando_usar": "Para divulgar estoque de seminovos com condições de entrada e financiamento disponíveis.",
+  "estrutura_texto": "Mais de [quantidade] [produtos]\n[Palavra de destaque]\npara você comprar.\nEntrada em até [n]x\nFinanciamento em até [n]x\n[Condições no site]\n[Assinatura]",
+  "legenda": "Confira os [veículos] disponíveis e encontre uma opção para sua próxima compra. Entrada em até [n]x e financiamento em até [n]x, conforme [condições e aprovação]. Consulte os detalhes em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça com grande campo roxo superior e foto do produto em uso na parte inferior, unidos por curva diagonal. Use texto branco em negrito itálico, uma cápsula laranja destacando uma palavra e dois blocos de parcelamento com números grandes. Inclua rodapé legível. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": "Publicidade de crédito: informar condições, taxas, custo efetivo total quando aplicável e sujeição à análise de crédito. Não sugerir aprovação garantida; apresentar restrições do parcelamento com legibilidade.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1449512447288226",
+    "anunciante": "Seminovos Movida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-14",
+    "dias_no_ar": 61,
+    "variacoes_ativas": 3,
+    "texto_original": "Seu próximo carro seminovo pode estar mais perto do que você imagina. Aproveite entrada em até 12x sem juros e condições imperdíveis.\nEntrada em até 12x\nCompre agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1449512447288226.jpg"
+}

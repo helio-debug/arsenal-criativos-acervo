@@ -1,0 +1,88 @@
+{
+ "id": "vid-broll-checklist-isca",
+ "titulo": "Cenas de trabalho com checklist narrado e material para baixar",
+ "formato_video": "broll-voiceover",
+ "nichos": [
+  "servicos-locais",
+  "saas-b2b",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "28-32s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Para organizar [processo], comece por [primeira verificação].",
+  "texto_tela": "Checklist de [processo]",
+  "visual": "Plano aberto de pessoas trabalhando, dentro de moldura colorida com selo temático no topo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano aberto de ambiente de trabalho dentro da moldura fixa.",
+   "fala": "Para organizar [processo], comece por [primeira verificação].",
+   "texto_tela": "Checklist de [processo]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Close lateral de uma pessoa observando uma tela.",
+   "fala": "Veja onde [situação observável] aparece e registre [dado necessário].",
+   "texto_tela": "Mapear [situação]"
+  },
+  {
+   "tempo": "11-17s",
+   "cena": "Detalhe de uma mão anotando; título curto centralizado.",
+   "fala": "Depois, defina o que precisa de atenção primeiro, usando [critério].",
+   "texto_tela": "Priorizar [itens]"
+  },
+  {
+   "tempo": "17-24s",
+   "cena": "Detalhe de material de trabalho e corte para conferência de uma lista.",
+   "fala": "Combine [ação] com [responsável] e confira [indicador] após [prazo adequado].",
+   "texto_tela": "Conferir [indicador]"
+  },
+  {
+   "tempo": "24-30s",
+   "cena": "Pessoa à mesa com notebook; quadro recua e abre espaço ao CTA.",
+   "fala": "No [material gratuito], você encontra [conteúdo real] para aplicar esse roteiro. Baixe em [canal].",
+   "texto_tela": "Baixar [material] gratuitamente"
+  }
+ ],
+ "por_que_funciona": [
+  "O plano aberto inicial mostra circulação no escritório antes dos closes.",
+  "A moldura roxa e o selo circular no topo permanecem durante a troca das cenas.",
+  "Os textos sobre priorização e verificação nomeiam etapas enquanto a narração explica o processo.",
+  "A última cena mostra uma pessoa no notebook com o pedido de download na parte inferior."
+ ],
+ "quando_usar": "Para serviços e softwares que oferecem um guia ou checklist realmente disponível. Use na captação de contatos que precisam organizar uma tarefa antes de contratar.",
+ "roteiro_modelo": "Para organizar [processo], comece por [primeira verificação].\n\n[CORTE / pausa curta]\n\nVeja onde [situação observável] aparece e registre [dado necessário].\n\n[CORTE / pausa curta]\n\nDepois, defina o que precisa de atenção primeiro, usando [critério].\n\n[CORTE / pausa curta]\n\nCombine [ação] com [responsável] e confira [indicador] após [prazo adequado].\n\n[CORTE / pausa curta]\n\nNo [material gratuito], você encontra [conteúdo real] para aplicar esse roteiro. Baixe em [canal].",
+ "tomadas_celular": [
+  "Grave 5s de plano aberto de uma mesa de trabalho, celular apoiado, luz de janela lateral e sem marcas.",
+  "Grave 6s de perfil de alguém lendo uma tela, close no rosto, luz suave lateral e dados fora de foco.",
+  "Grave 6s de mão preenchendo uma lista, câmera inclinada sobre a mesa e iluminação difusa.",
+  "Grave 7s de detalhe de um caderno e da checagem de um item, enquadramento fechado e sem sombra do celular.",
+  "Grave 6s de pessoa usando notebook, plano médio com espaço inferior para CTA e luz de janela."
+ ],
+ "caminho_ia": "Gere as cenas no Veo ou Kling e acrescente voz sintética licenciada. Monte no CapCut uma moldura contínua, um selo temático próprio sem aparência de certificação e títulos editáveis. Prompts: \"Vertical 9:16 wide shot of a small team working on [process] in a sunlit office, natural movement, gentle handheld camera, realistic lighting, no logos or readable text.\" e \"Vertical 9:16 close-up of hands checking a blank paper checklist for [process], soft side light, shallow depth of field, slow push-in, no lettering, no brand marks.\" Gere cada plano separado e sobreponha o texto na edição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 30s em cinco blocos: 0-5 contexto de trabalho; 5-11 mapear; 11-17 priorizar; 17-24 conferir; 24-30 material gratuito. Narração didática e contínua, cortes a cada 5-7s, planos abertos alternados com rosto e mãos. Moldura na minha identidade, selo temático e títulos de até cinco palavras. Mostre o que o material realmente entrega. Não copie tema regulatório, selo, marca ou promessa de conformidade da referência. Não copie nomes, marcas, rostos, depoimentos, identidade visual nem frases da referência. Não invente recursos, provas, prazos ou resultados. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, antíteses vazias e perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Organize [processo] com o checklist de [tema]. O material inclui [conteúdo real] e um espaço para registrar [dado]. Baixe gratuitamente em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-dd8bac65",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-broll-checklist-isca/frames/f1.jpg",
+    "videos/vid-broll-checklist-isca/frames/f2.jpg",
+    "videos/vid-broll-checklist-isca/frames/f3.jpg",
+    "videos/vid-broll-checklist-isca/frames/f4.jpg",
+    "videos/vid-broll-checklist-isca/frames/f5.jpg"
+   ]
+  }
+ ]
+}

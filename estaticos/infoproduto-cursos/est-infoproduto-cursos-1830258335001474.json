@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1830258335001474",
+  "tipo": "estatico",
+  "titulo": "Curso com objeto de aplicação em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Título de curso à esquerda sobre fundo branco e cinza. À direita, frasco de perfume rosa com embalagem sobre pedestal branco, acompanhado por botão magenta.",
+  "por_que_funciona": [
+    "O nome do curso ocupa duas linhas grandes e facilita identificar o tema.",
+    "O frasco com embalagem oferece uma referência concreta ao universo de produtos.",
+    "A chamada de inscrição usa o mesmo magenta do objeto e do rótulo superior.",
+    "O pedestal e a luz de estúdio valorizam o objeto sem competir com o texto."
+  ],
+  "quando_usar": "Divulgação de cursos de marketing, design ou negócios com objetos ligados ao conteúdo.",
+  "estrutura_texto": "[Categoria do curso]\n[Nome do curso]\n[CTA de inscrição]",
+  "legenda": "Atualize seus conhecimentos em [área] com [curso]. Conheça a proposta, o conteúdo e as condições de inscrição em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com cinza suave e luz de estúdio. À esquerda, categoria pequena em magenta, nome do curso em preto pesado e botão magenta com texto branco. À direita, use o objeto da IMAGEM 2 com embalagem sobre pedestal cilíndrico branco; se a imagem não retratar um objeto físico, use-a como apoio visual sem simular um produto inexistente.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1830258335001474",
+    "anunciante": "Centro Universitário Belas Artes de São Paulo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 1,
+    "texto_original": "Acelere sua carreira no mercado criativo com a tradição e a inovação! \nSe você busca atualização rápida, prática e especializada em áreas como Design, Moda, Arquitetura, Negócios e Marketing, Reaprenda a ver na Belas Artes. Inscreva-se",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1830258335001474.jpg"
+}

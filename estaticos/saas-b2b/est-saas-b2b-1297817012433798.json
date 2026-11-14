@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1297817012433798",
+  "tipo": "estatico",
+  "titulo": "Sistema contábil com painel em destaque",
+  "formato": "Print de tela",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo escuro com brilho azul, uma chamada apresenta um sistema para escritórios contábeis. Capturas de um painel com gráficos aparecem em camadas na metade inferior, com convite para conhecer o funcionamento.",
+  "por_que_funciona": [
+    "A chamada branca e verde identifica o público de contabilidade.",
+    "O painel com gráficos torna a apresentação do software concreta.",
+    "As telas em perspectiva sugerem diferentes áreas da plataforma.",
+    "O convite em verde na base aponta o próximo passo de conhecer o sistema."
+  ],
+  "quando_usar": "Softwares B2B que precisam apresentar sua interface antes de convidar o público a uma demonstração.",
+  "estrutura_texto": "[Marca]\n[Definição do sistema]\nPara [segmento]\n[Automação e integração com benefícios verificáveis]\n[Captura de tela]\nVeja como funciona na prática.",
+  "legenda": "Automatize [rotinas] e integre [processos] do seu escritório com [sistema]. Veja como [funcionalidade] funciona na prática e conheça os recursos disponíveis em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase preto com iluminação azul discreta à esquerda. Posicione identificação da marca no topo, chamada central em branco com a linha do segmento em verde e descrição pequena abaixo. Use a captura real do sistema fornecida na IMAGEM 2 em camadas na metade inferior, destacando a tela frontal com gráficos. Finalize com convite verde para conhecer o funcionamento. Não invente indicadores nem superlativos sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1297817012433798",
+    "anunciante": "HubStrom",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 3,
+    "texto_original": "HubStrom é o ecossistema mais poderoso para sua contabilidade: automatize, integre e escale sem esforço",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1297817012433798.jpg"
+}

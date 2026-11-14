@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1778771390131758",
+  "tipo": "estatico",
+  "titulo": "Agendamento com foto de uso do celular",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de um homem sorrindo enquanto usa o celular em um café ocupa a parte superior. A base roxa reúne chamada curta, frase de apoio e botão branco para agendar.",
+  "por_que_funciona": [
+    "A foto mostra o uso do celular, alinhado ao agendamento online.",
+    "A chamada “Falta pouco...” aparece em letras grandes na transição entre foto e texto.",
+    "O botão branco contrasta com o fundo roxo e concentra a ação de agendar."
+  ],
+  "quando_usar": "Para serviços de atendimento online em campanhas de conversão para agendamento.",
+  "estrutura_texto": "[Chamada curta de proximidade]\n[Benefício geral] está a um clique.\nAgende sua [consulta].",
+  "legenda": "Conheça [serviço de cuidado emocional] e encontre [profissionais habilitados] para atendimento online. Escolha um horário e agende sua [sessão].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize uma foto cotidiana de pessoa adulta usando o celular nos dois terços superiores, com recorte arredondado no canto inferior direito. Use roxo na base, chamada branca grande à esquerda e frase de apoio centralizada. Finalize com botão branco largo e texto roxo de agendamento. Reserve área discreta para a identidade do produto informado. Use benefício geral sem promessa de resultado clínico.",
+  "alerta_politica": "Meta: evite afirmar ou insinuar que o público possui uma condição de saúde mental, está em crise ou negligencia o próprio cuidado. Use convite geral ao atendimento, sem diagnóstico ou promessa de cura; respeite sigilo e regras éticas do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1778771390131758",
+    "anunciante": "Zenklub",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-01",
+    "dias_no_ar": 74,
+    "variacoes_ativas": 1,
+    "texto_original": "Se conhecer faz bem ️ zenklub: o guia emocional para todos os momentos da vida.\nComece sua terapia online\nEncontre profissionais de saúde emocional e agende sua sessão online.",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1778771390131758.jpg"
+}

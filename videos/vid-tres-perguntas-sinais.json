@@ -1,0 +1,101 @@
+{
+ "id": "vid-tres-perguntas-sinais",
+ "titulo": "Três perguntas na tela para reconhecer um problema pessoal",
+ "formato_video": "quiz-pergunta",
+ "nichos": [
+  "saude",
+  "relacionamento-desenvolvimento",
+  "emagrecimento-fitness"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "36-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Separei três perguntas para orientar a escolha de [categoria de solução].",
+  "texto_tela": "03 PERGUNTAS",
+  "visual": "Apresentadora sentada em ambiente doméstico, plano próximo, mãos visíveis e número 03 grande sobre o tronco."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano próximo sentado, número grande aparece sobre o tronco.",
+   "fala": "Separei três perguntas para orientar a escolha de [categoria de solução].",
+   "texto_tela": "03 PERGUNTAS"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Primeira pergunta em branco na região inferior; um dedo indica a contagem.",
+   "fala": "Primeira: qual [objetivo concreto] deve orientar essa escolha?",
+   "texto_tela": "1. Qual [objetivo]?"
+  },
+  {
+   "tempo": "10-16s",
+   "cena": "Corte ligeiramente mais próximo, mãos acompanham a segunda pergunta.",
+   "fala": "Segunda: quanto [tempo ou recurso disponível] cabe na rotina?",
+   "texto_tela": "2. Quanto [tempo ou recurso]?"
+  },
+  {
+   "tempo": "16-22s",
+   "cena": "Retome o plano inicial e conte a terceira pergunta nos dedos.",
+   "fala": "Terceira: que tipo de [apoio ou recurso] faz sentido nesse momento?",
+   "texto_tela": "3. Qual [apoio ou recurso]?"
+  },
+  {
+   "tempo": "22-29s",
+   "cena": "Saem as perguntas grandes, entram legendas menores acompanhando a fala.",
+   "fala": "Anote as respostas. Elas ajudam a comparar opções pelo que cada uma oferece.",
+   "texto_tela": "Anote as respostas"
+  },
+  {
+   "tempo": "29-35s",
+   "cena": "Mesmo ambiente, leve aproximação e gestos abertos.",
+   "fala": "O [produto] oferece [recurso verificável] para [uso concreto]. Confira como funciona.",
+   "texto_tela": "[recurso verificável]"
+  },
+  {
+   "tempo": "35-39s",
+   "cena": "Olhar para a lente, gesto curto na direção do CTA.",
+   "fala": "Acesse [canal] e veja os detalhes de [produto].",
+   "texto_tela": "Conhecer [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "O número 03 ocupa boa parte do tronco no primeiro frame e anuncia uma sequência com fim definido.",
+  "A apresentadora usa as mãos para acompanhar a contagem e a explicação.",
+  "As perguntas aparecem em texto branco sobre a imagem; depois dão lugar a legendas menores.",
+  "O quarto e o enquadramento próximo mantêm o aspecto de conversa pessoal durante a apresentação da solução."
+ ],
+ "quando_usar": "Para soluções que exigem entender objetivo e rotina antes da escolha. Use no topo do funil para apresentar critérios úteis, sem transformar as respostas em diagnóstico.",
+ "roteiro_modelo": "Separei três perguntas para orientar a escolha de [categoria de solução].\n\n[CORTE / pausa curta]\n\nPrimeira: qual [objetivo concreto] deve orientar essa escolha?\n\n[CORTE / pausa curta]\n\nSegunda: quanto [tempo ou recurso disponível] cabe na rotina?\n\n[CORTE / pausa curta]\n\nTerceira: que tipo de [apoio ou recurso] faz sentido nesse momento?\n\n[CORTE / pausa curta]\n\nAnote as respostas. Elas ajudam a comparar opções pelo que cada uma oferece.\n\n[CORTE / pausa curta]\n\nO [produto] oferece [recurso verificável] para [uso concreto]. Confira como funciona.\n\n[CORTE / pausa curta]\n\nAcesse [canal] e veja os detalhes de [produto].",
+ "tomadas_celular": [
+  "Grave 4s sentado em quarto ou sala, plano do peito para cima, luz de janela à frente e parede sem texto.",
+  "Grave a primeira pergunta por 6s, mesmo plano e luz, mostrando um dedo e pausando para leitura.",
+  "Grave a segunda por 6s em enquadramento um pouco mais fechado, mantendo as mãos visíveis e luz difusa.",
+  "Grave a terceira por 6s no plano inicial, com contagem nos dedos e celular apoiado.",
+  "Grave a orientação de anotar por 7s, plano próximo e gestos calmos, mesma luz frontal.",
+  "Grave recurso e CTA em 10s, com pausa entre as frases, olhar na lente e espaço inferior para legenda."
+ ],
+ "caminho_ia": "Crie uma apresentadora fictícia em avatar com voz licenciada e use Sora para o ambiente doméstico; edite número, perguntas e legendas no CapCut. Prompts: \"Vertical 9:16 medium close-up of a fictional presenter seated in a cozy bedroom discussing [product category], soft frontal daylight, visible hands counting on fingers, eye-level static camera, plain wall, no text.\" e \"Vertical 9:16 close-up of the same fictional presenter explaining [verified feature], relaxed hand gestures, consistent wardrobe and bedroom lighting, subtle camera push-in, no logos or lettering.\" Não faça o avatar relatar experiência de uso como se fosse cliente real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 39s: 0-4 abertura com 03 grande; 4-10 pergunta sobre objetivo; 10-16 pergunta sobre tempo ou recurso; 16-22 pergunta sobre apoio; 22-29 orientação para comparar; 29-35 recurso do produto; 35-39 CTA. Tom próximo, ambiente doméstico, contagem nas mãos e cortes leves. Perguntas úteis à escolha, texto branco grande e depois legendas menores. Para saúde e bem-estar, formule perguntas neutras sobre preferências e rotina; não pergunte se o espectador tem sintomas nem conclua diagnóstico pelas respostas. Não copie a experiência pessoal ou as falas da apresentadora. Não copie nomes, marcas, rostos, depoimentos, identidade visual nem frases da referência. Não invente recursos, provas, prazos ou resultados. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, antíteses vazias e perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Antes de escolher [categoria], anote [objetivo] e [limite da rotina]. Confira se [recurso do produto] atende ao que procura. Detalhes em [canal].",
+ "alerta_politica": "Meta: não atribua condição de saúde física ou mental a quem vê o anúncio; use situações gerais. Não use antes/depois de corpo, promessa de cura ou resultado de saúde. Quando houver serviço médico, siga as regras de publicidade do CFM e identifique o responsável habilitado; para outras profissões, siga o conselho competente. Para emagrecimento e fitness, não gere autopercepção corporal negativa nem prometa perda de peso em prazo fixo; descreva recursos e condições de uso, sem garantia de resultado.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-68c955a6",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tres-perguntas-sinais/frames/f1.jpg",
+    "videos/vid-tres-perguntas-sinais/frames/f2.jpg",
+    "videos/vid-tres-perguntas-sinais/frames/f3.jpg",
+    "videos/vid-tres-perguntas-sinais/frames/f4.jpg",
+    "videos/vid-tres-perguntas-sinais/frames/f5.jpg"
+   ]
+  }
+ ]
+}

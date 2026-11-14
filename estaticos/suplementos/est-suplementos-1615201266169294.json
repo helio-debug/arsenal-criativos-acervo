@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-1615201266169294",
+  "tipo": "estatico",
+  "titulo": "Trio de frascos com rótulo em evidência",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Três frascos escuros com conta-gotas aparecem sobre fundo branco, com o frasco central à frente. Rótulos roxos identificam melatonina, sabor e conteúdo.",
+  "por_que_funciona": [
+    "O frasco central maior torna o rótulo o ponto principal.",
+    "Os dois frascos recuados dão volume à apresentação.",
+    "O fundo branco separa claramente o contorno escuro dos produtos."
+  ],
+  "quando_usar": "Para mostrar a embalagem de um suplemento em catálogo ou campanha de desconto. A presença de três frascos não confirma um kit.",
+  "estrutura_texto": "[Marca]\n[Nome do suplemento]\n[Quantidade por porção]\n[Forma de uso e público conforme rótulo]\n[Sabor]\n[Categoria regulatória]\n[Conteúdo]",
+  "legenda": "Conheça [suplemento] em [apresentação], com [sabor] e [conteúdo]. Consulte composição, orientações de uso e [descontos disponíveis] em [canal de compra].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre três frascos do produto fornecido sobre fundo branco: um central em primeiro plano e dois recuados lateralmente. Preserve fielmente embalagem e rótulo da IMAGEM 2, com luz difusa e sombra suave. Não adicione headline, preço ou alegações terapêuticas. Não sugira kit comercial se a oferta não o incluir.",
+  "alerta_politica": "Suplementos devem seguir as regras da ANVISA, com apenas alegações autorizadas e informações compatíveis com o rótulo. Não atribuir à melatonina cura ou tratamento de insônia, nem prometer sono garantido; respeitar restrições e advertências de uso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1615201266169294",
+    "anunciante": "Always FIT - Saúde, Longevidade e Autoestima",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-16",
+    "dias_no_ar": 271,
+    "variacoes_ativas": 1,
+    "texto_original": "Seleção de Produtos Naturais com descontos especiais\nDireto da Fábrica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1615201266169294.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-24180014101687919",
+  "tipo": "estatico",
+  "titulo": "Carta narrativa com foto de pai e filho",
+  "formato": "Alerta e educação",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto em preto e branco mostra um adulto e uma criança de costas, de mãos dadas. O título anuncia uma carta de pai servidor público endividado, e uma caixa bege convida à leitura.",
+  "por_que_funciona": [
+    "A foto de mãos dadas ancora o tema da relação familiar.",
+    "O título em letras grandes explicita o assunto financeiro da carta.",
+    "A caixa bege separa o convite à leitura do restante da foto."
+  ],
+  "quando_usar": "Para introduzir uma narrativa fictícia de educação financeira e convidar para consultoria, sem atribuir dívidas ao leitor.",
+  "estrutura_texto": "Carta de [personagem fictício] | [contexto profissional e financeiro] | [convite para conhecer a história].",
+  "legenda": "Esta carta é fictícia e aborda [situação financeira] no contexto familiar. Para conhecer caminhos de organização das finanças, solicite [consultoria on-line gratuita] por [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto em preto e branco de adulto e criança de costas, com moldura cinza escura. Coloque abertura em fonte manuscrita clara no alto, seguida de título em fonte sem serifa grande. Na parte inferior, inclua caixa bege com convite à leitura. Identifique a narrativa como fictícia e use chamada neutra, sem presumir endividamento ou condição familiar de quem vê o anúncio.",
+  "alerta_politica": "Meta: evite afirmar ou insinuar a condição financeira vulnerável do leitor, como endividamento, ou explorá-la com culpa familiar. Identifique a história fictícia, descreva o escopo da consultoria gratuita e não prometa solução garantida para dívidas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "24180014101687919",
+    "anunciante": "Elias Lelles - Finanças",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-11",
+    "dias_no_ar": 460,
+    "variacoes_ativas": 1,
+    "texto_original": "Essa carta é fictícia.\n\nMas retrata a realidade de muitos pais servidores que me procuram.\n\nHomens que amam, que cuidam, que tentam… mas estão sendo esmagados pelas dívidas.\n\nSe você sente isso na pele, comenta “Eu quero” que vamos te presentear com uma Consultoria On-line e gratuita.\n\nEu tô aqui pra te ajudar a virar essa história com clareza e dignidade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-24180014101687919.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-969155595834889",
+  "tipo": "estatico",
+  "titulo": "Seguro auto e tag reunidos em uma lista de benefícios",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "A parte superior verde reúne título, ícone e dois benefícios em uma caixa contornada. Na parte inferior, uma motorista sorridente aparece dentro do carro.",
+  "por_que_funciona": [
+    "A lista diferencia assistência do seguro e uso da tag em poucas linhas.",
+    "O contorno arredondado agrupa os benefícios em um bloco reconhecível.",
+    "A foto dentro do carro mostra o contexto de uso dos serviços.",
+    "A chamada de acesso fica próxima ao encerramento do bloco informativo."
+  ],
+  "quando_usar": "Para apresentar serviços complementares a quem busca conveniência na rotina de direção.",
+  "estrutura_texto": "Com [marca], sua rotina pode ficar [benefício].\n• [Seguro com assistência]\n• [Serviço complementar e condição de cobrança]\n[Uso prático]\nAcesse e saiba mais\n[Marca]",
+  "legenda": "Conte com [seguro auto] e [tag de passagem] para facilitar seus trajetos. Conheça [condição de mensalidade], opções de assistência e regras de cobrança em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte topo verde com título branco em negrito e ícone simples dentro de um quadrado escuro. Abaixo, insira caixa de contorno fino com dois itens de benefícios. Coloque CTA e marca antes de uma foto de motorista na metade inferior. Não sugira que serviços são gratuitos ou incluídos sem confirmação.",
+  "alerta_politica": "Para seguros, informe coberturas, exclusões e condições reais de contratação; não prometa proteção total nem indenização garantida. Observe as regras aplicáveis da SUSEP e evite atribuir vulnerabilidades pessoais ao público na copy da Meta. Para a tag, esclareça tarifas e cobrança por uso; não apresente ausência de mensalidade como gratuidade integral.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "969155595834889",
+    "anunciante": "Sicredi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "Com o Sicredi você tem tag sem mensalidade e seguro com proteção completa.\nConte com o Sicredi\nTudo pra facilitar o seu dia.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-969155595834889.jpg"
+}

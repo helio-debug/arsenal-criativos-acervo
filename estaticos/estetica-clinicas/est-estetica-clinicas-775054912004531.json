@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-775054912004531",
+  "tipo": "estatico",
+  "titulo": "Tabela de depilação a laser com preços e combo",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte rosa-clara com título no topo e três linhas de serviços e preços ao centro. Na base, foto de duas mulheres em trajes de banho aparece em moldura ondulada com detalhes florais.",
+  "por_que_funciona": [
+    "Os preços grandes à direita facilitam comparar as opções.",
+    "As caixas pontilhadas separam os três serviços.",
+    "O título identifica o procedimento antes da tabela.",
+    "A moldura ondulada destaca a foto na base sem encobrir os valores."
+  ],
+  "quando_usar": "Para divulgar uma tabela de preços ou combinações de áreas de depilação com condições claras.",
+  "estrutura_texto": "[Procedimento]\nvalores\n[Área avulsa] — R$ [valor]\n[Combinação de áreas] — R$ [valor]\n[Combo de áreas] — R$ [valor]",
+  "legenda": "Confira os valores de [depilação a laser]: [área] por [preço] e [combo] por [preço]. Consulte em [canal] as condições, a quantidade de sessões e a avaliação necessária.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo rosa muito claro com flores delicadas nos cantos. Coloque o nome do procedimento em rosa escuro no topo e um subtítulo manuscrito. Organize três caixas arredondadas pontilhadas com áreas à esquerda e preços grandes pretos à direita. Na base, use foto autorizada da IMAGEM 2 em moldura ondulada, sem foco em partes íntimas. Informe [condições da oferta] em texto legível.",
+  "alerta_politica": "Para depilação a laser, não garantir eliminação definitiva dos pelos nem resultado universal. Esclarecer se o preço é por sessão, áreas incluídas e condições. Evitar foco sexualizado no corpo e afirmações que constranjam a aparência pessoal; observar regras do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "775054912004531",
+    "anunciante": "verlanadias_esteticaaa",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-28",
+    "dias_no_ar": 412,
+    "variacoes_ativas": 1,
+    "texto_original": "verlanadias_esteticaaa\nAcessar o perfil do Instagram",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-775054912004531.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1011865121774611",
+  "tipo": "estatico",
+  "titulo": "Conversa entre profissionais sobre atuação no digital",
+  "formato": "novo:Diálogo em quadrinhos",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Ilustração de dois profissionais de educação física conversando em um vestiário. Dois balões contrapõem a agenda presencial cheia à pergunta sobre atuação no digital.",
+  "por_que_funciona": [
+    "Os balões grandes conduzem a leitura como uma conversa.",
+    "As camisetas identificam imediatamente a profissão dos personagens.",
+    "A menção a um faturamento mensal torna a situação concreta.",
+    "A pergunta final deixa em aberto como começar a atuar online."
+  ],
+  "quando_usar": "Para convidar profissionais com atendimento presencial a conhecer uma mentoria de estruturação de serviços online.",
+  "estrutura_texto": "[Profissional 1]: Estou com [situação no presencial]. Neste mês [resultado contextualizado].\n[Profissional 2]: [Reação]. Mas me diz: você já está no [canal de expansão]?",
+  "legenda": "[Profissionais], conheçam os bastidores de um modelo de atendimento online em [sessão experimental de mentoria]. Para participar, façam o cadastro em [link] e recebam o acesso por [canal]. [Limite de vagas real, se houver].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma ilustração em quadrinhos com dois profissionais em ambiente de trabalho, tons quentes, contornos escuros e dois balões claros no topo. O primeiro relata uma experiência presencial; o segundo pergunta sobre expansão online. Use resultados apenas se documentados, sem prometer renda. Escreva em pt-BR, adaptando o texto aos dados de MEU PRODUTO, sem inventar benefícios, credenciais ou condições comerciais.",
+  "alerta_politica": "Meta: alegações de faturamento precisam de comprovação e contexto; não sugerir renda garantida ou facilidade de enriquecimento. A sessão e a limitação de vagas devem corresponder à oferta real.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1011865121774611",
+    "anunciante": "Marcelo Teixeira",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-25",
+    "dias_no_ar": 142,
+    "variacoes_ativas": 9,
+    "texto_original": "Personal, Nutri, se você tem a meta de conquistar uma renda recorrente no digital e ter um modelo de negócio online escalável rodando na internet a partir do próximo mês…\n\nÉ exatamente os bastidores de como fazer isso que vou revelar ao vivo no zoom, numa sessão experimental de mentoria.\n\nPara participar basta clicar em saiba mais, fazer o seu cadastro e entrar para o grupo vip silencioso do whats, será por lá que eu irei enviar o acesso a sala do zoom.\n\nMas corre, pois as vagas são limitada",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1011865121774611.jpg",
+  "formato_novo_def": "Ilustração com personagens e balões de fala que apresenta a mensagem como uma conversa em quadrinhos."
+}

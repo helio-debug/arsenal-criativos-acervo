@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-975952138308018",
+  "tipo": "estatico",
+  "titulo": "Material gratuito com prévia em notebook",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo turquesa com pergunta sobre processo comercial, botão roxo e foto recortada de profissional. Um notebook exibe a capa do material gratuito.",
+  "por_que_funciona": [
+    "A pergunta grande explicita a tarefa que o material ajuda a organizar.",
+    "O botão roxo contrasta com o fundo turquesa e destaca a gratuidade.",
+    "O notebook mostra a capa e dá forma concreta ao arquivo oferecido."
+  ],
+  "quando_usar": "Para captar contatos com um guia ou modelo prático ligado à adoção de software comercial.",
+  "estrutura_texto": "[Categoria]\nQuer estruturar seu [processo]?\nCrie seu modelo com base em [referência].\nBaixe grátis\n[Marca]\n[Nome do material]\n[Descrição do uso]",
+  "legenda": "Organize [processo] com o [material] gratuito. Use o modelo para [ação prática] e [objetivo operacional]. Baixe em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo turquesa, título preto centralizado no terço superior e botão roxo com CTA de download. Inclua foto pequena de profissional à esquerda e notebook grande na metade inferior mostrando uma prévia da IMAGEM 2. Preserve espaço entre os blocos e use identidade própria.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "975952138308018",
+    "anunciante": "RD Station",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-06",
+    "dias_no_ar": 192,
+    "variacoes_ativas": 1,
+    "texto_original": "Organize seu processo comercial em minutos.\nUse o Playbook de Vendas gratuito para mapear etapas, definir responsabilidades e alinhar o time no CRM.\n🚀 Mais clareza, menos retrabalho.\n⬇️ Download grátis\nOrganize seu Processo de Vendas\nBaixe o guia gratuito e comece agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-975952138308018.jpg"
+}

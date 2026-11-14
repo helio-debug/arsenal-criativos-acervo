@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3877690212537797",
+  "tipo": "estatico",
+  "titulo": "Formação superior sobre foto de estudante",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de estudante escrevendo ocupa toda a peça sob tratamento verde escuro. O título branco tem destaque verde em “carreira”, com selo no alto e assinatura na base.",
+  "por_que_funciona": [
+    "A cena de estudo dá contexto imediato à oferta de formação.",
+    "O tratamento escuro mantém o título branco legível sobre a fotografia.",
+    "A palavra verde no fim da chamada destaca a motivação profissional.",
+    "O bloco amarelo lateral marca o início da região do título."
+  ],
+  "quando_usar": "Para apresentar cursos tecnólogos a pessoas que buscam conciliar formação e rotina.",
+  "estrutura_texto": "[Benefício de duração]\n[Modalidade]\n[Reconhecimento verificável]\n[Cursos oferecidos] para [objetivo profissional]\n[Marca]",
+  "legenda": "Conheça os cursos [categoria] em [modalidade]. Estude com [condições de flexibilidade] e prepare-se para [objetivo profissional]. Consulte cursos, duração e reconhecimento aplicável. Fale com a equipe pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de pessoa estudando à mesa, baseada na IMAGEM 2 quando disponível. Aplique camada verde-petróleo escura, mantendo rosto e caderno visíveis. Posicione benefício e modalidade no alto à esquerda, selo próprio com informação comprovável abaixo e título branco grande no centro esquerdo. Destaque a palavra final em verde vivo e adicione retângulo amarelo parcial na borda esquerda. Reserve a base para a marca.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3877690212537797",
+    "anunciante": "Unicive",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-29",
+    "dias_no_ar": 138,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer impulsionar sua carreira com uma formação rápida e flexível?\n\nCom os Cursos Tecnólogos EAD do Unicive, você estuda on-line, conquista um diploma superior reconhecido pelo MEC e se prepara para novas oportunidades no mercado de trabalho.\n\nEscolha o curso que combina com seus objetivos e comece sua jornada com mais praticidade.\n\nFale conosco pelo WhatsApp e saiba mais!\nCursos Tecnólogos EAD\nEstude com flexibilidade no Unicive e conquiste seu diploma superior",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3877690212537797.jpg"
+}

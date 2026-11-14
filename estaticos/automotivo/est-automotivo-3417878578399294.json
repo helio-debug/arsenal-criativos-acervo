@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-3417878578399294",
+  "tipo": "estatico",
+  "titulo": "Lista de recursos com carro, moto e mapa no celular",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "automotivo",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Carro e moto aparecem em uma via ao pôr do sol, com lista de recursos à esquerda e celular com mapa à direita. Faixas vermelhas destacam a chamada superior e o pedido de orçamento na base; há texto cortado no topo.",
+  "por_que_funciona": [
+    "A coluna de ícones amarelos facilita localizar cada recurso.",
+    "Carro e moto mostram os tipos de veículo atendidos.",
+    "O mapa no celular demonstra como o usuário consulta a localização.",
+    "O botão vermelho separa o pedido de orçamento do restante da composição."
+  ],
+  "quando_usar": "Para serviços de rastreamento veicular que precisam apresentar funcionalidades e captar pedidos de orçamento.",
+  "estrutura_texto": "[CATEGORIA DO SERVIÇO]\n[TECNOLOGIA E BENEFÍCIO]\n[ABRANGÊNCIA]\n[RECURSO 1]\n[RECURSO 2]\n[RECURSO 3]\n[RECURSO 4]\n[RECURSO 5]\n[SOLICITE SEU ORÇAMENTO]",
+  "legenda": "Conheça [serviço] para [veículos atendidos]. Conte com [rastreamento], [bloqueio disponível] e [alertas], conforme o plano contratado. Instalação em [local de atendimento]. Solicite seu orçamento pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte lista vertical de cinco recursos à esquerda, cada um com ícone circular amarelo e texto branco. À direita, inclua celular com mapa ilustrativo; coloque os bens atendidos na parte inferior sobre cenário de uso ao pôr do sol. Destaque título e CTA com faixas vermelhas e use amarelo no título principal. Não reproduza emblemas dos veículos. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3417878578399294",
+    "anunciante": "Multtracker.gpsrastreamento",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-22",
+    "dias_no_ar": 23,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 Seu veículo está realmente protegido?\n\nCom a MULTTRACKER, você tem mais segurança e controle!\n\n✅ Rastreamento em tempo real\n✅ Bloqueio remoto\n✅ Alertas no celular\n✅ Monitoramento 24h\n✅ Instalação no seu endereço\n\n🔒 Não espere acontecer!\n\n📲 Solicite seu orçamento pelo WhatsApp!",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/automotivo/est-automotivo-3417878578399294.jpg"
+}

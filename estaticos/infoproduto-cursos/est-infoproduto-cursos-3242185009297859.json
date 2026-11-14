@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3242185009297859",
+  "tipo": "estatico",
+  "titulo": "Curso de unhas com preço e lista de conteúdos",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça rosa com preço promocional em vermelho, lista de conteúdos à esquerda e dois recortes circulares de unhas à direita. Certificado, celular e botão verde de contato completam a composição.",
+  "por_que_funciona": [
+    "O preço em vermelho tem tamanho maior que o restante da oferta.",
+    "Os recortes de unhas mostram o acabamento associado à técnica ensinada.",
+    "Os marcadores de confirmação facilitam a leitura dos conteúdos incluídos.",
+    "O botão verde no rodapé identifica o canal de contato."
+  ],
+  "quando_usar": "Para divulgar uma promoção de curso prático com preço definido, conteúdos e atendimento por mensagem.",
+  "estrutura_texto": "[Campanha promocional]\n[Curso] + [técnica]\nDe [preço anterior] por [preço atual]\n[Lista de conteúdos e bônus]\n[Certificado]\n[Chamada de matrícula]\n[Prova social verificável]\n[Fale no canal]",
+  "legenda": "Conheça o [curso online de técnica]. A oferta inclui [conteúdos], [material de apoio] e [certificado], por [preço e condições]. Converse pelo [canal] para saber como participar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo rosa suave com brilhos discretos. Coloque campanha e nome do curso no alto à esquerda, preço promocional grande em vermelho e lista de conteúdos com checks abaixo. À direita, distribua fotos circulares do resultado técnico e um celular com demonstração autorizada do curso. Na base, inclua certificado ilustrativo e botão verde de contato. Use somente preços e provas sociais comprovados. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3242185009297859",
+    "anunciante": "Gabi Oliveira Nail Designer",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-06",
+    "dias_no_ar": 222,
+    "variacoes_ativas": 2,
+    "texto_original": "Converse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3242185009297859.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1444578470495649",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com profissional e blocos de público",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Profissional de uniforme e capacete azul ocupa a direita, segurando ferramentas e cabos. À esquerda, blocos de texto anunciam curso gratuito, públicos e inscrições; o topo e o rodapé exibem identidade de aparência institucional.",
+  "por_que_funciona": [
+    "O título em fonte grande torna a profissão o foco da coluna esquerda.",
+    "A palavra “Gratuito” apresenta a condição de entrada junto ao título.",
+    "Ferramentas e cabos identificam visualmente a atividade ensinada.",
+    "A faixa de inscrições no rodapé sinaliza disponibilidade de vagas."
+  ],
+  "quando_usar": "Cursos profissionalizantes gratuitos com condições verificadas e inscrições abertas.",
+  "estrutura_texto": "[Identidade da instituição]\nCurso de [profissão]\nGratuito\nIdeal para [público]\ne deseja [objetivo]\nOu para quem deseja [nova profissão]\n[Vagas e inscrições]",
+  "legenda": "Inscrições abertas para o curso gratuito de [profissão]. Consulte [requisitos], [disponibilidade] e turmas em [turnos]. Faça o cadastro em [link oficial].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza-claro texturizado, retrato de profissional com equipamentos à direita e coluna de texto à esquerda. Destaque profissão em fonte serifada grande, gratuidade logo abaixo e públicos em blocos separados por linhas finas. Inclua faixa escura de inscrições no rodapé. Use apenas identidade própria; não reproduza brasões ou sugira vínculo governamental sem autorização.",
+  "alerta_politica": "Meta: não prometer renda garantida nem resultados típicos sem comprovação. Explique condições, custos e critérios de pagamento; valores e ganhos potenciais devem ser verificáveis. Verifique a gratuidade e eventual vínculo institucional antes de reproduzir a oferta. Em recrutamento, evite restrições discriminatórias por idade.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1444578470495649",
+    "anunciante": "Portal da Educação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-08",
+    "dias_no_ar": 279,
+    "variacoes_ativas": 1,
+    "texto_original": "Para garantir sua vaga \"CLIQUE EM CADASTRE-SE\"\n- Sem Restrição de Idade ou Escolaridade!\n- Turmas Manhã | Tarde | Noite",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1444578470495649.jpg"
+}

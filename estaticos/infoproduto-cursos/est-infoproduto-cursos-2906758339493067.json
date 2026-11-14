@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2906758339493067",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com profissional e parcelamento",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Profissional com capacete e uniforme laranja ocupa o centro e a direita, sobre fundo escuro com faixas verdes e turquesa. O nome do curso aparece em letras grandes, com modalidade EAD e parcelamento abaixo.",
+  "por_que_funciona": [
+    "O capacete e o uniforme conectam a imagem ao campo de atuação do curso.",
+    "O nome da formação em branco tem alto contraste com o fundo escuro.",
+    "O selo EAD informa rapidamente a modalidade.",
+    "A linha de 12 vezes no cartão destaca a condição de pagamento."
+  ],
+  "quando_usar": "Para cursos técnicos com público interessado na área e condição de parcelamento definida.",
+  "estrutura_texto": "[MARCA]\nCURSO TÉCNICO EM [ÁREA]\nCURSO [MODALIDADE]\n[PARCELAS] NO CARTÃO",
+  "legenda": "Prepare-se para atuar em [área] com o curso técnico em [especialidade], na modalidade [modalidade]. Conheça [trajetória comprovada da instituição], a grade e os requisitos. Pagamento em [condições de parcelamento]. Saiba mais em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul quase preto, faixas diagonais verdes e turquesa e detalhes de circuitos. Dê destaque à pessoa ou elemento da IMAGEM 2 associado à formação. Posicione o nome do curso em letras brancas grandes na metade inferior, precedido por chamada verde-limão. Acrescente selo de modalidade e linha de parcelamento com condições reais. Use apenas equipamentos coerentes com a área.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2906758339493067",
+    "anunciante": "Escola Técnica Star Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "Torne-se Técnico em Eletrotécnica. Curso de 100% on-line (modalidade a Distância).\n.\nEstude onde tem história e no conforto de sua casa. Há mais de 25 anos formando profissionais de qualidade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2906758339493067.jpg"
+}

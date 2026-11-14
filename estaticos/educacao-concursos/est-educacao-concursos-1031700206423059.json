@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1031700206423059",
+  "tipo": "estatico",
+  "titulo": "Catálogo de graduações agrupadas por mensalidade",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma grade densa organiza cursos em caixas por preço, com cabeçalhos laranja e ícones azuis. O topo anuncia matrículas e avaliação institucional; uma pessoa aponta para um selo e o rodapé chama para falar com um consultor.",
+  "por_que_funciona": [
+    "Os valores em faixas laranja permitem comparar grupos de cursos.",
+    "As caixas com contorno separam as opções por faixa de mensalidade.",
+    "O selo e a pessoa apontando direcionam atenção à avaliação anunciada.",
+    "A faixa inferior apresenta contato com consultor como próximo passo."
+  ],
+  "quando_usar": "Para campanhas de matrícula com vários cursos e condições comerciais definidas por grupo.",
+  "estrutura_texto": "[Instituição e modalidade]\n[Reconhecimento comprovável]\nMatrículas abertas\n[Preço 1 + cursos]\n[Preço 2 + cursos]\n[Outras faixas e cursos]\n[Segunda graduação]\n[Indicadores e condições]\nFale com [consultor] e [CTA de matrícula]",
+  "legenda": "Graduação [modalidade] com mensalidades a partir de [valor], conforme [curso e condições]. Confira [desconto] e [condição de matrícula], quando disponíveis. Fale com [consultor] para consultar valores, duração e regras da oferta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie arte vertical em 4:5 com fundo branco, cabeçalho azul e destaques laranja. Organize cursos em três colunas de caixas arredondadas, com preço em faixa laranja, ícone circular azul e lista em texto escuro. Reserve área inferior direita para pessoa recortada apontando para selo de credencial comprovável. Acrescente faixa de benefícios e CTA de contato no rodapé. Reduza a quantidade de cursos se necessário para manter leitura. Informe condições essenciais de preço e desconto, sem inventar reconhecimento institucional.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1031700206423059",
+    "anunciante": "Unif Educação BR",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-30",
+    "dias_no_ar": 107,
+    "variacoes_ativas": 2,
+    "texto_original": "🎉 Sua chance de começar a FACULDADE pagando menos CHEGOU!\n\n🎓 Graduação EAD reconhecida pelo MEC\n💥 70% de desconto no curso todo\n🎁 Matrícula PROMOCIONAL\n💸 Mensalidades a partir de R$ 67,50/mês\n\nEstude com a flexibilidade que você precisa e conquiste o diploma que pode transformar sua carreira.\n\n✅ Mais de 100 cursos disponíveis\n✅ Nota máxima no MEC\n✅ Mais de 600 mil alunos no Brasil\n✅ Diploma com a mesma validade do presencial\n\n📚 Administração, Pedagogia, RH, ADS, Ciências Contábeis, Engenharias, Saúde e muito mais!\n\n⏳ Clique para saber todos os detalhes. Consulte o regulamento*",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1031700206423059.jpg"
+}

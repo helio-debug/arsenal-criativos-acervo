@@ -1,0 +1,97 @@
+{
+ "id": "vid-nova-era-nova-oportunidade",
+ "tipo": "video",
+ "titulo": "Uma regra mudou e abriu uma janela de oportunidade",
+ "formato_video": "formato-noticia",
+ "nichos": [
+  "ia-ferramentas",
+  "renda-extra",
+  "investimentos",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[mudança verificável] entrou em vigor em [data]. Agora, [público elegível] pode [possibilidade concreta].",
+  "texto_tela": "[mudança em poucas palavras] | [data]",
+  "visual": "Apresentador em plano próximo na metade inferior, dentro de moldura arredondada. Acima, card sobre fundo marrom escuro com um ícone genérico ligado à mudança. Legenda branca curta junto à divisão."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Apresentador em plano próximo na metade inferior, dentro de moldura arredondada. Acima, card sobre fundo marrom escuro com um ícone genérico ligado à mudança. Legenda branca curta junto à divisão.",
+   "fala": "[mudança verificável] entrou em vigor em [data]. Agora, [público elegível] pode [possibilidade concreta].",
+   "texto_tela": "[mudança em poucas palavras] | [data]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Mantém o rosto embaixo. Na metade superior, número ou condição em branco grande sobre cartão preto. Exibe fonte e data legíveis em corpo menor, sem usar selos de aprovação.",
+   "fala": "A condição permite [benefício mensurável], com [limite ou restrição]. Este trecho mostra o que foi publicado.",
+   "texto_tela": "[benefício ou limite comprovado] | [fonte e data]"
+  },
+  {
+   "tempo": "11-17s",
+   "cena": "Corte de fala no mesmo enquadramento. Painel superior passa ao verde e compara a exigência anterior com a atual em duas barras, apenas quando houver dados verificáveis; caso contrário, usa dois cartões de condições.",
+   "fala": "Isso atende quem [situação de uso]. No [produto ou serviço], a aplicação é [uso concreto].",
+   "texto_tela": "Para [público elegível] | [uso concreto]"
+  },
+  {
+   "tempo": "17-23s",
+   "cena": "Acima do apresentador, checklist com duas caixas e um cartão de requisito ao lado. Marcas verdes entram conforme cada requisito é falado; fundo azul-esverdeado.",
+   "fala": "Para começar, confira [requisito um] e [requisito dois]. A participação depende de [condição de acesso].",
+   "texto_tela": "Confira: [requisito um] + [requisito dois]"
+  },
+  {
+   "tempo": "23-29s",
+   "cena": "Plano próximo permanece embaixo; acima, destaca a primeira ação em um cartão único. Ampliação curta do cartão, sem esconder a restrição de acesso.",
+   "fala": "O primeiro passo é [ação simples]. Depois, confira [condição importante] antes de seguir.",
+   "texto_tela": "1º passo: [ação simples]"
+  },
+  {
+   "tempo": "29-35s",
+   "cena": "Painel superior mostra prévia genérica da lista gratuita em verde. Rosto continua visível embaixo; a palavra de comentário aparece grande no encerramento.",
+   "fala": "Eu reuni as condições em [material gratuito]. Comente [palavra-chave] para receber o passo a passo.",
+   "texto_tela": "[material gratuito] | Comente [palavra-chave]"
+  }
+ ],
+ "por_que_funciona": [
+  "O rosto permanece na metade inferior enquanto os painéis mudam acima. A explicação mantém um ponto visual fixo durante a troca de informação.",
+  "O segundo frame concentra um valor em algarismos brancos grandes sobre preto. A condição central ganha destaque sem depender de ler um parágrafo.",
+  "O terceiro frame usa barras vermelha e verde para comparar esforço; o quarto troca a comparação por um checklist de dois requisitos. A sequência sai da vantagem e chega ao que é necessário para participar.",
+  "Na fala de encerramento, o pedido de comentário acompanha a prévia da lista no painel superior. O material que será entregue aparece junto da ação solicitada."
+ ],
+ "quando_usar": "Para quem vende ferramentas, serviços ou conteúdo e tem uma mudança real de acesso, regra ou condição para explicar. Use no topo do funil para apresentar quem pode aproveitar e oferecer um guia gratuito com as condições.",
+ "roteiro_modelo": "[mudança verificável] entrou em vigor em [data]. Agora, [público elegível] pode [possibilidade concreta].\n\n[pausa curta / corte de painel]\n\nA condição permite [benefício mensurável], com [limite ou restrição]. Este trecho mostra o que foi publicado.\n\n[pausa curta / corte de painel]\n\nIsso atende quem [situação de uso]. No [produto ou serviço], a aplicação é [uso concreto].\n\n[pausa curta / corte de painel]\n\nPara começar, confira [requisito um] e [requisito dois]. A participação depende de [condição de acesso].\n\n[pausa curta / corte de painel]\n\nO primeiro passo é [ação simples]. Depois, confira [condição importante] antes de seguir.\n\n[pausa curta / corte de painel]\n\nEu reuni as condições em [material gratuito]. Comente [palavra-chave] para receber o passo a passo.",
+ "tomadas_celular": [
+  "Grave a abertura em vertical, plano próximo do peito para cima, câmera na altura dos olhos e luz de janela frontal. Reserve 5 segundos e deixe espaço para recortar o rosto na metade inferior.",
+  "Grave a explicação do benefício no mesmo lugar, olhando para a lente, com luz frontal difusa. Faça uma tomada de 6 segundos; o card numérico entra na edição.",
+  "Grave o trecho de aplicação em plano próximo, com um pequeno gesto de mão abaixo do rosto e a mesma luz. Duração de 6 segundos; insira a comparação no painel superior.",
+  "Grave os requisitos em plano próximo fixo, luz de janela e fundo doméstico simples. Duração de 6 segundos, com pausa entre os dois itens para marcar as caixas na edição.",
+  "Grave o primeiro passo com o mesmo enquadramento e luz, falando uma ação por vez. Duração de 6 segundos; mostre o procedimento em card montado no editor.",
+  "Grave o convite final em plano próximo, luz frontal suave, olhando para a lente. Duração de 6 segundos; a prévia do material fica acima do rosto."
+ ],
+ "caminho_ia": "Sem gravar, use um avatar autorizado com voz sintética em pt-BR na metade inferior. No Runway ou Veo, gere fundos sem texto para o painel superior e monte os cards no CapCut, com números e requisitos digitados no editor. Prompt de cena 1: \"Vertical 9:16 editorial explainer layout, upper half reserved for a generic [product category] opportunity card, dark warm brown background, subtle icon motion, locked camera, no logos, no readable text, five seconds.\" Prompt de cena 2: \"Vertical 9:16 motion graphics insert for [product], upper half only, dark teal background, two blank checklist rows with green checkmark animation, clean flat UI, locked camera, six seconds, no logos, no generated text.\" Preserve o avatar em janela inferior arredondada e troque o painel a cada bloco. Use documentos reais autorizados como prova; imagens geradas servem apenas para ilustração.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 35 segundos com apresentador em janela arredondada na metade inferior e cards explicativos na superior. Use seis blocos: 0-5s, mudança verificável e data; 5-11s, condição ou benefício comprovado com fonte; 11-17s, público elegível e aplicação do produto; 17-23s, dois requisitos; 23-29s, primeiro passo e restrição; 29-35s, prévia de material gratuito e pedido de comentário por palavra-chave. Tom de recado útil, fala direta em pt-BR, cerca de 85 palavras, pausas curtas e troca de card em cada bloco. Texto de tela curto, branco em fundo escuro, número em destaque quando comprovado e checklist verde. Não invente notícia, mudança, valores, experiência pessoal, aprovação ou escassez. Se faltar evidência da mudança, indique [mudança a confirmar] e [fonte e data], sem apresentar a afirmação como fato. Não copie pessoa, marca, logotipo, domínio, figuras públicas, valores ou falas da referência. Não use antíteses vazias, tríades decorativas, perguntas de enfeite, superlativos ou fecho de efeito. Em renda extra, não prometa ganhos e contextualize resultados típicos e custos; em investimento, inclua riscos e não prometa rentabilidade. Termine com uma única ação para receber o material realmente disponível. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Desde [data], [mudança verificável] permite [possibilidade] para [público elegível]. O acesso depende de [condições e limites]. Reuni os requisitos e o primeiro passo em [material gratuito]. Comente [palavra-chave] para receber. Fonte: [fonte e data].",
+ "alerta_politica": "Meta: anúncios de oportunidades de negócio não podem prometer ganho garantido, dinheiro fácil ou resultado econômico irreal. Em renda extra, informe custos, condições e resultados típicos comprováveis; um caso individual não representa o resultado esperado. Não presuma a situação financeira de quem vê o anúncio. Em investimentos, observe as regras da CVM para publicidade e ofertas públicas, com registro ou dispensa quando aplicável; apresente riscos e não prometa rentabilidade ou retorno garantido. Se a adaptação envolver crédito ou instituição financeira, confira autorização e regras do Banco Central e informe taxas, CET e condições aplicáveis. Não apresente créditos de uso de ferramenta como dinheiro disponível para saque.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-76eb9396",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-nova-era-nova-oportunidade/frames/f1.jpg",
+    "videos/vid-nova-era-nova-oportunidade/frames/f2.jpg",
+    "videos/vid-nova-era-nova-oportunidade/frames/f3.jpg",
+    "videos/vid-nova-era-nova-oportunidade/frames/f4.jpg",
+    "videos/vid-nova-era-nova-oportunidade/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-2000894370576697",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre o exame e apoio gratuito",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Peça azul com pergunta no alto à esquerda e oferta de apoio gratuito abaixo. Uma foto de estudante ocupa um recorte diagonal à direita, com identidade institucional na base.",
+  "por_que_funciona": [
+    "A pergunta inicial situa o anúncio no exame e no ano de interesse.",
+    "A expressão 100% gratuito destaca o custo de acesso no bloco de apoio.",
+    "O recorte diagonal da foto cria espaço para texto e mostra uma cena de estudo."
+  ],
+  "quando_usar": "Para apresentar materiais gratuitos e captar cadastros de estudantes próximos ao exame.",
+  "estrutura_texto": "VOCÊ JÁ ESTÁ PREPARADO PARA [EXAME E ANO]?\nNO [PORTAL], VOCÊ TEM [APOIO] NESSA [ETAPA] — [CONDIÇÃO GRATUITA]\n[INSTITUIÇÃO]",
+  "legenda": "Estude para [exame e ano] gratuitamente pelo [portal]. Acesse [simulados], [testes] e [materiais de estudo]. Cadastre-se em [canal] e comece agora.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul escuro, pergunta turquesa no alto à esquerda e texto branco abaixo com gratuidade em negrito. À direita, insira foto de estudo em recorte diagonal amplo. Finalize com identidade da marca no rodapé e linhas finas discretas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2000894370576697",
+    "anunciante": "FGV",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 1,
+    "texto_original": "Estude para o Enem 2026 de forma gratuita pelo Portal FGV Ensino Médio!\n\nSimulados, testes e materiais prontos para apoiar os seus estudos. \n\nCadastre-se e comece agora! 🚀",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2000894370576697.jpg"
+}

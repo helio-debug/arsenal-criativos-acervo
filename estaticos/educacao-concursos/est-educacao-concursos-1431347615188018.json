@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1431347615188018",
+  "tipo": "estatico",
+  "titulo": "Vestibular com mensalidade e prazo em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte vertical verde com curso e mensalidade em destaque, selo de avaliação no topo e faixa de datas ao centro. Um estudante de jaleco aparece diante da foto de um hospital na base.",
+  "por_que_funciona": [
+    "O nome do curso em letras grandes identifica imediatamente a formação anunciada.",
+    "O preço tem alto contraste e traz uma condição específica logo abaixo.",
+    "As caixas laranjas separam data da prova e encerramento das inscrições.",
+    "A foto do hospital e o selo de avaliação apresentam sinais visíveis de estrutura e credenciamento."
+  ],
+  "quando_usar": "Para instituições captarem inscrições na fase final de um processo seletivo.",
+  "estrutura_texto": "[MARCA] [AVALIAÇÃO INSTITUCIONAL]\nVestibular [ANO]\n[CURSO]\nMENSALIDADES A PARTIR DE [VALOR]*\n*[CONDIÇÃO DE PAGAMENTO]\n[OUTRAS OPÇÕES]\nPROVA [DATA]\nINSCRIÇÕES ATÉ [DATA]\n[SITE]\n[BENEFÍCIO DA ESTRUTURA]",
+  "legenda": "Inscrições abertas para [curso] em [instituição]. Conheça [estrutura de ensino]. Mensalidades a partir de [valor], sob [condições]. Prova em [data]; inscrições até [prazo]. Consulte as opções de pagamento em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize uma peça vertical verde com título branco grande, preço destacado e condições legíveis abaixo. Use caixas laranjas para os prazos. Na metade inferior, mostre uma pessoa ligada ao curso e uma instalação real da instituição. Inclua selo de avaliação apenas se comprovado.",
+  "alerta_politica": "Ao anunciar crédito estudantil, informe condições, elegibilidade e encargos com clareza; evite sugerir aprovação garantida. Mensalidade inicial e avaliação institucional precisam de comprovação e condições legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1431347615188018",
+    "anunciante": "UNINGÁ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-26",
+    "dias_no_ar": 19,
+    "variacoes_ativas": 13,
+    "texto_original": "Seu futuro na Medicina começa na UNINGÁ! 🩺🧡\n\nPrepare-se para uma formação que une conhecimento, prática e cuidado com as pessoas, com laboratórios de alta tecnologia e dois hospitais próprios.\n\n🎓 Mensalidades a partir de R$ 7.114,05, em condição exclusiva para alunos ingressantes com UningáCred.\n\nConsulte as condições do crédito estudantil e outras opções de pagamento.\n\n📅 Prova em 22 de novembro.�\n📝 Inscrições até 17 de novembro.\n\nConheça a Medicina UNINGÁ e dê o próximo passo para o seu futuro!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1431347615188018.jpg"
+}

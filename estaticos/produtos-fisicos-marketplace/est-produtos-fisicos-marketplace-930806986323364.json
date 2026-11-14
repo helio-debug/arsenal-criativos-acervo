@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-930806986323364",
+  "tipo": "estatico",
+  "titulo": "Perfil de alumínio em perspectiva",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Perfil de alumínio prateado em diagonal sobre fundo branco, com a seção transversal voltada para a câmera. Uma frase pequena em vermelho oferece contato para outras medidas.",
+  "por_que_funciona": [
+    "A seção transversal exposta mostra canais e cavidades do perfil.",
+    "A diagonal evidencia o comprimento e o volume.",
+    "O fundo branco facilita a inspeção das bordas metálicas.",
+    "A frase vermelha destaca a possibilidade de consultar outras medidas."
+  ],
+  "quando_usar": "Para vender componentes técnicos cuja seção, encaixe e disponibilidade de medidas precisam ser vistos.",
+  "estrutura_texto": "[Foto do componente em perspectiva]\nSe precisar de [outras medidas],\n[entre em contato pelo canal disponível].",
+  "legenda": "Encontre [componente] em [medidas disponíveis]. Confira até [desconto confirmado] e [condição de frete]. Consulte os prazos em [canal de compra].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1 com o componente da IMAGEM 2 em diagonal sobre fundo branco, mostrando com nitidez a seção frontal e os canais de encaixe. Use luz suave que preserve os detalhes do metal. No canto inferior direito, adicione duas linhas curtas em vermelho e itálico: [mensagem sobre consulta de medidas]. Não invente dimensões ou compatibilidades. Use a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "930806986323364",
+    "anunciante": "AliExpress",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-30",
+    "dias_no_ar": 229,
+    "variacoes_ativas": 10,
+    "texto_original": "🎉Descontos de até 70%!\nFrete grátis na primeira compra no app para novos clientes!\n⏰ Promoção por tempo limitado – só enquanto durarem os estoques!\n🛒 Corre para garantir o seu – Compre agora na AliExpress!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-930806986323364.jpg"
+}

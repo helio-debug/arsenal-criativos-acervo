@@ -1,0 +1,87 @@
+{
+ "id": "vid-chat-recomendacao",
+ "titulo": "Conversa simulada que transforma dúvida em recomendação personalizada",
+ "formato_video": "conversa-mensagens",
+ "nichos": [
+  "saude",
+  "beleza-cosmeticos",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "20-25s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Escolher [categoria de solução] pode começar com uma conversa.",
+  "texto_tela": "Quero [objetivo]. Por onde começo?",
+  "visual": "Fundo em degradê, cabeçalho de conversa e primeiro balão à direita; sem pessoa filmada."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Janela de chat sobre fundo colorido. Balão do usuário aparece à direita.",
+   "fala": "Escolher [categoria de solução] pode começar com uma conversa.",
+   "texto_tela": "Quero [objetivo]. Por onde começo?"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Dois balões da assistente entram à esquerda, um por vez.",
+   "fala": "No [produto], você informa [critério de escolha].",
+   "texto_tela": "Olá! Qual é [critério relevante]?"
+  },
+  {
+   "tempo": "8-13s",
+   "cena": "Resposta curta à direita e cartão de opção à esquerda com imagem e botão.",
+   "fala": "A ferramenta mostra [opções disponíveis] conforme essa escolha.",
+   "texto_tela": "Busco [preferência]. / [opção compatível] / Ver detalhes"
+  },
+  {
+   "tempo": "13-17s",
+   "cena": "Chat sobe e recebe pergunta sobre uso e resposta da assistente.",
+   "fala": "Depois, você confere [informação prática] e escolhe como seguir.",
+   "texto_tela": "Como funciona? / [modo de uso ou atendimento]"
+  },
+  {
+   "tempo": "17-22s",
+   "cena": "Tela final com linhas de benefícios verificados e botão largo na parte inferior.",
+   "fala": "Abra [produto] e veja [opções disponíveis].",
+   "texto_tela": "[benefício comprovável 1] / [benefício comprovável 2] / Conhecer [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro balão põe uma dúvida concreta dentro da interface antes da explicação.",
+  "As mensagens alternadas dos dois lados mostram a sequência de escolha sem um apresentador.",
+  "O cartão com imagem e botão torna a recomendação visível dentro da conversa.",
+  "A tela final troca os balões por benefícios em linhas e um botão branco largo."
+ ],
+ "quando_usar": "Para produtos ou serviços com mais de uma opção e um fluxo real de orientação. Use quando o público já conhece a categoria, mas precisa entender como escolher.",
+ "roteiro_modelo": "Escolher [categoria de solução] pode começar com uma conversa.\n\n[CORTE / pausa curta]\n\nNo [produto], você informa [critério de escolha].\n\n[CORTE / pausa curta]\n\nA ferramenta mostra [opções disponíveis] conforme essa escolha.\n\n[CORTE / pausa curta]\n\nDepois, você confere [informação prática] e escolhe como seguir.\n\n[CORTE / pausa curta]\n\nAbra [produto] e veja [opções disponíveis].",
+ "tomadas_celular": [
+  "Grave a tela de um protótipo de chat por 5s, vertical, brilho médio e notificações desligadas; luz ambiente indireta se filmar o aparelho.",
+  "Grave a seleção de um critério em close da tela por 4s; apoie o celular e evite reflexos de janela.",
+  "Grave a abertura de um cartão de opção por 5s, enquadramento fechado; use dados fictícios e luz difusa.",
+  "Grave a tela de detalhes por 4s e o botão final por 4s; mantenha o mesmo brilho e espaço livre para legendas."
+ ],
+ "caminho_ia": "Sem gravar, monte a conversa no CapCut com balões editáveis e locução sintética licenciada. Gere apenas as imagens dos cartões no Sora; escreva todo texto na edição. Prompts: \"Vertical 9:16 product card illustration for [product category], soft studio lighting, centered composition, neutral background, no text, no logo, static camera.\" e \"Vertical 9:16 abstract gradient background in [brand colors], subtle geometric texture, ample negative space for chat bubbles, locked camera, no lettering.\" Anime as entradas em sequência e sinalize conversa ilustrativa quando o fluxo for simulado.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 22s em 9:16: 0-4 dúvida no chat; 4-8 pergunta da assistente; 8-13 resposta e cartão; 13-17 funcionamento; 17-22 benefícios e CTA. Tom prestativo, locução tranquila e mensagens entrando uma por vez. Use fundo da minha marca, balões alternados e cartão clicável ilustrativo. Texto curto e legível; não simule recomendação que o produto não oferece. Não faça diagnóstico ou promessa de adequação clínica. Não copie nomes, marcas, rostos, depoimentos, identidade visual nem frases da referência. Não invente recursos, provas, prazos ou resultados. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, antíteses vazias e perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para escolher [categoria], comece por [critério]. Em [produto], veja [opções] e confira [detalhe importante]. Conheça pelo [canal de acesso].",
+ "alerta_politica": "Meta: não atribua condição de saúde física ou mental a quem vê o anúncio; use situações gerais. Não use antes/depois de corpo, promessa de cura ou resultado de saúde. Quando houver serviço médico, siga as regras de publicidade do CFM e identifique o responsável habilitado; para outras profissões, siga o conselho competente. ANVISA: cosméticos não podem receber alegações terapêuticas; use apenas benefícios compatíveis com a regularização do produto.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-89a7a26a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-chat-recomendacao/frames/f1.jpg",
+    "videos/vid-chat-recomendacao/frames/f2.jpg",
+    "videos/vid-chat-recomendacao/frames/f3.jpg",
+    "videos/vid-chat-recomendacao/frames/f4.jpg",
+    "videos/vid-chat-recomendacao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

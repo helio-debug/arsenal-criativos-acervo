@@ -1,0 +1,87 @@
+{
+ "id": "vid-demo-saas-com-apresentador-ia",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Demo de software com interface ampliada e brilho verde",
+ "formato_video": "motion-design-demo",
+ "duracao": "21s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Veja como [produto] ajuda a executar [tarefa].",
+  "texto_tela": "[Produto] | [função principal]",
+  "visual": "Interface inclinada sobre fundo escuro, cercada por brilho verde e título no topo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela do produto em perspectiva, fundo escuro e arco de luz verde; título curto acima.",
+   "fala": "Veja como [produto] ajuda a executar [tarefa].",
+   "texto_tela": "[Produto] | [função principal]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Aproximação do botão principal, com contorno verde e ondas gráficas ao redor.",
+   "fala": "Comece por [comando principal].",
+   "texto_tela": "[Ação principal]"
+  },
+  {
+   "tempo": "8-13s",
+   "cena": "Painel central de fontes ou entradas compatíveis, organizadas em grade.",
+   "fala": "Adicione [entrada compatível] para trabalhar com [conteúdo do usuário].",
+   "texto_tela": "Adicione [entrada compatível]"
+  },
+  {
+   "tempo": "13-17s",
+   "cena": "Cartela escura com frase curta centralizada e pequeno símbolo gráfico.",
+   "fala": "Use [recurso demonstrado] em [situação concreta].",
+   "texto_tela": "[Uso concreto]"
+  },
+  {
+   "tempo": "17-21s",
+   "cena": "Identidade do comprador no centro; brilho verde nas bordas e chamada abaixo.",
+   "fala": "Abra [canal] e confira [condição do teste].",
+   "texto_tela": "Experimente [produto] | [condição]"
+  }
+ ],
+ "por_que_funciona": [
+  "A interface inclinada aparece já na abertura e ocupa a maior parte da imagem.",
+  "O close do botão verde concentra a atenção em uma ação específica.",
+  "A grade de ícones torna visíveis as opções de entrada antes da chamada final.",
+  "As duas cartelas finais reduzem a quantidade de elementos enquanto o brilho verde mantém a unidade visual."
+ ],
+ "quando_usar": "Para SaaS B2B e ferramentas de IA com uma ação principal e entradas compatíveis fáceis de mostrar. Use quando o público já conhece a tarefa e precisa entender como começar.",
+ "roteiro_modelo": "Veja como [produto] ajuda a executar [tarefa].\n\n[CORTE / PAUSA]\n\nComece por [comando principal].\n\n[CORTE / PAUSA]\n\nAdicione [entrada compatível] para trabalhar com [conteúdo do usuário].\n\n[CORTE / PAUSA]\n\nUse [recurso demonstrado] em [situação concreta].\n\n[CORTE / PAUSA]\n\nAbra [canal] e confira [condição do teste].",
+ "tomadas_celular": [
+  "Capture no celular a tela inicial do produto, em orientação horizontal, por 4s; use brilho estável e dados fictícios.",
+  "Capture o toque no comando principal em plano de tela cheia, por 4s; mantenha o rótulo legível.",
+  "Capture o painel de entradas ou integrações reais por 5s, em tela cheia, sem notificações.",
+  "Filme o celular apoiado sobre mesa escura por 4s, em plano fechado; use luz lateral difusa e evite reflexos para a cartela de uso.",
+  "Fotografe o aparelho com a identidade própria na tela, em plano frontal, com luz lateral suave, por 4s; sobreponha a chamada na edição."
+ ],
+ "caminho_ia": "Sem filmagem, componha capturas autorizadas do produto no CapCut ou Runway, com perspectiva e brilho verde. Prompt 1: \"Horizontal 16:9 abstract dark navy background, luminous emerald aurora framing a centered blank software panel for [product], subtle particles, slow push-in, no text, no logos.\" Prompt 2: \"Horizontal 16:9 macro motion graphic of a blank rounded action button for [primary action], emerald rim light, concentric light trails, smooth lateral camera move, clean dark background, no text.\" Sobreponha a interface e os textos verdadeiros no editor para preservar a leitura. A referência tem música; a locução proposta pode ser feita com voz sintética ou voz clonada autorizada, sem avatar em cena.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 21s em 16:9, com cinco blocos: 0-4 interface em perspectiva; 4-8 close do comando; 8-13 grade de entradas; 13-17 frase de uso; 17-21 identidade e teste. Fundo escuro, brilho verde, aproximações suaves e poucas palavras por tela. Use música e locução curta opcional; entregue a locução completa como adaptação. Não coloque apresentador ou avatar. Use integrações reais e não copie ícones ou identidade da referência. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não invente funcionalidades, condições comerciais ou resultados. Não copie marcas, pessoas, nomes, logotipos, textos literais nem o produto da referência. Evite superlativos sem prova, perguntas decorativas e frases de efeito. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [ação principal] no [produto]. A demonstração mostra [entrada compatível] e [recurso disponível]. Confira [condição do teste] em [canal].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "jX4dLxiso6A",
+   "dias_no_ar": null,
+   "views": 213828,
+   "frames": [
+    "videos/vid-demo-saas-com-apresentador-ia/frames/f1.jpg",
+    "videos/vid-demo-saas-com-apresentador-ia/frames/f2.jpg",
+    "videos/vid-demo-saas-com-apresentador-ia/frames/f3.jpg",
+    "videos/vid-demo-saas-com-apresentador-ia/frames/f4.jpg",
+    "videos/vid-demo-saas-com-apresentador-ia/frames/f5.jpg"
+   ]
+  }
+ ]
+}

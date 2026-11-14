@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-654330423970236",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre os próximos passos após teste positivo",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de um teste de gravidez diante de uma pessoa deitada, com pergunta em branco e faixa magenta. Um pequeno retrato com identificação profissional aparece acima da chamada.",
+  "por_que_funciona": [
+    "O teste de gravidez torna o assunto reconhecível antes da leitura.",
+    "A pergunta ocupa a região central inferior com destaque para “teste positivo?”.",
+    "A faixa magenta separa a primeira linha do restante da foto.",
+    "“Leia a legenda” direciona a busca da resposta para o texto do anúncio."
+  ],
+  "quando_usar": "Para profissionais de pré-natal apresentarem conteúdo introdutório sobre confirmação da gestação.",
+  "estrutura_texto": "[Identificação profissional]\nO que fazer depois de [acontecimento]?\nLEIA A LEGENDA",
+  "legenda": "Após [acontecimento], é comum surgirem dúvidas sobre os próximos passos. Agende [consulta indicada] para receber orientação individual. Na primeira consulta, serão avaliados [aspectos relevantes].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto contextual em tela cheia, área inferior escurecida, pergunta branca grande em duas linhas e faixa magenta arredondada na primeira linha. Inclua identificação profissional genérica com pequeno retrato e CTA discreto para ler a legenda.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ao público ou prometer resultados. CFM: conteúdo médico deve ser informativo, sem garantia de resultado, com identificação profissional quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "654330423970236",
+    "anunciante": "Dramarianabraz",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-07",
+    "dias_no_ar": 586,
+    "variacoes_ativas": 1,
+    "texto_original": "Primeiramente, parabéns pelo teste positivo! 🎉\n\nEu sei que você deve estar sentindo uma mistura de emoções – alegria, ansiedade e muitas dúvidas, o que é completamente normal para esse momento. Daí você se pergunta: e agora, o que fazer?\n\nAssim que você confirmar a gravidez, a primeira coisa a fazer é agendar sua consulta de pré-natal. O pré-natal é um dos passos mais importantes para garantir uma gravidez saudável para você e seu bebê.\n\nE o que acontece durante a primeira consulta?\n\nHistórico de saúde: Vamos conversar sobre sua saúde, histórico médico e possíveis condições que precisam de atenção.\n\nExames iniciais: Vou solicitar alguns exames para verificar e acompanhar sua saúde e a do bebê.\n\nOrientações gerais: Vou te orientar sobre alimentação, suplementos necessários, exercícios e cuidados diários.\n\nEspaço para perguntas: Este é o momento para você tirar todas as suas dúvidas. Nenhuma pergunta é boba!\n\nDurante o pré-natal, teremos consultas regulares para acompanhar o desenvolvimento do bebê e sua saúde. Em cada consulta, te examinarei, solicitarei os exames necessários, verificaremos o crescimento do bebê e discutiremos cada fase da gravidez.\n\nPor isso, se você descobriu que está grávida, deve agendar uma consulta o quanto antes!\n\nE se precisar, estou aqui para te acompanhar em cada passo dessa linda jornada. Vamos fazer dessa fase uma experiência única e especial! 💖\n\nVocê conhece alguma amiga que acabou de descobrir que está grávida? Compartilhe este post com ela!\n\nDra. Mariana Braz\nGinecologista e Obstetra\nCRM: 60130 | RQE: 40874",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-654330423970236.jpg"
+}

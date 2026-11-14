@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1589659459218246",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com comissão em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo verde vivo com chamada de revenda no topo, valor mensal em faixa rosa e dois blocos brancos de condições e comissão. Uma mulher segura um certificado e outro quadro de reconhecimento.",
+  "por_que_funciona": [
+    "A faixa rosa separa o valor mensal do restante da chamada.",
+    "Os blocos brancos agrupam requisitos de entrada e comissão por indicação.",
+    "O certificado com marca de volume acrescenta um sinal visual de reconhecimento.",
+    "A camiseta ligada à atividade aproxima o convite da operação de revenda."
+  ],
+  "quando_usar": "Para apresentar um programa de indicação a pessoas que buscam uma atividade complementar, com ganhos e requisitos verificáveis.",
+  "estrutura_texto": "Seja um [perfil de parceiro] de [programa] e [potencial de resultado comprovado]\n[Condição de entrada 1]\n[Condição de entrada 2]\n[Comissão elegível] por [ação]*\n[Regras e condições]",
+  "legenda": "Indique [produto] e receba [comissão] por [ação elegível]. [Condições de entrada]. Consulte [regras], prazos de pagamento e critérios de participação em [link]. Os ganhos variam conforme as indicações aprovadas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde vibrante, chamada preta condensada no terço superior e faixa rosa para um benefício comprovado. À direita, coloque dois cartões brancos arredondados para requisitos e comissão. Na metade inferior, mostre uma pessoa com quadros de reconhecimento autorizados; inclua o produto da IMAGEM 2 de forma coerente. Reserve rodapé legível para condições. Não invente certificados, valores ou resultados.",
+  "alerta_politica": "Meta: alegações de ganhos devem ser comprováveis, com condições e variação de resultados claras. Não apresentar renda média, comissão máxima ou lucro como resultado garantido; informar custos e requisitos reais de participação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1589659459218246",
+    "anunciante": "Ton",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-01",
+    "dias_no_ar": 74,
+    "variacoes_ativas": 5,
+    "texto_original": "Uma renda extra que cabe na sua rotina 💚\nSeja Revendedora Ton, indique maquininhas e ganhe R$ 1.500 por indicação. Sem investir nada, sem CNPJ.\nSem investir, sem CNPJ: só indicar 💚\nRenda Extra Ton · Sem investir e sem CNPJ",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1589659459218246.jpg"
+}

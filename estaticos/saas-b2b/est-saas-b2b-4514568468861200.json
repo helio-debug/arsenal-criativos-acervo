@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-4514568468861200",
+  "tipo": "estatico",
+  "titulo": "Software de obras com aplicação real e botão de compra",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fotografia aérea de um canteiro de obras ocupa o topo de uma peça preta. Abaixo, título de compra, explicação curta sobre planejamento e construção virtual e um botão branco.",
+  "por_que_funciona": [
+    "A fotografia de obra com guindastes identifica o setor atendido.",
+    "O título de compra fica isolado abaixo da foto e inicia a leitura da oferta.",
+    "O parágrafo explicita planejamento e fluxos baseados em modelos como aplicações.",
+    "O botão branco contrasta com o fundo preto e destaca a ação."
+  ],
+  "quando_usar": "Para vender software especializado a compradores que já reconhecem a aplicação e precisam de um caminho direto para contratar.",
+  "estrutura_texto": "Compre [produto] hoje\nMelhore [processo] com [aplicação 1], [aplicação 2] e [tipo de fluxo].\n[CTA de compra]\n[Marca] [assinatura]",
+  "legenda": "Aprimore [planejamento e gestão de projetos] com [software]. Conheça os recursos para [aplicações relevantes] e consulte as opções de contratação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto e uma fotografia ampla de aplicação real no topo, com margens e cantos levemente arredondados. Use a IMAGEM 2 como base para representar o produto ou seu contexto de uso sem copiar o canteiro da referência. Abaixo, alinhe à esquerda um título branco, descrição breve em corpo menor e botão branco com texto preto. Posicione a marca própria discretamente no rodapé. Evite métricas de eficiência sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4514568468861200",
+    "anunciante": "Bentley Systems",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-28",
+    "dias_no_ar": 78,
+    "variacoes_ativas": 1,
+    "texto_original": "Take your project planning and management to the next level.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-4514568468861200.jpg"
+}

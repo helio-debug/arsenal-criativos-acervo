@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1502194814266106",
+  "tipo": "estatico",
+  "titulo": "Curso de comércio exterior com retrato profissional",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de um profissional sorridente segurando um tablet em ambiente corporativo. O nome do curso aparece no alto à esquerda, com arco azul sobre a foto e chamada de inscrição na base.",
+  "por_que_funciona": [
+    "O título no alto à esquerda informa a profissão e a modalidade EAD.",
+    "O retrato com roupa social e tablet contextualiza a área profissional.",
+    "O arco azul envolve a pessoa e conecta a foto à identidade visual.",
+    "A chamada de inscrição fica isolada no canto inferior esquerdo."
+  ],
+  "quando_usar": "Para divulgar uma formação profissional específica em uma campanha com várias opções de curso e identidade visual consistente.",
+  "estrutura_texto": "Curso profissionalizante [Modalidade]\n[Nome do curso]\nInscreva-se\n[Marca e assinatura institucional]",
+  "legenda": "Desenvolva habilidades para atuar em [área] com um curso profissionalizante [modalidade]. Conheça a formação em [nome do curso], confira o conteúdo prático e as condições de matrícula. Inscreva-se.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de uma pessoa adulta com roupa profissional e tablet em escritório, posicionada à direita. Aplique luz clara, título azul-escuro e subtítulo azul vivo. No topo esquerdo, escreva modalidade e nome do curso. Sobreponha um arco azul largo com pequenas setas no alto à direita. Coloque o CTA no canto inferior esquerdo e a minha marca no direito. Não reproduza a pessoa da referência. Use textos em pt-BR com os dados do MEU PRODUTO e apenas condições e credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1502194814266106",
+    "anunciante": "EAD UniCesumar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-24",
+    "dias_no_ar": 386,
+    "variacoes_ativas": 2,
+    "texto_original": "Rápido e totalmente on-line! 💻🌟 Os Cursos Profissionalizantes da UniCesumar te preparam para o mercado com tudo que você precisa: rapidez, flexibilidade e qualidade.\nEscolha o curso que foca na prática da profissão e desenvolva-se para atuar na sua área! Matricule-se agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1502194814266106.jpg"
+}

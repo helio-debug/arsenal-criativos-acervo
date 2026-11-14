@@ -1,0 +1,97 @@
+{
+ "id": "vid-depoimento-gravado-pelo-cliente",
+ "tipo": "video",
+ "titulo": "Cliente grava o próprio depoimento no celular sobre um resultado",
+ "formato_video": "depoimento",
+ "nichos": [
+  "infoproduto-cursos",
+  "estetica-clinicas",
+  "servicos-locais",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "garantia",
+ "etapa_funil": "fundo",
+ "duracao": "30-40s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Eu procurei [produto ou serviço] porque queria [objetivo concreto].",
+  "texto_tela": "[Cliente autorizado] • [contexto de uso]",
+  "visual": "Cliente em plano médio horizontal, fundo simples; tarja com identificação autorizada e genérica no modelo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Cliente em plano médio horizontal, fundo simples; tarja com identificação autorizada e genérica no modelo.",
+   "fala": "Eu procurei [produto ou serviço] porque queria [objetivo concreto].",
+   "texto_tela": "[Cliente autorizado] • [contexto de uso]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Mantenha a fala, cortando para detalhe real da experiência.",
+   "fala": "Naquele momento, eu precisava de [necessidade específica]. Antes de escolher, conferi [critério].",
+   "texto_tela": "[Necessidade específica]"
+  },
+  {
+   "tempo": "12-20s",
+   "cena": "Imagens de uso ou atendimento, sem expor outras pessoas sem autorização.",
+   "fala": "O que eu encontrei foi [detalhe vivido]. Por exemplo, [episódio real e observável].",
+   "texto_tela": "[Detalhe da experiência]"
+  },
+  {
+   "tempo": "20-29s",
+   "cena": "Volte ao rosto mais próximo, preservando uma pausa natural.",
+   "fala": "Depois de [período real], consegui [resultado individual comprovável]. No meu caso, ainda preciso de [limite ou próximo passo].",
+   "texto_tela": "[Resultado individual] • [período]"
+  },
+  {
+   "tempo": "29-36s",
+   "cena": "Plano médio do cliente; o convite comercial entra em texto, separado do relato.",
+   "fala": "Para quem procura [objetivo semelhante], vale conferir [informação útil antes da decisão].",
+   "texto_tela": "Consulte [condições reais da garantia]"
+  },
+  {
+   "tempo": "36-40s",
+   "cena": "Cartela simples com o produto e botão visual, sem imitar o logo da referência.",
+   "fala": "Confira os detalhes no botão.",
+   "texto_tela": "Conheça [produto] • Veja as condições"
+  }
+ ],
+ "por_que_funciona": [
+  "A tarja inicial situa quem fala antes de o relato avançar.",
+  "Os planos da sala e dos participantes mostram a experiência enquanto o depoimento continua em áudio.",
+  "A volta ao rosto em enquadramento mais fechado destaca a avaliação pessoal da entrevistada.",
+  "A cartela escura final cria um encerramento separado do relato."
+ ],
+ "quando_usar": "Para quem já tem um cliente disposto a relatar uma experiência verificável e autorizar o uso. Use no fundo do funil, quando a pessoa quer entender como foi comprar ou participar.",
+ "roteiro_modelo": "Eu procurei [produto ou serviço] porque queria [objetivo concreto].\n\n[Pausa / corte]\n\nNaquele momento, eu precisava de [necessidade específica]. Antes de escolher, conferi [critério].\n\n[Pausa / corte]\n\nO que eu encontrei foi [detalhe vivido]. Por exemplo, [episódio real e observável].\n\n[Pausa / corte]\n\nDepois de [período real], consegui [resultado individual comprovável]. No meu caso, ainda preciso de [limite ou próximo passo].\n\n[Pausa / corte]\n\nPara quem procura [objetivo semelhante], vale conferir [informação útil antes da decisão].\n\n[Pausa / corte]\n\nConfira os detalhes no botão.",
+ "tomadas_celular": [
+  "Cliente em plano médio horizontal, celular apoiado na altura dos olhos e janela lateral suave; grave 5s de objetivo.",
+  "Cliente no mesmo lugar, luz constante; grave 7s sobre a necessidade, sem exigir fala decorada.",
+  "Detalhe do material, objeto ou tela usado pelo cliente, sem dados privados e com janela lateral; grave 8s.",
+  "Plano próximo horizontal do cliente, luz suave frontal; grave 9s de resultado e limite real.",
+  "Plano médio com celular apoiado e mesma luz; grave 7s de avaliação final.",
+  "Produto ou material sobre mesa, plano fixo horizontal e luz difusa; grave 4s para receber a cartela na edição."
+ ],
+ "caminho_ia": "Sem nova gravação, use um depoimento escrito real e autorizado, narrado por voz sintética identificada como leitura de relato; voz clonada só com consentimento. Não crie cliente fictício como prova real. Gere no Runway cenas ilustrativas, marcadas como ilustração, ou monte slideshow no CapCut. Prompts: \"Horizontal 16:9 illustrative close-up of [product or service material] on a desk, soft window light, slow lateral camera move, no people, no logos, no text.\" e \"Horizontal 16:9 illustrative over-the-shoulder view of a fictional person using [product] for [task], neutral indoor setting, natural daylight, restrained camera movement, no measurable outcome displayed, no text.\" Intercale os apoios com cartões do relato autorizado, sem gerar resultado ou documento de prova.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte a execução ao meu produto, sem copiar a identidade ou as alegações da peça.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nDepoimento de 40s em 16:9: objetivo inicial, necessidade e critério de escolha, episódio vivido, resultado individual com período e limite, avaliação final e cartela. Fala simples de cliente, com pausas naturais; não polir como discurso de vendedor. Intercalar rosto e apoios reais, usar tarja discreta e legendas brancas inferiores. Garantia só em texto comercial com condições reais. Não copie pessoa, nome, local, cargo, identidade visual ou história da referência. Só use fatos de relato autorizado; dados ausentes ficam em colchetes. Se não houver relato real, entregue perguntas para coletá-lo e não invente testemunho. Use pt-BR falado, frases curtas e campos [adaptáveis]. Evite antíteses vazias, perguntas de enfeite, superlativos sem prova e fechos de efeito. Respeite as políticas aplicáveis ao produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Relato de [cliente autorizado] sobre [experiência]. O detalhe citado foi [fato verificável]. Conheça [produto ou serviço] e consulte [condições da garantia] no botão. Resultados variam conforme o caso.",
+ "alerta_politica": "Meta: não presumir atributos pessoais de saúde nem prometer resultado clínico; sem antes/depois de corpo neste modelo. Em estética médica, cumprir a publicidade do CFM, obter consentimento de uso de imagem e não apresentar relato individual como garantia de resultado. Produtos e alegações sanitárias devem observar a ANVISA. A garantia comercial precisa ter prazo, cobertura e condições reais, sem garantir efeito clínico.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-207a65f5",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-depoimento-gravado-pelo-cliente/frames/f1.jpg",
+    "videos/vid-depoimento-gravado-pelo-cliente/frames/f2.jpg",
+    "videos/vid-depoimento-gravado-pelo-cliente/frames/f3.jpg",
+    "videos/vid-depoimento-gravado-pelo-cliente/frames/f4.jpg",
+    "videos/vid-depoimento-gravado-pelo-cliente/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

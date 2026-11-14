@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1668621111537945",
+  "tipo": "estatico",
+  "titulo": "Número de vagas como gancho para análise",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Um número de vagas em azul domina a coluna esquerda, seguido de remuneração e blocos de problema e solução. Retrato masculino ocupa a lateral direita e o botão de análise fecha a peça.",
+  "por_que_funciona": [
+    "O número “146” tem a maior escala e chama atenção para a oportunidade.",
+    "A faixa de remuneração isola uma informação que pode despertar interesse no cargo.",
+    "Os blocos “O problema” e “A solução” explicam a ligação entre concurso e análise.",
+    "O botão informa a ação e a linha abaixo esclarece que haverá avaliação do perfil."
+  ],
+  "quando_usar": "Para apresentar uma análise de estudos usando uma atualização verificável de concurso como gancho.",
+  "estrutura_texto": "[Concurso-alvo]\n[Número de vagas e situação]\n[Distribuição por cargo]\n[Remuneração inicial]\n[Problema da preparação]\n[Como a análise ajuda]\n[CTA]\n[Orientação sobre formulário]",
+  "legenda": "Vai se preparar para [concurso]? Um plano ajustado a [cargo] e [rotina] ajuda a definir prioridades entre as matérias. A [análise de preparação] identifica [dificuldades] e orienta [próximos passos]. Preencha [formulário] para avaliação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro com detalhes azulados e retrato autorizado da IMAGEM 2 à direita. Na coluna esquerda, coloque título em caixa alta, número de vagas muito grande, distribuição por cargo e uma caixa de remuneração. Abaixo, disponha dois blocos curtos com ícones para problema e solução e botão azul no rodapé. Use somente números comprovados fornecidos pelo usuário. Evite brasões oficiais que sugiram vínculo institucional e não prometa aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1668621111537945",
+    "anunciante": "Gustavo Dias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-02",
+    "dias_no_ar": 43,
+    "variacoes_ativas": 3,
+    "texto_original": "🔥 A sua aprovação em Concursos Públicos não depende dos Materiais! Depende de direcionamento correto.\n\nSe você tá perdido sem saber como começar ou já estuda mas sente que não evolui, está correndo um sério risco de ficar anos sem a sua aprovação.\n\nA verdade é simples:\n❌ Não é falta de esforço\n❌ Não é falta de inteligência\n✅ É falta de estratégia certa e personalizada pra VOCÊ\n\nCom a Mentoria Premium, você não vai receber acompanhamento genérico ou em grupo.\n\nVocê vai ter:\n✔️ Um plano de estudos 100% personalizado\n✔️ Acompanhamento individual comigo\n✔️ Estratégia validada na prática\n✔️ Suporte completo (inclusive no emocional)\n✔️ Direcionamento até atingir nível de aprovação (85%+)\n\nSem promessas milagrosas. Sem enrolação.\nApenas o que realmente funciona.\n\n💰 Concursos com salários de até R$20.000 estão ao seu alcance — mas você precisa do caminho certo.\n\n👉 Clique agora para tirar um diagnóstico e conhecer a Mentoria Premium",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1668621111537945.jpg"
+}

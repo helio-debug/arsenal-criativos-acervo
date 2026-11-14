@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1430336332609374",
+  "tipo": "estatico",
+  "titulo": "Linha de cuidados do bebê em composição pastel",
+  "formato": "Produto em destaque",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça de fundo pêssego com título azul na parte superior e conjunto de acessórios de cuidado e alimentação infantil no centro. Uma moldura branca arredondada e formas tonais suaves organizam a composição.",
+  "por_que_funciona": [
+    "Os produtos agrupados mostram a variedade da linha em uma única imagem.",
+    "O título azul contrasta com o fundo pêssego.",
+    "A moldura arredondada delimita a composição vertical.",
+    "As sombras sob os itens dão volume e ajudam a separar os produtos do fundo."
+  ],
+  "quando_usar": "Para marcas infantis apresentarem uma linha de produtos ligada à rotina de cuidados do bebê.",
+  "estrutura_texto": "[Benefício ou posicionamento] em cada fase\n[Produtos e diferencial comprovável] para [rotina do bebê].\n[Assinatura da marca]",
+  "legenda": "Conheça [produtos] desenvolvidos para apoiar [momentos da rotina da família e do bebê]. Veja os [diferenciais comprovados] e encontre a opção para [uso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo pêssego com formas orgânicas de baixa intensidade e moldura fina branca de cantos arredondados. Posicione título azul no terço superior, subtítulo menor abaixo, produtos recortados agrupados no centro inferior e assinatura da minha marca na base. Preserve proporções reais e acrescente sombras suaves; não prometa benefícios de desenvolvimento sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1430336332609374",
+    "anunciante": "MAM Baby",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "Produtos inteligentes desenvolvidos com especialistas para apoiar cada fase da rotina da família e do bebê.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1430336332609374.jpg"
+}

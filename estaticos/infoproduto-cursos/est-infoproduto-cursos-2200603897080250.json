@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2200603897080250",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com bolos decorados em primeiro plano",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo amarelo com grandes formas marrons sustenta a oferta de curso gratuito. Três bolos decorados ocupam a metade direita e o CTA de contato aparece no canto inferior esquerdo.",
+  "por_que_funciona": [
+    "O amarelo e o marrom criam alto contraste para a oferta.",
+    "A expressão de gratuidade tem tamanho grande e cor amarela sobre marrom.",
+    "Os três bolos mostram exemplos visuais da habilidade ensinada.",
+    "A unidade e o CTA de contato deixam claros local e próximo passo."
+  ],
+  "quando_usar": "Para captar inscrições em uma aula presencial gratuita de confeitaria com unidade definida.",
+  "estrutura_texto": "APRENDA A FAZER\n[HABILIDADE]\nDE GRAÇA!\nUNIDADE [LOCAL]\nFALE AGORA NO [CANAL]\nE GARANTA SUA VAGA",
+  "legenda": "Aprenda a fazer [produto] em um curso gratuito na unidade [local]. Conheça as condições de participação e fale pelo [canal] para consultar vagas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo vivo com grandes formas arredondadas marrons. Organize à esquerda uma chamada em caixa alta, com a habilidade em branco e a gratuidade em amarelo. À direita, destaque três exemplos do produto recortados com sombra leve, baseados na IMAGEM 2. Coloque unidade abaixo do título e CTA de contato no canto inferior esquerdo. Use somente uma oferta gratuita real.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Depoimentos e oportunidades divulgadas devem ser reais e verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2200603897080250",
+    "anunciante": "Instituto Gourmet Tijuca",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-03",
+    "dias_no_ar": 499,
+    "variacoes_ativas": 1,
+    "texto_original": "A oportunidade de transformar sua vida com a Gastronomia é AGORA! Participe do nosso curso GRATUITO e APRENDA RÁPIDO a fazer BOLOS DECORADOS! \n\n🔝 Dominar novas habilidades não só abre portas, mas também pode te trazer uma renda extra. \n\n💰 Aqui você vai APRENDER, FAZER E VENDER com confiança! Não perca tempo, fale com a gente no WhatsApp e garanta sua vaga! 📲💬\nWHATSAPP\nConverse no Whatsapp",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2200603897080250.jpg"
+}

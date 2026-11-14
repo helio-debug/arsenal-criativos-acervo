@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1439121337689079",
+  "tipo": "estatico",
+  "titulo": "Pergunta de rendimento leva ao simulador",
+  "formato": "Interativo",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma pessoa no cume de uma montanha ocupa um painel superior de cantos arredondados. Uma pergunta sobre rendimento aparece sobre a foto, enquanto a base preta destaca o simulador em branco e o tempo de uso em amarelo.",
+  "por_que_funciona": [
+    "A pergunta usa valor e prazo definidos para concretizar a simulação.",
+    "O painel fotográfico ocupa a maior parte da peça e dá contexto visual de conquista.",
+    "A palavra “SIMULADOR” em duas linhas domina a base preta.",
+    "A frase amarela informa o tempo estimado para concluir a ação."
+  ],
+  "quando_usar": "Para levar pessoas que pesquisam aplicações a uma ferramenta de simulação com premissas e riscos explícitos.",
+  "estrutura_texto": "Quanto [valor] pode render\nem [prazo] com [instituição]?\nVem descobrir com o nosso\nSIMULADOR\nLeva menos de [tempo].",
+  "legenda": "Quanto [valor] pode render em [prazo]? Faça uma simulação em [ferramenta] e consulte as premissas, taxas e riscos dos cenários apresentados. Acesse [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie painel fotográfico superior com cantos arredondados, mostrando paisagem ampla e uma pessoa pequena no alto, em cenário diferente da referência. Posicione pergunta em preto na área clara da foto e identidade própria no canto. Use a IMAGEM 2 como apoio visual do produto ou ferramenta. Na base preta, chamada curta, palavra SIMULADOR branca grande quebrada em duas linhas e tempo estimado em amarelo. Utilize valor, prazo e tempo confirmados. Não inclua rendimento inventado.",
+  "alerta_politica": "Meta: não prometer rentabilidade, ganhos garantidos ou ausência de risco. CVM: apresentar informações verificáveis, riscos e condições; recomendações ou análises de valores mobiliários devem observar as regras aplicáveis à atividade. Frequências e projeções precisam de data e fonte e não garantem pagamentos ou resultados futuros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1439121337689079",
+    "anunciante": "XP Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-25",
+    "dias_no_ar": 234,
+    "variacoes_ativas": 3,
+    "texto_original": "Quanto seu dinheiro pode render? Descubra em segundos com o Simulador XP.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1439121337689079.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1507122020850499",
+  "tipo": "estatico",
+  "titulo": "Preparação para concurso com professor em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem de terno ocupa a metade direita sobre fundo escuro com emblema policial. À esquerda, o cargo em letras grandes aparece acima de três atributos do curso e do endereço do site.",
+  "por_que_funciona": [
+    "O cargo em branco e dourado deixa explícito o foco da preparação.",
+    "O retrato de terno ocupa grande área e dá rosto à oferta.",
+    "Três ícones separam modalidade, professores e conteúdo.",
+    "O fundo escuro mantém contraste com os textos claros."
+  ],
+  "quando_usar": "Para apresentar uma preparação especializada a candidatos que já escolheram o concurso.",
+  "estrutura_texto": "[MARCA]\nPREPARAÇÃO [MODALIDADE]\n[CARGO OU CONCURSO]\nCurso [MODALIDADE]\nProfessores [QUALIFICAÇÃO]\nConteúdo [DIFERENCIAL]\n[CHAMADA FINAL]\n[SITE]",
+  "legenda": "Prepare-se para [concurso] com [nome do curso]. A formação reúne [cronograma], [materiais], [questões comentadas] e [suporte]. Conheça o programa atualizado para [ano] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com iluminação dourada e textura institucional genérica discreta. Coloque a pessoa da IMAGEM 2 à direita, em recorte de meio corpo, e o título à esquerda em branco e dourado. Inclua três atributos com ícones pequenos e site em caixa fina na base. Não reproduza emblemas oficiais nem sugira vínculo governamental.",
+  "alerta_politica": "Não sugerir vínculo ou aprovação de órgão público. Não prometer aprovação, nomeação ou resultado garantido no concurso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1507122020850499",
+    "anunciante": "Dedicação Delta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-04",
+    "dias_no_ar": 255,
+    "variacoes_ativas": 1,
+    "texto_original": "O concurso de Delegado Federal não é para quem estuda sem método.\n\nÉ para quem executa com estratégia.\n\nA Preparação Extensiva Delegado Federal foi atualizada para 2026 e entrega:\n\n✔ Cronograma com metas diárias\n✔ E-books semanais direcionados\n✔ Questões comentadas alinhadas ao tema estudado\n✔ Lei seca esquematizada\n✔ Revisão de informativos\n✔ Ciclos inteligentes de revisão\n✔ Treinamento para prova discursiva\n✔ Videoaulas objetivas\n✔ Central exclusiva de dúvidas\n\nVocê não precisa apenas estudar. Precisa evoluir de forma estruturada.\n\nDelegado Federal exige preparação de elite.\n\nGaranta sua vaga!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1507122020850499.jpg"
+}

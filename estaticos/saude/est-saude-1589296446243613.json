@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1589296446243613",
+  "tipo": "estatico",
+  "titulo": "Nova apresentação do produto em cena familiar",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Cena familiar desfocada ao fundo, com chamada branca sobre ansiedade e angústia. Caixa e frasco aparecem sobre base amarela, ao lado de selo circular que destaca a apresentação em gotas.",
+  "por_que_funciona": [
+    "O fundo desfocado abre espaço para o título branco central.",
+    "A base amarela separa o produto da cena doméstica.",
+    "Caixa e frasco juntos mostram embalagem e apresentação.",
+    "O selo circular reforça visualmente a novidade em gotas."
+  ],
+  "quando_usar": "Para comunicar mudança de apresentação de um produto regularizado, com indicação e advertências aprovadas.",
+  "estrutura_texto": "[Marca]\n[Atributo comprovado]\n[Tema ou indicação autorizada]\n[Produto], agora em [apresentação]\n[Embalagem e frasco]\n[Nova apresentação e modo de administração]",
+  "legenda": "[Produto] agora em [apresentação]. Consulte a indicação, a faixa etária e as orientações da bula. Saiba mais em [canal autorizado].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cena doméstica desfocada ao fundo, título branco grande no centro superior e subtítulo curto anunciando nova apresentação. Na base amarela, posicione caixa e frasco da IMAGEM 2, com selo circular sobre a novidade. Reserve espaço legível para advertências obrigatórias. Não invente aprovação, segurança universal ou benefícios clínicos.",
+  "alerta_politica": "ANVISA: publicidade de medicamento deve respeitar registro, indicação, faixa etária e advertências obrigatórias; verificar se é elegível à publicidade ao público. Não confunda origem natural com segurança nem aprovação regulatória com endosso. Meta: evite insinuar que o leitor tem ansiedade ou angústia e confira restrições para medicamentos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1589296446243613",
+    "anunciante": "Homeopatia Almeida Prado",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 1,
+    "texto_original": "O Complexo 35, agora em gotas, é um aliado da família, em todos os momentos e fases da sua rotina.\n\n😌 Auxilia nos momentos de ansiedade e angústia\n💤 Contribui no combate à insônia, tristeza e melancolia\n👦 A partir dos 2 anos de idade \n✅ Aprovado pela Anvisa\n♾️ Não causa dependência\n\nDe manhã ou à noite, um cuidado simples que faz diferença no dia a dia de todos em casa! \n\nDisponível no link na bio 🔗\n\n#AlmeidaPrado #Homeopatia #MedicamentosHomeopáticos #AtivosdaNatureza #Complexo35 #Ansiedade #Angústia #Complexo35Gotas\n\nCOMPLEXO IGNATIA AP 35 GOTAS. Ignatia amara 6CH + associações. É UM MEDICAMENTO. SEU USO PODE TRAZER RISCOS. PROCURE O MÉDICO E O FARMACÊUTICO. LEIA A BULA. Medicamento dinamizado notificado junto à Anvisa conforme RDC nº 721/2022. AFE nº 1.002669. INDICAÇÕES: Este medicamento é utilizado como auxiliar no tratamento dos sintomas da ansiedade leve e do nervosismo. SE PERSISTIREM OS SINTOMAS, O MÉDICO DEVERÁ SER CONSULTADO. Contraindicações: Hipersensibilidade aos componentes da fórmula. TELEVENDAS 0800 707 63 11 – SAC 08000 11 55 41. Farmacêutica Responsável: Dra. Zuleika Carvalho – CRF/SP 4.142. Outubro 2025.\nHomeopatia Almeida Prado",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1589296446243613.jpg"
+}

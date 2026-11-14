@@ -1,0 +1,2 @@
+This Claude skill can create entire Vox-style animations. Think paper cutouts, torn tape, and slow camera pushes. It is the look big news channels use. What took an editor days now takes minutes. Here is the trick. You do not need a video model. Tell Claude code the scene you want. Say, a bank wrapped in red tentacles. The skill follows its motion rules and builds every piece in code. Paper, shadows, and camera moves all get made for you.
+Setup guide, comment style, and I will send it to you.

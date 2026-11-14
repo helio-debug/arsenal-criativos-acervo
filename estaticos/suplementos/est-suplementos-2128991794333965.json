@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-2128991794333965",
+  "tipo": "estatico",
+  "titulo": "Oferta por tempo limitado com pote central",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo laranja com chamada branca de oferta limitada no topo. Um pote branco e amarelo ocupa o centro, sobre um painel branco arredondado, e um botão encerra a peça.",
+  "por_que_funciona": [
+    "O fundo laranja contrasta com o texto branco e a embalagem clara.",
+    "O pote central em tamanho grande permite reconhecer o produto.",
+    "A chamada em duas linhas dá destaque ao prazo da oferta.",
+    "O botão branco na base estabelece uma ação de compra."
+  ],
+  "quando_usar": "Para divulgar uma campanha de suplemento com prazo verdadeiro e condições disponíveis na página de compra.",
+  "estrutura_texto": "[Abrangência da campanha]\n[Produto e sabor]\nOferta [condição] e por tempo limitado\n[Foto do produto]\n[CTA de compra]",
+  "legenda": "Conheça [suplemento], na versão [sabor ou apresentação]. Confira a oferta de [condição] válida até [data] e veja os detalhes em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja vivo, título branco grande no terço superior e subtítulo menor identificando o produto. Centralize o pote sobre um painel branco de cantos arredondados. Adicione um botão branco pequeno no rodapé com CTA laranja. Use somente prazo e condições informados.",
+  "alerta_politica": "Para suplementos, use apenas alegações autorizadas pela ANVISA e compatíveis com a composição e o público indicado. Não prometa cura, tratamento ou resultados garantidos; a limitação de prazo deve ser verdadeira.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2128991794333965",
+    "anunciante": "True - Viva de verdade",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-10",
+    "dias_no_ar": 127,
+    "variacoes_ativas": 1,
+    "texto_original": "Magnésio + Inositol\nDescubra os suplementos True — whey, pré-treino, vitaminas e minerais que elevam a saúde e bem-estar. Fórmulas avançadas para o seu desempenho!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-2128991794333965.jpg"
+}

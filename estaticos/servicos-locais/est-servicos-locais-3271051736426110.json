@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-3271051736426110",
+  "tipo": "estatico",
+  "titulo": "Sacola de delivery com chamada de conveniência",
+  "formato": "Produto em destaque",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma mão segura uma sacola rosa de delivery em fundo bege. No topo, chamadas grandes apresentam a entrega como solução prática, acompanhadas por desenhos de mãos e copo.",
+  "por_que_funciona": [
+    "A mão segurando a sacola torna o serviço de entrega concreto.",
+    "O rosa forte destaca a embalagem contra o fundo bege.",
+    "As perguntas no topo apresentam situações cotidianas de conveniência.",
+    "Os desenhos de copo e mãos reforçam o universo de bebidas e consumo."
+  ],
+  "quando_usar": "Para divulgar entrega local de bebidas ou alimentos e estimular pedidos imediatos na área atendida.",
+  "estrutura_texto": "SEM [recurso ou tempo]?\n[A gente entrega]\nSEM [deslocamento]?\n[Melhor ainda]\nVai de [marca].\nVai de delivery",
+  "legenda": "Bateu a fome? Peça [bebida ou alimento] e receba em [região atendida]. Confira o cardápio em [canal de pedidos] e escolha seu [pedido].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo bege claro, sacola de delivery grande na cor principal da minha marca e mão segurando a alça pela parte superior direita. Adapte a IMAGEM 2 para representar o produto ou a identidade real do serviço. No topo, componha duas perguntas curtas em letras pesadas, intercaladas por respostas menores. Acrescente desenhos lineares de mãos e copo com contorno claro e chamada de delivery na sacola.",
+  "alerta_politica": "Para bebidas com suplementos, evitar promessas de energia ou desempenho sem respaldo na composição e nas alegações permitidas. Informar corretamente disponibilidade e área de entrega.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3271051736426110",
+    "anunciante": "We Protein",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-25",
+    "dias_no_ar": 142,
+    "variacoes_ativas": 1,
+    "texto_original": "Bateu a fome? Relaxa que a gente resolve! \n\nA We Protein entrega aquele shake gostoso, nutritivo e cheio de energia onde você estiver.\n\nPeça agora pelo iFood e sinta a energia em cada gole 🩷🥤\n\n#MuitoMaisQueUmWhey #ProntoPraTudo #WeDelivery",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-3271051736426110.jpg"
+}

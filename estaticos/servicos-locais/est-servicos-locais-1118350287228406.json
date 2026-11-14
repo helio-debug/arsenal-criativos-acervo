@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1118350287228406",
+  "tipo": "estatico",
+  "titulo": "Compra recente como gancho para serviço de transferência",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Título branco e laranja pergunta sobre a compra de uma embarcação em fundo azul. Uma lista curta apresenta serviços, enquanto lancha e documento ocupam a metade inferior, acima do botão laranja.",
+  "por_que_funciona": [
+    "A pergunta no topo relaciona o serviço ao momento após a compra.",
+    "Os marcadores listam os procedimentos atendidos em poucas linhas.",
+    "Documento e lancha ligam a burocracia ao bem recém-adquirido.",
+    "O botão laranja mantém contraste forte sobre o mar azul."
+  ],
+  "quando_usar": "Para assessorias náuticas apresentarem os serviços disponíveis a compradores recentes de embarcações.",
+  "estrutura_texto": "[MARCA]\n[COMPROU UM BEM?]\n[PRESTADOR CUIDA DA TRANSFERÊNCIA]\n[PROCEDIMENTO 1] • [PROCEDIMENTO 2]\n[RENOVAÇÃO DE DOCUMENTO]\n[SEGURO APLICÁVEL]\n[CTA]\n[ORIENTAÇÃO DE CLIQUE]\n[PERFIL]",
+  "legenda": "Comprou [embarcação] e está planejando usar? Confira a atualização do registro junto a [órgão responsável]. [Serviço] auxilia em [transferência], [jurisdição] e [documentos aplicáveis]. Consulte o atendimento pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Utilize fundo azul escuro com água na base. Coloque título grande em branco, destacando o bem em laranja, seguido de subtítulo branco e lista curta com marcadores laranja. Posicione foto do produto à direita e documento ilustrativo à esquerda, unidos por linha curva laranja. Termine com botão laranja e texto escuro. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": "A peça menciona seguro: confirme a obrigatoriedade e a aplicabilidade ao caso antes da publicação. Descreva cobertura e condições de contratação com precisão, sem sugerir que a assessoria garante aceitação ou cobertura automática.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1118350287228406",
+    "anunciante": "Rumo Náutica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-22",
+    "dias_no_ar": 23,
+    "variacoes_ativas": 1,
+    "texto_original": "Comprou sua lancha ou embarcação e já está planejando o primeiro passeio?\n\n⚠️ Antes de aproveitar sua nova aquisição, vale conferir um detalhe importante: a transferência de propriedade precisa ser formalizada junto à Marinha.\n\nUm contrato de compra e venda, por si só, não substitui a atualização do registro da embarcação.\n\nE o melhor é que você não precisa perder tempo tentando entender cada etapa desse processo!\n\nA Rumo Náutica auxilia na transferência de propriedade, na mudança de jurisdição, quando necessária, e nos demais procedimentos documentais.\n\n⚓ Você aproveita sua conquista. A Rumo cuida da regularização!\n👉 Clique em Saiba mais e solicite seu atendimento agora!",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1118350287228406.jpg"
+}

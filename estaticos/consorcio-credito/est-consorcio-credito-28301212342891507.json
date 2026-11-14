@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-28301212342891507",
+  "tipo": "estatico",
+  "titulo": "Desejo de empreender sobre fotografia de restaurante",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fotografia vertical de uma mulher escolhendo ingredientes em uma banca, com frases brancas distribuídas sobre a cena. Uma moldura com outras imagens ocupa as bordas.",
+  "por_que_funciona": [
+    "A cena de compra de ingredientes dá contexto ao restaurante citado no texto.",
+    "A frase em segunda pessoa aproxima a mensagem do projeto do empreendedor.",
+    "O texto branco e espesso se mantém destacado sobre a fotografia.",
+    "A imagem interna emoldurada organiza a cena principal dentro da composição."
+  ],
+  "quando_usar": "Para apresentar uma solução de pagamento ou apoio a pequenos negócios em uma campanha de reconhecimento.",
+  "estrutura_texto": "Você sonha\nem [ação desejada]\n[referência ao universo do negócio]\nno seu [tipo de estabelecimento].",
+  "legenda": "Conte com [solução] para ajudar a construir o negócio dos seus sonhos. Conheça [recurso ou serviço disponível] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia documental de uma pessoa selecionando ingredientes em um comércio, adaptada ao público do meu produto. Use um retângulo fotográfico central com bordas de uma colagem discreta. Distribua uma frase curta em quatro blocos brancos e em negrito do topo à parte inferior. Preserve o rosto e os ingredientes. Integre o produto apenas de forma contextual.",
+  "alerta_politica": "Em publicidade de serviços financeiros, apresente as condições aplicáveis com clareza e não sugira crédito ou aprovação garantidos. Não atribua ao serviço benefícios que ele não oferece.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28301212342891507",
+    "anunciante": "Mastercard",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 1,
+    "texto_original": "Conte com a Mastercard para ajudar a construir o negócio dos seus sonhos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-28301212342891507.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-971546152136928",
+  "tipo": "estatico",
+  "titulo": "Benefício da conta digital para consultores",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Texto sobre conta digital gratuita aparece à esquerda de um celular com a interface do serviço. Formas curvas em bege, laranja e rosa estruturam o fundo vertical.",
+  "por_que_funciona": [
+    "As palavras exclusiva e gratuita em verde e negrito destacam os benefícios anunciados.",
+    "O celular mostra a interface e torna o serviço digital visível.",
+    "O texto curto abaixo do título relaciona a conta ao público de consultores.",
+    "As curvas de cor separam a área de leitura da imagem do aplicativo."
+  ],
+  "quando_usar": "Para apresentar uma conta digital vinculada a um programa de consultoria, quando o público já conhece a atividade.",
+  "estrutura_texto": "Na [programa], você tem uma conta digital [diferencial] e [condição de gratuidade].\nCom [serviço], nossos [público] aproveitam [benefícios e condições].\n[Ressalva aplicável]",
+  "legenda": "Conheça os benefícios de atuar com [categoria]. Participantes de [programa] podem acessar [conta digital] conforme [condições]. Saiba como se cadastrar e confira os requisitos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Composição vertical com grande área bege curvada à esquerda, fundo laranja e faixa rosa inferior. Coloque título escuro no alto à esquerda, destacando dois benefícios em verde forte, e parágrafo menor abaixo. À direita, mostre celular com interface baseada na IMAGEM 2 sem inventar saldo, taxas ou funcionalidades. Reserve rodapé legível para condições e análise de crédito quando aplicável.",
+  "alerta_politica": "Meta: descrever serviços financeiros e eventuais condições de crédito com clareza, sem aprovação garantida. Comprovar a gratuidade anunciada, informar restrições e não sugerir ganhos garantidos com a consultoria.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "971546152136928",
+    "anunciante": "Avon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-26",
+    "dias_no_ar": 172,
+    "variacoes_ativas": 1,
+    "texto_original": "Transforme sua paixão por beleza em renda extra! Lucre vendendo produtos queridinhos com a Consultoria de Beleza Natura e Avon. Cadastre-se!\nSeja uma Consultora de Beleza\nAproveite agora mesmo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-971546152136928.jpg"
+}

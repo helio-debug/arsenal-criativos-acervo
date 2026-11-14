@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-4294080004238399",
+  "tipo": "estatico",
+  "titulo": "Prioridades do segundo trimestre em cartão de post",
+  "formato": "Post e comentários",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma barriga gestante com um cartão branco sobreposto. O cartão simula um post com avatar, identificação e chamada sobre o segundo trimestre.",
+  "por_que_funciona": [
+    "A barriga ocupa o fundo inteiro e contextualiza a gestação sem depender da legenda.",
+    "O cartão branco separa a chamada do fundo fotográfico.",
+    "A primeira linha em negrito destaca a fase abordada.",
+    "A palavra “isso” e a seta deixam a orientação em aberto e estimulam a continuidade."
+  ],
+  "quando_usar": "Para apresentar conteúdo de orientação nutricional na gestação e levar à leitura da explicação.",
+  "estrutura_texto": "[Nome profissional]\n[@perfil]\n[Entrou na fase abordada?]\n[Agora priorize este cuidado] ➡️",
+  "legenda": "[Fase da gestação] pode ser um momento para revisar [hábitos de alimentação e rotina] com acompanhamento profissional. Confira [orientação ou conteúdo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 como fundo acolhedor ligado ao contexto do serviço. Sobreponha um cartão branco de cantos arredondados na metade inferior, com avatar autorizado, [nome profissional] e [perfil]. Faça a pergunta principal em preto e negrito e a continuação em fonte regular com seta. Não atribua ao leitor uma condição de saúde.",
+  "alerta_politica": "Evitar inferir gravidez ou condição de saúde de quem vê o anúncio. Orientações para gestantes devem ser responsáveis, sem promessa de resultado de peso ou desenvolvimento fetal.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4294080004238399",
+    "anunciante": "Nutri Alê Zago",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-04",
+    "dias_no_ar": 163,
+    "variacoes_ativas": 1,
+    "texto_original": "O 2º trimestre é uma fase excelente para construir uma rotina que favoreça sua saúde, o crescimento do bebê e um ganho de peso mais adequado. 🤝",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-4294080004238399.jpg"
+}

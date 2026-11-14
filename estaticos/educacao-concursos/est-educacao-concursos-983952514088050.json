@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-983952514088050",
+  "tipo": "estatico",
+  "titulo": "Aviso de edital com montagem militar e cronograma",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Montagem escura de policiais e cena de abordagem, com tela de cronograma no alto e chamada grande sobre a proximidade de um edital.",
+  "por_que_funciona": [
+    "O cronograma visível dá forma concreta à organização dos estudos oferecida.",
+    "A chamada sobre o edital cria uma razão temporal para iniciar a preparação.",
+    "A tipografia inclinada e o destaque roxo hierarquizam o prazo anunciado."
+  ],
+  "quando_usar": "Para preparação de concursos com informação confirmada sobre edital e recursos de estudo demonstráveis.",
+  "estrutura_texto": "[Concurso]\n[Atualização confirmada sobre edital]\n[Prazo]\n[Convite à preparação]\n[Exemplo do cronograma]",
+  "legenda": "Prepare-se para [concurso] com [materiais], [cronograma] e [acompanhamento]. Confira a situação oficial do edital e conheça a estrutura de [mentoria] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie montagem quadrada com fundo grafite, retrato de profissional uniformizado à esquerda e painel de cronograma no canto superior direito. Use texto grande inclinado no terço inferior, branco e roxo, destacando atualização confirmada sobre o edital. Adapte a foto fornecida sem reproduzir armas, brasões ou símbolos oficiais; deixe clara a identidade do curso. Não invente datas nem vínculo institucional.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "983952514088050",
+    "anunciante": "PMMinas - Otávio Souza",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-15",
+    "dias_no_ar": 183,
+    "variacoes_ativas": 3,
+    "texto_original": "Mais de 2 mil vagas. Centenas de milhares de inscritos. Faça a conta.\n\nA diferença entre quem passa e quem fica de fora não é talento nem QI. É método e constância. É ter um lugar pra estudar todo dia sem ficar inventando o que fazer.\n\nA Mentoria OBA é esse lugar pra Soldado da PM-SP. Material pronto, cronograma pronto, missões diárias, correção de redação, simulados, mentoria. Tudo dentro de uma única estrutura.\n\nVocê só precisa de uma coisa: aparecer todo dia.\nPMESP com método e direção: ainda dá tempo!\nMaterial direcionado pra PM-SP, missões diárias e mentoria completa. Você só estuda. Mais de 5.600 aprovados confiam no método OBA. Agora é a sua vez. Cronograma pronto pra PMESP. Sem se perder em apostila pirata nem em vídeo no YouTube. Do edital à posse, a Mentoria OBA caminha com você. Inscrições abertas. Trilha completa pra Soldado da PM-SP. Sua única missão é cumprir o plano do dia.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-983952514088050.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1934343803861461",
+  "tipo": "estatico",
+  "titulo": "Provocação sobre preparo acima de foto do órgão",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "A metade superior verde traz uma frase sobre vagas e modo de estudar. Uma faixa roxa apresenta o curso e separa a chamada da foto de um edifício público.",
+  "por_que_funciona": [
+    "O número de vagas em roxo abre a mensagem com um dado concreto.",
+    "A frase branca em três linhas associa a oportunidade ao preparo.",
+    "A faixa roxa faz a ligação entre a provocação e o curso online.",
+    "A foto do edifício contextualiza o concurso mencionado."
+  ],
+  "quando_usar": "Para apresentar método de preparação a quem já considera prestar um concurso.",
+  "estrutura_texto": "[quantidade] VAGAS\n[provocação sobre modo de estudar]\nConcurso [órgão] | [modalidade do curso]",
+  "legenda": "Estude para [concurso] com [conteúdo organizado], [questões] e [simulados]. Conheça [curso] e organize sua preparação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça em bloco verde superior e foto contextual inferior derivada da IMAGEM 2. Destaque um número em roxo e uma chamada branca centralizada. Sobreponha na divisão uma faixa roxa arredondada com o curso. Não replique o edifício da referência nem sugira vínculo oficial.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1934343803861461",
+    "anunciante": "Degrau Cultural",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-17",
+    "dias_no_ar": 211,
+    "variacoes_ativas": 1,
+    "texto_original": "No Concurso DETRAN RJ, não basta acumular horas de estudo e torcer para dar certo.\n\nQuem evolui de verdade estuda com conteúdo organizado, treino por questões e uma rotina mais clara para transformar esforço em resultado.\n\nCom o curso online da Degrau, você se prepara com mais método, plataforma de questões com simulados e uma jornada de estudo mais objetiva.\n\nCompre agora seu curso online para o Concurso DETRAN RJ e estude com mais direção.\nNo DETRAN, estudar certo faz diferença",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1934343803861461.jpg"
+}

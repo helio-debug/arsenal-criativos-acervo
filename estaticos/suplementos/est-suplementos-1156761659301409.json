@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1156761659301409",
+  "tipo": "estatico",
+  "titulo": "Lançamento de sabor com embalagem em academia",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Embalagem de whey centralizada sobre banco de academia, com luz lateral e fundo desfocado. Uma faixa inferior anuncia novo sabor e destaca a versão sem lactose.",
+  "por_que_funciona": [
+    "A embalagem ocupa o centro e permite reconhecer a categoria do produto.",
+    "O cenário de academia contextualiza o uso esportivo.",
+    "A faixa “NOVO SABOR” sinaliza a novidade sem depender da legenda.",
+    "O azul e o branco do rodapé contrastam com o fundo escuro."
+  ],
+  "quando_usar": "Para anunciar uma nova versão ou sabor de suplemento a pessoas que já conhecem a categoria.",
+  "estrutura_texto": "[Selo de novidade]\n[Categoria e atributo do produto]\n[Nome do sabor]",
+  "legenda": "Chegou [sabor] na linha [produto e atributo comprovado]. Confira [quantidade de proteína] por porção e as informações do rótulo. Disponível em [site ou aplicativo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Centralize a embalagem da IMAGEM 2 em um banco de academia, com fundo desfocado escuro e luz natural lateral destacando o produto. Preserve o rótulo fornecido. No canto inferior esquerdo, adicione faixa azul com “NOVO SABOR” e, abaixo, nome da linha em ciano e sabor em branco, em letras condensadas e fortes. Evite inserir dados nutricionais não fornecidos.",
+  "alerta_politica": "Meta/ANVISA: usar apenas alegações autorizadas para o suplemento e compatíveis com o rótulo. Não prometer cura, prevenção de doenças ou resultado físico garantido; alegações de composição devem ser comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1156761659301409",
+    "anunciante": "Wise Health Nutrition",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-12-11",
+    "dias_no_ar": 703,
+    "variacoes_ativas": 1,
+    "texto_original": "🚫 Sem lactose, sem desculpas e sem desconforto...\nO sabor COOKIES AND CREAM acabou de ser liberado na linha zero lactose. Aproveite já! 😄\n\n✅ 21g proteína por porção.\n\nAcesse o site:\n🛒 wisehealth.com.br\n\nBaixe nosso APP:\n📱 wisehealth.com.br/app\n(link na bio)\n\n#WiseHealth #WiseChoice #MoreThanSupps",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1156761659301409.jpg"
+}

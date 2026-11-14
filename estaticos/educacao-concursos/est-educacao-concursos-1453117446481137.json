@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1453117446481137",
+  "tipo": "estatico",
+  "titulo": "Preparatório com nome da prova em destaque dourado",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Nome do concurso em letras douradas grandes sobre fundo metálico escuro, com retrato à direita. Uma grade inferior apresenta recursos do curso e uma chamada pede a conclusão da inscrição.",
+  "por_que_funciona": [
+    "A sigla dourada é o maior texto e identifica rapidamente o preparatório.",
+    "Quatro ícones organizam os recursos do curso em blocos curtos.",
+    "A faixa amarela destaca a chamada intermediária no fundo escuro.",
+    "O pedido para voltar e concluir a inscrição fala diretamente com quem já demonstrou interesse."
+  ],
+  "quando_usar": "Para remarketing de um preparatório a quem visitou a página ou iniciou uma inscrição.",
+  "estrutura_texto": "PREPARATÓRIO COMPLETO PARA [PROVA]\n[ESPECIALIDADE]\n[CHAMADA]\n[RECURSO 1 + DETALHE] | [RECURSO 2 + DETALHE]\n[RECURSO 3 + DETALHE] | [RECURSO 4 + DETALHE]\nVOLTE E CONCLUA SUA INSCRIÇÃO!\n[INCENTIVO AO ESTUDO]",
+  "legenda": "Conheça o preparatório para [CONCURSO]: [RECURSOS DO CURSO] e organização para estudar o conteúdo de [EDITAL]. Confira [REQUISITOS E CONDIÇÕES] na página e conclua sua inscrição em [LINK].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo metálico cinza e preto, título à esquerda com sigla grande dourada e subtítulo branco. Use o elemento humano da IMAGEM 2 na metade direita. Insira faixa amarela com chamada, grade inferior de quatro ícones com benefícios e faixa clara arredondada no rodapé. Use símbolos próprios, sem brasões oficiais. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": "Não garanta aprovação, estabilidade ou remuneração ao comprar o curso. Dados sobre cargo, salário e requisitos devem corresponder ao edital ou à fonte oficial, sem sugerir vínculo institucional.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1453117446481137",
+    "anunciante": "Sublime Concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-17",
+    "dias_no_ar": 150,
+    "variacoes_ativas": 1,
+    "texto_original": "👇 Digita “SEGREDO” ou clica no botão e eu te mostro como funciona.\n🚀 Quer estudar do jeito que realmente aprova na PRF Administrativo?\nEsse concurso chama muita atenção e não é atoa!\n💼 Nível médio (sem faculdade)\n💰 Salário inicial acima de R$6.600\n📈 Pode passar de R$8.600 com benefícios\n🕘 Horário comercial\n🏖️ Finais de semana livres na maioria dos casos\n🧾 Sem redação na prova\n🔒 Estabilidade garantida\n👉 Ou seja: uma das portas mais acessíveis pra entrar no serviço público hoje.\n\nMas aqui vai a verdade que quase ninguém fala:\n❌ A maioria ainda estuda errado\n📚 Fica presa em teoria infinita\n😴 Perde tempo com aulas longas e pouco foco em prova\n\nEnquanto isso, quem passa faz diferente:\n⚡ Treina com questões todos os dias\n📊 Analisa desempenho\n🎯 Foca exatamente no que mais cai\n\nFoi por isso que criaram uma ferramenta que já tá ajudando muita gente a acelerar a preparação 👇\nCom ela você consegue:\n🧠 Identificar seus erros rapidamente\n📈 Acompanhar sua evolução em tempo real\n🏆 Comparar seu nível com outros candidatos\n📊 Fazer simulados no padrão da banca\n🎯 Estudar de forma MUITO mais estratégica\nSe você quer sair da média e estudar como quem realmente passa...",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1453117446481137.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1032890915835410",
+  "tipo": "estatico",
+  "titulo": "Curso setorial com foto da produção e inscrições abertas",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Peça horizontal vinho com chamada e nome do curso à esquerda. À direita, foto de cafezal em moldura amarela e ramo com frutos de café em primeiro plano.",
+  "por_que_funciona": [
+    "A fotografia das linhas de plantio identifica o setor ensinado.",
+    "O ramo com frutos aproxima visualmente o curso do produto agrícola.",
+    "O amarelo destaca a especialidade e a chamada de inscrições."
+  ],
+  "quando_usar": "Para divulgar cursos técnicos de um setor com elementos visuais facilmente reconhecíveis.",
+  "estrutura_texto": "Seja especialista em [área]\n[Modalidade]\n[Nome do curso]\n[Status das inscrições]",
+  "legenda": "Aprenda a organizar [processo produtivo] e aprimorar a gestão de [atividade]. O curso [nome] reúne [formato das aulas] e conteúdo aplicado a [rotina profissional]. Conheça o programa e inscreva-se.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição horizontal com fundo vinho e textura sutil de plantio. À esquerda, use chamada branca com especialidade em amarelo, etiqueta de modalidade, título do curso branco e botão amarelo de inscrições. À direita, reserve uma fotografia ampla da atividade produtiva em moldura amarela arredondada e um recorte do produto em primeiro plano. Use os elementos da IMAGEM 2 relacionados ao curso.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1032890915835410",
+    "anunciante": "Rehagro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 4,
+    "texto_original": "Realize com excelência TODO O PROCESSO PRODUTIVO DO CAFÉ: do plantio ao pós-colheita, profissionalize a gestão da fazenda e melhore seus LUCROS na cafeicultura.\n\n✅  Venha para o Curso Online Gestão na Produção de Café Arábica!\n\n🔺 Curso 100% Online - encaixe na sua rotina.\n🔺 Aulas Gravadas + Aulas Ao Vivo para tirar dúvidas.\n🔺  Aprenda com professores que são consultores de grande experiência.\n🔺 Conteúdo prático e aplicável.\n🔺 Foco na melhoria dos resultados financeiros.\n\n✔️ 98% dos ex-alunos indicam esse curso.\n\nO Rehagro já formou mais de 30.000 alunos e tem 20 anos de experiência na consultoria e ensino especializado no Agronegócio.\n\n🎯 Aprenda com quem conhece a realidade da sua lavoura e pode ajudar você a melhorar seus resultados.\n\nClique em SAIBA MAIS!\nGestão na Produção de Café Arábica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1032890915835410.jpg"
+}

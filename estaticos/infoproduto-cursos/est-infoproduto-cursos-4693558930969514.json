@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-4693558930969514",
+  "tipo": "estatico",
+  "titulo": "Capacitação que cabe na rotina da operação",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Dois profissionais com capacetes aparecem em ambiente industrial, ao lado de chamada sobre estudar sem se afastar da operação. Destaques laranja e linhas luminosas na base organizam a identidade visual.",
+  "por_que_funciona": [
+    "A pergunta aborda a dificuldade concreta de conciliar estudo e operação.",
+    "Os capacetes e o cenário de fábrica identificam o público industrial.",
+    "O laranja destaca “Quer estudar lean” e conduz a leitura até a seta."
+  ],
+  "quando_usar": "Para explicar a compatibilidade de uma formação profissional com a rotina de quem trabalha na indústria.",
+  "estrutura_texto": "Quer estudar [TEMA] sem se afastar de [ROTINA]?\nVeja como o [PROGRAMA] se encaixa na sua rotina.\n[SETA]",
+  "legenda": "Avance em [capacitação] com um formato que cabe na rotina de [público]. São [duração], encontros em [frequência] e atividades [modalidade], com desenvolvimento de [projeto aplicado]. Conheça [programa] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto industrial da IMAGEM 2 com profissionais equipados à direita. Abra uma faixa clara à esquerda para pergunta grande preta, com início em laranja. Acrescente traço laranja, explicação menor e seta circular. Inclua formas translúcidas no topo e ondas finas alaranjadas na base sem encobrir o texto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4693558930969514",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Sua rotina na indústria é intensa, mas você quer avançar na sua capacitação e liderar melhorias no gemba?\n\nConheça o formato executivo do PPFL Indústria: 4 meses de duração, encontros semanais às sextas-feiras e atividades online ao vivo e gravadas. Você estuda com especialistas e desenvolve um projeto aplicado sem precisar se ausentar da fábrica.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-4693558930969514.jpg"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "vid-tour-comodidades",
+ "titulo": "Tour por comodidades partindo de uma necessidade de horário",
+ "formato_video": "tour-guiado",
+ "nichos": [
+  "servicos-locais",
+  "estetica-clinicas",
+  "imoveis"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "proporcao": "9:16",
+ "duracao": "30-35s",
+ "hook": {
+  "falado": "[Horário ou período de atendimento]. Agora dá para [uso concreto] nesse horário.",
+  "texto_tela": "[HORÁRIO OU PERÍODO]",
+  "visual": "Apresentador na entrada, em plano médio. O horário entra grande no centro, com número amarelo e complemento branco."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio na entrada, apresentador olhando para a câmera; horário grande no centro.",
+   "fala": "[Horário ou período de atendimento]. Agora dá para [uso concreto] nesse horário.",
+   "texto_tela": "[HORÁRIO OU PERÍODO]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Acompanhar o apresentador de perfil entrando no ambiente.",
+   "fala": "Quando [situação de horário], [produto ou serviço] fica disponível para [uso principal].",
+   "texto_tela": "Disponível em [período real]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Apresentador sentado ou usando o primeiro recurso, enquadrado junto ao ambiente.",
+   "fala": "Para quem precisa [necessidade concreta], aqui tem [comodidade principal]. Você pode [ação de uso].",
+   "texto_tela": "[Situação de uso 1] / [Situação de uso 2]"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Aproximar a câmera de um item incluído ou recurso de apoio, com mãos ou rosto no quadro.",
+   "fala": "Também está incluído [recurso de apoio]. O acesso funciona por [forma de contratação], conforme [condição real].",
+   "texto_tela": "[Recurso incluído] | [Condição de acesso]"
+  },
+  {
+   "tempo": "27-35s",
+   "cena": "Último detalhe do ambiente seguido por cartela de fundo liso.",
+   "fala": "Confira [horário e disponibilidade] no link. Veja como acessar [produto ou serviço] em [local ou canal].",
+   "texto_tela": "[Produto ou serviço] | Confira o acesso"
+  }
+ ],
+ "por_que_funciona": [
+  "O horário em tamanho grande mistura amarelo e branco sobre a apresentadora logo na entrada.",
+  "A tomada de perfil entrando conecta a promessa de disponibilidade ao espaço mostrado em seguida.",
+  "A apresentadora sentada na poltrona concretiza o conforto; o texto branco lista situações de horário sobre a cena.",
+  "O close com os snacks mostra uma comodidade específica antes da cartela azul final."
+ ],
+ "quando_usar": "Para espaços, serviços e ofertas cujo acesso em determinado horário resolve uma necessidade prática. Use para apresentar a experiência e reduzir dúvidas sobre disponibilidade antes da contratação.",
+ "tomadas_celular": [
+  "Entrada com apresentador em plano médio, luz frontal suave ou luminária portátil, 5s; reservar o centro para o horário.",
+  "Acompanhar a entrada de perfil, plano de corpo inteiro, luz ambiente com exposição travada, 6s.",
+  "Apresentador usando a comodidade principal, plano médio com o recurso visível, luz lateral suave, 8s.",
+  "Close das mãos segurando item incluído ou acionando recurso de apoio, luz difusa, 8s; retirar marcas de terceiros.",
+  "Plano aberto final do ambiente, luz ambiente sem áreas estouradas, 4s; completar com cartela lisa de 4s no editor."
+ ],
+ "caminho_ia": "Sem gravar, use fotos autorizadas das comodidades em slideshow no CapCut, com avatar na abertura e voz sintética na passagem pelos recursos. Para cenas ilustrativas, use Sora ou Runway: \"Vertical 9:16 medium shot of a generic presenter at the entrance of [service environment], soft frontal lighting, uncluttered center for a schedule overlay, subtle hand gestures, 5 seconds, no text or logos.\" e \"Vertical 9:16 close-up of hands using [included amenity] inside [service environment], warm practical lighting, shallow depth of field, slow camera push-in, 6 seconds, unbranded objects.\" Adicione o horário manualmente em amarelo e branco, depois legendas brancas e cartela final. Não use ambiente inventado como registro do local real; identifique a ilustração e confira a disponibilidade anunciada.",
+ "legenda": "[Produto ou serviço] disponível em [horário ou período]. Para [situação concreta], conte com [comodidade principal]. Veja [forma de acesso] e [condições] no link.",
+ "alerta_politica": "Meta: não atribua ao público condição de saúde, não use antes/depois corporal nem prometa resultado de saúde. Em adaptação para clínica, anuncie horário, instalações e acesso com informações reais; siga as regras do conselho profissional aplicável, incluindo CFM em serviços médicos, e ANVISA quando houver produtos regulados.",
+ "roteiro_modelo": "[0-5s | Abertura]\n[Horário ou período de atendimento]. Agora dá para [uso concreto] nesse horário.\n\n[5-11s | Pausa e corte para a próxima tomada]\nQuando [situação de horário], [produto ou serviço] fica disponível para [uso principal].\n\n[11-19s | Pausa e corte para a próxima tomada]\nPara quem precisa [necessidade concreta], aqui tem [comodidade principal]. Você pode [ação de uso].\n\n[19-27s | Pausa e corte para a próxima tomada]\nTambém está incluído [recurso de apoio]. O acesso funciona por [forma de contratação], conforme [condição real].\n\n[27-35s | Pausa e corte para a próxima tomada]\nConfira [horário e disponibilidade] no link. Veja como acessar [produto ou serviço] em [local ou canal].",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto e as informações abaixo para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um tour de 35s em cinco blocos: 0-5s horário grande na entrada; 5-11s entrada de perfil; 11-19s uso da comodidade principal; 19-27s detalhe do recurso incluído e acesso; 27-35s convite e cartela lisa. Tom acolhedor e objetivo. Narração com pausas curtas, cortes na mudança de comodidade e trilha baixa sob a voz. Use número amarelo e complemento branco no horário; situações de uso em texto branco sobre a demonstração. Não copie a apresentadora, marca, snacks, frases ou ambiente da referência. Não assuma atendimento contínuo nem recurso incluso sem confirmação. Adapte comodidades a qualquer oferta informada, sem inventar instalações. Use apenas dados confirmados. Onde faltar informação, mantenha [campo a preencher]. Escreva em pt-BR falado, com frases curtas. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Não copie nomes, marcas, pessoas, contatos, domínios, logotipos ou falas da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-4eff1370",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tour-comodidades/frames/f1.jpg",
+    "videos/vid-tour-comodidades/frames/f2.jpg",
+    "videos/vid-tour-comodidades/frames/f3.jpg",
+    "videos/vid-tour-comodidades/frames/f4.jpg",
+    "videos/vid-tour-comodidades/frames/f5.jpg"
+   ]
+  }
+ ]
+}

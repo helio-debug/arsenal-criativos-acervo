@@ -1,0 +1,109 @@
+{
+ "id": "vid-tour-varios-pontos",
+ "titulo": "Tour com apresentador em vários pontos e condições na conclusão",
+ "formato_video": "tour-guiado",
+ "nichos": [
+  "imoveis",
+  "servicos-locais",
+  "eventos-lives"
+ ],
+ "tipo_solucao": "imovel",
+ "oferta": "parcelamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "proporcao": "9:16",
+ "duracao": "60-65s",
+ "hook": {
+  "falado": "Vou te mostrar [produto ou serviço] em uso e explicar como contratar.",
+  "texto_tela": "Conheça [produto ou serviço]",
+  "visual": "Apresentador em plano médio diante de painel de apresentação, gesticulando; legenda branca com contorno escuro."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano médio diante do painel ou mapa, com gesto apontando a oferta.",
+   "fala": "Vou te mostrar [produto ou serviço] em uso e explicar como contratar. Começa por [uso principal].",
+   "texto_tela": "Conheça [produto ou serviço]"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Mudar para um ponto de uso; apresentador enquadrado da cintura para cima.",
+   "fala": "Aqui fica [primeiro ponto da demonstração]. Você pode [ação permitida] com [recurso incluído].",
+   "texto_tela": "[Recurso incluído]"
+  },
+  {
+   "tempo": "16-25s",
+   "cena": "Plano aberto do segundo ponto, com apresentador indicando um detalhe real.",
+   "fala": "Neste ponto, dá para ver [segundo atributo]. Isso ajuda na hora de [tarefa concreta].",
+   "texto_tela": "[Segundo atributo]"
+  },
+  {
+   "tempo": "25-34s",
+   "cena": "Mostrar contexto externo ou recurso de apoio, mantendo o apresentador visível.",
+   "fala": "Também tem [recurso de apoio]. Ele está disponível em [local, período ou condição verificável].",
+   "texto_tela": "[Disponibilidade real]"
+  },
+  {
+   "tempo": "34-45s",
+   "cena": "Retornar ao painel; uma segunda pessoa da equipe pode explicar a condição.",
+   "fala": "Para contratar, a condição é [entrada ou valor inicial], com [parcelamento disponível]. O total fica em [valor total], conforme [critérios].",
+   "texto_tela": "[Valor inicial] | [Parcelamento] | [Total e critérios]"
+  },
+  {
+   "tempo": "45-55s",
+   "cena": "Apresentador ao lado de imagem ou esquema da entrega, apontando a etapa de início.",
+   "fala": "Depois de [etapa necessária], você já pode [próximo passo permitido]. [Limite ou condição de início] deve ser confirmado antes.",
+   "texto_tela": "Início após [etapa]"
+  },
+  {
+   "tempo": "55-65s",
+   "cena": "Voltar ao primeiro apresentador em plano médio diante do painel e concluir.",
+   "fala": "Para ver [disponibilidade] e receber [proposta], fale com [equipe responsável] pelo link. Peça os detalhes de [produto ou serviço] e confira as condições antes de contratar.",
+   "texto_tela": "Fale com [equipe responsável]"
+  }
+ ],
+ "por_que_funciona": [
+  "O painel e o mapa no primeiro frame situam a oferta enquanto a apresentadora gesticula.",
+  "A mesma apresentadora aparece na rua e depois em plano aberto ao lado de um ponto do entorno, dando referências espaciais à fala.",
+  "Uma segunda apresentadora aparece diante do painel, criando variação de pessoa além da mudança de local.",
+  "As legendas brancas com contorno escuro continuam legíveis sobre o asfalto e os fundos verdes."
+ ],
+ "quando_usar": "Para ofertas com vários pontos de demonstração, como imóveis, serviços locais e eventos. Use na etapa de decisão, quando o público precisa ver os recursos, entender o acesso e receber as condições completas.",
+ "tomadas_celular": [
+  "Apresentador diante de painel próprio sem dados de terceiros, plano médio, luz frontal suave, 7s.",
+  "Apresentador no primeiro ponto de uso, plano de cintura, sombra aberta ou luz de janela, 9s.",
+  "Segundo ponto com apresentador de corpo inteiro, luz natural, 9s; manter o recurso visível ao lado.",
+  "Plano aberto do contexto ou apoio, câmera estável, luz diurna, 9s.",
+  "Explicação da condição no painel por apresentador ou colega, plano médio, luz frontal, 11s.",
+  "Apresentador apontando esquema da etapa de início, plano médio, luz difusa, 10s.",
+  "Convite final diante do painel, plano de cintura, mesma luz da abertura, 10s."
+ ],
+ "caminho_ia": "Sem gravar, use um avatar com voz autorizada diante de fotos reais dos pontos de demonstração e faça a montagem no CapCut. Veo ou Kling podem gerar trechos ilustrativos: \"Vertical 9:16 medium shot of a generic presenter beside a clean presentation board about [product], soft frontal daylight, gentle hand gestures, locked camera, 7 seconds, no logos, no readable text.\" e \"Vertical 9:16 wide shot of [product usage location], presenter standing beside [specific feature], natural daylight, stable eye-level camera, realistic proportions, 8 seconds, no signage.\" Troque os fundos a cada atributo, inclua legendas brancas com contorno e sinalize cenas ilustrativas. Não gere infraestrutura, público ou instalações como prova de uma entrega real.",
+ "legenda": "Um tour por [produto ou serviço]: veja [recurso principal] e como funciona [etapa de acesso]. Condição: [valor inicial], [parcelamento] e [valor total]. [Critérios e validade]. Peça [proposta ou disponibilidade] no link.",
+ "alerta_politica": null,
+ "roteiro_modelo": "[0-7s | Abertura]\nVou te mostrar [produto ou serviço] em uso e explicar como contratar. Começa por [uso principal].\n\n[7-16s | Pausa e corte para a próxima tomada]\nAqui fica [primeiro ponto da demonstração]. Você pode [ação permitida] com [recurso incluído].\n\n[16-25s | Pausa e corte para a próxima tomada]\nNeste ponto, dá para ver [segundo atributo]. Isso ajuda na hora de [tarefa concreta].\n\n[25-34s | Pausa e corte para a próxima tomada]\nTambém tem [recurso de apoio]. Ele está disponível em [local, período ou condição verificável].\n\n[34-45s | Pausa e corte para a próxima tomada]\nPara contratar, a condição é [entrada ou valor inicial], com [parcelamento disponível]. O total fica em [valor total], conforme [critérios].\n\n[45-55s | Pausa e corte para a próxima tomada]\nDepois de [etapa necessária], você já pode [próximo passo permitido]. [Limite ou condição de início] deve ser confirmado antes.\n\n[55-65s | Pausa e corte para a próxima tomada]\nPara ver [disponibilidade] e receber [proposta], fale com [equipe responsável] pelo link. Peça os detalhes de [produto ou serviço] e confira as condições antes de contratar.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto e as informações abaixo para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça um tour de 65s em sete blocos: 0-7s abertura diante de painel; 7-16s primeiro recurso; 16-25s segundo atributo; 25-34s contexto ou apoio; 34-45s condições completas; 45-55s etapa para começar; 55-65s contato. Tom de visita acompanhada, fala direta e pausas na troca de ponto. Alterne planos médios e abertos. Pode entrar uma segunda pessoa na explicação comercial. Use legendas brancas com contorno escuro e palavras concretas por trecho. Não copie pessoas, painéis, local, valores, contatos nem promessas de valorização da referência. Não anuncie início imediato sem verificar requisitos. Adapte os pontos ao meu produto, incluindo serviço ou evento. Use apenas dados confirmados. Onde faltar informação, mantenha [campo a preencher]. Escreva em pt-BR falado, com frases curtas. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Não copie nomes, marcas, pessoas, contatos, domínios, logotipos ou falas da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-265aa0f0",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tour-varios-pontos/frames/f1.jpg",
+    "videos/vid-tour-varios-pontos/frames/f2.jpg",
+    "videos/vid-tour-varios-pontos/frames/f3.jpg",
+    "videos/vid-tour-varios-pontos/frames/f4.jpg",
+    "videos/vid-tour-varios-pontos/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-72d50f00",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1371871694460284",
+  "tipo": "estatico",
+  "titulo": "Isenção de carência com prazo e público definidos",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem sorrindo em roupa social ocupa a maior parte da peça, sobre fundo verde com grafismos. O texto destaca isenção de carência em um mês específico e informa os grupos elegíveis.",
+  "por_que_funciona": [
+    "O verde-limão destaca “sem carência” dentro da chamada branca.",
+    "A indicação do mês delimita a janela da condição anunciada.",
+    "O texto “Grupos A e B” e “novas adesões” identifica a elegibilidade.",
+    "O retrato grande dá um rosto à comunicação e organiza o texto na área esquerda."
+  ],
+  "quando_usar": "Para campanhas de adesão a planos de saúde com campanha vigente e condições de carência verificadas.",
+  "estrutura_texto": "[Plano]\n[Condição de carência]\nem [mês]\n[Grupos elegíveis] com [condição]\npara [tipo de adesão]\n[Explicação e restrições]",
+  "legenda": "Durante [período], [plano] oferece [condição de carência] para [grupos elegíveis] em [tipo de adesão]. Consulte os procedimentos abrangidos, as regras e a disponibilidade. Fale com [canal de atendimento] para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use proporção vertical, fundo verde com formas abstratas e retrato autorizado de uma pessoa adulta sorrindo à direita. Coloque o título na metade inferior esquerda, em branco, destacando a condição em verde-limão. Abaixo, informe período, grupos e restrições com boa legibilidade. Use a IMAGEM 2 como elemento do serviço ou retrato autorizado. Não replique a identidade da pessoa de referência e não amplie a isenção além das condições fornecidas.",
+  "alerta_politica": "Em planos de saúde, informar elegibilidade, vigência, abrangência e regras de carência conforme contrato e normas da ANS. Na Meta, evitar atribuir doenças ou condições de saúde ao leitor; não prometer acesso irrestrito ou imediato se houver exceções.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1371871694460284",
+    "anunciante": "Caixa de Assistência dos Advogados de Minas Gerais",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-21",
+    "dias_no_ar": 85,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não precisa mais esperar para começar a usar seu plano de saúde.\n\nDurante o mês de maio, o OAB CAA + Saúde está com uma condição especial: isenção de carência para os grupos A e B em novas adesões.\n\nNa prática, isso significa mais agilidade para acessar consultas, exames e diversos procedimentos desde o início.\n\nÉ a oportunidade de entrar no plano com muito mais vantagem.\n\n📲 Fale conosco e saiba mais: (31) 98275-5163",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1371871694460284.jpg"
+}

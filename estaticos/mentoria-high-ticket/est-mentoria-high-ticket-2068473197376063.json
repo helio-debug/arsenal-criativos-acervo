@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-2068473197376063",
+  "tipo": "estatico",
+  "titulo": "Texto de faturamento sobre cenário sofisticado",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma caixa branca com texto preto ocupa o centro de uma foto escurecida de restaurante sofisticado. Valores de faturamento aparecem em negrito.",
+  "por_que_funciona": [
+    "O bloco branco dá contraste ao parágrafo longo.",
+    "Os valores em negrito funcionam como âncoras de leitura.",
+    "A sequência de valores descreve uma receita oscilante.",
+    "O restaurante sofisticado associa visualmente a mensagem a consumo de alto padrão."
+  ],
+  "quando_usar": "Para apresentar uma mentoria sobre organização comercial de serviços, com linguagem de possibilidade e sem garantir receita.",
+  "estrutura_texto": "[PERFIL COM CONHECIMENTO]\n[FAIXA ATUAL DE FATURAMENTO]\n[DIFICULDADE DE CONSISTÊNCIA]\n[OBJETIVO COMERCIAL SEM GARANTIA]",
+  "legenda": "Conheça uma mentoria para [profissionais] que desejam estruturar [oferta de conhecimento] e organizar [processo comercial]. Veja como funciona o acompanhamento e o que será necessário aplicar. Resultados dependem do contexto e da execução.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de ambiente de hospitalidade com iluminação quente e escurecimento suave. Sobreponha caixa branca central, margens amplas, texto preto de aspecto monoespaçado e destaques em negrito nos problemas comerciais. Substitua promessas de faturamento por objetivos de planejamento sem valores garantidos.",
+  "alerta_politica": "Renda e oportunidades de negócio: evitar promessa de faturamento, enriquecimento ou liberdade financeira garantida. Valores exigem contexto e comprovação; não apresentar resultados excepcionais como típicos nem presumir a condição financeira do leitor.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2068473197376063",
+    "anunciante": "Jonas Kaz",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-12",
+    "dias_no_ar": 94,
+    "variacoes_ativas": 13,
+    "texto_original": "Conquiste liberdade financeira e de tempo com mentorias online. \n\nE se você pudesse ter acesso a uma estratégia testada e validada para empacotar o seu conhecimento em  um produto altamente lucrativo que te desse liberdade financeira e de tempo.\n\nE estou falando aqui de algo que pode te fazer faturar 5, 10, 30, 50 até 100 mil reais todos os meses.\n\nSeja você Terapeuta, Psicólogo(a), Advogado(a)... ou outro tipo de profissional liberal.\n\nEsses resultados estão ao seu alcance exatamente agora.\n\nE tudo o que você precisa fazer é criar e vender o seu conhecimento em forma de mentoria online.\n\nIsso te inspira?\n\nO meu time de especialistas está disponível agora para fazer uma sessão de diagnóstico sobre o seu negócio e para definir qual mentoria você já está pronto para criar, vender e faturar.\n\nVamos juntos traçar uma estratégia para aumentar o seu faturamento mensal em no mínimo 10x. \n\nE a melhor notícia vem agora, é 100% gratuito.\n\nPara garantir uma vaga na sessão de diagnóstico...\n\nÉ só apertar em “Saiba Mais” e fazer a sua aplicação no formulário.\n\nNos vemos do outro lado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-2068473197376063.jpg"
+}

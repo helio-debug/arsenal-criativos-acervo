@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-3844671699175407",
+  "tipo": "estatico",
+  "titulo": "Lançamento de loteamento em blocos dourados",
+  "formato": "Comunicado oficial",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "lancamento",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo branco com fotografia vertical de uma entrada ajardinada à direita. Blocos dourados e faixas brancas apresentam o lançamento, a modalidade e a metragem dos lotes.",
+  "por_que_funciona": [
+    "O bloco dourado central concentra a chamada de lançamento em letras brancas grandes.",
+    "A foto de acesso com paisagismo dá uma referência visual do empreendimento.",
+    "A expressão “Loteamento Fechado” esclarece a modalidade da oferta.",
+    "O bloco separado com 250 m² destaca uma informação objetiva para seleção."
+  ],
+  "quando_usar": "Para divulgar a chegada de um loteamento e apresentar sua metragem a compradores da região.",
+  "estrutura_texto": "O LANÇAMENTO IMOBILIÁRIO [CHAMADA] DE [CIDADE]!\n[IDENTIFICAÇÃO DO EMPREENDIMENTO]\n[MODALIDADE]\nlotes [ÁREA]m²",
+  "legenda": "Conheça [empreendimento], um novo loteamento fechado em [cidade]. Lotes a partir de [área] m², com [características confirmadas do projeto]. Visite [local de atendimento] e consulte a disponibilidade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 em uma faixa vertical à direita, com ampla área branca à esquerda. Sobreponha um bloco dourado fosco com chamada centralizada, destacando a palavra lançamento em negrito. Abaixo, coloque identificação própria, modalidade em faixa branca e metragem em um bloco dourado menor. Use apenas características comprovadas e evite superlativos sem sustentação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3844671699175407",
+    "anunciante": "Construtora Pagano",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-12",
+    "dias_no_ar": 247,
+    "variacoes_ativas": 1,
+    "texto_original": "🌳 Chegou o Village Park Authoria, o novo padrão de viver bem em Piracicaba.\nNo coração do Reserva Jequitibá, nasce um loteamento fechado onde natureza, urbanismo e design se unem para criar um estilo de vida único.\n\n📐 Lotes amplos a partir de 250m²,\n🚪 Portaria imponente,\n🏞️ Projeto urbano que privilegia espaço, lazer e bem-estar.\n\nTudo pensado para quem busca qualidade de vida com segurança e valorização.\n\n✨ Village Park Authoria — seu futuro começa aqui.\n\n📍 Visite nosso stand no Garden Mall e descubra pessoalmente o que torna este lugar tão especial.\n\nRealização: Construtora Pagano e Aguassanta DI.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-3844671699175407.jpg"
+}

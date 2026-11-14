@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-2055812838245573",
+  "tipo": "estatico",
+  "titulo": "Recrutamento de revenda com pincelada e cosméticos",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo preto recebe uma pincelada diagonal rosa intensa, com perfume e batom em primeiro plano. A chamada de revenda fica à esquerda, em branco, abaixo do título sazonal.",
+  "por_que_funciona": [
+    "A pincelada rosa atravessa a peça e conduz o olhar até os produtos.",
+    "Perfume e batom em grande escala tornam concreta a categoria de revenda.",
+    "O trecho em branco e negrito destaca o benefício comercial sobre o fundo escuro."
+  ],
+  "quando_usar": "Para recrutar revendedores de cosméticos antes de uma campanha sazonal.",
+  "estrutura_texto": "[Nome da campanha]\n[Chamada de oportunidade sazonal]\nDê o primeiro passo e comece [atividade de revenda]\n[Identificação do programa]",
+  "legenda": "Comece a revender [categoria de cosméticos] na [campanha sazonal]. Conheça [condições comerciais] e as regras de participação. Faça seu cadastro em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto e pincelada larga rosa na diagonal, com recortes de dois produtos da IMAGEM 2 na metade inferior e direita. Reserve o alto à esquerda para título sazonal rosa, seguido de chamada branca em negrito e apoio menor. Inclua identificação do programa no canto inferior esquerdo. Não prometa lucro alto ou garantido.",
+  "alerta_politica": "Meta: apresentar a oportunidade de renda extra sem prometer ganhos garantidos, ilimitados ou rápidos. Explicar condições, custos e critérios de participação; resultados dependem da atividade e não são garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2055812838245573",
+    "anunciante": "Avon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 9,
+    "texto_original": "Seja representante Avon nesta Black Friday. Aproveite promoções exclusivas e lucre alto!\nRenda Extra Com Avon\nFaça seu cadastro hoje e lucre vendendo produtos Avon nesta imperdível Black Friday.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2055812838245573.jpg"
+}

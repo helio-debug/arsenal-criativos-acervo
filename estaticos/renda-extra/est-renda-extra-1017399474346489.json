@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1017399474346489",
+  "tipo": "estatico",
+  "titulo": "Franquia para público profissional com benefícios e botão",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça preta e azul com chamada de franquia à esquerda e retrato de profissional de terno à direita. Dois blocos com ícones apresentam recorrência e retorno, seguidos de botão azul.",
+  "por_que_funciona": [
+    "“LGPD” ocupa a maior área tipográfica e identifica imediatamente a especialidade.",
+    "O trecho “para Advogados” delimita o público no título.",
+    "Ícones e divisórias separam as duas razões comerciais para considerar a franquia.",
+    "O botão azul com seta destaca o próximo passo na parte inferior."
+  ],
+  "quando_usar": "Para apresentar uma franquia de serviços a profissionais que já conhecem a área e avaliam um modelo de negócio.",
+  "estrutura_texto": "Franquia de [especialidade] para [profissão]!\nOfereça [serviços] e [benefício] com [modelo de contrato].\n[Indicador econômico comprovável] e [prazo estimado contextualizado].\nAbra sua franquia de [especialidade] [chamada].",
+  "legenda": "Atue com [especialidade] em um modelo de franquia para [público]. Conheça como funcionam os [contratos mensais], o suporte e as condições de operação. Veja os detalhes de [franquia].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, azul intenso e texto branco. Reserve a esquerda para título grande, dois benefícios com ícones lineares e botão com seta. À direita, componha uma foto pertinente ao público usando a IMAGEM 2, com iluminação sóbria. Inclua elementos discretos ligados à especialidade. Só use indicadores de retorno fornecidos e comprovados; não prometa ganhos.",
+  "alerta_politica": "A Meta proíbe práticas comerciais enganosas. Alegações de lucro, receita recorrente e prazo de retorno precisam de comprovação e contexto; não apresentar ganhos ou payback como garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1017399474346489",
+    "anunciante": "Somaxi Group",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-15",
+    "dias_no_ar": 122,
+    "variacoes_ativas": 3,
+    "texto_original": "Franquia de LGPD para Advogados e TI\n\nModelo com contratos mensais, sua base de clientes cresce mês a mês.\n\nVer detalhes da franquia\nVer detalhes da franquia\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1017399474346489.jpg"
+}

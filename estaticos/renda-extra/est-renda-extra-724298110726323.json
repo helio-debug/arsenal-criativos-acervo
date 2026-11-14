@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-724298110726323",
+  "tipo": "estatico",
+  "titulo": "Vaga eventual com jornada e prazo de pagamento",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de operadora de caixa no topo, seguida de painel azul-escuro com chamada de recrutamento. Amarelo destaca jornada, pagamento e aceitação de candidatos sem experiência.",
+  "por_que_funciona": [
+    "A foto no caixa situa o ambiente de trabalho.",
+    "A pergunta central apresenta a oportunidade em letras grandes.",
+    "O texto amarelo informa dias de trabalho e prazo de pagamento.",
+    "A faixa horizontal separa a condição de experiência e facilita a leitura."
+  ],
+  "quando_usar": "Recrutamento de trabalho eventual com jornada e remuneração claramente definidas.",
+  "estrutura_texto": "[Marca]\nProcurando uma [oportunidade]?\nTrabalhe [dias ou jornada] e receba [prazo].\nCom ou sem [experiência]",
+  "legenda": "[Empresa] recebe cadastros para [função] em [dias]. Com ou sem experiência. O contato ocorre conforme disponibilidade de vagas, com pagamento em [prazo] e [benefícios aplicáveis]. Cadastre-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Distribua a peça em foto de profissional no ambiente de trabalho no terço superior e painel azul-marinho abaixo. Use título branco grande, condições em amarelo e faixa amarela com texto preto para experiência. Reserve espaço para identidade própria.",
+  "alerta_politica": "Meta: não prometer renda garantida nem resultados típicos sem comprovação. Explique condições, custos e critérios de pagamento; valores e ganhos potenciais devem ser verificáveis. Em anúncios de emprego, respeite as regras da categoria especial aplicáveis e evite discriminação por atributos pessoais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "724298110726323",
+    "anunciante": "Delta Supermercados",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-21",
+    "dias_no_ar": 358,
+    "variacoes_ativas": 6,
+    "texto_original": "O Delta Supermercados está contratando operadores de caixa eventuais, com ou sem experiência, para finais de semana e feriados.\n\n📲 Faça seu cadastro no site: https://deltasuper.jobs.recrut.ai/job/9KA9VQ\n\nFunciona assim: \nVocê realiza o cadastro no link acima, o Delta entra em contato assim que surgir uma vaga e você recebe o pagamento no próximo dia útil!\n\n🔹 Pagamento rápido\n🔹 Férias e 13º proporcionais\n🔹 Vale-transporte proporcional\n🔹 Lanche no local\n\nEstamos te esperando!\nProcurando uma renda extra?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-724298110726323.jpg"
+}

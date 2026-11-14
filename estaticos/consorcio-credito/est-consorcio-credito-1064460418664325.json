@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1064460418664325",
+  "tipo": "estatico",
+  "titulo": "Convite à simulação com retrato e condição de análise",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de mulher segurando celular sobre um bloco cinza na parte superior. A parte inferior branca reúne chamada de crédito, texto em destaque, botão textual e ressalva de análise.",
+  "por_que_funciona": [
+    "O celular no retrato conecta a cena à simulação digital.",
+    "O fundo branco dá contraste à chamada preta e facilita a leitura.",
+    "O negrito em parte da frase concentra atenção na adequação da oferta.",
+    "A ressalva junto ao CTA informa que a contratação depende de análise."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de crédito a pessoas que desejam comparar opções e iniciar uma simulação.",
+  "estrutura_texto": "[CHAMADA SOBRE CRÉDITO]\nDescubra em [TEMPO] a [OFERTA] para você\n[CTA DE SIMULAÇÃO]\n[CONDIÇÃO DE ANÁLISE]",
+  "legenda": "Compare opções de [modalidade de crédito] e encontre condições adequadas ao seu planejamento. Faça uma simulação em [canal]. Sujeito a análise de crédito e às condições da instituição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o layout vertical em topo cinza escuro e base branca. Sobreponha ao topo um retrato retangular de pessoa com celular. Na base, use pequena chamada em caixa alta, título preto com trecho em negrito, CTA sublinhado à esquerda e marca própria à direita. Inclua ressalva legível de análise de crédito. Não prometa aprovação nem prazo sem comprovação.",
+  "alerta_politica": "Meta e regras brasileiras de crédito: não insinuar conhecer a situação financeira do leitor nem garantir aprovação. Informar análise de crédito e condições; quando houver taxas ou parcelas, apresentar os custos e o CET aplicáveis com clareza.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1064460418664325",
+    "anunciante": "C6 Bank",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-24",
+    "dias_no_ar": 508,
+    "variacoes_ativas": 2,
+    "texto_original": "Empréstimo sem complicação e com mais prazo para pagar? Encontre a opção ideal para você (Suj. a análise)\nPlataforma de empréstimos do C6 Bank\nCrédito descomplicado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1064460418664325.jpg"
+}

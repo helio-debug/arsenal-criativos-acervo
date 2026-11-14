@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1302399338355001",
+  "tipo": "estatico",
+  "titulo": "Serviço de anúncios ilustrado com cartões de produtos",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul com título branco e palavras em ciano. Cartões sobrepostos de poltronas e uma lupa ilustram anúncios de loja; um botão verde pede orçamento.",
+  "por_que_funciona": [
+    "As palavras em ciano destacam anúncios e especialista no título.",
+    "Os cartões com foto e preço mostram o tipo de anúncio atendido.",
+    "A lupa reforça visualmente a ideia de análise dos produtos.",
+    "O botão verde contrasta com o azul e explicita o pedido de orçamento."
+  ],
+  "quando_usar": "Para oferecer gestão de campanhas a lojas virtuais com produtos já cadastrados.",
+  "estrutura_texto": "Seus [ANÚNCIOS] feitos por um [ESPECIALISTA]!\nConfira os [PACOTES DE SERVIÇO]\n[CARTÕES ILUSTRATIVOS DE PRODUTOS]\n[CTA DE ORÇAMENTO]\n[MARCA]",
+  "legenda": "Sua loja já está rodando? Estruturamos e acompanhamos campanhas para [objetivo da loja], com análise de [indicadores]. Conheça os pacotes de [serviço] e solicite um orçamento em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use degradê azul escuro, título branco no topo com palavras em ciano e subtítulo centralizado. No centro, sobreponha três cartões brancos com imagens da IMAGEM 2 e dados ilustrativos sinalizados. Inclua uma lupa azul à direita, botão verde com [Solicitar orçamento] e identidade própria no rodapé. Não prometa conversão garantida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1302399338355001",
+    "anunciante": "Tray Plataforma de E-commerce",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-09",
+    "dias_no_ar": 278,
+    "variacoes_ativas": 2,
+    "texto_original": "Sua loja já está rodando, mas o tráfego não vira venda?\n\nA gente estrutura e otimiza suas campanhas pra trazer gente certa pro site.\n\nTráfego pago com estratégia: mais conversão, menos desperdício.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1302399338355001.jpg"
+}

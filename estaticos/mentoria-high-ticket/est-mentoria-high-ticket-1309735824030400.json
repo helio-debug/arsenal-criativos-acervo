@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1309735824030400",
+  "tipo": "estatico",
+  "titulo": "Lista de entregas da mentoria sobre foto profissional na rua",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma mulher de roupa social em uma faixa de pedestres, entre edifícios. Um quadro branco no topo lista as entregas; faixas magenta e ocre apresentam a mentoria e a duração vinculada à contratação.",
+  "por_que_funciona": [
+    "O quadro branco torna as cinco entregas fáceis de percorrer.",
+    "A foto em ambiente corporativo situa a oferta no contexto de carreira.",
+    "A faixa magenta separa o nome da mentoria da lista de serviços.",
+    "O negrito no bloco ocre enfatiza a condição de acompanhamento."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de recolocação a quem precisa entender o escopo do acompanhamento antes de conversar com a equipe.",
+  "estrutura_texto": "- [ENTREGA DE CURRÍCULO]\n- [MAPEAMENTO DE PERFIL]\n- [CANAIS DE CANDIDATURA]\n- [TREINO DE APRESENTAÇÃO]\n- [SIMULAÇÃO DE ENTREVISTA]\n[NOME DA MENTORIA]\nMentoria individual e personalizada por [DURAÇÃO / CONDIÇÕES].",
+  "legenda": "Quando o próximo passo na carreira está pouco claro, um acompanhamento pode ajudar a organizar [objetivo]. A mentoria inclui [entregas] e preparação para [etapas de seleção]. Conheça o formato e as condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto fornecida como fundo em ambiente profissional de rua, com enquadramento de corpo inteiro. Sobreponha no topo uma caixa branca grande, de cantos arredondados, com cinco entregas em fonte serifada preta. Na parte inferior, crie faixa magenta para o nome e bloco ocre com descrição branca e ênfase em negrito na duração contratual. Mantenha a pessoa visível entre os blocos. Não prometa contratação; descreva condições reais de acompanhamento.",
+  "alerta_politica": "Meta: a contratação depende também de empregadores e do mercado. Se oferecer acompanhamento até a recolocação, informar limites e condições contratuais e evitar apresentar emprego como resultado garantido.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1309735824030400",
+    "anunciante": "PraCarreiras",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 22,
+    "texto_original": "Você já se sentiu perdido na sua carreira? Sabe aquela sensação de não se encaixar em um ambiente, mas também não saber para onde ir? Um sentimento de não saber qual próximo passo dar e nem se tem a capacidade para conseguir algo melhor?\n\nIsso é consequência de uma carreia que te desgasta emocionalmente. E a gente perde tempo - e saúde - tentando se adaptar a um espaço que não nos cabe.\n\nPara viver os sonhos, você precisa abrir mão dos medos. Sabe, é ir com medo mesmo. É se lançar para o mundo sabendo que você merece mais, mesmo quando todos te dizem quem não. Mesmo quando todas as circunstâncias parecem querer te dar sinais pra desistir.\n\nSabe por que a mentoria se chama Mentoria Individual Diamante? Porque eu vejo todas as pessoas como verdadeiros diamantes, cheias de valor. São diamantes que precisam apenas ser lapidados para mostrar seu valor. E diamantes que precisam estar no lugar certo para serem valorizados de verdade.\n\nA culpa não é sua se você ainda não conseguiu um emprego que te valorizasse e respeitasse. Mas a responsabilidade está nas suas mãos para mudar esse cenário.\n\nToque no botão “Saiba mais” e fale com meu time!\n\nVocê só precisa da estratégia certa! Vambora?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1309735824030400.jpg"
+}

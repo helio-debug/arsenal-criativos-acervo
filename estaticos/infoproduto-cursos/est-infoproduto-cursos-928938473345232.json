@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-928938473345232",
+  "tipo": "estatico",
+  "titulo": "Abertura de vagas com retrato e data em letras altas",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Retrato de uma docente centralizado sobre fundo roxo em degradê e painel arredondado. Faixas de texto apresentam a pós-graduação e a especialidade, seguidas de data e horário de abertura das vagas em letras brancas altas.",
+  "por_que_funciona": [
+    "O retrato central oferece um rosto associado à formação.",
+    "A palavra da especialidade em grande escala identifica o assunto rapidamente.",
+    "A tipografia condensada permite destacar data e horário na metade inferior."
+  ],
+  "quando_usar": "Para divulgar a abertura de inscrições de uma formação clínica direcionada a profissionais habilitados.",
+  "estrutura_texto": "PÓS-GRADUAÇÃO [modalidade]\n[área]\n[especialidade]\nABERTURA DAS VAGAS\n[dia] DE [mês] ÀS [horário]\n[Credenciamento comprovado]",
+  "legenda": "A pós-graduação em [especialidade] abre inscrições em [data], às [horário]. Voltada a [público habilitado], a formação aborda [temas da grade]. Consulte os requisitos de ingresso, a programação e a certificação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo com degradê escuro no rodapé e painel violeta arredondado atrás do retrato autorizado da IMAGEM 2. Centralize a pessoa no alto, sobreponha uma faixa branca arredondada com a modalidade e apresente a especialidade abaixo. Na metade inferior, use letras brancas altas e condensadas para abertura das vagas, dia e horário. Inclua credenciamento apenas se comprovado.",
+  "alerta_politica": "Por tratar de capacitação em saúde, evite promessas de tratamento ou resultados clínicos e estatísticas sem fonte. Não apresente a pós-graduação como concessão automática de título de especialista ou RQE. Observe as regras do conselho profissional aplicável e comprove alegações de reconhecimento educacional.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "928938473345232",
+    "anunciante": "Pediatra Alergista IMUNO",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-08",
+    "dias_no_ar": 37,
+    "variacoes_ativas": 1,
+    "texto_original": "🟢 PÓS-GRADUAÇÃO EM SUPLEMENTAÇÃO PEDIÁTRICA\n\nA capacitação em Suplementação Pediátrica não é apenas um diferencial, no cenário atual ela é uma necessidade na prática clínica.\n\n⚠️ Hoje, mais da metade das crianças brasileiras apresenta deficiências nutricionais importantes, como de ferro e vitamina D. \n\n🚨 Essas carências impactam diretamente o neurodesenvolvimento, imunidade, crescimento e comportamento. E o cenário é claro: faltam profissionais qualificados para atender essa alta demanda.\n\n🎯 É exatamente para suprir essa lacuna que existe a Pós-Graduação em Suplementação Pediátrica.\n\nUm projeto único que reúne todo o conhecimento científico e prático, adquirido ao longo de muitos anos com pioneirismo e referência em suplementação pediátrica no Brasil e o conhecimento de um corpo docente extremamente capacitado, profissionais que são as grandes referências em suas áreas e serão professores desse projeto com exclusividade.\n\n✅ Estar capacitado nessa área vai muito além de agregar conhecimento: significa dar um salto de valorização profissional, conquistar maior reconhecimento no mercado e oferecer aos pacientes um atendimento verdadeiramente resolutivo.\n\n📌 Anota na agenda: As vagas abrem no dia 27 de fevereiro de 2027, sábado, às 10h da manhã.\n\nE atenção: essa será a única turma de 2027, com número limitado de vagas.\n\n📍 Entre na lista de espera preferencial para ter acesso a benefícios exclusivos\n\n🔗 O link para entrar na lista de espera está na descrição do meu perfil",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-928938473345232.jpg"
+}

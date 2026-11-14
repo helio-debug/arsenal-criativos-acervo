@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-1441258171305377",
+  "tipo": "estatico",
+  "titulo": "Caso financeiro com valores em destaque sobre foto profissional",
+  "formato": "Depoimento em destaque",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma profissional de jaleco escrevendo, com escurecimento à esquerda para acomodar texto branco serifado. A chamada apresenta uma mudança financeira individual com valores destacados em negrito.",
+  "por_que_funciona": [
+    "Os valores em negrito tornam a diferença financeira visível na chamada.",
+    "A foto do jaleco aproxima o tema do público profissional indicado no cabeçalho.",
+    "O texto branco sobre a área escurecida mantém a leitura sobre a fotografia."
+  ],
+  "quando_usar": "Para apresentar um caso documentado de organização financeira e levar interessados a uma consulta, com autorização e contextualização dos resultados.",
+  "estrutura_texto": "[Perfil profissional / tema]. Como [pessoa com autorização] saiu de [situação financeira inicial] para [resultado documentado] em [contexto/período].",
+  "legenda": "Uma consulta financeira individual ajuda a organizar [situação] e elaborar um plano para [objetivo patrimonial]. Conheça o acompanhamento para [público] e agende uma conversa gratuita em [CTA]. Resultados dependem do contexto de cada pessoa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a IMAGEM 2 em fotografia vertical de contexto profissional, com pessoa escrevendo e rosto fora do enquadramento principal. Escureça suavemente o lado esquerdo e sobreponha título branco serifado com valores em negrito e cabeçalho discreto. Use apenas caso autorizado, números comprovados e contexto; não prometa repetir o resultado. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": "Meta: evitar inferir endividamento ou condição financeira do leitor e prometer resultados financeiros. Caso com valores exige comprovação, autorização e contexto, sem garantia de repetição. Se houver recomendação de valores mobiliários, observar as regras da CVM e a habilitação aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1441258171305377",
+    "anunciante": "Kamile Araújo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 1,
+    "texto_original": "Consulta financeira individual que cria um plano claro de crescimento patrimonial — ideal pra quem já tem uma base e quer ir além, ou pra quem cansou de viver no improviso.\n\nToque em \"Saiba Mais\" e agende gratuitamente.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1441258171305377.jpg"
+}

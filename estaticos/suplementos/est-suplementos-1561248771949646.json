@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1561248771949646",
+  "tipo": "estatico",
+  "titulo": "Creatina em embalagem isolada sobre branco",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um sachê preto e branco de creatina ocupa o centro da peça em fundo branco. O nome do ingrediente e as informações do rótulo compõem toda a mensagem.",
+  "por_que_funciona": [
+    "O fundo branco deixa a embalagem como único foco.",
+    "O nome do ingrediente em letras grandes facilita identificar a categoria.",
+    "A divisão preta e branca organiza nome e informações complementares.",
+    "Peso e porções ficam visíveis na parte inferior do sachê."
+  ],
+  "quando_usar": "Para catálogo e anúncios de um produto cuja embalagem já comunica a proposta.",
+  "estrutura_texto": "[Marca]\n[Ingrediente]\n[Tipo]\n[Declaração de composição]\n[Sabor]\n[Características do rótulo]\n[Porções]\n[Categoria e peso]",
+  "legenda": "Conheça [produto], um [tipo de suplemento] para [público indicado no rótulo]. Veja a composição e as orientações de uso em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Isole a embalagem da IMAGEM 2 em fundo branco, centralizada e ocupando a maior parte do quadro. Use luz suave e sombra discreta. Mantenha proporções, cores e texto reais do produto, sem inserir alegações extras, selos inventados ou chamadas externas.",
+  "alerta_politica": "Para suplementos, use apenas alegações permitidas e comprováveis, coerentes com o rótulo. Não prometa cura, prevenção de doenças ou resultados físicos garantidos; evite atribuir condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1561248771949646",
+    "anunciante": "Drogarias Tamoio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-03",
+    "dias_no_ar": 437,
+    "variacoes_ativas": 1,
+    "texto_original": "A Creatina Monohidratada da Emanaé o suplemento ideal para fisiculturistas e atletas de esportes que necessitam de explosões rápidas de energia.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1561248771949646.jpg"
+}

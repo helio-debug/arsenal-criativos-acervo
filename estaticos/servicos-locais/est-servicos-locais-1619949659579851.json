@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1619949659579851",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre compra em outra região com rota ilustrada",
+  "formato": "Alerta e educação",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma pergunta grande em azul e laranja ocupa o topo sobre fundo creme. Abaixo, uma lancha percorre um recorte de água em formato de mapa, com rota pontilhada laranja e botão de contato na base.",
+  "por_que_funciona": [
+    "A pergunta identifica uma situação concreta de compra em outra região.",
+    "O trecho em laranja dá destaque à localização da compra.",
+    "A rota pontilhada entre dois pontos traduz visualmente a mudança de jurisdição.",
+    "O botão azul repete a cor do título e concentra a ação de contato."
+  ],
+  "quando_usar": "Para serviços de documentação náutica alcançarem quem acabou de comprar uma embarcação em outra região.",
+  "estrutura_texto": "[MARCA]\n[COMPROU UM BEM]\n[EM OUTRA REGIÃO?]\n[PERGUNTA SOBRE DOCUMENTAÇÃO]\n[PRESTADOR CUIDA DO PROCESSO]\n[CTA]\n[ORIENTAÇÃO DE CLIQUE]\n[PERFIL]",
+  "legenda": "Comprou [bem] em [outra cidade ou estado]? Confira se o seu caso exige [transferência de propriedade] ou [mudança de jurisdição]. [Serviço] auxilia com [procedimentos e acompanhamento]. Fale com [equipe] pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo creme com título grande azul no topo e destaque laranja para a pergunta sobre região. Acrescente explicação curta. Na metade inferior, mostre o produto sobre recorte de água em mapa abstrato, com rota pontilhada laranja entre dois pontos luminosos. Finalize com botão azul escuro e seta laranja. Não copie o local exato do mapa. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1619949659579851",
+    "anunciante": "Rumo Náutica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-22",
+    "dias_no_ar": 23,
+    "variacoes_ativas": 1,
+    "texto_original": "🚤 Comprou uma embarcação em outra cidade ou estado?\n\nAntes de sair navegando, existe um detalhe que merece atenção: a documentação precisa estar corretamente atualizada junto à Marinha do Brasil.\n\nDependendo do caso, pode ser necessário realizar a transferência de propriedade e a mudança de jurisdição da embarcação.\n\nMas você não precisa se preocupar com formulários, protocolos e acompanhamento de processos!\n\n⚓ A Rumo Náutica cuida dos procedimentos para você ganhar tempo e aproveitar sua embarcação com tranquilidade.\n\n👉 Clique em Saiba mais e solicite seu atendimento agora!\nWHATSAPP\nComprou um barco? Regularize com a Rumo!\nMelhor avaliado ⭐⭐⭐⭐⭐",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1619949659579851.jpg"
+}

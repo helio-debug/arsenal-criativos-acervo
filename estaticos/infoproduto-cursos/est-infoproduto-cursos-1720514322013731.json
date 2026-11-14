@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1720514322013731",
+  "tipo": "estatico",
+  "titulo": "Formação profissional com retrato e chamada de transformação",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Layout branco com chamada e descrição à esquerda. À direita, uma profissional sorridente aparece sobre um polígono laranja com contornos geométricos.",
+  "por_que_funciona": [
+    "A frase principal conecta desenvolvimento pessoal à atuação com outras pessoas.",
+    "O retrato com roupa profissional aproxima o tema do ambiente de trabalho.",
+    "A descrição curta informa que a formação é online.",
+    "A área branca mantém a leitura separada do bloco laranja da foto."
+  ],
+  "quando_usar": "Para apresentar uma formação de desenvolvimento profissional a públicos que ainda estão conhecendo o programa.",
+  "estrutura_texto": "[Nome da formação]\n[Assinatura descritiva]\n[Chamada ligada à aplicação profissional]\n[Modalidade e proposta da formação]\n[Assinatura institucional]",
+  "legenda": "Desenvolva [competência] para atuar em [aplicação profissional]. A formação oferece [conteúdo prático] em aulas [modalidade e acesso]. Conheça o programa e inscreva-se em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, texto alinhado à esquerda e retrato profissional à direita sobre forma geométrica laranja. Aplique linhas finas orgânicas no fundo e contornos brancos no painel laranja. Dê peso maior ao início da chamada e mantenha uma descrição curta abaixo. Reserve espaços discretos para a identidade própria.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1720514322013731",
+    "anunciante": "ABTD - Associação Brasileira de Treinamento e Desenvolvimento",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-01-30",
+    "dias_no_ar": 653,
+    "variacoes_ativas": 1,
+    "texto_original": "Transforme-se para transformar outras pessoas. Aprenda com experts por meio de aulas online baseadas na Metodologia Internacional da ATD. Conteúdo prático e gravado, focado no seu desenvolvimento! Inscreva-se agora e acelere sua carreira! Clique em \"Saiba mais.\"",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1720514322013731.jpg"
+}

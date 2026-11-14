@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1170802041082362",
+  "tipo": "estatico",
+  "titulo": "Curso de modelagem com projeto e cupom em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul-escuro e roxo com título de curso à esquerda e renderização de edifício à direita. Um selo amarelo e vermelho sobre o projeto destaca desconto e cupom; o rodapé apresenta certificações.",
+  "por_que_funciona": [
+    "A renderização do edifício mostra uma aplicação visual do conteúdo ensinado.",
+    "O nome do software e a versão aparecem em letras grandes em magenta.",
+    "O selo amarelo e vermelho diferencia desconto e código do restante da composição.",
+    "A foto da docente e o rodapé de certificados acrescentam informações sobre a formação."
+  ],
+  "quando_usar": "Para promover cursos de software técnico com um exemplo de projeto e desconto vigente.",
+  "estrutura_texto": "[Curso certificado]\n[Tipo de modelagem] com [software e especialidade]\n[Versão]\n[Percentual de desconto]\nUse o código [cupom]\n[Docente]\n[Modalidade e certificações]",
+  "legenda": "Aprenda [software e especialidade] com [formato de acompanhamento]. Use o código [cupom] para obter [desconto] no curso de [tema]. Confira [condições da oferta] e [certificações comprovadas] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho com degradê roxo e linhas topográficas sutis. Posicione o título à esquerda, destacando software e versão em magenta. Inclua grande imagem de um projeto arquitetônico à direita, pequeno retrato docente à esquerda e selo amarelo/vermelho com desconto e cupom sobre o projeto. Organize modalidade e certificados em rodapé com ícones. Não replique logotipos de terceiros nem afirme credenciamento sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1170802041082362",
+    "anunciante": "Konstruedu.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-05",
+    "dias_no_ar": 619,
+    "variacoes_ativas": 4,
+    "texto_original": "😱 No hay nada mejor que lo que deseas obtener tenga un GRAN DESCUENTO🎁\n\nPor esa razón te regalamos el 40% de descuento adicional en todos nuestros cursos para que te vuelvas un experto en las mejores herramientas y software BIM\n\nAprovecha esta oferta con el 40% de descuento \nUtiliza el siguiente código para aplicar el descuento: PROMO40\n\n¡Toca el botón y aprovecha el descuento!\nUtiliza el código para el descuento: PROMO40",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1170802041082362.jpg"
+}

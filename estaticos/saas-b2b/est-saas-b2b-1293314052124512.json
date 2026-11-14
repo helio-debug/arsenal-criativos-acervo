@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1293314052124512",
+  "tipo": "estatico",
+  "titulo": "Custo do adiamento com calendário e consultório vazio",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Consultório odontológico vazio e escurecido serve de fundo para chamada sobre adiar a adoção de um sistema de gestão. Calendário com meses riscados ocupa a esquerda; faixa azul lista problemas e rodapé branco traz marca e CTA.",
+  "por_que_funciona": [
+    "O calendário riscado torna visível a passagem de vários meses.",
+    "A cadeira vazia associa a cena às faltas citadas no texto.",
+    "A faixa azul reúne os problemas de gestão em uma linha destacada.",
+    "O rodapé branco mantém a chamada final legível sobre a foto escura."
+  ],
+  "quando_usar": "Para retomar conversas com gestores de clínicas que reconhecem falhas de agenda e ainda adiam a contratação de software.",
+  "estrutura_texto": "[Público profissional], cada mês que você adia [solução]...\nVocê mantém:\n[Problema de presença] • [Problema de agenda] • [Problema de cobrança]\n[Consequência do adiamento]\n[CTA para conhecer a solução]",
+  "legenda": "Na gestão de [tipo de estabelecimento], [faltas] e [remarcações] podem comprometer a ocupação da agenda. Com [software], sua equipe conta com [lembretes disponíveis] e [recurso de organização]. Veja como funciona e avalie a ferramenta para sua rotina em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de ambiente profissional vazio com luz fria e escurecimento para contraste. Adicione calendário comprido à esquerda com meses riscados, título branco grande no topo sobre o custo de adiar uma solução e faixa azul arredondada com problemas operacionais. No rodapé, use caixa branca com assinatura própria e CTA azul. Preserve o foco na gestão, sem dados de pacientes, promessa de faturamento ou perdas financeiras apresentadas como certas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1293314052124512",
+    "anunciante": "SoftClínica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-27",
+    "dias_no_ar": 201,
+    "variacoes_ativas": 2,
+    "texto_original": "Dentista, tem um custo que não aparece no boleto,\nmas pesa no fim do mês:\n\ncada mês que você adia o SoftClínica,\nvocê mantém exatamente o cenário que te cansa hoje.\n\n• faltas que viram cadeira vazia \n• agenda no caos, remarcação pra todo lado \n• inadimplência crescendo em silêncio\n\nNão é só “deixar pra depois”.\nÉ aceitar perder dinheiro todo mês.\n\nQuando você coloca o SoftClínica pra rodar, muda o jogo:\n\n– confirmações e lembretes automáticos por WhatsApp \n– agenda organizada, com visão clara do dia e da semana \n– cobrança estruturada com boleto, link de pagamento e automação \n– indicadores que mostram onde a clínica está sangrando\n\nA diferença entre quem cresce e quem empaca\nmuitas vezes está nessa decisão que vai sendo empurrada.\n\nSe você sente que trabalha muito\ne o resultado não acompanha,\nveja na prática como o SoftClínica\npode parar esse vazamento mês a mês. \nAcesse o link na bio ou envie uma mensagem em nosso WhatsApp.\n\n #ClinicaDigital #Dentistas #Produtividade #ClinicaOrganizada #Lucratividade #GestaoDeTempo #GestaoOdonto #SoftwareOdontologico #softclinica #AgendaInteligente #GestaoFinanceira #VidaDeDentista #OdontologiaAltaPerformance #Gestao #softclínica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1293314052124512.jpg"
+}

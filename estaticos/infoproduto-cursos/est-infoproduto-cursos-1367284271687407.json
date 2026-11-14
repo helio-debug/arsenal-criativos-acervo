@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1367284271687407",
+  "tipo": "estatico",
+  "titulo": "Arte de personagem com convite para aprender do zero",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Um personagem pirata em pixel art ocupa o centro, diante de céu e nuvens no mesmo estilo. Título no topo promete aprendizado do zero e o rodapé combina quebra de objeção com tópicos do curso.",
+  "por_que_funciona": [
+    "O personagem central mostra um exemplo visual da habilidade ensinada.",
+    "A chamada no topo identifica pixel art e o nível iniciante.",
+    "O texto sobre não saber desenhar aborda uma barreira de entrada explícita.",
+    "Os tópicos no rodapé detalham conteúdos como cenários e animação."
+  ],
+  "quando_usar": "Para apresentar cursos de habilidades visuais a iniciantes usando uma amostra representativa do conteúdo ensinado.",
+  "estrutura_texto": "APRENDA [Habilidade]\nDO ZERO\nMESMO SEM [Experiência prévia]\n[Técnica básica]\n[Conteúdo 2]\n[Conteúdo 3]\n[Conteúdo 4]",
+  "legenda": "Aprenda [habilidade] do básico a [conteúdos avançados], mesmo começando sem [experiência prévia]. Crie [tipos de projeto] com aulas práticas em um curso [modalidade]. Confira o programa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma ilustração original em pixel art como foco central, com cenário no mesmo estilo e paleta azul, roxa e magenta. Coloque título branco grande com contorno magenta no topo. No rodapé, destaque a chamada para iniciantes à esquerda e os tópicos do curso à direita. Não replique o personagem da referência. Use textos em pt-BR com os dados do MEU PRODUTO e apenas condições e credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1367284271687407",
+    "anunciante": "Indie Power",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-21",
+    "dias_no_ar": 389,
+    "variacoes_ativas": 1,
+    "texto_original": "Venha aprender a criar arte para jogos no estilo PIXEL ART, mesmo que você não saiba desenhar!\nSão diversas aulas práticas que vão do básico até assuntos mais avançados.\nVocê irá aprender a criar personagens em pixel art, cenários para jogos, animação e muito mais!\nCurso 100% online",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1367284271687407.jpg"
+}

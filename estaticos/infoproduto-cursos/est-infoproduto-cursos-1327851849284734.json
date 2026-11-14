@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1327851849284734",
+  "tipo": "estatico",
+  "titulo": "Curso com gratuidade em grande escala",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical preta e amarela com nome de curso na parte superior. Uma divisão irregular abre o bloco amarelo inferior, onde aparecem certificação sem custo e desconto de 100%.",
+  "por_que_funciona": [
+    "O nome do curso em amarelo grande identifica o assunto rapidamente.",
+    "A divisão com aparência de papel rasgado separa conteúdo e oferta.",
+    "O número “100%” ocupa quase toda a largura inferior e enfatiza a gratuidade.",
+    "O selo de qualificação aparece junto do curso como credencial visual."
+  ],
+  "quando_usar": "Para divulgar um curso gratuito com condições de acesso e certificação claramente definidas.",
+  "estrutura_texto": "[TIPO DE CURSO]\nFundamentos de\n[ASSUNTO]\n[CREDENCIAL VERIFICÁVEL]\nCertifique-se por [VALOR]\n[DESCONTO]% OFF",
+  "legenda": "Aprenda [assunto] com [curso]. Acesse [conteúdo incluído] gratuitamente e confira [condições da certificação]. [CTA de inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com dois terços superiores pretos e bloco inferior amarelo separado por borda irregular de papel rasgado. Destaque o assunto em tipografia amarela grande, coloque pequenos ícones lineares educativos e reserve o rodapé para o preço e percentual em preto. Só anuncie gratuidade e certificação quando comprovadas. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1327851849284734",
+    "anunciante": "Uniathena - Short Courses",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "📣 Grab Your Free Digital Marketing Certification - We understand your career dreams & here’s the perfect course just for you! Embark on a rewarding Digital Marketing career with UniAthena!\nGet free digital marketing certification\n100% Free Learning",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1327851849284734.jpg"
+}

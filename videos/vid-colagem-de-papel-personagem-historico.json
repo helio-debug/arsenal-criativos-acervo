@@ -1,0 +1,104 @@
+{
+ "id": "vid-colagem-de-papel-personagem-historico",
+ "titulo": "Colagem de papel recortado contando a história de um personagem e a peça que ele criou",
+ "formato_video": "colagem",
+ "nichos": [
+  "infoproduto-cursos",
+  "marketing-trafego",
+  "educacao-concursos",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "55-65s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Retrato recortado de [personagem autorizado] entra sobre papel; detalhe da peça no centro, legenda branca em tira vermelha.",
+   "fala": "[Detalhe visual da peça] aparece logo no começo de [obra ou projeto]. Essa escolha ajuda a entender [decisão concreta].",
+   "texto_tela": "[DETALHE DA PEÇA]"
+  },
+  {
+   "tempo": "6-16s",
+   "cena": "Retrato menor ao lado de recorte real do documento; aproximação no trecho mencionado.",
+   "fala": "Naquele momento, [personagem autorizado] precisava [objetivo documentado]. O obstáculo era [contexto verificado].",
+   "texto_tela": "[CONTEXTO]"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Peça real ocupa a tela; recortes separados destacam um título ou parte da composição.",
+   "fala": "A solução foi colocar [elemento da peça] em [posição ou sequência]. Repare em [detalhe visível]: ele mostra [informação concreta].",
+   "texto_tela": "REPARE"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Montagem de documento e ilustração recortada de alguém executando a ação, com movimento em degraus.",
+   "fala": "Depois veio [mudança documentada]. [Personagem autorizado] ajustou [parte da peça] para [objetivo registrado]. Veja a diferença neste trecho.",
+   "texto_tela": "[MUDANÇA DOCUMENTADA]"
+  },
+  {
+   "tempo": "39-51s",
+   "cena": "Recorte da evidência com fonte licenciada ou autorizada em indicação discreta; destaque somente no trecho relevante.",
+   "fala": "O registro disponível mostra [resultado verificado]. Esse dado vale para [contexto do caso], com [limite relevante].",
+   "texto_tela": "[RESULTADO VERIFICADO]"
+  },
+  {
+   "tempo": "51-60s",
+   "cena": "Mãos em recorte sobre mesa ou teclado; material real do comprador entra ao lado da peça estudada.",
+   "fala": "Em [aplicação do meu produto], dá pra testar [ação equivalente]. Comece por [etapa pequena] e confira [critério].",
+   "texto_tela": "TESTE [AÇÃO]"
+  },
+  {
+   "tempo": "60-65s",
+   "cena": "Retrato e peça recuam; tira de papel anuncia o tema seguinte.",
+   "fala": "No próximo vídeo: [outro caso autorizado]. Siga o perfil pra acompanhar.",
+   "texto_tela": "Próximo: [caso]"
+  }
+ ],
+ "hook": {
+  "falado": "[Detalhe visual da peça] aparece logo no começo de [obra ou projeto]. Essa escolha ajuda a entender [decisão concreta].",
+  "texto_tela": "[DETALHE DA PEÇA]",
+  "visual": "Retrato recortado de [personagem autorizado] entra sobre papel; detalhe da peça no centro, legenda branca em tira vermelha."
+ },
+ "por_que_funciona": [
+  "A página de documento em tela cheia dá um objeto concreto à fala sobre análise de casos.",
+  "A montagem alterna apresentador, documento e ilustrações de trabalho, mudando o tipo de imagem conforme o assunto.",
+  "As legendas brancas em pequenas faixas vermelhas mantêm o mesmo padrão sobre cenários muito diferentes.",
+  "O close de mãos no teclado liga o trecho final da fala à ideia de aplicação prática."
+ ],
+ "quando_usar": "Para cursos, consultorias e conteúdos educativos que ensinam por um caso documentado. Use no topo do funil para apresentar uma decisão de uma obra e relacioná-la a uma aplicação do produto.",
+ "roteiro_modelo": "[Detalhe visual da peça] aparece logo no começo de [obra ou projeto]. Essa escolha ajuda a entender [decisão concreta].\n\n[pausa curta; corte]\n\nNaquele momento, [personagem autorizado] precisava [objetivo documentado]. O obstáculo era [contexto verificado].\n\n[pausa curta; corte]\n\nA solução foi colocar [elemento da peça] em [posição ou sequência]. Repare em [detalhe visível]: ele mostra [informação concreta].\n\n[pausa curta; corte]\n\nDepois veio [mudança documentada]. [Personagem autorizado] ajustou [parte da peça] para [objetivo registrado]. Veja a diferença neste trecho.\n\n[pausa curta; corte]\n\nO registro disponível mostra [resultado verificado]. Esse dado vale para [contexto do caso], com [limite relevante].\n\n[pausa curta; corte]\n\nEm [aplicação do meu produto], dá pra testar [ação equivalente]. Comece por [etapa pequena] e confira [critério].\n\n[pausa curta; corte]\n\nNo próximo vídeo: [outro caso autorizado]. Siga o perfil pra acompanhar.",
+ "tomadas_celular": [
+  "Filme de cima um retrato impresso com uso autorizado sobre cartolina, janela lateral difusa e celular apoiado, 6s.",
+  "Plano de cima de documento autorizado com mão indicando contexto; luz difusa para evitar reflexo, 10s.",
+  "Close de um detalhe real da peça impressa, luz lateral suave e foco travado, 11s.",
+  "Plano de cima de dois recortes mostrando a mudança documentada, mesma luz e câmera fixa, 12s.",
+  "Close do registro que sustenta o resultado, luz uniforme e texto legível, 12s.",
+  "Plano próximo de mãos aplicando a ideia em caderno ou teclado, luz de janela, 9s.",
+  "Plano de cima da composição completa com espaço para próximo tema, luz suave, 5s."
+ ],
+ "caminho_ia": "Monte uma colagem no CapCut com retrato e peça reais, licenciados ou em domínio público; use voz sintética ou clonada com autorização para narrar. Runway ou Veo podem gerar fundos e ilustrações de apoio, sem inventar documento histórico ou evidência. Prompt 1: \"Vertical 9:16, stop-motion paper collage on textured ivory museum wall, empty ornate frame beside torn paper shapes, space reserved for licensed [case artwork] compositing, soft directional light, stepped motion, no text, 6 seconds.\" Prompt 2: \"Vertical 9:16, cut-paper illustrated hands working with [product-related object] on a desk, layered paper edges, overhead camera, warm soft lighting, short stepped movements, no logos, 8 seconds.\" Insira os documentos reais depois e adicione legendas em tiras de papel vermelhas. Não gere uma imagem falsa para substituir a peça histórica.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie narrativa de 65s sobre um personagem e uma peça documentada ligada ao meu produto. Use campos adaptáveis se eu não fornecer o caso. Gancho num detalhe visível, contexto curto, decisão na peça, mudança, resultado com limite e fonte, aplicação ao meu produto e convite ao próximo caso. A obra ocupa mais tempo que a biografia. Colagem de papel recortado, retrato autorizado, recortes reais da peça, movimento em degraus e legenda branca em tira vermelha. Alterne imagens a cada 2 a 4s dentro dos blocos. Os frames mostram montagem de documentos e ilustrações, não uma narrativa histórica completa; a colagem histórica é a adaptação pedida. Não copie apresentador, personagens, marcas, cenas de filme, textos ou oferta da referência. Não invente fatos, datas, fontes ou resultados; sinalize o que precisa ser apurado. No modelo público, substitua nomes por campos adaptáveis. Escreva em pt-BR falado, com frases curtas e campos [adaptáveis]. Evite antítese vazia, perguntas decorativas, superlativos sem prova e promessas não comprovadas. Use só os dados fornecidos do meu produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Em [obra ou projeto], [personagem autorizado] usou [decisão concreta] para [objetivo]. O detalhe aparece em [trecho da peça]. Em [aplicação do meu produto], o teste é [ação pequena]. Fonte do caso: [referência autorizada]. Próximo vídeo: [caso].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-31ce3156",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-colagem-de-papel-personagem-historico/frames/f1.jpg",
+    "videos/vid-colagem-de-papel-personagem-historico/frames/f2.jpg",
+    "videos/vid-colagem-de-papel-personagem-historico/frames/f3.jpg",
+    "videos/vid-colagem-de-papel-personagem-historico/frames/f4.jpg",
+    "videos/vid-colagem-de-papel-personagem-historico/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

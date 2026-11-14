@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1247363240555639",
+  "tipo": "estatico",
+  "titulo": "Obra em destaque com chamada de matéria jornalística",
+  "formato": "Comunicado oficial",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto aérea de um edifício em demolição, com tratamento escuro na lateral direita. Nessa área, a peça apresenta uma chamada de matéria jornalística e assinaturas institucionais.",
+  "por_que_funciona": [
+    "A fotografia de demolição ilustra diretamente o tema da chamada.",
+    "A faixa escurecida à direita cria contraste para o texto branco.",
+    "O título em linhas curtas ocupa um bloco bem delimitado.",
+    "A indicação de matéria jornalística situa o conteúdo como divulgação de cobertura externa."
+  ],
+  "quando_usar": "Para divulgar cobertura editorial verificável e atualizar interessados sobre a transformação de um terreno.",
+  "estrutura_texto": "[Veículo de imprensa]\n[Projeto]:\n[Etapa da obra] E\n[Tema urbano].\nMatéria em [veículo].\n[Marca responsável]",
+  "legenda": "O projeto [empreendimento], em [bairro], foi tema de uma matéria sobre [assunto]. Conheça os detalhes da transformação do terreno e acompanhe as etapas do empreendimento em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto aérea de obra como fundo quadrado, preservando contexto urbano. Escureça gradualmente o lado direito e coloque nele título branco em caixa-alta, seguido de uma linha de referência à matéria. Reserve topo e rodapé para identificações próprias e menção autorizada ao veículo. Não invente cobertura jornalística nem reproduza logotipos de terceiros.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1247363240555639",
+    "anunciante": "SDI Desenvolvimento Imobiliário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-03",
+    "dias_no_ar": 346,
+    "variacoes_ativas": 1,
+    "texto_original": "SDI na Mídia! 📰\n\nO Pinna 5109, projeto de alto padrão idealizado pela SDI e concebido por Marcio Kogan (@mkogan27), tem previsão de entrega em 2027, no Itaim Bibi.\n\nO edifício, com unidades de aproximadamente 370 m² (uma por andar), se materializará em um terreno de aproximadamente 1.800 m², após a aquisição de prédios da gestora imobiliária Tellus (@tellusinvestimentos). \n\nEm fase final de demolição, o novo empreendimento residencial possuirá 32 andares, além de quatro pisos de subsolo. \n\nNo total, seu  VGV é estimado em R$ 500 milhões. \n\nSegundo a matéria publicada pelo Estadão (@estadao), que menciona o Pinna 5109, a demolição como tendência é viabilizada pela valorização da região e dos imóveis; pela demanda da construção de edifícios mais adequados à população local; pela dificuldade de se encontrar terrenos extensos na capital e outros motivos relacionados. \n\nContrariando o senso comum, a renovação urbana passa por processos criteriosos e é significantemente sustentável em comparação ao retrofit.\n\nLeia a matéria completa no site do Estadão.\n\nAcesse o link na bio e saiba mais sobre a SDI.\n\n#SDI #SãoPaulo #SP #Pinna5109 #Lançamento #Demolição",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1247363240555639.jpg"
+}

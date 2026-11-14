@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-2227759301954375",
+  "tipo": "estatico",
+  "titulo": "Operação independente versus estrutura de franquia",
+  "formato": "Comparativo",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com chamada vermelha sobre fundo claro, tabela comparando uma agência independente com uma franquia e rodapé vermelho com botão verde.",
+  "por_que_funciona": [
+    "A chamada em caixa alta destaca o método como critério para crescer.",
+    "A tabela organiza marca, leads, método e tecnologia em duas alternativas fáceis de comparar.",
+    "Os sinais de verificação destacam os recursos incluídos na estrutura oferecida.",
+    "O botão verde contrasta com o rodapé vermelho e concentra a ação."
+  ],
+  "quando_usar": "Para redes de franquias de serviços apresentarem sua estrutura a profissionais que avaliam abrir ou expandir uma operação.",
+  "estrutura_texto": "[Abrir uma operação] é fácil. [Construir uma operação maior], só com [diferencial].\n[Operação independente] × [Modelo oferecido]\n[Critério]: [situação atual] × [recurso incluído]\nSeja dono de [operação] com [estrutura disponível].\n[CTA de candidatura]",
+  "legenda": "Quer abrir ou expandir sua [operação]? Conheça uma estrutura com [processos disponíveis] e [suporte oferecido]. Consulte [dados verificáveis da rede] e entenda os critérios para fazer parte de [modelo de negócio].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro, título condensado em caixa alta no topo e uma faixa de cor atrás da última linha. No centro, monte tabela com dois modelos e quatro critérios, usando informações reais do produto. Na base, crie bloco vermelho com chamada curta e botão verde. Adapte a foto do produto a um pequeno elemento de apoio sem competir com a tabela; se não couber, priorize a comparação textual.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2227759301954375",
+    "anunciante": "V4 Company",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 25,
+    "texto_original": "Você está pronto para construir ou escalar sua operação de marketing?\n \nA franquia V4 oferece uma solução pronta: estrutura comprovada, processos definidos e a maior marca de marketing do Brasil.\n\n99% dos nossos franqueados abririam novamente! Quer saber mais sobre essa oportunidade?\n-> Veja os números da rede antes de decidir",
+    "origem_coleta": "acervo:v4-company"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-2227759301954375.jpg"
+}

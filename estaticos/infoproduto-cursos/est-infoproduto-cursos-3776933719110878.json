@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3776933719110878",
+  "tipo": "estatico",
+  "titulo": "Oferta de curso escrita em bilhete sobre garrafa",
+  "formato": "Feito à mão",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma garrafa verde sobre uma mesa, com ambiente de trabalho desfocado ao fundo. Um bilhete laranja preso à garrafa anuncia o curso e o desconto com escrita manual e grifos rosa.",
+  "por_que_funciona": [
+    "O bilhete laranja ocupa o centro e contrasta com a garrafa verde.",
+    "A escrita à mão dá ao anúncio aparência de recado fotografado.",
+    "O desconto aparece sozinho no meio do papel, facilitando a leitura.",
+    "Os grifos rosa destacam o nome da formação e o convite à mudança de carreira."
+  ],
+  "quando_usar": "Para testar uma apresentação informal de oferta de curso, com poucos elementos e mensagem curta.",
+  "estrutura_texto": "Curso Online:\n[NOME DO CURSO]\n[DESCONTO]%\nOFF\n[CHAMADA PARA O OBJETIVO DO ALUNO]",
+  "legenda": "Comece seus estudos em [área] com [desconto] no curso online de [curso]. Aprenda [ferramentas] e pratique [aplicações]. Veja o programa e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Produza uma fotografia vertical com mesa e ambiente de trabalho desfocados. Use a IMAGEM 2 como objeto de apoio ou material do curso. Prenda um bilhete laranja ao objeto central e escreva à mão, com leitura nítida, o nome do curso, o desconto no centro e uma chamada curta embaixo. Acrescente grifos rosa sob o tema e a chamada. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3776933719110878",
+    "anunciante": "EBAC",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 2,
+    "texto_original": "Seu futuro nos dados começa agora – com 50% OFF!\nDomine Python, SQL e Linux e entre no mercado mais valorizado do momento. Com o curso de Analista de Dados da EBAC, você transforma números em resultados.\n\nInvista na sua carreira!\nCurso Online: Analista de Dados",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3776933719110878.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1629354988352131",
+  "tipo": "estatico",
+  "titulo": "Número de clientes com retrato em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo bege com chamada apoiada em número de clientes à esquerda e retrato de um homem de camiseta verde à direita. Um bloco verde escuro apresenta o serviço e o rodapé concentra os canais de contato.",
+  "por_que_funciona": [
+    "O número de empresários aparece em verde e ocupa o centro da chamada.",
+    "O retrato grande equilibra o texto e aproxima a apresentação do serviço.",
+    "O bloco escuro separa a contratação e os benefícios do restante da peça."
+  ],
+  "quando_usar": "Para apresentar um serviço empresarial com base de clientes comprovável a quem está avaliando fornecedores.",
+  "estrutura_texto": "[Faça como quantidade de clientes em região]\n[Contrate serviço]\n[Benefícios para o negócio]\n[Site e canais]",
+  "legenda": "Junte-se a [quantidade comprovada] empresários que já utilizam [serviço]. Conte com [tecnologia] e [benefício verificável] para simplificar [rotina da empresa]. Conheça os planos em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo bege, texto verde escuro e destaques em verde vivo. Coloque a chamada e um número comprovado de clientes à esquerda; à direita, use a imagem fornecida, com recorte grande. Inclua um retângulo verde escuro de cantos arredondados para apresentar serviço e benefícios. Crie rodapé discreto com site e canais. Não invente depoimento, endosso ou quantidade de clientes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1629354988352131",
+    "anunciante": "Contajá Contabilidade Online.",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-05",
+    "dias_no_ar": 193,
+    "variacoes_ativas": 1,
+    "texto_original": "Junte-se a mais de 20 mil empresários que já descomplicaram a contabilidade! 🚀 \n\nCom a Contajá, você tem tecnologia e qualidade para focar no que realmente importa: o crescimento do seu negócio. Simplifique agora!",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1629354988352131.jpg"
+}

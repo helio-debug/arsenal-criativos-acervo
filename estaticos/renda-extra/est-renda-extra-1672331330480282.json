@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1672331330480282",
+  "tipo": "estatico",
+  "titulo": "Foto de hospedagem com recursos para anunciar",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma piscina com vista para o mar e montanhas ocupa toda a peça. Título branco e três etiquetas de recursos aparecem sobre o céu no alto à esquerda.",
+  "por_que_funciona": [
+    "A fotografia de um espaço pronto para receber hóspedes concretiza a atividade anunciada.",
+    "O título branco usa a área do céu para manter a leitura.",
+    "As três etiquetas isolam recursos de preço, calendário e orientação.",
+    "O enquadramento preserva piscina, mesa e vista como evidências visuais do espaço."
+  ],
+  "quando_usar": "Para apresentar recursos de uma plataforma de hospedagem a proprietários que avaliam anunciar um espaço.",
+  "estrutura_texto": "É fácil anunciar [SEU ESPAÇO] em [PLATAFORMA]\n[RECURSO DE PRECIFICAÇÃO]\n[FLEXIBILIDADE DE AGENDA]\n[APOIO AO USUÁRIO]",
+  "legenda": "Seu espaço pode receber hóspedes. Conheça os recursos de [plataforma] para definir preços, ajustar a disponibilidade e preparar o anúncio. Consulte taxas, requisitos e regras locais antes de começar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a IMAGEM 2 como fotografia principal de um espaço de hospedagem, ocupando todo o quadro. Reserve uma área visualmente calma no alto à esquerda para título branco grande e três etiquetas brancas arredondadas com texto preto sobre recursos reais. Coloque identificação própria discreta no canto inferior direito e mantenha a fotografia legível. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: não prometer renda, lucro garantido ou ganhos sem esforço. Informar condições, custos e critérios da oportunidade; resultados dependem da atividade e não são assegurados. A imagem deve representar o espaço anunciado ou ser identificada como ilustrativa; não sugerir ocupação ou receita assegurada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1672331330480282",
+    "anunciante": "Airbnb",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 4,
+    "texto_original": "Transforme seu espaço extra em renda extra.\nComece agora como anfitrião",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1672331330480282.jpg"
+}

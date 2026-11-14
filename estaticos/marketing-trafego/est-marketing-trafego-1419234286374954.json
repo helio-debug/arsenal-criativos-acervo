@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1419234286374954",
+  "tipo": "estatico",
+  "titulo": "Portfólio de e-mails para marcas pet",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Chamada em inglês apresenta uma equipe de e-mail marketing, com credencial no topo e três exemplos de campanhas verticais abaixo. As peças do portfólio mostram animais, produtos e chamadas promocionais.",
+  "por_que_funciona": [
+    "Três campanhas lado a lado tornam o serviço visível por meio das entregas.",
+    "O exemplo central mais alto cria hierarquia entre as peças do portfólio.",
+    "Fotos de pets e produtos identificam o segmento atendido.",
+    "A credencial posicionada ao lado da identidade funciona como sinal visível de qualificação."
+  ],
+  "quando_usar": "Para serviços de criação e estratégia que precisam mostrar trabalhos relevantes ao segmento do prospect.",
+  "estrutura_texto": "[IDENTIDADE DO SERVIÇO] | [CREDENCIAL VERIFICÁVEL]\nCONHEÇA A EQUIPE POR TRÁS DE [TIPO DE PROJETO]\n[EXEMPLO 1] | [EXEMPLO 2] | [EXEMPLO 3]",
+  "legenda": "Veja exemplos de [entrega] que nossa equipe desenvolve para [segmento]. Combinamos [serviço] com uma estratégia alinhada a [objetivo da marca]. Conheça o portfólio em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Adapte a foto da IMAGEM 2 como exemplo da minha entrega ou serviço, sem inventar trabalhos para terceiros. Use fundo cinza-claro e título laranja grande no alto. Acima, reserve espaço para minha identidade e uma credencial somente se fornecida. Na metade inferior, disponha três exemplos verticais com cantos arredondados, o central mais alto, usando azuis, fotos e chamadas legíveis. Troque toda marca de terceiros por conteúdo próprio ou [exemplo ilustrativo].",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1419234286374954",
+    "anunciante": "Boyuan from emailmarketer.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "We've been behind Rhykin's emails for a while now and have worked with other pet brands also over the years.\n\nWhat drives conversion is not only great designs but also having a strategy that is aligned with the brands TOF efforts and messaging. We know what works as we are actively sending over half a billion emails per month across basically everything single vertical you can think of.\n\nMy name is Boyuan and my team at emailmarketer.com has been running emails for over 6 years, built the largest Klaviyo education channel on YT and have had the privilege to work with hundreds of 7 to 10 figure brands.\n\nI get it, you're curious to funnel hack my clients, see their ad angles, reverse engineer their PDPs...\n\nThat's exactly what this audit call will be about , myself or my business partner will personally deep dive your Klaviyo and give you a precise diagnosis of all the needle movers tailored to your brand.\n\nWorst case you walk away with learnings that we've accumulated over years of working on accounts in your space that have scaled to 7 to 10 figures.\n\nrhykin.com\nRhykin Pet Co",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1419234286374954.jpg"
+}

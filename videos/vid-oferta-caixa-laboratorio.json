@@ -1,0 +1,95 @@
+{
+ "id": "vid-oferta-caixa-laboratorio",
+ "formato_video": "oferta-relampago",
+ "nichos": [
+  "beleza-cosmeticos",
+  "suplementos",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "escassez-prazo",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Caixa na mão, evidência consultável e oferta com prazo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Faltou conferir um detalhe de [produto] antes de pedir? Olha aqui.",
+  "texto_tela": "[Produto] | veja os detalhes",
+  "visual": "Apresentador sentado, de camiseta polo clara, segura uma caixa perto do rosto e aponta para ela; estantes escuras, luz quente e planta ao fundo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio frontal, caixa ao lado do rosto; dedo aponta a embalagem. Fundo escuro com luz quente lateral.",
+   "fala": "Faltou conferir um detalhe de [produto] antes de pedir? Olha aqui.",
+   "texto_tela": "[Produto] | veja os detalhes"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Mantém a caixa erguida e aproxima o enquadramento; inserir imagem legível de documento real, se existir.",
+   "fala": "Na página você encontra [informação verificável: composição e modo de uso]. Dá para consultar antes da compra.",
+   "texto_tela": "[Informação disponível] na página"
+  },
+  {
+   "tempo": "10-15s",
+   "cena": "Caixa apoiada na mesa, apresentador gesticula com as duas mãos; legenda branca central.",
+   "fala": "Para [uso indicado], confira [característica comprovada] e as orientações do fabricante.",
+   "texto_tela": "[Característica comprovada]"
+  },
+  {
+   "tempo": "15-21s",
+   "cena": "Plano médio com mãos marcando o prazo; caixa visível no canto inferior.",
+   "fala": "Até [data e hora], o pedido de [quantidade] inclui [benefício da oferta].",
+   "texto_tela": "Até [data e hora] | [benefício]"
+  },
+  {
+   "tempo": "21-27s",
+   "cena": "Plano um pouco mais aberto, aponta para a câmera e depois para a embalagem.",
+   "fala": "A condição vale para [itens elegíveis], seguindo [condição principal]. O cupom é [cupom].",
+   "texto_tela": "[Condição] | cupom: [cupom]"
+  },
+  {
+   "tempo": "27-35s",
+   "cena": "Aproximação frontal; gesto para a parte inferior. Cupom em faixa discreta na base.",
+   "fala": "Toque em saiba mais, confira as regras e escolha [produto]. Use [cupom] antes de [prazo real].",
+   "texto_tela": "Confira as regras | [cupom]"
+  }
+ ],
+ "por_que_funciona": [
+  "A caixa ao lado do rosto e o dedo apontando a embalagem identificam o objeto da oferta já na abertura.",
+  "As legendas brancas ficam sobre a camiseta clara e o fundo escuro; a mensagem de prazo aparece junto do gesto com as duas mãos.",
+  "A caixa permanece na mesa quando a fala passa para a condição comercial, mantendo o produto no quadro.",
+  "A faixa de cupom na base encerra a peça com uma informação que pode ser usada na compra."
+ ],
+ "quando_usar": "Para produtos físicos com dúvidas sobre uso ou composição e uma condição comercial com prazo real. Use perto da compra, quando a página já reúne os detalhes que a fala manda consultar.",
+ "roteiro_modelo": "[0-4s | corte e pausa breve]\nFaltou conferir um detalhe de [produto] antes de pedir? Olha aqui.\n\n[4-10s | corte e pausa breve]\nNa página você encontra [informação verificável: composição e modo de uso]. Dá para consultar antes da compra.\n\n[10-15s | corte e pausa breve]\nPara [uso indicado], confira [característica comprovada] e as orientações do fabricante.\n\n[15-21s | corte e pausa breve]\nAté [data e hora], o pedido de [quantidade] inclui [benefício da oferta].\n\n[21-27s | corte e pausa breve]\nA condição vale para [itens elegíveis], seguindo [condição principal]. O cupom é [cupom].\n\n[27-35s | corte e pausa breve]\nToque em saiba mais, confira as regras e escolha [produto]. Use [cupom] antes de [prazo real].",
+ "tomadas_celular": [
+  "Grave 4s em plano médio vertical, caixa ao lado do rosto, celular fixo e luz de janela a 45 graus.",
+  "Grave 6s de fala com a caixa erguida, em plano mais fechado e com a mesma luz lateral.",
+  "Filme 5s da embalagem e de informação real do produto, de cima sobre uma mesa, luz difusa sem reflexo.",
+  "Grave 6s com a caixa na mesa e mãos marcando o prazo, enquadramento da cintura para cima, luz lateral suave.",
+  "Grave 6s apontando para a câmera, plano médio com espaço na base para o cupom, luz frontal suave.",
+  "Grave 8s do convite final em plano fechado, produto no canto inferior e luz constante."
+ ],
+ "caminho_ia": "Faça a fala com avatar e voz sintética no CapCut. Gere os apoios no Veo usando fotos autorizadas de [produto]: \"Vertical 9:16 medium shot of a fictional presenter holding [product packaging] beside their face, warm side lighting, dark shelving background, locked smartphone camera, natural hand gesture, no text, 4 seconds.\" Segundo prompt: \"Vertical 9:16 close-up of [product packaging] on a dark tabletop, soft diffused key light, slow push-in, realistic materials, no added labels, 5 seconds.\" Monte legendas brancas e faixa de cupom no CapCut. Um laboratório pode ser apoio ilustrativo apenas se pertinente, identificado como ilustração; não use cena gerada como evidência de teste. Exiba somente documentos autênticos e autorizados.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 35s em seis blocos: 0-4 produto na mão e dúvida concreta; 4-10 informação consultável; 10-15 característica comprovada; 15-21 benefício com prazo; 21-27 condições e cupom; 27-35 CTA. Tom direto, fala contínua com cortes entre blocos. Use caixa ao lado do rosto, fundo escuro, gestos e legendas brancas curtas; cupom na base no final. Prazo de 24 horas só se a promoção realmente durar isso. Não copie alegações de aprovação unânime ou gratuidade sem condições. Para cosméticos e suplementos, limite a fala às alegações permitidas e comprovadas. Use pt-BR falado, frases curtas e campos [adaptáveis] onde faltar informação. Não invente provas, preços, datas, depoimentos ou condições. Não copie nomes, rostos, marcas, identidade visual, falas literais ou dados comerciais da referência. Evite superlativos, perguntas decorativas, antíteses vazias e fechos de efeito.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] com [benefício comercial] até [data e hora]. Consulte [informação disponível], os itens elegíveis e as condições na página. Cupom: [cupom]. [CTA].",
+ "alerta_politica": "Meta: não afirme atributos pessoais de saúde ou aparência do público, não use antes/depois de corpo nem prometa resultado de saúde. Para cosméticos e suplementos, respeite a regularização e as alegações autorizadas pela ANVISA; não atribua cura ou tratamento a suplemento. CFM se houver participação de médico. Só cite estudos pertinentes e verificáveis; cena de laboratório não comprova eficácia. Prazo, gratuidade e cupom precisam ter condições reais e claras.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-29fd6505",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-oferta-caixa-laboratorio/frames/f1.jpg",
+    "videos/vid-oferta-caixa-laboratorio/frames/f2.jpg",
+    "videos/vid-oferta-caixa-laboratorio/frames/f3.jpg",
+    "videos/vid-oferta-caixa-laboratorio/frames/f4.jpg",
+    "videos/vid-oferta-caixa-laboratorio/frames/f5.jpg"
+   ]
+  }
+ ]
+}

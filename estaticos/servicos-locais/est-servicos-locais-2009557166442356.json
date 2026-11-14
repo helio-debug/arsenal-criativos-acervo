@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-2009557166442356",
+  "tipo": "estatico",
+  "titulo": "Instalação de porta motorizada com condições de pagamento",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Porta de enrolar azul ocupa grande parte da peça preta e amarela. Textos destacam instalação completa, parcelamento e desconto à vista; celular e módulo ilustram abertura remota.",
+  "por_que_funciona": [
+    "A imagem grande da porta torna o serviço imediatamente reconhecível.",
+    "O título em caixa-alta destaca o tipo de porta e a motorização.",
+    "Parcelamento e desconto aparecem em bloco separado à direita.",
+    "Celular e módulo mostram visualmente o recurso de abertura remota."
+  ],
+  "quando_usar": "Para captar pedidos de orçamento de instalação com condições comerciais definidas e opcionais claros.",
+  "estrutura_texto": "[Escopo da instalação]\n[Produto ou serviço]\n[Diferencial principal]\nEm até [parcelas] sem juros no [meio de pagamento]\nou [desconto] à vista\n[Opcional de automação]\n[Contato] | [Site]",
+  "legenda": "Instalação completa de [produto] para [tipo de imóvel]. Pague em até [parcelas] sem juros ou tenha [desconto] à vista, conforme as condições da oferta. Consulte a opção de [recurso adicional]. Peça seu orçamento sem compromisso em [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com grafismos discretos e base amarela. No topo, faixa amarela para o escopo e título branco grande, com diferencial em amarelo. Posicione a foto do produto à esquerda ocupando a maior área, condições comerciais à direita e imagem menor do opcional de controle remoto abaixo. No rodapé, contato e site próprios. Use somente condições fornecidas em {{oferta}}.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2009557166442356",
+    "anunciante": "Açoforte Portas de Enrolar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-26",
+    "dias_no_ar": 292,
+    "variacoes_ativas": 1,
+    "texto_original": "Instalação completa de Porta de Enrolar Motorizada. Entre em contato sem compromisso.\nAçoforte Portas de Enrolar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-2009557166442356.jpg"
+}

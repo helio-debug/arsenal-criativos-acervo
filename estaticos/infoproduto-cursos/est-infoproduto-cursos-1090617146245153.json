@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1090617146245153",
+  "tipo": "estatico",
+  "titulo": "Ilustração de prática coletiva com curso gratuito",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma ilustração mostra pessoas sentadas com olhos fechados em uma sala de meditação. Faixas lilás no topo e na base apresentam o nome do curso e o acesso online gratuito.",
+  "por_que_funciona": [
+    "A cena coletiva mostra a prática ensinada pelo curso.",
+    "O título branco sobre lilás fica separado da ilustração.",
+    "A faixa inferior destaca “100% online e gratuito” em amarelo.",
+    "A imagem ocupa a maior parte da peça e contextualiza a atividade sem texto longo."
+  ],
+  "quando_usar": "Para divulgar cursos introdutórios gratuitos de meditação e apresentar a prática a novos interessados.",
+  "estrutura_texto": "Curso de [prática]\n[Nome ou tema do curso]\nCurso completo [modalidade] e [condição de acesso]!",
+  "legenda": "Conheça o curso [nome], uma introdução à prática de [atividade]. O conteúdo é [modalidade] e [condição de acesso]. Veja a programação e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use ilustração de grupo diverso sentado em uma sala acolhedora, com postura relaxada e olhos fechados. Coloque faixa lilás-clara no topo com título branco em duas linhas e faixa lilás-escura na base com modalidade e gratuidade em amarelo. Preserve o foco na prática e no acesso ao curso, sem sugerir tratamento ou cura.",
+  "alerta_politica": "Na Meta, evite afirmar que o leitor sofre de vazio interior, infelicidade ou condição de saúde mental. Apresente a prática sem prometer cura ou substituir atendimento profissional.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1090617146245153",
+    "anunciante": "Meditação Consciente",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-17",
+    "dias_no_ar": 515,
+    "variacoes_ativas": 1,
+    "texto_original": "✨ Você está procurando paz e harmonia em sua vida?\n 🔥 Apesar de ter tudo o que sempre desejou, você ainda sente um vazio interior que se manifesta como infelicidade e sofrimento? Você não precisa viver assim. A verdadeira paz e felicidade encontrem-se dentro de você.\n🧘🏻♀️ Aja agora. Inscreva-se no nosso Curso de Meditação “Descobrindo o seu Ser Superior”, 100% online e gratuito, e descubra como encontrar o seu Verdadeiro Eu Superior. \n👇 Clique no botão para mais informações e inscreva-se agora. https://www.meditacion-consciente.org/br\n\n#meditação #yoga #oficinasdemeditação #aprendaameditar #meditaçãoGuiada #Mindfulness #saúdemental #bemestar #atençãototal #espiritualidade\n⭐⭐⭐⭐⭐ 5/5\nComeça Hoje",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1090617146245153.jpg"
+}

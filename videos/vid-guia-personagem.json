@@ -1,0 +1,88 @@
+{
+ "id": "vid-guia-personagem",
+ "tipo": "video",
+ "titulo": "Selfie com personagem de exemplo e guia gratuito exibido no notebook",
+ "formato_video": "ugc-talking-head",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Aqui está [resultado visual] feito com [método do guia].",
+  "texto_tela": "[Resultado do guia]",
+  "visual": "Tela dividida: exemplo visual do produto em cima e selfie do apresentador com microfone na mão embaixo. Faixa preta com texto branco na divisão."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela dividida: exemplo visual do produto em cima e selfie do apresentador com microfone na mão embaixo. Faixa preta com texto branco na divisão.",
+   "fala": "Aqui está [resultado visual] feito com [método do guia].",
+   "texto_tela": "[Resultado do guia]"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Exemplo ocupa a tela inteira em uma grade de variações, como a folha de poses da referência.",
+   "fala": "Repare em [detalhe]: ele se mantém em [variações do exemplo].",
+   "texto_tela": "[Detalhe que se repete]"
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Selfie em plano próximo, com texto branco grande na altura do peito.",
+   "fala": "Eu reuni o passo a passo num guia gratuito para [tarefa do público].",
+   "texto_tela": "GUIA GRATUITO"
+  },
+  {
+   "tempo": "15-22s",
+   "cena": "Close inclinado do notebook exibindo uma página do material; enquadrar título e um trecho útil.",
+   "fala": "Aqui você encontra [instrução concreta] e um exemplo para aplicar em [situação de uso].",
+   "texto_tela": "[Conteúdo do guia]"
+  },
+  {
+   "tempo": "22-28s",
+   "cena": "Volta à selfie, microfone junto ao peito e chamada branca na parte inferior.",
+   "fala": "Toque no link para baixar o guia e testar com [seu material ou projeto].",
+   "texto_tela": "Baixe o guia"
+  }
+ ],
+ "por_que_funciona": [
+  "O exemplo ocupa a metade superior já na abertura, antes da explicação do guia.",
+  "A grade com várias poses permite comparar o mesmo personagem sem depender só da fala.",
+  "O texto branco de gratuidade aparece sobre a selfie, destacando a oferta no retorno ao apresentador.",
+  "O notebook exibe uma página do material antes do pedido de clique."
+ ],
+ "quando_usar": "Para captar interessados em um guia de ferramenta, marketing ou curso que tenha exemplos visuais. Use quando o público reconhece a tarefa e precisa conhecer o conteúdo antes de baixar.",
+ "roteiro_modelo": "[0-4s] Aqui está [resultado visual] feito com [método do guia].\n\n[pausa curta; corte]\n\n[4-9s] Repare em [detalhe]: ele se mantém em [variações do exemplo].\n\n[pausa curta; corte]\n\n[9-15s] Eu reuni o passo a passo num guia gratuito para [tarefa do público].\n\n[pausa curta; corte]\n\n[15-22s] Aqui você encontra [instrução concreta] e um exemplo para aplicar em [situação de uso].\n\n[pausa curta; corte]\n\n[22-28s] Toque no link para baixar o guia e testar com [seu material ou projeto].",
+ "tomadas_celular": [
+  "Grave 4s em selfie, plano próximo com microfone na mão, luz de janela frontal e espaço acima para inserir o exemplo.",
+  "Filme 5s de uma grade de exemplos próprios na tela, enquadramento frontal, brilho ajustado e luz sem reflexo.",
+  "Grave 6s em selfie com câmera na altura dos olhos, luz frontal e espaço no peito para o texto de gratuidade.",
+  "Filme 7s do guia aberto no notebook, close levemente inclinado, luz lateral suave e foco no título.",
+  "Grave 6s de chamada em selfie, mesma luz e enquadramento, apontando discretamente para a área do link."
+ ],
+ "caminho_ia": "Gere os exemplos no Runway ou com imagens geradas e monte uma grade no CapCut. Use avatar autorizado ou voz sintética licenciada para a apresentação. Prompts: \"Vertical 9:16 split-screen composition, upper half shows [product example] on a neutral studio background, lower half reserved for a presenter, soft diffuse lighting, four seconds, no text or logos.\" e \"Vertical 9:16 close-up of a laptop showing an open digital guide about [product use], slight handheld tilt, soft side window light, seven seconds, blank page areas for title compositing.\" Insira páginas reais do seu guia e textos no editor. Se usar exemplos simulados, identifique-os.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 28s em cinco blocos: 0-4s exemplo acima da selfie; 4-9s grade de variações; 9-15s apresentação do guia gratuito; 15-22s página do material; 22-28s volta à selfie e link. Tom útil e direto. Ritmo com um corte por bloco, faixa preta com chamada branca na abertura e destaque GUIA GRATUITO no meio. Adapte a grade para resultados do meu produto, sem exigir que ele seja um gerador de personagens. Não use constrangimento sobre o nível de conhecimento do público nem prometa consistência ilimitada. Não copie pessoas, personagens, falas, marcas, nomes de clientes, logotipos, datas ou identidade visual da referência. Use apenas dados e provas fornecidos sobre meu produto; se faltar informação, deixe [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, pergunta decorativa, tríade decorativa ou antítese vazia. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "O guia gratuito de [tema] mostra como [tarefa]. Inclui [exemplo ou instrução]. Baixe no link e aplique em [projeto].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-81e03c73",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-guia-personagem/frames/f1.jpg",
+    "videos/vid-guia-personagem/frames/f2.jpg",
+    "videos/vid-guia-personagem/frames/f3.jpg",
+    "videos/vid-guia-personagem/frames/f4.jpg",
+    "videos/vid-guia-personagem/frames/f5.jpg"
+   ]
+  }
+ ]
+}

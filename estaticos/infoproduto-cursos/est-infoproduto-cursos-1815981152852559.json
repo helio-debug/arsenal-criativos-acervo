@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1815981152852559",
+  "tipo": "estatico",
+  "titulo": "Aulas de desenho com personagem de mangá e benefícios",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Ilustração de um jovem desenhando domina o lado direito sobre fundo rosa e amarelo. À esquerda, título em letras gestuais e quatro benefícios com ícones apresentam aulas on-line de mangá.",
+  "por_que_funciona": [
+    "O personagem desenhando demonstra o tema das aulas por meio da própria linguagem do mangá.",
+    "“CELULAR” e “MANGÁ” em rosa forte concentram a atenção na chamada.",
+    "Os quatro ícones separam os benefícios em unidades fáceis de percorrer.",
+    "A faixa vermelha inferior dirige a ação aos responsáveis, conectando a aula ao interesse pelo desenvolvimento dos filhos."
+  ],
+  "quando_usar": "Para apresentar aulas de desenho on-line a responsáveis por crianças e adolescentes interessados em mangá.",
+  "estrutura_texto": "EM VEZ DE [Hábito concorrente],\nAULAS DE [Atividade]!\n[Benefício 1 com ícone]\n[Benefício 2 com ícone]\n[Benefício 3 com ícone]\n[Modalidade das aulas]\n[Marca]\n[CTA para responsáveis]",
+  "legenda": "Seu filho gosta de [desenhar ou criar personagens]? Nas aulas de [tema], ele pode praticar [fundamentos] e desenvolver seus próprios projetos com orientação. Conheça a modalidade [on-line], a faixa etária e os horários em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição ilustrada em linguagem de mangá, com personagem original desenhando no lado direito e perspectiva acentuada da mão. Use rosa, amarelo e detalhes vermelhos. No alto à esquerda, título gestual com palavras-chave maiores; abaixo, quatro benefícios curtos com ícones circulares. Finalize com faixa vermelha de CTA para responsáveis. Use a IMAGEM 2 como referência do serviço ou material de aula, sem reproduzir personagens protegidos nem prometer resultados clínicos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1815981152852559",
+    "anunciante": "Escola de Mangá Japan Sunset",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 1,
+    "texto_original": "Seu filho gosta de desenhar, criar personagens e histórias ou é apaixonado por mangás e pela cultura japonesa?\n\nNa Japan Sunset, esse interesse pode se transformar em uma habilidade que ele desenvolve de verdade.\n\nNas aulas, trabalhamos fundamentos do mangá, criação de personagens, expressão, composição e outros elementos importantes para a evolução do desenho.\nMas acreditamos que a arte vai além da técnica. O desenho também pode ser um espaço de expressão, concentração, criatividade e bem-estar, respeitando o ritmo e a forma de aprender de cada aluno.\nE uma ótima maneira de conhecer nosso método é através de uma aula avulsa.\n\nO aluno participa de uma turma, conhece outros alunos, vivencia nosso método e recebe orientações individuais do sensei, de acordo com suas dificuldades e objetivos.\nE a experiência não termina quando a aula acaba: o aluno também sai com uma lição de casa, para continuar praticando e desenvolvendo o que aprendeu.\nAssim, ele pode experimentar na prática como é aprender mangá na Japan Sunset, desenvolver seu desenho e descobrir novas possibilidades através da arte.\n\nClique no link da descrição e agende uma aula avulsa na Japan Sunset.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1815981152852559.jpg"
+}

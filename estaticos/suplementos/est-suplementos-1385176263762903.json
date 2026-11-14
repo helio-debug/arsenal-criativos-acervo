@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1385176263762903",
+  "tipo": "estatico",
+  "titulo": "Quatro proteínas comparadas em colunas",
+  "formato": "Comparativo",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo vermelho com título grande no topo e quatro potes alinhados. Cada produto aparece sobre uma coluna clara com características que facilitam a comparação.",
+  "por_que_funciona": [
+    "Quatro colunas com a mesma largura organizam a escolha entre produtos.",
+    "Os potes posicionados acima das características ligam cada informação à opção correspondente.",
+    "Linhas horizontais separam os critérios e permitem comparar as opções na mesma altura.",
+    "O título anuncia uma escolha orientada à necessidade do comprador."
+  ],
+  "quando_usar": "Para apresentar uma linha de suplementos a quem já conhece a categoria e precisa comparar opções.",
+  "estrutura_texto": "DESCUBRA A [CATEGORIA]\nIDEAL PARA VOCÊ\n[OPÇÃO 1] | [OPÇÃO 2] | [OPÇÃO 3] | [OPÇÃO 4]\n[CARACTERÍSTICAS DE CADA OPÇÃO]",
+  "legenda": "Conheça nossas opções de [categoria]. Compare [composição], [textura] e [características comprovadas] para escolher a que combina com sua rotina. Confira os detalhes em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça fundo vermelho com título branco em caixa alta no terço superior e destaque tipográfico vazado no meio da chamada. Na metade inferior, monte quatro colunas claras iguais, com fotos dos produtos no topo e três linhas curtas de características verificadas. Preserve alinhamento entre os critérios e tamanho de texto legível. Não invente benefícios fisiológicos ou alegações de desempenho.",
+  "alerta_politica": "Suplementos: usar somente alegações autorizadas e compatíveis com a rotulagem; evitar promessas de ganho de massa, emagrecimento, saciedade ou resultados garantidos sem respaldo e autorização aplicáveis. Não atribuir condição de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1385176263762903",
+    "anunciante": "Integralmedica Sports Nutrition",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 4,
+    "texto_original": "Esse é o nosso arsenal de proteínas⚡️\nQual deles faz parte da sua rotina?\nProteínas Integralmedica\nCompre e Aproveite!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1385176263762903.jpg"
+}

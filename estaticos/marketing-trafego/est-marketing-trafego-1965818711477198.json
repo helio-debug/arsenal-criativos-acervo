@@ -1,0 +1,36 @@
+{
+  "id": "est-marketing-trafego-1965818711477198",
+  "tipo": "estatico",
+  "titulo": "Relatório de mercado com manchete em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Notebook com a capa de um relatório no topo e manchete em letras condensadas sobre fundo azul muito escuro. A palavra central aparece em amarelo, cercada de selos azuis.",
+  "por_que_funciona": [
+    "A palavra “RELATÓRIO” em amarelo domina a área central e identifica o material.",
+    "O notebook mostra uma representação do conteúdo que será acessado.",
+    "Os selos “DADOS REAIS” e “SEM ACHISMO” destacam a proposta de pesquisa."
+  ],
+  "quando_usar": "Para apresentar um estudo de mercado a profissionais que buscam referências para avaliar sua atuação.",
+  "estrutura_texto": "[Selo de evidência]\nO PRIMEIRO [TIPO DE MATERIAL]\n[RECORTE DO MERCADO]\nDO [PÚBLICO]\n[Selo de método]\nCHEGOU NO [PAÍS].",
+  "legenda": "Como está o mercado de [área]? Reunimos dados sobre [indicadores pesquisados] em um relatório para [público]. Veja [recortes disponíveis] e compare com a sua realidade. [CTA de acesso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, notebook inclinado no terço superior e manchete central em fonte condensada branca. Destaque o nome do material em amarelo sobre uma faixa azul e distribua pequenos selos azuis com evidências verificáveis. Reserve o rodapé para a identidade do produto. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1965818711477198",
+    "anunciante": "Tintim",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 1,
+    "texto_original": "Você acha que sabe onde está no mercado de tráfego.\n\nMas você tem dados pra provar isso?\n\nO Tintim App mapeou o perfil, o faturamento, as dores e os hábitos dos gestores de tráfego no Brasil inteiro.\n\nE o que a gente encontrou vai te fazer questionar muita coisa que você achava verdade sobre esse mercado.\n\n ➡️ Quanto gestores realmente faturam por faixa de experiência.\n ➡️ O que os que crescem fazem diferente.\n ➡️ E onde a maioria trava sem nem perceber.\n\nTudo com dados primários. Nada de achismo!\n\nÉ o primeiro benchmark real do gestor de tráfego no Brasil, e o Tintim assina embaixo.\n\nO relatório é gratuito.\n\nComenta GESTOR que a gente manda no seu direct.\n\n#gestordetrafego #trafegopago #metaads #relatorio2026 #tintim",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1965818711477198.jpg"
+}

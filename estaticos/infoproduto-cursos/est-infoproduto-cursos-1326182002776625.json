@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1326182002776625",
+  "tipo": "estatico",
+  "titulo": "Curso industrial com foto de aula e faixa salarial",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma foto de duas pessoas diante de uma máquina industrial ocupa o centro, cercada por moldura vermelha. A faixa superior anuncia uma faixa salarial e modalidades, enquanto o rodapé identifica o curso em letras grandes.",
+  "por_que_funciona": [
+    "A fotografia mostra o equipamento e o ambiente de aprendizagem.",
+    "A faixa salarial ocupa as primeiras linhas e chama atenção para o objetivo profissional.",
+    "A indicação de presencial ou online comunica duas modalidades no topo.",
+    "O nome do curso no rodapé usa letras grandes com contorno para identificar a especialidade."
+  ],
+  "quando_usar": "Para apresentar formação industrial com imagem real de aula e modalidades disponíveis; dados salariais precisam de fonte e contexto.",
+  "estrutura_texto": "[PERSPECTIVA PROFISSIONAL COM DADOS VERIFICÁVEIS]\n[FAIXA SALARIAL E FONTE]\nCURSO [MODALIDADES]\n[FOTO DO AMBIENTE DE AULA]\nCurso\n[NOME DA FORMAÇÃO]",
+  "legenda": "Qualifique-se em [área industrial] com aulas [modalidades]. Conheça o programa, os equipamentos utilizados e as próximas turmas. Consulte valores, requisitos e datas em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use layout quadrado com moldura vermelha arredondada, fundo branco e foto ampla de equipamento em ambiente de aula no centro. No topo, posicione chamada amarela com contorno preto e modalidades. No rodapé, destaque o nome do curso em letras grandes laranja com contorno escuro. Substitua promessas salariais por dados comprovados e contextualizados ou por uma chamada factual sobre a formação.",
+  "alerta_politica": "A faixa salarial não deve sugerir emprego ou remuneração garantidos. Informe fonte, região e contexto de qualquer dado de renda e evite associar a conclusão do curso a ganhos certos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1326182002776625",
+    "anunciante": "CNC Treinamentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 GRANDES EMPRESAS como Volvo, Renault, Neodent, Audi dentre outras contratam aqueles que tem em seu curriculo CURSOS na AREA INDUSTRIAL feitos em nossa escola!!!\n\n💰 ÓTIMAS OPORTUNIDADES DE CARREIRA, BONS SALÁRIOS, MAS ANTES É PRECISO QUALIFICAR-SE!!\n\n👊 FAÇA um CURSO com AULAS PRESENCIAIS ou com AULAS ONLINE AO VIVO que poderá MUDAR O RUMO DA SUA VIDA PROFISSIONAL ainda em 2023 !\n\n👆 CLICA NO LINK abaixo DE CADA CURSO ou NAS FOTOS para ver datas de inicio, valores e conteudo:\n\n✅ MECÂNICA BÁSICA INDUSTRIAL\n👉 Se prepare atraves deste curso para ingressar na industria atraves dos módulos de Metrologia, Desenho Técnico, Tecnologia Mecânica e Matemática Industrial \nhttps://www.cnctreinamentos.com.br/mecanica_basica_industrial_13.html\n\n✅ PROGRAMAÇÃO CNC 2D | CENTRO DE USINAGEM E TORNO CNC\n👉 Aprenda a programar, preparar e operar maquinas CNC em um curso prático e dinâmico\nhttps://www.cnctreinamentos.com.br/programacao_cnc_12.html\n\n✅ SOLDADOR INDUSTRIAL | CURSO TOTALMENTE PRÁTICO\n👉 Se torne um especialista em soldagem aprendendo a soldar em 4 processos diferentes\nhttps://www.cnctreinamentos.com.br/soldador_industrial_37.html\n\n✅ TORNEIRO, FRESADOR E AJUSTADOR MECÂNICO aplicado a FERRAMENTARIAS\n👉 Através deste treinamento 100% prático em maquinas industrias você terá condições de trabalhar em ferramentarias e alcançar altos salários\nhttps://www.cnctreinamentos.com.br/torno_fresa_51.html\n\n✅ INSPETOR DE QUALIDADE INDUSTRIAL\n👉 Aprenda uma profissão que está presente em toda industria, curso rápido e dinâmico\nhttps://www.cnctreinamentos.com.br/inspetor_da_qualidade_35.html\n\n✅ MECÂNICA INDUSTRIAL GERAL\n👉 Neste curso você terá a formação completa e prática nas areas de usinagem convencional, usinagem CNC, projetos mecânicos e soldagem\nhttps://www.cnctreinamentos.com.br/mecanica_geral_54.html\n\n✅ TECNICO EM USINAGEM CNC \n👉 Uma formação completa para a area Tecnica em Usinagem CNC que visa te tornar um especialista\nhttps://www.cnctreinamentos.com.br/tecnico_em_processos_de_usinagem_27.html\n\n✅ PROJETISTA MECÂNICO EM SOLIDWORKS \n👉 Formação Completa em SolidWorks, do nivel basico ao avançado\nhttps://www.cnctreinamentos.com.br/projetista_mecanico_38.html\n\n✅ POWERMILL CAD/CAM/ CNC 3D\n👉 Curso voltado a fresamento CNC 3 eixos através do software CAM mais utilizado no mundo para esta finalidade\nhttps://www.cnctreinamentos.com.br/powermill_47.html\n\n✅ POWERMILL AVANÇADO | TORNO CNC | 4 EIXOS | FERRAMENTA ACIONADA\n👉 Aprenda recursos avançados e torne-se um especialista no PowerMill\nhttps://cnccursos.com.br/cursos/powermill/\n\n✅ PROGRAMAÇÃO CNC PARAMETRIZADA | 2D AVANÇADO\n👉 Neste curso você aprenderá os segredos mais bem guardados por programadores CNC experientes vendo exemplos de diversos comandos CNC como Simiens, Fanuc dentre outros\nhttps://cnccursos.com.br/curso/cnc-parametrizado/\n\n✅ EDGECAM CAD/CAM/ CNC 3D \n👉 Se torne um especialista em programação CNC 3D aprendendo a modelar peças e gerar programas CNC para Tornos CNC e Centro de Usinagem através do EdgeCam\nhttps://www.cnctreinamentos.com.br/edgecam_29.html\n\n✅ SOLIDWORKS NIVEL 1 | CAD 3D \n👉 Aprenda a gerar desenhos 3D, desenhos 2D e criar conjuntos mecânicos\nhttps://www.cnctreinamentos.com.br/solidworks_i_48.html\n\n✅ SOLIDWORKS AVANÇADO NIVEL II | CHAPAS METALICAS E SOLDAGEM\n👉 Modelagem e Montagem Avançada de Peças, Chapas Metálicas e Soldagem \nhttps://www.cnctreinamentos.com.br/solidworks_ii_49.html\n\n✅ SOLIDWORKS AVANÇADO NIVEL III | MOLDES E SUPERFICIES\n👉 Recursos de Superficie e Construir Moldes de Fundição, Extrusão, Injeção \nhttps://www.cnctreinamentos.com.br/solidworks_iii_55.html\n\n✅ SOLIDWORKS AVANÇADO NIVEL IV | SIMULATION\n👉 Neste módulo você aprenderá a utilizar ferramentas de analiseque vão lhe permitir testar novas idéias digitalmente\nhttps://www.cnctreinamentos.com.br/solidworks_iv_82.html\n\n✅ SOLIDWORKS CAM (SOLIDCAM) CAD/CAM/ CNC 3D\n👉 Aprenda a gerar programas CNC 3D atraves do SolidCam, somos representante oficial do software para treinamentos\nhttps://www.cnctreinamentos.com.br/solidcam_72.html\n\n✅ MASTERCAM CAD/CAM/ CNC 3D\n👉 Se torne um especialista em programação CNC 3D aprendendo a modelar peças e gerar programas CNC para Tornos CNC e Centro de Usinagem através do MasterCam\nhttps://cnccursos.com.br/curso/mastercam\n\n📚 Conheça outros cursos ministrados por nossa escola acessando nosso site:\nhttps://www.cnctreinamentos.com.br",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1326182002776625.jpg"
+}

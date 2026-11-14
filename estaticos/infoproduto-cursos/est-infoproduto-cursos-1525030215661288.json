@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1525030215661288",
+  "tipo": "estatico",
+  "titulo": "Mestrado internacional com destaque para bolsas",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Texto sobre mestrado e bolsas ocupa a área branca à esquerda. À direita, foto de duas estudantes recebe filtro azul; uma faixa ciano inferior apresenta a instituição.",
+  "por_que_funciona": [
+    "O título preto informa formação e destino em duas linhas.",
+    "As faixas verdes destacam a possibilidade de bolsa.",
+    "A informação de dupla titulação aparece acima do título como credencial.",
+    "A foto com pastas e ambiente universitário contextualiza a experiência de estudo."
+  ],
+  "quando_usar": "Para divulgar formação internacional com processo de candidatura e bolsas disponíveis.",
+  "estrutura_texto": "[credencial acadêmica]\nEstude [formação] em [destino]\nCandidate-se a [bolsas]\n[entidade responsável, se autorizada]\n+ [apoio de carreira]\n[tipo de instituição]",
+  "legenda": "Conheça [formação] em [destino], com [titulação]. Consulte os critérios para [bolsas] e as condições de [apoio de carreira]. Saiba como se candidatar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a parte superior entre texto à esquerda sobre fundo branco e foto acadêmica da IMAGEM 2 à direita com filtro ciano. Use título preto, credencial em ciano e faixas verdes para bolsas. Complete com faixa ciano inferior. Só apresente parceria institucional, titulação e bolsas comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1525030215661288",
+    "anunciante": "Next Educación",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 2,
+    "texto_original": "Gostaria de ESTUDAR um MASTER em MADRI?\n✅ Curso Intensivo de Espanhol gratuito incluído\n✅ Aprender com profissionais de sucesso que ENSINAM a partir da sua EXPERIÊNCIA PROFISSIONAL",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1525030215661288.jpg"
+}

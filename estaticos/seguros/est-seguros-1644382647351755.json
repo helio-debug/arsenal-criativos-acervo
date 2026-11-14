@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1644382647351755",
+  "tipo": "estatico",
+  "titulo": "Três categorias de seguro em uma cena cotidiana",
+  "formato": "novo:Cena cotidiana com chamada",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Uma mulher sorri enquanto usa o celular sentada em um banco ao ar livre. Uma frase branca na parte inferior reúne seguro de carro, casa e vida.",
+  "por_que_funciona": [
+    "O celular e o banco criam uma cena de uso cotidiano fácil de reconhecer.",
+    "A chamada curta reúne três necessidades em uma única leitura.",
+    "O texto branco tem contraste com a roupa e a região escurecida da foto."
+  ],
+  "quando_usar": "Para divulgar um portfólio de seguros em uma campanha de reconhecimento.",
+  "estrutura_texto": "[Marca]\nSeguros para [bem 1], [bem 2] e [proteção pessoal].\n[Informações legais]",
+  "legenda": "Com [seguros adequados às suas necessidades], fica mais simples planejar [rotina]. Fale com [corretor] e conheça opções para [carro], [casa] e [vida].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de uma pessoa adulta sorrindo enquanto consulta o celular em um banco externo, com luz natural e fundo suave. Posicione identidade própria no alto à esquerda e uma chamada curta branca em duas linhas no terço inferior. Reserve rodapé para informações legais legíveis.",
+  "alerta_politica": "Em anúncios de seguro, apresente coberturas, exclusões, elegibilidade e condições de contratação com clareza. Não prometa proteção irrestrita ou indenização garantida; mantenha informações regulatórias e condições da oferta legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1644382647351755",
+    "anunciante": "Allianz Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-02",
+    "dias_no_ar": 43,
+    "variacoes_ativas": 2,
+    "texto_original": "Quem tem seguros Allianz, está pronto para viver o melhor com mais tranquilidade. \nPeça para o seu corretor!\nSeguros Allianz",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1644382647351755.jpg",
+  "formato_novo_def": "Fotografia encenada de uma situação cotidiana, com chamada sobreposta que liga a cena a uma solução ou mensagem de marca."
+}

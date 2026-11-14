@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-2393782127791377",
+  "tipo": "estatico",
+  "titulo": "Equipamentos para treino em casa e academia",
+  "formato": "Comparativo",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Composição escura dividida entre academia doméstica e profissional, com vários acessórios no chão. Títulos e selos em verde-limão destacam variedade de equipamentos e condições de compra.",
+  "por_que_funciona": [
+    "A divisão vertical organiza os equipamentos por ambiente de uso.",
+    "As setas ligam cada título ao cenário correspondente.",
+    "O verde-limão destaca as chamadas sobre os ambientes escuros.",
+    "Os acessórios expostos mostram a amplitude do catálogo."
+  ],
+  "quando_usar": "Divulgação de catálogo de equipamentos para públicos que treinam em ambientes diferentes.",
+  "estrutura_texto": "[Nome da seleção]\n[Promessa de variedade]\n[Ambiente A] | [Ambiente B]\n[Equipamentos para diferentes níveis]\n[Entrega]\n[Pagamento]\n[Garantia]\n[CTA]",
+  "legenda": "Encontre ofertas de [equipamentos e acessórios] para [ambientes de treino]. Acompanhe [frequência de atualização] em [grupo/canal] e consulte [condições de cada vendedor]. Entre por [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição dividida em dois ambientes: espaço doméstico à esquerda e academia à direita. Distribua os equipamentos fornecidos pelo primeiro plano. Use fundo escuro, títulos brancos e verde-limão, setas desenhadas e selo central de variedade. Na base, apresente apenas entrega, pagamento e garantia que possam ser comprovados.",
+  "alerta_politica": "Meta: evitar prometer transformação corporal ou resultados físicos garantidos e evitar constranger o público pela aparência. Condições de entrega, segurança do pagamento e garantia devem ser verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2393782127791377",
+    "anunciante": "Achadinhos Fitnes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-01",
+    "dias_no_ar": 197,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer economizar de verdade em suplementos, equipamentos e roupas fitness? 💪🔥\n\nNo Achadinhos Fitness, eu posto diariamente promoções reais do Mercado Livre e Shopee, com descontos que somem rápido!\n\n📦 Whey, creatina, pré-treino\n🏋️ Equipamentos e acessórios\n👕 Roupas fitness\n💥 Cupons atualizados todos os dias\n\n👉 Entre no grupo e pare de pagar caro!\n🔥 Achadinhos Fitness com Descontos Reais\nOfertas fitness atualizadas diariamente • Suplementos, equipamentos e roupas com desconto • Grupo gratuito",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-2393782127791377.jpg"
+}

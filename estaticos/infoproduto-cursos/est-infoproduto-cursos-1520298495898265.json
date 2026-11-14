@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1520298495898265",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com público e benefícios em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo creme com curvas vermelhas e laranjas enquadra um painel branco com título, faixa do curso e cinco benefícios com ícones. Uma jovem sorridente ocupa a metade inferior, com o botão de ação sobre a foto.",
+  "por_que_funciona": [
+    "A faixa etária explicita o público do curso.",
+    "Os cinco blocos com ícones apresentam benefícios em unidades fáceis de percorrer.",
+    "O bloco de gratuidade reduz a dúvida sobre o custo.",
+    "O botão branco sobre a camiseta colorida dá destaque à ação."
+  ],
+  "quando_usar": "Para captar inscrições de um público bem delimitado em cursos gratuitos de preparação profissional.",
+  "estrutura_texto": "[Objetivo] sem [pré-requisito]?\n[Chamada curta]\nCurso [nome]\nPara [público e faixa etária]\n[Benefícios em cinco blocos]\nCOMEÇAR AGORA",
+  "legenda": "Prepare-se para [objetivo profissional] com o curso [nome]. Para [público], com [formato das aulas], [certificado] e acesso a [oportunidades verificáveis]. Inscrição gratuita em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme com curvas largas vermelhas e laranjas nas bordas. No terço superior, monte um painel branco arredondado com título em caixa alta, faixa colorida para o nome do curso, público e cinco pequenos blocos de benefícios com ícones. Na metade inferior, destaque uma pessoa da IMAGEM 2 e sobreponha um botão branco com texto vermelho. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Não prometa contratação ou colocação garantida. Se houver vagas de emprego vinculadas, observe as regras da Meta para anúncios de emprego e suas restrições de segmentação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1520298495898265",
+    "anunciante": "TAQE",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-26",
+    "dias_no_ar": 353,
+    "variacoes_ativas": 2,
+    "texto_original": "Cansado de enviar currículo e não ter resposta? O Coletivo Coca-Cola Jovem é a sua porta de entrada para o mercado! \n\nCom um curso focado nas habilidades que o futuro exige, você se prepara de verdade. \n\nO MELHOR: Conexão direta com +400 empresas parceiras! 🤯 Idade: 18 a 29 anos. 100% Gratuito! Clique e garanta sua vaga. É hora de começar a carreira!\nCurso gratuito em parceria com o Instituto Coca-Cola",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1520298495898265.jpg"
+}

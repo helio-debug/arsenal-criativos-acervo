@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-2472975496529864",
+  "tipo": "estatico",
+  "titulo": "Foto ao volante com coberturas e preço mensal",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma motorista ocupa a parte superior, com quatro ícones de coberturas na base da foto. Na área branca inferior, uma pergunta grande precede o preço mensal e o convite à cotação.",
+  "por_que_funciona": [
+    "A foto ao volante apresenta o contexto de uso do seguro.",
+    "Os quatro ícones traduzem as coberturas em itens fáceis de localizar.",
+    "O preço em corpo grande ganha prioridade na metade inferior.",
+    "A observação no topo explicita fatores que podem alterar o valor."
+  ],
+  "quando_usar": "Para captar pedidos de cotação de seguro auto quando há preço inicial aprovado e coberturas definidas.",
+  "estrutura_texto": "[Ressalva sobre variação de preço]\n[Cobertura 1] | [Cobertura 2] | [Cobertura 3] | [Serviço]\n[Pergunta sobre proteção do veículo]\n[Benefício]\nA partir de [valor]\n[Periodicidade e condição]\n[CTA de cotação]",
+  "legenda": "Conte com [coberturas contratadas] e [assistência] no seguro do seu [veículo]. Há opções a partir de [valor]/mês, conforme [perfil e condições]. Solicite uma cotação para conhecer valores e coberturas disponíveis para você. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça entre foto contextual na parte superior e área branca de oferta na inferior. Use a IMAGEM 2 para representar o produto ou serviço em contexto automotivo. Sobre a base da foto, alinhe quatro ícones brancos com nomes das coberturas. Abaixo, destaque título preto com uma palavra azul, preço grande à esquerda e identidade própria à direita. Inclua CTA e ressalva de preço legível. Evite ameaças exageradas ou garantia de proteção contra qualquer evento.",
+  "alerta_politica": "Meta: apresente preço inicial, descontos, parcelamento e coberturas com condições claras e comprováveis. Informe que a contratação depende de cotação, perfil, análise de risco e condições da apólice; não sugira cobertura universal ou aprovação garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2472975496529864",
+    "anunciante": "Segcorp Corretora de Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-27",
+    "dias_no_ar": 79,
+    "variacoes_ativas": 1,
+    "texto_original": "🚗 Imprevistos acontecem. Estar protegido faz toda a diferença.\n\nCom o Seguro Auto Porto, você conta com segurança e assistência para dirigir com mais tranquilidade todos os dias.\n\n✅ Assistência 24 horas\n✅ Proteção contra roubo e furto\n✅ Cobertura para perda total\n✅ Serviço de guincho\n✅ Planos a partir de R$ 157,99 por mês\n\nNão espere um imprevisto acontecer para proteger o seu carro.\n\n📲 Clique no botão, solicite agora sua cotação e encontre a melhor opção para o seu veículo!\n\n*Valor sujeito ao perfil do condutor, modelo e ano do veículo, região, coberturas contratadas e análise da seguradora.*",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-2472975496529864.jpg"
+}

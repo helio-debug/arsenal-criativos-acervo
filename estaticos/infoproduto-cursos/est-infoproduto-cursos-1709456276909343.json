@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1709456276909343",
+  "tipo": "estatico",
+  "titulo": "Pós online com tema central em faixas coloridas",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Bloco superior com degradê rosa e vinho destaca o tema da pós em letras brancas. A faixa inferior branca traz chamada profissional e seta magenta.",
+  "por_que_funciona": [
+    "O descritor acima do título informa de imediato a modalidade da formação.",
+    "As faixas magenta destacam os assuntos principais do curso.",
+    "A divisão entre fundo colorido e base branca organiza tema e chamada."
+  ],
+  "quando_usar": "Para apresentar o escopo de uma pós a profissionais interessados em formação sobre inclusão.",
+  "estrutura_texto": "Pós-graduação online em [tema]\n[Assuntos e contextos de aplicação]\n[Chamada sobre formação profissional]\n[Contribuição esperada do aprendizado]",
+  "legenda": "Especialize-se em [tema] com uma formação voltada a [aplicações profissionais]. Conheça [metodologia], [rotina de aulas] e [certificação]. Consulte [condição promocional] e o prazo de inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça em bloco superior de degradê rosa, vinho e preto e base branca. Use um descritor acima do título branco grande, dividido em três linhas com faixas magenta arredondadas. Na base, insira chamada preta, complemento curto, seta circular magenta à esquerda e selo tipográfico discreto à direita. Não use imagens clínicas nem promessas de resultado terapêutico.",
+  "alerta_politica": "Ao abordar TEA e TDAH, anuncie a formação sem atribuir diagnósticos ao público nem prometer cura ou resultados terapêuticos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1709456276909343",
+    "anunciante": "pospucprdigital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-20",
+    "dias_no_ar": 147,
+    "variacoes_ativas": 2,
+    "texto_original": "O mesmo curso. A mesma excelência. Agora, um novo valor. \nA Pós PUCPR Digital mudou o preço para você mudar de nível. \nPor tempo limitado, você garante sua pós-graduação com até 35% OFF, sem abrir mão do que realmente importa: professores de excelência, formação prática, aulas conforme a sua rotina e certificação em uma das melhores universidades privadas do país. \n  \nInscreva-se já, pois o tempo é limitado.\nNão Perca Mais tempo\nEspecializese com foco prático",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1709456276909343.jpg"
+}

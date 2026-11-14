@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1658076182104618",
+  "tipo": "estatico",
+  "titulo": "Catálogo de pós com requisito de graduação em destaque",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte de fundo branco lista cursos de pós-graduação em letras pretas e destaca em vermelho a exigência de graduação. Ilustração de criança jogando bola ocupa a direita; preço e contato ficam na base.",
+  "por_que_funciona": [
+    "O título preto de grande tamanho identifica a área do catálogo.",
+    "O aviso vermelho explicita o requisito de entrada antes da lista.",
+    "Os marcadores separam as especializações disponíveis.",
+    "O preço e o ícone de contato no rodapé mostram o caminho para matrícula."
+  ],
+  "quando_usar": "Para captar interessados em especializações com requisito acadêmico definido e atendimento por mensagem.",
+  "estrutura_texto": "[IDENTIFICAÇÃO DA INSTITUIÇÃO]\nPÓS-GRADUAÇÃO em [ÁREA]\nATENÇÃO: é necessário ser [REQUISITO]\n• [CURSOS]\nApenas [PREÇO] mensais via [PAGAMENTO]\nClique no nosso link do [CANAL]\n[CREDENCIAMENTO COMPROVADO]",
+  "legenda": "Já concluiu [graduação exigida]? Conheça as pós-graduações em [área], com aulas [modalidade] e duração de [prazo]. Mensalidades de [preço], nas condições [condições]. Fale com [canal] para consultar os cursos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco levemente texturizado, identificação da instituição no canto superior e título preto grande. Destaque o requisito acadêmico em vermelho, distribua a lista de cursos à esquerda e ilustração esportiva original à direita. No rodapé coloque preço, forma de pagamento e chamada para contato com ícone verde. Use somente alegações de credenciamento comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1658076182104618",
+    "anunciante": "Instituto EADe",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-14",
+    "dias_no_ar": 184,
+    "variacoes_ativas": 1,
+    "texto_original": "Conquiste a sua PÓS em EDUCAÇÃO FÍSICA por apenas R$89,90/mês com os cursos de Pós-Graduação EAD da Faculdade Faveni - Nota Máxima no MEC.\n\n✅ Vários cursos na área;\n✅ 100% Online com duração de 6 meses.\n✅ Nota máxima no MEC.\n\nMas CORRA: São as últimas vagas!\nWHATSAPP\nPara GRADUADOS\nTCC Opcional",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1658076182104618.jpg"
+}

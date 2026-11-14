@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1899939737660941",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação sobre foto de atendimento",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de duas pessoas em um posto de atendimento ocupa a parte superior. Título branco apresenta uma pós-graduação EAD e blocos pretos de texto se sobrepõem a uma base azul.",
+  "por_que_funciona": [
+    "A foto com computador e headset situa o curso no contexto de atendimento.",
+    "A indicação de pós-graduação EAD esclarece o nível e a modalidade antes do benefício.",
+    "Os blocos pretos recortam as frases e aumentam o contraste na base azul."
+  ],
+  "quando_usar": "Para divulgar uma especialização a profissionais que atuam com atendimento, experiência ou gestão de clientes.",
+  "estrutura_texto": "PÓS-GRADUAÇÃO [MODALIDADE]\n[NOME DO CURSO]\n[Benefício na experiência do consumidor]\nAprenda a [competência] e [aplicação profissional].",
+  "legenda": "Aprenda estratégias para [objetivo profissional] em [curso]. Conheça a proposta de formação para criar conexões entre [organizações] e [clientes], com foco em [competências].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto de ambiente de trabalho com computador e headset nos dois terços superiores. A IMAGEM 2 deve orientar o contexto do curso ou sua identidade visual. Insira a modalidade em letra branca de aspecto manuscrito e o nome do curso em caixa alta branca. Na base azul, distribua frases curtas em faixas pretas com texto branco alinhado à esquerda.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1899939737660941",
+    "anunciante": "Senac EAD",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-13",
+    "dias_no_ar": 32,
+    "variacoes_ativas": 1,
+    "texto_original": "Crie soluções criativas, éticas e sustentáveis para captar, manter e fidelizar clientes.\nAprenda a criar conexões reais entre marcas e clientes com estratégias e inovação.\nCrie soluções criativas, éticas e sustentáveis para captar, manter e fidelizar clientes.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1899939737660941.jpg"
+}

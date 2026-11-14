@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-1349769037211776",
+  "tipo": "estatico",
+  "titulo": "Personal e nutricionista com aplicativo e preço mensal",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "servico-online",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de profissional ocupa a direita sobre fundo preto. À esquerda, chamada verde e branca, preço e celular com treinos e alimentação apresentam o serviço combinado.",
+  "por_que_funciona": [
+    "O título verde-limão destaca a modalidade online sobre o fundo preto.",
+    "A linha de nutricionista mostra a inclusão de outro atendimento no pacote.",
+    "O celular inclinado torna visível a entrega por aplicativo.",
+    "O botão verde largo fecha a composição com uma ação clara."
+  ],
+  "quando_usar": "Para divulgar acompanhamento online que combina treino e nutrição, com profissionais habilitados.",
+  "estrutura_texto": "PERSONAL ONLINE\n+ [PROFISSIONAL COMPLEMENTAR]\nPOR MENOS DE [PREÇO]/mês\n[INTERFACE DO SERVIÇO]\n[DIFERENCIAIS COMPROVÁVEIS]\nCLIQUE EM SAIBA MAIS",
+  "legenda": "Tenha acompanhamento de [profissional de treino] e [profissional de nutrição] por [preço e condições]. Receba [entregas] pelo [aplicativo], com suporte [frequência]. Clique para saber como funciona.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho verde discreto, retrato autorizado do profissional à direita e título condensado branco e verde-limão à esquerda. Destaque o serviço combinado e o preço abaixo. Adicione celular inclinado com interface original e legível de treino e alimentação, pequenos ícones de benefícios e botão verde no rodapé. Use apenas benefícios comprováveis e não prometa resultados garantidos.",
+  "alerta_politica": "Evite atribuir condições de saúde ou insatisfação corporal ao público, prometer emagrecimento ou resultados garantidos e usar antes e depois de corpo. Descreva o acompanhamento e as condições reais do serviço. Orientações nutricionais individualizadas devem ser prestadas por profissional habilitado; não use alegações de resultados comprovados sem evidências.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1349769037211776",
+    "anunciante": "Musculação Online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "Treine com um personal trainer com suporte diário por menos de R$ 100,00 ao mês",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-1349769037211776.jpg"
+}

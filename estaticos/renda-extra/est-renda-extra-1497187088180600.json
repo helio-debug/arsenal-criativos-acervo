@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1497187088180600",
+  "tipo": "estatico",
+  "titulo": "Convite para indicar imóveis com dinheiro em movimento",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo claro com chamada no alto e mulher sorrindo na metade inferior, cercada por notas de dinheiro. Texto apresenta uma oportunidade de indicação de imóveis.",
+  "por_que_funciona": [
+    "A frase manuscrita no topo destaca o benefício de aumentar a renda.",
+    "O trecho em negrito identifica a ação concreta: indicar imóveis.",
+    "Notas ao redor da personagem tornam a recompensa financeira visível.",
+    "O rodapé remete ao regulamento e ao endereço de participação."
+  ],
+  "quando_usar": "Programas de indicação que precisam explicar a oportunidade antes de apresentar as regras.",
+  "estrutura_texto": "[Benefício de renda]\nindicando [objeto da indicação]\npara [finalidade] na [marca].\n*Consulte [regulamento]\n[site]",
+  "legenda": "Indique [tipo de imóvel] para [serviço]. Você recebe [valor inicial] quando [condição] e mais [valor adicional] quando [condição final]. Consulte [regulamento] e participe em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme com luz suave, chamada manuscrita roxa no topo e duas linhas em fonte sem serifa abaixo, destacando a ação em negrito. Posicione uma pessoa sorrindo na metade inferior, com notas ilustrativas ao redor. Reserve rodapé para marca, endereço e regulamento. Não invente valores.",
+  "alerta_politica": "Meta: não prometer renda garantida nem resultados típicos sem comprovação. Explique condições, custos e critérios de pagamento; valores e ganhos potenciais devem ser verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1497187088180600",
+    "anunciante": "Apolar Imóveis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-12",
+    "dias_no_ar": 367,
+    "variacoes_ativas": 1,
+    "texto_original": "Indique imóveis para a Apolar Locação e aumente sua renda!\n\n➡️ Indique um imóvel residencial pelo site ou compartilhando seu link.\n➡️ Assim que o imóvel for anunciado, você ganha R$ 200,00.\n➡️ Quando ele for alugado, recebe mais R$ 300,00!\n\nÉ rápido, é simples, é dinheiro na conta! 🔥\n\n#ApolarLocação #IndiqueEGanhe #RendaExtra #GanheDinheiro\n💸 Quer ganhar até R$ 500,00?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1497187088180600.jpg"
+}

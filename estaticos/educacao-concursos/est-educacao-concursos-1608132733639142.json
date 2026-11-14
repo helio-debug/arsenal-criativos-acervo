@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1608132733639142",
+  "tipo": "estatico",
+  "titulo": "Preparação extensiva com livro em chamas",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Um livro aberto com efeito de fogo ocupa o topo; linhas diagonais alaranjadas atravessam o fundo escuro. O centro reúne modalidade, sigla do concurso, chamada de início e endereço de acesso.",
+  "por_que_funciona": [
+    "O livro com fogo cria um ponto de atenção no topo.",
+    "A sigla laranja em grande escala identifica o concurso preparado.",
+    "O selo de preparação extensiva define o tipo de oferta.",
+    "A chamada de início aparece acima da modalidade e do site, conduzindo a leitura para o acesso."
+  ],
+  "quando_usar": "Para divulgar um preparatório extensivo a candidatos com objetivo de concurso definido.",
+  "estrutura_texto": "[Preparação extensiva]\n[Concurso-alvo]\n[Proposta de preparação]\n[Comece hoje]\n[Curso online]\n[Site]",
+  "legenda": "Organize sua preparação para [concurso] com conteúdos específicos e [simulados]. Conheça o [curso extensivo] e confira [programa e condições] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça composição vertical com livro aberto e efeito de brasas na faixa superior. Use fundo preto e marrom com diagonais luminosas laranja. Centralize selo contornado de modalidade, sigla grande em laranja, pequena frase de apoio, chamada de início e indicação de curso online. Coloque site em cápsula pequena abaixo. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1608132733639142",
+    "anunciante": "Escola Trabalhista",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-06",
+    "dias_no_ar": 222,
+    "variacoes_ativas": 1,
+    "texto_original": "Uma preparação sólida faz a diferença.\n\nCom nosso curso, você terá acesso a conteúdos específicos e simulados para o MPT.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1608132733639142.jpg"
+}

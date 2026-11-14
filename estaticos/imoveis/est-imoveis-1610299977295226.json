@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1610299977295226",
+  "tipo": "estatico",
+  "titulo": "Dado de pesquisa sobre expansão urbana",
+  "formato": "Alerta e educação",
+  "nicho": "imoveis",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Vista aérea de loteamento com áreas verdes ocupa a imagem. Na metade inferior escurecida, uma chamada destaca um percentual em laranja e a conclusão em branco, com alguns trechos em negrito.",
+  "por_que_funciona": [
+    "A fotografia aérea mostra o tipo de desenvolvimento urbano discutido.",
+    "O percentual laranja abre a leitura com um dado específico.",
+    "O negrito destaca quem foi ouvido e a conclusão sobre grandes centros.",
+    "O degradê escuro preserva a imagem e dá contraste ao texto."
+  ],
+  "quando_usar": "Para especialistas em mercado imobiliário que divulgam pesquisas e tendências a executivos do setor.",
+  "estrutura_texto": "[Percentual] de [grupo pesquisado] acreditam que [tendência]\n[Conclusão em destaque]\n[Assinatura]",
+  "legenda": "Segundo [pesquisa, data e universo], [percentual] de [grupo] apontam [tendência]. O dado merece análise de [condições de mercado] antes de orientar [decisão de desenvolvimento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia aérea da IMAGEM 2 ou contexto coerente com o produto, preenchendo o quadro. Aplique degradê preto inferior, pequeno traço laranja acima do texto, percentual grande em laranja e texto branco alinhado à esquerda. Alterne peso regular e negrito para destacar conclusão. Inclua espaço discreto para fonte e assinatura; não reutilize o percentual sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1610299977295226",
+    "anunciante": "Gustavo Favaron",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 1,
+    "texto_original": "O dado vem de uma pesquisa realizada durante o GRI Loteamentos & Comunidades Planejadas 2026, com executivos do setor reunidos para discutir o momento do mercado e os próximos movimentos dos loteamentos no Brasil.\n\nE o número chama atenção. Mas a conclusão fácil seria: “então é só ir para o interior.” Não é.\n\nPara 59% dos executivos ouvidos, a demanda fora das grandes cidades já explodiu e virou uma tendência real. Outros 33% enxergam uma fuga consciente de mercados tradicionais saturados. Qualidade de vida, segurança, força do agronegócio e o custo cada vez mais difícil de fechar dos terrenos nas capitais estão mudando o mapa da demanda.\n\nMas aqui está a parte que me interessa: interiorização não transforma automaticamente um empreendimento em uma boa tese imobiliária.\n\nNa mesma pesquisa, 69% dizem que o próximo ciclo de funding deverá privilegiar projetos de alta qualidade, sustentados por teses urbanísticas sólidas. Ou seja: localização continua importando, mas conceito urbano e capacidade de execução passam a pesar ainda mais.\n\nE existe uma contradição interessante no próprio setor: 37% dos executivos ainda enxergam pouca inovação estrutural no produto de urbanismo, enquanto apenas 24% acreditam que houve evolução real baseada em sustentabilidade e infraestrutura.\n\nEntão talvez a grande oportunidade não seja simplesmente sair das capitais, seja construir, nas cidades médias, algo melhor do que aquilo que passamos décadas construindo nos grandes centros. Porque levar para o interior o mesmo modelo urbano (só com mais metros quadrados, paisagismo e uma piscina maior) não é inovação. É apenas mudar o CEP do problema.\n\nA pergunta que eu faria para quem está olhando esse movimento agora é: estamos realmente criando novas cidades ou apenas reproduzindo, em outra escala, os mesmos erros das antigas?",
+    "origem_coleta": "acervo:gri-building-tomorrow"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1610299977295226.jpg"
+}

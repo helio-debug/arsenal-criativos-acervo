@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2061840984413859",
+  "tipo": "estatico",
+  "titulo": "Tabela de concursos com escolaridade e remuneração",
+  "formato": "Comparativo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Montagem de professores ocupa o topo de uma peça azul. A chamada destaca cinco concursos de nível médio, seguida de símbolos dos órgãos e tabela com jornada, escolaridade e remuneração.",
+  "por_que_funciona": [
+    "O número de oportunidades delimita a seleção apresentada.",
+    "A faixa vermelha destaca o argumento de remuneração.",
+    "A tabela permite comparar jornada e valores por concurso.",
+    "O grupo de professores associa a seleção à preparação educacional."
+  ],
+  "quando_usar": "Para cursos preparatórios apresentarem uma seleção atualizada de oportunidades com dados verificáveis em editais.",
+  "estrutura_texto": "[QUANTIDADE] CONCURSOS\n[ESCOLARIDADE]\n[CHAMADA SOBRE REMUNERAÇÃO]\n[ÓRGÃO] | [JORNADA] | [ESCOLARIDADE] | [REMUNERAÇÃO E BENEFÍCIOS]",
+  "legenda": "Confira [quantidade] oportunidades para quem tem [escolaridade], com remuneração e benefícios de até [valor], conforme [editais e datas]. Compare requisitos e jornadas e conheça [curso ou método] em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul escuro texturizado e uma montagem de professores no topo. Abaixo, coloque manchete branca grande e inclinada, com uma faixa vermelha para o destaque de remuneração. Organize cinco identificadores de oportunidades e uma tabela de quatro colunas na metade inferior, alternando linhas brancas e azuis. Priorize legibilidade e informe fonte e data dos valores, sem sugerir aprovação garantida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2061840984413859",
+    "anunciante": "Focus Concursos Públicos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "Que tal conquistar uma vaga em um concurso público com salário de superior? 💼\nConfira os detalhes de 5 oportunidades com salário + benefícios de até R$ 8.719,62! 💰\nTemos opções para Nível Médio em diferentes áreas:\n🔹 Banco do Brasil\n🔹 PRF\n🔹 INSS\n🔹 ATA-MF\n🔹 CAIXA\n\nNão perca tempo! Acesse nosso site e comece já a se preparar com o Método Focus! 📚 #Concursos #FocusConcursos #Oportunidades #Concurseiro",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2061840984413859.jpg"
+}

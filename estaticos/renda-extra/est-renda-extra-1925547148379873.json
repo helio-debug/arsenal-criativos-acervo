@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1925547148379873",
+  "tipo": "estatico",
+  "titulo": "Aplicativo na mão em ambiente de trabalho",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Pessoa de camiseta vermelha segura um celular grande em um mercado. A tela mostra a apresentação da oportunidade, enquanto a chamada branca no topo convida a conhecer o processo de entrada.",
+  "por_que_funciona": [
+    "O celular ampliado permite identificar o aplicativo como caminho de entrada.",
+    "O cenário de mercado contextualiza o tipo de trabalho disponível.",
+    "A chamada superior convida a descobrir como participar.",
+    "A camiseta vermelha e a tela da mesma cor conectam a pessoa à plataforma."
+  ],
+  "quando_usar": "Para explicar a entrada em uma plataforma de oportunidades de trabalho no varejo.",
+  "estrutura_texto": "Descubra como se tornar [participante].\n[Marca]\n[Tela do app]\n[Chamada da oportunidade]\n[Condições e suporte]\n[Botão de avanço]",
+  "legenda": "Para começar em [app], baixe o aplicativo, faça seu cadastro e conclua [etapas exigidas]. Depois, acompanhe as oportunidades em [região] e organize sua disponibilidade conforme as condições de cada atividade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de pessoa sorridente em ambiente de varejo, com camiseta na cor da minha marca e celular em primeiro plano à esquerda. Mostre a interface real da IMAGEM 2 na tela com perspectiva natural. Coloque chamada branca em três linhas no topo esquerdo e identidade própria à direita. Escureça discretamente o fundo para leitura e adicione linhas curvas brancas finas. Não invente benefícios nem telas que sugiram ganhos garantidos.",
+  "alerta_politica": "Meta: benefícios, treinamento gratuito e suporte precisam corresponder ao serviço real. Não garantir renda ou disponibilidade de trabalho. Informar critérios de cadastro e condições de participação; aplicar regras de emprego quando a oferta caracterizar vagas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1925547148379873",
+    "anunciante": "helppi.no.insta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-24",
+    "dias_no_ar": 386,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer fazer parte da Comunidade Helppi?\n\nVeja como começar:\n\n1️⃣ Baixe o app e faça seu cadastro\n2️⃣ Conclua os treinamentos online\n3️⃣ Aguarde sua camiseta oficial\n4️⃣ Acompanhe as oportunidades e organize sua agenda\n\nSimples e no seu tempo! Cada pessoa segue seu caminho por aqui. 🚀",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1925547148379873.jpg"
+}

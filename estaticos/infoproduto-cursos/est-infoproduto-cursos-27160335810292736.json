@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-27160335810292736",
+  "tipo": "estatico",
+  "titulo": "Combo de pós com parcela e lista de facilidades",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Oferta de três pós em caixa azul com parcela amarela, acompanhada por lista de benefícios. Uma mulher segurando material de estudo ocupa a metade direita.",
+  "por_que_funciona": [
+    "O preço amarelo sobre azul escuro concentra a atenção na condição de pagamento.",
+    "A expressão “3 PÓS” torna visível a quantidade incluída no pacote.",
+    "Os checks amarelos facilitam a leitura das condições de estudo.",
+    "A pessoa com material didático mostra um elemento concreto associado à formação."
+  ],
+  "quando_usar": "Para campanhas de matrícula em que pacote, parcelamento e condições acadêmicas já estejam definidos.",
+  "estrutura_texto": "[Categoria da formação]\n[Modalidade]\n[Prova social verificável]\n[Quantidade de cursos]\n[Parcelas e preço por unidade]\n[Condição de pagamento]\n[Credenciamento verificável]\n[Benefícios acadêmicos]\n[Prazo da oferta]",
+  "legenda": "Conheça o pacote de [quantidade] especializações em [modalidade]. Estude com [recursos] e confira as condições de [conclusão e trabalho final]. Parcelamento de [condição completa]. Consulte cursos disponíveis, regulamento e prazo da oferta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com elementos arquitetônicos muito claros, título azul-petróleo no topo e etiqueta amarela para modalidade. À esquerda, monte caixa azul com quantidade de cursos, parcela grande amarela e condições legíveis. Abaixo, inclua três benefícios com checks amarelos. À direita, use pessoa com material de estudo da IMAGEM 2, se disponível. Inclua faixa amarela de prazo. Só reproduza prova social e credenciamento se fornecidos e comprováveis.",
+  "alerta_politica": "Apresente preço por curso, quantidade de parcelas e custo total sem ambiguidade. Use alegações de credenciamento e reconhecimento educacional apenas quando comprováveis e corretamente atribuídas; evite a afirmação genérica de que alunos são certificados pelo órgão regulador.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "27160335810292736",
+    "anunciante": "Facuminas Curso Pós EAD",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-21",
+    "dias_no_ar": 146,
+    "variacoes_ativas": 1,
+    "texto_original": "Não perca a chance de se destacar com uma pós-graduação da Facuminas, instituição aprovada pelo MEC e com inúmeras vantagens:\n\n✅ 100% EaD \n✅ Conclusão rápida\n✅ TCC Opcional \n✅ Início Imediato \n\nInscreva-se já! 🎯",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-27160335810292736.jpg"
+}

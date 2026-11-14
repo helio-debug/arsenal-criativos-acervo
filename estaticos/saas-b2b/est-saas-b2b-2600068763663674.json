@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2600068763663674",
+  "tipo": "estatico",
+  "titulo": "Histórico de jogadas demonstrado em faixa diagonal",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Arte azul e roxa apresenta uma ferramenta de histórico de ações para pôquer. Uma faixa diagonal de registros com tempos aparece entre ampulhetas tridimensionais e moedas.",
+  "por_que_funciona": [
+    "Os registros com segundos tornam visível a função de histórico temporal.",
+    "A faixa diagonal ampliada dá destaque à interface em vez de apenas citar o recurso.",
+    "As ampulhetas reforçam a leitura de tempo real.",
+    "O título superior informa o benefício antes dos elementos de demonstração."
+  ],
+  "quando_usar": "Para demonstrar um recurso de software voltado a jogadores de pôquer que acompanham várias mesas.",
+  "estrutura_texto": "Acompanhe cada [ação]\nHistórico de [ações] em tempo real com [ferramenta]\n[Registro de ação] [tempo]\n[Demais registros]",
+  "legenda": "Acompanhe o histórico de [ações] em tempo real com [ferramenta]. Consulte [registros com tempo] e [histórico por mesa] enquanto usa [ambiente compatível]. Conheça o recurso em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo em gradiente azul e roxo, título branco centralizado no topo e recorte ampliado da interface da IMAGEM 2 atravessando a metade inferior em diagonal. Evidencie registros e tempos reais fornecidos, sem inventar métricas. Adicione ampulhetas 3D como apoio e poucos elementos ligados ao contexto do produto. Preserve o foco na funcionalidade e não prometa ganhos em jogos.",
+  "alerta_politica": "Meta: avaliar as regras para promoção de jogos de azar e ferramentas associadas a pôquer, incluindo eventual autorização e restrição etária e territorial. Não prometer ganhos, vantagem garantida ou recuperação de perdas; verificar também as regras das plataformas em que o software é usado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2600068763663674",
+    "anunciante": "JurojinPoker",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-16",
+    "dias_no_ar": 394,
+    "variacoes_ativas": 1,
+    "texto_original": "Com o Jurojin Poker, mantenha-se afiado e no controle com sobreposições de histórico de ações em tempo real em todas as mesas.\nSem adivinhações. Sem jogadas perdidas.\n✅ Ações com registro de tempo\n✅ Histórico fácil de ler\n✅ Perfeito para multi-mesas\n\n🎯 Veja o que aconteceu, quando aconteceu — tudo enquanto joga.\n\n👉 Clique agora e eleve seu setup.\n👉 Click Now to level up your setup.\nNunca Perca Uma Jogada.\nSeu Histórico de Ações, Ao Vivo.\nWatch More\nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2600068763663674.jpg"
+}

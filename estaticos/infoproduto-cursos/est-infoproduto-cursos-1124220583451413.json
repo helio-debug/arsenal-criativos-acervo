@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1124220583451413",
+  "tipo": "estatico",
+  "titulo": "Capacitação corporativa com três facilidades de contratação",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma divisão diagonal separa o fundo branco do azul profundo. O título atravessa as duas áreas, seguido de três itens com checks e um botão amarelo.",
+  "por_que_funciona": [
+    "O título grande nomeia a objeção de burocracia na contratação.",
+    "Os três checks apresentam facilidades operacionais específicas.",
+    "O botão amarelo contrasta com o azul e direciona o contato comercial.",
+    "A mudança de cor das letras preserva a leitura sobre as duas metades do fundo."
+  ],
+  "quando_usar": "Para vender treinamento corporativo a quem já considera capacitar equipes e precisa simplificar a contratação.",
+  "estrutura_texto": "Capacitar [PÚBLICO]\nnão precisa ser [OBJEÇÃO].\n✓ [FACILIDADE 1]\n✓ [FACILIDADE 2]\n✓ [FACILIDADE 3]\n[CTA PARA ESPECIALISTA]",
+  "legenda": "Organize a capacitação de [equipes] com [solução]. Conte com [atendimento consultivo], [condição operacional] e [apoio na escolha dos conteúdos]. Fale com [especialista] para avaliar as necessidades de [organização].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o fundo diagonalmente entre branco e azul profundo. Use uma linha de introdução leve e uma chamada grande com cor adaptada ao fundo. Na parte azul, coloque três benefícios objetivos com checks brancos e um botão amarelo com texto escuro. Acrescente textura translúcida discreta no canto inferior esquerdo e integre a imagem do produto sem competir com a lista.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1124220583451413",
+    "anunciante": "IBGC - Instituto Brasileiro de Governança Corporativa",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-14",
+    "dias_no_ar": 31,
+    "variacoes_ativas": 2,
+    "texto_original": "Capacitar apenas um profissional gera aprendizado.\n\nCapacitar equipes gera transformação.\n\nAo desenvolver diferentes áreas simultaneamente, sua organização cria linguagem comum, fortalece processos e acelera a adoção das boas práticas de governança.\n\nPorque o conhecimento gera mais valor quando é compartilhado.\n\n👉 Conheça as soluções In Company do IBGC.",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1124220583451413.jpg"
+}

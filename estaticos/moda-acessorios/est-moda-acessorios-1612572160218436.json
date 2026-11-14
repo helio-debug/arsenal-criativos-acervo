@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-1612572160218436",
+  "tipo": "estatico",
+  "titulo": "Tênis sai da tela em chamada de comunidade",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma chamada de exclusividade aparece no alto à esquerda, com um celular ao centro exibindo uma página de produto. Um tênis laranja ampliado se sobrepõe à tela; o fundo branco tem manchas cinzas e pequenas cruzes.",
+  "por_que_funciona": [
+    "A frase no alto à esquerda torna o convite à comunidade imediatamente visível.",
+    "O tênis ampliado ultrapassa os limites do celular e ocupa o centro da composição.",
+    "A tela com miniaturas de cores aproxima a peça de uma experiência de compra no aplicativo.",
+    "O laranja do produto se destaca sobre os elementos brancos, pretos e cinzas."
+  ],
+  "quando_usar": "Para promover um aplicativo de compras com vantagens exclusivas para membros da comunidade.",
+  "estrutura_texto": "Só para a\nComunidade [marca]\n[Interface do aplicativo com categoria, produto e variações]",
+  "legenda": "Conheça o [aplicativo]: compre quando quiser e aproveite [vantagens exclusivas reais]. Explore [categoria ou lançamento] e faça parte da [comunidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma chamada preta grande no alto à esquerda: “Só para a Comunidade [marca]”. Centralize um mockup de celular vertical mostrando uma página fictícia do seu produto com miniaturas de variações disponíveis. Sobreponha uma foto recortada e ampliada do produto fornecido, atravessando as bordas da tela. Use fundo branco com textura cinza suave e pequenas cruzes decorativas; deixe o produto como principal ponto de cor. Reserve o canto superior direito para a identidade da marca fornecida. Não copie a interface exata da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1612572160218436",
+    "anunciante": "On",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-18",
+    "dias_no_ar": 149,
+    "variacoes_ativas": 2,
+    "texto_original": "Conheça o app da On: compre a qualquer hora, em qualquer lugar, e aproveite vantagens exclusivas\nVocê, um passo à frente",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-1612572160218436.jpg"
+}

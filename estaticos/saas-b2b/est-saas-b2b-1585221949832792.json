@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1585221949832792",
+  "tipo": "estatico",
+  "titulo": "Relógio e riscos ao lado de software de conformidade",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Chamada sobre adiamento da conformidade à esquerda e relógio grande à direita, com alertas vermelhos ao redor. A metade inferior reúne notebook com painel do sistema, benefício em caixa branca, CTA laranja e três cartões de risco.",
+  "por_que_funciona": [
+    "O relógio grande torna visual a ideia de adiamento.",
+    "As palavras em laranja destacam a pergunta na chamada azul.",
+    "O notebook mostra a solução junto dos riscos descritos.",
+    "Os cartões inferiores nomeiam consequências que sustentam o tema do alerta."
+  ],
+  "quando_usar": "Para campanhas educativas de software de conformidade que conectem riscos reais a uma demonstração do produto.",
+  "estrutura_texto": "[Pergunta sobre adiamento de obrigação]\n[Explicação de risco sem certeza de punição]\n[Automação e suporte disponíveis]\n[CTA]\n[Riscos contextualizados]",
+  "legenda": "O acompanhamento de [obrigação] precisa fazer parte da rotina da empresa. Conheça [plataforma], com [automação] e [suporte], e veja como organizar [processos] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre área clara à esquerda e azul escuro à direita. Use título azul com palavras laranja, relógio metálico grande na parte superior direita, alertas discretos vermelhos e notebook com tela real na base direita. Coloque caixa de benefício e botão laranja à esquerda. Descreva riscos como possibilidades contextualizadas, sem afirmar punição inevitável ou proteção absoluta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1585221949832792",
+    "anunciante": "LGPD Express BR",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-08",
+    "dias_no_ar": 129,
+    "variacoes_ativas": 20,
+    "texto_original": "Sua empresa está realmente protegida ou só tem um \"aviso de cookies\" no site? \n⚠️A verdadeira conformidade com a LGPD exige ação contínua. O LGPD Express é a plataforma guiada por IA que adequa o seu negócio com rapidez, segurança e zero burocracia.  \n\n✅ 100% automatizado \n✅ Para qualquer setor \n✅ Proteção contínua e real \n\nSaia do risco hoje. Clique em Saiba Mais e conheça a solução!\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1585221949832792.jpg"
+}

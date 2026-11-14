@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1470464491513380",
+  "tipo": "estatico",
+  "titulo": "Três critérios de consultoria sobre foto de destino",
+  "formato": "Alerta e educação",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma cidade costeira preenche o anúncio, com céu azul reservado para uma pergunta sobre consultoria de viagens. Na base, três ícones apresentam perfil, data e detalhes da chegada.",
+  "por_que_funciona": [
+    "A pergunta no céu cria uma entrada para explicar o serviço antes da compra.",
+    "A fotografia de destino conecta o tema da consultoria ao resultado desejado da viagem.",
+    "Os três ícones tornam os critérios de análise fáceis de percorrer.",
+    "Os exemplos de tarifa, bairro e conexão dão conteúdo concreto ao valor da consultoria."
+  ],
+  "quando_usar": "Para explicar o valor de uma consultoria de viagens a quem ainda está comparando opções por conta própria.",
+  "estrutura_texto": "O que [serviço] enxerga antes de [decisão]?\nNossa recomendação considera [critérios]\n[Critério 1]: [impacto]\n[Critério 2]: [impacto]\n[Critério 3]: [impacto]",
+  "legenda": "Antes de reservar [viagem], confira [condições relevantes]. Nossa consultoria considera [perfil do viajante], [datas] e [detalhes do roteiro] para recomendar opções adequadas ao seu plano. Fale com [equipe] e conheça o atendimento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia de destino costeiro diferente da referência, com céu azul amplo no terço superior. Insira identidade própria discreta no canto e título branco em fonte serifada, seguido de uma explicação curta em fonte sem serifa. Acrescente um pequeno círculo com seta à direita. Na base, aplique sombra sobre a foto e organize três colunas com ícones lineares dourados, [critério] e [efeito prático]. Preserve a leitura dos textos pequenos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1470464491513380",
+    "anunciante": "TZ VIAGENS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-08",
+    "dias_no_ar": 129,
+    "variacoes_ativas": 1,
+    "texto_original": "Fechar sua viagem logo na pesquisa mais barata é bem tentador… \n\nPorém, a verdade é que as telas escondem condições que podem sabotar os planos das suas férias.\n\nÉ aí que uma curadoria entra! Nós transformamos aquela pesquisa genérica da internet em uma experiência moldada exclusivamente para o seu sonho, com acessos que ninguém vê sozinho. \n\nO nosso papel é garantir que nada estrague o seu sonho de viagem. 📱 Fale com nossos especialistas para saber mais.\n\n#tzviagens @tzviagens #agenciadeviagens #consultoriadeviagens #curadoria",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1470464491513380.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-3010417392639622",
+  "tipo": "estatico",
+  "titulo": "Lançamento de alimento pet em ambiente doméstico",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Um gato e um cachorro comem em comedouros elevados de madeira em uma sala clara. Embalagens de alimento aparecem sobre uma bancada, com chamada de lançamento no alto e assinatura ligada à natureza na base.",
+  "por_que_funciona": [
+    "Gato e cachorro comendo mostram os públicos atendidos pela linha.",
+    "As embalagens sobre a bancada conectam a cena doméstica ao produto anunciado.",
+    "O título no alto comunica a chegada de uma nova linha.",
+    "Tons terrosos, folhas e madeira reforçam visualmente a proposta ligada à natureza."
+  ],
+  "quando_usar": "Para lançar alimentação pet com uma proposta de ingredientes e um contexto de consumo doméstico.",
+  "estrutura_texto": "CHEGOU\n[NOVA LINHA]\n[SELO OU INICIATIVA COMPROVADA]\n[ASSINATURA SOBRE A PROPOSTA DO PRODUTO]",
+  "legenda": "Chegou [linha], com [ingrediente comprovado] e [característica nutricional permitida] para a alimentação do seu pet. Conheça as opções para [espécies ou fases de vida].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte cena vertical em uma casa iluminada, com paleta bege e verde, materiais naturais e plantas discretas. Mostre os pets compatíveis com o produto usando comedouros e deixe as embalagens legíveis sobre uma bancada à esquerda. Reserve o topo para [chegada da linha] e a base para uma assinatura curta. Só inclua selos ambientais ou certificações fornecidos e verificáveis; não copie o ambiente exato da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3010417392639622",
+    "anunciante": "Nattu",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 2,
+    "texto_original": "Chegou Nattu Wild, com carne de frango certificada e superfoods para uma nutrição equilibrada do seu pet.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/pet/est-pet-3010417392639622.jpg"
+}

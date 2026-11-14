@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-4418627015114178",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre custo fixo em foto de lazer",
+  "formato": "Alerta e educação",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher de óculos e roupa de banho aparece a bordo, com outra embarcação ao fundo. Uma pergunta no alto à esquerda introduz o custo fixo da cota.",
+  "por_que_funciona": [
+    "A pergunta sobre custo fixo dá destaque a uma dúvida concreta da compra compartilhada.",
+    "A expressão “cota de embarcação” em negrito identifica o assunto sem depender da legenda.",
+    "A pessoa a bordo e o barco ao fundo contextualizam o serviço em uso."
+  ],
+  "quando_usar": "Para esclarecer despesas recorrentes de cotas a pessoas que já demonstraram interesse no modelo.",
+  "estrutura_texto": "Como funciona [componente de custo]\nda sua [modalidade de aquisição]?\n[Marca]",
+  "legenda": "O custo fixo da sua [cota] reúne [itens incluídos] em [periodicidade de cobrança]. Já [despesas variáveis] seguem [critério de rateio]. Consulte os valores e as regras para planejar seu uso de [bem].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma composição fotográfica de lazer com uma pessoa adulta à direita a bordo e o bem ao fundo. Coloque uma pergunta curta em branco no canto superior esquerdo, destacando o objeto da dúvida em negrito. Mantenha a fotografia predominante e a marca informada pequena na parte inferior.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4418627015114178",
+    "anunciante": "Prime Share",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 2,
+    "texto_original": "Cuidar da sua embarcação é nossa prioridade. 🚤\n\nCom um sistema prático e democrático, os cotistas dividem os custos de estadia na marina, limpeza, documentação, marinheiro e seguro total da embarcação em mensalidades fixas.\n\nAlém disso, o rateio da manutenção é ajustado conforme a frequência de uso, garantindo um modelo de gestão justo e transparente.\n\nVocê não precisa se preocupar com nada, apenas em aproveitar momentos incríveis com a família a bordo do seu barco.\n\nTransformamos sua experiência náutica com eficiência e qualidade!\n\n#primeshare #nautica #franquias #luxo #lanchas #cotasnauticas #barcocompartilhado #multipropriedade",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-4418627015114178.jpg"
+}

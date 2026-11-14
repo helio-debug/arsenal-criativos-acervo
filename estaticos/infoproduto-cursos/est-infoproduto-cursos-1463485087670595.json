@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1463485087670595",
+  "tipo": "estatico",
+  "titulo": "Curso com preço e conteúdo programático",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Título preto grande sobre fundo claro, seguido de preço e certificado em uma moldura verde. A metade inferior lista os temas do curso em linhas alinhadas à esquerda.",
+  "por_que_funciona": [
+    "O título grande identifica a área de formação antes dos detalhes.",
+    "A moldura verde reúne preço e certificado em uma única linha.",
+    "A lista explicita os assuntos que o comprador vai estudar.",
+    "O fundo claro mantém contraste para a lista extensa."
+  ],
+  "quando_usar": "Para apresentar cursos de entrada cujo conteúdo programático ajuda a decidir a compra.",
+  "estrutura_texto": "CURSO DE [TEMA]\nR$ [PREÇO] - com [CERTIFICADO]\nCURSO INCLUI\n[TÓPICO 1]\n[TÓPICO 2]\n[TÓPICO 3]\n[DEMAIS TÓPICOS]\n[MARCA]",
+  "legenda": "Matrículas abertas para [curso online]. Por [preço] em [condição de pagamento], estude temas como [conteúdos]. Indicado para [público]. Confira [certificado, materiais e condições de acesso] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com formas cinza discretas, título preto em caixa alta centralizado e faixa contornada de verde para preço e certificado. Abaixo, apresente conteúdo programático alinhado à esquerda, com espaçamento legível. Reserve rodapé para a marca do usuário. Omita a foto da IMAGEM 2 se prejudicar a leitura.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1463485087670595",
+    "anunciante": "Desenvolve Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-09-19",
+    "dias_no_ar": 786,
+    "variacoes_ativas": 1,
+    "texto_original": "🔥 MATRÍCULAS ABERTAS\nCurso online de Gestão de Pessoas\nSomente AGORA por apenas R$ 57 (taxa única)\n\nEste treinamento é para você que\n- Trabalha ou deseja trabalhar com RH\n- Trabalha ou deseja trabalhar com Departamento Pessoal\n- É líder ou gerente de uma equipe pequena ou grande\n- Possui uma empresa com vários funcionários\n\nO curso conta com:\n✅ Aulas em vídeo atualizadas;\n✅ Certificado de conclusão (lei 9.394/96);\n✅ Material extra em pdf para baixar;\n✅ Acesso vitalício e ilimitado;\n✅ Atualizações gratuitas sempre que disponíveis;\n✅ Ebook focado em carreira com 8 anos de pesquisa;\n✅ Suporte em 24 horas úteis.\n\nGarantia de 7 dias (não gostou, devolvemos o dinheiro)\n\n🔴 Faça sua matrícula aqui: https://bit.ly/gestao-pessoas-matricula",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1463485087670595.jpg"
+}

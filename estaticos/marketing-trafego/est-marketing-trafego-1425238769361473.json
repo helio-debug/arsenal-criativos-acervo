@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1425238769361473",
+  "tipo": "estatico",
+  "titulo": "Pergunta financeira sob foto de carteira vazia",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Mãos seguram uma carteira vazia na metade superior. Na base, uma pergunta em letras condensadas alterna preto e vermelho, com um círculo amarelo em torno da palavra dinheiro e uma assinatura de perfil acima.",
+  "por_que_funciona": [
+    "A carteira aberta traduz visualmente o assunto financeiro antes da leitura.",
+    "A pergunta em letras grandes ocupa toda a parte inferior.",
+    "O vermelho destaca o trecho sobre ausência de retorno financeiro.",
+    "O círculo amarelo concentra o olhar na palavra final."
+  ],
+  "quando_usar": "Para abrir conteúdo educativo sobre estratégia de vendas e operação de comércio eletrônico, com abordagem menos pessoal na adaptação.",
+  "estrutura_texto": "[assinatura do perfil]\n[pergunta sobre esforço operacional e retorno financeiro]",
+  "legenda": "A rotina de [operação de vendas] pode consumir o tempo reservado à estratégia. Veja como revisar [tarefas operacionais], [seleção de produtos] e [prioridades comerciais] para organizar o crescimento de [negócio].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Ocupe a metade superior com imagem da IMAGEM 2 relacionada ao tema, sobre fundo neutro. Na parte inferior, use pergunta curta em fonte condensada alta, alternando preto e vermelho. Circule a palavra principal com traço amarelo à mão. Inclua assinatura genérica substituível. Formule a pergunta sobre gestão do negócio sem presumir a situação financeira pessoal do leitor.",
+  "alerta_politica": "Meta: evite atribuir vulnerabilidade ou dificuldade financeira diretamente ao leitor. Ao abordar ganhos com vendas, não prometa renda ou retorno garantido.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1425238769361473",
+    "anunciante": "wedropbr.com.br",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "Qual desses dois vendedores você é hoje? Operacional ou estratégico? \n\nO segredo dos grandes vendedores não é trabalhar 14 horas por dia, é focar onde o dinheiro realmente está: na estratégia de vendas e mineração de produtos. \nO resto? A gente terceiriza.\n\nTrabalhar duro não significa trabalhar certo. Se você passa o dia todo correndo para os Correios, quem está pensando no crescimento da sua empresa?👇\n\n#vendasoline #ecommercebrasil #mercadolivre #shopee",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1425238769361473.jpg"
+}

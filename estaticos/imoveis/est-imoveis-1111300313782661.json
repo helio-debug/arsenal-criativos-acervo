@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1111300313782661",
+  "tipo": "estatico",
+  "titulo": "Renda familiar em tipografia de alto contraste",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça dividida em metade superior branca, com chamada de entrada facilitada e símbolo de programa habitacional, e metade inferior azul-escura. O valor da renda familiar aparece em amarelo e ocupa grande parte da base.",
+  "por_que_funciona": [
+    "A divisão em dois blocos separa a condição de entrada do critério de renda.",
+    "O número amarelo sobre azul-escuro é o maior elemento textual.",
+    "A expressão renda familiar contextualiza o valor apresentado.",
+    "A chamada entrada facilitada aparece isolada e é fácil de localizar."
+  ],
+  "quando_usar": "Para atrair consultas sobre imóveis com financiamento e explicar o perfil de renda de uma oferta específica.",
+  "estrutura_texto": "ENTRADA [condição]\n[Programa habitacional]\nCOM RENDA FAMILIAR\nA PARTIR DE\n[valor]",
+  "legenda": "Conheça opções de apartamentos em [região] e consulte as condições de entrada. Renda familiar de referência a partir de [valor], sujeita aos critérios do financiamento. Cadastre-se para conhecer as unidades disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição em dois blocos horizontais: branco no topo e azul-escuro na base. No topo, use chamada de entrada facilitada e identificação autorizada do programa. Na base, destaque renda familiar em branco e amarelo, com valor muito grande. Inclua critérios e condições em tamanho legível; não apresente aprovação como garantida.",
+  "alerta_politica": "Ao divulgar financiamento habitacional, informe condições, critérios de renda e sujeição à análise de crédito. Não prometa aprovação, subsídio ou uso de recursos garantidos. Apresente entrada, parcelas e preço de forma clara e use identificação de programa público somente quando aplicável e autorizada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1111300313782661",
+    "anunciante": "Construtora Tenda",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-01",
+    "dias_no_ar": 439,
+    "variacoes_ativas": 1,
+    "texto_original": "Procurando o apê dos sonhos? A Tenda tem opções incríveis esperando por você. Cadastre-se e descubra!\nEncontre o apê ideal na Tenda!\nFaça parte da Tenda! Cadastre-se e conheça nossos apês que cabem no seu bolso e no seu sonho. É rápido e fácil!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1111300313782661.jpg"
+}

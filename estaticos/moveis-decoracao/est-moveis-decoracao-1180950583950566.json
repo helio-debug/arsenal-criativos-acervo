@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1180950583950566",
+  "tipo": "estatico",
+  "titulo": "Pacote de seis ambientes com preço à vista",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Cozinha escurecida ao fundo com título branco e destaques laranja. Uma faixa branca central reúne preço anterior riscado, preço à vista e entrega com montagem; a base detalha ambientes e restrições.",
+  "por_que_funciona": [
+    "O número de ambientes aparece junto ao título e dimensiona o pacote.",
+    "A faixa branca cria contraste para o preço à vista em letras grandes.",
+    "O bloco de entrega e montagem explicita serviços incluídos e cobertura regional.",
+    "A lista inferior informa quais cômodos compõem o pacote."
+  ],
+  "quando_usar": "Para vender conjuntos de móveis planejados com projeto predefinido, preço fechado e área de atendimento delimitada.",
+  "estrutura_texto": "[MARCA]\nMÓVEIS PLANEJADOS\nCASA COMPLETA COM [NÚMERO] AMBIENTES!\n[CHAMADA DE PREÇO]\nSOMENTE [PRAZO]!\nDE R$ [PREÇO ANTERIOR]\nPOR APENAS R$ [PREÇO ATUAL] À VISTA\n[ENTREGA E MONTAGEM] PARA [REGIÕES]\n[RESTRIÇÕES]\n[LISTA DE AMBIENTES]",
+  "legenda": "Equipe [número] ambientes por R$ [valor] à vista. O pacote inclui [ambientes], com [entrega e montagem] em [região]. Projeto [condição do projeto]. Consulte a disponibilidade e as condições até [prazo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de cozinha escurecida ao fundo, título branco condensado no alto à esquerda e marca no canto superior direito. Destaque a quantidade de ambientes em laranja e adicione um selo de preço. Cruze o centro com faixa branca: preço anterior riscado, preço atual grande e condição à vista legível. À direita, informe entrega, montagem e regiões. Na base, organize restrições à esquerda e ambientes dentro de quadro à direita. Use somente prazos e descontos reais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1180950583950566",
+    "anunciante": "Evolucamp Móveis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-08",
+    "dias_no_ar": 371,
+    "variacoes_ativas": 5,
+    "texto_original": "Kit Móveis Planejados: Preço de Fábrica!\n\n6 ambientes por apenas R$13.990!\nMobiliando seu novo apartamento ou transformando seu imóvel nunca foi tão fácil e acessível! \n\nDireto da fábrica, sem intermediários.\nEntrega e montagem inclusas em São Paulo, Campinas e Jundiaí.\n\nVisite uma unidade hoje mesmo:\nCampinas | Av. Dr. Arlindo Joaquim de Lemos, 800\nSão Paulo/SP | R. Pio XI, 774 \nJundiaí | Rua Messina, 552\n\nOferta válida por tempo limitado!\nEvolucamp Móveis\nMóveis Planejados",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1180950583950566.jpg"
+}

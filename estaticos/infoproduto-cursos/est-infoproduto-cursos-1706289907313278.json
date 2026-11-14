@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1706289907313278",
+  "tipo": "estatico",
+  "titulo": "Minicurso técnico com dispositivos, checklist e oferta de acesso",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul escuro com gráficos de sinais, título branco e amarelo e mockups de notebook, celular e capa do curso. O preço verde e o botão de acesso ficam junto de uma lista de características e faixa de desconto.",
+  "por_que_funciona": [
+    "Notebook e celular exibem a interface das aulas e dão forma ao curso digital.",
+    "O checklist informa quatro aulas e doze meses de acesso.",
+    "O preço verde se destaca sobre o fundo azul escuro.",
+    "A faixa amarela de 75% de desconto conecta o preço anterior à oferta atual."
+  ],
+  "quando_usar": "Para converter mecânicos e reparadores interessados em um treinamento curto sobre ferramentas de diagnóstico.",
+  "estrutura_texto": "APRENDA [FERRAMENTAS/TÉCNICA] NA PRÁTICA\n[DESCRIÇÃO PARA PÚBLICO ESPECÍFICO]\n[QUANTIDADE DE AULAS]\n[TEMPO DE ACESSO]\n[CARACTERÍSTICAS]\nOFERTA COM [PERCENTUAL] DE DESCONTO\nDE R$[ANTERIOR] POR APENAS R$[ATUAL]\n[CTA DE ACESSO]\n[BENEFÍCIOS APLICADOS]",
+  "legenda": "Aprenda a usar [ferramentas] em [atividade prática]. São [quantidade] aulas gravadas, com acesso por [prazo], para [público]. Confira o conteúdo e a oferta de [desconto] em [link], válida até [prazo real].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul muito escuro com linhas de sinais eletrônicos e detalhes técnicos. Distribua título alto branco e amarelo à esquerda, checklist com ícones verdes abaixo e mockups de notebook, celular e capa à direita usando a IMAGEM 2. Reserve o canto inferior esquerdo para faixa amarela de desconto e preço verde grande; adicione botão verde de acesso e rodapé com três aplicações práticas. Garanta legibilidade das condições. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1706289907313278",
+    "anunciante": "Simplo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-08",
+    "dias_no_ar": 159,
+    "variacoes_ativas": 1,
+    "texto_original": "Aprenda a usar scanner e osciloscópio na prática para fazer diagnósticos automotivos com mais precisão e menos achismo.\nMini curso online com 4 aulas gravadas, acesso por 12 meses e conteúdo direto ao ponto para mecânicos e reparadores.\nOferta com 75% de desconto por tempo limitado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1706289907313278.jpg"
+}

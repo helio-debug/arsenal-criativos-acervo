@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1949353859374332",
+  "tipo": "estatico",
+  "titulo": "Concurso aguardado com chamada para análise da preparação",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Cartaz vertical azul e amarelo com símbolo da instituição no topo e nome do concurso em destaque. Dois cargos e suas remunerações antecedem uma chamada de antecipação e um botão para solicitar análise.",
+  "por_que_funciona": [
+    "A palavra concurso ocupa o maior corpo de texto no centro.",
+    "As duas caixas com setas distinguem as opções de cargo.",
+    "O botão amarelo identifica claramente a solicitação de análise.",
+    "O aviso sobre esperar o edital cria uma razão explícita para começar a preparação."
+  ],
+  "quando_usar": "Para captar interessados em diagnóstico de estudos antes de um edital, com status do concurso e remunerações verificados.",
+  "estrutura_texto": "[Status do concurso]. Saia na frente do próximo [concurso]. [Cargo 1 e remuneração confirmada]. [Cargo 2 e remuneração confirmada]. [Orientação sobre preparação antecipada]. A [análise] mostra [lacunas de preparação]. [CTA].",
+  "legenda": "Começar a preparação para [concurso] fica mais claro com um diagnóstico do estudo atual. A [análise] identifica [lacunas] e orienta [próximos passos]. Conheça a [mentoria] e solicite sua análise em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cartaz vertical branco com azul forte e amarelo. Reserve o topo à identidade própria, depois faixa de status e título central grande. Monte duas caixas de cargos com setas, duas linhas de orientação com ícones e botão amarelo no rodapé. Não copie símbolos institucionais nem sugira vínculo oficial; use dados confirmados. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1949353859374332",
+    "anunciante": "Gustavo Dias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 3,
+    "texto_original": "🔥 A sua aprovação em Concursos Públicos não depende dos Materiais! Depende de direcionamento correto.\n\nSe você tá perdido sem saber como começar ou já estuda mas sente que não evolui, está correndo um sério risco de ficar anos sem a sua aprovação.\n\nA verdade é simples:\n❌ Não é falta de esforço\n❌ Não é falta de inteligência\n✅ É falta de estratégia certa e personalizada pra VOCÊ\n\nCom a Mentoria Premium, você não vai receber acompanhamento genérico ou em grupo.\n\nVocê vai ter:\n✔️ Um plano de estudos 100% personalizado\n✔️ Acompanhamento individual comigo\n✔️ Estratégia validada na prática\n✔️ Suporte completo (inclusive no emocional)\n✔️ Direcionamento até atingir nível de aprovação (85%+)\n\nSem promessas milagrosas. Sem enrolação.\nApenas o que realmente funciona.\n\n💰 Concursos com salários de até R$20.000 estão ao seu alcance — mas você precisa do caminho certo.\n\n👉 Clique agora para tirar um diagnóstico e conhecer a Mentoria Premium",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1949353859374332.jpg"
+}

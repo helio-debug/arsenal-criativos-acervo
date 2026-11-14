@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-527288590070214",
+  "tipo": "estatico",
+  "titulo": "Negociação de dívidas tributárias em chamada central",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "parcelamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Composição vermelha com título branco central sobre dívidas de impostos. Papéis brancos parecem voar pelas bordas e uma moldura curva envolve o texto sobre negociação, parcelamento e liquidação.",
+  "por_que_funciona": [
+    "O título central identifica diretamente o serviço ligado a impostos.",
+    "O texto de apoio explicita negociação e parcelamento como caminhos de atendimento.",
+    "Papéis em movimento e moldura branca destacam a mensagem no fundo vermelho."
+  ],
+  "quando_usar": "Para consultorias tributárias divulgarem análise e negociação de débitos empresariais.",
+  "estrutura_texto": "[Marca e especialidade] | [Chamada sobre dívidas tributárias] | Aproveite [condições legais aplicáveis] para [negociar ou parcelar débitos]",
+  "legenda": "Conte com [consultoria] para analisar [débitos tributários] e avaliar as alternativas legais de [negociação ou parcelamento]. Consulte [condições e elegibilidade] e saiba quais medidas se aplicam à sua empresa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo vermelho com textura sutil, moldura branca curva e título central em branco com alto contraste. Distribua folhas de papel nas bordas, algumas desfocadas, preservando o centro limpo. Use a imagem do produto como apoio discreto e inclua um texto curto sobre análise de condições legais, sem prometer eliminação de dívidas.",
+  "alerta_politica": "Em serviços financeiros e tributários, não garantir quitação, redução de débito ou aprovação de parcelamento. Benefícios legais dependem de elegibilidade e regras vigentes; evitar afirmar que o leitor possui dívidas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "527288590070214",
+    "anunciante": "Contar SP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-24",
+    "dias_no_ar": 751,
+    "variacoes_ativas": 1,
+    "texto_original": "A CONTAR SP tem um time especialista para te ajudar com suas dívidas de impostos, seja ele municipal, estadual ou federal. Sendo débitos declarados ajuizados ou não, multas, auditoria e arbitramento contábil.\n\nAproveite a chance de forma legal, para corrigir apurações e evitar multas!\n\nAlguns serviços que podemos te ajudar:\nPlanejamento tributário;\nEstudo e elaboração de parecer;\nNegociação das dívidas e parcelamentos;\nDefesas de autos de infração;\nAcompanhamento de inquéritos;\nElaboração de defesa judicial na esfera penal;\nDemais providências correlatas.\n\nConsulte nossa equipe e faça uma simulação sem compromisso e sem custo!\nTelefones:\n11 4722-8135\n11 99991-4149\ncontarsp.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-527288590070214.jpg"
+}

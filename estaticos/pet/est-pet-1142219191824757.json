@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-1142219191824757",
+  "tipo": "estatico",
+  "titulo": "Molho cremoso destacado com humor e alimento servido",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo amarelo com chamada bem-humorada em vermelho e branco, dois gatos ao centro e um prato vermelho de alimento com molho na parte inferior. Um garfo levanta o alimento ao lado da embalagem.",
+  "por_que_funciona": [
+    "O prato ampliado e o molho escorrendo tornam a textura um destaque visual.",
+    "Os dois gatos ligam a chamada ao público que consome o alimento.",
+    "A embalagem ao lado do prato facilita reconhecer o produto na compra.",
+    "A combinação de amarelo, vermelho e branco cria hierarquia entre título, mensagem e alimento."
+  ],
+  "quando_usar": "Para divulgar alimento úmido pet quando textura e apresentação são diferenciais visíveis do produto.",
+  "estrutura_texto": "TUDO O QUE TEM [ATRIBUTO]\nÉ MAIS [QUALIDADE], NÉ [VOCATIVO]?!\nQUEREMOS [EXPERIÊNCIA]\nQUEREMOS [ATRIBUTO DO PRODUTO]!\n[EMBALAGEM + ALIMENTO SERVIDO]",
+  "legenda": "E no pote também! [Produto] com [composição comprovada] e [atributo de textura] para a refeição do seu [pet]. Conheça os sabores em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo intenso, título grande no topo em vermelho com trecho branco, e dois gatos ao centro à direita. À esquerda, coloque uma chamada curta em tipografia informal e pesada. Na parte inferior, destaque um prato vermelho com a textura real do alimento e a embalagem ao lado. Um utensílio pode levantar uma porção para evidenciar o molho. Não invente composição, benefícios ou reação garantida dos animais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1142219191824757",
+    "anunciante": "Friskies Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 1,
+    "texto_original": "E no pote também! 😽 Molho Cremoso Purina Friskies: multiproteínas com muuuuuito molho para trazer mais diversão à refeição.\nSe tem churrasco e praia, tem molho.\n#friskiesbr #QueremosDiversão #foryoupage #cats #gato",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/pet/est-pet-1142219191824757.jpg"
+}

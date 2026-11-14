@@ -1,0 +1,91 @@
+{
+ "id": "vid-por-que-coisa-do-dia-a-dia",
+ "tipo": "video",
+ "titulo": "Por que isso do dia a dia funciona assim, explicado em 30 segundos",
+ "formato_video": "animacao",
+ "nichos": [
+  "saude",
+  "automotivo",
+  "moveis-decoracao",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Por que [fenômeno cotidiano] acontece quando [situação comum]?",
+  "texto_tela": "Por que [fenômeno]?",
+  "visual": "Mascote próprio ao lado de um diagrama simples do fenômeno, em fundo claro. Um detalhe se move e recebe destaque colorido."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Mascote original e cartão com situação cotidiana; destacar o ponto que será explicado.",
+   "fala": "Por que [fenômeno cotidiano] acontece quando [situação comum]?",
+   "texto_tela": "Por que [fenômeno]?"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Fundo escuro com diagrama e seta; destacar apenas uma parte por vez.",
+   "fala": "Isso começa em [componente ou etapa]. Quando [causa], ele [ação do mecanismo].",
+   "texto_tela": "1. [Causa]"
+  },
+  {
+   "tempo": "10-16s",
+   "cena": "Voltar ao fundo claro; mostrar a consequência em um segundo cartão numerado.",
+   "fala": "Daí vem [efeito observável]. Por isso, [condição] muda o que acontece depois.",
+   "texto_tela": "2. [Efeito]"
+  },
+  {
+   "tempo": "16-24s",
+   "cena": "Mascote aponta uma comparação visual simples; aproximar o detalhe relevante.",
+   "fala": "Olha este exemplo: com [condição A], ocorre [efeito A]. Com [condição B], ocorre [efeito B].",
+   "texto_tela": "[Condição A] → [efeito A]\n[Condição B] → [efeito B]"
+  },
+  {
+   "tempo": "24-30s",
+   "cena": "Cartão final escuro com o produto ligado ao ponto explicado e convite discreto.",
+   "fala": "Em [produto], esse mecanismo entra em [aplicação concreta]. Salve para consultar quando [situação de uso].",
+   "texto_tela": "[Aplicação] • Salve"
+  }
+ ],
+ "por_que_funciona": [
+  "O mascote pixelado reaparece ao lado das interfaces, mantendo um ponto visual conhecido enquanto o conteúdo muda.",
+  "Os cartões numerados separam cada ferramenta; o modelo usa a mesma divisão para causa e efeito.",
+  "Os fundos claros e escuros alternam com destaques azuis e verdes, ajudando a localizar a informação nova.",
+  "O diagrama de conexões transforma uma relação abstrata em elementos ligados na tela."
+ ],
+ "quando_usar": "Para quem precisa explicar um mecanismo antes de apresentar a utilidade do produto. Use em conteúdo de descoberta, com uma dúvida cotidiana que tenha resposta verificável.",
+ "roteiro_modelo": "Por que [fenômeno cotidiano] acontece quando [situação comum]?\n\n[pausa curta; corte]\n\nIsso começa em [componente ou etapa]. Quando [causa], ele [ação do mecanismo].\n\n[pausa curta; corte]\n\nDaí vem [efeito observável]. Por isso, [condição] muda o que acontece depois.\n\n[pausa curta; corte]\n\nOlha este exemplo: com [condição A], ocorre [efeito A]. Com [condição B], ocorre [efeito B].\n\n[pausa curta; corte]\n\nEm [produto], esse mecanismo entra em [aplicação concreta]. Salve para consultar quando [situação de uso].",
+ "tomadas_celular": [
+  "Situação cotidiana em plano aberto, luz de janela, 4s; servir de base ao primeiro cartão.",
+  "Componente ligado à causa em close, luz difusa, 6s.",
+  "Efeito observável em detalhe, celular fixo e luz lateral, 6s.",
+  "Exemplo A em plano superior ou frontal fixo, iluminação constante, 4s.",
+  "Exemplo B no mesmo ângulo e luz, 4s.",
+  "Produto ou aplicação em plano médio, luz de janela, 6s; transformar as tomadas em cartões e sobrepor setas no editor."
+ ],
+ "caminho_ia": "Faça sem gravação com Veo para animações explicativas, voz sintética licenciada e CapCut para cartões e setas. Prompts: \"Vertical 9:16 educational motion graphic, original geometric mascot beside [everyday phenomenon], pale background, isolated moving parts, slow readable movement, four seconds, no text, no logos.\" e \"Vertical 9:16 technical explainer animation of [verified mechanism], dark background, cyan arrows linking [cause] to [effect], fixed camera, six seconds, no labels.\" Coloque rótulos e números na edição. Para saúde, submeta o mecanismo a revisão técnica; não use animação gerada como comprovação científica.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nExplique uma dúvida real em 30s: pergunta cotidiana em 0-4s; causa em 4-10s; efeito em 10-16s; exemplo comparável em 16-24s; aplicação do produto em 24-30s. Tom didático, palavras comuns e uma relação causal por tela. Use mascote original, cartões numerados, setas e alternância entre fundos claros e escuros; legendas curtas em português. Não copie mascote, interfaces, marcas, lista de ferramentas, promessa multiplicadora nem palavra de comentário da referência. Não invente mecanismo nem faça diagnóstico. Se faltar informação técnica, peça uma fonte antes de escrever. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos fornecidos. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e fechos de efeito. Não exponha nomes, pessoas, marcas ou contatos da referência.\n\nEntregue o roteiro falado completo no formato descrito, com tempos por bloco, a legenda do post e um prompt de cena em inglês técnico de vídeo por bloco da estrutura.",
+ "legenda": "[Fenômeno cotidiano] tem relação com [mecanismo verificável]. Neste vídeo, mostramos o caminho de [causa] até [efeito]. Salve para consultar em [situação].",
+ "alerta_politica": "Meta: evite atribuir ao espectador condição de saúde, como afirmar que ele tem uma doença; não use antes/depois corporal nem prometa resultado de saúde. ANVISA: alegações sobre produtos regulados devem respeitar as indicações autorizadas; suplementos não podem prometer tratar, prevenir ou curar doenças. Se houver publicidade médica, siga as regras do CFM, incluindo identificação profissional e ausência de garantia de resultado. Conteúdo educativo não substitui avaliação individual. Referência sanitária: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2026/viu-alguem-indicando-medicamento-ou-suplemento-alimentar-cuidado-pode-nao-ser-seguro",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f63cdb0a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-por-que-coisa-do-dia-a-dia/frames/f1.jpg",
+    "videos/vid-por-que-coisa-do-dia-a-dia/frames/f2.jpg",
+    "videos/vid-por-que-coisa-do-dia-a-dia/frames/f3.jpg",
+    "videos/vid-por-que-coisa-do-dia-a-dia/frames/f4.jpg",
+    "videos/vid-por-que-coisa-do-dia-a-dia/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

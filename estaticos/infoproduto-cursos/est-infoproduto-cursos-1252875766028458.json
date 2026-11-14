@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1252875766028458",
+  "tipo": "estatico",
+  "titulo": "Curso forense com mosaico de expressões",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Ambiente escuro com seis telas mostrando recortes de rostos. O título ocupa o topo em letras condensadas claras; faixas vermelhas destacam contexto, preço, carga horária e atividade prática.",
+  "por_que_funciona": [
+    "Os seis recortes de rostos ilustram o assunto das expressões faciais.",
+    "As letras condensadas permitem um título longo no topo.",
+    "A faixa vermelha separa o recorte forense do restante do título.",
+    "As duas faixas inferiores agrupam preço, duração e prática."
+  ],
+  "quando_usar": "Para divulgar cursos de tema técnico específico, com escopo e aplicações apresentados de forma responsável.",
+  "estrutura_texto": "[MARCA]\nANÁLISE DE [TEMA]\nNO CONTEXTO [APLICAÇÃO]\nCERTIFICADO DE [CARGA HORÁRIA] | R$ [PREÇO] OU [PARCELAS] DE R$ [VALOR]\nCOM [ATIVIDADE PRÁTICA]",
+  "legenda": "Curso [online e gravado] sobre [tema] no contexto [área]. Conheça [conteúdo e limites das técnicas], com [atividade prática] e carga horária de [horas]. Confira a programação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo de sala de estudos escura, mosaico de seis recortes de expressões faciais no centro e título claro condensado no topo. Use vermelho em faixas para contexto, condições de pagamento e atividade prática. Use a IMAGEM 2 como material visual de apoio sem copiar pessoas da referência. Não prometa detectar mentiras ou culpa por expressões faciais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1252875766028458",
+    "anunciante": "Matheus O. Silva - Psicólogo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-21",
+    "dias_no_ar": 754,
+    "variacoes_ativas": 2,
+    "texto_original": "CURSO\n\nANÁLISE DO COMPORTAMENTO NÃO-VERBAL E DAS MICROEXPRESSÕES FACIAIS NO CONTEXTO FORENSE.\n\n-ONLINE \n-GRAVADO\n-COM ATIVIDADE PRÁTICA!\n\n ➡️ Conheça a ciência por trás da série LIE TO ME!\n\n➡️ Descubra se a análise do comportamento não-verbal e das microexpressões faciais realmente é uma pseudociência!\n\n➡️ Aprenda como essas técnicas realmente podem ser aplicadas no contexto forense, criminal e investigativo!\n\n➡️ O corpo realmente fala? Veja como as emoções se microexpressam e como identificá-las!\n\n➡️ Realmente existe alguma técnica capaz de “detectar mentiras”?\n\nConteúdo programático 👇:\nAULA 1: Emoção x Sentimento.\n\nAULA 2: Microexpressões faciais.\n\nAULA 3: Facial Action Coding System (FACS).\n\nAULA 4: A neuropsicologia da mentira: é possível detectá-la?\n\nAULA 5: Simulação e dissimulação no contexto forense.\n\nAULA 6: A Neuropsicologia e a microexpressão da ALEGRIA.\n\nAULA 7: A Neuropsicologia e a microexpressão da TRISTEZA.\n\nAULA 8: A Neuropsicologia e a microexpressão da RAIVA.\n\nAULA 9: A Neuropsicologia e a microexpressão da SURPRESA.\n\nAULA 10: A Neuropsicologia e a microexpressão do NOJO.\n\nAULA 11: A Neuropsicologia e a microexpressão do MEDO.\n\nAULA 12: A Neuropsicologia e a microexpressão do DESPREZO.\n\nAULA 13: A Neuropsicologia e a microexpressão do DUPIN DELIGHT.\n\nAULA 14: A tríade da Hostilidade.\n\nAULA 15: O Efeito Pinóquio.\n\nAULA 16: O Crime Passional e as emoções.\n\nAULA 17: Gestos: análise e identificação.\n\nAULA 18: Gestos ILUSTRADORES: análise e identificação.\n\nAULA 19: Gestos EMBLEMÁTICOS: análise e identificação.\n\nAULA 20: Gestos ADAPTADORES: análise e identificação.\n\nAULA 21: Gestos REGULADORES: análise e identificação.\n\nAULA 22: Gestos BLOQUEADORES: análise e identificação.\n\nAULA 23: Gestos PACIFICADORES: análise e identificação.\n\nAULA 24: Gestos MANIPULADORES: análise e identificação.\n\nAULA 25: ATIVIDADE PRÁTICA\n\nSE INSCREVA👇👇👇\nLink na Bio!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1252875766028458.jpg"
+}

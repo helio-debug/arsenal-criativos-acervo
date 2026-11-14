@@ -1,0 +1,36 @@
+{
+  "id": "est-estetica-clinicas-631518009247986",
+  "tipo": "estatico",
+  "titulo": "Apresentação de cirurgiã em layout de matéria",
+  "formato": "Print de tela",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Layout de portal com barra vermelha, manchete preta, parágrafo de apresentação e retrato de uma profissional na metade inferior. O texto destaca cirurgias mamárias e cuidados com a paciente.",
+  "por_que_funciona": [
+    "A barra superior com menu e busca reproduz a organização visual de um portal.",
+    "A manchete em negrito concentra especialidade e localização.",
+    "O retrato aproxima a apresentação da profissional responsável."
+  ],
+  "quando_usar": "Para apresentar uma profissional e sua área de atuação com conteúdo editorial identificado.",
+  "estrutura_texto": "[Categoria editorial]\n[Profissional] atua em [local] com foco em [procedimentos]\n[Apresentação factual, qualificação e abordagem de atendimento]\n[Retrato autorizado]",
+  "legenda": "Cada consulta permite entender [necessidades], esclarecer dúvidas sobre [procedimentos] e avaliar possibilidades de cuidado. Conheça a atuação de [profissional], com foco em [especialidade] e orientação individualizada.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma peça quadrada com cabeçalho vermelho, título de categoria branco, manchete preta grande e parágrafo curto sobre fundo branco. Use a imagem fornecida na metade inferior, se for retrato autorizado da profissional; caso contrário, represente o serviço sem inventar uma identidade médica. Identifique o conteúdo como publicidade, não invente veículo ou endosso jornalístico e reserve espaço legível para identificação profissional. Evite alegações de superioridade e promessas de cicatrizes mínimas ou recuperação garantida.",
+  "alerta_politica": "Publicidade médica deve observar as regras do CFM, com identificação profissional e CRM/UF e RQE quando cabível. Não fabricar cobertura jornalística, prometer resultados ou minimizar riscos cirúrgicos. Na Meta, evitar atribuir insatisfação corporal ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "631518009247986",
+    "anunciante": "Drª. Cecília Ruiz - Cirurgiã Plástica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-02-06",
+    "dias_no_ar": 646,
+    "variacoes_ativas": 1,
+    "texto_original": "A Cirurgia Plástica não é apenas sobre técnica!\n\nQuando escolhi dedicar minha vida à medicina, sabia que estava assumindo uma responsabilidade muito grande. Cuidar da saúde e do bem-estar de outras pessoas é uma missão que levo profundamente a sério.\n\nCada procedimento que realizo é executado com a maior dedicação à segurança. Cada consulta é uma oportunidade para entender suas necessidades, responder suas perguntas e fornecer orientação personalizada.\n\nObrigada por fazerem parte da minha jornada!\n\nSe você concorda comigo, deixe sua 👏\n\n_______________________________\nDra. Cecília Ruiz\nCirurgiã Plástica SP\nCRM 201769 | RQE 19490",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-631518009247986.jpg"
+}

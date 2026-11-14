@@ -1,0 +1,90 @@
+{
+ "id": "vid-previsao-do-que-vem-vem-ai",
+ "tipo": "video",
+ "titulo": "Previsão sobre o que vai acontecer no seu mercado nos próximos meses",
+ "formato_video": "ugc-talking-head",
+ "nichos": [
+  "marketing-trafego",
+  "investimentos",
+  "ia-ferramentas",
+  "imoveis"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Nos próximos [meses], [mudança específica] pode alterar [tarefa do mercado]. Já dá para observar dois sinais.",
+  "texto_tela": "[Mudança prevista] • [horizonte]",
+  "visual": "Plano próximo ao ar livre, vegetação ao fundo; dois cartões de sinais substituem a fileira de selos."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano próximo ao ar livre, vegetação ao fundo; dois cartões de sinais substituem a fileira de selos.",
+   "fala": "Nos próximos [meses], [mudança específica] pode alterar [tarefa do mercado]. Já dá para observar dois sinais.",
+   "texto_tela": "[Mudança prevista] • [horizonte]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Plano médio, apresentador abre uma mão; cartão do primeiro sinal.",
+   "fala": "Primeiro: [sinal verificável 1]. Em [fonte e data], apareceu [fato concreto].",
+   "texto_tela": "Sinal 1: [fato] • [fonte/data]"
+  },
+  {
+   "tempo": "12-19s",
+   "cena": "Pequena mudança de posição, gesto com a outra mão; segundo cartão.",
+   "fala": "Segundo: [sinal verificável 2]. Isso já aparece em [exemplo documentado], segundo [fonte e data].",
+   "texto_tela": "Sinal 2: [fato] • [fonte/data]"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Enquadramento mais próximo, sublinhe só a consequência prática na legenda.",
+   "fala": "Se esse movimento continuar, [consequência plausível]. Para se preparar, comece por [ação pequena]. É uma hipótese; [limite da previsão].",
+   "texto_tela": "[Ação prática] • hipótese"
+  },
+  {
+   "tempo": "27-35s",
+   "cena": "Plano médio com mãos visíveis e gesto discreto para baixo.",
+   "fala": "Reuni os sinais em [material gratuito], com as fontes e o que acompanhar. Toque no botão para receber.",
+   "texto_tela": "Receba [material gratuito]"
+  }
+ ],
+ "por_que_funciona": [
+  "O apresentador fala próximo da câmera com as mãos dentro do quadro, acompanhando cada trecho.",
+  "As legendas brancas em negrito aparecem sobre a camiseta escura e usam sublinhado para destacar termos.",
+  "A fileira de elementos gráficos na abertura mostra uma forma de acomodar apoios visuais sem esconder o rosto.",
+  "O fundo com vegetação permanece enquanto mudam gestos e distância, mantendo continuidade entre trechos."
+ ],
+ "quando_usar": "Para especialistas que tenham dois sinais documentados de mudança em seu mercado. Use no topo do funil para apresentar uma hipótese e oferecer um material com fontes, sem prometer valorização ou retorno.",
+ "roteiro_modelo": "Nos próximos [meses], [mudança específica] pode alterar [tarefa do mercado]. Já dá para observar dois sinais.\n\n[Pausa / corte]\n\nPrimeiro: [sinal verificável 1]. Em [fonte e data], apareceu [fato concreto].\n\n[Pausa / corte]\n\nSegundo: [sinal verificável 2]. Isso já aparece em [exemplo documentado], segundo [fonte e data].\n\n[Pausa / corte]\n\nSe esse movimento continuar, [consequência plausível]. Para se preparar, comece por [ação pequena]. É uma hipótese; [limite da previsão].\n\n[Pausa / corte]\n\nReuni os sinais em [material gratuito], com as fontes e o que acompanhar. Toque no botão para receber.",
+ "tomadas_celular": [
+  "Plano próximo vertical em jardim, celular à altura dos olhos e luz de sombra aberta; grave 5s da previsão.",
+  "Plano médio com uma mão indicando espaço para cartão, mesma luz suave; grave 7s do sinal 1.",
+  "Plano médio com pequena mudança de posição, luz de sombra e fundo sem placas; grave 7s do sinal 2.",
+  "Plano próximo do rosto, celular apoiado e luz frontal difusa; grave 8s da consequência e limite.",
+  "Plano médio com as duas mãos visíveis, mesma luz; grave 8s do convite para o material."
+ ],
+ "caminho_ia": "Use Veo ou Sora para gerar um apresentador virtual no jardim, com avatar identificado e voz sintética; clone voz somente com autorização. Insira as fontes e datas manualmente no CapCut, usando dados conferidos. Prompts: \"Vertical 9:16 medium close-up of a fictional adult presenter in a leafy garden, plain dark shirt, open shade daylight, natural explanatory hand gestures, stable smartphone framing, no badges, logos or text.\" e \"Vertical 9:16 illustrative close-up of [market-related object or product], garden background softly blurred, slow push-in, natural daylight, neutral documentary style, no forecasts or numbers rendered, no text.\" Use cartões para os dois sinais, sem fabricar notícias, gráficos ou certificações.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte a execução ao meu produto, sem copiar a identidade ou as alegações da peça.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nPrevisão de 35s em cinco blocos: mudança com horizonte, sinal 1 com fonte e data, sinal 2 independente com fonte e data, consequência condicional com ação prática e limite, convite para material gratuito. Tom seguro ao citar fatos e condicional na previsão. Planos próximos ao ar livre, gestos naturais, legendas brancas em negrito e um termo sublinhado por trecho. Os cartões iniciais representam sinais, sem copiar selos. Não copie certificações, obrigações legais, promessa de proteção, identidade ou fala da referência. Não invente dados ou notícias; deixe fonte e data em colchetes se faltarem. Não faça recomendação individual de investimento nem prometa valorização. Use pt-BR falado, frases curtas e campos [adaptáveis]. Evite antíteses vazias, perguntas de enfeite, superlativos sem prova e fechos de efeito. Respeite as políticas aplicáveis ao produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Mudança] pode afetar [tarefa do mercado] nos próximos [meses]. A hipótese parte de [sinal 1] e [sinal 2]. Receba [material gratuito] com fontes e pontos para acompanhar. Atualizado em [data].",
+ "alerta_politica": "Meta: não prometer ganhos ou resultados financeiros irreais. Em investimentos, observar as regras da CVM para publicidade, oferta e análise de valores mobiliários conforme a atividade; não garantir rentabilidade e informar riscos e conflitos aplicáveis. Se a adaptação incluir crédito ou serviço bancário, cumprir as regras do Banco Central e informar custos e condições. Previsão deve ser identificada como hipótese, com fontes e data, sem garantia de valorização imobiliária.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c46af39b",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-previsao-do-que-vem-vem-ai/frames/f1.jpg",
+    "videos/vid-previsao-do-que-vem-vem-ai/frames/f2.jpg",
+    "videos/vid-previsao-do-que-vem-vem-ai/frames/f3.jpg",
+    "videos/vid-previsao-do-que-vem-vem-ai/frames/f4.jpg",
+    "videos/vid-previsao-do-que-vem-vem-ai/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

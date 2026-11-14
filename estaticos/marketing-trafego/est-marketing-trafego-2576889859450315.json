@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-2576889859450315",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre mudança no tráfego pago",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Arte vertical laranja com pergunta grande em branco, resposta em preto e convite menor para baixar material gratuito. A metade inferior permanece praticamente vazia.",
+  "por_que_funciona": [
+    "A pergunta em letras grandes introduz uma dúvida reconhecível por quem anuncia.",
+    "A resposta preta logo abaixo qualifica a chamada e cria uma segunda leitura.",
+    "O texto menor vincula o material gratuito à mudança trazida pela IA.",
+    "O fundo laranja uniforme e o amplo espaço vazio concentram a atenção no bloco de texto."
+  ],
+  "quando_usar": "Captação de leads para materiais que explicam mudanças em plataformas de anúncios.",
+  "estrutura_texto": "[Marca]\nÉ o fim de [prática]?\n[Qualificação da pergunta].\nBaixe [material gratuito] e entenda como [mudança] afeta [atividade].",
+  "legenda": "As plataformas de anúncios estão mudando com [tecnologia]. Entenda o que isso altera em [segmentação, análise ou criativos] e como revisar sua operação. Baixe [material gratuito] para conhecer [conteúdo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma peça tipográfica com fundo laranja vivo. Posicione a identidade própria discretamente no alto e alinhe à esquerda uma pergunta grande em serifada branca, seguida de uma resposta menor em preto. Acrescente um parágrafo curto de convite em branco e preserve amplo espaço livre na metade inferior. Não invente resultados de campanhas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2576889859450315",
+    "anunciante": "Hotmart",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 4,
+    "texto_original": "O tráfego pago não parou de funcionar, mas ele definitivamente não funciona mais como antigamente.\n\nHoje, as plataformas usam inteligência artificial para decidir quem vê seu anúncio, quando e por quê. E isso muda tudo: menos controle manual, mais leitura de dados e mais impacto do criativo.\n\nSe você ainda anuncia como em 2021, é natural sentir que os resultados não acompanham mais. Baixe o ebook gratuito da Hotmart e entenda como se adaptar a essa nova lógica!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-2576889859450315.jpg"
+}

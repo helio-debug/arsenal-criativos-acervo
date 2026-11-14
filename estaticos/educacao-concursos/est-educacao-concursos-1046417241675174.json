@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1046417241675174",
+  "tipo": "estatico",
+  "titulo": "Depoimento de aprovada com colocação e foto",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo violeta com detalhes laranja e depoimento em cartão azul-escuro. Na base, retrato circular e texto identificam a aprovada e a colocação.",
+  "por_que_funciona": [
+    "As aspas laranja sinalizam que o bloco principal é um relato.",
+    "O cartão escuro separa o depoimento do fundo violeta.",
+    "O negrito destaca os aspectos do acompanhamento citados pela aluna.",
+    "O retrato circular e a colocação contextualizam o resultado apresentado."
+  ],
+  "quando_usar": "Para apresentar experiências autorizadas de alunos de uma mentoria para concursos.",
+  "estrutura_texto": "FALA [APROVADA OU APROVADO]\n“[Contexto inicial]. [Como o acompanhamento ajudou]. [Meta e resultado].”\n[Identificação autorizada]\n[Colocação] — [Concurso]\n[Área de formação]",
+  "legenda": "Uma aluna de [área] conquistou [colocação comprovada] em [concurso]. Em seu relato, destaca [aspecto do acompanhamento] e [mudança na rotina de estudos]. Conheça como funciona a preparação individual de [programa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo violeta com pequenos detalhes geométricos laranja. No topo esquerdo, título branco com primeira palavra compacta e segunda palavra maior. Coloque um cartão azul-escuro arredondado com aspas laranja e depoimento branco, destacando em negrito os trechos centrais. Na base, alinhe retrato circular à esquerda e identificação autorizada com resultado à direita. Use depoimento real fornecido, sem inventar falas ou aprovações.",
+  "alerta_politica": "Divulgue apenas depoimento e resultado comprovados, com autorização da pessoa retratada. Não prometa que outros alunos terão a mesma aprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1046417241675174",
+    "anunciante": "Organiza Concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-31",
+    "dias_no_ar": 167,
+    "variacoes_ativas": 1,
+    "texto_original": "A preparação com direcionamento faz toda diferença. 🚀\n\nA Camila alcançou o 2º lugar na CAESB para Engenharia Civil.\n\nNa sua trajetória ela contou com acompanhamento individual, estudo direcionado e um passo a passo estruturado no Organiza, que ajudaram a tornar o caminho mais claro. 📚💙 \n\nParabéns pela dedicação e por esse grande resultado! 👏\n\n#FalaAprovado #CAESB #EngenhariaCivil #organizaconcursos #concursopublico",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1046417241675174.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-eventos-lives-2210776419509972",
+  "tipo": "estatico",
+  "titulo": "Atração confirmada em card de evento",
+  "formato": "Comunicado oficial",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Card verde anuncia uma dupla musical em um coquetel de relacionamento. Retratos das artistas, confirmação em letras grandes e faixa de serviço aparecem sobre fundo vertical desfocado.",
+  "por_que_funciona": [
+    "Os dois retratos tornam a atração o centro visual do anúncio.",
+    "A palavra de confirmação em letras grandes permite entender a novidade rapidamente.",
+    "Data, horário e local ficam agrupados abaixo da chamada para facilitar a consulta."
+  ],
+  "quando_usar": "Para anunciar uma atração já contratada e divulgar os dados de um evento.",
+  "estrutura_texto": "[Identidade do evento]\n[Nome da atração]\nATRAÇÃO CONFIRMADA!\n[Tipo de encontro] — [horário]\n[Data]\n[Local e cidade]\n[Organização]",
+  "legenda": "Confira [atração] em [evento], no dia [data], em [local]. Veja os detalhes no perfil [perfil].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um card central com cantos arredondados sobre fundo vertical desfocado. Use verde-escuro, detalhes geométricos verdes e texto branco. A IMAGEM 2 fornece a atração ou material autorizado do evento. Coloque dois retratos no centro, nome acima, confirmação em letras muito grandes abaixo e uma faixa inferior com horário, data e local. Reserve áreas discretas para a identidade própria do evento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2210776419509972",
+    "anunciante": "gustavo.herrmann",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-06",
+    "dias_no_ar": 100,
+    "variacoes_ativas": 3,
+    "texto_original": "instagram.com\nAcessar o perfil do Instagram",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-2210776419509972.jpg"
+}

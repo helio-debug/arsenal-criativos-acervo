@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-4457757711162983",
+  "tipo": "estatico",
+  "titulo": "Tabela de crédito imobiliário com entrada e parcelas",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte preta e branca com faixa de promoção no topo e título de crédito imobiliário. Abaixo das finalidades, uma tabela apresenta cinco valores de crédito, respectivas entradas e parcelas em prazo de 180 meses.",
+  "por_que_funciona": [
+    "A tabela de três colunas permite comparar crédito, entrada e parcela.",
+    "A faixa branca dá destaque ao título da modalidade.",
+    "As linhas horizontais separam as cinco opções de valores.",
+    "A lista de finalidades mostra os projetos contemplados pela oferta."
+  ],
+  "quando_usar": "Para apresentar planos de consórcio imobiliário a interessados que comparam valores, com modalidade e regras claramente identificadas.",
+  "estrutura_texto": "[Chamada comercial]\n[Modalidade exata]\n[Finalidades permitidas]\nCRÉDITO | [ENTRADA OU LANCE, CONFORME CONTRATO] | [PRAZO] PARCELAS\n[Valor do crédito] | [Valor inicial] | [Parcela]\n[Taxas e condições]",
+  "legenda": "Conheça planos de [consórcio imobiliário] para [finalidades permitidas]. Compare cartas de [faixa de valores] e consulte [prazo, taxas e condições]. Contemplação por sorteio ou lance, sem prazo garantido. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com textura geométrica sutil, cabeçalho comercial branco e uma faixa branca com título preto. Abaixo, centralize finalidades e tabela de três colunas com linhas finas brancas. Destaque valores em negrito. Utilize somente condições fornecidas, identifique explicitamente a modalidade e reserve área legível para taxas e regras. Não confunda lance com entrada nem consórcio com financiamento.",
+  "alerta_politica": "Consórcio: não prometer contemplação em prazo certo. Explicitar que a contemplação depende de sorteio ou lance e apresentar taxas, prazo e condições; não equiparar consórcio a crédito com liberação imediata. A arte chama o produto de crédito imobiliário e mostra entrada; a legenda o apresenta como consórcio. Esclarecer essa diferença e a natureza de cada valor antes de reutilizar.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4457757711162983",
+    "anunciante": "Nitro Invest",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-16",
+    "dias_no_ar": 212,
+    "variacoes_ativas": 2,
+    "texto_original": "Realize seu projeto imobiliário com estratégia e poder de compra. Nosso consórcio foi pensado para quem deseja quitar imóvel, comprar um novo patrimônio ou financiar construção, com total segurança e sem pagar juros.\nAqui, você tem acesso a cartas de crédito acima de R$120 mil, ideais para quem busca negócios maiores, valorização e liberdade para escolher o imóvel perfeito.\nPlanejamento inteligente, contemplações estratégicas e a solidez que você precisa para dar o próximo passo com confiança.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-4457757711162983.jpg"
+}

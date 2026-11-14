@@ -1,0 +1,94 @@
+{
+ "id": "vid-clientes-duas-faixas",
+ "tipo": "video",
+ "titulo": "Clientes relatam resultados no topo enquanto o apresentador reage embaixo",
+ "formato_video": "mural-prova-social",
+ "nichos": [
+  "saas-b2b",
+  "marketing-trafego",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "fundo",
+ "duracao": "40-45s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Ouça como [produto] entrou na rotina de quem usa.",
+  "texto_tela": "Quem usa [produto] conta",
+  "visual": "Apresentador em plano médio, braços cruzados à mesa. Prateleiras com luz quente ao fundo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Apresentador em plano médio, braços cruzados à mesa. Prateleiras com luz quente ao fundo.",
+   "fala": "Ouça como [produto] entrou na rotina de quem usa.",
+   "texto_tela": "Quem usa [produto] conta"
+  },
+  {
+   "tempo": "4-13s",
+   "cena": "Primeiro depoente em cores no alto; apresentador silencioso em preto e branco na metade inferior.",
+   "fala": "Eu precisava de [tarefa concreta]. Antes, eu fazia [processo anterior]. Comecei a usar [recurso] em [contexto].",
+   "texto_tela": "[Tarefa do primeiro cliente]"
+  },
+  {
+   "tempo": "13-22s",
+   "cena": "Mesmo depoente com recorte um pouco mais aberto e gesto das mãos; legenda branca na divisão.",
+   "fala": "Em [período], registramos [mudança comprovada]. Conferimos isso por [fonte do registro]. Esse foi o resultado na nossa operação.",
+   "texto_tela": "[Mudança comprovada] em [período]"
+  },
+  {
+   "tempo": "22-33s",
+   "cena": "Troca para segundo depoente no alto, mantendo a base fixa e dessaturada.",
+   "fala": "Aqui, o problema era [outra tarefa]. Com [recurso], passamos a [nova rotina]. Hoje acompanhamos [indicador] por [forma de conferir].",
+   "texto_tela": "[Nova rotina do segundo cliente]"
+  },
+  {
+   "tempo": "33-40s",
+   "cena": "Segundo depoente conclui; base volta gradualmente à cor.",
+   "fala": "O que mudou no meu dia foi [efeito concreto]. Ainda precisamos de [condição ou trabalho necessário] pra manter isso funcionando.",
+   "texto_tela": "[Efeito concreto na rotina]"
+  },
+  {
+   "tempo": "40-45s",
+   "cena": "Apresentador ocupa a tela inteira e aponta para a câmera.",
+   "fala": "Veja como [produto] funciona e confira se atende [necessidade].",
+   "texto_tela": "Conheça [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra o apresentador de braços cruzados e uma chamada no alto antes dos relatos, preparando a passagem de voz para os clientes.",
+  "Os depoentes ficam em cores acima da base dessaturada; a fala de cada um ganha o foco sem retirar o apresentador da composição.",
+  "A troca entre dois depoentes traz experiências diferentes, enquanto as legendas brancas acompanham a fala na divisão.",
+  "O último frame devolve a tela inteira ao apresentador, com o dedo voltado para a câmera, marcando a conclusão."
+ ],
+ "quando_usar": "Para software, serviços de marketing ou mentoria com relatos autorizados e específicos. Use quando o público já conhece a solução e quer ouvir experiências de uso.",
+ "roteiro_modelo": "[0-4s] Ouça como [produto] entrou na rotina de quem usa.\n\n[CORTE / PAUSA]\n\n[4-13s] Eu precisava de [tarefa concreta]. Antes, eu fazia [processo anterior]. Comecei a usar [recurso] em [contexto].\n\n[CORTE / PAUSA]\n\n[13-22s] Em [período], registramos [mudança comprovada]. Conferimos isso por [fonte do registro]. Esse foi o resultado na nossa operação.\n\n[CORTE / PAUSA]\n\n[22-33s] Aqui, o problema era [outra tarefa]. Com [recurso], passamos a [nova rotina]. Hoje acompanhamos [indicador] por [forma de conferir].\n\n[CORTE / PAUSA]\n\n[33-40s] O que mudou no meu dia foi [efeito concreto]. Ainda precisamos de [condição ou trabalho necessário] pra manter isso funcionando.\n\n[CORTE / PAUSA]\n\n[40-45s] Veja como [produto] funciona e confira se atende [necessidade].",
+ "tomadas_celular": [
+  "Apresentador sentado, plano médio frontal, celular apoiado e luz de janela lateral; grave 8s para abertura e fecho.",
+  "Apresentador em silêncio com braços cruzados, mesmo quadro e luz; grave 35s para a faixa inferior.",
+  "Cliente 1 em plano do peito para cima, olhando para entrevistador ao lado do celular, luz de janela a 45 graus; grave 20s.",
+  "Cliente 2 em plano médio, fundo simples e janela frontal; grave 20s com uma tarefa e uma mudança verificável.",
+  "Apresentador apontando discretamente para a lente, plano médio e mesma luz da abertura; grave 5s."
+ ],
+ "caminho_ia": "Use Runway para cenas e avatar com voz sintética licenciada para falas. Se não houver relatos autorizados, faça uma simulação identificada na tela; não apresente avatar como cliente real. Prompts: \"Vertical 9:16, medium shot of a fictional presenter seated at a dark desk, arms folded, warm practical shelf lighting, locked camera, no logos, leave upper half clear for [produto] overlay.\" e \"Vertical interview shot of a fictional business user explaining [tarefa com produto], chest-up framing, soft window key light, dark neutral background, natural hand gestures, no text, no branding.\" Monte as duas faixas no CapCut, dessature só a base e insira legendas brancas. Recrie relatos apenas a partir de fatos aprovados.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte abertura de 4s com apresentador à mesa, dois relatos no alto com apresentador silencioso embaixo e retorno ao plano inteiro no fecho. Duração de 45s, seis blocos. Tom de conversa, sem locução grandiosa. Legendas brancas curtas na divisão; base dessaturada durante os depoimentos. Cada relato deve citar tarefa, mudança e condição verificável. Não invente clientes nem números; se faltarem relatos, use simulações explicitamente identificadas. Não copie pessoas, nomes, cenário exato ou resultados da referência. Use pt-BR falado, frases curtas e [colchetes] para informações ausentes. Não use superlativos sem prova, perguntas de enfeite, antíteses vazias ou fechos de efeito. Não copie marcas, pessoas, contatos ou falas literais da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa] vista por quem usa [produto]. Os relatos mostram [mudança comprovada] em [contexto]. Cada operação tem suas condições. Confira os detalhes em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-10709916",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-clientes-duas-faixas/frames/f1.jpg",
+    "videos/vid-clientes-duas-faixas/frames/f2.jpg",
+    "videos/vid-clientes-duas-faixas/frames/f3.jpg",
+    "videos/vid-clientes-duas-faixas/frames/f4.jpg",
+    "videos/vid-clientes-duas-faixas/frames/f5.jpg"
+   ]
+  }
+ ]
+}

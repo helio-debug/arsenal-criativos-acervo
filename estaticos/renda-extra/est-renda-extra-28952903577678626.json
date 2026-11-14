@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-28952903577678626",
+  "tipo": "estatico",
+  "titulo": "Valor semanal em destaque sobre fundo amarelo",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com clarão central, moedas nas bordas e um valor semanal em preto ocupando o centro. Uma faixa destaca a periodicidade e o rodapé traz condições dos ganhos.",
+  "por_que_funciona": [
+    "O valor em preto ocupa a maior área da peça e concentra a leitura.",
+    "A faixa amarela separa a periodicidade do valor principal.",
+    "A frase sobre compartilhar interesses apresenta a atividade em linguagem simples.",
+    "O asterisco conecta a cifra às condições escritas no rodapé."
+  ],
+  "quando_usar": "Para apresentar um programa de afiliados a quem busca monetizar recomendações, com dados verificáveis sobre remuneração.",
+  "estrutura_texto": "[Categoria do programa]\nVocê pode ganhar [valor estimado]*\npor [período]\n[Atividade e facilidade de entrada]\n*[Base de cálculo e condições]",
+  "legenda": "Compartilhe [categoria de produtos] nas suas redes e receba [comissão] por [ação válida]. Conheça as regras de [programa] e faça seu cadastro [condição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo com luz branca central, moedas decorativas cortadas nas bordas, identificação pequena no topo e cifra preta muito grande no centro. Destaque o período em uma faixa e reserve rodapé legível para condições. Só inclua estimativa de ganhos fornecida e comprovada; na ausência dela, destaque o benefício sem cifra.",
+  "alerta_politica": "Meta: oportunidades de renda devem explicar a atividade e as condições, sem garantir ganhos ou sugerir resultados típicos sem comprovação. Valores e depoimentos precisam de evidências; ressalvas não corrigem uma promessa enganosa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28952903577678626",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 16,
+    "texto_original": "Seja um afiliado Mercado Livre e tenha lucros divulgando e vendendo produtos através das suas redes sociais. Cadastre-se gratuitamente!\nPrograma de Afiliados Mercado Livre!\nFaça parte do Programa de Afiliados e Criadores Mercado Livre e Conquiste Renda Extra Online!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-28952903577678626.jpg"
+}

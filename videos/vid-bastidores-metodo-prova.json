@@ -1,0 +1,102 @@
+{
+ "id": "vid-bastidores-metodo-prova",
+ "titulo": "Bastidores de execução com telas de agenda e resultados do método",
+ "formato_video": "bastidores",
+ "nichos": [
+  "marketing-trafego",
+  "mentoria-high-ticket",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "duracao": "40-45s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Câmera na mão atravessa um espaço de gravação, com luz, tripé e cabos à vista. Título amarelo no alto.",
+   "fala": "Vou mostrar como usamos [método] para [objetivo concreto].",
+   "texto_tela": "COMO FAZEMOS [TAREFA]"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Plano por trás do ombro de uma pessoa no notebook, equipamento de gravação ao lado.",
+   "fala": "Primeiro, abrimos [base de trabalho] e escolhemos [insumo] pelo critério de [critério verificável].",
+   "texto_tela": "1. ESCOLHER [INSUMO]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Câmera se aproxima de uma mesa com notebook e monitor; enquadre mãos no teclado e visão geral do trabalho.",
+   "fala": "Depois, ajustamos [material ou configuração] para [contexto de uso]. Aqui entra [etapa do método].",
+   "texto_tela": "2. AJUSTAR [ETAPA]"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Detalhe do material preparado na tela, com dados pessoais ocultos; corte para alguém executando a etapa.",
+   "fala": "Com [material] pronto, fazemos [execução]. Antes de usar, conferimos [critério de qualidade].",
+   "texto_tela": "3. EXECUTAR E CONFERIR"
+  },
+  {
+   "tempo": "26-37s",
+   "cena": "Aproxime a câmera do painel de agenda ou indicador; destaque somente os dados autorizados e o período.",
+   "fala": "Neste recorte de [período], registramos [quantidade] de [evento medido], com [indicador e unidade]. Os dados são deste caso.",
+   "texto_tela": "[INDICADOR] • [VALOR] • [PERÍODO]"
+  },
+  {
+   "tempo": "37-45s",
+   "cena": "Apresentador em selfie com escritório ao fundo, texto branco em tarjas vermelhas no alto.",
+   "fala": "Para avaliar esse processo em [contexto do comprador], agende [conversa ou demonstração] em [canal]. Veja [condição real de acesso].",
+   "texto_tela": "AGENDE [CONVERSA OU DEMONSTRAÇÃO]\n[CONDIÇÃO REAL, SE HOUVER]"
+  }
+ ],
+ "hook": {
+  "falado": "Vou mostrar como usamos [método] para [objetivo concreto].",
+  "texto_tela": "COMO FAZEMOS [TAREFA]",
+  "visual": "Câmera na mão atravessa um espaço de gravação, com luz, tripé e cabos à vista. Título amarelo no alto."
+ },
+ "por_que_funciona": [
+  "A abertura mostra tripés, iluminação e cabos antes de explicar o método.",
+  "Os planos por trás de quem trabalha no notebook e os detalhes da mesa acompanham as etapas narradas.",
+  "O enquadramento se aproxima de uma tela com indicadores numéricos, mudando da execução para o registro do caso.",
+  "A selfie final troca o ponto de vista e recebe texto branco em tarjas vermelhas, separado do título amarelo inicial."
+ ],
+ "quando_usar": "Para consultorias, mentorias e softwares com uma rotina de execução demonstrável e registros autorizados. Use no fundo do funil para apresentar o processo antes de convidar para uma conversa.",
+ "roteiro_modelo": "Vou mostrar como usamos [método] para [objetivo concreto].\n\n[pausa curta / corte]\n\nPrimeiro, abrimos [base de trabalho] e escolhemos [insumo] pelo critério de [critério verificável].\n\n[pausa curta / corte]\n\nDepois, ajustamos [material ou configuração] para [contexto de uso]. Aqui entra [etapa do método].\n\n[pausa curta / corte]\n\nCom [material] pronto, fazemos [execução]. Antes de usar, conferimos [critério de qualidade].\n\n[pausa curta / corte]\n\nNeste recorte de [período], registramos [quantidade] de [evento medido], com [indicador e unidade]. Os dados são deste caso.\n\n[pausa curta / corte]\n\nPara avaliar esse processo em [contexto do comprador], agende [conversa ou demonstração] em [canal]. Veja [condição real de acesso].",
+ "tomadas_celular": [
+  "Grave 4s caminhando devagar pelo espaço de trabalho, plano aberto vertical, luz natural e equipamentos à vista.",
+  "Grave 7s por trás do ombro de quem escolhe o insumo no notebook, luz lateral de janela e tela sem dados privados.",
+  "Grave 8s sobre a mesa durante o ajuste, plano de mãos e monitor, luz difusa e celular apoiado para evitar tremor.",
+  "Grave 7s alternando detalhe do material e execução, luz frontal suave, duas tomadas de cerca de 3s e 4s.",
+  "Grave 11s do painel real em close, brilho reduzido para não estourar, luz ambiente suave; oculte dados pessoais antes de filmar.",
+  "Grave 8s em selfie, braço estável, janela de frente, escritório ao fundo e espaço livre acima da cabeça para as tarjas."
+ ],
+ "caminho_ia": "Gere cenas de apoio no Veo: \"Vertical 9:16 handheld walkthrough of a compact workspace for [produto ou método], visible tripod and practical lighting, soft daylight, documentary realism, slow forward movement, no logos, no text\" e \"Vertical 9:16 over-the-shoulder close-up of hands preparing [material do método] at a laptop desk, soft side window light, gentle handheld camera, screen with abstract unreadable interface, no personal data\". Use avatar para o convite ou voz clonada autorizada na narração. No CapCut, intercale os clipes com capturas reais autorizadas dos indicadores, adicionando título amarelo e tarjas vermelhas. Se não houver dados, mostre uma tela marcada como demonstração e narre o que será medido, sem fabricar agenda ou resultado.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao meu produto usando os dados abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 45s em seis blocos: 0-4 espaço de execução, 4-11 seleção do insumo, 11-19 ajuste, 19-26 execução e conferência, 26-37 prova com indicador e período, 37-45 selfie com convite para agendamento. Câmera na mão, cortes entre espaços e detalhes, narração prática. Título amarelo no alto; convite branco em tarjas vermelhas. Preserve a oferta de conversa ou demonstração. Não copie preço, prazo promocional, números, nomes ou telas da referência. Não prometa agenda cheia. Mostre só registros reais autorizados e oculte dados pessoais; sem prova, apresente demonstração explicitamente identificada. Não copie rostos, nomes, marcas, logotipos, clientes, interfaces nem falas da referência. Use apenas dados comprovados do meu produto; mantenha campos entre colchetes se faltar informação. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias ou perguntas de enfeite. Entregue um roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Um trecho da execução de [método]: da escolha de [insumo] até a conferência de [indicador]. Dados do caso: [recorte e fonte autorizada]. Para avaliar a aplicação em [contexto], agende [conversa ou demonstração] em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c666be79",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-bastidores-metodo-prova/frames/f1.jpg",
+    "videos/vid-bastidores-metodo-prova/frames/f2.jpg",
+    "videos/vid-bastidores-metodo-prova/frames/f3.jpg",
+    "videos/vid-bastidores-metodo-prova/frames/f4.jpg",
+    "videos/vid-bastidores-metodo-prova/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-54ecb7ea",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

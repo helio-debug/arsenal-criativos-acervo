@@ -1,0 +1,36 @@
+{
+  "id": "est-ia-ferramentas-1591895492106814",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito de IA sobre foto de empreendedora no trabalho",
+  "formato": "Oferta e promoção",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de uma mulher de camisa vermelha usando um notebook em ambiente de trabalho. Texto branco no alto apresenta a proposta de produtividade, três etiquetas destacam curso, certificado e gratuidade, e um botão vermelho convida a começar.",
+  "por_que_funciona": [
+    "O notebook em uso contextualiza a aplicação da formação no trabalho.",
+    "As etiquetas brancas separam curso, certificado e gratuidade em pontos de leitura rápida.",
+    "O botão vermelho se destaca na área da foto com uma ação direta."
+  ],
+  "quando_usar": "Para captar inscrições em curso gratuito de IA voltado a empreendedores, com condições e certificação claras.",
+  "estrutura_texto": "[Marca]\nAumente a [benefício] da sua empresa com [tema]\nCurso de [tema]\n[Certificação comprovada]\nFormação gratuita\nComeça agora\n[Indicação de imagem gerada por IA, se aplicável]",
+  "legenda": "Aprenda, na prática, a usar [ferramenta de IA] em [tarefas da empresa]. Curso on-line e gratuito para [público], com [condições da certificação]. Confira o conteúdo e comece em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto vertical de pessoa trabalhando no notebook em ambiente acolhedor, com luz lateral quente, a partir da IMAGEM 2. Reserve a área superior esquerda para marca e chamada branca em tipografia condensada. Abaixo, inclua três etiquetas brancas arredondadas com texto vermelho e um botão vermelho à direita sobre a imagem. Use certificação somente se comprovada e identifique imagem sintética quando aplicável.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1591895492106814",
+    "anunciante": "Santander Empresas Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 2,
+    "texto_original": "Aprenda, na prática, a usar a IA do Google. Curso online e gratuito para empreendedores.\nTransforme a produtividade da sua empresa",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1591895492106814.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1443262414272282",
+  "tipo": "estatico",
+  "titulo": "Revestimento decorativo com desconto e benefícios",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto central mostra uma folha de revestimento rosa-claro sendo desenrolada. Faixa amarela no topo, três selos laterais e um selo de desconto amarelo cercam o produto.",
+  "por_que_funciona": [
+    "A folha desenrolada evidencia a cor e o acabamento do material.",
+    "O selo amarelo de até 10% destaca o desconto no canto inferior direito.",
+    "Os três selos à esquerda reúnem frete, devolução e parcelamento.",
+    "O nome da cor aparece em uma caixa fina sobre a foto."
+  ],
+  "quando_usar": "Lojas de revestimentos e materiais decorativos com promoção e condições comerciais definidas.",
+  "estrutura_texto": "[Marca da loja]\n[Chamada comercial]\n[Identificação da loja]\n[Nome da cor]\nFrete [condição]\nDevolução [condição]\n[Marca do produto]\n[Linha]\nParcelamento [condição]\nAté [percentual] OFF",
+  "legenda": "Renove [ambiente ou superfície compatível] com [revestimento] na cor [cor]. Aproveite até [percentual] de desconto em [itens elegíveis]. Confira [condições de frete], [parcelamento] e [devolução] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, cabeçalho amarelo e foto vertical central de uma folha do revestimento desenrolada, mostrando textura e cor. Inclua caixa fina com nome da cor no alto da foto, faixa cinza com a linha na base, três selos empilhados à esquerda e selo amarelo recortado de desconto no canto inferior direito. Dê maior peso ao percentual e use apenas ofertas confirmadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1443262414272282",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 7,
+    "texto_original": "Frete grátis* e envio super rápido em milhares de ofertas! Quer aproveitar?\nClique para ver mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1443262414272282.jpg"
+}

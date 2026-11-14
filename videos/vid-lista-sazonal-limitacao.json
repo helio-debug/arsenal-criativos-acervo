@@ -1,0 +1,96 @@
+{
+ "id": "vid-lista-sazonal-limitacao",
+ "titulo": "Personagem consulta lista de uma celebração e revela a limitação que impede aproveitá-la",
+ "formato_video": "lista-motivos",
+ "nichos": [
+  "estetica-clinicas",
+  "saude",
+  "emagrecimento-fitness",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "duracao": "45-55s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Tô fazendo a lista de [celebração]. Já coloquei [item ligado à ocasião].",
+  "texto_tela": "Minha lista de [celebração]",
+  "visual": "Pessoa sentada, com gorro e camiseta verdes, escreve num bloco; árvore com bolas vermelhas ocupa o fundo. Na adaptação, use um objeto da ocasião escolhida."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio da pessoa escrevendo; ela levanta os olhos para a câmera.",
+   "fala": "Tô fazendo a lista de [celebração]. Já coloquei [item ligado à ocasião].",
+   "texto_tela": "Minha lista de [celebração]"
+  },
+  {
+   "tempo": "5-14s",
+   "cena": "Aproxime o enquadramento; mostre o bloco apoiado na mão e a caneta apontando cada linha.",
+   "fala": "Aqui vai [item 1]. Também preciso de [item 2], porque [motivo concreto da escolha].",
+   "texto_tela": "[item 1] / [item 2]"
+  },
+  {
+   "tempo": "14-22s",
+   "cena": "Pessoa interrompe a escrita e olha para a lista, ainda no mesmo cenário.",
+   "fala": "Só falta organizar [cuidado ou tarefa]. Na última vez, [limitação prática, sem diagnóstico] atrapalhou [atividade da ocasião].",
+   "texto_tela": "Falta resolver: [tarefa]"
+  },
+  {
+   "tempo": "22-32s",
+   "cena": "Corte para mãos demonstrando um modelo ou objeto que explique o serviço, em fundo claro.",
+   "fala": "Com [serviço], dá pra avaliar [necessidade] e entender [etapa do atendimento]. O primeiro passo é [ação concreta].",
+   "texto_tela": "Como funciona: [etapa]"
+  },
+  {
+   "tempo": "32-40s",
+   "cena": "Plano de uma pessoa em situação cotidiana ligada à celebração; use cena ilustrativa, sem alegação de resultado.",
+   "fala": "Antes de decidir, eu quero saber [critério de escolha] e [condição do serviço]. Isso entra no meu planejamento.",
+   "texto_tela": "Confira [condição]"
+  },
+  {
+   "tempo": "40-50s",
+   "cena": "Retorne à pessoa junto à árvore, segurando o bloco e gesticulando para a câmera.",
+   "fala": "Na sua lista de [celebração], qual item vem primeiro? Pra conversar sobre [serviço], toque em [botão] e consulte [agenda disponível].",
+   "texto_tela": "[ação de agendamento]"
+  }
+ ],
+ "por_que_funciona": [
+  "O bloco e a caneta aparecem na abertura e tornam a lista um objeto que acompanha a fala.",
+  "O gorro verde e a árvore vermelha situam a ocasião antes de qualquer explicação.",
+  "O close de mãos com um modelo dentário interrompe a fala do apresentador para mostrar o assunto do serviço.",
+  "O retorno ao mesmo apresentador com o bloco amarra a pergunta final à lista inicial."
+ ],
+ "quando_usar": "Para serviços locais que precisam de avaliação antes da contratação. Use perto de uma celebração, quando o público está organizando a agenda e as atividades da data.",
+ "roteiro_modelo": "[0-5s] Tô fazendo a lista de [celebração]. Já coloquei [item ligado à ocasião].\n\n[pausa; corte]\n\n[5-14s] Aqui vai [item 1]. Também preciso de [item 2], porque [motivo concreto da escolha].\n\n[pausa; corte]\n\n[14-22s] Só falta organizar [cuidado ou tarefa]. Na última vez, [limitação prática, sem diagnóstico] atrapalhou [atividade da ocasião].\n\n[pausa; corte]\n\n[22-32s] Com [serviço], dá pra avaliar [necessidade] e entender [etapa do atendimento]. O primeiro passo é [ação concreta].\n\n[pausa; corte]\n\n[32-40s] Antes de decidir, eu quero saber [critério de escolha] e [condição do serviço]. Isso entra no meu planejamento.\n\n[pausa; corte]\n\n[40-50s] Na sua lista de [celebração], qual item vem primeiro? Pra conversar sobre [serviço], toque em [botão] e consulte [agenda disponível].",
+ "tomadas_celular": [
+  "Plano médio sentado com bloco e decoração da ocasião ao fundo; luz de janela lateral, 5s.",
+  "Plano mais fechado do rosto e bloco; mesma luz, duas falas de 5s.",
+  "Detalhe da caneta marcando uma pendência, sem dados pessoais; luz difusa, 5s.",
+  "Close de mãos demonstrando um modelo ou objeto do serviço; mesa clara e janela lateral, 10s.",
+  "Plano médio de atividade ligada à ocasião, com participante autorizado; luz natural, 8s.",
+  "Plano médio de volta à lista e convite final; luz da abertura, 10s."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou no Runway, mantendo a mesma pessoa e os objetos entre cenas. Prompts prontos: \"Vertical 9:16, medium shot of an adult writing a checklist for [seasonal occasion], festive home decor in the background, soft window key light, subtle handheld smartphone camera, 5 seconds, no logos, no rendered text.\" e \"Vertical 9:16, macro close-up of hands demonstrating [service demonstration prop] on a light tabletop, diffuse daylight, slow push-in, realistic materials, 6 seconds, no patient outcome, no branding.\". Para os demais blocos, mantenha essa linguagem visual e altere a ação conforme a estrutura. Use avatar para falas em quadro e voz sintética em pt-BR para locução; voz clonada apenas com autorização. Monte no CapCut, respeitando os tempos e as pausas. Também dá para montar um slideshow com imagens geradas e movimentos leves de aproximação. Identifique cenas ilustrativas e não apresente avatar como cliente ou profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nLista sazonal em 6 blocos: ocasião, itens, pendência, demonstração do serviço, critérios de escolha e convite para agendar. Tom de conversa, pausa ao consultar o papel, cortes mais curtos na demonstração. Texto branco pequeno em área segura, com uma frase por vez. Preserve a função do bloco e o retorno ao cenário. Não copie o personagem, a decoração exata, os alimentos, a marca ou as falas da referência.\n\nEstrutura com tempos: 0-5s: Plano médio da pessoa escrevendo; ela levanta os olhos para a câmera.; 5-14s: Aproxime o enquadramento; mostre o bloco apoiado na mão e a caneta apontando cada linha.; 14-22s: Pessoa interrompe a escrita e olha para a lista, ainda no mesmo cenário.; 22-32s: Corte para mãos demonstrando um modelo ou objeto que explique o serviço, em fundo claro.; 32-40s: Plano de uma pessoa em situação cotidiana ligada à celebração; use cena ilustrativa, sem alegação de resultado.; 40-50s: Retorne à pessoa junto à árvore, segurando o bloco e gesticulando para a câmera..\nUse pt-BR falado, frases curtas e informações comprováveis. Troque dados ausentes por [colchetes]. Adapte o objeto, a dificuldade e a demonstração ao meu produto, sem forçar assunto odontológico. Sem nomes, contatos ou frases da referência. Não use antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou promessa de resultado. Respeite as regras de publicidade do nicho.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Minha lista de [celebração] já tem [item]. Falta organizar [cuidado ou tarefa]. Consulte [condições do serviço] e agende [primeira etapa] em [canal]. Qual item você já separou?",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou insatisfação com o corpo; sem antes/depois corporal nem promessa de resultado de saúde. Não use segurança absoluta, cura ou resultado garantido. Em serviços médicos, siga as regras de publicidade do CFM; em odontologia, as do CFO/CRO. Alegações de produtos sujeitos à ANVISA devem respeitar sua regularização e indicações autorizadas. Cenas encenadas ou geradas não podem se passar por depoimento ou resultado clínico real.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d8d3d645",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-lista-sazonal-limitacao/frames/f1.jpg",
+    "videos/vid-lista-sazonal-limitacao/frames/f2.jpg",
+    "videos/vid-lista-sazonal-limitacao/frames/f3.jpg",
+    "videos/vid-lista-sazonal-limitacao/frames/f4.jpg",
+    "videos/vid-lista-sazonal-limitacao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

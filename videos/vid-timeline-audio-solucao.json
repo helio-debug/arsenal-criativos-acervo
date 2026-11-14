@@ -1,0 +1,102 @@
+{
+ "id": "vid-timeline-audio-solucao",
+ "titulo": "Animação de timelines: áudio ruim, ferramentas e exemplos de correção",
+ "formato_video": "animacao",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "35-45s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Em [tarefa], [falha observável] ainda atrapalha. Veja três recursos para ajustar isso.",
+  "texto_tela": "Ajuste [falha observável]",
+  "visual": "Fundo preto com brilho verde-limão, medidor e pequeno painel de prévia."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Título branco e verde-limão sobre painel escuro com medidor animado.",
+   "fala": "Em [tarefa], [falha observável] ainda atrapalha. Veja três recursos para ajustar isso.",
+   "texto_tela": "Ajuste [falha observável]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Timeline ampliada: marcar em vermelho o ponto da falha e em verde a correção. Se for áudio, tocar o mesmo trecho nas duas versões.",
+   "fala": "Neste ponto aparece [falha]. Com [ajuste], dá para observar [mudança verificável].",
+   "texto_tela": "[Falha] → [ajuste]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Primeiro cartão: busca sem correspondência e criação ou seleção de uma alternativa adequada.",
+   "fala": "O primeiro é [recurso 1]. Use quando faltar [elemento necessário]. Ele permite [ação demonstrável].",
+   "texto_tela": "01 | [recurso 1]"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Segundo cartão: cursor se aproxima de um marcador e encaixa uma peça no ponto destacado.",
+   "fala": "O segundo é [recurso 2]. Ele ajuda a colocar [elemento] em [etapa ou posição correta].",
+   "texto_tela": "02 | [recurso 2]"
+  },
+  {
+   "tempo": "27-34s",
+   "cena": "Terceiro cartão: grade de opções, escolha de um item e aplicação no painel.",
+   "fala": "O terceiro é [recurso 3]. Escolha [opção adequada] e aplique em [situação de uso].",
+   "texto_tela": "03 | [recurso 3]"
+  },
+  {
+   "tempo": "34-40s",
+   "cena": "Os três cartões se alinham acima da caixa de comentário.",
+   "fala": "Comente [palavra-chave] para receber [guia gratuito] com os três recursos e o passo a passo.",
+   "texto_tela": "Comente [palavra-chave]"
+  }
+ ],
+ "por_que_funciona": [
+  "O título branco com a linha verde-limão destaca a falha antes da apresentação das ferramentas.",
+  "Na timeline, a área vermelha e os marcadores verdes dão posição visual ao problema e ao ajuste.",
+  "A busca sem correspondência seguida de uma nova opção mostra o motivo de usar o primeiro recurso.",
+  "A grade de opções e o resumo final com três cartões tornam a oferta do guia identificável."
+ ],
+ "quando_usar": "Para quem ensina ou oferece recursos que corrigem uma falha demonstrável em uma tarefa. Use no meio do funil, quando o público já entende a tarefa e precisa escolher como executá-la.",
+ "roteiro_modelo": "Em [tarefa], [falha observável] ainda atrapalha. Veja três recursos para ajustar isso.\n\n[PAUSA / CORTE]\n\nNeste ponto aparece [falha]. Com [ajuste], dá para observar [mudança verificável].\n\n[PAUSA / CORTE]\n\nO primeiro é [recurso 1]. Use quando faltar [elemento necessário]. Ele permite [ação demonstrável].\n\n[PAUSA / CORTE]\n\nO segundo é [recurso 2]. Ele ajuda a colocar [elemento] em [etapa ou posição correta].\n\n[PAUSA / CORTE]\n\nO terceiro é [recurso 3]. Escolha [opção adequada] e aplique em [situação de uso].\n\n[PAUSA / CORTE]\n\nComente [palavra-chave] para receber [guia gratuito] com os três recursos e o passo a passo.",
+ "tomadas_celular": [
+  "Filme [falha observável] em plano fechado, 5s, luz lateral suave; mantenha o celular apoiado.",
+  "Repita o mesmo enquadramento com [ajuste] aplicado, 6s, sem mudar a luz para permitir comparação.",
+  "Filme a mão escolhendo [recurso 1], plano superior, 7s, luz de janela.",
+  "Filme a aplicação de [recurso 2], detalhe lateral, 7s, luz difusa.",
+  "Mostre opções de [recurso 3] e uma escolha, plano fechado, 6s, iluminação uniforme.",
+  "Filme os três recursos ou cartões juntos, plano superior, 5s, luz suave; acrescente a caixa de comentário no editor."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou Runway e monte no CapCut com imagens geradas em camadas. Use estes prompts de cena: \"Vertical 9:16 abstract workflow timeline for [product task], dark background, lime green playhead, red error marker at [problem step], slow macro push in, no text, no logos.\" \"Vertical 9:16 motion graphic, three blank resource cards for [product], one card snaps precisely onto a highlighted workflow marker, lime accents, black background, locked camera, no text.\" Acrescente títulos, numeração e legendas no editor, para manter o texto legível. Use voz sintética em pt-BR ou voz clonada com autorização, sem imitar a voz da referência. Sincronize cada troca visual à narração. Represente funções e resultados verificáveis do produto; identifique como ilustração qualquer interface ou demonstração simulada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo e exemplos próprios.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nTotal de 40s: problema 0-5s, comparação controlada 5-11s, recurso 1 até 19s, recurso 2 até 27s, recurso 3 até 34s e guia até 40s. Painéis escuros, destaques verde-limão e marcadores de posição. Para áudio, use um trecho idêntico e compare com volume de reprodução equivalente. Para outros produtos, adapte a timeline para etapas de uso reais. Não invente precisão, gratuidade dos recursos ou desempenho. Não copie interfaces, mascote, ferramentas nem falas da referência. Use pt-BR falado e direto, frases curtas e [colchetes] para dados ausentes. Não invente benefícios, números ou condições. Evite superlativos, perguntas de enfeite e antíteses vazias. Mostre apenas informações da minha marca; não reproduza nomes, pessoas, logotipos, contatos ou domínios da referência. Ofereça material gratuito apenas se informado; se faltar, sinalize [material gratuito a definir].\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [aplicações ou etapas demonstradas] de [produto] em [situação de uso]. Comente [palavra-chave] para receber [material gratuito] com [conteúdo do material]. [Condição real de acesso, se houver].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-38546fa6",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-timeline-audio-solucao/frames/f1.jpg",
+    "videos/vid-timeline-audio-solucao/frames/f2.jpg",
+    "videos/vid-timeline-audio-solucao/frames/f3.jpg",
+    "videos/vid-timeline-audio-solucao/frames/f4.jpg",
+    "videos/vid-timeline-audio-solucao/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-960bee32",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

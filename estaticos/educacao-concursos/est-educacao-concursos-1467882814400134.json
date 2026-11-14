@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1467882814400134",
+  "tipo": "estatico",
+  "titulo": "E-book gratuito com capa em tablet",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Arte vertical em azul e vermelho com emblema policial ao fundo, título de guia de estudos e convite para baixar gratuitamente. Um tablet exibe a capa no canto inferior direito.",
+  "por_que_funciona": [
+    "O título grande identifica a carreira e o assunto do material.",
+    "A faixa amarela destaca o recorte do conteúdo.",
+    "O convite para baixar explicita que o e-book é gratuito.",
+    "O tablet torna visível a apresentação do material digital."
+  ],
+  "quando_usar": "Para captar interessados em uma carreira ou prova com um material introdutório específico.",
+  "estrutura_texto": "[marca] + [como estudar para objetivo] + [recorte do guia] + [chamada de início] + Baixe o [material] gratuito para [público] + [site].",
+  "legenda": "Baixe o [material gratuito] sobre [como estudar para objetivo]. Veja [conteúdos do guia] e organize sua preparação. Clique em [link] e cadastre-se para receber.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul profundo com brilho azul no topo e vermelho na base, usando elementos discretos ligados ao tema do produto. Centralize título branco em caixa alta, uma faixa amarela e o convite de download. Posicione mockup de tablet com a capa da IMAGEM 2 no canto inferior direito e [site] à esquerda. Não prometa aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1467882814400134",
+    "anunciante": "Dedicação Delta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-04",
+    "dias_no_ar": 467,
+    "variacoes_ativas": 1,
+    "texto_original": "Acesse o nosso e-book GRATUITO sobre Como Estudar para Concursos de Delegado de Polícia. O guia de estudos para a carreira de Delegado! Nele você vai ver as estratégias para que você consiga alcançar a sua almejada aprovação. Aprenda com especialistas que já foram aprovados nos concursos mais exigentes do país.\n\n🎯 São mais de 7 anos aprovando Delegados em todo o Brasil.\n🧠 Milhares de alunos já passaram por aqui — agora é a sua vez.\n\n✅ Basta clicar no link e se cadastrar!\nE-book Gratuito",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1467882814400134.jpg"
+}

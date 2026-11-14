@@ -1,0 +1,36 @@
+{
+  "id": "est-marketing-trafego-28527593936941766",
+  "tipo": "estatico",
+  "titulo": "Oferta de franquia sobre foto de escritório",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma sala de reunião com cadeiras, letreiro luminoso e iluminação vermelha ocupa o fundo. A oferta aparece sobre painel escuro translúcido, seguida de apoio e botão vermelho.",
+  "por_que_funciona": [
+    "A sala de reunião mostra uma referência concreta de ambiente de operação.",
+    "O painel translúcido separa a chamada dos detalhes da fotografia.",
+    "O botão vermelho sobre a área escura evidencia o próximo passo."
+  ],
+  "quando_usar": "Para apresentar uma franquia a interessados que querem visualizar o ambiente e a estrutura da operação.",
+  "estrutura_texto": "[Letreiro da marca no ambiente]\nSeja dono de uma\n[EMPRESA DO SETOR]\n([Condição central da proposta])\nTenha [operação] com [estrutura e suporte oferecidos].\n[CTA]",
+  "legenda": "Conheça a oportunidade de abrir ou ampliar sua operação em [setor] com [modelo de franquia]. Veja [estrutura], [processos] e [suporte incluído]. Solicite os números da rede, os custos e as condições para avaliar a proposta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de um escritório ou sala de reunião real, com cadeiras e iluminação de destaque. Aplique escurecimento progressivo na metade inferior. Sobreponha um painel translúcido com chamada central, categoria em caixa alta condensada e complemento entre parênteses. Abaixo, coloque apoio branco em três linhas e botão vermelho com CTA em caixa alta. Utilize apenas a marca informada e outro ambiente, sem reproduzir o local da referência.",
+  "alerta_politica": "Ao promover oportunidade de negócio, não prometa lucro, renda garantida ou demanda previsível sem comprovação. Informe que resultados dependem da operação e apresente investimento, taxas e condições com clareza.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28527593936941766",
+    "anunciante": "V4 Company",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 25,
+    "texto_original": "Você está pronto para construir ou escalar sua operação de marketing?\n \nA franquia V4 oferece uma solução pronta: estrutura comprovada, processos definidos e a maior marca de marketing do Brasil.\n\n99% dos nossos franqueados abririam novamente! Quer saber mais sobre essa oportunidade?\n-> Veja os números da rede antes de decidir",
+    "origem_coleta": "acervo:v4-company"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-28527593936941766.jpg"
+}

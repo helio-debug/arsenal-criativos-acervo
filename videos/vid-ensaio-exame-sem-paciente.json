@@ -1,0 +1,73 @@
+{
+ "id": "vid-ensaio-exame-sem-paciente",
+ "tipo": "video",
+ "titulo": "Ensaio de exame com equipamento desligado e boneco",
+ "formato_video": "bastidores",
+ "nichos": [
+  "saude"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quer ver como é a preparação pra [exame]? Esse é um ensaio.",
+  "texto_tela": "Demonstração sem paciente",
+  "visual": "Equipamento vazio e boneco de demonstração entram no quadro."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Equipamento vazio e boneco de demonstração entram no quadro.",
+   "fala": "Quer ver como é a preparação pra [exame]? Esse é um ensaio.",
+   "texto_tela": "Demonstração sem paciente"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Profissional posiciona boneco e identifica peça do equipamento.",
+   "fala": "A equipe orienta [etapa de preparação]. Aqui mostramos só o posicionamento.",
+   "texto_tela": "[Etapa de preparação]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Cartela sobre plano do ambiente explica o que confirmar.",
+   "fala": "Confirme com a clínica [preparo específico]. As orientações mudam conforme o exame.",
+   "texto_tela": "Confirme seu preparo"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Recepção vazia e informação de contato genérica.",
+   "fala": "Consulte a indicação, os horários e as condições de [serviço] em [canal].",
+   "texto_tela": "Informações de [serviço]"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a operação concreta: Equipamento vazio e boneco de demonstração entram no quadro.",
+  "O segundo enquadramento deixa visível o detalhe usado na explicação: Profissional posiciona boneco e identifica peça do equipamento.",
+  "A etapa seguinte informa o limite da demonstração junto da imagem: Confirme seu preparo"
+ ],
+ "quando_usar": "Quando a pessoa já considera [produto ou serviço] e precisa entender a execução mostrada em “Ensaio de exame com equipamento desligado e boneco”. Usar somente se a operação for compatível com o produto e houver informação verificável.",
+ "roteiro_modelo": "0-4s | Quer ver como é a preparação pra [exame]? Esse é um ensaio.\n4-11s | A equipe orienta [etapa de preparação]. Aqui mostramos só o posicionamento.\n11-19s | Confirme com a clínica [preparo específico]. As orientações mudam conforme o exame.\n19-26s | Consulte a indicação, os horários e as condições de [serviço] em [canal].",
+ "tomadas_celular": [
+  "Grave vertical, celular em apoio firme e luz lateral suave: Equipamento vazio e boneco de demonstração entram no quadro.",
+  "Faça plano de detalhe com foco travado e sem zoom digital: Profissional posiciona boneco e identifica peça do equipamento.",
+  "Grave uma tomada completa, com luz igual à anterior: Cartela sobre plano do ambiente explica o que confirmar.",
+  "Grave o fechamento em plano médio ou de produto, deixando margem para legenda: Recepção vazia e informação de contato genérica."
+ ],
+ "caminho_ia": "Produza uma versão ilustrativa em Sora/Veo com fotos autorizadas e especificações reais de [produto]. Gere a cena de abertura com o prompt: \"Vídeo vertical, luz natural, Equipamento vazio e boneco de demonstração entram no quadro. Sem marcas de terceiros, sem letras geradas.\" Para o detalhe use: \"Vídeo vertical com câmera estável, Profissional posiciona boneco e identifica peça do equipamento. Preservar dimensões e materiais da referência autorizada.\" Monte as quatro cenas no editor, grave voz sintética identificada e adicione os textos depois. Identifique cenas sintéticas como ilustração. Não use geração para alegar reação real, teste físico, resultado clínico ou execução contínua comprovada; nesses casos substitua a prova por diagrama claramente identificado e mantenha a informação técnica fornecida.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAdapte o formato “Ensaio de exame com equipamento desligado e boneco” para este produto. Entregue roteiro falado em pt-BR, legenda do anúncio e prompts de cena. Use quatro cenas com estes tempos: 0-4s, 4-11s, 11-19s e 19-26s. Preserve esta operação visual: Equipamento vazio e boneco de demonstração entram no quadro. / Profissional posiciona boneco e identifica peça do equipamento. / Cartela sobre plano do ambiente explica o que confirmar. / Recepção vazia e informação de contato genérica. Use [colchetes] para informação ausente e peça confirmação antes de transformar suposição em alegação. Escreva instruções de enquadramento, luz, ação e texto de tela para cada cena. Não invente depoimentos, desempenho, preço ou recomendação clínica. Identifique ilustrações geradas e mantenha os limites de segurança e os cuidados do manual. Inclua no fim a legenda e uma lista dos dados que precisam de confirmação.",
+ "legenda": "Veja como funciona [produto ou serviço] nesta demonstração. Confira [informação essencial de escolha] e [condições reais da oferta] em [canal]. A indicação depende de avaliação profissional.",
+ "alerta_politica": "Não atribuir doença, condição corporal ou insegurança a quem assiste. Usar informação revisada pelo profissional responsável, sem promessa de cura, perda de peso ou resultado garantido. Respeitar regras do conselho profissional e da plataforma; obter consentimento específico para imagem. Simulações devem ser identificadas, sem se passar por resultado clínico.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1309554904144553",
+   "dias_no_ar": 155,
+   "views": 0,
+   "frames": [],
+   "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/saude/insonia/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+  }
+ ],
+ "validacao": "media"
+}

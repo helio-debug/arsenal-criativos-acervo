@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-769590875850367",
+  "tipo": "estatico",
+  "titulo": "Chamada de revenda com percentual em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo preto, uma chamada de revenda destaca um percentual de lucro em amarelo. Embalagens variadas formam uma vitrine na base, abaixo do convite para clicar.",
+  "por_que_funciona": [
+    "O percentual amarelo é o maior elemento e domina a leitura.",
+    "A palavra revenda esclarece que a proposta é comercial.",
+    "Os diferentes potes mostram o mix disponível para revender.",
+    "O convite para clicar aparece em um bloco delimitado acima dos produtos."
+  ],
+  "quando_usar": "Para fornecedores que recrutam revendedores e conseguem documentar condições, custos e margens.",
+  "estrutura_texto": "[Marca]\nLucre até [percentual comprovável]\nRevenda de [categoria]\nClique no link e descubra como\n[Mix de produtos]",
+  "legenda": "Revenda [categoria] com [condições comerciais]. Consulte o cupom de [desconto] e peça um orçamento em [canal]. Confira os custos e as regras antes de começar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com textura discreta, título branco e destaque numérico amarelo. Coloque chamada de revenda no centro, botão visual com convite para consultar condições e mix de produtos na base a partir da IMAGEM 2. Só use percentuais fornecidos e comprovados; se não houver comprovação, substitua o número por uma chamada para conhecer as condições.",
+  "alerta_politica": "Não apresente lucro como garantido. Percentuais de revenda precisam de comprovação e contexto sobre custos e base de cálculo; desconto de compra não equivale a lucro líquido. Para os suplementos exibidos, evite alegações terapêuticas ou de resultado físico garantido.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "769590875850367",
+    "anunciante": "Max Elite",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-18",
+    "dias_no_ar": 422,
+    "variacoes_ativas": 1,
+    "texto_original": "🔥💪 Seja nosso Revendedor da Max Elite! Utilizada por diversos atletas de alta performar 💥⚡️\n\nClique saiba mais e adquira agora o CUPOM de 50%OFF.\nWHATSAPP\nRealizar o Orçamento",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-769590875850367.jpg"
+}

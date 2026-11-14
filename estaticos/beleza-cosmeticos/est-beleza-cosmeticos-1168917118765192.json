@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1168917118765192",
+  "tipo": "estatico",
+  "titulo": "Kit de cuidados com preço e economia em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Mão segura quatro cosméticos à esquerda; um frasco com conta-gotas aparece separado à direita. Preço anterior, preço promocional e economia ocupam chamadas em rosa sobre fundo floral.",
+  "por_que_funciona": [
+    "A mão segurando os potes oferece uma referência de tamanho para o kit.",
+    "O preço promocional em negrito recebe mais destaque que o valor anterior.",
+    "O sérum separado e o texto “+ 4 itens” ajudam a entender a composição.",
+    "A faixa rosa inferior destaca a economia em reais."
+  ],
+  "quando_usar": "Para vender conjuntos de cuidados pessoais quando a composição e a vantagem de preço estão definidas.",
+  "estrutura_texto": "[Kit completo]\nDe [preço anterior] → [preço atual]\n[Produto principal] + [quantidade de itens]\nEconomize [valor] agora!",
+  "legenda": "Inclua [kit com quantidade de produtos] na sua rotina de cuidados. De [preço anterior] por [preço atual]: uma economia de [valor]. Confira [composição e condições] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza-claro com flores rosas nas bordas. Posicione uma mão segurando os itens à esquerda e o produto principal isolado à direita. Coloque a oferta no alto à direita e uma faixa rosa com a economia no rodapé. Preserve a leitura das embalagens sem inventar benefícios.",
+  "alerta_politica": "Em cosméticos, use apenas benefícios sustentados pela regularização e pelas evidências do produto. Evite promessas de rejuvenescimento garantido e alegações terapêuticas; apresente preços e condições reais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1168917118765192",
+    "anunciante": "Kokeshi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 1,
+    "texto_original": "Gente, esse kit da Kokeshi transformou minha rotina! São 5 produtos pra uma pele firme, iluminada e super hidratada, com aquele glow de gueixa que a gente ama. E o melhor? DE R$314,40 POR SÓ R$169,90! É um presente pra você se sentir poderosa todos os dias. Você ainda economiza R$144,50! Corre que é por tempo limitado!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1168917118765192.jpg"
+}

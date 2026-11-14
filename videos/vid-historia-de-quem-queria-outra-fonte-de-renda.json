@@ -1,0 +1,93 @@
+{
+ "id": "vid-historia-de-quem-queria-outra-fonte-de-renda",
+ "nichos": [
+  "renda-extra",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "aula-ou-live-gratuita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Relato em primeira pessoa com demonstração e convite para aula",
+ "formato_video": "storytime",
+ "duracao": "51s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Eu queria aprender [atividade], mas travava na hora de [primeira tarefa].",
+  "texto_tela": "Meu começo com [atividade]",
+  "visual": "Apresentadora sentada em plano médio, fundo claro, planta e mesinha com um produto; faixa de legenda em cor forte."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentadora sentada em plano médio, fundo claro, planta e mesinha com um produto; faixa de legenda em cor forte.",
+   "fala": "Eu queria aprender [atividade], mas travava na hora de [primeira tarefa].",
+   "texto_tela": "Meu começo com [atividade]"
+  },
+  {
+   "tempo": "8-17s",
+   "cena": "Manter plano sentado e gestos naturais; legenda baixa em faixa contrastante.",
+   "fala": "Minha dúvida era [dúvida real]. Antes de começar, fui conferir [requisito] e o custo de [recurso].",
+   "texto_tela": "O que precisei conferir"
+  },
+  {
+   "tempo": "17-26s",
+   "cena": "Corte para plano de corpo inteiro com o produto ou material de trabalho visível.",
+   "fala": "Na [aula ou formação], vi como fazer [ação concreta]. Separei [material] para testar o primeiro passo.",
+   "texto_tela": "Primeiro passo: [ação]"
+  },
+  {
+   "tempo": "26-36s",
+   "cena": "Plano aberto da demonstração; mostrar uma tarefa simples com o material, sem encenar ganhos.",
+   "fala": "Comecei com [tarefa pequena] em [período disponível]. Anotei [custo ou dificuldade] para entender o trabalho envolvido.",
+   "texto_tela": "Teste pequeno + registro dos custos"
+  },
+  {
+   "tempo": "36-46s",
+   "cena": "Voltar ao plano sentado, com as mãos abertas para explicar o convite.",
+   "fala": "Na aula gratuita de [tema], você pode ver [conteúdo] e conferir os requisitos. Os resultados variam com a execução, os custos e a demanda.",
+   "texto_tela": "Aula gratuita: [tema]"
+  },
+  {
+   "tempo": "46-51s",
+   "cena": "Cartela lisa de encerramento com título da aula e ação única.",
+   "fala": "Toque em [botão] e veja os detalhes da aula.",
+   "texto_tela": "Veja os detalhes em [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O plano sentado com planta e mesa cria um cenário constante para acompanhar o relato.",
+  "As legendas brancas em faixas vermelhas deixam a fala legível sobre o fundo claro.",
+  "O corte para corpo inteiro apresenta o produto no meio do relato, em vez de depender só da fala.",
+  "O retorno à cadeira antecede o convite, seguido de uma cartela vermelha de encerramento."
+ ],
+ "quando_usar": "Para cursos de atividades que podem gerar renda, ao apresentar a rotina e os requisitos antes de uma aula gratuita. Use a primeira pessoa apenas com relato verdadeiro; com ator ou avatar, identifique a dramatização.",
+ "roteiro_modelo": "Eu queria aprender [atividade], mas travava na hora de [primeira tarefa].\n\n[Corte / pausa curta]\n\nMinha dúvida era [dúvida real]. Antes de começar, fui conferir [requisito] e o custo de [recurso].\n\n[Corte / pausa curta]\n\nNa [aula ou formação], vi como fazer [ação concreta]. Separei [material] para testar o primeiro passo.\n\n[Corte / pausa curta]\n\nComecei com [tarefa pequena] em [período disponível]. Anotei [custo ou dificuldade] para entender o trabalho envolvido.\n\n[Corte / pausa curta]\n\nNa aula gratuita de [tema], você pode ver [conteúdo] e conferir os requisitos. Os resultados variam com a execução, os custos e a demanda.\n\n[Corte / pausa curta]\n\nToque em [botão] e veja os detalhes da aula.",
+ "tomadas_celular": [
+  "Grave a abertura sentado, plano da cintura para cima, luz de janela lateral suave, por 8s.",
+  "Grave a dúvida no mesmo enquadramento e luz por 9s, com pausas entre frases.",
+  "Grave corpo inteiro com o material da atividade por 9s, celular apoiado e luz frontal difusa.",
+  "Filme a tarefa em plano aberto ou detalhe de mãos por 10s, em mesa iluminada.",
+  "Grave o convite sentado por 10s, mantendo a câmera na altura dos olhos."
+ ],
+ "caminho_ia": "Sem gravar, use avatar com voz sintética licenciada e cenas do Veo ou Kling, editadas no CapCut. Identifique como dramatização e reescreva o relato como situação ilustrativa, sem fingir experiência real do avatar. Prompts: \"Landscape 16:9 medium shot of a fictional presenter seated in a bright minimal room, small plant and [product] on a side table, soft window light, locked eye-level camera, natural hand gestures, eight seconds, no logos.\" e \"Landscape 16:9 full-body shot of the same fictional presenter demonstrating [activity] with [product], neutral studio background, soft frontal lighting, slow natural movement, nine seconds, no text.\" Sobreponha as faixas de legenda no editor e finalize com cartela.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte um storytime horizontal de 51s, tom de conversa: dificuldade 0-8s, dúvida e requisitos 8-17s, aprendizado 17-26s, teste pequeno 26-36s, convite para aula 36-46s e cartela 46-51s. Alterne pessoa sentada e plano de corpo inteiro com o material. Legendas curtas em faixas contrastantes na parte baixa. Não copie a atividade nem as alegações financeiras da referência. Se não houver depoimento verificado, converta a primeira pessoa em dramatização identificada, sem atribuir resultado ao personagem. Informe custos e requisitos reais, sem prometer ganho. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não copie nomes, pessoas, marcas, logotipos, domínios ou frases da referência. Não invente dados, resultados ou depoimentos. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja como funciona [atividade] antes de começar. A aula gratuita apresenta [conteúdo] e os requisitos para testar. Confira custos e condições em [canal]. Não há garantia de renda.",
+ "alerta_politica": "Meta: oportunidades de negócio não podem prometer renda garantida, ganho fácil ou resultado típico sem comprovação. Informe custos, requisitos e que resultados variam; não insinue conhecer a situação financeira de quem assiste. Use depoimento verdadeiro e autorizado ou dramatização identificada, sem apresentar ator ou avatar como caso real.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "NsVOYdV157k",
+   "dias_no_ar": null,
+   "views": 13236351,
+   "frames": [
+    "videos/vid-historia-de-quem-queria-outra-fonte-de-renda/frames/f1.jpg",
+    "videos/vid-historia-de-quem-queria-outra-fonte-de-renda/frames/f2.jpg",
+    "videos/vid-historia-de-quem-queria-outra-fonte-de-renda/frames/f3.jpg",
+    "videos/vid-historia-de-quem-queria-outra-fonte-de-renda/frames/f4.jpg",
+    "videos/vid-historia-de-quem-queria-outra-fonte-de-renda/frames/f5.jpg"
+   ]
+  }
+ ]
+}

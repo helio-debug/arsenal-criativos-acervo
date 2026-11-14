@@ -1,0 +1,104 @@
+{
+ "id": "vid-contagem-regressiva-de-itens",
+ "tipo": "video",
+ "titulo": "Cinco itens em contagem, cada um com uma frase e um corte",
+ "formato_video": "lista-motivos",
+ "nichos": [
+  "infoproduto-cursos",
+  "ia-ferramentas",
+  "saude",
+  "moda-acessorios"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Cinco pontos para conferir antes de escolher [categoria]. Vou do cinco ao um.",
+  "texto_tela": "5 pontos sobre [categoria]",
+  "visual": "Plano próximo sentado à mesa, mão aberta mostrando cinco dedos."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano próximo sentado à mesa, mão aberta mostrando cinco dedos.",
+   "fala": "Cinco pontos para conferir antes de escolher [categoria]. Vou do cinco ao um.",
+   "texto_tela": "5 pontos sobre [categoria]"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Corte seco, apresentador aponta o número grande no alto.",
+   "fala": "Cinco: [critério de uso]. Confira se [verificação simples].",
+   "texto_tela": "5 • [critério de uso]"
+  },
+  {
+   "tempo": "9-14s",
+   "cena": "Aproxime o enquadramento, mantendo a mesa e as prateleiras.",
+   "fala": "Quatro: [critério de conteúdo ou composição]. Procure [informação verificável].",
+   "texto_tela": "4 • [critério de conteúdo]"
+  },
+  {
+   "tempo": "14-19s",
+   "cena": "Volte ao plano médio; mostre uma imagem ou detalhe sem dados pessoais.",
+   "fala": "Três: [critério de adequação]. Veja se serve para [situação de uso].",
+   "texto_tela": "3 • [critério de adequação]"
+  },
+  {
+   "tempo": "19-24s",
+   "cena": "Novo corte, mão enumera e legenda amarela acompanha a frase.",
+   "fala": "Dois: [limite importante]. Leia [condição que precisa ser conferida].",
+   "texto_tela": "2 • [limite importante]"
+  },
+  {
+   "tempo": "24-29s",
+   "cena": "Plano próximo, gesto de um dedo e número grande.",
+   "fala": "Um: [critério decisivo]. Compare com [necessidade concreta] antes de decidir.",
+   "texto_tela": "1 • [critério decisivo]"
+  },
+  {
+   "tempo": "29-35s",
+   "cena": "Plano médio com gesto indicando o botão.",
+   "fala": "Deixei esses cinco pontos em [material gratuito]. Toque no botão para receber e consultar depois.",
+   "texto_tela": "Receba [material gratuito]"
+  }
+ ],
+ "por_que_funciona": [
+  "As mãos entram perto da lente e reforçam a enumeração falada da referência.",
+  "As legendas amarelas sobre a camiseta escura separam palavras da fala do fundo claro.",
+  "Há variação entre rosto próximo e tronco com braços na mesa, oferecendo mudanças visuais no mesmo cenário.",
+  "O texto grande no alto acrescenta uma segunda hierarquia de leitura às legendas curtas."
+ ],
+ "quando_usar": "Para cursos e materiais educativos que organizem critérios de escolha nos nichos listados. Use no topo do funil para entregar uma lista útil e levar a um material gratuito.",
+ "roteiro_modelo": "Cinco pontos para conferir antes de escolher [categoria]. Vou do cinco ao um.\n\n[Pausa / corte]\n\nCinco: [critério de uso]. Confira se [verificação simples].\n\n[Pausa / corte]\n\nQuatro: [critério de conteúdo ou composição]. Procure [informação verificável].\n\n[Pausa / corte]\n\nTrês: [critério de adequação]. Veja se serve para [situação de uso].\n\n[Pausa / corte]\n\nDois: [limite importante]. Leia [condição que precisa ser conferida].\n\n[Pausa / corte]\n\nUm: [critério decisivo]. Compare com [necessidade concreta] antes de decidir.\n\n[Pausa / corte]\n\nDeixei esses cinco pontos em [material gratuito]. Toque no botão para receber e consultar depois.",
+ "tomadas_celular": [
+  "Plano próximo à mesa, celular vertical na altura do rosto e janela frontal; grave 4s mostrando cinco dedos.",
+  "Plano médio com espaço acima da cabeça para o número 5, luz de janela; grave 5s do primeiro item.",
+  "Plano próximo, mesma luz e fundo de prateleiras genéricas; grave 5s do item 4.",
+  "Detalhe de [material ou exemplo], celular apoiado e luz lateral difusa; grave 5s do item 3.",
+  "Plano médio com mão contando, luz frontal suave; grave 5s do item 2.",
+  "Plano próximo com um dedo levantado, mesma luz; grave 5s do item 1.",
+  "Plano médio com gesto para o botão e luz frontal; grave 6s da entrega gratuita."
+ ],
+ "caminho_ia": "Crie no Sora ou Veo sete clipes curtos com o mesmo avatar, ou faça slideshow com imagens geradas e voz sintética no CapCut. Prompts: \"Vertical 9:16 smartphone talking-head video, fictional presenter seated at a desk, plain shelves in the background, soft frontal daylight, raises five fingers, medium close-up, leave headroom for countdown graphics, no text or logos.\" e \"Vertical 9:16 product education insert, close-up of [product or educational material] illustrating [selection criterion], neutral desk, diffuse daylight, slow push-in, accurate details, no text.\" Adicione a contagem 5 a 1 e legendas amarelas na edição; use voz clonada apenas com autorização.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte a execução ao meu produto, sem copiar a identidade ou as alegações da peça.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nLista regressiva de 35s com sete blocos: promessa de cinco pontos, itens 5, 4, 3, 2 e 1, e chamada para material gratuito. Uma frase útil por item, um corte por número, gestos de contagem, número grande no alto e legendas amarelas curtas. Tom didático e direto. Não copie estatísticas, promessas financeiras, pessoas citadas, preço ou oferta da referência. Use critérios diferentes entre si e informações fornecidas pelo comprador. Use pt-BR falado, frases curtas e campos [adaptáveis]. Evite antíteses vazias, perguntas de enfeite, superlativos sem prova e fechos de efeito. Respeite as políticas aplicáveis ao produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Cinco pontos para conferir em [categoria]. Salve a lista e receba [material gratuito] no botão. O material explica [tema específico].",
+ "alerta_politica": "Meta: não presumir doença ou outro atributo pessoal de saúde, nem prometer resultado clínico; sem antes/depois de corpo neste modelo. Conteúdo educativo não substitui avaliação profissional. Para serviços médicos, observar as regras de publicidade do CFM; para produtos sujeitos à vigilância sanitária, usar apenas alegações permitidas pela ANVISA.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-2e5b1239",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-contagem-regressiva-de-itens/frames/f1.jpg",
+    "videos/vid-contagem-regressiva-de-itens/frames/f2.jpg",
+    "videos/vid-contagem-regressiva-de-itens/frames/f3.jpg",
+    "videos/vid-contagem-regressiva-de-itens/frames/f4.jpg",
+    "videos/vid-contagem-regressiva-de-itens/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

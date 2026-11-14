@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1587900589287540",
+  "tipo": "estatico",
+  "titulo": "Marco de vendas com pergunta de curiosidade",
+  "formato": "Depoimento em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma pessoa sorridente aparece diante de uma instalação amarela com símbolo de marketplace. Blocos pretos sobre a foto destacam um marco de vendas e uma pergunta sobre como ele foi alcançado.",
+  "por_que_funciona": [
+    "O rosto sorridente dá um emissor humano ao relato.",
+    "O número de unidades torna a conquista concreta.",
+    "O canal de vendas citado delimita o alcance do marco.",
+    "A pergunta em bloco separado cria um próximo assunto para a narrativa."
+  ],
+  "quando_usar": "Para contar um marco comercial comprovado e abrir uma história sobre a trajetória de um produto.",
+  "estrutura_texto": "Hoje batemos [quantidade] de unidades de [produto e tamanho] vendidas.\nSó em [canal]...\n[O que levou a esse marco?]",
+  "legenda": "[Marco comercial] foi uma etapa da nossa trajetória com [produto]. Começamos com [contexto] e seguimos trabalhando em [ação concreta]. Conheça essa história em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia com representante autorizado sorrindo em cenário comercial próprio, com fundo amarelo e área livre para texto. Use a IMAGEM 2 para incluir o produto de forma secundária e coerente. Sobreponha blocos pretos arredondados com texto branco, um para o marco comprovado e outro para a pergunta final. Não reproduza a pessoa, símbolo de marketplace ou instalação da referência.",
+  "alerta_politica": "Comprove o volume de vendas e o período considerado; não use um marco comercial como prova de eficácia do suplemento. Evite sugerir endosso de marketplace sem autorização e não faça promessas terapêuticas ou de resultado físico garantido.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1587900589287540",
+    "anunciante": "Yuri Abreu Soldiers",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-09",
+    "dias_no_ar": 370,
+    "variacoes_ativas": 1,
+    "texto_original": "É só começar. 🚀\nNão sei em que fase você está agora,\nmas o meu conselho é: não pare.\nVocê pode estar mais perto do que imagina.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1587900589287540.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3543504792457572",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito sobre foto de unhas com faixas de texto",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de unhas claras sobre fundo azul acinzentado. Faixas brancas e pretas no alto anunciam curso e certificado; faixas laranja e verde abaixo trazem a proposta e o convite para o grupo.",
+  "por_que_funciona": [
+    "A foto de unhas ocupa o centro e mostra a técnica abordada.",
+    "A palavra gratuito aparece na primeira faixa, facilitando a identificação da oferta.",
+    "A faixa preta separa o certificado como benefício específico.",
+    "O convite para o grupo recebe uma faixa verde própria logo abaixo da explicação."
+  ],
+  "quando_usar": "Para captar interessados em uma formação prática gratuita por meio de um grupo de inscrição.",
+  "estrutura_texto": "[Curso gratuito de técnica]\n[Certificado]\n[Aprenda procedimento em tempo de referência], mesmo começando do [nível]\n[Entre no grupo para participar]",
+  "legenda": "Participe do [curso gratuito e online] de [técnica], com [certificado]. Aprenda [procedimento] com orientação para [nível de experiência]. Veja [condições e programação] e entre no [grupo de participação] pelo link.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de mãos com acabamento de unhas como fundo, em tons frios e com espaço acima e abaixo. Sobreponha faixas compactas: branca para o curso gratuito, preta para certificado, laranja para o conteúdo e verde para entrada no grupo. Use fonte condensada legível, poucos emojis e preserve a visibilidade das unhas. Não prometa domínio garantido em prazo fixo. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3543504792457572",
+    "anunciante": "Unhas da Tay",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 2,
+    "texto_original": "CURSO GRATUITO DE MOLDE F1\n\nCOM CERTIFICADO INCLUSO 🎓\n\nAprenda a fazer alongamentos de excelência em apenas 1 HORA, usando o Molde F1, mesmo que você esteja começando do ZERO ✨\n\n✅ Técnica prática\n✅ Acabamento natural\n✅ A unha já sai praticamente pronta\n✅ Mais velocidade no atendimento\n✅ Mais clientes\n✅ Mais faturamento\n\n🎓 Certificado incluso\n💯 100% online e gratuito\n\n👉 Clique em saiba mais e entre no grupo vip para participar...",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3543504792457572.jpg"
+}

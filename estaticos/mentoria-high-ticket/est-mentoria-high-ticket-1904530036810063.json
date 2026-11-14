@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-1904530036810063",
+  "tipo": "estatico",
+  "titulo": "Conquista em ranking sobre foto dos participantes",
+  "formato": "Print de tela",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de um casal em primeiro plano e grupo ao fundo, com painel central sobreposto destacando posição em um ranking de clubes.",
+  "por_que_funciona": [
+    "A posição e o total de participantes dão dimensão objetiva ao ranking apresentado.",
+    "O recorte da interface reforça visualmente a classificação anunciada.",
+    "A foto coletiva ao fundo associa a conquista a uma comunidade presencial."
+  ],
+  "quando_usar": "Para mentorias de gestão com classificação verificável em uma comunidade, explicando o critério do ranking.",
+  "estrutura_texto": "[Posição] no ranking\n[Tipo de classificação]\nEntre [quantidade] participantes\n[Recorte da classificação]\n[Assinatura]",
+  "legenda": "Alcançamos [posição] entre [quantidade] participantes em [ranking e critério]. A conquista acompanha o trabalho de [equipe] com [práticas de gestão]. Conheça [mentoria] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto autorizada dos participantes em primeiro plano e foto coletiva em faixa superior. Sobreponha painel escuro arredondado com borda clara, posição em branco e recorte de uma interface de ranking. Use azul nas bordas inferiores. Insira apenas classificação verificável e contextualize seu critério.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1904530036810063",
+    "anunciante": "Dr. Gabriel Longuini Moreira",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-04",
+    "dias_no_ar": 283,
+    "variacoes_ativas": 1,
+    "texto_original": "9ª posição de 155 Club da @mentoringleaguesociety \n\nEntre 155 operações, estar no Top 9 não é acaso. É método. É time. É mentoria aplicada no dia a dia.\n\nCelebramos muito essa conquista porque ela representa médicos que decidiram estruturar, posicionar e executar com consistência  dentro e fora do consultório.\n\nA mentoria é o coração disso tudo: onde estratégia vira rotina, e rotina vira resultado.\n\nMas a verdade?\nA comemoração vem junto com a decisão: vamos além.\nO foco agora é claro,  Top 3. \n\nSeguimos avante... \nPorque quando o processo é certo, o crescimento é inevitável.\n\nGL CLUB ENSINO | Programa de Educação Executiva para Médicos.\n\nPAIN CENTER | Centro de Diagnóstico da Dor\n\nDr. Gabriel Longuini Moreira\nMédico Responsável Técnico \nCRM-RO 3025 | RQE-RO 1566\nCRM-SP 205.264 | RQE-SP 80.289",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1904530036810063.jpg"
+}

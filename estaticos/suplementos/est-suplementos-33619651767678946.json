@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-33619651767678946",
+  "tipo": "estatico",
+  "titulo": "Três sabores com preço promocional em selo verde",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Três potes de whey se sobrepõem em fundo verde desfocado, com um pote maior à frente. No alto, preço anterior riscado e preço atual aparecem ao lado da marca; uma faixa inferior reforça o prazo da promoção.",
+  "por_que_funciona": [
+    "O preço anterior riscado dá referência para comparar a oferta.",
+    "O valor atual em selo verde recebe destaque pelo contraste.",
+    "Três embalagens sugerem variedade de sabores.",
+    "A faixa de prazo e o rodapé explicitam a limitação da promoção."
+  ],
+  "quando_usar": "Para divulgar redução real de preço em um produto com várias opções de sabor.",
+  "estrutura_texto": "Super promoção\n[Marca]\nDe [preço anterior]\n[Preço atual] a partir de\n[Produtos e sabores]\nGaranta já! Por tempo limitado\n[Loja]\n[Condições da promoção]",
+  "legenda": "Super promoção em [loja]: [produto] de [preço anterior] por [preço atual], a partir de [condição]. Consulte sabores e disponibilidade em [canal]. Válido por [prazo] ou enquanto durarem os estoques.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde desfocado e três apresentações do produto em composição sobreposta, com a central maior. No alto, posicione chamada de promoção e selo verde-claro com preço atual grande e preço anterior riscado menor. Indique a condição de preço inicial junto ao valor, faixa de prazo na base e condições em rodapé legível. Use só sabores e preços reais fornecidos.",
+  "alerta_politica": "Informe preço inicial, prazo, disponibilidade e condições da oferta com clareza; o preço anterior deve ser verificável. Para suplementos, evite promessas terapêuticas e use apenas alegações permitidas e comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "33619651767678946",
+    "anunciante": "Biotipo Empório",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-10",
+    "dias_no_ar": 277,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 SUPER PROMO BIOTIPO EMPÓRIO! 🚨\nWhey da Topway, de R$249,90 por apenas R$179,00 💚\nVem para Biotipo Empório e Aproveite!\n\n*Válido por tempo limitado ou enquanto durarem os estoques.\nWHATSAPP\nWhey TopWay, apenas R$179,00 💚\nSó aqui na Biotipo Empório! 💚",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-33619651767678946.jpg"
+}

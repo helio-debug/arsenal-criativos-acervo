@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1508099800999014",
+  "tipo": "estatico",
+  "titulo": "Peça de jeans como vitrine para loja própria",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto recortada de uma pessoa usando jeans ocupa a lateral direita sobre fundo cinza. À esquerda, texto branco destaca “SUA LOJA” e termina em um botão contornado de saiba mais.",
+  "por_que_funciona": [
+    "O jeans em grande escala identifica imediatamente a categoria comercial.",
+    "A expressão “SUA LOJA” em letras grandes concentra o olhar na proposta de negócio.",
+    "O fundo cinza mantém contraste com o texto branco.",
+    "O botão contornado sinaliza um próximo passo para conhecer a oportunidade."
+  ],
+  "quando_usar": "Para gerar interesse em um programa de loja online ou revenda de moda.",
+  "estrutura_texto": "[possibilidade comercial] com\nSUA LOJA\nde [categoria]?\n[convite para saber mais]",
+  "legenda": "Tenha uma loja online de [categoria] com [programa]. Divulgue [produtos], compartilhe seu link e acompanhe as vendas por [canal]. Conheça o suporte e as condições para começar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza e foto de pessoa adulta vestindo o produto da IMAGEM 2 na lateral direita, com enquadramento que destaque a peça. Na esquerda, coloque introdução pequena, “SUA LOJA” em branco e tamanho grande, categoria abaixo e botão de contorno arredondado. Apresente a oportunidade sem prometer independência financeira.",
+  "alerta_politica": "Meta: apresentar a oportunidade e os requisitos com clareza, sem garantir renda, lucro ou independência financeira. Ganhos dependem de atividade, custos e condições individuais; não sugerir emprego ou remuneração garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1508099800999014",
+    "anunciante": "Sawary Jeans",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 1,
+    "texto_original": "Já pensou em ter sua própria loja online de jeans sem sair de casa?\nCom a Minha Sawary, você divulga seus produtos, compartilha seu link e acompanha suas vendas de forma simples e prática.\nEmpreenda com mais liberdade e com o suporte de uma marca que você já conhece.\nComece sua jornada com a Minha Sawary",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1508099800999014.jpg"
+}

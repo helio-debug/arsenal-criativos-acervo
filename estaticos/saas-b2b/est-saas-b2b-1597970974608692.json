@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1597970974608692",
+  "tipo": "estatico",
+  "titulo": "Pergunta de origem com leitura de código",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto emoldurada de trabalhador apontando o celular para um código em uma maçã. A pergunta sobre a origem aparece no alto à direita, sobre o fundo escuro.",
+  "por_que_funciona": [
+    "O código na maçã torna o tema da rastreabilidade visível.",
+    "O celular apontado para o código demonstra a ação de consulta.",
+    "A perspectiva próxima amplia o produto e sua etiqueta.",
+    "A pergunta curta abre uma dúvida ligada à cena mostrada."
+  ],
+  "quando_usar": "Para soluções empresariais de identificação e rastreabilidade introduzirem o tema da origem de produtos.",
+  "estrutura_texto": "De onde [VEIO O PRODUTO]?",
+  "legenda": "Para perguntas sobre [origem e trajetória do produto], conte com [informações disponíveis na solução]. Conheça [serviço] e saiba como consultar [dados verificáveis].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fotografia realista em moldura branca larga: produto em primeiro plano com etiqueta de identificação e profissional ao fundo apontando um celular para ela. Use contexto de armazenamento ou produção coerente com a categoria. Coloque uma pergunta curta branca no alto à direita, com a palavra principal em negrito. Não gere código que prometa consulta real; use identificação ilustrativa e não copie marca ou local.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1597970974608692",
+    "anunciante": "GS1 Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 1,
+    "texto_original": "Para tantas perguntas do mercado, informação que ajuda a encontrar respostas.\nPode confiar.\nConheça a GS1 Brasil.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1597970974608692.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-554228210661864",
+  "tipo": "estatico",
+  "titulo": "Comunicado local de bolsas com vagas limitadas",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Faixas azul escuro enquadram um comunicado de seleção para graduação a distância. O corpo branco apresenta requisito com check verde, seguido da quantidade de vagas restantes.",
+  "por_que_funciona": [
+    "O nome da cidade em letras grandes delimita o público local.",
+    "O título comunicado dá unidade à apresentação em formato de aviso.",
+    "O check verde torna o requisito de escolaridade fácil de localizar.",
+    "A faixa azul inferior destaca a quantidade de vagas."
+  ],
+  "quando_usar": "Para comunicar seleção local de bolsas ou condições de matrícula com critérios e disponibilidade reais.",
+  "estrutura_texto": "COMUNICADO\n[CIDADE]\n[INSTITUIÇÃO LOCAL] está selecionando candidatos para [CONDIÇÃO DE BOLSA] em:\n[CURSO OU MODALIDADE]\nPara participar é necessário:\n[REQUISITO]\nAPENAS [NÚMERO] VAGAS RESTANTES\n[INSTITUIÇÃO]",
+  "legenda": "Estude [graduação] na modalidade [EAD] com [instituição]. Consulte as condições de [bolsa], os requisitos de inscrição e a disponibilidade de vagas em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use faixas azul escuro no topo e perto do rodapé, corpo branco e texto centralizado. Destaque cidade em letras grandes, modalidade com check verde, requisito separado por linha fina e número de vagas em faixa azul. Reserve base para identidade própria; omita a foto da IMAGEM 2 se não for necessária. Não simule comunicado governamental e só use bolsas e escassez comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "554228210661864",
+    "anunciante": "Cruzeiro do Sul Virtual - Polo EAD Volta Redonda - Vila Sta Cecília",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-31",
+    "dias_no_ar": 744,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 Realize seus sonhos acadêmicos com a flexibilidade que você merece! \n.\nA Cruzeiro do Sul EAD oferece uma vasta gama de cursos superiores totalmente online, proporcionando a você a liberdade de estudar quando e onde quiser. \n.\nCom a qualidade reconhecida da Cruzeiro do Sul, você pode alcançar seus objetivos profissionais sem abrir mão da sua rotina. \n.\n🎓 Inscreva-se agora e comece sua jornada de sucesso! 💼",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-554228210661864.jpg"
+}

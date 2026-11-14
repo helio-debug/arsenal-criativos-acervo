@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-4576832375887262",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre formalização com abertura gratuita",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma profissional de uniforme escuro usa o celular em um consultório. A pergunta sobre abertura de empresa ocupa o topo azul; um selo de confirmação e um botão turquesa apresentam a solução.",
+  "por_que_funciona": [
+    "A pergunta no topo identifica uma necessidade concreta de formalização.",
+    "A foto com celular dentro do consultório contextualiza a contratação online.",
+    "O selo de abertura online reforça o modo de atendimento descrito.",
+    "O botão turquesa destaca a abertura gratuita, com mensalidade logo abaixo."
+  ],
+  "quando_usar": "Para captar profissionais de um segmento que precisam abrir empresa para começar a prestar serviços.",
+  "estrutura_texto": "[PROFISSÃO], precisa de [REGISTRO] para [ATIVIDADE]?\nAbra online, com atendimento até [HORÁRIO]\n[SELO DE PROCESSO ONLINE]\n[CTA DE ABERTURA GRATUITA]\nServiço por R$ [MENSALIDADE]/mês",
+  "legenda": "[PROFISSÃO], emita [DOCUMENTO] pelo [APP] e conte com suporte contábil até [HORÁRIO]. Precisa abrir [REGISTRO] para atender? Conheça [SERVIÇO] e consulte as condições de [OFERTA], com mensalidade de R$ [VALOR].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul intenso com foto contextual na metade inferior e degradê azul no rodapé. Coloque marca própria pequena no alto, pergunta em branco grande alinhada à esquerda e explicação curta abaixo. Mostre uma pessoa do público atendido usando celular em seu ambiente de trabalho, um pequeno cartão flutuante de confirmação de abertura e botão turquesa arredondado perto da base. Posicione mensalidade legível abaixo do botão. Adapte o cenário ao meu público sem reproduzir a pessoa da referência; use somente números, horários e ofertas fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4576832375887262",
+    "anunciante": "Contabilizei",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-24",
+    "dias_no_ar": 82,
+    "variacoes_ativas": 7,
+    "texto_original": "Dentista, não trave na hora de emitir nota fiscal! Faça tudo no app em segundos e tenha suporte de especialistas contábeis até às 22h.\nPediram CNPJ na clínica?\nAbra seu CNPJ grátis",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-4576832375887262.jpg"
+}

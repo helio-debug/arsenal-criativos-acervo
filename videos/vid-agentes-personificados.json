@@ -1,0 +1,95 @@
+{
+ "id": "vid-agentes-personificados",
+ "titulo": "Agentes personificados analisam um problema e entregam uma solução",
+ "formato_video": "animacao",
+ "nichos": [
+  "ia-ferramentas",
+  "educacao-concursos",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "40-50s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Documento luminoso com linhas marcadas e pequenos personagens pixelados ao redor, sobre fundo preto.",
+   "fala": "Antes de usar [entrega], revise [ponto que costuma passar despercebido]. Este processo mostra onde procurar.",
+   "texto_tela": "REVISE [ENTREGA]"
+  },
+  {
+   "tempo": "6-14s",
+   "cena": "Fila de documentos em cenário escuro, com um arquivo destacado e uma linha verde horizontal.",
+   "fala": "Quando [situação concreta] acontece, fica difícil saber o que ajustar. Vamos olhar este exemplo de [material] por critérios separados.",
+   "texto_tela": "[PROBLEMA CONCRETO]"
+  },
+  {
+   "tempo": "14-22s",
+   "cena": "Sete personagens em plataformas ao redor do arquivo; contador progressivo no rodapé.",
+   "fala": "São sete papéis de revisão. Cada um recebe um critério, como [critério técnico] ou [clareza para o usuário].",
+   "texto_tela": "7 PAPÉIS DE REVISÃO"
+  },
+  {
+   "tempo": "22-32s",
+   "cena": "Documento passa por mesa de triagem e auditório com revisores; linhas conectam cada papel ao arquivo.",
+   "fala": "Um papel confere [requisito básico]. Outro verifica [adequação ao uso]. Os demais procuram falhas definidas no guia. Toda sugestão precisa ser conferida.",
+   "texto_tela": "[CRITÉRIO] → [AJUSTE]"
+  },
+  {
+   "tempo": "32-42s",
+   "cena": "Ampliar trecho original e versão revisada, com marcações verde-limão nas mudanças.",
+   "fala": "Aqui, [trecho vago] virou [trecho específico]. O conteúdo mantém os fatos. A revisão só deve mudar o que você consegue sustentar.",
+   "texto_tela": "[TRECHO REVISADO]"
+  },
+  {
+   "tempo": "42-50s",
+   "cena": "Personagem ao lado de documentos em espiral; chamada de comentário em destaque.",
+   "fala": "Comente [palavra-chave] para receber o guia gratuito e montar essa revisão com [produto ou método].",
+   "texto_tela": "COMENTE [PALAVRA-CHAVE]"
+  }
+ ],
+ "hook": {
+  "falado": "Antes de usar [entrega], revise [ponto que costuma passar despercebido]. Este processo mostra onde procurar.",
+  "texto_tela": "REVISE [ENTREGA]",
+  "visual": "Documento luminoso com linhas marcadas e pequenos personagens pixelados ao redor, sobre fundo preto."
+ },
+ "por_que_funciona": [
+  "Os personagens ao lado das linhas do documento dão uma função visual a cada revisão.",
+  "A fila de papéis e a cena de triagem concretizam o problema de um material que recebe pouca atenção.",
+  "O contador de sete agentes acompanha a passagem pelos papéis e pelo auditório.",
+  "O trecho ampliado e marcado no fim permite enxergar a mudança antes da chamada de comentário."
+ ],
+ "quando_usar": "Para ferramentas, softwares e cursos que ensinam a avaliar uma entrega por critérios. Use no topo do funil com um exemplo simples e um guia gratuito.",
+ "roteiro_modelo": "\n\n[CORTE / PAUSA · 0-6s]\nAntes de usar [entrega], revise [ponto que costuma passar despercebido]. Este processo mostra onde procurar.\n\n[CORTE / PAUSA · 6-14s]\nQuando [situação concreta] acontece, fica difícil saber o que ajustar. Vamos olhar este exemplo de [material] por critérios separados.\n\n[CORTE / PAUSA · 14-22s]\nSão sete papéis de revisão. Cada um recebe um critério, como [critério técnico] ou [clareza para o usuário].\n\n[CORTE / PAUSA · 22-32s]\nUm papel confere [requisito básico]. Outro verifica [adequação ao uso]. Os demais procuram falhas definidas no guia. Toda sugestão precisa ser conferida.\n\n[CORTE / PAUSA · 32-42s]\nAqui, [trecho vago] virou [trecho específico]. O conteúdo mantém os fatos. A revisão só deve mudar o que você consegue sustentar.\n\n[CORTE / PAUSA · 42-50s]\nComente [palavra-chave] para receber o guia gratuito e montar essa revisão com [produto ou método].",
+ "tomadas_celular": [
+  "Filme um material de exemplo sobre mesa, plano superior, luz de janela difusa, 6s; oculte dados pessoais.",
+  "Grave uma fila de folhas com uma marcada, plano oblíquo, luz lateral suave, 8s.",
+  "Distribua sete cartões de critérios ao redor de uma folha, plano superior fixo, luz uniforme, 8s.",
+  "Aproxime o celular de dois cartões e dos trechos correspondentes, luz difusa e foco travado, 10s.",
+  "Filme duas versões do mesmo trecho em close, luz lateral sem reflexos, 10s.",
+  "Grave a folha revisada com espaço para CTA, plano superior e luz uniforme, 8s."
+ ],
+ "caminho_ia": "Sem gravar, use Kling ou Veo para documentos fictícios e revisores pixelados. Faça o texto e as marcações no CapCut; narre com voz sintética ou clonada autorizada. Prompt 1: \"Vertical 9:16 stylized 3D scene, seven pixel characters surrounding [document or product output], dark environment, lime rim lighting, slow orbit camera, no readable text, no logos.\" Prompt 2: \"Vertical 9:16 macro shot of [sample output] passing through a miniature review desk, highlighted inspection zones, smooth tracking motion, high contrast, blank overlay space.\" Use o mesmo documento nas cenas e apresente as revisões como exemplos, sem prometer aprovação externa.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo; não reproduza a identidade nem as alegações da referência.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 6 blocos em 50s: entrega em revisão, problema concreto, sete papéis, critérios em ação, trecho ajustado e guia gratuito por comentário. Tom de demonstração, ritmo ágil nas mudanças de cenário e pausa na comparação legível. Use preto, verde-limão, revisores pixelados, contador e rótulos curtos. Os sete papéis são critérios do meu produto; não invente agentes reais se ele não os possui. Não copie currículo, rostos, mascotes ou promessa de contratação. Diferencie revisão de garantia de resultado. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltar informação. Não invente números, depoimentos ou resultados. Não copie nomes, pessoas, marcas, interfaces identificáveis, contatos nem frases da referência. Evite antítese vazia, superlativos, perguntas de enfeite e fecho de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Entrega] pronta para revisar? Veja [exemplo de ajuste] e confira os critérios antes de usar. Comente [palavra-chave] para receber [guia gratuito].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-3d71a77e",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-agentes-personificados/frames/f1.jpg",
+    "videos/vid-agentes-personificados/frames/f2.jpg",
+    "videos/vid-agentes-personificados/frames/f3.jpg",
+    "videos/vid-agentes-personificados/frames/f4.jpg",
+    "videos/vid-agentes-personificados/frames/f5.jpg"
+   ]
+  }
+ ]
+}

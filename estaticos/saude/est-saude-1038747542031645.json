@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1038747542031645",
+  "tipo": "estatico",
+  "titulo": "Lavador nasal com embalagem lúdica",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Lavador nasal lilás em primeiro plano sobre fundo branco, com sua caixa rosa ao fundo. Ilustração de unicórnio e adesivos destacam a personalização.",
+  "por_que_funciona": [
+    "O frasco ocupa quase toda a altura e permite reconhecer seu formato.",
+    "A caixa mostra o contexto de uso com a inscrição de lavagem nasal.",
+    "Unicórnio, estrelas e adesivos tornam a apresentação lúdica."
+  ],
+  "quando_usar": "Para apresentar um dispositivo de cuidado nasal a responsáveis que buscam uma opção com visual infantil.",
+  "estrutura_texto": "[Produto e versão]\n[Finalidade]\n[Opções de fluxo]\n[Diferencial de personalização]\n[Capacidade]",
+  "legenda": "Encontre [produto] e outros itens de cuidado no [aplicativo]. Aproveite [condição de frete] e [opção de retirada], conforme as condições disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, produto recortado grande à esquerda e sua embalagem ligeiramente atrás à direita. Preserve cores reais do produto. Destaque apenas informações comprovadas da embalagem e um recurso lúdico próprio, sem reproduzir o personagem de referência.",
+  "alerta_politica": "Meta: dirigir a comunicação aos responsáveis, sem inferir condições de saúde. ANVISA: respeitar a regularização, finalidade e instruções do dispositivo; não prometer prevenção ou cura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1038747542031645",
+    "anunciante": "Farmácias Pague Menos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-10",
+    "dias_no_ar": 127,
+    "variacoes_ativas": 1,
+    "texto_original": "No App é mais fácil e rápido de fazer sua farmacinha. Só aqui você acompanha o melhor das ofertas da Pague Menos.\n\n🚚 Frete Grátis Acima de R$150*\n🛒 Compre no App e Retire na Loja*",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1038747542031645.jpg"
+}

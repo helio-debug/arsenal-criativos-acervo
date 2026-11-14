@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1412377607155791",
+  "tipo": "estatico",
+  "titulo": "Novo aplicativo apresentado por pessoa com celular",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma pessoa segura um celular com o aplicativo aberto em ambiente residencial de madeira. Marca, chamada verde e branca e texto de apresentação ocupam o topo.",
+  "por_que_funciona": [
+    "O celular voltado para a câmera mostra o aplicativo em uso.",
+    "A pessoa em primeiro plano dá escala e contexto ao produto digital.",
+    "O verde destaca a ideia de evolução no título.",
+    "O fundo residencial quente enquadra a apresentação sem competir com o aparelho."
+  ],
+  "quando_usar": "Para apresentar o lançamento ou a atualização de um aplicativo de investimentos.",
+  "estrutura_texto": "[Marca]\nA evolução do seu jeito de [ação principal].\nDescubra uma nova experiência com o app [nome].",
+  "legenda": "Conheça o novo app [nome], com [melhoria verificável] para investir. Explore [funcionalidade] e veja como acessar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de pessoa adulta em ambiente residencial acolhedor, segurando um celular com a tela do meu produto voltada para a câmera. Reserve o terço superior para marca própria, título em verde e branco e subtítulo branco. Destaque a ação principal em negrito. Preserve a interface fornecida, sem inventar saldos ou resultados financeiros.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1412377607155791",
+    "anunciante": "Ágora Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 1,
+    "texto_original": "O novo app da Ágora chegou. Mais moderno, intuitivo e completo para você investir.\nMais tecnologia para você\nConheça o novo app",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/investimentos/est-investimentos-1412377607155791.jpg"
+}

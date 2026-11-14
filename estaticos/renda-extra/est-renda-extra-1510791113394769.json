@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1510791113394769",
+  "tipo": "estatico",
+  "titulo": "Método de artesanato com receitas e vendas",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Título em laranja e azul sobre cena de artesanato com uma pessoa no computador, bolsas, fios e peças de crochê. Uma faixa laranja apresenta a quantidade de receitas e o conteúdo de vendas.",
+  "por_que_funciona": [
+    "O título une a técnica artesanal ao objetivo comercial.",
+    "As bolsas e peças prontas exemplificam o que pode ser produzido.",
+    "O computador associa o artesanato à atividade digital.",
+    "A faixa laranja concentra a quantidade de receitas e o tema de vendas."
+  ],
+  "quando_usar": "Para apresentar um método que combina uma habilidade prática e orientação comercial, com entregáveis definidos.",
+  "estrutura_texto": "MÉTODO [habilidade e objetivo] + [quantidade] [receitas ou materiais] com [conteúdo de vendas].",
+  "legenda": "Aprenda [habilidade] e conheça formas de divulgar suas peças. O [método] reúne [quantidade de materiais] e orientações sobre [vendas nas redes]. Veja o conteúdo em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reserve faixa clara superior para título grande inclinado em laranja e azul. Abaixo, mostre ambiente artesanal com pessoa de costas no computador, produtos acabados e ferramentas relacionados à IMAGEM 2. Sobreponha na metade inferior uma faixa laranja com texto azul em caixa alta sobre os entregáveis. Use iluminação suave e materiais com textura.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros típicos sem comprovação; apresentar o conteúdo educacional sem assegurar retorno.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1510791113394769",
+    "anunciante": "Susana Ateliê",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-15",
+    "dias_no_ar": 395,
+    "variacoes_ativas": 1,
+    "texto_original": "🧶 Transforme Seu Crochê em Renda Extra! 🧶",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1510791113394769.jpg"
+}

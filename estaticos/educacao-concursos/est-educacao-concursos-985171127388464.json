@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-985171127388464",
+  "tipo": "estatico",
+  "titulo": "Cena de estudo com mentoria para concurso",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Título branco e verde ocupa o alto sobre fundo verde-escuro. Um estudante sorrindo ergue o punho diante de notebook, livros e caderno, com benefícios à esquerda e bandeira na parte inferior.",
+  "por_que_funciona": [
+    "O estudante diante de materiais de estudo contextualiza o uso da mentoria.",
+    "A sigla grande abaixo do título identifica o objetivo da preparação.",
+    "Os quatro benefícios com ícones resumem o acompanhamento oferecido.",
+    "O notebook, os livros e o caderno tornam a cena reconhecível para quem estuda."
+  ],
+  "quando_usar": "Para apresentar um método de acompanhamento a candidatos que buscam organizar os estudos.",
+  "estrutura_texto": "[Mentoria para concurso]\n[Concurso-alvo]\n[Atributos do método]\n[Plano personalizado]\n[Estratégias]\n[Resultados documentados]\n[Acompanhamento individual]\n[Frase curta no objeto de cena]\n[Mensagem de compromisso]\n[Assinatura sobre método]",
+  "legenda": "Organize sua preparação para [concurso] com [mentoria]. Receba [cronograma sob medida], acompanhe [progresso de estudos] e conte com [orientação individual disponível]. Veja como o programa se adapta a [rotina e objetivo] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo verde-escuro com título branco e faixa verde no topo. Dê grande escala à sigla do concurso. Use a IMAGEM 2 como foco da cena, em uma composição de estudo com notebook, livros e caderno quando compatível. Reserve coluna à esquerda para quatro benefícios com ícones. Acrescente faixas verdes e amarelas nas bordas e mensagem curta no rodapé. Use símbolos regionais genéricos, sem reproduzir brasão ou prédio da referência. Não prometa aprovação e só inclua resultados comprovados quando houver evidência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "985171127388464",
+    "anunciante": "Voceseraprovado Connected Page",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 2,
+    "texto_original": "Transforme o seu estudo em aprovação com a Mentoria TJGO para Alto Desempenho 📚🎯\n\nChegou a sua vez de conquistar a vaga no TJGO com estratégia, método e acompanhamento completo para chegar mais longe:\n\n• Cronograma Personalizado: Plano de estudos sob medida para o seu perfil, rotina e objetivo\n• Plataforma Tutory: Acompanhamento inteligente de todo o seu progresso de estudo\n• Metodologia Eficiente: Técnicas e estratégias exclusivas focadas no que realmente cai na prova\n• Acompanhamento Individual: Suporte próximo, orientação constante e ajustes para manter o foco\n• Mentoria de Verdade: Menos achismo, mais método e mais resultados rumo à sua nomeação\n\nInvista em si! A aprovação é uma questão de escolha 🤝\n\nFale comigo e saiba mais sobre como iniciar a sua preparação!\nFale comigo agora mesmo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-985171127388464.jpg"
+}

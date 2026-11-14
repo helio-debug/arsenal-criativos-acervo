@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1331318638930457",
+  "tipo": "estatico",
+  "titulo": "Personalização representada pelo abraço à embalagem",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Homem de olhos fechados abraça uma embalagem em uma composição de blocos azuis. A chamada destaca individualidade e três quadros inferiores mostram diferentes apresentações de produtos.",
+  "por_que_funciona": [
+    "O abraço à embalagem traduz visualmente a ideia de vínculo com o produto.",
+    "Os blocos em diferentes tons de azul organizam texto, pessoa e marca.",
+    "A frase no alto apresenta a personalização como argumento central.",
+    "Os três quadros inferiores mostram cápsula, frasco e sachê."
+  ],
+  "quando_usar": "Para apresentar uma linha de suplementos personalizados e suas apresentações disponíveis.",
+  "estrutura_texto": "Você é [característica].\nSeu [produto] tem que ser [característica].\n[Marca e categoria]\n[Frase sobre personalização]\n[Apresentações disponíveis]",
+  "legenda": "Conheça as opções de [categoria] em [apresentações]. Fale com [canal de atendimento] para entender a disponibilidade e os critérios de personalização de [produto].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte blocos geométricos em azul com uma pessoa abraçando uma embalagem no lado esquerdo. Posicione a chamada de personalização em letras finas no alto esquerdo e a identidade fornecida no alto direito. Inclua uma frase curta no bloco central direito e três pequenos quadros inferiores para apresentações reais do produto. Não reproduza a pessoa da referência nem prometa adequação clínica universal.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1331318638930457",
+    "anunciante": "Pharmapele",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-26",
+    "dias_no_ar": 172,
+    "variacoes_ativas": 4,
+    "texto_original": "Contact Us",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1331318638930457.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1573270127861928",
+  "tipo": "estatico",
+  "titulo": "Profissão digital apresentada no celular",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Chamada branca e amarela ocupa o topo sobre fundo azul-escuro. Um celular em uma mesa exibe ícones de câmera, conversa e tesoura.",
+  "por_que_funciona": [
+    "A palavra “CELULAR” em amarelo destaca a ferramenta de entrada.",
+    "Os ícones de câmera, conversa e tesoura tornam as atividades digitais reconhecíveis.",
+    "O celular centralizado na mesa aproxima a proposta de um ambiente cotidiano."
+  ],
+  "quando_usar": "Para cursos de atividades digitais que usam um quiz para orientar iniciantes.",
+  "estrutura_texto": "[Nova atividade digital] começa no seu [dispositivo].",
+  "legenda": "O [mercado] abriu novas formas de [atividade] usando [recurso]. Responda ao [quiz] e descubra qual caminho combina com seu momento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, título condensado em caixa alta no terço superior e palavras-chave em amarelo. Posicione um celular em pé no centro inferior, sobre mesa com objetos de trabalho. Mostre três ícones simples de atividades relacionadas ao produto na tela. Adapte a mensagem à oferta informada, sem sugerir ganhos garantidos.",
+  "alerta_politica": "Meta: oportunidades de renda devem ter descrição verdadeira, sem ganhos garantidos, enriquecimento rápido ou facilidade financeira irreal. O quiz não deve prometer resultado profissional assegurado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1573270127861928",
+    "anunciante": "Pablo Marçal - SP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-30",
+    "dias_no_ar": 76,
+    "variacoes_ativas": 13,
+    "texto_original": "O digital abriu novas formas de vender sem sair de casa. Responda ao quiz e descubra qual caminho combina mais com o seu momento.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1573270127861928.jpg"
+}

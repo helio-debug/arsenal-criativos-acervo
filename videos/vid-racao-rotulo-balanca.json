@@ -1,0 +1,73 @@
+{
+ "id": "vid-racao-rotulo-balanca",
+ "tipo": "video",
+ "titulo": "Do rótulo à balança: porção demonstrada sem prescrição",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "pet"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "O copinho sozinho não mostra o peso da ração.",
+  "texto_tela": "Demonstração de pesagem",
+  "visual": "Embalagem ao lado de balança zerada e pote vazio."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Embalagem ao lado de balança zerada e pote vazio.",
+   "fala": "O copinho sozinho não mostra o peso da ração.",
+   "texto_tela": "Demonstração de pesagem"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Close no quadro do fabricante sem dados inventados.",
+   "fala": "Aqui estão as orientações de [alimento]. A quantidade depende do animal e da orientação veterinária.",
+   "texto_tela": "Confira o rótulo"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Balança mede apenas uma quantidade ilustrativa identificada.",
+   "fala": "Esta é uma pesagem de demonstração, sem recomendação de porção.",
+   "texto_tela": "Exemplo de pesagem"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Mão fecha embalagem e aponta ficha.",
+   "fala": "Confira composição e apresentação de [produto]. Pra ajustar a alimentação, converse com o veterinário.",
+   "texto_tela": "Veja a composição"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a operação concreta: Embalagem ao lado de balança zerada e pote vazio.",
+  "O segundo enquadramento deixa visível o detalhe usado na explicação: Close no quadro do fabricante sem dados inventados.",
+  "A etapa seguinte informa o limite da demonstração junto da imagem: Exemplo de pesagem"
+ ],
+ "quando_usar": "Quando a pessoa já considera [produto ou serviço] e precisa entender a execução mostrada em “Do rótulo à balança: porção demonstrada sem prescrição”. Usar somente se a operação for compatível com o produto e houver informação verificável.",
+ "roteiro_modelo": "0-4s | O copinho sozinho não mostra o peso da ração.\n4-11s | Aqui estão as orientações de [alimento]. A quantidade depende do animal e da orientação veterinária.\n11-19s | Esta é uma pesagem de demonstração, sem recomendação de porção.\n19-26s | Confira composição e apresentação de [produto]. Pra ajustar a alimentação, converse com o veterinário.",
+ "tomadas_celular": [
+  "Grave vertical, celular em apoio firme e luz lateral suave: Embalagem ao lado de balança zerada e pote vazio.",
+  "Faça plano de detalhe com foco travado e sem zoom digital: Close no quadro do fabricante sem dados inventados.",
+  "Grave uma tomada completa, com luz igual à anterior: Balança mede apenas uma quantidade ilustrativa identificada.",
+  "Grave o fechamento em plano médio ou de produto, deixando margem para legenda: Mão fecha embalagem e aponta ficha."
+ ],
+ "caminho_ia": "Produza uma versão ilustrativa em Sora/Veo com fotos autorizadas e especificações reais de [produto]. Gere a cena de abertura com o prompt: \"Vídeo vertical, luz natural, Embalagem ao lado de balança zerada e pote vazio. Sem marcas de terceiros, sem letras geradas.\" Para o detalhe use: \"Vídeo vertical com câmera estável, Close no quadro do fabricante sem dados inventados. Preservar dimensões e materiais da referência autorizada.\" Monte as quatro cenas no editor, grave voz sintética identificada e adicione os textos depois. Identifique cenas sintéticas como ilustração. Não use geração para alegar reação real, teste físico, resultado clínico ou execução contínua comprovada; nesses casos substitua a prova por diagrama claramente identificado e mantenha a informação técnica fornecida.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAdapte o formato “Do rótulo à balança: porção demonstrada sem prescrição” para este produto. Entregue roteiro falado em pt-BR, legenda do anúncio e prompts de cena. Use quatro cenas com estes tempos: 0-4s, 4-11s, 11-19s e 19-26s. Preserve esta operação visual: Embalagem ao lado de balança zerada e pote vazio. / Close no quadro do fabricante sem dados inventados. / Balança mede apenas uma quantidade ilustrativa identificada. / Mão fecha embalagem e aponta ficha. Use [colchetes] para informação ausente e peça confirmação antes de transformar suposição em alegação. Escreva instruções de enquadramento, luz, ação e texto de tela para cada cena. Não invente depoimentos, desempenho, preço ou recomendação clínica. Identifique ilustrações geradas e mantenha os limites de segurança e os cuidados do manual. Inclua no fim a legenda e uma lista dos dados que precisam de confirmação.",
+ "legenda": "Veja como funciona [produto ou serviço] nesta demonstração. Confira [informação essencial de escolha] e [condições reais da oferta] em [canal]. Siga as orientações de uso do fabricante.",
+ "alerta_politica": "Não forçar a interação, provocar medo nem restringir alimentação para obter reação. Respeitar idade, porte e instruções do fabricante. Alegações veterinárias exigem respaldo; demonstração de alimento não substitui orientação veterinária.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1276140070651931",
+   "dias_no_ar": 439,
+   "views": 0,
+   "frames": [],
+   "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/pet/pet-shop/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+  }
+ ],
+ "validacao": "media"
+}

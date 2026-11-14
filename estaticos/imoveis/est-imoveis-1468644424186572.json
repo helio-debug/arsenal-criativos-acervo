@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1468644424186572",
+  "tipo": "estatico",
+  "titulo": "Lotes prontos com vista aérea e selo de parcela",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Vista aérea diurna de ruas pavimentadas, lotes e casas, com tratamento roxo no topo e na base. O título amarelo e branco divide atenção com um selo de lotes prontos e um círculo laranja com a parcela.",
+  "por_que_funciona": [
+    "As ruas e casas visíveis dão contexto ao estágio de ocupação do loteamento.",
+    "O selo de lotes prontos para construir destaca uma característica da oferta.",
+    "O círculo laranja contrasta com a base roxa e isola o preço.",
+    "O título amarelo no alto cria o primeiro ponto de leitura."
+  ],
+  "quando_usar": "Para apresentar lotes disponíveis para construção a interessados em compra parcelada.",
+  "estrutura_texto": "Você pronto para [objetivo].\nSeu lote pronto para [benefício verificável].\nLOTES PRONTOS PARA CONSTRUIR\nParcelas a partir de [valor]*\n[Condições de análise]\n[Empreendimento]",
+  "legenda": "Conheça [empreendimento]: lotes [situação de infraestrutura] em [localização]. Pagamento com [condições completas] e parcelas a partir de [valor]. Cadastre-se para consultar disponibilidade e detalhes.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto aérea diurna do empreendimento com ruas e ocupação visíveis. Aplique degradês roxos nas extremidades. Coloque chamada amarela e complemento branco no alto à esquerda, selo tipográfico à direita e círculo laranja com parcela no canto inferior esquerdo. Reserve a base direita para a identidade do produto. Explique qualquer asterisco e não prometa valorização.",
+  "alerta_politica": "Na oferta de imóveis parcelados, informe entrada, quantidade e valor das parcelas, correção, juros e condições de aprovação aplicáveis. Não prometa valorização ou retorno garantidos nem aprovação de crédito irrestrita; a comunicação deve corresponder às condições reais da oferta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1468644424186572",
+    "anunciante": "Trinus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-06",
+    "dias_no_ar": 404,
+    "variacoes_ativas": 1,
+    "texto_original": "Agora é a hora de investir em um lote pronto, com pagamento facilitado e localização privilegiada a 12 minutos do centro.\n\nCadastre-se e descubra as vantagens de investir no Altiplano Serra Rica.\nLoteamento Altiplano\nSign Up\n​\nActive",
+    "origem_coleta": "acervo:trinus"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1468644424186572.jpg"
+}

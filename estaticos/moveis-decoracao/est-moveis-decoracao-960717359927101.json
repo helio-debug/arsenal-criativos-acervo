@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-960717359927101",
+  "tipo": "estatico",
+  "titulo": "Enfeite transparente de Natal em close",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Bola transparente pendurada por cordão, com elementos natalinos internos. O fundo verde desfocado sugere árvore e o topo informa tamanhos.",
+  "por_que_funciona": [
+    "O close revela transparência e detalhes internos.",
+    "O cordão mostra a forma de pendurar o enfeite.",
+    "O fundo verde contextualiza o uso natalino.",
+    "As medidas no topo comunicam opções de tamanho."
+  ],
+  "quando_usar": "Lojas de decoração em campanhas de Natal.",
+  "estrutura_texto": "[Tamanho 1]/[Tamanho 2]/[Tamanho 3] [unidade]",
+  "legenda": "Prepare a decoração de [ocasião] com [enfeite]. Disponível em [tamanhos]. Confira [oferta vigente] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre o enfeite pendurado em close central com fundo verde desfocado. Use luz suave para revelar transparência e conteúdo real. Insira [tamanhos] no canto superior esquerdo em letras pretas grossas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "960717359927101",
+    "anunciante": "Gadgets",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-11",
+    "dias_no_ar": 187,
+    "variacoes_ativas": 7,
+    "texto_original": "SUPER DEALS  on DHgate🔥\nShop at the $1.99 store for the best discounts🎉",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-960717359927101.jpg"
+}

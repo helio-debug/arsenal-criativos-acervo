@@ -1,0 +1,103 @@
+{
+ "id": "vid-testei-por-sete-dias",
+ "formato_video": "desafio-dias",
+ "nichos": [
+  "emagrecimento-fitness",
+  "saude",
+  "beleza-cosmeticos",
+  "renda-extra"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Diário de teste com sete dias de uso",
+ "duracao": "35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Usei [produto] por sete dias. Anotei [critério observável] todo dia.",
+  "texto_tela": "7 dias com [produto]",
+  "visual": "Plano médio sentado junto a uma mesa de madeira, luz natural. A mão aproxima [produto ou cartão do teste] da lente. Legenda branca central."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio sentado junto a uma mesa de madeira, luz natural. A mão aproxima [produto ou cartão do teste] da lente. Legenda branca central.",
+   "fala": "Usei [produto] por sete dias. Anotei [critério observável] todo dia.",
+   "texto_tela": "7 dias com [produto]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Mesmo plano. Coloque na mesa o cartão do primeiro dia; mostre o primeiro registro sem dados pessoais.",
+   "fala": "Dia um: [primeiro achado concreto]. Meu ponto de partida era [registro inicial].",
+   "texto_tela": "Dia 1: [achado curto]"
+  },
+  {
+   "tempo": "8-12s",
+   "cena": "Detalhe das mãos, alternando dois cartões pequenos sobre a mesa.",
+   "fala": "Dia dois: [achado]. Dia três: [achado diferente].",
+   "texto_tela": "Dia 2: [achado] | Dia 3: [achado]"
+  },
+  {
+   "tempo": "12-17s",
+   "cena": "Volte ao plano médio e levante um cartão maior, colorido, como o objeto amarelo da referência; ele identifica a etapa, sem representar gordura.",
+   "fala": "Dia quatro: [dificuldade]. Dia cinco: ajustei [detalhe permitido no uso].",
+   "texto_tela": "Dia 4: [dificuldade] | Dia 5: [ajuste]"
+  },
+  {
+   "tempo": "17-23s",
+   "cena": "Detalhe da mesa. Acrescente os cartões seis e sete e aponte para os registros correspondentes.",
+   "fala": "Dia seis: [achado]. Dia sete: [achado]. Aqui estão as anotações.",
+   "texto_tela": "Dia 6: [achado] | Dia 7: [achado]"
+  },
+  {
+   "tempo": "23-30s",
+   "cena": "Plano médio com os cartões organizados. Insira close do registro do critério, sem imagem comparativa de corpo.",
+   "fala": "No meu teste, [conclusão sustentada]. [Limitação observada] continuou. Sete dias registram uso, sem garantir resultado.",
+   "texto_tela": "[Conclusão do teste] • [limitação]"
+  },
+  {
+   "tempo": "30-35s",
+   "cena": "Corte para apresentador em pé em ambiente de uso, fundo sem logotipos. Mãos livres e chamada curta.",
+   "fala": "Veja [condições da amostra ou teste] em [canal de acesso].",
+   "texto_tela": "[Ação para acessar o teste]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame aproxima um objeto vermelho da lente; a mão e o objeto criam um ponto de atenção antes da explicação.",
+  "Os frames intermediários colocam objetos na mesa e depois levantam um objeto amarelo maior; essa sequência oferece uma base visual para ordenar as etapas do diário.",
+  "A legenda branca aparece no centro inferior, acompanhando a fala sem cobrir o objeto erguido.",
+  "O último frame muda do banco externo para um ambiente interno com o apresentador em pé; a troca de cenário marca o convite final."
+ ],
+ "quando_usar": "Para produtos que possam ter uso documentado ao longo de uma semana, quando o público já conhece a proposta e quer ver rotina e limitações. Registre os sete dias de verdade e relate observações compatíveis com o produto.",
+ "roteiro_modelo": "Usei [produto] por sete dias. Anotei [critério observável] todo dia.\n\n[Pausa curta / corte]\n\nDia um: [primeiro achado concreto]. Meu ponto de partida era [registro inicial].\n\n[Pausa curta / corte]\n\nDia dois: [achado]. Dia três: [achado diferente].\n\n[Pausa curta / corte]\n\nDia quatro: [dificuldade]. Dia cinco: ajustei [detalhe permitido no uso].\n\n[Pausa curta / corte]\n\nDia seis: [achado]. Dia sete: [achado]. Aqui estão as anotações.\n\n[Pausa curta / corte]\n\nNo meu teste, [conclusão sustentada]. [Limitação observada] continuou. Sete dias registram uso, sem garantir resultado.\n\n[Pausa curta / corte]\n\nVeja [condições da amostra ou teste] em [canal de acesso].",
+ "tomadas_celular": [
+  "Plano médio sentado à mesa, celular vertical na altura dos olhos e luz de janela ou sombra aberta; grave a abertura por 4s.",
+  "Close da mão com produto ou cartão sem marca alheia, luz lateral suave; grave 4s.",
+  "Plano de cima da mesa com sete cartões numerados e registros reais, luz difusa; grave 8s para os cortes dos dias.",
+  "Plano médio levantando um cartão amarelo, mantendo rosto e objeto em foco, luz natural frontal; grave 5s.",
+  "Close do diário ou registro de uso, sem dados pessoais, luz lateral; grave 7s.",
+  "Plano médio em pé no local de uso, fundo sem marcas e luz frontal suave; grave 5s."
+ ],
+ "caminho_ia": "Faça no Veo ou Runway cenas ilustrativas e use avatar com voz sintética para ler o modelo. Prompts: \"Vertical 9:16 medium shot, generic presenter seated at a wooden table, soft daylight, hand bringing [product] toward the lens, shallow depth of field, no logos, no embedded text, 4 seconds.\" e \"Vertical 9:16 overhead insert shot, hands arranging seven blank numbered cards beside [product], soft diffused window light, locked camera, no body comparison, 6 seconds.\" Monte os sete registros no CapCut e acrescente as legendas brancas. Identifique a dramatização e use só registros reais fornecidos pelo comprador; cenas geradas não comprovam um teste nem substituem depoimento real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um diário de sete dias em 35s, vertical. Divida em 0-4, 4-8, 8-12, 12-17, 17-23, 23-30 e 30-35s. Abra com produto perto da lente, apresente ponto de partida, dê um achado específico de cada dia, mostre conclusão com limitação e feche com acesso ao teste. Use mesa, cartões e legenda branca curta. Tom de relato honesto; cortes nos pares de dias, pausa na conclusão. Não reproduza promessa de perda de gordura, objetos como quantidade de gordura, números de adesão nem prazo de resultado da referência. Não invente experiência pessoal; se faltar diário real, entregue campos para preenchimento. Para saúde e beleza, descreva uso sem prometer efeito clínico; para renda extra, descreva tarefas e custos sem garantir ganhos. Não copie pessoa, anunciante, marca, logotipo, domínio, cenário identificável nem falas da referência. Use apenas os dados fornecidos; deixe [colchetes] para informação ausente. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, antítese vazia ou pergunta decorativa.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Sete dias usando [produto] para [finalidade]. Registrei [critério] e encontrei [achado], com [limitação]. Meu relato não garante o mesmo resultado. Condições de [amostra/teste]: [condições e acesso].",
+ "alerta_politica": "Meta: sem antes/depois de corpo, promessa de resultado de saúde ou emagrecimento em sete dias, nem texto que atribua doença ou condição corporal ao espectador. ANVISA: alegações de saúde e cosméticos devem respeitar o enquadramento e a autorização do produto; não prometer cura. Em publicidade médica, observar o CFM. Renda extra: sem garantia de ganho; apresentar custos, condições e resultado típico comprovável, sem tratar exceção como regra, conforme os termos da Meta para oportunidades de negócio.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b142bad5",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-testei-por-sete-dias/frames/f1.jpg",
+    "videos/vid-testei-por-sete-dias/frames/f2.jpg",
+    "videos/vid-testei-por-sete-dias/frames/f3.jpg",
+    "videos/vid-testei-por-sete-dias/frames/f4.jpg",
+    "videos/vid-testei-por-sete-dias/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

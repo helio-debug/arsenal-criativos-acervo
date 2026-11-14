@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1711623046519719",
+  "tipo": "estatico",
+  "titulo": "Mascote com tranças apresenta pacote de depilação",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Mascote de sapo com duas tranças divide o topo com uma frase sobre pelos. Faixa amarela anuncia 30 sessões e a base branca destaca preço parcelado e três áreas do pacote.",
+  "por_que_funciona": [
+    "O sapo com tranças cria uma imagem incomum ligada à frase do topo.",
+    "A faixa amarela separa a chamada visual da oferta.",
+    "O número 69 ocupa grande parte do bloco de preço.",
+    "A lista rosa com sinais verdes de adição permite identificar as áreas incluídas."
+  ],
+  "quando_usar": "Para clínicas divulgarem pacotes com preço e condições definidos, adaptando o humor para evitar constrangimento corporal.",
+  "estrutura_texto": "[Frase de humor ligada ao serviço]\n[Quantidade] sessões de [serviço]\nApenas [parcelas]x de [valor]\n+[Área 1]\n+[Área 2]\n+[Área 3]\n[Distribuição das sessões]",
+  "legenda": "Conheça o pacote com [quantidade] sessões de depilação a laser para [áreas], em [parcelas] de [valor]. Consulte as condições e agende uma avaliação para verificar a indicação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a arte em topo bege com mascote original lúdico e frase curta, faixa amarela com quantidade de sessões e base branca com preço grande à esquerda e áreas à direita. Use rosa nos títulos e verde nos sinais de adição. Incorpore o serviço da IMAGEM 2 sem copiar o personagem. Evite ridicularizar pelos ou aparência. Mostre parcelas e condições completas.",
+  "alerta_politica": "Meta: o humor não deve humilhar características corporais nem sugerir que o leitor tenha uma condição de saúde. Não prometer eliminação definitiva de pelos ou foliculite. ANVISA: equipamento regularizado; informar condições do pacote e parcelamento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1711623046519719",
+    "anunciante": "Laser Rosa Santa Ursula",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-17",
+    "dias_no_ar": 150,
+    "variacoes_ativas": 1,
+    "texto_original": "Sua rotina merece mais praticidade 💜\nEsqueça cera, foliculite e pelos encravados.\n\nCom a depilação a laser, você ganha:\n✨ Mais conforto\n✨ Pele lisinha\n✨ Economia de tempo\n\nAgende sua avaliação e descubra o protocolo ideal para você\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1711623046519719.jpg"
+}

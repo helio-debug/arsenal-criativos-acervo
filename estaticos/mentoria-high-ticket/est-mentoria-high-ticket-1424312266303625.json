@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1424312266303625",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre comunicação sobre foto de conversa",
+  "formato": "Produto em destaque",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de duas mulheres conversando ocupa o fundo claro, delimitado por uma moldura fina arredondada. O título serifado fica acima dos rostos e a pergunta aparece em branco sobre a imagem, com parte em negrito.",
+  "por_que_funciona": [
+    "A foto mostra uma interação entre duas pessoas, conectada ao tema de comunicação individual.",
+    "A pergunta descreve uma situação concreta de dificuldade ao falar.",
+    "O negrito destaca o momento de bloqueio dentro da pergunta.",
+    "O título amplo no topo identifica a mentoria antes da leitura da chamada."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de comunicação a profissionais que se reconhecem na dificuldade de se posicionar em conversas e reuniões.",
+  "estrutura_texto": "[Perfil da marca]\nMENTORIA\n[Nome do programa]\n[Marca]\nVocê sabe [capacidade],\nmas [dificuldade] quando chega\n[situação de exposição]?",
+  "legenda": "Boas ideias precisam de espaço para serem apresentadas com clareza. A mentoria [nome] oferece acompanhamento individual online para trabalhar [comunicação], [segurança ao falar] e [posicionamento profissional]. Em [quantidade] encontros, desenvolva essas habilidades com [perfil dos especialistas]. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da IMAGEM 2 como base para uma cena clara de conversa entre duas pessoas, com luz natural e tons neutros. Aplique moldura fina de cantos arredondados, título serifado preto em duas linhas no terço superior e assinatura pequena roxa logo abaixo. Sobre a parte central inferior da foto, coloque pergunta curta em branco, destacando em negrito a dificuldade descrita. Use degradê escuro suave apenas para garantir leitura. Não invente depoimentos ou credenciais para as pessoas fotografadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1424312266303625",
+    "anunciante": "Sense Comunicação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-16",
+    "dias_no_ar": 59,
+    "variacoes_ativas": 1,
+    "texto_original": "Você pode entregar resultados, ter boas ideias e saber exatamente o que precisa ser feito. Mas, se na hora de se posicionar você trava, se justifica demais ou não consegue sustentar as falas com clareza, sua presença perde força. \nA Mentoria Voice da Sense Comunicação é um acompanhamento individual online para desenvolver comunicação, segurança e autoridade profissional.\nEm 5 encontros estratégicos, você trabalhará o seu posicionamento ao lado de especialistas que vivem comunicação na prática há mais de 10 anos.\nAgende agora sua Mentoria!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1424312266303625.jpg"
+}

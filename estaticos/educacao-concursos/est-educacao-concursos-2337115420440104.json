@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-2337115420440104",
+  "tipo": "estatico",
+  "titulo": "Preparatório com destaque para experiência dos professores",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo preto com título branco e amarelo anunciando um preparatório para concurso. Um bloco lateral apresenta materiais e experiência dos professores, com logotipo no rodapé.",
+  "por_que_funciona": [
+    "O título em letras grandes identifica de imediato o concurso atendido.",
+    "Amarelo destaca tanto a carreira quanto a experiência dos professores.",
+    "A barra vertical separa o bloco de benefícios e organiza a leitura."
+  ],
+  "quando_usar": "Para apresentar um preparatório a candidatos que já escolheram a carreira e comparam materiais e professores.",
+  "estrutura_texto": "CONCURSO DA [CARREIRA]\nDE [REGIÃO]\n[Aulas e materiais] feitos por professores [experiência verificável] que já estiveram onde você está hoje\n[Marca]",
+  "legenda": "Organize sua preparação para [concurso] com [plano baseado no edital], [materiais] e [acompanhamento]. Conheça [formatos disponíveis] e escolha o que cabe na sua rotina.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo preto com título condensado em caixa alta no terço superior, branco na primeira linha e amarelo nas seguintes. Abaixo, coloque bloco de texto branco com barra amarela à esquerda e destaque amarelo para a experiência docente. Reserve o rodapé para a marca informada.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2337115420440104",
+    "anunciante": "Projeto individualizado para concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-25",
+    "dias_no_ar": 20,
+    "variacoes_ativas": 3,
+    "texto_original": "Você não estuda pouco. Você estuda errado. 🎯\n\nTrês plataformas abertas, quatro apostilas, nenhum critério de prioridade — e a sensação de que o conteúdo nunca acaba.\n\nO PIC Aprova prepara para concursos da Polícia Civil desde 2015: plano de estudo montado a partir do edital, material direto ao ponto e acompanhamento de quem já passou pela prova. 📌\n\nClique e veja os dois formatos: curso online com trilha guiada ou mentoria individual.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2337115420440104.jpg"
+}

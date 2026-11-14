@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1122049213644914",
+  "tipo": "estatico",
+  "titulo": "Lista de ativos ao lado do shampoo",
+  "formato": "Rótulo e ingredientes",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma mão segura um frasco verde grande à direita sobre fundo bege. Faixas brancas no topo apresentam benefício e prazo, enquanto uma lista com marcas de verificação destaca quatro ingredientes à esquerda.",
+  "por_que_funciona": [
+    "O verde do frasco reaparece na lista e une produto e ingredientes.",
+    "As quatro linhas com verificação permitem leitura rápida dos ativos.",
+    "As faixas brancas separam o benefício do fundo bege.",
+    "A mão dá escala ao frasco e cria contexto de uso cotidiano."
+  ],
+  "quando_usar": "Para explicar a composição de um cosmético e relacioná-la a benefícios sustentados por evidência.",
+  "estrutura_texto": "[Benefício comprovado]\n[Prazo, somente se comprovado]\ncom\n✓ [Ingrediente 1]\n✓ [Ingrediente 2]\n✓ [Ingrediente 3]\n✓ [Ingrediente 4]\n[Produto e indicação]",
+  "legenda": "Conheça [produto], com [ingredientes], desenvolvido para [tipo de fio]. Inclua na rotina conforme o modo de uso e confira [benefícios cosméticos comprovados].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo bege, frasco grande à direita segurado por uma mão e lista de quatro ingredientes reais à esquerda em verde escuro com sinais de verificação. No topo, aplique duas faixas brancas levemente inclinadas para benefício e informação complementar. Não inclua prazo ou alegação de prevenção de queda sem comprovação e autorização aplicáveis.",
+  "alerta_politica": "Meta/ANVISA: comprovar benefício e prazo de três meses; evitar atribuir condição pessoal ao público ou apresentar cosmético como tratamento de alopecia. Alegações sobre raízes e queda exigem respaldo e enquadramento adequados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1122049213644914",
+    "anunciante": "Plantur",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-19",
+    "dias_no_ar": 26,
+    "variacoes_ativas": 1,
+    "texto_original": "Com o tempo, os fios podem ficar mais finos e cair com mais facilidade. Plantur 39 com o Complexo de Fito-cafeína cientificamente comprovado: ciência alemã contra a queda de cabelo feminina.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1122049213644914.jpg"
+}

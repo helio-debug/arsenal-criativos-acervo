@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1627905541527139",
+  "tipo": "estatico",
+  "titulo": "Catálogo de motos com parcelas e contato",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Grade de dezesseis motos com nomes e valores vermelhos sobre fundo claro. No topo aparecem identificação e contatos; na base, um vendedor, brindes e uma mão segurando uma chave.",
+  "por_que_funciona": [
+    "A grade permite comparar modelos e valores na mesma peça.",
+    "Os preços vermelhos criam um padrão de leitura abaixo de cada moto.",
+    "Os ícones de contato tornam visíveis os caminhos para atendimento.",
+    "A chave na base conecta a mensagem final à aquisição da moto."
+  ],
+  "quando_usar": "Para apresentar várias opções de consórcio a interessados que já estão comparando modelos.",
+  "estrutura_texto": "[Identificação do consultor]\n[Telefone] | [Perfil]\n[Grade: foto + modelo + parcela]\n[Chamada para atendimento]\n[Marca e modalidade]",
+  "legenda": "Compare os planos de consórcio para [categoria de veículos]. Consulte [parcelas, prazos e taxas] e fale com [canal] para uma simulação. Contemplação por sorteio ou lance, conforme regulamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro com degradê suave avermelhado, cabeçalho com contato e grade de quatro colunas de veículos recortados. Coloque modelo e parcela em vermelho abaixo de cada foto. Na base, reserve espaço para atendimento humano e uma chave ilustrativa. Use somente modelos e valores fornecidos, com condições legíveis.",
+  "alerta_politica": "Consórcio: não prometer contemplação em prazo certo. Explicitar que a contemplação depende de sorteio ou lance e apresentar taxas, prazo e condições; não equiparar consórcio a crédito com liberação imediata.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1627905541527139",
+    "anunciante": "Kayo César",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-04",
+    "dias_no_ar": 375,
+    "variacoes_ativas": 1,
+    "texto_original": "NÃO PERCA MAIS TEMPO, SAIA JÁ DO TRANSPORTE PÚBLICO, ÚLTIMAS VAGAS!\nFALE AGORA COMIGO",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1627905541527139.jpg"
+}

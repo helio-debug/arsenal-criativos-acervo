@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1782118366125645",
+  "tipo": "estatico",
+  "titulo": "Material de alfabetização fotografado na embalagem",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fotografia de uma caixa verde de materiais de alfabetização em ambiente de loja. A embalagem mostra quatro volumes coloridos, um disco e cartazes, além de ilustrações infantis.",
+  "por_que_funciona": [
+    "A foto da embalagem permite reconhecer o produto que será recebido.",
+    "As miniaturas dos volumes mostram que há vários materiais no conjunto.",
+    "A indicação de volumes, disco e cartazes explicita a composição do kit."
+  ],
+  "quando_usar": "Para anunciar materiais pedagógicos físicos com foto da embalagem e condições de pagamento na legenda.",
+  "estrutura_texto": "[Nome do material] + [etapa escolar] + [imagem dos componentes] + [quantidades incluídas].",
+  "legenda": "Encontre [material pedagógico] para [etapa de ensino]. Consulte a opção de pagamento em até [número] parcelas via [meio], sujeita a [condições e aprovação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Apresente a embalagem real da IMAGEM 2 em fotografia frontal, ocupando quase toda a altura, com margens laterais claras. Mantenha legíveis o nome do material, a etapa escolar e a composição do kit. Use fundo discreto de prateleira e boa iluminação, sem reproduzir autoria ou identidade de terceiros. Não acrescente condições financeiras à embalagem.",
+  "alerta_politica": "Meta: ao divulgar parcelamento ou crédito, informar condições reais, custos aplicáveis e eventual análise de aprovação; não prometer aprovação garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1782118366125645",
+    "anunciante": "Shopee",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-09",
+    "dias_no_ar": 97,
+    "variacoes_ativas": 5,
+    "texto_original": "Pague suas compras em até 12x no pix com SParcelado da Shopee.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1782118366125645.jpg"
+}

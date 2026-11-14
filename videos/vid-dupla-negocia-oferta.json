@@ -1,0 +1,88 @@
+{
+ "id": "vid-dupla-negocia-oferta",
+ "tipo": "video",
+ "titulo": "Dupla combina desconto e confirma as condições em conversa",
+ "formato_video": "esquete-dialogada",
+ "nichos": [
+  "seguros",
+  "automotivo",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "fundo",
+ "duracao": "22-26s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "A: Para quem usar [cupom], dá para liberar [benefício disponível]?",
+  "texto_tela": "[Benefício em negociação]",
+  "visual": "Dois apresentadores em pé, plano conjunto vertical em espaço comercial iluminado; um segura celular sem marca."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Dois apresentadores em pé, plano conjunto vertical em espaço comercial iluminado; um segura celular sem marca.",
+   "fala": "A: Para quem usar [cupom], dá para liberar [benefício disponível]?",
+   "texto_tela": "[Benefício em negociação]"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Câmera se aproxima de B; gesto com a mão acompanha a resposta. Legenda branca curta.",
+   "fala": "B: Dá. Fica [condição exata], para [produto elegível].",
+   "texto_tela": "[Condição exata]"
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Reenquadra os dois; A aponta para baixo e B confirma olhando para ele.",
+   "fala": "A: E vale em [período ou cobrança específica]? B: Isso. Nesse período, fica [valor final].",
+   "texto_tela": "[Valor final] em [período]"
+  },
+  {
+   "tempo": "15-21s",
+   "cena": "B em primeiro plano com celular na mão; A permanece visível ouvindo.",
+   "fala": "B: Use [cupom]. Vale até [data], conforme [regra de elegibilidade].",
+   "texto_tela": "[CUPOM] | Até [data]"
+  },
+  {
+   "tempo": "21-26s",
+   "cena": "Plano conjunto, ambos voltam o olhar para a câmera, apontando o acesso.",
+   "fala": "A: Abra o link, confira as condições e aplique [cupom] antes de concluir.",
+   "texto_tela": "Confira as regras no link"
+  }
+ ],
+ "por_que_funciona": [
+  "Os dois interlocutores permanecem no quadro enquanto um propõe e o outro confirma o benefício.",
+  "O celular na mão e os gestos para baixo acompanham a indicação de acesso citada na conversa.",
+  "O reenquadramento aproxima quem responde, sem trocar o ambiente comercial.",
+  "A fala de referência separa adesão e primeira mensalidade; essa divisão permite explicar qual cobrança recebe cada benefício."
+ ],
+ "quando_usar": "Para produtos com desconto real e regras simples de explicar em uma conversa. Use no fundo do funil para tirar dúvida sobre valor, período e aplicação do cupom.",
+ "roteiro_modelo": "A: Para quem usar [cupom], dá para liberar [benefício disponível]?\n\n[CORTE / PAUSA]\n\nB: Dá. Fica [condição exata], para [produto elegível].\n\n[CORTE / PAUSA]\n\nA: E vale em [período ou cobrança específica]? B: Isso. Nesse período, fica [valor final].\n\n[CORTE / PAUSA]\n\nB: Use [cupom]. Vale até [data], conforme [regra de elegibilidade].\n\n[CORTE / PAUSA]\n\nA: Abra o link, confira as condições e aplique [cupom] antes de concluir.",
+ "tomadas_celular": [
+  "Grave 4s de plano conjunto, celular vertical à altura do peito, luz frontal da loja sem contraluz.",
+  "Grave 5s aproximando B até plano médio, sob luz difusa; mantenha A na borda.",
+  "Grave 6s com os dois da cintura para cima, luz constante e pausa curta para a confirmação.",
+  "Grave 6s de B em plano médio com celular sem dados pessoais, luz frontal e espaço para cupom.",
+  "Grave 5s de ambos em plano conjunto, com luz frontal e gesto apontando o link."
+ ],
+ "caminho_ia": "Crie os dois personagens genéricos no Veo ou Kling e use vozes sintéticas licenciadas, uma por interlocutor. Prompts: \"Vertical 9:16 handheld medium two-shot, two generic adults discussing [product offer] in a bright unbranded retail showroom, one holding a blank smartphone, conversational gestures, diffuse overhead light, no logos, 4 seconds.\" e \"Vertical 9:16 handheld medium shot of the second speaker confirming [verified discount terms], first speaker visible at frame edge, natural eye contact, consistent retail interior, no text, 5 seconds.\" No CapCut, alterne as falas, adicione legendas brancas e escreva o cupom manualmente para evitar erros. Identifique a encenação quando necessário; não apresente negociação inventada como flagrante real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto, sem reproduzir a identidade da referência.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça diálogo A/B em 5 blocos: 0-4, 4-9, 9-15, 15-21 e 21-26s. A pede um benefício que já está autorizado; B confirma valor e elegibilidade; A verifica o período; B informa cupom e validade; A chama para o link. Ritmo de conversa, pequenas pausas para resposta, câmera móvel e legendas brancas curtas; destaque o cupom uma vez. Não copie pessoas, showroom identificável ou código da referência. Não improvise desconto, isenção nem promessa de cobertura. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltar informação. Não invente números, comprovações, depoimentos ou condições comerciais. Não copie pessoas, marcas, nomes, logotipos, contatos, cenários identificáveis ou falas literais da referência. Evite perguntas retóricas, promessas de resultado, superlativos sem prova e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Use [cupom] para obter [benefício] em [produto elegível]. Válido até [data], em [período específico]. Consulte [condições e restrições] antes de contratar.",
+ "alerta_politica": "Meta: serviços financeiros não podem usar oferta enganosa ou omitir custos e condições relevantes. Informe base do desconto, cobrança atingida, validade e elegibilidade. Para seguro, observe a SUSEP e as condições contratuais; não prometa cobertura irrestrita nem trate proteção veicular como seguro. Se adaptar para crédito, observe Banco Central e informe CET e condições aplicáveis; se envolver investimento, observe a CVM e não garanta rentabilidade.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-06749532",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-dupla-negocia-oferta/frames/f1.jpg",
+    "videos/vid-dupla-negocia-oferta/frames/f2.jpg",
+    "videos/vid-dupla-negocia-oferta/frames/f3.jpg",
+    "videos/vid-dupla-negocia-oferta/frames/f4.jpg",
+    "videos/vid-dupla-negocia-oferta/frames/f5.jpg"
+   ]
+  }
+ ]
+}

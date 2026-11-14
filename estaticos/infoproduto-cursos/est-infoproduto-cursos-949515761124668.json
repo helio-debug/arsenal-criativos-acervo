@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-949515761124668",
+  "tipo": "estatico",
+  "titulo": "Tema de liderança em painel sobre foto corporativa",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto corporativa em preto e branco serve de fundo para um painel escuro translúcido com brilho alaranjado. Uma seta laranja aponta para cima à direita, acima da chamada do curso e das inscrições.",
+  "por_que_funciona": [
+    "A palavra liderança em caixa alta domina o painel central.",
+    "O painel translúcido preserva a legibilidade sobre a fotografia.",
+    "A seta laranja introduz um ponto de cor que se repete no painel.",
+    "A chamada de inscrições aparece isolada abaixo do tema do curso."
+  ],
+  "quando_usar": "Para abertura de inscrições em cursos de gestão e desenvolvimento profissional.",
+  "estrutura_texto": "APRENDA\n[área de conhecimento] e\n[competência principal]\nINSCRIÇÕES ABERTAS\n[chamada para inscrição]",
+  "legenda": "Inscrições abertas para [curso]. Estude [conteúdos] e desenvolva [competências] para sua rotina de gestão. Veja [programa], [datas] e [condições] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto corporativa da IMAGEM 2 em preto e branco, com desfoque de fundo. Sobreponha painel central preto translúcido com luz laranja lateral. Insira seta laranja ascendente acima do painel, tema em branco com a competência principal em caixa alta e chamada de inscrição abaixo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "949515761124668",
+    "anunciante": "Expert Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-06",
+    "dias_no_ar": 192,
+    "variacoes_ativas": 2,
+    "texto_original": "✅ Inscrições Abertas - Curso de Gestão de Pessoas e Liderança\n\nEsteja preparado para cargos de destaque, elevar seu nível de gestão e se tornar um líder que gera impacto nas pessoas.\n\n👨💻 Conteúdo do Curso:\n- Diferença entre gerir e liderar\n- Dificuldades da primeira Liderança\n- Flexibilidade e Resiliência\n- Inteligência Emocional e Gestão de Conflitos\n- Comunicação e Oratória\n- Tomada de Decisão\n- Supervisão de Processos\n- Análise SWOT\n- Ciclo PDCA\n- Rotinas e Rituais\n- Dar e Receber Feedback\n- Avaliação de Desempenho e PDI\n- Cultura e Clima Organizacional\nE muitos mais…\n\n♾️ Acesso vitalício\n📹 Curso em videoaulas\n📝 Material de apoio (E-book)\n💬 Suporte para dúvidas\n👨🎓Certificado de conclusão com 10h de carga horária\n\nVAGAS LIMITADAS!!! ⌛ 🕑\n\nClique em SAIBA MAIS e aproveite o preço PROMOCIONAL  ⬇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-949515761124668.jpg"
+}

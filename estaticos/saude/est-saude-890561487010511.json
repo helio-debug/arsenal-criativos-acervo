@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-890561487010511",
+  "tipo": "estatico",
+  "titulo": "Seleção de interessados com pagamento facilitado",
+  "formato": "Comunicado oficial",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Comunicado somente tipográfico em fundo branco, com chamada vermelha de seleção, tratamento em preto e condições de pagamento destacadas em vermelho.",
+  "por_que_funciona": [
+    "A chamada vermelha ocupa o topo com grande tamanho.",
+    "O nome do tratamento aparece isolado em caixa alta.",
+    "MÊS e BOLETO em vermelho evidenciam prazo e pagamento.",
+    "O CTA inferior explicita a ação esperada."
+  ],
+  "quando_usar": "Para comunicar condições comerciais verificáveis de um tratamento, com prazo e critérios transparentes.",
+  "estrutura_texto": "ESTAMOS [Chamada]\nPessoas interessadas em\n[Tratamento]\nSomente [Prazo] estamos com [Condições] e pagamento [Forma de pagamento].\n[CTA] para [Objetivo].",
+  "legenda": "Conheça as condições de [tratamento] disponíveis até [data]. Consulte [critérios e condições de pagamento] e agende uma avaliação com [equipe]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma peça tipográfica sobre fundo branco, sem fotografia. Use chamada superior vermelha em caixa alta, nome do serviço preto com letras espaçadas, bloco central de condições e CTA no rodapé. Destaque prazo e forma de pagamento em vermelho. Não use seleção fictícia nem sugira gratuidade inexistente.",
+  "alerta_politica": "CFO: observar restrições a publicidade odontológica com apelos comerciais. Meta: seleção, prazo e condições devem ser verdadeiros; não disfarçar oferta paga de recrutamento ou benefício gratuito.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "890561487010511",
+    "anunciante": "OdontoCompany Sorocaba Zona Norte / Implantes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-12",
+    "dias_no_ar": 306,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 ESTA É A SUA CHANCE!\n\nIMPLANTE DENTÁRIO com CONDIÇÕES ESPECIAIS e PAGAMENTO FACILITADO no BOLETO! 🤩\n\nSomente ESTE MÊS você pode investir no seu sorriso e na sua qualidade de vida. Não deixe essa oportunidade passar!\n\nCLIQUE AGORA e volte a sorrir com confiança! 👇\n📲 (19) 99307-8273 - WhatsApp\n\n📍Rua: Atanázio Soares 2660, Sorocaba, SP, 18076-141\nWHATSAPP\nPAGAMENTO FACILITADO\nAgende hoje mesmo!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-890561487010511.jpg"
+}

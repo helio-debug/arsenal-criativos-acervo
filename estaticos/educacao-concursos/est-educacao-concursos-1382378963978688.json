@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1382378963978688",
+  "tipo": "estatico",
+  "titulo": "Mentoria para concursos com grade de entregas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Peça preta e dourada com profissional de costas diante de um tribunal. A coluna esquerda reúne público, grade de benefícios e carreiras-alvo; um botão dourado encerra a composição.",
+  "por_que_funciona": [
+    "A palavra “ADVOGADOS” em dourado e corpo grande identifica o público logo no topo.",
+    "Os ícones organizam entregas concretas, como cronograma, suporte e plataforma, em uma grade.",
+    "O tribunal e as siglas das carreiras conectam o cenário ao objetivo de estudo.",
+    "O botão contornado em dourado diferencia a chamada para saber mais do restante da informação."
+  ],
+  "quando_usar": "Para apresentar as entregas de uma mentoria de concursos a pessoas comparando formas de preparação.",
+  "estrutura_texto": "[Mentoria para público]\n[Perfil complementar]\n[Planejamento + acompanhamento]\n[Objetivo]\n[Grade de entregas com ícones]\n[Carreiras-alvo]\n[Benefício do acompanhamento]\n[Credencial verificável]\n[CTA]",
+  "legenda": "Prepare-se para [concursos-alvo] com um plano adaptado à sua rotina. A [mentoria] oferece [cronograma], [plataforma de acompanhamento] e [suporte]. Veja os detalhes em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha fundo preto com detalhes dourados e foto da IMAGEM 2 à direita, associada a um ambiente profissional genérico. Reserve a esquerda para título grande, subtítulo e grade de ícones com entregas curtas. Inclua faixa inferior com objetivos e credencial apenas se fornecida, além de botão dourado de saber mais. Evite excesso de texto miúdo e qualquer garantia de aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1382378963978688",
+    "anunciante": "Voceseraprovado Connected Page",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-18",
+    "dias_no_ar": 27,
+    "variacoes_ativas": 1,
+    "texto_original": "Transforme o seu estudo em aprovação com a Mentoria @metodorotajuridica para Alto Desempenho 📚🎯\n\nChegou a sua vez de conquistar a vaga no Tribunal dos sonhos com estratégia, método e acompanhamento completo para chegar mais longe:\n\n• Cronograma Personalizado: Plano de estudos sob medida para o seu perfil, rotina e objetivo\n• Plataforma Tutory: Acompanhamento inteligente de todo o seu progresso de estudo\n• Metodologia Eficiente: Técnicas e estratégias exclusivas focadas no que realmente cai na prova\n• Acompanhamento Individual: Suporte próximo, orientação constante e ajustes para manter o foco\n• Mentoria de Verdade: Menos achismo, mais método e mais resultados rumo à sua nomeação\n\nInvista em si! A aprovação é uma questão de escolha 🤝\n\nFale comigo e saiba mais sobre como iniciar a sua preparação!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1382378963978688.jpg"
+}

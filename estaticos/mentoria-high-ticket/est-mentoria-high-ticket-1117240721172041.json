@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1117240721172041",
+  "tipo": "estatico",
+  "titulo": "Mentoria individual com quatro frentes de posicionamento",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Retrato de uma mentora em ambiente escuro e sofisticado, com título branco e verde-lima no topo. À esquerda, quatro frentes da mentoria aparecem alinhadas a uma linha vertical.",
+  "por_que_funciona": [
+    "O título verde-lima destaca o atendimento individual.",
+    "A duração de seis meses torna o programa mais concreto.",
+    "Os quatro blocos laterais permitem identificar rapidamente os temas trabalhados.",
+    "O retrato em grande escala associa a oferta à profissional que a conduz."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de posicionamento a empresários que já buscam acompanhamento individual.",
+  "estrutura_texto": "[Marca]\nMENTORIA INDIVIDUAL\n[DURAÇÃO] PARA [OBJETIVO DO NEGÓCIO]\n[VERBO] [POSICIONAMENTO]\n[VERBO] [IDENTIDADE]\n[VERBO] [COMUNICAÇÃO]\n[VERBO] [PERCEPÇÃO DE VALOR]",
+  "legenda": "Mentoria individual para [perfil de empresário] com faturamento acima de [critério de entrada]. Durante [duração], trabalhe [posicionamento], [identidade] e [comunicação] com [formato do acompanhamento]. Conheça o programa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione retrato autorizado à direita e na metade inferior, em ambiente interno com luz quente. Use sobreposição escura para leitura. No topo, título em caixa alta, primeira linha branca e segunda verde-lima. À esquerda, quatro blocos curtos com verbos em verde-lima e complementos brancos, conectados por linha vertical fina.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1117240721172041",
+    "anunciante": "Kaffka Blog - Moda e conteúdo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-26",
+    "dias_no_ar": 19,
+    "variacoes_ativas": 1,
+    "texto_original": "[Mentoria Individual para Empresários que faturam acima de R$ 200 mil/ano]",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1117240721172041.jpg"
+}

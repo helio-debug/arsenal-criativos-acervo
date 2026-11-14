@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-807438018555992",
+  "tipo": "estatico",
+  "titulo": "Curso introdutório com certificado em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo branco com título de marketing digital em azul e rosa, selo amarelo de curso curto e chamada de certificação gratuita. Uma mulher com notebook ocupa a parte inferior, cercada por ícones de redes sociais.",
+  "por_que_funciona": [
+    "A palavra principal em azul grande concentra a atenção no tema do curso.",
+    "O selo amarelo informa o formato curto em uma área destacada.",
+    "A chamada rosa de certificação gratuita evidencia a oferta.",
+    "Notebook e ícones sociais ilustram a aplicação digital do aprendizado."
+  ],
+  "quando_usar": "Para captar interessados em cursos introdutórios com aprendizado e certificação cujas condições estejam explícitas.",
+  "estrutura_texto": "[MARCA]\n[CURSO CURTO ONLINE]\n[FUNDAMENTOS DE]\n[TEMA]\n[OBTENHA CERTIFICAÇÃO GRATUITA]",
+  "legenda": "Aprenda os fundamentos de [tema] em um curso online de curta duração. Confira o conteúdo e as condições de acesso e certificação em [link]. [Condições reais de gratuidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com recortes de papel e sombras suaves. Posicione um selo amarelo no topo, título principal azul com uma palavra rosa e foto da IMAGEM 2 na metade inferior. Acrescente ícones genéricos de canais digitais e um selo branco inclinado com chamada rosa. Todo texto deve estar em pt-BR; só anuncie certificado gratuito se essa condição for real.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "807438018555992",
+    "anunciante": "Uniathena - Short Courses",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-17",
+    "dias_no_ar": 393,
+    "variacoes_ativas": 1,
+    "texto_original": "📣 Grab Your Free Digital Marketing Certification - We understand your career dreams & here’s the perfect course just for you! Embark on a rewarding Digital Marketing career with UniAthena!\nTop Trending Course\n100% Free Learning",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-807438018555992.jpg"
+}

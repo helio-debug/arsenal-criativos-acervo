@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2469617346862971",
+  "tipo": "estatico",
+  "titulo": "Catálogo de pós com faixas coloridas e preço parcelado",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Lista de especializações em tarjas coloridas divide espaço com uma personagem ilustrada segurando livro. Um quadro verde destaca parcelamento e taxa de matrícula.",
+  "por_que_funciona": [
+    "As tarjas de cores diferentes separam os nomes das especializações.",
+    "A personagem com livro reforça o contexto de educação.",
+    "O quadro verde concentra número de parcelas, valor e taxa.",
+    "O selo de avaliação institucional aparece perto do preço."
+  ],
+  "quando_usar": "Para apresentar várias especializações de uma mesma instituição em uma oferta de captação.",
+  "estrutura_texto": "PÓS-GRADUAÇÃO\n[área em destaque]\n[lista de especializações]\nPOR APENAS:\n[número]X R$[valor] CADA CURSO\n+[taxa]\n[avaliação institucional]",
+  "legenda": "Conheça as opções de pós-graduação em [áreas]. Estude [modalidade] com [condições de estudo]. Consulte requisitos, certificação, parcelas e taxa de matrícula em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com desenhos escolares muito suaves, título verde pesado no topo e lista de cursos à esquerda em tarjas fluorescentes. À direita, coloque personagem ilustrada original com livro. Destaque preço em quadro verde inferior e uma credencial comprovável ao lado.",
+  "alerta_politica": "Não apresente formação em autismo ou áreas clínicas como promessa de tratamento. Diferencie credencial institucional de avaliação do curso e informe requisitos profissionais, parcelas e taxas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2469617346862971",
+    "anunciante": "Matrículas Faveni",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-09",
+    "dias_no_ar": 128,
+    "variacoes_ativas": 1,
+    "texto_original": "🎓 PÓS-GRADUAÇÃO EAD EM ABA – GRUPO EDUCACIONAL FAVENI\n💻 Estude 100% online, com flexibilidade para aprender no seu ritmo e ampliar suas oportunidades profissionais.\n🏅 Somos Nota 5 no MEC\nCertificação válida em todo o Brasil.\nWHATSAPP\nSEM TCC\n⭐⭐⭐⭐⭐",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2469617346862971.jpg"
+}

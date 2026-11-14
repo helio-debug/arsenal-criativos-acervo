@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-1250026479927432",
+  "tipo": "estatico",
+  "titulo": "Peças originais com condição de preço em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Texto grande anuncia peças originais a preço de tabela sobre um desenho técnico de componentes. Uma faixa inferior reúne logotipos e uma ressalva tributária.",
+  "por_que_funciona": [
+    "A palavra “TABELA” ocupa quase toda a largura e concentra a atenção na condição comercial.",
+    "O desenho explodido de componentes identifica a categoria sem depender de uma foto de moto.",
+    "A fileira de logotipos permite reconhecer as linhas atendidas."
+  ],
+  "quando_usar": "Para lojas de peças que querem captar compradores já procurando reposição original.",
+  "estrutura_texto": "[Marca da loja]\nVenda de [peças] ORIGINAIS a preço de [condição]!*\n[Marcas atendidas]\n*[Ressalva comercial]",
+  "legenda": "Compre [peças originais] para [linhas atendidas] por [condição de preço]. Entregamos em [regiões]. Consulte disponibilidade e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com desenho técnico branco de componentes, faixa diagonal cinza no topo e recorte azul no rodapé. Posicione a chamada à esquerda em letras brancas com contorno azul; dê máximo tamanho à condição de preço. Reserve o rodapé para marcas próprias ou autorizadas e ressalva legível.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1250026479927432",
+    "anunciante": "Concessionária Platinum Motos - Jundiaí",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-08",
+    "dias_no_ar": 463,
+    "variacoes_ativas": 1,
+    "texto_original": "Compre  peças das marcas Suzuki, Haojue, Kymco, Zontes e Hisun por preço de tabela!\n\nEntregamos em todas as regiões do Brasil.\n\nPlatinum motos - Av. Pref. Luís Latorre, 5000 - Vila das Hortências, Jundiaí - SP\nVenda de peças é na Platinum Motos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1250026479927432.jpg"
+}

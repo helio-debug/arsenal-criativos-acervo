@@ -1,0 +1,109 @@
+{
+ "id": "vid-caixinha-retorno",
+ "tipo": "video",
+ "titulo": "Caixinha de pergunta: custo ou retorno explicado com números e aplicação",
+ "formato_video": "faq-resposta",
+ "nichos": [
+  "saas-b2b",
+  "investimentos",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quando [processo] fica sem [uso concreto], o custo continua.",
+  "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Quando [processo] fica sem [uso concreto], o custo continua.",
+  "visual": "Plano médio sentado, microfone pequeno na mão, luz suave de janela lateral e caixinha fixa no topo. Legendas brancas inferiores acompanham a fala. Variar discretamente a aproximação."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio sentado, microfone pequeno na mão, luz suave de janela lateral e caixinha fixa no topo. Legendas brancas inferiores acompanham a fala. Variar discretamente a aproximação.",
+   "fala": "Quando [processo] fica sem [uso concreto], o custo continua.",
+   "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Quando [processo] fica sem [uso concreto], o custo continua."
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Manter o enquadramento e a pergunta no topo; pontuar a fala com gesto curto.",
+   "fala": "Com [produto], você faz [tarefa] em [tempo verificável].",
+   "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Com [produto], você faz [tarefa] em [tempo verificável]."
+  },
+  {
+   "tempo": "9-14s",
+   "cena": "Manter o enquadramento e a pergunta no topo; pontuar a fala com gesto curto.",
+   "fala": "Assim, dá pra acompanhar [indicador] durante [período].",
+   "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Assim, dá pra acompanhar [indicador] durante [período]."
+  },
+  {
+   "tempo": "14-21s",
+   "cena": "Manter o enquadramento e a pergunta no topo; pontuar a fala com gesto curto.",
+   "fala": "Em [caso autorizado e anonimizado], [indicador] ficou em [valor documentado], durante [período].",
+   "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Em [caso autorizado e anonimizado], [indicador] ficou em [valor documentado], durante [período]."
+  },
+  {
+   "tempo": "21-25s",
+   "cena": "Manter o enquadramento e a pergunta no topo; pontuar a fala com gesto curto. Olhar firme e pausa antes da última frase.",
+   "fala": "Veja a aplicação em [demonstração disponível no link].",
+   "texto_tela": "Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Veja a aplicação em [demonstração disponível no link]."
+  }
+ ],
+ "por_que_funciona": [
+  "A caixinha no topo pergunta sobre utilidade e custo enquanto o apresentador responde.",
+  "As legendas brancas inferiores acompanham a fala e seus números.",
+  "O microfone fica em uma mão e a outra pontua a explicação no plano médio.",
+  "A fala sai do custo do treinamento, apresenta um caso com valor financeiro e convida a ver a aplicação."
+ ],
+ "quando_usar": "Para serviços cujo uso ou custo pode ser medido com dados reais. Use quando o público já conhece a solução e quer avaliar seu valor.",
+ "roteiro_modelo": "Quando [processo] fica sem [uso concreto], o custo continua.\n\n[PAUSA / CORTE]\n\nCom [produto], você faz [tarefa] em [tempo verificável].\n\n[PAUSA / CORTE]\n\nAssim, dá pra acompanhar [indicador] durante [período].\n\n[PAUSA / CORTE]\n\nEm [caso autorizado e anonimizado], [indicador] ficou em [valor documentado], durante [período].\n\n[PAUSA / CORTE]\n\nVeja a aplicação em [demonstração disponível no link].",
+ "tomadas_celular": [
+  "Grave a abertura: plano médio sentado com microfone pequeno, luz lateral suave de janela, por 4s. Reserve o alto para o texto.",
+  "Grave o contexto: plano médio sentado com microfone pequeno, luz lateral suave de janela, por 5s. Reserve o alto para o texto.",
+  "Grave os exemplos: plano médio sentado com microfone pequeno, luz lateral suave de janela, por 5s. Reserve o alto para o texto.",
+  "Grave a condição ou complicação: plano médio sentado com microfone pequeno, luz lateral suave de janela, por 7s. Reserve o alto para o texto.",
+  "Grave a consequência ou próxima etapa: plano médio sentado com microfone pequeno, luz lateral suave de janela, por 4s. Reserve o alto para o texto."
+ ],
+ "caminho_ia": "Use Runway ou Kling para cenas com personagem fictício e avatar falante ou voz sintética licenciada para a fala. Não reproduza rosto nem voz da referência. Prompts: \"Vertical 9:16 medium shot of a fictional presenter seated in a modern office, small handheld microphone, soft side window light, empty upper quarter, no logos, no text\" e \"Vertical 9:16 matching shot of the same fictional presenter, subtle open palm gesture, consistent wardrobe and lighting, natural conversational expression, locked camera, no text, no logos\". No CapCut, sincronize a fala e monte uma caixinha fixa no topo e legendas brancas inferiores. Não apresente avatar como cliente real nem fabrique resultados.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCusto concreto, tarefa realizada, indicador, caso com período e demonstração. Tom objetivo, ritmo ágil, 25s. Não copie marca, cliente, símbolos ou valores da referência. Sem prova, substitua o caso por cálculo ilustrativo com hipóteses explícitas, identificado como simulação na fala e na tela. Não apresente retornos passados como previsão.\nDireção visual: Plano médio sentado, microfone pequeno na mão, luz suave de janela lateral e caixinha fixa no topo. Legendas brancas inferiores acompanham a fala. Variar discretamente a aproximação.\nEstrutura:\n0-4s Quando [processo] fica sem [uso concreto], o custo continua. Texto: Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Quando [processo] fica sem [uso concreto], o custo continua.\n4-9s Com [produto], você faz [tarefa] em [tempo verificável]. Texto: Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Com [produto], você faz [tarefa] em [tempo verificável].\n9-14s Assim, dá pra acompanhar [indicador] durante [período]. Texto: Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Assim, dá pra acompanhar [indicador] durante [período].\n14-21s Em [caso autorizado e anonimizado], [indicador] ficou em [valor documentado], durante [período]. Texto: Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Em [caso autorizado e anonimizado], [indicador] ficou em [valor documentado], durante [período].\n21-25s Veja a aplicação em [demonstração disponível no link]. Texto: Faça uma pergunta\n[Processo] compensa o custo?\nLegenda inferior: Veja a aplicação em [demonstração disponível no link].\nUse só dados fornecidos. Preserve campos entre colchetes quando faltar informação. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para avaliar [produto], acompanhe [indicador] durante [período]. Veja [demonstração] e confira como funciona a medição. [Limite do caso apresentado].",
+ "alerta_politica": "Meta: não prometa retorno garantido nem apresente um caso como resultado de todos. Em investimentos, observe as regras da CVM, informe riscos e identifique simulações e desempenho passado. Se houver crédito ou produto bancário, observe também as regras do Banco Central, com custos e condições. Use somente dados comprovados.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-7f860584",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-caixinha-retorno/frames/f1.jpg",
+    "videos/vid-caixinha-retorno/frames/f2.jpg",
+    "videos/vid-caixinha-retorno/frames/f3.jpg",
+    "videos/vid-caixinha-retorno/frames/f4.jpg",
+    "videos/vid-caixinha-retorno/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a9c6703b",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-666f295e",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1ba7b0db",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

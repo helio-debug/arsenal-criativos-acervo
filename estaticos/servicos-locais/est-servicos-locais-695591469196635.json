@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-695591469196635",
+  "tipo": "estatico",
+  "titulo": "Prato de delivery com porções, preços e acompanhamentos",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Anúncio horizontal vermelho e amarelo com nome do prato à esquerda e foto do arroz com frango à direita. Selos mostram pesos, número de pessoas e preços; a faixa inferior apresenta o telefone de delivery.",
+  "por_que_funciona": [
+    "O nome do prato em letras grandes ocupa a metade esquerda e identifica a refeição.",
+    "A foto do prato e dos acompanhamentos mostra o que compõe o pedido.",
+    "Os dois selos permitem comparar porções e preços rapidamente.",
+    "A faixa inferior destaca o telefone para fazer o pedido."
+  ],
+  "quando_usar": "Para delivery de refeições com porções de tamanhos diferentes e acompanhamentos incluídos.",
+  "estrutura_texto": "[Cozinha ou especialidade]\n[Nome do prato]\n[Peso 1] • Serve [pessoas] • [preço]\n[Peso 2] • Serve [pessoas] • [preço]\nServido com [acompanhamentos]\nDELIVERY: [telefone]",
+  "legenda": "Peça [prato] e receba em [região atendida]. Escolha [tamanho da porção], com [acompanhamentos]. Prazo estimado: [prazo confirmado]. Pedidos em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição horizontal com fundo vermelho e detalhes amarelos. Coloque o nome do prato em letras grandes de estilo cartaz à esquerda e foto fiel da refeição da IMAGEM 2 à direita, incluindo os acompanhamentos reais. Adicione dois selos de peso, rendimento e preço informados e uma faixa amarela inferior com contato. Use moeda e dados locais fornecidos, sem copiar telefone ou marca da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "695591469196635",
+    "anunciante": "Khan's - Village Market",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-11-01",
+    "dias_no_ar": 1109,
+    "variacoes_ativas": 1,
+    "texto_original": "Authentic Pakistani cuisine delivered to your door-step all over Nairobi, in 30-45mins.\nSindhi Chicken Biryani",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-695591469196635.jpg"
+}

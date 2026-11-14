@@ -1,0 +1,102 @@
+{
+ "id": "vid-dor-app-experiencia",
+ "tipo": "video",
+ "titulo": "Dor cotidiana seguida de demonstração do app e da experiência",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "saas-b2b",
+  "servicos-locais",
+  "saude"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Resolver [tarefa] ainda toma [tempo realista] do dia.",
+  "texto_tela": "[TAREFA] sem a espera",
+  "visual": "Pessoa em plano americano no local onde a tarefa acontece, com [objeto de uso] na mão; palavra principal em amarelo e legenda branca."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano americano no ambiente da tarefa; mostre o objeto que situa o problema.",
+   "fala": "Resolver [tarefa] ainda toma [tempo realista] do dia.",
+   "texto_tela": "[TAREFA]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Corte para o caminho trabalhoso, sem expor rostos nem dados de terceiros.",
+   "fala": "Tem [etapa demorada] antes de conseguir [ação desejada].",
+   "texto_tela": "[Etapa demorada]"
+  },
+  {
+   "tempo": "8-14s",
+   "cena": "Plano de lado; apresentador ergue o celular. Insira captura real do fluxo, legível.",
+   "fala": "Com [produto], eu faço [ação] pelo celular, em [número real] passos.",
+   "texto_tela": "[Ação] pelo celular"
+  },
+  {
+   "tempo": "14-20s",
+   "cena": "Plano aberto entrando no ambiente ou abrindo o recurso que será usado.",
+   "fala": "Depois, acesso [recurso incluído] nas condições de [plano ou modalidade].",
+   "texto_tela": "[Recurso incluído]"
+  },
+  {
+   "tempo": "20-27s",
+   "cena": "Plano médio da pessoa usando o recurso; celular visível, postura natural.",
+   "fala": "Aqui eu consigo [benefício observável], sem repetir [etapa dispensada pelo produto].",
+   "texto_tela": "[Benefício observável]"
+  },
+  {
+   "tempo": "27-30s",
+   "cena": "Cartela lisa na cor da própria marca; nome e uma ação.",
+   "fala": "Conheça [produto] em [canal].",
+   "texto_tela": "Conheça [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a apresentadora com mala em um terminal; o objeto situa a tarefa antes da explicação.",
+  "A palavra amarela sobre a roupa escura destaca o assunto, enquanto a legenda branca acompanha a fala.",
+  "O celular erguido, a entrada na sala e o uso da poltrona mostram etapas diferentes da experiência descrita.",
+  "A cartela final retira o cenário e deixa apenas a identificação, depois da demonstração."
+ ],
+ "quando_usar": "Para apps e serviços com uma tarefa que possa ser mostrada do começo ao uso. Use no meio do funil, quando falta explicar como o acesso funciona e o que vem depois.",
+ "roteiro_modelo": "Resolver [tarefa] ainda toma [tempo realista] do dia.\n\n[Pausa curta / corte]\n\nTem [etapa demorada] antes de conseguir [ação desejada].\n\n[Pausa curta / corte]\n\nCom [produto], eu faço [ação] pelo celular, em [número real] passos.\n\n[Pausa curta / corte]\n\nDepois, acesso [recurso incluído] nas condições de [plano ou modalidade].\n\n[Pausa curta / corte]\n\nAqui eu consigo [benefício observável], sem repetir [etapa dispensada pelo produto].\n\n[Pausa curta / corte]\n\nConheça [produto] em [canal].",
+ "tomadas_celular": [
+  "Abertura de 4s: plano americano com [objeto], celular vertical em tripé, luz de janela ou sombra aberta.",
+  "Atrito de 4s: detalhe de [etapa demorada], câmera na altura das mãos, luz ambiente; sem dados de terceiros.",
+  "Demonstração de 6s: plano médio de lado erguendo o celular, luz lateral suave; complemente com captura de tela verdadeira.",
+  "Acesso de 6s: plano aberto atravessando uma entrada ou abrindo o recurso, câmera firme, luz ambiente uniforme.",
+  "Uso de 7s: plano médio sentado ou usando [recurso], luz frontal suave; deixe o resultado da ação visível.",
+  "Fecho de 3s: grave parede lisa em plano fixo e luz uniforme; adicione nome e CTA na edição."
+ ],
+ "caminho_ia": "Use Veo ou Runway para cenas ilustrativas e voz sintética autorizada para narrar. Gere: \"Vertical 9:16 medium full shot of an adult holding [task-related object] in [service setting], soft ambient light, natural handheld camera, four seconds, no logos, no text.\" E: \"Vertical 9:16 medium shot of an adult comfortably using [product feature] in [usage environment], soft side lighting, slow camera push-in, seven seconds, no logos, no text.\" Monte no CapCut com captura real fornecida do app ou mockup identificado como ilustrativo; não simule uma funcionalidade inexistente. Inclua palavra amarela na abertura, legendas brancas e cartela final.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato; adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 30s em seis blocos: 0-4 situação com objeto, 4-8 etapa demorada, 8-14 ação no celular, 14-20 acesso ao recurso, 20-27 uso e 27-30 CTA. Alterne plano americano, detalhe, plano lateral com celular e plano de uso. Tom de conversa, uma frase por ação; palavra principal amarela na abertura e legendas brancas. Demonstre funções verificadas. Não copie terminal, sala, figurino, marca, falas nem benefício da referência se não pertencerem ao produto. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltarem dados. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não copie marcas, pessoas, contatos ou textos da referência. Não invente oferta, função ou resultado. Em saúde, não atribua condição pessoal ao espectador nem prometa resultado.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para [tarefa], veja como funciona o caminho pelo [produto]. Você faz [ação] e acessa [recurso incluído, com condições]. Confira em [canal].",
+ "alerta_politica": "Meta: não atribua ao espectador condição de saúde física ou mental; fale da situação e do serviço sem diagnóstico presumido. Sem antes/depois de corpo nem promessa de resultado de saúde. Em publicidade médica, siga a Resolução CFM 2.336/2023, com identificação profissional e sem garantia de resultado (https://publicidademedica.cfm.org.br/resolucao/o-que-muda). Para psicologia, respeite as regras do CFP e o sigilo. Se houver produto sujeito à ANVISA, use apenas alegações e indicações autorizadas.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-31d60d66",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-dor-app-experiencia/frames/f1.jpg",
+    "videos/vid-dor-app-experiencia/frames/f2.jpg",
+    "videos/vid-dor-app-experiencia/frames/f3.jpg",
+    "videos/vid-dor-app-experiencia/frames/f4.jpg",
+    "videos/vid-dor-app-experiencia/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1e265043",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

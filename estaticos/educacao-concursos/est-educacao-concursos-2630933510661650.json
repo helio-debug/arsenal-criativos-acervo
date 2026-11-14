@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2630933510661650",
+  "tipo": "estatico",
+  "titulo": "Graduação a distância com avaliação em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo intenso com título magenta e fotografia recortada de uma pessoa saltando. Uma linha magenta atravessa a composição e conecta a parte superior à assinatura no rodapé.",
+  "por_que_funciona": [
+    "“EAD” ocupa o topo com tamanho muito superior ao texto de apoio.",
+    "A afirmação sobre avaliação aparece imediatamente abaixo do título.",
+    "A figura em movimento preenche a metade inferior e cria direção visual.",
+    "A linha magenta conduz o olhar até a assinatura na base."
+  ],
+  "quando_usar": "Para apresentar uma graduação a distância e destacar uma avaliação institucional comprovável.",
+  "estrutura_texto": "EAD\n[Qualificação comprovada] com [avaliação].\n[Contexto atual e convite à formação]\n[Selo de posicionamento]\n[Marca e modalidade]",
+  "legenda": "Conheça a graduação a distância de [instituição] e confira [avaliação comprovada]. Consulte as condições de [desconto inicial] e [desconto no semestre] para ingresso com [exame ou vestibular]. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo vibrante, título EAD muito grande em magenta e subtítulo menor com [avaliação comprovada]. Inclua texto curto e um selo horizontal discreto. Posicione a foto do produto recortada na metade inferior com composição dinâmica e uma linha magenta que desce pela lateral e dobra até a assinatura no canto inferior direito. Não invente notas ou selos oficiais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2630933510661650",
+    "anunciante": "CEUB",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "EAD de verdade com nota máxima no MEC: Garanta 50% de desconto na primeira mensalidade e mais 20% na semestralidade com sua nota do Enem, desde 2010, ou Vestibular. Clique e saiba mais!\nGraduação EAD CEUB\nEstudo na melhor do DF",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2630933510661650.jpg"
+}

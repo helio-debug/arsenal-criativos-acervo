@@ -1,0 +1,102 @@
+{
+ "id": "vid-tour-contexto-valor",
+ "titulo": "Apresentador abre o tour: região, atributos e condição de compra",
+ "formato_video": "tour-guiado",
+ "nichos": [
+  "imoveis",
+  "servicos-locais",
+  "estetica-clinicas",
+  "pet"
+ ],
+ "tipo_solucao": "imovel",
+ "oferta": "parcelamento",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "proporcao": "9:16",
+ "duracao": "35-40s",
+ "hook": {
+  "falado": "O preço de [produto ou serviço] é [valor]. Vou mostrar o que está incluído.",
+  "texto_tela": "[Valor e unidade de cobrança]",
+  "visual": "Close do apresentador em preto e branco, com legenda branca baixa; depois, corte para o contexto em cores."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Close frontal em preto e branco, com fundo do local levemente visível.",
+   "fala": "O preço de [produto ou serviço] é [valor]. Vou mostrar o que está incluído.",
+   "texto_tela": "[Valor e unidade de cobrança]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Passar para cores e mostrar o entorno ou contexto de uso em plano aberto.",
+   "fala": "Começa por [fator de contexto]. Aqui, [característica comprovável] facilita [situação concreta].",
+   "texto_tela": "[Fator de contexto]"
+  },
+  {
+   "tempo": "12-19s",
+   "cena": "Mostrar um ponto concreto e apontá-lo com linha e rótulo amarelo.",
+   "fala": "Este é [ponto de apoio ou recurso]. Ele fica [localização ou relação real com a oferta].",
+   "texto_tela": "[Ponto de apoio ou recurso]"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Entrar no ambiente ou mostrar o produto de perto, com movimento lento.",
+   "fala": "Por dentro, você encontra [atributo incluído]. Dá para [uso concreto desse atributo].",
+   "texto_tela": "[Atributo incluído]"
+  },
+  {
+   "tempo": "26-34s",
+   "cena": "Sobrepor a condição em branco e amarelo sobre a imagem do ambiente.",
+   "fala": "A condição disponível é [condição comercial real]. Confira [prazo, custo total e critérios aplicáveis].",
+   "texto_tela": "[Condição comercial] • [critérios resumidos]"
+  },
+  {
+   "tempo": "34-40s",
+   "cena": "Cartela escura com identificação da própria oferta e convite legível.",
+   "fala": "Peça [informação ou proposta] pelo link e confira se [produto ou serviço] atende ao que você procura.",
+   "texto_tela": "[Produto ou serviço] | [Próximo passo]"
+  }
+ ],
+ "por_que_funciona": [
+  "O close inicial em preto e branco isola a fala de abertura antes das imagens coloridas do entorno.",
+  "O plano alto do bairro apresenta o contexto; o rótulo amarelo com linha aponta um ponto específico da imagem.",
+  "A condição de parcelamento aparece grande em branco e amarelo sobre o interior, com a mesma informação na narração.",
+  "A cartela preta final separa a identificação da oferta das imagens do tour."
+ ],
+ "quando_usar": "Para imóveis, espaços e serviços cujo preço depende de atributos que precisam ser vistos. Use quando o interessado já compara opções e precisa entender o que está incluído e as condições de contratação.",
+ "tomadas_celular": [
+  "Close frontal do apresentador, luz de janela, 5s; converter para preto e branco na edição.",
+  "Plano aberto do entorno a partir de ponto elevado autorizado ou da calçada, luz diurna, 7s; um celular dispensa a tomada aérea.",
+  "Plano de um ponto de apoio real, câmera parada, luz diurna, 7s; deixar espaço para rótulo com linha.",
+  "Plano aberto do interior ou contexto de entrega, movimento lento, luz de janela e luminárias acesas, 7s.",
+  "Detalhe do atributo incluído, enquadramento estável, luz suave, 8s para receber a condição comercial."
+ ],
+ "caminho_ia": "Sem gravar, monte no CapCut imagens autorizadas do local ou do produto, com movimentos leves e voz sintética; um avatar pode fazer a abertura em preto e branco. Para cenas ilustrativas em Runway ou Veo: \"Vertical 9:16 close-up of a generic presenter in [setting], monochrome, soft side lighting, eye-level camera, subtle natural gestures, 5 seconds, no text, no logos.\" e \"Vertical 9:16 slow interior pan across [product or service environment], warm practical lighting, realistic materials, clean central negative space for an offer overlay, 7 seconds, no signage.\" Imagens geradas devem ser identificadas como ilustrativas; use fotos verificadas para afirmar localização e atributos reais.",
+ "legenda": "Conheça [produto ou serviço] em [contexto]. Veja [atributo incluído] e a condição de [condição comercial]. Peça [proposta ou detalhes] no link. [Critérios e validade da condição].",
+ "alerta_politica": "Meta: evite atribuir ao público uma condição de saúde e não use antes/depois corporal nem promessa de resultado de saúde. Para adaptação clínica, respeite as regras do conselho profissional aplicável, incluindo CFM para serviços médicos, e da ANVISA quando houver produto regulado. Apresente condições de parcelamento com custos e critérios claros; não prometa valorização imobiliária.",
+ "roteiro_modelo": "[0-5s | Abertura]\nO preço de [produto ou serviço] é [valor]. Vou mostrar o que está incluído.\n\n[5-12s | Pausa e corte para a próxima tomada]\nComeça por [fator de contexto]. Aqui, [característica comprovável] facilita [situação concreta].\n\n[12-19s | Pausa e corte para a próxima tomada]\nEste é [ponto de apoio ou recurso]. Ele fica [localização ou relação real com a oferta].\n\n[19-26s | Pausa e corte para a próxima tomada]\nPor dentro, você encontra [atributo incluído]. Dá para [uso concreto desse atributo].\n\n[26-34s | Pausa e corte para a próxima tomada]\nA condição disponível é [condição comercial real]. Confira [prazo, custo total e critérios aplicáveis].\n\n[34-40s | Pausa e corte para a próxima tomada]\nPeça [informação ou proposta] pelo link e confira se [produto ou serviço] atende ao que você procura.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto e as informações abaixo para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 40s com seis blocos: 0-5s preço e convite para ver inclusões em close preto e branco; 5-12s contexto em cores; 12-19s ponto específico com rótulo amarelo e linha; 19-26s atributo interno; 26-34s condição comercial grande em branco e amarelo; 34-40s cartela escura e contato. Narração consultiva, frases curtas e cortes na troca de assunto. Legendas brancas baixas. Não copie pessoa, local, marca, quantidade de parcelas nem frases da referência. Não prometa valorização futura ou resultado clínico. Adapte contexto e atributos ao meu produto, mesmo que ele não seja um imóvel. Use apenas dados confirmados. Onde faltar informação, mantenha [campo a preencher]. Escreva em pt-BR falado, com frases curtas. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Não copie nomes, marcas, pessoas, contatos, domínios, logotipos ou falas da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-759f346d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tour-contexto-valor/frames/f1.jpg",
+    "videos/vid-tour-contexto-valor/frames/f2.jpg",
+    "videos/vid-tour-contexto-valor/frames/f3.jpg",
+    "videos/vid-tour-contexto-valor/frames/f4.jpg",
+    "videos/vid-tour-contexto-valor/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f86375e7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

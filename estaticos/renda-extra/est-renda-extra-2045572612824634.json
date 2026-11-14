@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2045572612824634",
+  "tipo": "estatico",
+  "titulo": "Pergunta central sobre monetizar recomendações",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Pergunta em letras pretas pesadas no centro de um fundo de ondas amarelas e claras. Moedas flutuantes cercam o texto e um botão azul encerra a chamada.",
+  "por_que_funciona": [
+    "A pergunta central liga recomendações pessoais à possibilidade de remuneração.",
+    "O texto empilhado forma um bloco de leitura curto no centro.",
+    "O botão azul contrasta com o fundo amarelo.",
+    "As moedas nas bordas contextualizam o tema sem cobrir a pergunta."
+  ],
+  "quando_usar": "Para atrair pessoas que ainda não conhecem um programa de afiliados e encaminhá-las à explicação do funcionamento.",
+  "estrutura_texto": "[Identificação do programa]\nJá pensou em [benefício] com [atividade]?\n[CTA]",
+  "legenda": "Suas recomendações podem gerar comissões em [programa]. Divulgue [produtos] pelas suas redes, acompanhe [ações válidas] e consulte as regras. Cadastre-se [condição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo com ondas suaves em creme e verde claro, moedas em diferentes escalas nas bordas e pergunta central em caixa alta preta, distribuída em cinco linhas. Coloque botão azul arredondado abaixo e identificação discreta no topo. Explique a atividade sem prometer ganhos.",
+  "alerta_politica": "Meta: oportunidades de renda devem explicar a atividade e as condições, sem garantir ganhos ou sugerir resultados típicos sem comprovação. Valores e depoimentos precisam de evidências; ressalvas não corrigem uma promessa enganosa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2045572612824634",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 16,
+    "texto_original": "Seja um afiliado Mercado Livre e tenha lucros divulgando e vendendo produtos através das suas redes sociais. Cadastre-se gratuitamente!\nPrograma de Afiliados Mercado Livre!\nFaça parte do Programa de Afiliados e Criadores Mercado Livre e Conquiste Renda Extra Online!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2045572612824634.jpg"
+}

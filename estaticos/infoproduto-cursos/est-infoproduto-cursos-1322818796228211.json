@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1322818796228211",
+  "tipo": "estatico",
+  "titulo": "Recomendação cultural sobre foto de pessoa ouvindo música",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma pessoa de fones aparece dançando sob iluminação azul e rosa. Texto branco grande apresenta uma lista de seis músicas italianas e uma seta sugere continuidade.",
+  "por_que_funciona": [
+    "A pessoa com fones conecta a fotografia ao assunto musical.",
+    "O número seis delimita uma seleção de conteúdo fácil de explorar.",
+    "O texto branco se destaca sobre a foto de iluminação colorida.",
+    "A seta no canto inferior indica que há conteúdo a seguir."
+  ],
+  "quando_usar": "Para atrair pessoas interessadas no idioma com conteúdo cultural, como capa de uma sequência de recomendações.",
+  "estrutura_texto": "[Marca]\n+ [quantidade] [itens culturais] que [público] deveria conhecer\n[Seta de continuidade]",
+  "legenda": "Conheça mais [quantidade] músicas em [idioma] para ampliar seu repertório e se aproximar da cultura de [país]. Confira a seleção em [destino] e conte qual você já conhecia.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto em tela cheia de uma pessoa ouvindo música com fones, braços levantados, sob luz azul e magenta. Posicione a identificação no alto e uma chamada editorial branca grande no canto inferior esquerdo, com número e tema da lista. Acrescente seta discreta no canto inferior direito; não invente a lista na capa nem inclua preço.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1322818796228211",
+    "anunciante": "Italiano Fácil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-05",
+    "dias_no_ar": 435,
+    "variacoes_ativas": 1,
+    "texto_original": "🎶 A música italiana tem o poder de atravessar fronteiras e emocionar até quem não fala uma palavra do idioma.\n\nDepois das primeiras recomendações que já conquistaram muita gente, chegou a hora de mais 6 músicas em italiano que todo mundo deveria ouvir pelo menos uma vez. 🇮🇹✨\n\nDe clássicos atemporais a canções que marcaram gerações, cada melodia revela um pedaço da alma italiana — feita de poesia, paixão e intensidade.\nUma verdadeira viagem sonora que conecta você ainda mais à cultura da Itália.\n\n📌 Salve este post para montar sua própria playlist italiana e compartilhe com quem ama descobrir músicas que contam histórias!\n\nAprender italiano pode ser mais simples do que você imagina. Com a gente, você tem o apoio de uma escola reconhecida, acesso a um curso online de italiano e a liberdade de aprender italiano online no seu próprio ritmo.\n\n#italianofacil #italia #musica #culturaitaliana #linguaitaliana",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1322818796228211.jpg"
+}

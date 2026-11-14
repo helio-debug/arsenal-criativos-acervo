@@ -1,0 +1,109 @@
+{
+ "id": "vid-ligacao-ia-teste",
+ "titulo": "Ligação demonstrada no podcast com desvio no atendimento",
+ "formato_video": "comparativo-teste",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "95-110s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-10s",
+   "cena": "Plano médio na mesa, microfone na frente e celular erguido com tela voltada à câmera.",
+   "fala": "Vou testar o atendimento de [solução] por ligação. O cenário é [situação de cliente]. Vou fazer um pedido e ouvir como ele responde.",
+   "texto_tela": "Teste de atendimento por ligação"
+  },
+  {
+   "tempo": "10-22s",
+   "cena": "Inserir plano de apoio relacionado ao pedido; retornar à mesa com celular perto da boca.",
+   "fala": "Para este teste, preciso de [pedido específico] com [restrição]. Vou usar informações fictícias e observar a resposta.",
+   "texto_tela": "Cenário: [pedido específico]"
+  },
+  {
+   "tempo": "22-38s",
+   "cena": "Close do apresentador ouvindo o celular na horizontal; diferenciar a legenda do atendente.",
+   "fala": "[Atendente]: Olá. Este é o atendimento automatizado de [empresa]. Como posso ajudar? [Apresentador]: Preciso de [pedido]. [Atendente]: Posso pedir [dado necessário] para continuar?",
+   "texto_tela": "Atendimento automatizado"
+  },
+  {
+   "tempo": "38-54s",
+   "cena": "Mesmo close; apresentador gesticula ao recusar o envio naquele momento.",
+   "fala": "[Apresentador]: Agora prefiro seguir sem informar esse dado. Quero saber [dúvida principal] e [condição importante]. Dá para consultar isso primeiro?",
+   "texto_tela": "Teste: seguir sem [dado]"
+  },
+  {
+   "tempo": "54-80s",
+   "cena": "Apresentador na metade superior e cena de apoio na inferior; preservar o áudio da resposta.",
+   "fala": "[Atendente]: Posso explicar as informações gerais. Para [dúvida], a condição disponível é [resposta verificada]. Sobre [condição], preciso confirmar [informação pendente]. A confirmação final depende de [responsável ou sistema].",
+   "texto_tela": "Resposta: [informação verificada]"
+  },
+  {
+   "tempo": "80-96s",
+   "cena": "Voltar ao plano médio da mesa; celular ainda visível ao lado do microfone.",
+   "fala": "Nesse trecho, o atendimento [comportamento observado]. Eu conferi [informação] em [fonte própria]. O ponto que ainda precisa de ajuste é [limitação observada].",
+   "texto_tela": "Funcionou: [observação] | Ajustar: [limitação]"
+  },
+  {
+   "tempo": "96-108s",
+   "cena": "Close final com celular abaixado e legenda amarela central.",
+   "fala": "Para avaliar esse uso em [operação], comece por [tarefa delimitada] e revise as respostas. Veja a demonstração de [solução] em [local de acesso].",
+   "texto_tela": "Veja [demonstração disponível]"
+  }
+ ],
+ "hook": {
+  "falado": "Vou testar o atendimento de [solução] por ligação. O cenário é [situação de cliente]. Vou fazer um pedido e ouvir como ele responde.",
+  "texto_tela": "Teste de atendimento por ligação",
+  "visual": "Plano médio na mesa, microfone na frente e celular erguido com tela voltada à câmera."
+ },
+ "por_que_funciona": [
+  "O celular erguido ao lado do microfone apresenta o objeto do teste já na abertura.",
+  "As legendas amarelas mantêm a fala legível nos planos da mesa e nas cenas de apoio.",
+  "A recusa em fornecer um dado muda o rumo da ligação e permite ouvir como o atendimento lida com o desvio.",
+  "O quadro dividido mantém o apresentador visível enquanto a imagem de apoio ilustra o assunto da pergunta."
+ ],
+ "quando_usar": "Para ferramentas e serviços com atendimento por voz, quando o público precisa ouvir uma tarefa executada. Escolha um cenário comum ao negócio e uma restrição que permita avaliar o atendimento.",
+ "roteiro_modelo": "Vou testar o atendimento de [solução] por ligação. O cenário é [situação de cliente]. Vou fazer um pedido e ouvir como ele responde.\n\n[CORTE / PAUSA]\n\nPara este teste, preciso de [pedido específico] com [restrição]. Vou usar informações fictícias e observar a resposta.\n\n[CORTE / PAUSA]\n\n[Atendente]: Olá. Este é o atendimento automatizado de [empresa]. Como posso ajudar? [Apresentador]: Preciso de [pedido]. [Atendente]: Posso pedir [dado necessário] para continuar?\n\n[CORTE / PAUSA]\n\n[Apresentador]: Agora prefiro seguir sem informar esse dado. Quero saber [dúvida principal] e [condição importante]. Dá para consultar isso primeiro?\n\n[CORTE / PAUSA]\n\n[Atendente]: Posso explicar as informações gerais. Para [dúvida], a condição disponível é [resposta verificada]. Sobre [condição], preciso confirmar [informação pendente]. A confirmação final depende de [responsável ou sistema].\n\n[CORTE / PAUSA]\n\nNesse trecho, o atendimento [comportamento observado]. Eu conferi [informação] em [fonte própria]. O ponto que ainda precisa de ajuste é [limitação observada].\n\n[CORTE / PAUSA]\n\nPara avaliar esse uso em [operação], comece por [tarefa delimitada] e revise as respostas. Veja a demonstração de [solução] em [local de acesso].",
+ "tomadas_celular": [
+  "Mesa com celular e microfone simples, plano médio vertical, luz de janela a 45 graus, 10s.",
+  "Cena de apoio do contexto de [pedido], plano de detalhe, luz natural, 12s; evitar pessoas identificáveis.",
+  "Apresentador com celular horizontal perto da boca, close com luz lateral suave, 16s.",
+  "Mesmo close durante a pergunta com restrição, câmera fixa e luz mantida, 16s.",
+  "Apresentador ouvindo, plano médio com luz difusa, 26s; dividir a tela com apoio de [contexto].",
+  "Comentário da avaliação na mesa, plano médio, luz de janela, 16s.",
+  "Fechamento em close sem mostrar contatos no celular, mesma luz, 12s."
+ ],
+ "caminho_ia": "Use avatar para o apresentador e duas vozes sintéticas licenciadas para o diálogo. Gere apoio no Veo ou Runway: \"Vertical 9:16 podcast desk medium shot, fictional adult presenter holding an unbranded smartphone next to a tabletop microphone, soft side key light, dark neutral background, no signage, subtle handheld movement.\" e \"Vertical 9:16 cinematic insert illustrating [customer request context], slow forward tracking shot, natural daylight, realistic details, no brand names or readable personal information.\" Monte no CapCut com legendas amarelas e tela dividida na resposta. Exiba “Simulação de atendimento”; não apresente diálogo gerado como ligação real nem clone voz de terceiros sem autorização.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nEstruture 108s como teste de ligação: cenário, saudação automatizada, pedido de dado, recusa temporária, pergunta com restrição, resposta e avaliação com limitação. Apresentador com celular junto ao microfone, legendas amarelas, cortes de apoio e quadro dividido na resposta. Preserve pausas de escuta. Diferencie os falantes. Use respostas verificáveis e deixe pendências explícitas. Não copie vozes, pessoas, cenário identificado, marcas ou métricas da referência. Se for simulado, identifique na tela; não invente desempenho superior a pessoas. Use pt-BR falado, frases curtas e campos adaptáveis quando faltar informação. Não invente provas, preço, prazo ou funcionalidades. Não use antítese vazia, superlativos sem prova, tríades decorativas, perguntas de enfeite nem fechos de efeito.\n\nEstrutura de tempo e cenas:\n0-10s: Plano médio na mesa, microfone na frente e celular erguido com tela voltada à câmera.\n10-22s: Inserir plano de apoio relacionado ao pedido; retornar à mesa com celular perto da boca.\n22-38s: Close do apresentador ouvindo o celular na horizontal; diferenciar a legenda do atendente.\n38-54s: Mesmo close; apresentador gesticula ao recusar o envio naquele momento.\n54-80s: Apresentador na metade superior e cena de apoio na inferior; preservar o áudio da resposta.\n80-96s: Voltar ao plano médio da mesa; celular ainda visível ao lado do microfone.\n96-108s: Close final com celular abaixado e legenda amarela central.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Teste de atendimento para [situação]. O pedido incluía [restrição], e a resposta foi [observação verificada]. Veja a demonstração de [solução] em [local de acesso]. [Indicar se é simulação].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-25de64a3",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-ligacao-ia-teste/frames/f1.jpg",
+    "videos/vid-ligacao-ia-teste/frames/f2.jpg",
+    "videos/vid-ligacao-ia-teste/frames/f3.jpg",
+    "videos/vid-ligacao-ia-teste/frames/f4.jpg",
+    "videos/vid-ligacao-ia-teste/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f4ca2e02",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

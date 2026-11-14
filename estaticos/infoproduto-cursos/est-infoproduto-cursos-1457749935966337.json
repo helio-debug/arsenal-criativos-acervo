@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1457749935966337",
+  "tipo": "estatico",
+  "titulo": "Curso de interiores com móveis integrados ao título",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo branco com título verde escuro e recortes de poltrona, luminária e banco integrados às linhas de texto. Uma faixa informa os sete projetos e o desconto de 50% ocupa a área inferior.",
+  "por_que_funciona": [
+    "Os móveis recortados identificam visualmente a área de interiores.",
+    "O título verde escuro em corpo grande destaca o curso sobre o fundo branco.",
+    "A faixa de sete projetos explicita uma entrega prática para o portfólio.",
+    "O desconto grande e isolado é fácil de localizar na peça."
+  ],
+  "quando_usar": "Para divulgar matrícula em cursos visuais com projetos práticos e uma campanha de desconto vigente.",
+  "estrutura_texto": "CURSO ONLINE\nDê forma às suas [IDEIAS]\nNO CURSO DE [NOME DO CURSO]\nPortfólio com [NÚMERO] projetos reais\n[DESCONTO]% OFF",
+  "legenda": "Desenvolva projetos de [área] e amplie seu portfólio no curso online de [curso]. Estude [ferramentas e conteúdos] com [condições de acesso]. Aproveite [desconto] na matrícula em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com amplo espaço vazio, título verde escuro em letras pesadas e recortes da IMAGEM 2 integrados às linhas do título. Distribua até três objetos da área, incluindo um elemento pendente. Abaixo, coloque uma faixa fina arredondada com a entrega prática e um desconto grande isolado. Preserve a hierarquia limpa. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1457749935966337",
+    "anunciante": "EBAC",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 2,
+    "texto_original": "Transforme sua paixão por espaços bem planejados em uma carreira de sucesso com o curso de Designer de Interiores da EBAC! Aprenda com profissionais renomados, domine ferramentas essenciais como AutoCAD, SketchUp e V-Ray, e desenvolva projetos práticos para enriquecer seu portfólio.\n\nCom 7 módulos e flexibilidade para estudar no seu ritmo, você estará pronto para ingressar em um mercado em crescimento e conquistar uma remuneração atrativa.\n\n🔗 Inscreva-se agora e aproveite essa oportunidade única!\nCurso Online: Designer de Interiores",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1457749935966337.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-2109801049572127",
+  "tipo": "estatico",
+  "titulo": "Guia de destinos por signo para estimular comentários",
+  "formato": "Interativo",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul com título amarelo e branco e uma grade de doze fotos circulares de destinos. Cada círculo recebe um símbolo de signo, o nome do signo e uma cidade com estado.",
+  "por_que_funciona": [
+    "A associação entre signo e destino convida cada pessoa a procurar sua própria opção.",
+    "A grade de doze círculos permite comparar todos os destinos em uma única peça.",
+    "Fotos de paisagens tornam cada sugestão concreta e visual.",
+    "Os nomes de cidade e estado ajudam a localizar as sugestões de viagem."
+  ],
+  "quando_usar": "Para gerar comentários e descoberta de destinos em uma operação de venda de passagens ou turismo.",
+  "estrutura_texto": "Seu [critério pessoal], sua próxima [experiência]\n[categoria 1] — [destino 1]\n[repetir para as demais categorias]",
+  "legenda": "Qual destino combina com seu [signo]? Confira a seleção e comente [seu signo ou destino favorito]. Marque [pessoa com quem viajaria] para escolherem a próxima viagem.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul vivo e título em duas faixas arredondadas, amarela e branca. Monte uma grade regular de quatro colunas por três linhas com doze fotos circulares de destinos. Sobreponha pequenos círculos brancos com símbolos de signos no alto de cada foto. Abaixo, escreva signo em negrito e destino com estado em corpo menor. Use imagens relacionadas ao serviço da IMAGEM 2, mantendo boa leitura e espaçamento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2109801049572127",
+    "anunciante": "Quero Passagem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-15",
+    "dias_no_ar": 60,
+    "variacoes_ativas": 1,
+    "texto_original": "O universo já escolheu seu próximo destino — você só ainda não sabe. ✨🚌\nA QueroPassagem revelou a viagem ideal pra cada signo.\nComenta aqui o seu e marca quem vai junto! 👇",
+    "origem_coleta": "acervo:quero-passagem"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-2109801049572127.jpg"
+}

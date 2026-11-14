@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-2059017702167543",
+  "tipo": "estatico",
+  "titulo": "Mosaico de estrutura de espaço para festas",
+  "formato": "Produto em destaque",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Quatro fotos mostram brinquedos eletrônicos e salão com mesas. Molduras amarelas, fundo roxo e formas de respingo coloridas destacam estrutura, público e endereço.",
+  "por_que_funciona": [
+    "As quatro fotos permitem conferir brinquedos e salão na mesma peça.",
+    "A imagem das mesas mostra a estrutura para receber familiares.",
+    "Os selos coloridos apontam benefícios próximos das fotos correspondentes.",
+    "O endereço no rodapé identifica onde o serviço acontece."
+  ],
+  "quando_usar": "Para apresentar a estrutura de um espaço de festas a famílias que estão comparando locais.",
+  "estrutura_texto": "[Chamada de diversão]\n[Fotos das atrações]\n[Benefício dos brinquedos]\n[Benefício do salão]\n[Unidade]\n[Diferenciais curtos]\n[Endereço]",
+  "legenda": "Planeje a festa de [ocasião] em um espaço com [atrações] e [estrutura para convidados]. Pacotes a partir de [preço], conforme [condições]. Consulte a disponibilidade em [unidade/local] e peça um orçamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize quatro fotos reais da estrutura em mosaico 2 por 2, com bordas amarelas arredondadas sobre fundo roxo. Adicione formas de respingos verdes e rosas com chamadas curtas, selo de unidade e faixa inferior com ícones e endereço informado. Use a IMAGEM 2 como material do espaço e não invente atrações nem copie o endereço da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2059017702167543",
+    "anunciante": "Buffet Meleca",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 1,
+    "texto_original": "🎉 A REDE MAIS RECOMENDADA DA REGIÃO! 🎉\n\nFesta completa a partir de R$ 3.100,00* 🤩🎈\nDiversão, estrutura e muitas atrações para tornar o dia do seu pequeno inesquecível! 💜💚\n\nSão mais de 20 atrações disponíveis em nossa rede, entre elas:\n\n✈️ Top Gun • 🏍️ Simulador de Moto • 🚗 Simulador de Carro • 🎠 Carrossel • 🎮 PlayStation 4 • 👶 Área Baby • 🎰 Diversões Eletrônicas • 💿 Labamba • 🏀 Basquete • 🚗 Carrinho de Bate-Bate • Cama Elástica • 💀 Cabine do Terror • Brinquedão • 🕸️ Labirinto do Terror • 🎱 Mesa de Bilhar • 🎬 Cineminha • Fliperama • 🥅 Campinho de Futebol • 🎢 Simulador de Montanha-Russa • Simulador 360° • Air Game • Piscina de Bolinhas Gigante e muito mais!\n\n✨ Venha conhecer o conceito KIDS da Rede Buffet Meleca!\nSão 3 unidades em Guarulhos preparadas para receber sua família e proporcionar uma festa completa, cheia de diversão e momentos inesquecíveis. 🥳\n\n📆 Agenda de 2027 aberta!\n🕙 Atendimento presencial: segunda a sábado, das 10h às 19h, exceto feriados.\n\n📲 ORÇAMENTOS\n(11) 96369-8795 (http://api.whatsapp.com/send?1=pt_BR&phone=5511963698795)\n(11) 98403-2909 (http://api.whatsapp.com/send?1=pt_BR&phone=5511984032909)\n\n💫 UNIDADE 1\n📍 Rua Domingos Magno, 184 – Vila Silveira – Guarulhos/SP\n☎️ (11) 2087-0814\n📲 (11) 95863-5330 (http://api.whatsapp.com/send?1=pt_BR&phone=5511958635330)\n\n💫 UNIDADE 3\n📍 Av. Dr. Timóteo Penteado, 937 – Guarulhos/SP\n☎️ (11) 4966-0111\n📲 (11) 98792-1131 (http://api.whatsapp.com/send?1=pt_BR&phone=5511987921131)\n\n💫 UNIDADE 4\n📍 Av. Dr. Timóteo Penteado, 1003 – Guarulhos/SP\n☎️ (11) 2656-2892\n📲 (11) 95906-9064 (http://api.whatsapp.com/send?1=pt_BR&phone=5511959069064)\n\n*Valor promocional a partir de R$ 3.100,00 válido para a Unidade 1, de segunda a quinta-feira (exceto feriados) mediante pagamento à vista. Consulte disponibilidade, condições e datas.\n\n#BuffetMeleca #BuffetInfantil #FestaInfantil #BuffetEmGuarulhos #festaemguarulhos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-2059017702167543.jpg"
+}

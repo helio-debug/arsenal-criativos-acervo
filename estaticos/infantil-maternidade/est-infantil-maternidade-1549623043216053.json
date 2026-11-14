@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1549623043216053",
+  "tipo": "estatico",
+  "titulo": "Kit de carrinho em foto de ambiente com seta para o bebê conforto",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de um carrinho preto com estrutura clara em ambiente doméstico e bebê conforto no chão. Faixas branca e azul anunciam o preço do kit e o grupo; uma seta azul aponta para a peça no chão.",
+  "por_que_funciona": [
+    "A foto de ambiente permite comparar a escala das duas peças.",
+    "A faixa branca dá destaque ao preço do kit.",
+    "A seta azul conecta a chamada ao bebê conforto.",
+    "As duas peças visíveis tornam concreta a composição do kit."
+  ],
+  "quando_usar": "Para divulgar uma promoção real de kit infantil e levar a um grupo que compartilha ofertas verificadas.",
+  "estrutura_texto": "Kit completo por [preço]\n[Oferta compartilhada no grupo]\n[Seta para item incluído]",
+  "legenda": "Receba no [canal] ofertas de [categorias infantis]. Confira o kit [produto] por [preço], conforme disponibilidade e condições do vendedor. [CTA para entrar no grupo]",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical do kit em ambiente doméstico, com item maior ao fundo e acessório incluído em primeiro plano. Sobreponha faixa branca com preço em fonte preta condensada e faixa azul menor com CTA para o grupo. Desenhe seta curva azul apontando para o acessório. Mostre apenas itens incluídos e substitua a expressão de preço bug por uma condição promocional verificável.",
+  "alerta_politica": "Meta: preço, disponibilidade e itens do kit devem corresponder ao destino. Evitar chamar de erro ou preço bug uma promoção sem comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1549623043216053",
+    "anunciante": "Links da Van",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-14",
+    "dias_no_ar": 153,
+    "variacoes_ativas": 1,
+    "texto_original": "Mamãe, quer economizar de verdade?\n.Maternidade – Links da Van\n👶 Receba diretamente no seu WhatsApp as melhores promoções em fraldas, lenços, pomadas, roupinhas, acessórios e muito mais para seu bebê!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1549623043216053.jpg"
+}

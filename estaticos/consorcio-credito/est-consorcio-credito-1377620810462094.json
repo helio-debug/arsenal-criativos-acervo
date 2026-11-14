@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1377620810462094",
+  "tipo": "estatico",
+  "titulo": "Compra de cota cancelada em bloco de notas",
+  "formato": "Print de tela",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Layout branco que imita um aplicativo de notas, com título em preto e palavras em vermelho. O texto apresenta valor mínimo pago e dois benefícios com marcas de verificação azuis.",
+  "por_que_funciona": [
+    "A barra “Bloco de Notas” dá à mensagem aparência de anotação no celular.",
+    "As palavras em vermelho identificam a situação da cota comprada.",
+    "O valor mínimo em negrito ajuda a reconhecer o critério de atendimento.",
+    "Os dois itens com check tornam análise gratuita e atendimento online fáceis de localizar."
+  ],
+  "quando_usar": "Para captar pedidos de avaliação de cotas canceladas, apresentando elegibilidade e condições reais de compra.",
+  "estrutura_texto": "Compramos [tipo de cota] e pagamos em [prazo condicionado]\nSe você pagou pelo menos [valor], [descrição da avaliação e proposta]\n✓ [Condição da análise]\n✓ [Canal de atendimento].",
+  "legenda": "Tem [cota cancelada] com [valor mínimo pago] e [prazo elegível]? Solicite [avaliação gratuita]. A proposta e o prazo de pagamento dependem de [análise documental, elegibilidade e assinatura]. Atendimento pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a estrutura de uma anotação digital em fundo branco, com barra superior discreta dourada, título grande preto e termos essenciais em vermelho. Abaixo, coloque critério de elegibilidade em parágrafo curto e dois itens com checks azuis. A IMAGEM 2 pode aparecer como miniatura discreta apenas se ajudar a explicar o serviço. Não reproduza promessas de pagamento ou segurança absoluta sem comprovação.",
+  "alerta_politica": "Meta: não apresentar pagamento em 24 horas, valor acima do mercado ou segurança absoluta como garantias universais. Informar critérios da avaliação, documentação, valor da proposta e condições para transferência e pagamento da cota.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1377620810462094",
+    "anunciante": "Resolve Consórcio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-11",
+    "dias_no_ar": 95,
+    "variacoes_ativas": 1,
+    "texto_original": "Não é para todos!\n\nVocê tem um consórcio que vale R$ 10.000,00 ou mais?\nEncerra em até 7 anos?\nNão é da Honda, Disal, Embracon ou Multimarcas?\n\nReceba seu dinheiro hoje!\nPagamento imediato após assinatura.\nProcesso online e seguro.\n\nSolicite sua avaliação agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1377620810462094.jpg"
+}

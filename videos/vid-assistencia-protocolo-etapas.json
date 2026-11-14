@@ -1,0 +1,74 @@
+{
+ "id": "vid-assistencia-protocolo-etapas",
+ "tipo": "video",
+ "titulo": "Pedido de assistência acompanha protocolo, despacho e chegada",
+ "formato_video": "protocolo-em-etapas",
+ "nichos": [
+  "seguros"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Como se pede [assistência] nesse [seguro]?",
+  "texto_tela": "Demonstração de atendimento",
+  "visual": "Tela demonstrativa abre um chamado de chaveiro."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela demonstrativa abre um chamado de chaveiro.",
+   "fala": "Como se pede [assistência] nesse [seguro]?",
+   "texto_tela": "Demonstração de atendimento"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Protocolo avança para confirmação de cobertura.",
+   "fala": "Primeiro entram [dados mínimos]. A equipe confere [condição contratada].",
+   "texto_tela": "Verificação da cobertura"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Mapa ilustrativo mostra despacho sem localização real.",
+   "fala": "Depois vem a indicação do prestador, conforme [disponibilidade e área].",
+   "texto_tela": "Prazo varia por atendimento"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Tela final mostra protocolo fictício encerrado.",
+   "fala": "Quer saber quais assistências entram? Peça a proposta de [seguro].",
+   "texto_tela": "Consulte serviços e limites"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Tela demonstrativa abre um chamado de chaveiro.",
+  "O desenvolvimento mantém a informação ligada à imagem: Protocolo avança para confirmação de cobertura.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Mapa ilustrativo mostra despacho sem localização real."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho seguros, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Como se pede [assistência] nesse [seguro]? [Manter na tela: Demonstração de atendimento]\n4-11s | Primeiro entram [dados mínimos]. A equipe confere [condição contratada]. [Manter na tela: Verificação da cobertura]\n11-19s | Depois vem a indicação do prestador, conforme [disponibilidade e área]. [Manter na tela: Prazo varia por atendimento]\n19-27s | Quer saber quais assistências entram? Peça a proposta de [seguro]. [Manter na tela: Consulte serviços e limites]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Tela demonstrativa abre um chamado de chaveiro.",
+  "Plano próximo sem reflexos; travar foco e exposição: Protocolo avança para confirmação de cobertura.",
+  "Plano de detalhe legível, sem zoom digital: Mapa ilustrativo mostra despacho sem localização real.",
+  "Plano final estável, com área livre para legenda e botão: Tela final mostra protocolo fictício encerrado.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Tela demonstrativa abre um chamado de chaveiro. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Protocolo avança para confirmação de cobertura. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Pedido de assistência acompanha protocolo, despacho e chegada, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Tela demonstrativa abre um chamado de chaveiro. Depois, Protocolo avança para confirmação de cobertura. Depois, Mapa ilustrativo mostra despacho sem localização real. Depois, Tela final mostra protocolo fictício encerrado. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Apresentar apenas coberturas, limites, carências, franquias e assistências que constam da proposta. Identificar seguradora e responsável pela comercialização na peça final quando aplicável; informar condições de aceitação. Não chamar proteção mutualista de seguro nem prometer cobertura irrestrita.",
+ "legenda": "Quer saber quais assistências entram? Peça a proposta de [seguro]. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Apresentar apenas coberturas, limites, carências, franquias e assistências que constam da proposta. Identificar seguradora e responsável pela comercialização na peça final quando aplicável; informar condições de aceitação. Não chamar proteção mutualista de seguro nem prometer cobertura irrestrita.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1352139463461011",
+   "dias_no_ar": 148,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/seguros/seguro-auto/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2352126235303551",
+  "tipo": "estatico",
+  "titulo": "Curso de unhas com último dia e lista de técnicas",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo preto com título em faixas rosa e branca e duas fotos circulares de unhas. O preço aparece junto à chamada de último dia; conteúdos, bônus e certificado preenchem a metade inferior.",
+  "por_que_funciona": [
+    "O preço branco em corpo grande tem alto contraste com o fundo preto.",
+    "A chamada de último dia fica imediatamente acima do valor.",
+    "As fotos de unhas mostram exemplos visuais das técnicas do curso.",
+    "A lista de conteúdos e a imagem do certificado detalham o que acompanha a compra."
+  ],
+  "quando_usar": "Para o encerramento real de uma oferta de curso prático com preço acessível e bônus definidos.",
+  "estrutura_texto": "CURSO ONLINE\n[TEMA]\nÚLTIMO DIA\nPor apenas [PREÇO]\n[LISTA DE TÉCNICAS E CONTEÚDOS]\nCertificado incluso\nBônus exclusivo\nApostila: [TÍTULO]",
+  "legenda": "Último dia da oferta de [curso], por [preço], até [data e horário]. Estude [técnicas] e receba [bônus e certificado, conforme condições]. Envie uma mensagem para consultar o programa e fazer sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, faixa rosa com título branco e subtítulo em faixa branca. Distribua duas fotos circulares da IMAGEM 2 com bordas rosa, lista de conteúdos em branco com checks verdes e preço grande à direita. Coloque prazo acima do valor e bônus e certificado no rodapé. Declare último dia somente com encerramento verdadeiro. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2352126235303551",
+    "anunciante": "Gabi Oliveira Nail Designer",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 1,
+    "texto_original": "Chat in Instagram",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2352126235303551.jpg"
+}

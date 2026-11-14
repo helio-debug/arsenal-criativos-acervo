@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1469695071679335",
+  "tipo": "estatico",
+  "titulo": "Planta mobiliada com distância a ponto de referência",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Planta mobiliada com cotas domina a peça em cinza e bege. O topo apresenta a distância a um centro comercial; o rodapé reúne metragens, tipologias e endereço.",
+  "por_que_funciona": [
+    "A planta grande permite examinar a divisão interna.",
+    "As cotas acrescentam medidas concretas à apresentação.",
+    "A distância de 600 metros ancora o argumento de localização.",
+    "O rodapé reúne metragens e tipologias em uma linha de consulta rápida."
+  ],
+  "quando_usar": "Para apresentar plantas de lançamento a interessados que comparam localização e aproveitamento do espaço.",
+  "estrutura_texto": "[Lançamento] → [distância a referência local] → [planta com medidas] → [metragens e tipologias] → [endereço]",
+  "legenda": "Conheça [lançamento] em [região], perto de [referência local]. Plantas de [metragens] com [tipologias]. Cadastre-se para receber [informações do projeto].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza claro e bege, planta mobiliada central com cotas legíveis, título branco no alto e faixa inferior com metragens, tipologias e localização. Utilize apenas planta e medidas fornecidas; não reproduza endereço ou selos da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1469695071679335",
+    "anunciante": "Living Empreendimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 7,
+    "texto_original": "More ou invista a 5 minutos da Estação Faria Lima\n \nEm breve, Pinheiros recebe um novo lançamento da Living, marca do Grupo Cyrela, especialista em bem-estar no mercado imobiliário.\n \nPlantas inteligentes com opções de Studios, 1 e 2 dormitórios na Rua Butantã.\n \nClique e receba as informações em primeira mão.\n5 minutos da Estação Faria Lima",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1469695071679335.jpg"
+}

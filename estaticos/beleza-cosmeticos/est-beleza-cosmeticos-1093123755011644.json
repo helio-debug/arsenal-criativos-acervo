@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1093123755011644",
+  "tipo": "estatico",
+  "titulo": "Ampolas cosméticas alinhadas com demonstração na mão",
+  "formato": "Produto em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Cinco ampolas âmbar estão alinhadas sobre fundo branco, com uma delas segurada entre os dedos. Os rótulos brancos contrastam com o líquido dourado e indicam vitamina C.",
+  "por_que_funciona": [
+    "As cinco ampolas repetidas formam uma sequência visual simples.",
+    "A mão oferece referência de tamanho e mostra como segurar a embalagem.",
+    "O fundo branco reduz distrações e destaca o tom âmbar.",
+    "Os rótulos voltados para a câmera ajudam a reconhecer o tipo de produto."
+  ],
+  "quando_usar": "Para apresentar cosméticos em ampolas e mostrar escala e embalagem sem depender de oferta.",
+  "estrutura_texto": "[Marca no rótulo]\n[Ingrediente ou linha]\n[Volume]",
+  "legenda": "Conheça [produto], um cosmético com [ingrediente] para [uso cosmético comprovado]. Veja o modo de uso e os detalhes da fórmula em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fotografia horizontal com fundo branco e cinco unidades do produto da IMAGEM 2 alinhadas verticalmente e espaçadas. Inclua uma mão segurando a unidade da esquerda para mostrar escala. Preserve formato e rótulo reais do produto fornecido, com luz suave e sombras discretas. Não acrescente selos, preço ou benefícios não informados.",
+  "alerta_politica": "ANVISA: alegações cosméticas devem corresponder à regularização e à comprovação do produto. Não atribuir efeito terapêutico, cura ou equivalência a procedimento clínico.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1093123755011644",
+    "anunciante": "LaCabine Indonesia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-11-10",
+    "dias_no_ar": 1100,
+    "variacoes_ativas": 1,
+    "texto_original": "laCabine is a cosmetic brand that brings the effectiveness of beauty salons to your home",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1093123755011644.jpg"
+}

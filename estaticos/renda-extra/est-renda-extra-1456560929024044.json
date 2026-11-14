@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1456560929024044",
+  "tipo": "estatico",
+  "titulo": "Oportunidade de revenda com linha de cosméticos",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo claro com nuances lilás, uma chamada de oportunidade antecede um conjunto de sabonetes, sérum e pequenos frascos. Flores e plantas acompanham os produtos.",
+  "por_que_funciona": [
+    "A linha de produtos ocupa a metade inferior e mostra o que será revendido.",
+    "A chamada fina em caixa alta preserva a visibilidade do conjunto de embalagens.",
+    "Flores e folhas reforçam a categoria natural apresentada no texto.",
+    "O fundo claro cria contraste com os frascos âmbar e seus rótulos."
+  ],
+  "quando_usar": "Para apresentar o portfólio de um programa de revenda a quem já demonstrou interesse na categoria.",
+  "estrutura_texto": "[MARCA]\nESSA OPORTUNIDADE\né para quem busca [OBJETIVO]. Conheça [CATEGORIA E DIFERENCIAL COMPROVADO].\n[PORTFÓLIO DE PRODUTOS]",
+  "legenda": "Conheça o programa de revenda de [categoria]. Consulte [desconto para revendedores], [treinamentos] e as condições de cadastro em [link]. Avalie custos e margem antes de começar; os resultados variam conforme as vendas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro em degradê creme e lilás, identificação própria discreta no topo e chamada elegante em verde fino no terço superior. Abaixo, organize produtos da IMAGEM 2 com alturas variadas, rótulos legíveis, sombras suaves e elementos botânicos. Apresente a oportunidade com condições verificáveis, sem garantir autonomia financeira ou alta lucratividade. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: não prometer renda, lucro garantido ou ganhos sem esforço. Informar condições, custos e critérios da oportunidade; resultados dependem da atividade e não são assegurados. ANVISA: não atribuir propriedades terapêuticas a cosméticos nem sugerir aprovação genérica da agência; alegações devem corresponder à categoria e à regularização de cada produto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1456560929024044",
+    "anunciante": "Phytoterápica Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 1,
+    "texto_original": "Seja uma Consultora Phytoterápica e conquiste sua autonomia financeira com uma marca referência em óleos essenciais e cosmética natural.\n\n✨ Produtos veganos, certificados pela ANVISA\n🛍️ 30% de desconto em todas as compras\n🎓 Treinamentos gratuitos\n💰 Renda extra com propósito\n\n Cadastre-se agora e comece a viver do que te faz bem!\nPhytoterápica | Seja Consultor(a)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1456560929024044.jpg"
+}

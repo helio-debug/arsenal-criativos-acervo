@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-2606223093195811",
+  "tipo": "estatico",
+  "titulo": "Escolha de assento por perfil comportamental",
+  "formato": "Interativo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Vista superior de assentos de avião com quatro lugares numerados e personagens que representam perfis comportamentais. A pergunta no topo propõe escolher onde sentar.",
+  "por_que_funciona": [
+    "Os números de 1 a 4 tornam a resposta simples para comentários.",
+    "Os personagens coloridos distinguem perfis sobre os bancos escuros.",
+    "A pergunta usa uma situação cotidiana para introduzir comportamento."
+  ],
+  "quando_usar": "Para marcas de gestão de pessoas estimularem comentários e identificação com perfis.",
+  "estrutura_texto": "[Pergunta de escolha em uma situação cotidiana] | 1 [Perfil A] | 2 [Perfil B] | 3 [Perfil C] | 4 [Perfil D]",
+  "legenda": "[Opção 1], [opção 2], [opção 3] ou [opção 4]? Ao escolher [situação], com qual [perfil] você ficaria? Conte nos comentários.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma composição vista de cima com assentos de avião e quatro opções numeradas distribuídas pela cena. Associe cada opção a um personagem geométrico original, cor própria e rótulo de perfil. Coloque a pergunta em branco no topo e use a imagem do produto apenas como apoio discreto. Não reproduza os personagens da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2606223093195811",
+    "anunciante": "Sólides",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 2,
+    "texto_original": "1, 2, 3 ou 4? 👀 Se você pudesse escolher, sentaria ao lado de qual perfil comportamental? 👇 Conta pra gente nos comentários! 💜",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2606223093195811.jpg"
+}

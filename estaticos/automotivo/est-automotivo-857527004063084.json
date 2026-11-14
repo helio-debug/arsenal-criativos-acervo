@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-857527004063084",
+  "tipo": "estatico",
+  "titulo": "Seminovo com seguro e condições de compra em combo",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo roxo com formas laranja enquadra uma foto circular de um utilitário. Um selo de seguro grátis acompanha a chamada, e três condições comerciais aparecem no rodapé.",
+  "por_que_funciona": [
+    "O selo em forma de escudo destaca o ano de seguro grátis ao lado do veículo.",
+    "O círculo laranja separa a promessa principal do fundo roxo.",
+    "A sequência de 21, 72 e 1 no rodapé facilita comparar entrada, financiamento e garantia."
+  ],
+  "quando_usar": "Para revendas que tenham uma campanha combinando veículo, seguro e condições de pagamento.",
+  "estrutura_texto": "Saia de [veículo] e [benefício] garantido.\n[Prazo] de seguro grátis.\nUm combo especial para você!\nEntrada em até [parcelas]\nFinanciamento em até [parcelas]\n[Prazo] de garantia\n[Condições]",
+  "legenda": "Escolha seu [seminovo] com [benefício de seguro]. A campanha reúne [condição de entrada], [financiamento] e [garantia]. Consulte veículos participantes e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma composição vertical com fundo roxo, formas curvas laranja, chamada em círculo no alto à esquerda e foto do veículo em recorte circular central. Acrescente um selo de escudo à direita para o seguro e uma faixa inferior com três condições comerciais em números grandes. Use somente condições fornecidas e mantenha ressalvas legíveis.",
+  "alerta_politica": "Seguro e financiamento: informar condições de elegibilidade, cobertura, vigência, exclusões e custos do crédito. Não apresentar seguro ou aprovação de financiamento como garantidos para todos; esclarecer as condições do benefício grátis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "857527004063084",
+    "anunciante": "Seminovos Movida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-18",
+    "dias_no_ar": 180,
+    "variacoes_ativas": 3,
+    "texto_original": "A Seminovos Movida tem um combo especial para você sair com um novo carro.  Garanta o seu com seguro garantido!\nSeminovo com seguro\nCompre agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-857527004063084.jpg"
+}

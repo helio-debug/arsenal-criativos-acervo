@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1680519503642437",
+  "tipo": "estatico",
+  "titulo": "Mentoria para prova com quatro entregas em lista",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com arquitetura ao fundo, nome da seleção no alto e título de mentoria com o ano. Quatro caixas com ícones apresentam as entregas, seguidas por uma faixa de chamada.",
+  "por_que_funciona": [
+    "O nome da seleção e o ano no topo identificam a preparação específica.",
+    "As quatro caixas separam cronograma, acompanhamento, análise e ajustes em entregas fáceis de localizar.",
+    "Os ícones de calendário, mentor, gráfico e revisão ajudam a percorrer a lista.",
+    "A faixa colorida na base repete a prova e destaca a chamada."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de preparação a candidatos que já escolheram a seleção e comparam formas de acompanhamento.",
+  "estrutura_texto": "[Seleção-alvo]\nMENTORIA\n[Ano]\nCronograma personalizado\n[Critério de personalização]\nAcompanhamento individual\n[Perfil do mentor]\nAnálise do seu desempenho\nRevisões e ajustes\n[Continuidade do suporte]\nPREPARAÇÃO ESTRATÉGICA PARA [SELEÇÃO] [ANO]\n[Marca]",
+  "legenda": "Pré-inscrições para a mentoria [ano], voltada a [seleção]. Conte com cronograma personalizado, acompanhamento de [perfil do mentor], análise de desempenho e ajustes durante a preparação. Veja os detalhes e faça sua aplicação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo fotográfico de arquitetura genérica com tratamento magenta com preto e amarelo-limão, escuro para preservar a leitura. No topo, coloque o nome da seleção e, abaixo, MENTORIA em caixa alta inclinada com o ano destacado. Empilhe quatro caixas finas arredondadas com ícones à esquerda e textos curtos à direita. Termine com faixa de alto contraste e seta. Use a foto da IMAGEM 2 como apoio visual da oferta. Não reproduza emblemas de instituições nem sugira vínculo oficial sem autorização.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1680519503642437",
+    "anunciante": "Q7 - Residência Médica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-10",
+    "dias_no_ar": 65,
+    "variacoes_ativas": 3,
+    "texto_original": "Pré-inscrições Mentoria 7AR 2027 - Lote 0\n\nTenha um acompanhamento individual e personalizado com o método que aprovou o 1º lugar em Oftalmologia na USP-SP em 2023, o 1º lugar em Neurocirurgia na USP-SP em 2024 e 2026 e o 1º lugar em Endocrinologia na UEL, também aprovado em Endocrinologia na USP-RP e no Hospital Federal da Lagoa (RJ) pelo Enare em 2025.\n\n👉Clique em saiba mais e faça sua aplicação para vaga",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1680519503642437.jpg"
+}

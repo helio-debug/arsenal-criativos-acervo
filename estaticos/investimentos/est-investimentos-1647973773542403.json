@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1647973773542403",
+  "tipo": "estatico",
+  "titulo": "Fundo imobiliário conectado a usos cotidianos",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Texto branco e dourado sobre fundo preto apresenta um fundo por sua presença em atividades cotidianas. Na base, uma montagem de imóveis comerciais iluminados ocupa toda a largura.",
+  "por_que_funciona": [
+    "A frase principal em dourado destaca o fundo como assunto central.",
+    "A linha sobre compras, trabalho e saúde explica os usos dos imóveis.",
+    "A montagem de fachadas oferece uma representação concreta da carteira.",
+    "O selo com ano de início acrescenta uma referência temporal à trajetória."
+  ],
+  "quando_usar": "Para apresentar a composição e a trajetória de um fundo imobiliário com imóveis e informações verificáveis.",
+  "estrutura_texto": "A vida de [público]\npassa por [fundo].\nImóveis para [usos cotidianos].\nUma evolução constante desde [ano].",
+  "legenda": "Ao [atividade cotidiana], você pode estar perto dos imóveis de [fundo]. Conheça a carteira, sua evolução desde [ano] e os riscos do investimento. Acesse os relatórios em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com textura discreta, título branco fino e condensado e nome do produto em dourado, grande e pesado. Adicione uma frase curta sobre os usos dos imóveis e um selo oval contornado com o ano da trajetória. Na base, monte fotos autorizadas dos imóveis com iluminação quente. Não copie marcas de locatários; use apenas identificações autorizadas e informações confirmadas da carteira.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1647973773542403",
+    "anunciante": "TRX Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 1,
+    "texto_original": "A vida do brasileiro passa pelo TRXF11.\n\nAo fazer compras, cuidar da saúde, visitar um shopping ou receber uma entrega, você pode estar mais perto dos imóveis do Fundo do que imagina.\n\nDesde 2019, o TRXF11 ampliou sua carteira, com imóveis em diferentes setores e regiões do Brasil.\n\nConfira essa evolução no carrossel. Para conhecer os imóveis e acompanhar os resultados do fundo, acesse os relatórios no link da bio.\n\n#TRX #TRXF11",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/investimentos/est-investimentos-1647973773542403.jpg"
+}

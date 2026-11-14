@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1847312915712678",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre tecnologia com lista de benefícios",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de um rosto e de um aplicador ocupa o fundo escurecido. Uma pergunta no topo apresenta o procedimento, seguida de lista de benefícios e chamada promocional em dourado.",
+  "por_que_funciona": [
+    "A pergunta no topo introduz a utilidade do procedimento antes da lista.",
+    "O aplicador em primeiro plano mostra o equipamento associado ao serviço.",
+    "Os marcadores agrupam as aplicações em linhas fáceis de percorrer.",
+    "O texto dourado de promoção se destaca do restante da lista branca."
+  ],
+  "quando_usar": "Para apresentar uma tecnologia estética a quem está pesquisando procedimentos e convidar para avaliação.",
+  "estrutura_texto": "Sabe o que [tecnologia] pode fazer por você?\n• [aplicação 1]\n• [aplicação 2]\n• [aplicação 3]\n[condição promocional]\n[assinatura]",
+  "legenda": "Agenda aberta em [cidade]. Conheça [procedimento] e as condições de [oferta]. Agende uma avaliação com [profissional habilitado] para entender as indicações e limitações. [canal de agendamento]",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de equipamento e ambiente de atendimento como fundo, com camada escura para leitura. No topo, pergunta em fonte sem serifa e nome do serviço em serifada grande. À esquerda, lista curta de aplicações comprovadas; abaixo, condição comercial em dourado. Reserve o rodapé para a assinatura. Evite promessas de redução garantida.",
+  "alerta_politica": "Publicidade de estética: observar as políticas da Meta para procedimentos cosméticos, com segmentação adulta e sem explorar inseguranças ou prometer resultados. Respeitar as normas do conselho profissional responsável e as restrições da ANVISA sobre publicidade de medicamentos sujeitos a prescrição.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1847312915712678",
+    "anunciante": "instituto_lavor_",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-03-27",
+    "dias_no_ar": 962,
+    "variacoes_ativas": 1,
+    "texto_original": "🏃🏻♀️🏃🏻♀️ Agenda Aberta para Fortaleza!! Já pensou em fazer aquele super procedimento estético com um precinho promocional especial e ainda ganhar uma avaliação com uma especialista?\n\n🥰 Somente no Instituto Lavor você possui serviços Odontológicos e Estéticos com precinhos que cabem no seu bolso, e você ainda parcela em até 10x sem juros!\n\nAgende agora a sua avaliação! No Instituto Lavor você tem:\n✅ Botox\n✅ Preenchimento facial\n✅ Bioestimuladores\n✅ Limpeza de pele GOLD \n✅ Massagem relaxante \n✅ Massagem modeladora \n✅ Ultraformer \n✅ Criolipolise\n✅ Intradermoterapia (enzimas)\n✅ Depilação a laser\n✅ Microagulhamento\n\n➡️ Preços promocionais por tempo limitado! Agende agora sua avaliação enviando uma mensagem\nWHATSAPP\nConverse conosco\n⭐⭐⭐⭐⭐",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1847312915712678.jpg"
+}

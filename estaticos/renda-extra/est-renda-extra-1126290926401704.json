@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1126290926401704",
+  "tipo": "estatico",
+  "titulo": "Tipografia gigante para revenda de camisas",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com degradê turquesa sustenta uma chamada de renda extra com camisas de time. A palavra extra domina o centro e a base reúne um selo e um quadro de garantia.",
+  "por_que_funciona": [
+    "A palavra extra em turquesa ocupa quase toda a largura e concentra a atenção.",
+    "A linha sobre camisas de time especifica a categoria oferecida.",
+    "O frete grátis aparece separado no topo.",
+    "O quadro na base reúne entrega, qualidade, taxa zero e garantia em um único bloco."
+  ],
+  "quando_usar": "Para divulgar fornecimento de camisas a revendedores, detalhando frete, garantia e condições reais da operação.",
+  "estrutura_texto": "[Benefício de entrega]\n[Chamada sobre oportunidade de revenda]\nCom [categoria de produto]\n[Condições comerciais]\n[Garantia e escopo]",
+  "legenda": "Conheça [catálogo de produtos] para revenda. Consulte [preços], [pedido mínimo], [condições de frete] e [política de garantia]. Peça as informações por [canal de atendimento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com degradê turquesa na base e linhas diagonais discretas. Distribua a chamada em linhas, com palavra principal gigante em turquesa, apoio branco e categoria em fonte condensada. Inclua benefício de frete no topo e quadro de condições na base. Não use superlativos de renda nem selo de garantia sem condições verificáveis.",
+  "alerta_politica": "Meta: oportunidades de renda devem explicar a atividade e as condições, sem garantir ganhos ou sugerir resultados típicos sem comprovação. Valores e depoimentos precisam de evidências; ressalvas não corrigem uma promessa enganosa. Frete grátis, taxa zero e garantia exigem condições claras. Evitar alegação de maior fonte de renda sem evidência e usar somente imagens e produtos com direitos de comercialização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1126290926401704",
+    "anunciante": "Fornecedor ATK",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 1,
+    "texto_original": "WHATSAPP DO VENDEDOR: 31 98026-1639\n\nSITE: PEDIDOATACADO.COM",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1126290926401704.jpg"
+}

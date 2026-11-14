@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1620006959293292",
+  "tipo": "estatico",
+  "titulo": "Pergunta de story leva ao grupo de ofertas",
+  "formato": "Conversa no celular",
+  "nicho": "suplementos",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma caixa aberta com suplementos serve de fundo a um adesivo de pergunta e resposta. Blocos azuis e brancos apresentam o grupo de promoções e uma chamada para clicar.",
+  "por_que_funciona": [
+    "O adesivo de pergunta introduz a oferta no formato de uma dúvida cotidiana.",
+    "A caixa aberta com produtos contextualiza as promoções citadas.",
+    "Os blocos azuis criam contraste sobre a foto e destacam o convite.",
+    "O dedo apontando para baixo reforça a direção do clique."
+  ],
+  "quando_usar": "Captação para grupos de ofertas de suplementos, quando o acesso e as condições estão claros.",
+  "estrutura_texto": "[Adesivo de pergunta]\nÉ um grupo de [tipo de oferta]?\n[Resposta afirmativa]\nEntrei em [grupo] que manda [categoria em promoção]\nQuer [vantagem comercial]? [CTA]",
+  "legenda": "Receba ofertas de [categoria] em [canal]. Entre no grupo por [link] e acompanhe [tipos de promoção]. [Condição de acesso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical espontânea de uma caixa aberta com os produtos fornecidos. Sobreponha no alto um adesivo de pergunta com cabeçalho escuro e corpo branco. No centro, resposta em letras brancas sobre azul; abaixo, chamada em azul sobre branco e seta para baixo. Use relato em primeira pessoa apenas se autêntico e autorizado.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio. Não inventar depoimento ou simular pergunta real de consumidor como prova de experiência.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1620006959293292",
+    "anunciante": "Time de Ofertas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-04",
+    "dias_no_ar": 224,
+    "variacoes_ativas": 1,
+    "texto_original": "Já seguiu? @willgarimpou ‼️\nGRUPO NO WHATS ⛏️",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1620006959293292.jpg"
+}

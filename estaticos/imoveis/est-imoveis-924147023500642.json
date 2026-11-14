@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-924147023500642",
+  "tipo": "estatico",
+  "titulo": "Busca imobiliária ilustrada com volume de opções",
+  "formato": "Interativo",
+  "nicho": "imoveis",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1.91:1",
+  "descricao": "Banner laranja com pergunta em letras brancas grandes à esquerda, iluminadas por uma luminária ilustrada. À direita, a peça simula filtros de busca com opções de compra, aluguel, tipo de imóvel e bairro.",
+  "por_que_funciona": [
+    "A pergunta em letras grandes ocupa quase metade da peça e inicia a leitura.",
+    "O volume de imóveis em negrito apresenta a amplitude do catálogo.",
+    "Os botões de comprar e alugar mostram duas intenções de busca.",
+    "A barra roxa com filtros e lupa representa a ação de pesquisar."
+  ],
+  "quando_usar": "Para divulgar um portal imobiliário a pessoas no início da busca por compra ou aluguel.",
+  "estrutura_texto": "[Pergunta curta em destaque]\nEm escolher entre\nmais de [quantidade comprovada] imóveis?\n[Comprar] [Alugar]\n[Tipo de imóvel] [Região] [Ícone de busca]\n[Marca]\n[Assinatura]\n[Site]",
+  "legenda": "Encontre opções para [comprar ou alugar] em [região]. Pesquise por [tipo de imóvel] e ajuste os filtros ao que procura. Acesse [site] e consulte os anúncios disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie banner horizontal com fundo laranja, pergunta curta branca muito grande à esquerda e luminária ilustrada sobre o texto. À direita, coloque chamada com volume comprovado de opções e uma simulação visual de busca em roxo, com botões de compra e aluguel, filtros e lupa. Posicione marca própria e site abaixo. Os controles devem parecer uma ilustração do serviço, sem sugerir interação funcional dentro da imagem.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "924147023500642",
+    "anunciante": "New Century Netimóveis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-27",
+    "dias_no_ar": 260,
+    "variacoes_ativas": 1,
+    "texto_original": "Empresa focada na excelência da intermediação imobiliária: compra, venda ou locação. Somos associados à Netimóveis, a maior rede de imobiliárias do Brasil.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-924147023500642.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-seguros-1736855508444581",
+  "tipo": "estatico",
+  "titulo": "Proteção que acompanha a rotina",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma pessoa com celular e fones em ambiente urbano, com chamada sobre seguro de vida. Uma curva coral separa a foto de um bloco de texto e formas geométricas.",
+  "por_que_funciona": [
+    "A pessoa com celular e fones insere o seguro em uma cena cotidiana.",
+    "A frase central em branco ocupa a área da foto e apresenta a proposta de proteção.",
+    "O bloco coral inferior dá contraste ao texto sobre mudanças de vida."
+  ],
+  "quando_usar": "Para apresentar um seguro de vida a públicos que valorizam contratação simples e comunicação próxima da rotina.",
+  "estrutura_texto": "[Categoria do seguro]\nSeguro que [proposta central].\n[Assinatura]\nSua vida muda.\nSua proteção [acompanha a mudança].\n[Reforço da proposta].",
+  "legenda": "Cuidar da vida pode ser simples. Conheça [seguro]: proteção [características comprováveis] para acompanhar [momento da rotina]. Veja [coberturas e condições] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto de contexto cotidiano relacionada à IMAGEM 2 na metade superior, com pessoa usando celular em cenário urbano. Sobreponha uma chamada branca com trechos em serifada grande. Separe a metade inferior coral por uma curva ampla; nela, coloque três linhas curtas de apoio à esquerda e formas geométricas azuis e creme no canto inferior direito. Reserve um selo pequeno no topo para a categoria do seguro.",
+  "alerta_politica": "Meta: evitar atribuir ao público condições pessoais ou financeiras e não prometer proteção absoluta. Apresentar coberturas, condições, exclusões e elegibilidade com clareza, conforme as regras aplicáveis ao seguro.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1736855508444581",
+    "anunciante": "Zurich no Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 1,
+    "texto_original": "Cuidar da vida não precisa ser complicado. Conheça o Seguro Zurich Vida: proteção simples, digital e humana.\nProteção para sua vida\nConheça o Seguro Zurich Vida",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/seguros/est-seguros-1736855508444581.jpg"
+}

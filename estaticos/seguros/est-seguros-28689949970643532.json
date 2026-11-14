@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-28689949970643532",
+  "tipo": "estatico",
+  "titulo": "Campanha de primavera com ilustração e convite a mudar um hábito",
+  "formato": "Alerta e educação",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Ilustração de mulher saltando entre flores grandes emoldura a palavra primavera. Tons de laranja, verde e creme compõem uma campanha sazonal com assinatura sobre mudança de hábito no rodapé.",
+  "por_que_funciona": [
+    "A palavra primavera em letras grandes identifica imediatamente o tema sazonal.",
+    "As flores nas bordas criam uma moldura para a personagem e a chamada.",
+    "O salto da personagem sugere disposição por meio de uma ação visível.",
+    "A assinatura sobre mudar um hábito conecta a composição festiva ao conteúdo de bem-estar."
+  ],
+  "quando_usar": "Para campanhas de marca de planos de saúde ligadas a estações do ano e conteúdos gerais de hábitos saudáveis.",
+  "estrutura_texto": "O plano que [conecta] você e a [estação]\n[ESTAÇÃO]\n[Assinatura da campanha]\nMude [quantidade] hábito\n[Marca e informações institucionais]",
+  "legenda": "A chegada de [estação] traz mudanças em [condições do ambiente] e pode ser uma oportunidade para observar a rotina. Experimente [hábito simples e adequado] e acompanhe os conteúdos de [marca] sobre cuidados no dia a dia.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição ilustrada com fundo creme, manchas orgânicas verde claro, flores grandes laranja nas bordas e faixa curva decorativa. Use uma personagem adulta estilizada saltando ao centro, com braços erguidos. Coloque o nome da estação em tipografia serifada laranja grande no alto, pequena chamada acima e assinatura de campanha no rodapé. A IMAGEM 2 orienta apenas os elementos próprios do anunciante; mantenha o estilo de ilustração. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Conteúdo institucional de plano de saúde: observar regras aplicáveis da ANS e do CDC. Pelas políticas da Meta, evitar atribuir condições de saúde ao leitor. Não transformar hábitos gerais em promessa de cura ou de resultado clínico.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28689949970643532",
+    "anunciante": "Unimed Londrina",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 1,
+    "texto_original": "A chegada da primavera muda a paisagem, deixa os dias mais longos e traz mudanças que vão além das flores. Com novas condições de temperatura, luminosidade e umidade, o corpo também precisa se adaptar à estação.\n\nEsse período pode ser uma boa oportunidade para observar a própria rotina e fazer pequenos ajustes que contribuem para mais disposição, bem-estar e qualidade de vida. Cuidar da saúde não precisa significar mudar tudo de uma vez. São os hábitos simples que fazem a diferença.\n\nQue tal florescer novos hábitos nesta primavera?\nAcesse o blog da Unimed Londrina e confira todas as dicas.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-28689949970643532.jpg"
+}

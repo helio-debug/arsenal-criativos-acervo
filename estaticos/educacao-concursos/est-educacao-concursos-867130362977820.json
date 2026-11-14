@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-867130362977820",
+  "tipo": "estatico",
+  "titulo": "Preparação pré-edital com vagas autorizadas em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça em tons escuros de roxo com título do cargo e região, número de vagas e chamada para preparação pré-edital. Um professor de terno aparece no canto inferior direito e um monumento regional surge ao fundo.",
+  "por_que_funciona": [
+    "Cargo e região em letras grandes identificam rapidamente o concurso.",
+    "O número de vagas autorizado dá um motivo concreto para começar a preparação.",
+    "A expressão pré-edital situa o momento de estudo anunciado.",
+    "O retrato de terno ocupa o rodapé sem encobrir a informação das vagas."
+  ],
+  "quando_usar": "Para apresentar preparação específica de concurso após uma autorização de vagas e antes da publicação do edital.",
+  "estrutura_texto": "[MARCA]\nPREPARAÇÃO PRÉ-EDITAL\n[CARGO]\n[REGIÃO]\n[NÚMERO] vagas para [CARGO] de [REGIÃO] já foram autorizadas.\n[CHAMADA PARA ESTUDAR]\nCURSO ONLINE\nAcesse e adquira: [SITE]\n[ASSINATURA]",
+  "legenda": "Prepare-se para [cargo] em [região] com conteúdo direcionado ao concurso. O curso inclui [metas de estudo], [materiais de apoio] e [revisões]. Consulte as condições de acesso a [atualizações após o edital] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo roxo escuro com um elemento regional discreto, título central branco e turquesa e uma caixa preta para a fase do concurso. Destaque uma informação comprovada de vagas no centro. Posicione o retrato da IMAGEM 2 no canto inferior direito e uma chamada com site à esquerda. Não reproduza o monumento exato da referência. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": "Use informações atualizadas e verificáveis sobre vagas e edital. Alegações de liderança em aprovações exigem comprovação; não prometa aprovação nem sugira vínculo com o órgão público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "867130362977820",
+    "anunciante": "Dedicação Delta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-27",
+    "dias_no_ar": 291,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 Quer ser Delegado no RJ? Então não estude com material genérico.\n\nA banca é específica e exige uma preparação igualmente direcionada.\n\n✅ Metas diárias\n\n✅ Resumos estratégicos\n\n✅ Lei Seca esquematizada\n\n✅ Caderno de Súmulas\n\n✅ Ciclos de revisão\n\n✅ Acesso ao Reta Final quando o edital sair\n\n💡 Comece sua preparação com quem entende do concurso da PCERJ.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-867130362977820.jpg"
+}

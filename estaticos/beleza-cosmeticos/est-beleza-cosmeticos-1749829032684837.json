@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1749829032684837",
+  "tipo": "estatico",
+  "titulo": "Tubo de coloração com caixa sobre fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Tubo de coloração permanente em primeiro plano e caixa atrás, ambos em verde e amarelo. O fundo branco concentra a atenção nas embalagens.",
+  "por_que_funciona": [
+    "O tubo e a caixa juntos mostram a apresentação do produto.",
+    "O fundo branco facilita a leitura do contorno das embalagens.",
+    "O enquadramento grande dá destaque ao nome da linha no rótulo.",
+    "A base do rótulo informa peso e tipo de coloração."
+  ],
+  "quando_usar": "Para catálogo e remarketing de cosméticos com embalagem reconhecível e compra orientada por linha ou tonalidade.",
+  "estrutura_texto": "[Marca]\n[Linha de coloração]\n[Tipo de coloração]\n[Ingredientes declarados no rótulo]\n[Peso].",
+  "legenda": "Conheça [linha de coloração] na tonalidade [cor]. Confira [características do produto], modo de uso e disponibilidade em [canal]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia de catálogo em fundo branco, com o tubo da IMAGEM 2 à frente e sua caixa atrás, deslocada à direita. Preserve as cores e os textos reais da embalagem fornecida, com iluminação suave, sombra discreta e produto ocupando quase toda a altura. Não acrescente ingredientes ou benefícios ausentes do rótulo.",
+  "alerta_politica": "ANVISA: mantenha as alegações compatíveis com a regularização e a rotulagem do cosmético. Não prometa ausência de alergias; respeite as advertências e instruções de teste de sensibilidade.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1749829032684837",
+    "anunciante": "Love Potion Cosmetic",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-01",
+    "dias_no_ar": 136,
+    "variacoes_ativas": 1,
+    "texto_original": "Coloração Marrons - Brazilian Color - Natureza Cosméticos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1749829032684837.jpg"
+}

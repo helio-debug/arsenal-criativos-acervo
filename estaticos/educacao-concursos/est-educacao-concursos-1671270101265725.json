@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1671270101265725",
+  "tipo": "estatico",
+  "titulo": "Lista de cursos gratuitos em cartaz fotografado",
+  "formato": "Mídia de rua",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Jovem de uniforme aponta para um grande cartaz de cursos online gratuitos com certificado. O cartaz usa títulos azuis, faixas vermelhas e oito linhas de cursos com selos de gratuidade.",
+  "por_que_funciona": [
+    "A palavra gratuitos domina a hierarquia do cartaz.",
+    "Cada curso recebe um selo vermelho, repetindo a condição da oferta.",
+    "A pessoa apontando direciona o olhar para a lista.",
+    "A frase com certificado acrescenta um atributo concreto à capacitação."
+  ],
+  "quando_usar": "Para instituições divulgarem um catálogo real de cursos gratuitos com inscrição aberta e condições claras.",
+  "estrutura_texto": "[INSTITUIÇÃO]\n[ASSINATURA]\nCURSOS ONLINE\nGRATUITOS\nCOM CERTIFICADO!\n[CURSO 1] — GRÁTIS\n[CURSO 2] — GRÁTIS\n[DEMAIS CURSOS] — GRÁTIS",
+  "legenda": "Capacitação gratuita em [áreas], com [tipo de certificado e condições comprovadas]. Consulte [requisitos e disponibilidade] e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma fotografia de pessoa autorizada apontando para um cartaz físico em ambiente de formação profissional. O cartaz ocupa cerca de dois terços da composição. Use fundo branco, títulos azuis, faixas vermelhas e lista de cursos com pequenos ícones à esquerda e selos de gratuidade à direita. Mostre apenas cursos e condições informados. Use identidade própria, sem imitar instituições ou sugerir reconhecimento oficial não comprovado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1671270101265725",
+    "anunciante": "Olav Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 8,
+    "texto_original": "💼 Capacitação gratuita com certificado reconhecido. Inscreva-se!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1671270101265725.jpg"
+}

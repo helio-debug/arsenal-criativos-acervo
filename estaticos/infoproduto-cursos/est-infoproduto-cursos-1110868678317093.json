@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1110868678317093",
+  "tipo": "estatico",
+  "titulo": "Mitos sobre IA com cena de rotina de negócio",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título sobre mitos da IA ocupa a metade superior escura. A parte inferior mostra uma pessoa com celular e caderno em meio a caixas, cercada por curvas coloridas.",
+  "por_que_funciona": [
+    "A palavra “Mitos” abre uma pauta específica para o conteúdo.",
+    "O trecho sobre o papel da IA recebe destaque laranja.",
+    "A foto com celular, caderno e caixas situa o tema na rotina de um negócio.",
+    "A seta no canto inferior sugere continuidade para o conteúdo."
+  ],
+  "quando_usar": "Para atrair donos de pequenos negócios a uma inscrição gratuita sobre aplicações de IA.",
+  "estrutura_texto": "[Selo da iniciativa]\nMitos sobre\n[o papel da tecnologia]\nno seu [contexto].\n[Seta de continuidade]",
+  "legenda": "Conheça formas simples de usar [tecnologia] na rotina de [tipo de negócio]. Participe de [conteúdo ou programa gratuito] e veja por onde começar. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição vertical entre área superior azul muito escuro e foto de rotina profissional na metade inferior. Use título branco com um trecho em laranja, pequeno selo no topo e curvas largas em laranja, amarelo e verde nas bordas. Insira seta discreta no canto inferior direito. Adapte os textos ao MEU PRODUTO, em pt-BR, sem reproduzir nomes de terceiros.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1110868678317093",
+    "anunciante": "Sebrae",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 2,
+    "texto_original": "Não precisa ser especialista para começar. Conheça formas simples de usar a IA e deixar a rotina do seu negócio mais leve.\nDesmitifique a IA no Seu Negócio em dIA\nInscreva-se grátis",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1110868678317093.jpg"
+}

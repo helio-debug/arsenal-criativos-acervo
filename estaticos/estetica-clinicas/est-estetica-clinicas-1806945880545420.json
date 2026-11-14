@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1806945880545420",
+  "tipo": "estatico",
+  "titulo": "Mentoria técnica com fundamentos e retrato profissional",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo escuro com brilho rosado, título em caligrafia e lista de fundamentos da rinomodelação. O retrato de uma profissional ocupa a lateral direita e um botão rosa aparece no rodapé.",
+  "por_que_funciona": [
+    "A palavra do procedimento em grande caligrafia identifica a especialidade.",
+    "Os itens com marcas de verificação detalham os assuntos da mentoria.",
+    "O retrato da profissional associa a oferta a uma pessoa visível.",
+    "O botão rosa no rodapé contrasta com o fundo escuro."
+  ],
+  "quando_usar": "Para apresentar mentoria técnica a profissionais habilitados que buscam aprofundamento em procedimentos estéticos.",
+  "estrutura_texto": "[Especialidade]\n[Aprofundamento técnico proposto]\nConheça os fundamentos de [prática].\n✓ [Fundamento 1]\n✓ [Fundamento 2]\n✓ [Aplicação do conhecimento]\nConheça a [mentoria].",
+  "legenda": "Aprofunde seu conhecimento em [procedimento] com estudo de [anatomia], [características individuais] e [planejamento]. Conheça a [mentoria] voltada a [profissionais habilitados] e consulte o conteúdo em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo grafite com iluminação rosa suave, linhas geométricas discretas e identidade própria no topo. Use título rosa em caligrafia, subtítulo branco e bloco escuro com mensagem curta. Posicione três itens com checks à esquerda, foto da IMAGEM 2 à direita e CTA rosa arredondado no rodapé. Não use antes e depois nem prometa resultados clínicos.",
+  "alerta_politica": "Por envolver formação em procedimento estético, direcione a oferta a profissionais habilitados. Observe as regras de publicidade do conselho profissional aplicável, incluindo CFM quando houver médico; evite garantias de resultado, banalização de riscos e imagens de antes e depois incompatíveis com as políticas da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1806945880545420",
+    "anunciante": "dra.elisabethleal",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "A rinomodelação vai muito além da técnica. ✨\n\nPor trás de resultados que impressionam, existe conhecimento em anatomia, compreensão das características individuais e planejamento.\n\nNa Mentoria VIP com a Dra Elisabeth Leal, você aprofunda seus conhecimentos para desenvolver mais segurança e precisão na prática.\n\nQuer elevar o nível dos seus resultados?\n\nConheça a Mentoria VIP e saiba mais! 💗\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1806945880545420.jpg"
+}

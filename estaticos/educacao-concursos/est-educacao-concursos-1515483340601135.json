@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1515483340601135",
+  "tipo": "estatico",
+  "titulo": "Convite ao vestibular com estudante central",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Foto de estudante com mochila divide dois blocos de texto sobre fundo azul com raios claros. A base reúne a data da prova, a inscrição e a assinatura visual.",
+  "por_que_funciona": [
+    "O rosto central conecta visualmente os dois blocos de texto.",
+    "“Estude” em letras grandes comunica o convite de forma direta.",
+    "O bloco menor apresenta as áreas associadas à formação.",
+    "Data e inscrição aparecem em branco na borda inferior."
+  ],
+  "quando_usar": "Para campanhas de inscrição de uma instituição com posicionamento acadêmico definido.",
+  "estrutura_texto": "Vestibular [instituição] [ano]\nEstude na [instituição].\nUma formação [atributo comprovado] em [áreas].\n[Convite à nova turma]\nProva: [data]\nINSCREVA-SE",
+  "legenda": "As inscrições para o vestibular [ano] de [instituição] estão abertas. Conheça a formação em [áreas] e os diferenciais de [proposta acadêmica]. Faça sua inscrição para a prova de [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo com raios azul-claros partindo da lateral direita. Posicione a foto do produto ao centro, chamada serifada branca grande à esquerda e convite em caixa-alta à direita. Acrescente descrição breve sob a chamada e distribua data, CTA e marca própria no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1515483340601135",
+    "anunciante": "Centro Universitário FEI",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-29",
+    "dias_no_ar": 46,
+    "variacoes_ativas": 1,
+    "texto_original": "Para quem busca uma formação rigorosa e alinhada às demandas de um mercado em constante transformação, a FEI é o destino certo. Com tradição reconhecida em gestão, inovação e tecnologia, preparamos você para liderar grandes projetos. As inscrições para o Vestibular 2027 já estão abertas, com prova no dia 29/11. Faça sua inscrição e venha para a turma da sua vida.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1515483340601135.jpg"
+}

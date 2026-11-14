@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-533476155926893",
+  "tipo": "estatico",
+  "titulo": "Gestão remota em cenário de praia",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Homem de camisa social segura notebook aberto diante do mar. Texto no canto superior esquerdo destaca gestão de qualquer lugar.",
+  "por_que_funciona": [
+    "A tela do notebook mostra a ferramenta em uso.",
+    "O cenário de praia ilustra a mobilidade prometida.",
+    "Palavras em azul escuro destacam liberdade e empresa no texto branco."
+  ],
+  "quando_usar": "Para apresentar acesso remoto a um software de gestão e convidar para teste gratuito.",
+  "estrutura_texto": "[Benefício de mobilidade] para gerir sua [empresa] de [local]\n[Assinatura]",
+  "legenda": "Gerencie [tipo de negócio] com [solução] e acompanhe [processos] de onde estiver. Experimente grátis e confira [condições de implantação e contratação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário litorâneo, pessoa em pé de perfil segurando notebook com interface de gestão visível. Reserve canto superior esquerdo para chamada em linhas curtas, alternando branco e azul escuro. Inclua assinatura discreta no canto inferior direito.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "533476155926893",
+    "anunciante": "Oficina Integrada",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-09-12",
+    "dias_no_ar": 793,
+    "variacoes_ativas": 1,
+    "texto_original": "Experimente Grátis!\nSe você busca uma solução completa e quer melhorar a gestão da sua oficina, o Oficina Integrada é a sua melhor escolha. \n\nSem custo de implantação, liberdade total sem contratos de longo prazo e segurança garantida, ele vai revolucionar a forma como você administra seu negócio automotivo. 🚗💨",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-533476155926893.jpg"
+}

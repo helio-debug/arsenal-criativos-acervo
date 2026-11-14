@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1069057789120118",
+  "tipo": "estatico",
+  "titulo": "Especialidade em destaque com prática clínica",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul muito escuro traz a especialidade em letras brancas grandes. Um bloco azul destaca ambulatório com pacientes reais, enquanto a metade inferior mostra profissionais examinando imagens em um tablet.",
+  "por_que_funciona": [
+    "“Neurologia” em tamanho grande identifica imediatamente o foco do curso.",
+    "O bloco azul isola o diferencial de prática com pacientes.",
+    "A foto do tablet com exames conecta a oferta ao contexto clínico.",
+    "O botão branco e a seta oferecem pontos visuais para a próxima ação."
+  ],
+  "quando_usar": "Para apresentar uma pós-graduação a profissionais habilitados, enfatizando especialidade e formato de prática.",
+  "estrutura_texto": "[MARCA]\n[RESTRIÇÃO DE PÚBLICO]\nPós-graduação em\n[ESPECIALIDADE]\n[PRÁTICA OFERECIDA]\n[MODALIDADE]\n[CONVITE À FORMAÇÃO]\n[CTA]",
+  "legenda": "A formação em [especialidade] reúne [aulas], [discussão de casos] e [atividades práticas], conforme o programa. Conheça os pré-requisitos, a carga horária e o acompanhamento disponível. Clique em [CTA] para ver os detalhes.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul-marinho quase preto, identificação discreta no topo, subtítulo azul-claro e especialidade em branco com grande destaque. Na metade inferior, use a foto fornecida em recorte arredondado associado à formação. Sobreponha um cartão azul vivo com diferencial comprovável, botão branco e seta para baixo dentro de círculo branco. Inclua restrição de público legível e evite promessa de domínio clínico garantido.",
+  "alerta_politica": "Meta/CFM: divulgação de formação médica deve descrever requisitos e atividades com precisão. Pós-graduação não equivale automaticamente a título de especialista ou RQE; não prometer resultados clínicos. Imagens de pacientes exigem os cuidados e autorizações aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1069057789120118",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-17",
+    "dias_no_ar": 150,
+    "variacoes_ativas": 2,
+    "texto_original": "Casos neurológicos não chegam sinalizados. Chegam como uma queixa vaga, um exame alterado, um paciente que \"não está bem.\" 🧠\n\nA Pós em Neurologia da Sanar te prepara para isso: com aulas ao vivo, discussão de casos reais, imersões presenciais no Cetrus em São Paulo e mentoria individual durante todo o curso. \n\n➡️ Clique e conheça.\nSegurança clínica para casos cognitivos\nDiscussão de casos reais, aulas ao vivo, imersões presenciais e mentoria individual. Formação completa para reconhecer, investigar e conduzir casos neurológicos com segurança.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1069057789120118.jpg"
+}

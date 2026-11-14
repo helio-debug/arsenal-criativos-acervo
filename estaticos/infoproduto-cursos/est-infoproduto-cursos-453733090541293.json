@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-453733090541293",
+  "tipo": "estatico",
+  "titulo": "Cursos para educadores com chamada para comentar",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo laranja com ícone de igreja e crianças no topo, título central e condições de pagamento abaixo. Três apresentadoras recortadas ocupam a metade inferior, sobre uma faixa vermelha que pede comentários.",
+  "por_que_funciona": [
+    "O título central em branco identifica o público e o tema dos cursos.",
+    "O ícone de igreja com crianças antecipa o contexto de atuação.",
+    "As três apresentadoras dão presença humana à oferta.",
+    "A faixa vermelha destaca a ação solicitada nos comentários."
+  ],
+  "quando_usar": "Divulgar uma plataforma de formação para pais e líderes, usando comentários para iniciar o contato.",
+  "estrutura_texto": "CURSOS PARA [PÚBLICO OU ÁREA]\nDIVERSOS CONTEÚDOS POR\n[VALOR E CONDIÇÃO NO CARTÃO]\n[OUTRA CONDIÇÃO DE PAGAMENTO]\nESCREVA “[PALAVRA]” NOS COMENTÁRIOS.",
+  "legenda": "Conheça a plataforma de cursos para [público], com aulas online para assistir no seu ritmo pelo [canal de acesso]. Consulte [cursos incluídos], [materiais disponíveis] e condições de matrícula. Escreva “[palavra]” nos comentários para receber informações.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja uniforme, ícone temático pequeno no topo, título branco central em caixa alta e condições comerciais menores logo abaixo. Na metade inferior, organize retratos recortados de apresentadores autorizados. Sobreponha faixa vermelha na base com CTA para comentar. Informe de forma legível periodicidade, número de parcelas e total de cada condição de pagamento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "453733090541293",
+    "anunciante": "Academia Kids",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-05-13",
+    "dias_no_ar": 915,
+    "variacoes_ativas": 1,
+    "texto_original": "A Academia Kids é uma plataforma 100% online, a plataforma vai disponibilizar cursos voltados ao Ministério Infantil, destinado a Pais e Líderes onde você vai acessar no site ou Aplicativo a qualquer hora e lugar, no seu ritmo! E aqui você terá algumas vantagens como:\n\n✅ Ao se matricular, você terá acesso a TODOS OS CURSOS DISPONÍVEIS e aos demais que forem sendo lançados.\n\n✅ Tem Apostilas em PDF para você acompanhar as aulas e também recursos Didáticos para você apresentar aos Alunos.\n\n✅ Cada curso tem seu certificado individualmente.\n\n✅ Suporte técnico aos alunos\n\n✅ Estude onde e quando quiser e muito mais...\n\nEntão se você deseja ter acesso a todo esse conteúdo que irá mudar o seu dia a dia com as crianças, digite EU QUERO nos comentários!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-453733090541293.jpg"
+}

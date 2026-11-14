@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-4270324599849133",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre cotas com palavra em faixa de papel",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma pergunta sobre a classificação racial em concursos ocupa a esquerda. À direita, um homem de braços cruzados aparece recortado com contorno branco, sobre fundo claro e faixas azuis.",
+  "por_que_funciona": [
+    "A palavra central em branco sobre papel azul rasgado concentra a leitura na dúvida da peça.",
+    "A pergunta grande situa o tema antes do texto de apoio.",
+    "O recorte com contorno branco separa o retrato do fundo.",
+    "Os pontos no rodapé sinalizam continuidade em carrossel."
+  ],
+  "quando_usar": "Para abrir conteúdo educativo sobre dúvidas de candidatos e encaminhar a uma explicação mais detalhada.",
+  "estrutura_texto": "O QUE É [TERMO OU CONDIÇÃO] EM [CONTEXTO]?\nEssa é uma das maiores dúvidas sobre [TEMA].",
+  "legenda": "Como [TERMO] é tratado em [PROCESSO]? Entenda os critérios previstos em [NORMA APLICÁVEL] e como acompanhar [PROCEDIMENTO]. Siga [PERFIL] para mais explicações.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco texturizado, pergunta em letras condensadas azul-escuras à esquerda e palavra principal em branco numa faixa azul de papel rasgado. Posicione o elemento humano da IMAGEM 2 à direita com contorno branco. Acrescente faixa azul inferior com uma frase de apoio e pequenos indicadores de carrossel. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": "Ao abordar raça ou etnia, não atribua essa característica ao leitor nem solicite autodeclaração no anúncio. Trate cotas de forma informativa e evite garantir decisões de banca ou resultados jurídicos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4270324599849133",
+    "anunciante": "Advogado de concurso",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "Ser “pardo” em concurso público não é sobre opinião da banca, é sobre o que diz a lei.\n\nMas na prática nem sempre funciona assim. 👀\n\nClassificações que não existem na lei, critérios subjetivos e decisões diferentes de uma banca pra outra podem colocar seu direito em risco.\n\nSe você já passou por isso (ou tem dúvida sobre cotas), fica de olho e segue o perfil!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-4270324599849133.jpg"
+}

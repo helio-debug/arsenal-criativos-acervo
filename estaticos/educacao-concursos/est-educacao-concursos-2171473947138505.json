@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2171473947138505",
+  "tipo": "estatico",
+  "titulo": "Intercâmbio com foto de experiência e pacote resumido",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher com mochila caminha em cenário turístico, ocupando a maior parte da arte. Uma faixa vermelha no topo apresenta destino e idade; na base, outra reúne as inclusões ao lado da marca e acima do botão.",
+  "por_que_funciona": [
+    "A faixa vermelha destaca destino e idade sobre o céu claro.",
+    "A pessoa caminhando com mochila representa uma situação de viagem.",
+    "Os pontos turísticos ao fundo tornam o destino reconhecível.",
+    "O bloco inferior resume quatro informações práticas do programa antes do botão."
+  ],
+  "quando_usar": "Para anunciar programas de intercâmbio a adultos que avaliam destino, duração e serviços incluídos.",
+  "estrutura_texto": "INTERCÂMBIO [DESTINO] [FAIXA ETÁRIA]\nPrograma para [PÚBLICO] que busca [EXPERIÊNCIA]\n[DURAÇÃO] de curso de [IDIOMA]\n[DURAÇÃO] de acomodação\n[SUPORTE]\nEmbarque até [DATA]\n[MARCA]\n[CTA]",
+  "legenda": "Viva uma experiência de intercâmbio em [DESTINO], com [DURAÇÃO] de curso de [IDIOMA], acomodação e [SUPORTE]. Conheça o programa para [PÚBLICO] e confira datas de embarque e condições em [CANAL].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de participante adulta com mochila caminhando num cenário de viagem coerente com meu produto. Não replique a pessoa nem o ponto turístico exato. Reserve topo com faixa vermelha, título branco em caixa alta e subtítulo branco curto. Deixe a fotografia dominar o centro e coloque na base um painel vermelho com lista de inclusões, área branca para marca própria e botão azul escuro abaixo. Informe apenas duração, suporte e prazo fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2171473947138505",
+    "anunciante": "ICGroup - Education",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "Londres está chamando! 🇬🇧 Realize seu sonho de intercâmbio com quem entende de segurança e experiência.\nViver em Londres é mais do que aprender um idioma, é sobre a transformação pessoal que a imersão cultural proporciona. Seja para destravar seu inglês ou viver uma aventura inesquecível, a IC Group cuida de cada detalhe para você.\nO que está incluso no seu pacote promocional:\n🚀 4 semanas de curso de inglês geral.\n🏠 4 semanas de acomodação garantida.\n🙌 Suporte presencial 5 estrelas da nossa equipe local.\n📅 Planejamento: Embarque quando quiser até dezembro de 2027.\nPreço e Facilidade:\n💳 Pagamento em até 18x (sem cartão).\nNão deixe para depois. Somos especialistas com 15 anos de mercado e milhares de vidas transformadas.\n⚠️ Vagas promocionais limitadas!\n👉 Clique em SAIBA MAIS e garanta sua vaga com valores promocionais.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2171473947138505.jpg"
+}

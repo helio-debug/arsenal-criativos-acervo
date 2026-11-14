@@ -1,0 +1,38 @@
+{
+  "id": "est-seguros-1744741443249106",
+  "tipo": "estatico",
+  "titulo": "Memória afetiva do futebol em campanha institucional",
+  "formato": "novo:Cena cotidiana com chamada",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Adulto e criança comemoram juntos em uma arquibancada. Um bloco vermelho de patrocínio no topo e uma chamada branca na base associam futebol a lembranças duradouras.",
+  "por_que_funciona": [
+    "A comemoração compartilhada pelo adulto e pela criança dá forma à ideia de lembrança.",
+    "O enquadramento próximo enfatiza expressões e gestos da torcida.",
+    "A primeira linha em negrito destaca a referência aos 90 minutos.",
+    "O bloco vermelho no topo torna a associação de patrocínio visível."
+  ],
+  "quando_usar": "Para campanhas institucionais de seguros vinculadas a patrocínio esportivo autorizado.",
+  "estrutura_texto": "[Evento patrocinado] | [Marca]\n[Status de patrocínio]\nMais que [duração do evento]:\n[Benefício emocional ligado à lembrança]",
+  "legenda": "Em [evento esportivo], há momentos que continuam na memória depois do apito final. [Marca] acompanha essa paixão como [vínculo autorizado]. Qual [jogo ou momento] ficou na sua lembrança? Conte nos comentários.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fotografia de adulto e criança comemorando em arquibancada, com enquadramento próximo e cores vivas. Reserve bloco vermelho arredondado no alto à direita para identidade própria e informação de patrocínio apenas se autorizada. Aplique sombra na base e chamada branca com primeira linha em negrito e complemento leve. Não reproduza uniformes, escudos ou marcas da referência.",
+  "alerta_politica": "Em anúncios de seguro, apresente coberturas, exclusões, elegibilidade e condições de contratação com clareza. Não prometa proteção irrestrita ou indenização garantida; mantenha informações regulatórias e condições da oferta legíveis. Use marcas esportivas e alegações de patrocínio apenas com autorização e vínculo comprovado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1744741443249106",
+    "anunciante": "MAPFRE",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 1,
+    "texto_original": "Na CONMEBOL Libertadores, os momentos mais marcantes não estão só nas vitórias, mas nas lembranças que o tempo não apaga.\n\nA Mapfre está ao seu lado para acompanhar cada instante dessa paixão chamada futebol. \n\nQual foi o jogo inesquecível da sua vida de torcedor? Deixe nos comentários.\n \n#MapfreBrasil #Libertadores #Futebol #MapfrexLibertadores",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/seguros/est-seguros-1744741443249106.jpg",
+  "formato_novo_def": "Fotografia encenada de uma situação cotidiana, com chamada sobreposta que liga a cena a uma solução ou mensagem de marca."
+}

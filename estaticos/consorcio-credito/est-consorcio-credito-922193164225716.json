@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-922193164225716",
+  "tipo": "estatico",
+  "titulo": "Pix parcelado com limite destacado na tela",
+  "formato": "Print de tela",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo verde-escuro com chamada de Pix parcelado no alto e interface de aplicativo no centro. Um cartão branco destaca limite e bônus, com lojas parceiras abaixo e botão de download na base.",
+  "por_que_funciona": [
+    "A chamada em verde e branco apresenta a modalidade e a dispensa de cartão no topo.",
+    "O cartão branco sobreposto destaca o valor do limite no fundo escuro.",
+    "A tela com campo de código Pix mostra uma etapa de uso do serviço.",
+    "O botão isolado na parte inferior direciona para baixar o aplicativo."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de parcelamento a quem procura entender como usar crédito em compras via Pix.",
+  "estrutura_texto": "[marca]\nPIX PARCELADO\nSEM CARTÃO DE CRÉDITO\n[saudação]\nAproveite seu limite\n[valor ilustrativo]\n[bônus e condições]\n[campo para código Pix]\n[lojas parceiras]\n[ressalva de análise]\nBAIXE O APP",
+  "legenda": "Parcele compras via Pix sem cartão de crédito com [solução]. Pague [condição da primeira parcela] e o restante em [condições]. Baixe em [destino] e consulte limite, taxas e elegibilidade. Sujeito à análise de crédito.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde-escuro, título superior alinhado à esquerda e uma tela vertical de aplicativo no centro. Sobreponha cartão branco com limite ilustrativo e campo Pix; abaixo, mostre área de parceiros autorizados. Reserve a base para botão contornado de download e texto legível de análise de crédito. Não reproduza dados pessoais, marcas de parceiros ou contagem regressiva sem autorização e fundamento.",
+  "alerta_politica": "Meta: publicidade de crédito deve informar critérios de elegibilidade, análise, juros, CET e condições do parcelamento conforme aplicáveis. Não garantir aprovação ou limite imediato para todas as pessoas; valores ilustrativos e bônus precisam de condições claras.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "922193164225716",
+    "anunciante": "Koin Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 2,
+    "texto_original": "Pix Parcelado Sem Cartão Nunca Foi Tão Fácil. A 1ª Parcela Na Hora e o Restante Depois\nLimite Extra na hora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-922193164225716.jpg"
+}

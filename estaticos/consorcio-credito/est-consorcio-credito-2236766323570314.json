@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-2236766323570314",
+  "tipo": "estatico",
+  "titulo": "Veículo em movimento com modelo gigante e detalhe interno",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Um sedã em uma estrada ocupa quase toda a peça. Nome e ano aparecem no topo, e uma faixa inferior reúne uma descrição de design e uma foto do painel com moldura amarela.",
+  "por_que_funciona": [
+    "O nome grande e o ano amarelo identificam rapidamente o veículo anunciado.",
+    "A foto em movimento permite ver o perfil e a frente do carro na mesma composição.",
+    "O recorte do interior acrescenta uma segunda perspectiva sem reduzir o destaque externo.",
+    "A identificação de plano de consórcio esclarece a modalidade junto ao título."
+  ],
+  "quando_usar": "Para despertar interesse por um modelo específico de veículo antes de apresentar cotas e condições do consórcio.",
+  "estrutura_texto": "[Modelo do veículo]\n[Ano]\nPlano de consórcio\n[Atributo de design]\n[Descrição breve]\n[Detalhe do interior]",
+  "legenda": "Conheça o consórcio para [modelo de veículo] e consulte planos com [condição de parcela, se disponível]. Simule valores e confira taxas, reajustes e regras de contemplação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Destaque o veículo da IMAGEM 2 em uma estrada, em enquadramento de três quartos. Use nome em branco muito grande no topo e ano em amarelo. Acrescente identificação de consórcio, base escura com descrição curta e pequena imagem de detalhe do interior em moldura amarela. Não reproduza marcas do veículo de referência. Adapte os textos aos dados de MEU PRODUTO, sem inventar ofertas. Não prometa aprovação ou contemplação garantida.",
+  "alerta_politica": "Na Meta, evite prometer contemplação imediata ou aprovação garantida. Informe que é consórcio, sujeito a contemplação por sorteio ou lance, e esclareça taxa de administração, reajustes, prazo e condições da parcela reduzida. Alegações de economia e descontos precisam de comprovação e base de comparação clara.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2236766323570314",
+    "anunciante": "Consórcio Chevrolet Federalle",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 3,
+    "texto_original": "Não quer pagar juros absurdos no financiamento do seu carro? 🚗\n\nAtravés do consórcio, você paga parcelas até 25% menores até a contemplação! \n\n✅ Sem juros!\n✅ Sem entrada!\n\nSimule agora e descubra quanto você pode economizar. 👇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-2236766323570314.jpg"
+}

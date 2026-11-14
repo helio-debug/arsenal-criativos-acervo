@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1562746468564758",
+  "tipo": "estatico",
+  "titulo": "Vestibular com nome do curso gigante e selo de avaliação",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo branco, o nome do curso aparece em letras verdes enormes atrás de um homem sentado com jaleco e estetoscópio. Um selo vermelho destaca uma avaliação, enquanto blocos laterais apresentam atributos e inscrições abertas.",
+  "por_que_funciona": [
+    "O nome do curso ocupa o topo e identifica a formação mesmo com parte das letras coberta pelo retrato.",
+    "O selo vermelho contrasta com o verde e destaca a alegação de avaliação.",
+    "O jaleco e o estetoscópio reforçam visualmente a área de formação.",
+    "Ano do vestibular e chamada de inscrições aparecem juntos, com ícone de calendário."
+  ],
+  "quando_usar": "Para divulgar inscrições de uma graduação e evidenciar uma avaliação institucional verificável.",
+  "estrutura_texto": "[CHAMADA INSTITUCIONAL]\n[CURSO]\n[SELO COM RESULTADO E RECORTE DA AVALIAÇÃO]\n[PROPOSTA DA FORMAÇÃO]\nVESTIBULAR [ANO]\n[SITE]\nINSCRIÇÕES ABERTAS!\n[DIFERENCIAL 1]\n[DIFERENCIAL 2]\n[DIFERENCIAL 3]\n[ASSINATURA]",
+  "legenda": "Estão abertas as inscrições para o vestibular de [CURSO] em [ANO]. Conheça [INSTITUIÇÃO], sua proposta de formação e o resultado em [AVALIAÇÃO, EDIÇÃO E RECORTE]. Consulte edital e inscrições em [LINK].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, nome do curso em verde-petróleo com letras gigantes quebradas em duas linhas no topo e pessoa da IMAGEM 2 sentada ao centro, sobrepondo o título. Posicione à esquerda um selo próprio com dado comprovável e três diferenciais com ícones; à direita, frase de apoio, ano do processo seletivo, site e chamada de inscrições. Reserve o canto inferior direito para assinatura própria. Não invente certificações nem resultados. Use apenas informações fornecidas em MEU PRODUTO; adapte os textos e não invente benefícios, preços ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1562746468564758",
+    "anunciante": "Uni Souza Marques",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-11",
+    "dias_no_ar": 95,
+    "variacoes_ativas": 1,
+    "texto_original": "NOSSO LEGADO, SEU LEGADO.\nHá gerações, o Centro Universitário Souza Marques forma médicos e ajuda a construir histórias na Medicina.\nIsso continua sendo reconhecido pelos nossos resultados. A Medicina Souza Marques conquistou o melhor conceito entre os cursos particulares do Rio de Janeiro no ENAMED.\nAgora, esse legado pode ser o seu legado.\nEstão abertas as inscrições para o Vestibular de Medicina 2027.\n\nUniSM - Centro Universitário Souza Marques\nSua melhor Conclusão!\nMelhor do Rio em Medicina, nosso legado, seu legado.\nNOSSO LEGADO, SEU LEGADO. Há gerações, o Centro Universitário Souza Marques forma médicos e ajuda a construir histórias na Medicina. Isso continua sendo reconhecido pelos nossos resultados. A Medicina Souza Marques conquistou o melhor conceito entre os cursos particulares do Rio de Janeiro no ...\nInscrever-se agora",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1562746468564758.jpg"
+}

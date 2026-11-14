@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-1207715141363945",
+  "tipo": "estatico",
+  "titulo": "Casa completa com parcela em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de cozinha planejada com texto branco centralizado. O preço parcelado ocupa o centro e um quadro inferior reúne garantia, prazo para começar a pagar e entrega.",
+  "por_que_funciona": [
+    "O título grande informa que a oferta abrange a casa completa.",
+    "A quantidade de ambientes delimita o pacote anunciado.",
+    "O valor da parcela recebe o maior peso tipográfico na região central.",
+    "O quadro inferior agrupa condições que ajudam a avaliar a compra."
+  ],
+  "quando_usar": "Para campanhas de orçamento de móveis planejados com pacote e condições de pagamento definidos.",
+  "estrutura_texto": "[MARCA]\nCASA COMPLETA\n[MÓVEIS OU SOLUÇÃO]\n[QUANTIDADE] ambientes a partir de\n[NÚMERO]x R$ [PARCELA]\n[PRAZO] de garantia\n[PRAZO] para primeiro pagamento\n[CONDIÇÃO DE ENTREGA]\nConsulte o regulamento",
+  "legenda": "Renove [ambientes] com [solução] a partir de [número de parcelas]x de R$ [valor]. Conte com [garantia]. Solicite um orçamento e consulte as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de ambiente planejado como fundo, com escurecimento suave para texto branco. Centralize a marca no topo, o título em caixa alta e a quantidade de ambientes logo abaixo. Dê destaque máximo à parcela. Na base, crie um quadro de contorno fino com garantia, primeiro pagamento e entrega. Use apenas condições comprovadas e deixe o regulamento legível.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1207715141363945",
+    "anunciante": "Italínea Olinda",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-05",
+    "dias_no_ar": 588,
+    "variacoes_ativas": 1,
+    "texto_original": "Renove sua casa - Italínea Olinda\n\n✔Casa Completa a partir de 24x R$1.890,00\n✔Garantia de 5 anos\n\nClique no botão abaixo e saiba mais!\nSolicite um orçamento!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-1207715141363945.jpg"
+}

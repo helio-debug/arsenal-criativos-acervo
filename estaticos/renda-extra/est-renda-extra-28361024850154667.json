@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-28361024850154667",
+  "tipo": "estatico",
+  "titulo": "Receitas em garrafas com preço e botão de acesso",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Garrafas de bebidas com frutas sobre gelo ocupam o centro de um cenário de praia. A peça combina quantidade de receitas, preço destacado, benefícios e chamada de acesso.",
+  "por_que_funciona": [
+    "O número 150 ocupa o topo e explicita o volume de receitas.",
+    "As garrafas e frutas mostram os sabores e a apresentação sugerida.",
+    "O selo de R$ 10 permite avaliar o preço rapidamente.",
+    "A faixa amarela no rodapé destaca a ação de acesso."
+  ],
+  "quando_usar": "Para vender um guia de receitas a quem procura produzir bebidas para comercialização.",
+  "estrutura_texto": "[Quantidade] receitas de [produto] [característica]\nPara [uso comercial]\nApenas [preço]\n[Benefícios do material]\n[Acesse agora]",
+  "legenda": "Aprenda a preparar [produto] com o guia [nome]. Veja [tipos de receitas] e orientações de [conservação e apresentação]. Acesse por [preço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use azul tropical, rosa e amarelo. Coloque título grande no topo, selo circular de preço à direita e uma fileira central de produtos com ingredientes. Crie quatro blocos curtos de benefícios e uma faixa de CTA no rodapé. Use apenas benefícios comprováveis.",
+  "alerta_politica": "Meta: não prometer lucro ou renda garantidos. Se as receitas contiverem álcool, observar restrições de idade e segmentação aplicáveis à promoção de bebidas alcoólicas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28361024850154667",
+    "anunciante": "Ana Beatriz",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-21",
+    "dias_no_ar": 146,
+    "variacoes_ativas": 2,
+    "texto_original": "🍹 Fature Alto com Batidas na Garrafa!\n\nVocê quer ter uma renda extra com um produto de baixo custo e altíssima aceitação? As batidas na garrafa são a sensação do momento em festas, eventos e encomendas por delivery!\n\nCom o nosso guia de Batidas na Garrafa, você terá em mãos o segredo das misturas perfeitas:\n\n✅ Receitas clássicas, tropicais e gourmet.\n✅ Dicas de conservação e envase.\n✅ Combinações que viciam o paladar.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-28361024850154667.jpg"
+}

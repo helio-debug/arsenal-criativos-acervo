@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-1255789028381432",
+  "tipo": "estatico",
+  "titulo": "Convite ao site com vitrine no celular",
+  "formato": "Print de tela",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Chamada azul à esquerda convida a acessar o site. À direita, uma mão sustenta um celular com uma vitrine de produtos, sobre fundo branco com formas coloridas.",
+  "por_que_funciona": [
+    "O texto grande “Acesse Nosso Site” torna a ação imediatamente visível.",
+    "A tela do celular mostra categorias e produtos, antecipando a experiência de compra.",
+    "O fundo branco mantém a chamada e o aparelho separados visualmente."
+  ],
+  "quando_usar": "Para encaminhar pessoas que já conhecem a loja a uma vitrine de suplementos e itens de saúde.",
+  "estrutura_texto": "[@perfil]\nAcesse\nNosso\nSite\n[Print da vitrine com produtos]\n[Marca]",
+  "legenda": "Acesse [site] e confira [categorias de produtos]. Veja [informações dos produtos] e escolha pelo nosso site.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo branco com chamada azul-ciano grande à esquerda em três linhas. À direita, coloque um smartphone vertical sustentado por uma mão, exibindo uma vitrine fictícia coerente com o produto da IMAGEM 2, com busca, cards e preços fornecidos. Use formas arredondadas azul-claro e laranja no fundo inferior, perfil no topo e assinatura pequena no rodapé. Não reproduza dados de contato da referência.",
+  "alerta_politica": "Meta/ANVISA: usar apenas alegações autorizadas para o suplemento e compatíveis com o rótulo. Não prometer cura, prevenção de doenças ou resultado físico garantido; alegações de composição devem ser comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1255789028381432",
+    "anunciante": "Vitae Saúde",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-04-25",
+    "dias_no_ar": 1299,
+    "variacoes_ativas": 1,
+    "texto_original": "Acesse nosso site e compre",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1255789028381432.jpg"
+}

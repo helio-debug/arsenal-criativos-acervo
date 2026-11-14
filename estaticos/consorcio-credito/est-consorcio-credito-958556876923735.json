@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-958556876923735",
+  "tipo": "estatico",
+  "titulo": "Preço reduzido com taxas ao redor da maquininha",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Maquininha inclinada sobre fundo preto com brilho dourado. O preço ocupa o topo, enquanto cápsulas destacam taxas e uma faixa inferior reúne recebimento, frete e botão de compra.",
+  "por_que_funciona": [
+    "O preço grande em amarelo domina o topo e contrasta com o fundo preto.",
+    "A foto inclinada da maquininha ocupa o centro e identifica o produto.",
+    "As cápsulas junto ao aparelho destacam Pix e taxa de débito.",
+    "O botão amarelo encerra a peça logo abaixo do prazo de recebimento e do frete."
+  ],
+  "quando_usar": "Para vender uma solução de recebimento a comerciantes que já comparam preço de aquisição e taxas.",
+  "estrutura_texto": "DE [preço anterior] POR:\n[preço atual]\n[modalidade] com taxa: [taxa]\nTaxas a partir de: [taxa e modalidade]\nReceba tudo em [prazo]\nFrete [condição]\n[CTA]",
+  "legenda": "Receba suas vendas em [prazo], com taxas a partir de [taxa] e [condição do Pix]. A [solução] inclui [benefício da conta]. Aproveite [desconto] e [condição de frete]. Confira as condições em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com iluminação dourada inferior, preço anterior pequeno e riscado no topo e preço atual muito grande. Posicione o produto inclinado no centro, com duas cápsulas finas para taxas. Na base, crie um quadro dividido entre prazo e frete, seguido de botão amarelo arredondado. Use apenas taxas e condições comprovadas.",
+  "alerta_politica": "Meta: apresentar preço, taxas, prazo de recebimento e critérios com clareza, sem afirmar menores taxas sem comprovação. Informar condições, vigência e eventuais custos da solução financeira.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "958556876923735",
+    "anunciante": "InfinitePay",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-28",
+    "dias_no_ar": 200,
+    "variacoes_ativas": 9,
+    "texto_original": "Com a InfinitePay, você tem taxas a partir de 0,75%, Pix grátis e recebe seu dinheiro na hora ou em 1 dia útil. E ainda conta com uma conta digital gratuita!\n\nAproveite o desconto e o frete grátis para todo o Brasil! 🚀\nMáquina de cartão com as menores taxas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-958556876923735.jpg"
+}

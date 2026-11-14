@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-4416163301989466",
+  "tipo": "estatico",
+  "titulo": "Locação com duas fotos, atributos e preço mensal",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto da fachada ocupa o topo, com título sobre faixa verde; uma foto interna aparece em recorte arredondado à esquerda. A parte inferior reúne bairro, metragem, quartos, vaga e aluguel mensal.",
+  "por_que_funciona": [
+    "A combinação de fachada e interior mostra acesso e ambiente do imóvel na mesma peça.",
+    "O título “locação” informa imediatamente o tipo de negociação.",
+    "Ícones acompanham área, quartos e vaga, facilitando a leitura dos atributos.",
+    "O preço mensal em faixa verde e a ressalva de encargos permitem avaliar o custo anunciado."
+  ],
+  "quando_usar": "Para captar interessados em um imóvel específico para locação, com preço e características já definidos.",
+  "estrutura_texto": "Imóvel\n[NEGOCIAÇÃO]\n[CHAMADA]\n[TIPO DE IMÓVEL]\nBairro [BAIRRO]\n[ÁREA] m² | [QUARTOS] quartos | [VAGAS] vaga(s)\nValor da locação R$ [VALOR]/mês\n[ENCARGOS ADICIONAIS]\n[SITE] | [MARCA] | [CONTATO]",
+  "legenda": "Apartamento para alugar em [bairro], com [quartos] quartos e [vagas] vaga(s). São [área] m² por R$ [valor]/mês, mais [encargos]. Entre em contato para consultar condições e agendar uma visita.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte duas áreas fotográficas usando apenas imagens fornecidas do imóvel: fachada no topo e interior em recorte com cantos arredondados à esquerda. Use verde e fundo cinza muito claro. Destaque a negociação no alto, o bairro à direita, uma linha de ícones com os atributos abaixo e o preço mensal em faixa arredondada verde escura. Informe encargos em texto legível e reserve rodapé para a marca e o contato próprios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4416163301989466",
+    "anunciante": "Flety",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-20",
+    "dias_no_ar": 239,
+    "variacoes_ativas": 1,
+    "texto_original": "Dois quartos\nUma vaga de garagem\nBairro Presidente Médici",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-4416163301989466.jpg"
+}

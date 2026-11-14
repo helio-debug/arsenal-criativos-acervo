@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3409235885908333",
+  "tipo": "estatico",
+  "titulo": "Curso com tipografia monumental e escultura geométrica",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Composição em preto e branco com título enorme alinhado à esquerda e chamada de inscrições abertas. Uma escultura de linhas geométricas ocupa a metade inferior, acompanhada de uma sombra suave.",
+  "por_que_funciona": [
+    "O título em três linhas grandes torna o tema reconhecível rapidamente.",
+    "A chamada de inscrições abertas separa a abertura de turma da apresentação do curso.",
+    "A frase sobre projeto próprio explicita uma entrega do aprendizado.",
+    "A escultura geométrica conecta o visual ao campo da arte sem competir em cores com o texto."
+  ],
+  "quando_usar": "Para anunciar abertura de turma de cursos criativos com projeto final e acompanhamento.",
+  "estrutura_texto": "CURSO [ÁREA]\nINSCRIÇÕES ABERTAS\nDA TEORIA A [ENTREGA PRÁTICA]\n[MODALIDADE] · [ACOMPANHAMENTO] · [CERTIFICAÇÃO]",
+  "legenda": "Organize seus estudos em [área] com uma formação que vai de [fundamentos] a [projeto próprio]. O curso oferece [modalidade], [acompanhamento] e [certificação]. Consulte o programa e as inscrições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e tipografia preta sem serifa, pesada e muito grande, alinhada à esquerda no topo. Abaixo, organize chamada de inscrições, entrega prática e recursos em três linhas de hierarquia decrescente. Na metade inferior, use o elemento da IMAGEM 2 com tratamento monocromático e sombra discreta; se adequado ao produto, traduza sua silhueta em uma composição de linhas geométricas. Preserve bastante espaço livre.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3409235885908333",
+    "anunciante": "momboart",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-28",
+    "dias_no_ar": 170,
+    "variacoes_ativas": 1,
+    "texto_original": "🌀 Hay algo que pasa cuando descubres que te apasiona el arte pero no sabes cómo convertir esa pasión en algo profesional.\n\nEmpiezas a consumir contenido. Lees. Ves documentales. Visitas exposiciones. Sigues cuentas de galerías y museos. Y aprendes mucho… pero de forma desordenada.\n\nNo tienes estructura. No tienes criterio profesional. No tienes algo que te permita decir: \"\"Sé lo que hago y puedo demostrarlo.\"\"\n\nY eso te frustra. Porque sabes que podrías, pero no sabes cómo.\n\nEl Curso de Curador de Arte de Mombó Art Gallery existe para resolver exactamente eso.\n\nNo es un curso de apreciación artística. Es formación profesional en curaduría: cómo elaborar un proyecto curatorial, cómo trabajar con artistas, cómo contactar museos, cómo producir una exposición.\n\nCon estructura. Con acompañamiento. Con un proyecto final que te obliga a aplicar todo lo aprendido.\n\n📋 5 módulos · Tutor personalizado · Certificado oficial\n🌐 100% online · Desde cualquier país · 30 días\n💰 150 € · Pago único\n\n⚠️ Convocatoria abierta. Plazas limitadas.\n\n👉 momboartgallery.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3409235885908333.jpg"
+}

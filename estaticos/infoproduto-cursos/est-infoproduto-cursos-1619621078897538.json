@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1619621078897538",
+  "tipo": "estatico",
+  "titulo": "Curso de pintura com instrutor e pistola em primeiro plano",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça de curso de pintura automotiva em fundo preto e verde, com chamada de inscrições no topo. Na metade inferior, um homem segura uma pistola de pintura em direção à câmera.",
+  "por_que_funciona": [
+    "O selo verde-claro no topo destaca que as inscrições estão abertas.",
+    "A palavra “PINTURA” em letras grandes identifica o tema antes dos demais detalhes.",
+    "A pistola de pintura ampliada no primeiro plano demonstra a ferramenta ligada ao curso.",
+    "A frase “Do iniciante ao profissional” explicita a progressão proposta pelo conteúdo."
+  ],
+  "quando_usar": "Para divulgar inscrições de curso técnico a quem busca aprender ou aperfeiçoar uma habilidade prática; use prazo e bônus apenas quando forem reais.",
+  "estrutura_texto": "[Inscrições abertas]\n[Área técnica em destaque]\n[Especialidade em letra cursiva]\n[Do nível inicial ao nível pretendido]\n[Instrutor com ferramenta da atividade]",
+  "legenda": "Últimos dias para garantir [bônus disponíveis] na inscrição de [curso]. Aprenda [habilidade] com [conteúdos e suporte oferecidos]. Confira [prazo], [condições de acesso] e todos os detalhes em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Use fundo preto com iluminação verde nas bordas, pequeno selo verde-claro de [inscrições abertas] no alto, título enorme verde com textura de pincel para [área técnica], subtítulo branco cursivo para [especialidade] e uma linha branca legível com [nível do curso]. Posicione na metade inferior o produto ou representante fornecido na IMAGEM 2, com a ferramenta da atividade em primeiro plano quando disponível na foto. Preserve a identidade real da pessoa fornecida e não invente credenciais. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1619621078897538",
+    "anunciante": "Pintura automotiva passo a passo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-10-08",
+    "dias_no_ar": 767,
+    "variacoes_ativas": 1,
+    "texto_original": "Últimos dias para garantir os três bônus exclusivos que liberei para você.\n\nOs bônus são:\n\n➡️ Verniz Espelhado \n➡️Grupo Vip de alunos para dúvidas\n➡️ Acesso vitalício ou seja a vida toda pra assistir o curso.\n\nClica em Saiba mais que te explico melhor na apresentação.\nInscrições Aberta",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1619621078897538.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1655350515556633",
+  "tipo": "estatico",
+  "titulo": "Crédito com prazo em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo vermelho com chamada branca sobre crédito e prazo de pagamento. Um símbolo tridimensional ocupa a metade inferior, enquanto a orientação de simulação fica abaixo do título.",
+  "por_que_funciona": [
+    "O prazo de até 72 meses aparece em negrito junto da promessa principal.",
+    "O texto branco contrasta com o fundo vermelho e mantém a leitura no celular.",
+    "A orientação de simular no aplicativo apresenta um próximo passo direto."
+  ],
+  "quando_usar": "Para divulgar simulação de empréstimo a quem já está comparando prazos e canais de contratação.",
+  "estrutura_texto": "[Marca]\n[Benefício de acesso ao crédito] com até [prazo] para pagar\nEscolha [opção] e simule no [canal].",
+  "legenda": "Simule seu [tipo de empréstimo] pelo [canal] e confira [prazos disponíveis]. Contratação sujeita a [análise e condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo monocromático intenso, título branco grande no terço superior, subtítulo curto e um elemento tridimensional relacionado ao serviço na metade inferior. Destaque o prazo aprovado e a ação de simulação. Reserve espaço legível para condições.",
+  "alerta_politica": "Meta: anúncios de crédito devem observar as restrições aplicáveis a produtos financeiros e à segmentação. Não prometer aprovação ou liberação garantida; informar condições, taxas, CET e análise de crédito de forma clara.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1655350515556633",
+    "anunciante": "bradesco",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-20",
+    "dias_no_ar": 117,
+    "variacoes_ativas": 2,
+    "texto_original": "Simule e contrate seu empréstimo direto no app com rapidez e facilidade!\nCrédito na hora no app",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1655350515556633.jpg"
+}

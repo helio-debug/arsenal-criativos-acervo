@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1713716749961468",
+  "tipo": "estatico",
+  "titulo": "Primeira turma com matrícula sem taxa",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Dois retratos masculinos nas laterais enquadram uma chamada central para a primeira turma de uma pós-graduação. Fundo branco, selos no topo e destaques em azul organizam a oferta.",
+  "por_que_funciona": [
+    "A faixa de taxa zero aparece acima do título e apresenta a condição comercial logo no início.",
+    "O título preto em letras grandes dá prioridade à abertura da turma.",
+    "O ano em azul diferencia a edição anunciada.",
+    "Os retratos laterais deixam a coluna central livre para curso e chamada."
+  ],
+  "quando_usar": "Para abrir matrículas de uma turma de especialização com condição comercial verificável.",
+  "estrutura_texto": "[SELOS INSTITUCIONAIS]\n[TAXA DE MATRÍCULA]\nPRIMEIRA TURMA [ANO]\nCondições especiais para inscritos na [PÓS-GRADUAÇÃO] em [ÁREA].\nAperte em [BOTÃO] e confira os detalhes.",
+  "legenda": "Inscrições para a turma [ano] da pós-graduação em [área]. Curso [modalidade], com [carga horária] e duração de [prazo]. Confira a condição de matrícula e os requisitos em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com textura discreta, dois retratos nas bordas laterais e coluna de texto central. Coloque selos autorizados no topo, uma cápsula com a condição de matrícula, título preto muito grande e ano em azul. Finalize com a área de estudo em azul e CTA menor.",
+  "alerta_politica": "Por envolver formação em saúde, evite promessas de resultados clínicos ou habilitação automática. Informe requisitos profissionais e use alegações de reconhecimento e certificação apenas quando comprovadas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1713716749961468",
+    "anunciante": "Prof. Dr. Thiago Fukuda com Prof. Dr. Amir Curcio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 2,
+    "texto_original": "[ÚLTIMOS DIAS] 🚀 Pós-graduação em Fisioterapia Traumato-Ortopédica de Resultados\n\nPara fisioterapeutas formados que querem mais segurança clínica e autonomia no tratamento\n\n💻 Curso 100% online • Reconhecido pelo MEC • Faculdade Anhanguera\n\n📚 12 meses | 560h | 14 módulos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1713716749961468.jpg"
+}

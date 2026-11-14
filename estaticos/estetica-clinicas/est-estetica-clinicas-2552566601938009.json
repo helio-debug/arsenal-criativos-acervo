@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-2552566601938009",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre indicação de implante com modelo dentário",
+  "formato": "Alerta e educação",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Arte branca com pergunta em azul e turquesa, modelo tridimensional de arcada com implantes e chamada para ler a legenda. Ondas nas mesmas cores fecham o rodapé.",
+  "por_que_funciona": [
+    "A palavra IMPLANTE em caixa alta identifica o assunto no topo.",
+    "O modelo de arcada expõe parafusos e a posição das próteses.",
+    "A localização acima do botão aproxima a mensagem de quem busca atendimento na região.",
+    "O botão Leia a legenda direciona a leitura para a explicação."
+  ],
+  "quando_usar": "Para clínicas odontológicas explicarem indicações e conduzirem interessados a uma avaliação.",
+  "estrutura_texto": "Quando indicamos [procedimento]?\nNa [região]\nLeia a legenda",
+  "legenda": "O [procedimento] pode ser uma opção em casos de [indicação geral]. A indicação depende de avaliação individual. Atendemos em [região]. Fale com [equipe] para conhecer as etapas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, pergunta curta no topo em turquesa e palavra principal grande em azul-marinho. Centralize um modelo didático do procedimento baseado no produto da IMAGEM 2, com sombra suave. Abaixo, inclua [região] e botão Leia a legenda. Finalize com ondas azuis. Evite simular resultado clínico.",
+  "alerta_politica": "Meta: evitar atribuir ao leitor uma condição de saúde ou gerar insegurança com a aparência. Publicidade odontológica deve seguir o CFO, identificar o profissional responsável e não garantir resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2552566601938009",
+    "anunciante": "Odonto Sensi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-18",
+    "dias_no_ar": 180,
+    "variacoes_ativas": 1,
+    "texto_original": "🦷 Quando indicamos o implante dentário?\nQuando sorrir deixa de ser algo natural...\nQuando mastigar começa a causar desconforto...\nOu quando a ausência de um dente começa a afetar sua autoestima, sua fala ou sua qualidade de vida.\n\nO implante é indicado para quem perdeu um ou mais dentes e deseja uma solução fixa, segura e duradoura.\nMais do que estética, ele devolve confiança, funcionalidade e bem-estar.\n\n📍Estamos na Zona Norte, na Rua Carolina Meier, 27\n💬 Quer saber se o implante é indicado pra você?\nFale agora com nosso time comercial pelo WhatsApp e tire todas as suas dúvidas sem compromisso.\nFale agora conosco!\nOdonto Sensi - Implantes Dentários!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-2552566601938009.jpg"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "est-infoproduto-cursos-1633323298009904",
+  "tipo": "estatico",
+  "titulo": "Diálogo sobre o sonho de aprender um idioma",
+  "formato": "novo:Diálogo sobre foto",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de duas pessoas em ambiente urbano com tratamento escuro e granulado. Na metade inferior, uma observação em branco é seguida por uma resposta em caixa branca com texto vermelho.",
+  "por_que_funciona": [
+    "O olhar entre as pessoas sustenta a leitura de uma conversa.",
+    "A frase grande em branco funciona como abertura curta.",
+    "A caixa branca separa visualmente a resposta em vermelho.",
+    "O destaque em negrito concentra a atenção na realização do sonho."
+  ],
+  "quando_usar": "Para despertar interesse em aulas de idiomas por meio de uma cena cotidiana e uma motivação pessoal.",
+  "estrutura_texto": "[MARCA]\n>>>\nVocê parece [ESTADO POSITIVO].\nSim! Estou [REALIZANDO OBJETIVO] de aprender [IDIOMA].",
+  "legenda": "Comece a aprender [idioma] do zero com [abordagem de ensino]. Acompanhe [perfil] para ver [tipo de conteúdo] e dar os primeiros passos no estudo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de duas pessoas interagindo, com granulação e escurecimento na parte inferior. Aproveite a IMAGEM 2 como referência do produto ou de seus protagonistas autorizados. Marca pequena no topo, abertura de diálogo em branco grande na metade inferior e resposta em vermelho dentro de retângulo branco, com trecho central em negrito. Não use interface, balões ou elementos de aplicativo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1633323298009904",
+    "anunciante": "Irmãos Mandarim",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-16",
+    "dias_no_ar": 243,
+    "variacoes_ativas": 1,
+    "texto_original": "🇨🇳 Aprender Mandarim te deixará mais feliz!\n⠀⠀⠀⠀⠀⠀⠀⠀\n✅ Siga os @irmaosmandarim para começar a aprender Mandarim do zero e de forma simples!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1633323298009904.jpg",
+  "formato_novo_def": "Fotografia de uma cena com duas falas sobrepostas, diferenciadas por cor e caixa de texto, sem interface de aplicativo."
+}

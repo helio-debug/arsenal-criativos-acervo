@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1745152530154097",
+  "tipo": "estatico",
+  "titulo": "Chamada numerada sobre cuidados na amamentação",
+  "formato": "Alerta e educação",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul claro com título rosa grande anunciando três dicas e texto preto sobre fissuras. Ilustração de uma mulher amamentando ocupa a metade inferior, ao lado de uma mesa com itens de cuidado.",
+  "por_que_funciona": [
+    "O numeral e a expressão em rosa dominam o topo e anunciam uma leitura curta.",
+    "O texto preto à direita explicita o tema de saúde abordado.",
+    "A ilustração de amamentação situa o assunto sem mostrar lesões.",
+    "O fundo azul claro mantém contraste com o título e com a personagem."
+  ],
+  "quando_usar": "Como capa de conteúdo educativo com orientações revisadas por profissional de saúde.",
+  "estrutura_texto": "[Número] dicas\nessenciais para\n[objetivo de cuidado]\n[tema]",
+  "legenda": "Durante [fase], podem surgir dúvidas sobre [desconforto]. Veja [número] orientações gerais de cuidado em [conteúdo]. Procure acompanhamento profissional para avaliar sintomas persistentes e definir a conduta adequada.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie capa educativa em fundo azul claro, título rosa muito grande no topo à esquerda e complemento preto alinhado à direita. Na metade inferior, use ilustração vetorial de uma pessoa amamentando sentada e mesa com itens genéricos de cuidado. Sem marcas e sem imagens de lesões. A IMAGEM 2 orienta apenas os itens relacionados ao meu produto; não represente o produto como tratamento comprovado. Não invente orientações clínicas.",
+  "alerta_politica": "Saúde: conteúdo educativo não substitui avaliação profissional. Não prometer prevenção ou alívio garantidos de fissuras nem atribuir tratamento a produto sem respaldo e autorização aplicável. Evitar afirmar que a leitora tem uma condição de saúde.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1745152530154097",
+    "anunciante": "Aqui Pela Saúde Dela",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-17",
+    "dias_no_ar": 58,
+    "variacoes_ativas": 2,
+    "texto_original": "Durante a amamentação, as fissuras e o ressecamento podem tornar esse momento tão esperado em algo desafiador. \n\nA boa notícia é que há formas de aliviar e prevenir. Neste post, reunimos orientações simples para você cuidar das mamas com mais conforto, respeitando seu tempo e seu corpo.\n\nLembre-se de que conversar com seu médico sobre o assunto é fundamental para analisar seu caso especificamente. \n\nProcure sempre a ajuda de profissionais e junte-se à sua rede de apoio para passar por esse período da forma mais tranquila possível.\n\n#Amamentação #AleitamentoMaterno #AgostoDourado #AquiPelaSaúdeDela",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1745152530154097.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-708913084873295",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre parcelas com caminho para portabilidade",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com área cinza superior e rodapé branco. Um ícone de mão com dinheiro antecede a pergunta em destaque; abaixo ficam benefício, canais e ressalva.",
+  "por_que_funciona": [
+    "A pergunta em letras grandes concentra a leitura na parcela do consignado.",
+    "O ícone de mão com dinheiro introduz o assunto antes do título.",
+    "O rodapé branco isola os canais de atendimento e a ressalva de análise."
+  ],
+  "quando_usar": "Para campanhas de portabilidade com canais de simulação já definidos.",
+  "estrutura_texto": "[Marca]\n[Ícone financeiro]\n[Pergunta sobre a modalidade de crédito]\n[Convite para simular condições]\n[Canal autorizado] ou [site]\n[Ressalva de análise]",
+  "legenda": "Conheça as condições de [portabilidade/refinanciamento] do [crédito]. Faça uma simulação em [canal] ou consulte [correspondentes autorizados]. Sujeito à análise e às condições disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça em bloco superior cinza escuro e rodapé branco. Use ícone linear financeiro, título branco grande alinhado à esquerda e apoio menor com filete lateral. No rodapé, centralize canais, ressalva legível e marca. Formule a chamada sem presumir dificuldade financeira do leitor.",
+  "alerta_politica": "Crédito: evitar afirmações sobre a situação financeira de quem vê o anúncio e promessas de aprovação, economia ou taxa garantidas. Informar condições, custos e sujeição à análise; conferir as regras da Meta para anúncios de produtos financeiros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "708913084873295",
+    "anunciante": "C6 Bank",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-14",
+    "dias_no_ar": 396,
+    "variacoes_ativas": 1,
+    "texto_original": "Refinancie seu consignado INSS com o C6 Consig e aproveite condições mais vantajosas (suj. análise).\n\nContrate também pelo Correspondente Autorizado, veja a lista no site www.c6consig.com.br\n\nLembre-se de realizar o desbloqueio do seu benefício para simulação do empréstimo consignado INSS\nEmpréstimo Consignado INSS\nRefinancie com economia",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-708913084873295.jpg"
+}

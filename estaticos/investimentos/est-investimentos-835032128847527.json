@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-835032128847527",
+  "tipo": "estatico",
+  "titulo": "Pergunta de rendimento com convite para simular",
+  "formato": "Interativo",
+  "nicho": "investimentos",
+  "tipo_solucao": "saas-app",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Bloco branco superior à esquerda concentra uma pergunta sobre rendimento e um convite para simular. Volumes geométricos cinza preenchem a faixa direita e a base esquerda.",
+  "por_que_funciona": [
+    "A pergunta inclui um valor concreto para tornar a simulação fácil de imaginar.",
+    "O texto escuro sobre branco mantém a pergunta como foco.",
+    "A chamada sublinhada aponta para a ação de simular.",
+    "Os blocos tridimensionais preenchem as bordas sem disputar com a leitura."
+  ],
+  "quando_usar": "Para divulgar um simulador financeiro a quem compara possibilidades de investimento.",
+  "estrutura_texto": "Quanto rendem [VALOR] investidos em [CATEGORIA]?\nDescubra com [FERRAMENTA].\n[CTA DE SIMULAÇÃO]",
+  "legenda": "Quanto [valor] pode render em [categoria]? Explore cenários no [simulador] com [premissas]. Os resultados são estimativas. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize uma área branca de texto no alto à esquerda, marca própria pequena acima, pergunta em fonte sem serifa grande e CTA sublinhado abaixo do apoio. Use volumes geométricos cinza em uma faixa direita e no quadrante inferior esquerdo; mantenha o inferior direito branco. Apresente a IMAGEM 2 como representação discreta da ferramenta quando pertinente. Não invente rendimentos.",
+  "alerta_politica": "Meta e normas aplicáveis da CVM: não prometer rentabilidade nem apresentar simulação como resultado garantido. Identificar premissas, data e riscos; rentabilidade passada não garante resultados futuros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "835032128847527",
+    "anunciante": "XP Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-31",
+    "dias_no_ar": 228,
+    "variacoes_ativas": 2,
+    "texto_original": "Quanto seu dinheiro pode render? Descubra em segundos com o Simulador XP.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-835032128847527.jpg"
+}

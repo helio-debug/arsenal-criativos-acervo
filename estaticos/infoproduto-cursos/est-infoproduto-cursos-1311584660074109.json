@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1311584660074109",
+  "tipo": "estatico",
+  "titulo": "Promoção de curso com cérebro e faixas de isolamento",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo escuro com cérebro central envolto em fitas amarelas de isolamento. Faixas amarelas inclinadas no topo e na base destacam promoção e preço reduzido.",
+  "por_que_funciona": [
+    "As faixas amarelas com bordas pretas remetem ao tema forense.",
+    "A ilustração do cérebro conecta visualmente o curso ao estudo da mente.",
+    "O título vermelho destaca o recorte temático sobre o fundo escuro.",
+    "O preço anterior e o atual na base tornam a oferta explícita."
+  ],
+  "quando_usar": "Para divulgar uma promoção real de formação em psicologia ou estudos forenses a interessados no conteúdo acadêmico.",
+  "estrutura_texto": "[Chamada promocional]\nCurso de [tema]\n[Subtema]\n[Informação de certificação]\nDe [preço anterior] por [preço atual]",
+  "legenda": "Curso de [tema] com aulas [modalidade], acesso [condição] e certificado de [carga horária]. Estude [conteúdos e tipos de caso]. De [preço anterior] por [preço atual], conforme [condições e prazo da oferta].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto e cinza, título alto em fonte condensada, primeira linha branca e subtema vermelho. Centralize uma ilustração temática envolta por fitas amarelas de isolamento. Coloque faixas amarelas inclinadas no alto e na base, com chamada promocional e preços em preto. Preserve margens para não encobrir informações de certificado.",
+  "alerta_politica": "Meta: evitar associar todo transtorno mental à criminalidade, atribuir condição de saúde ao leitor ou usar imagens chocantes. Apresentar o conteúdo como formação educacional, sem promessa de diagnóstico ou tratamento. O desconto deve corresponder aos preços reais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1311584660074109",
+    "anunciante": "Matheus O. Silva - Psicólogo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-02-20",
+    "dias_no_ar": 632,
+    "variacoes_ativas": 3,
+    "texto_original": "🚨 PROMOÇÃO RELÂMPAGO 80% OFF🚨\n\nCURSO DE EXTENSÃO DE PSICOPATOLOGIA FORENSE: TRANSTORNOS MENTAIS E CRIME.\n\nDe R$297,00 por R$67,00 🤯\n\n➡️ 100% ON-LINE E GRAVADO – ACESSO IMEDIATO!\n\n➡️ CERTIFICADO DE 25 HORAS!\n\n➡️COM ESTUDOS DE CASOS REAIS DE CADA UM DOS TRANSTORNOS ESTUDADOS!\n\n-Descubra quais são os transtornos mentais mais presentes em criminosos!\n\n-Aprenda a diferença entre Psicopatia, Sociopatia e Transtorno de Personalidade Antissocial!\n\n-Entenda a diferença entre transtornos de personalidade e transtornos psicóticos! \n\n-Saiba como é realizada a perícia psicológica forense e quais testes podem ser utilizados no Exame de Sanidade Mental!\n\nA presença de uma psicopatologia pode determinar se uma pessoa irá cometer um crime?\n\nO que você vai aprender no curso 👇:\n\nAULA 1: Psicopatia e Crime: Construto e critérios diagnósticos.\n\nAULA 2: Transtorno de Personalidade Antissocial e o Crime Perverso.\n\nAULA 3: Psicopatia X Sociopatia X Transtorno de Personalidade Antissocial.\n\nAULA 4:Transtorno de Personalidade Narcisista e o Crime do Ego.\n\nAULA 5:Transtorno de Personalidade Borderline e o Crime Passional.\n\nAULA 6:Transtorno de Personalidade Esquizotípica: o caso Jefrrey Dahmer.\n\nAULA 7:Transtornos Psicóticos e o Crime da Fantasia.\n\nAULA 8:Transtorno Bipolar e o Crime da Mania.\n\nAULA 9:Transtorno Dissociativo de Identidade e o Crime de Múltiplas Personalidades.\n\nAULA 10: Psicopatologia Forense Infantil: Transtorno Opositor Desafiante e o Transtorno de Conduta.\n\nAULA 11:Transtorno Pedofílico e o Crime Sexual.\n\nAULA 12: Transtorno do Espectro Autista e o Crime Atípico.\n\nAULA 14: TOC e o Crime Obssessivo-Compulsivo\n\nAULA 14:Avaliação Psicológica Clínica x Avaliação Psicológica Forense.\n\nAULA 15:Perícia Psicológica e o Exame de Sanidade Mental.\n\nSe inscreva! 👇 👇 👇\nLINK NA BIO",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1311584660074109.jpg"
+}

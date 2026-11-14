@@ -1,0 +1,95 @@
+{
+ "id": "vid-avaliacao-dialogada",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "emagrecimento-fitness",
+  "estetica-clinicas",
+  "saude"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Avaliação em dupla conecta situações a um plano de acompanhamento",
+ "duracao": "50-56s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Dupla de roupa neutra em plano de corpo inteiro; apresentador ao lado do participante em ambiente de atendimento ou prática.",
+   "fala": "A gente vai olhar [situação trazida pelo participante] e mostrar por onde começa o acompanhamento.",
+   "texto_tela": "[Situação avaliada]"
+  },
+  {
+   "tempo": "6-16s",
+   "cena": "Apresentador indica uma ficha ou gesto de uma atividade, com consentimento, sem destacar partes do corpo.",
+   "fala": "Primeiro, a gente observa [ponto de avaliação]. Você me contou que isso aparece quando [situação cotidiana]. Confere? Participante: Sim, nessa hora.",
+   "texto_tela": "[Ponto de avaliação]"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Mesma posição da dupla; apresentador faz gesto curto com as mãos e o participante acompanha.",
+   "fala": "Depois, a gente verifica [segundo ponto]. Isso ajuda a escolher [etapa do serviço], em vez de passar a mesma orientação pra todo mundo.",
+   "texto_tela": "[Etapa do serviço]"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Apresentador dá um passo curto à frente e fala à câmera; participante permanece visível.",
+   "fala": "O [nome do serviço] começa com [avaliação inicial]. A partir daí, a equipe define [conduta adequada] e combina quando revisar.",
+   "texto_tela": "[Avaliação inicial]"
+  },
+  {
+   "tempo": "39-49s",
+   "cena": "Retomar os dois no quadro; mãos abertas, postura acolhedora, palavras brancas por vez.",
+   "fala": "Participante: E se eu precisar ajustar? Apresentador: Você usa [canal de acompanhamento]. A gente confere [critério] antes de mudar a orientação.",
+   "texto_tela": "[Canal de acompanhamento]"
+  },
+  {
+   "tempo": "49-56s",
+   "cena": "Dupla olha à câmera; apresentador indica discretamente a área do botão.",
+   "fala": "Veja no link como funciona [serviço]. Confira quem atende e como é feita a avaliação antes de decidir.",
+   "texto_tela": "Conheça a avaliação"
+  }
+ ],
+ "hook": {
+  "falado": "A gente vai olhar [situação trazida pelo participante] e mostrar por onde começa o acompanhamento.",
+  "texto_tela": "[Situação avaliada]",
+  "visual": "Dupla de roupa neutra em plano de corpo inteiro; apresentador ao lado do participante em ambiente de atendimento ou prática."
+ },
+ "por_que_funciona": [
+  "O plano de corpo inteiro mantém apresentador e participante visíveis durante a explicação.",
+  "O apresentador se aproxima da câmera e usa as mãos para pontuar a fala, sem depender de troca de cenário.",
+  "As palavras brancas isoladas aparecem na região inferior central e acompanham os tópicos falados.",
+  "O parceiro permanece ao lado enquanto o apresentador retoma a mesma oferta em situações diferentes."
+ ],
+ "quando_usar": "Para serviços de saúde, estética ou atividade física que precisam explicar a avaliação inicial. Use com participante autorizado e foco no processo, antes do agendamento.",
+ "roteiro_modelo": "A gente vai olhar [situação trazida pelo participante] e mostrar por onde começa o acompanhamento.\n\n[Pausa / corte]\n\nPrimeiro, a gente observa [ponto de avaliação]. Você me contou que isso aparece quando [situação cotidiana]. Confere? Participante: Sim, nessa hora.\n\n[Pausa / corte]\n\nDepois, a gente verifica [segundo ponto]. Isso ajuda a escolher [etapa do serviço], em vez de passar a mesma orientação pra todo mundo.\n\n[Pausa / corte]\n\nO [nome do serviço] começa com [avaliação inicial]. A partir daí, a equipe define [conduta adequada] e combina quando revisar.\n\n[Pausa / corte]\n\nParticipante: E se eu precisar ajustar? Apresentador: Você usa [canal de acompanhamento]. A gente confere [critério] antes de mudar a orientação.\n\n[Pausa / corte]\n\nVeja no link como funciona [serviço]. Confira quem atende e como é feita a avaliação antes de decidir.",
+ "tomadas_celular": [
+  "Dupla em plano de corpo inteiro, celular fixo e luz frontal difusa, 6s; roupas confortáveis e ambiente organizado.",
+  "Plano inteiro de avaliação de uma ficha ou atividade segura, luz de janela lateral, 10s; peça consentimento para qualquer contato.",
+  "Mesma dupla no mesmo eixo, luz constante, 11s para explicar um segundo critério.",
+  "Plano americano com apresentador um passo à frente, luz frontal, 12s para explicar o plano.",
+  "Plano inteiro da pergunta do participante, luz suave, 10s.",
+  "Plano médio dos dois para o convite, luz frontal, 7s."
+ ],
+ "caminho_ia": "Use Sora ou Veo para uma dupla fictícia em ambiente de prática e avatares com vozes sintéticas para a conversa. No CapCut, mantenha o enquadramento estável e aplique palavras brancas curtas. Prompts: \"Vertical 9:16 full-body two-shot, fictional professional and consenting adult participant in [service environment], neutral clothing, inclusive body representation, soft overhead and frontal lighting, locked camera, no text, no logos.\" e \"Vertical 9:16 medium wide shot, fictional professional explaining [assessment step] using a neutral checklist beside an adult participant, small hand gestures, eye-level camera, no body close-ups, no text.\" Identifique a simulação e não apresente o avatar como profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 56s em seis blocos: 0-6 apresentação da situação; 6-16 primeiro critério; 16-27 segundo critério; 27-39 plano; 39-49 ajuste; 49-56 convite. Dupla em plano inteiro, gestos curtos, fala direta e palavras brancas isoladas. Faça o participante confirmar uma situação cotidiana. Não exponha supostos defeitos físicos, não aperte gordura, não sugira diagnóstico pela aparência e não prometa quilos perdidos nem resultado em prazo fixo. Use exemplos de processo aplicáveis ao produto informado. Não copie pessoas, marcas, nomes, slogans, interface, números ou alegações da referência. Use apenas informações comprováveis do meu produto. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas decorativas e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "O atendimento começa por [avaliação]. Veja como [serviço] define [próxima etapa] e acompanha [critério]. Consulte os detalhes no link.",
+ "alerta_politica": "Meta: não afirme atributos pessoais de saúde do espectador, não gere constrangimento com o corpo e não use antes/depois corporal nem promessa de resultado de saúde ou perda de peso em prazo fixo. Não replique a promessa numérica da referência. Para serviços médicos, siga as regras de publicidade do CFM, identificação profissional e consentimento; para produtos regulados, use apenas alegações autorizadas pela ANVISA.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-29dd9701",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-avaliacao-dialogada/frames/f1.jpg",
+    "videos/vid-avaliacao-dialogada/frames/f2.jpg",
+    "videos/vid-avaliacao-dialogada/frames/f3.jpg",
+    "videos/vid-avaliacao-dialogada/frames/f4.jpg",
+    "videos/vid-avaliacao-dialogada/frames/f5.jpg"
+   ]
+  }
+ ]
+}

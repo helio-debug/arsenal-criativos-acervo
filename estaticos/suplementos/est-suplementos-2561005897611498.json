@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-2561005897611498",
+  "tipo": "estatico",
+  "titulo": "Pote de aminoácidos com rótulo frontal",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um pote branco de aminoácidos aparece isolado em fundo branco com sombra suave abaixo. O rótulo usa preto e azul-turquesa, com ilustração de limão na base.",
+  "por_que_funciona": [
+    "A sigla em tamanho grande torna a categoria reconhecível.",
+    "O rótulo frontal expõe proporção e composição declaradas.",
+    "A faixa turquesa separa as informações no pote branco.",
+    "O limão ilustrado identifica visualmente o sabor."
+  ],
+  "quando_usar": "Para combinar uma foto limpa de catálogo com cupom de primeira compra na legenda.",
+  "estrutura_texto": "[Marca]\n[Categoria]\n[Apresentação e proporção]\n[Aminoácidos]\n[Descrição do suplemento]\n[Sabor]\n[Peso]",
+  "legenda": "Primeira compra em [loja]? Use o cupom [CUPOM] e ganhe [percentual] de desconto. Confira as condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Centralize o pote da IMAGEM 2 em fundo branco puro, com luz uniforme e sombra suave separada sob a base. Mantenha o rótulo frontal legível e suas cores originais. Não acrescente texto promocional à arte; a oferta será comunicada na legenda.",
+  "alerta_politica": "Para suplementos, use apenas alegações permitidas e comprováveis, coerentes com o rótulo. Não prometa cura, prevenção de doenças ou resultados físicos garantidos; evite atribuir condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2561005897611498",
+    "anunciante": "Wise Health Nutrition",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-10",
+    "dias_no_ar": 369,
+    "variacoes_ativas": 1,
+    "texto_original": "Primeira compra na Wise? Tem desconto! 🎁\nUtilize o cupom PRIMEIRACOMPRA e ganhe 5% de desconto na primeira compra.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-2561005897611498.jpg"
+}

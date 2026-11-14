@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2196908087774210",
+  "tipo": "estatico",
+  "titulo": "Dois meses grátis em plano pet com título ampliado",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "A oferta de dois meses grátis ocupa duas linhas grandes no topo. Abaixo, foto de cachorro com brinquedo e selo verde se sobrepõem à divisão entre fundo claro e roxo.",
+  "por_que_funciona": [
+    "O título em duas linhas ocupa grande área e facilita perceber a oferta.",
+    "O cachorro olhando para a câmera dá destaque à foto central.",
+    "O selo verde se destaca na junção da foto com o fundo roxo.",
+    "O rodapé direciona a consulta ao regulamento."
+  ],
+  "quando_usar": "Para divulgar promoção de contratação de plano pet com benefício e regulamento definidos.",
+  "estrutura_texto": "[Categoria] [Marca]\n[Quantidade] meses\nGRÁTIS\n[Selo de oferta]\nConsulte o regulamento.",
+  "legenda": "São [período de cobertura] de plano pet pelo valor de [período pago], na contratação [modalidade]. Conheça os serviços incluídos, as carências e as condições da promoção em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme no topo e roxo na base com divisão inclinada. Coloque identificação pequena e centralizada acima de título roxo muito grande em duas linhas. Abaixo, foto de pet brincando em retângulo de cantos arredondados, com selo verde circular no canto inferior direito. Reserve rodapé legível para o regulamento.",
+  "alerta_politica": "Em planos de saúde veterinários, comprove os meses gratuitos e informe modalidade de contratação, carências, serviços elegíveis e regras da promoção. Não prometa cura nem cobertura irrestrita. Só use alegação de melhor oferta se houver comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2196908087774210",
+    "anunciante": "Petlove",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 2,
+    "texto_original": "Não é só pelo desconto! É pela saúde do seu pet e do seu bolso! São 12 meses de proteção, pagando o precinho de 10.\nNão adie mais a saúde do seu pet\nSe tem pet, tem que ter!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2196908087774210.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1573183260952350",
+  "tipo": "estatico",
+  "titulo": "Do aprendizado ao contrato em cinco etapas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo verde-claro com chamada em verde-escuro e magenta, notebook e contrato ilustrando o resultado. Cinco cartões conectados por setas conduzem a uma oferta de acesso gratuito e um botão.",
+  "por_que_funciona": [
+    "Os cinco cartões com setas tornam visível a sequência do aprendizado à contratação.",
+    "Notebook e documento aproximam o curso de uma aplicação profissional concreta.",
+    "A faixa de 100 acessos gratuitos destaca a condição de entrada.",
+    "Duração, tempo diário e indicação de nível aparecem juntos no rodapé."
+  ],
+  "quando_usar": "Cursos introdutórios com etapas claras e condição gratuita verificável, na captação de interessados.",
+  "estrutura_texto": "[Marca]\nDe [ponto de partida] a [resultado]\nTransforme [aprendizado] em [aplicação].\n[Etapa 1] → [Etapa 2] → [Etapa 3] → [Etapa 4] → [Etapa 5]\n[Quantidade] acessos gratuitos\n[CTA]\n[Duração] | [Tempo diário] | [Nível]",
+  "legenda": "Aprenda [tema] desde o início em uma trilha de [duração], com [tempo diário] de dedicação. Veja como aplicar o conteúdo em [atividade profissional]. Conheça [curso] e confira as condições de [oferta].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde muito claro, título grande à esquerda com duas cores e composição do produto no alto à direita. Monte cinco cartões brancos com ícones lineares, números amarelos e setas turquesa. Abaixo, faixa escura de oferta, botão magenta e rodapé com três informações. Escreva em pt-BR e use apenas condições reais.",
+  "alerta_politica": "Ao associar o curso a clientes e contratos, evite prometer renda ou contratação garantida; apresente essas aplicações como possibilidades dependentes de prática e contexto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1573183260952350",
+    "anunciante": "Educly App AI",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-20",
+    "dias_no_ar": 55,
+    "variacoes_ativas": 3,
+    "texto_original": "🚀 ¿Y si en solo 28 días pudieras dominar la herramienta que está transformando el mercado laboral? Con apenas 15 minutos al día, aprendes Inteligencia Artificial desde cero — sin experiencia previa, sin rodeos. Quien empieza ahora, lleva ventaja. Quien espera, se queda atrás.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1573183260952350.jpg"
+}

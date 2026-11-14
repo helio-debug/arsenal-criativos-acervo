@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-2464802650691300",
+  "tipo": "estatico",
+  "titulo": "Revisão com três benefícios em fotos circulares",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul com feixes de luz enquadra uma chamada branca e três fotos circulares de manutenção. Abaixo, benefícios de revisão e uma chamada de agendamento formam a oferta.",
+  "por_que_funciona": [
+    "A foto circular central mostra o trabalho mecânico e torna o serviço concreto.",
+    "Os três círculos organizam peças, mão de obra e revisão com preço fixo.",
+    "A linha amarela de agendamento se destaca entre os blocos azuis."
+  ],
+  "quando_usar": "Para oficinas ou redes autorizadas divulgarem revisões programadas e benefícios de manutenção.",
+  "estrutura_texto": "[Chamada de campanha]\nConte com o cuidado de [especialista].\n[Peças e insumos]\n[Benefício de mão de obra]\n[Condição de preço por revisão]*\nAgende em [canal].\n[Atributos do serviço]\n[Condições]",
+  "legenda": "Agende a revisão da sua [moto] com [oficina/rede]. Conte com [peças e insumos] e [benefícios válidos nas revisões participantes]. Consulte modelos elegíveis, prazos e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use layout vertical azul com feixes de luz no topo e silhueta urbana discreta ao fundo. Coloque chamada branca grande na parte superior e três fotos circulares de manutenção no centro, com a foto central maior. Abaixo de cada círculo, descreva um benefício comprovado. Inclua chamada amarela para agendamento e uma faixa de atributos na base. Use a marca própria e reserve espaço legível para condições e limitações da gratuidade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2464802650691300",
+    "anunciante": "Yamaha Motor do Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-05",
+    "dias_no_ar": 101,
+    "variacoes_ativas": 1,
+    "texto_original": "Conte com quem mais entende da sua Yamaha: peças genuínas, Yamalube e vantagens exclusivas nas revisões.\nChamou Vantagem. Chamou Yamaha.\nCuidado especializado Yamaha",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-2464802650691300.jpg"
+}

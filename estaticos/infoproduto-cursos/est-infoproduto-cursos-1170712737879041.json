@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1170712737879041",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com tela de projeto e selo de desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "A metade superior mostra um notebook com projeto de instalações e um selo de desconto à esquerda. A metade inferior, azul-escura com detalhes magenta, apresenta especialidade, docente e certificações.",
+  "por_que_funciona": [
+    "A tela com tubulações coloridas demonstra o tipo de projeto abordado.",
+    "O selo de 40% com código em letras grandes torna a condição promocional visível.",
+    "O título separa software e especialidades com pesos e cores diferentes.",
+    "O retrato do docente e os ícones de certificação complementam a descrição do curso."
+  ],
+  "quando_usar": "Para divulgar um curso técnico de especialidade a quem já reconhece a ferramenta e busca aprofundamento.",
+  "estrutura_texto": "[Percentual de desconto]\nUse o código [cupom]\n[Curso certificado]\n[Modelagem] com [software]\n[Especialidades]\n[Docente]\n[Modalidade e certificações]",
+  "legenda": "Aprofunde seus conhecimentos em [software] para desenvolver [tipo de projeto]. O curso de [especialidade] está com [desconto] usando [cupom]. Consulte [condições], [acompanhamento] e [certificados comprovados] antes de se inscrever.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição em foto superior de notebook exibindo projeto técnico e painel inferior azul-marinho. Use uma curva magenta na transição. Coloque selo amarelo e vermelho de desconto à esquerda, sobreposto à foto. No painel, centralize título branco e magenta, ícone da ferramenta, pequeno retrato docente e rodapé com modalidade e certificados. Use conteúdo técnico legível e apenas credenciais verificadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1170712737879041",
+    "anunciante": "Konstruedu.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-05",
+    "dias_no_ar": 619,
+    "variacoes_ativas": 4,
+    "texto_original": "😱 No hay nada mejor que lo que deseas obtener tenga un GRAN DESCUENTO🎁\n\nPor esa razón te regalamos el 40% de descuento adicional en todos nuestros cursos para que te vuelvas un experto en las mejores herramientas y software BIM\n\nAprovecha esta oferta con el 40% de descuento \nUtiliza el siguiente código para aplicar el descuento: PROMO40\n\n¡Toca el botón y aprovecha el descuento!\nUtiliza el código para el descuento: PROMO40",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1170712737879041.jpg"
+}

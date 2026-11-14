@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1112023264550224",
+  "tipo": "estatico",
+  "titulo": "Pergunta comercial sobre cena de produto",
+  "formato": "Conversa no celular",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de ambiente bege com poltrona mostarda e uma pessoa fotografando o móvel. A chamada branca no alto acompanha uma conversa simulada e um cartão patrocinado sobre a cena.",
+  "por_que_funciona": [
+    "A pergunta grande aborda diretamente a busca por clientes.",
+    "A poltrona da cena reaparece no cartão, ligando produto e anúncio.",
+    "A pergunta sobre adaptar a casa contextualiza a recomendação comercial.",
+    "O cartão branco se destaca sobre os tons bege da fotografia."
+  ],
+  "quando_usar": "Para divulgar mídia contextual usando um exemplo de produto que o anunciante reconheça.",
+  "estrutura_texto": "[SOLUÇÃO DE ANÚNCIOS]\nPrecisa de uma nova forma de encontrar clientes?\nAnuncie em [PLATAFORMA] hoje\n[PERGUNTA RELACIONADA À CATEGORIA]\n[ANUNCIANTE] · Patrocinado\n[PRODUTO E ATRIBUTOS]",
+  "legenda": "Alcance clientes em conversas sobre [necessidade relacionada à categoria]. Conheça [solução de anúncios] e anuncie em [plataforma].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de um ambiente quente e neutro, com o produto em destaque na metade inferior e uma pessoa demonstrando ou fotografando seu uso. Aplique título branco grande no alto à esquerda, balão de conversa central e cartão branco patrocinado com miniatura do produto. Use interface genérica identificada como simulação, sem copiar marcas ou logotipos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1112023264550224",
+    "anunciante": "ChatGPT",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 2,
+    "texto_original": "Com o ChatGPT Anúncios, alcance clientes além das palavras-chave\nAnuncie no ChatGPT hoje",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1112023264550224.jpg"
+}

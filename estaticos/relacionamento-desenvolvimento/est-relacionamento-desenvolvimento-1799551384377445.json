@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1799551384377445",
+  "tipo": "estatico",
+  "titulo": "Reflexão sobre julgamento e autoconhecimento",
+  "formato": "novo:Frase em destaque",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo terracota liso com uma reflexão em letras serifadas claras no centro. Um identificador pequeno aparece acima e a atribuição da frase abaixo.",
+  "por_que_funciona": [
+    "O fundo liso elimina distrações ao redor da reflexão.",
+    "As quebras de linha dão destaque à passagem de julgar o outro para olhar para si.",
+    "A atribuição menor preserva a hierarquia da frase central."
+  ],
+  "quando_usar": "Para iniciar uma conversa sobre autoconhecimento e aproximar o público de uma mentoria de desenvolvimento pessoal.",
+  "estrutura_texto": "[Identificador]\n[Reflexão que relaciona comportamento e autoconhecimento].\n[Autoria autorizada].",
+  "legenda": "O julgamento alheio pode gerar muitas interpretações. Que espaço você tem dado para observar [seus próprios critérios]? Compartilhe sua reflexão e conheça [acompanhamento] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um card com fundo terracota uniforme e frase original em tom creme, usando fonte serifada grande e cinco a seis linhas centralizadas. Coloque identificador pequeno acima e atribuição autorizada abaixo. Preserve margens amplas e bastante espaço vazio. Use a IMAGEM 2 apenas como referência da oferta; esta composição dispensa foto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1799551384377445",
+    "anunciante": "Junia Bretas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-06",
+    "dias_no_ar": 69,
+    "variacoes_ativas": 1,
+    "texto_original": "Se cada um te julga com as crenças e o coração que tem,  o julgamento alheio tem mais a ver com os próprios julgadores do que com quem está sendo julgado, concorda?\n\nPor isso,  digo sempre e repito: o que pensam ou falam de você não importa,  o que você fala ou pensa a seu respeito, isso sim determina sua vida!\n\nJunia Bretas\nSiga @eventosequilibrate\n\n💡Empresa Junia Bretas Desenvolvimento Humano LTDA Palestras e Treinamentos com foco na Excelência Humana e no BEM VIVER!\n\nAgende sua sessão de Mentoria individual online ou presencial!\nWhatsApp 32 98877 1406 \n\n#juniabretaspalestras #juniabretas #inteligenciaemocional #Bemviver #gestãodaansiedade #gestaodoestresse #Autoconhecimento #psicanalise #PNL #wellness #Desenvolvimentopessoal #produtividade #liderança",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1799551384377445.jpg",
+  "formato_novo_def": "Frase ou reflexão como elemento central em fundo simples, com tipografia dominante e atribuição discreta, sem interface de postagem ou depoimento de cliente."
+}

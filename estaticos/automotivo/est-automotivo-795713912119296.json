@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-795713912119296",
+  "tipo": "estatico",
+  "titulo": "Galão de limpeza profissional em fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Galão translúcido com líquido roxo e rótulo da mesma cor aparece isolado. O rótulo identifica o desincrustante ácido, o volume e as restrições de uso.",
+  "por_que_funciona": [
+    "O galão ocupa quase todo o quadro e mostra alça e tampa.",
+    "A cor roxa do líquido se repete no rótulo, unificando a apresentação.",
+    "A função e o conteúdo de cinco litros ajudam a identificar a aplicação profissional."
+  ],
+  "quando_usar": "Para catálogo de produtos de limpeza automotiva destinados ao público profissional habilitado.",
+  "estrutura_texto": "[Marca]\n[Categoria de limpeza]\n[Nome do produto]\n[Função]\n[Restrição de uso]\n[Peso e volume]",
+  "legenda": "Conheça [produto de limpeza] para [aplicação profissional]. Consulte as especificações, as orientações de segurança e a linha completa em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e um galão grande centralizado, com enquadramento frontal. Preserve o rótulo verdadeiro da IMAGEM 2, a cor do líquido e os pictogramas de perigo. Dê legibilidade à função, ao volume e às restrições de uso. Direcione a comunicação ao público profissional indicado na embalagem.",
+  "alerta_politica": "O rótulo restringe o produto ao uso profissional e proíbe venda direta ao público. Respeite essa restrição, a regularização sanitária e as instruções de segurança; preserve pictogramas e não sugira uso doméstico indiscriminado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "795713912119296",
+    "anunciante": "WCF Distribuidora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-06-16",
+    "dias_no_ar": 1247,
+    "variacoes_ativas": 3,
+    "texto_original": "Que tal você mesmo cuidar e dar aquele talento em seu carro?\nConheça nossa linha de produtos e ande com seu carro sempre limpo e cheiroso.\nCom nossos produtos você economiza\n✅ Tempo\n✅ Dinheiro\n✅ Produtos\n\nClique em \"Saiba Mais\" para conhecer a nossa linha!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-795713912119296.jpg"
+}

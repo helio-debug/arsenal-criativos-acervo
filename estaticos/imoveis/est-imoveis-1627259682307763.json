@@ -1,0 +1,36 @@
+{
+  "id": "est-imoveis-1627259682307763",
+  "tipo": "estatico",
+  "titulo": "Vista aérea de casa com faixa de busca",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto aérea de uma casa contemporânea com terraços, vidros amplos e gramado lateral. Uma faixa vermelha e um bloco branco com identificação do portal ficam na base.",
+  "por_que_funciona": [
+    "A vista aérea reúne fachada, terraços e terreno em uma só imagem.",
+    "A faixa vermelha destaca a chamada de busca sobre a fotografia.",
+    "O número de imóveis na faixa comunica a amplitude do catálogo."
+  ],
+  "quando_usar": "Para atrair pessoas a um portal com catálogo amplo de imóveis.",
+  "estrutura_texto": "[Foto do imóvel] + Encontre [quantidade comprovada] de imóveis + [marca do portal]",
+  "legenda": "Explore [quantidade comprovada] oportunidades de imóveis em [região]. Encontre [tipos de imóveis disponíveis] e acesse as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático de imóvel na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base do imóvel anunciado. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto aérea do imóvel em tela cheia. Na base, insira uma faixa vermelha com chamada branca sobre a quantidade comprovada do catálogo e um bloco branco arredondado à direita para a marca informada. Preserve a visibilidade dos terraços e da fachada. Utilize os dados de MEU PRODUTO e não invente características, valores ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1627259682307763",
+    "anunciante": "Chaves na Mão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 2,
+    "texto_original": "+4 milhões de oportunidades de Imóveis em todo Brasil. Aptos, Casas, Terrenos e mais. Acesse agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1627259682307763.jpg"
+}

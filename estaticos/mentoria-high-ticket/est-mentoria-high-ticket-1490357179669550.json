@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1490357179669550",
+  "tipo": "estatico",
+  "titulo": "Jornada financeira com duração e mentoria em lista",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Arte azul-marinho com título verde, texto sobre gestão financeira e lista de características. Um recorte fotográfico de empresário com documentos ocupa o canto inferior direito, contornado em verde.",
+  "por_que_funciona": [
+    "O título verde sobre azul-marinho identifica o tema de imediato.",
+    "A lista explicita duração, aulas ao vivo e acompanhamento individual.",
+    "O botão verde separa a inscrição do texto explicativo.",
+    "A foto com documentos e computador situa a oferta na rotina de gestão."
+  ],
+  "quando_usar": "Para divulgar uma jornada de capacitação financeira para pequenos empresários que precisam organizar os números do negócio.",
+  "estrutura_texto": "[Nome da jornada financeira]\nAprenda a [organizar fluxo de caixa], [precificar] e [acompanhar indicadores].\n● Duração: [prazo]\n● [Modalidade das aulas]\n● [Acompanhamento]\n[CTA de inscrição]",
+  "legenda": "Em [prazo], desenvolva a gestão financeira do seu negócio com [aulas] e [mentoria individual]. Trabalhe [fluxo de caixa], [precificação] e [indicadores]. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo azul-marinho, título grande verde-menta no topo e parágrafo branco abaixo. Acrescente três itens com marcadores verdes e um botão verde de inscrição. Na parte inferior direita, use foto da IMAGEM 2 em recorte curvo com borda verde; reserve o lado esquerdo para identidade própria. Não prometa concessão de crédito.",
+  "alerta_politica": "Ao mencionar finanças ou crédito, evite prometer lucro, aprovação ou acesso garantido a financiamento. Apresente a oferta como capacitação e descreva os benefícios sem garantir resultados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1490357179669550",
+    "anunciante": "Sebrae Tocantins",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "No UP Finanças, você assume o controle total da sua gestão financeira em uma jornada prática de 14 dias. Você vai organizar seu fluxo de caixa, aprender a precificar da forma correta e entender como acessar crédito com mais facilidade, tudo isso com aulas ao vivo e mentorias individuais com especialistas.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1490357179669550.jpg"
+}

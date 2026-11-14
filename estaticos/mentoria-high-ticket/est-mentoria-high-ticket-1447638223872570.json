@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1447638223872570",
+  "tipo": "estatico",
+  "titulo": "Mentoria de vendas com especialista e botão de agendamento",
+  "formato": "Produto em destaque",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Retrato de especialista de terno à direita, sentado diante de notebook, com título em preto, branco e amarelo à esquerda. Uma fileira de plataformas e outra de benefícios antecedem o botão amarelo de agendamento.",
+  "por_que_funciona": [
+    "O retrato ocupa metade da arte e dá um rosto ao acompanhamento individual.",
+    "O título sobre faixa amarela torna o serviço identificável no primeiro olhar.",
+    "A fileira de plataformas delimita o contexto de aplicação da mentoria.",
+    "O botão amarelo com ícone de mensagem apresenta uma ação direta de agendamento."
+  ],
+  "quando_usar": "Para vender consultoria individual a lojistas que já operam em canais digitais e procuram orientação para sua loja.",
+  "estrutura_texto": "PROGRAMA DE\nMENTORIA PERSONALIZADA\n[Objetivo comercial]\nAcompanhamento individual com [especialista] em [canais]\n[Plataformas atendidas]\n[Estratégias]\n[Otimização]\n[Acompanhamento]\n[Resultados pretendidos]\nAGENDE SUA MENTORIA AGORA\n[Fecho sobre crescimento]",
+  "legenda": "Sua loja em [canais de venda] pode se beneficiar de uma análise individual. Na mentoria [nome], você recebe orientação sobre [estratégias] e [otimização da loja], considerando o momento do seu negócio. Agende uma conversa em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição quadrada com foto do especialista à direita, mesa e notebook na parte inferior e fundo de escritório. À esquerda, use título pesado em caixa alta, uma faixa amarela e texto de apoio branco. Abaixo, reserve uma linha para canais atendidos, usando nomes genéricos ou elementos autorizados. Acrescente quatro ícones com benefícios e um botão amarelo largo com ícone de mensagem. Escreva em pt-BR e descreva objetivos sem garantir aumento de faturamento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1447638223872570",
+    "anunciante": "CTE - Centro de Treinamentos para Estrangeiros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-09",
+    "dias_no_ar": 66,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 ¿Quieres vender más por internet?\n\nSi tienes una tienda en Shopee, Mercado Libre, TikTok Shop o SHEIN, pero sientes que podrías estar vendiendo mucho más, esta mentoría es para ti.\n\n🎯 Mentoría personalizada 1 a 1\n📈 Estrategias para aumentar tus ventas\n🛒 Optimización de tu tienda\n💡 Orientación de un especialista\n💰 Enfoque en resultados reales\n\nNo se trata de seguir intentando sin saber qué está fallando. Vamos a analizar tu negocio y construir estrategias de acuerdo con tu realidad.\n\n📲 Escríbenos ahora y agenda tu mentoría.\nWHATSAPP\n🚀 ¿Quieres vender más por internet?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1447638223872570.jpg"
+}

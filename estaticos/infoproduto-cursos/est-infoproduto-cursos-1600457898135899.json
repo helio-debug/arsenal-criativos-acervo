@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1600457898135899",
+  "tipo": "estatico",
+  "titulo": "Demanda profissional como chamada para curso",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Moldura azul envolve um painel claro com título verde e texto preto sobre uma demanda profissional. Na metade inferior há selo de inscrições abertas e um bloco amarelo do curso com etiqueta rosa.",
+  "por_que_funciona": [
+    "O título verde identifica o tema antes da explicação em preto.",
+    "“mercado jurídico e de tecnologia” relaciona o assunto a dois públicos profissionais.",
+    "O selo “Inscrições abertas” sinaliza que há uma ação disponível.",
+    "O bloco amarelo com “turma #01” torna visível o curso associado à chamada."
+  ],
+  "quando_usar": "Para apresentar uma nova turma a profissionais interessados em uma mudança de mercado ligada ao tema do curso.",
+  "estrutura_texto": "[Tema]:\nA nova demanda do [mercado ou área]\nInscrições abertas\n[Nome do curso]\n[turma]\n[abordagem]",
+  "legenda": "Profissionais de [áreas] estão acompanhando novas demandas em [tema]. O curso [nome] reúne [base conceitual] e [aplicações práticas] para apoiar o trabalho com [atividade]. Inscrições abertas para [turma]. Confira a programação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use borda externa azul e painel central branco com contorno preto. No alto, pequena etiqueta amarela de identidade própria. Na área central, título verde e complemento preto em fonte condensada. Na metade inferior, selo de inscrições abertas à esquerda e bloco amarelo do curso à direita com etiqueta rosa de turma. Distribua contornos geométricos cinza discretos no fundo. Integre a IMAGEM 2 como capa ou material do curso se adequada.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1600457898135899",
+    "anunciante": "Data Privacy Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-14",
+    "dias_no_ar": 92,
+    "variacoes_ativas": 7,
+    "texto_original": "A regulação sobre proteção de dados e direitos de crianças e adolescentes no ambiente digital é uma das pautas mais urgentes no ecossistema de tecnologia.\n\nEmpresas e escritórios já estão buscando profissionais capacitados para liderar projetos de adequação ao ECA Digital. Quem se especializar primeiro sairá na frente nessa nova demanda de mercado.\n\nO Curso ECA Digital: Teoria e Prática da Data Privacy Brasil entrega o embasamento teórico-normativo e o instrumental prático que você precisa para liderar essa transição.\n\nVagas limitadas. Garanta seu lugar na próxima turma!\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1600457898135899.jpg"
+}

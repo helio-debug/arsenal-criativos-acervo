@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-722929922853067",
+  "tipo": "estatico",
+  "titulo": "Convite para lojistas sobre foto de sala decorada",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fotografia de sala com móveis serve de fundo para quatro blocos pretos com texto branco serifado. A mensagem identifica lojistas de móveis e convida a seguir um perfil de tráfego pago.",
+  "por_que_funciona": [
+    "A chamada no topo identifica explicitamente o setor atendido.",
+    "A sala mobiliada reforça visualmente o segmento citado.",
+    "As caixas pretas protegem a leitura sobre a fotografia.",
+    "O bloco final transforma a promessa de conteúdo diário em convite para seguir."
+  ],
+  "quando_usar": "Para captar seguidores de um segmento específico antes de oferecer gestão de anúncios.",
+  "estrutura_texto": "Se você é [perfil] do setor [segmento]\nEntão encontrou o perfil ideal!\nTodos os dias no meu [canal], posto dicas de [assunto] para [negócio].\nSiga para não perder [conteúdo].",
+  "legenda": "Acesse [perfil] para acompanhar dicas de [serviço] voltadas a [segmento]. Siga e veja [tipo de conteúdo publicado].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical de um ambiente ligado ao segmento do meu produto. Sobreponha quatro caixas pretas separadas, com texto branco serifado e centralizado. Abra com o público no topo, apresente o perfil no segundo bloco, descreva o conteúdo no maior bloco central e termine com convite para seguir. Utilize poucos emojis relevantes e mantenha partes do ambiente visíveis entre os blocos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "722929922853067",
+    "anunciante": "Tevão.ads",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-06-14",
+    "dias_no_ar": 1249,
+    "variacoes_ativas": 1,
+    "texto_original": "Tevão.ads\nAcessar o perfil do Instagram",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-722929922853067.jpg"
+}

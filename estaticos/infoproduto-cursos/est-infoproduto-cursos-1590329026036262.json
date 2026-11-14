@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1590329026036262",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com prazo de formação em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul escuro com grande faixa circular azul contornando o texto. O nome do curso aparece em branco e o prazo de um ano é enfatizado no benefício.",
+  "por_que_funciona": [
+    "O nome do curso em letras grandes ocupa o centro da composição.",
+    "A faixa circular envolve o conteúdo e termina em setas no alto.",
+    "O destaque em negrito no prazo evidencia a duração da formação."
+  ],
+  "quando_usar": "Para apresentar um curso técnico cujo prazo de conclusão seja um diferencial relevante.",
+  "estrutura_texto": "Curso Técnico [modalidade]\n[Área de formação]\n[Instituição]\n[Benefício profissional] com uma formação de [duração]",
+  "legenda": "Prepare-se para atuar em [área] com o curso técnico [nome]. Formação em [duração], com [modalidade e recursos de estudo]. Conheça o programa e as condições de matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho e faixa circular larga em azul mais claro contornando o bloco central, com três setas estilizadas no topo direito. Centralize o conjunto textual, mantendo alinhamento à esquerda: descritor pequeno, nome do curso grande em branco, assinatura da marca e benefício menor com check. Destaque modalidade em ciano e duração em negrito.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1590329026036262",
+    "anunciante": "EAD UniCesumar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-23",
+    "dias_no_ar": 144,
+    "variacoes_ativas": 2,
+    "texto_original": "Sua carreira na área de pessoas começa com uma escolha. 🎓\nO curso Técnico EAD em Recursos Humanos da UniCesumar forma você em 1 ano para atuar em empresas de todos os portes, consultorias e departamentos de RH. \n👉 Matricule-se e comece agora.\nCursos Técnico em Recursos Humanos é na UniCesumar 💙\nFormação em apenas 12 meses, app de estudos com internet gratuita e conteúdos 100% online. Matricule-se e comece agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1590329026036262.jpg"
+}

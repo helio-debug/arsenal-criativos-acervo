@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1203063309556568",
+  "tipo": "estatico",
+  "titulo": "Curso com chamada segmentada em faixa amarela",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical cinza com assinatura no topo e ilustração de sirene com triângulo de alerta. Uma faixa amarela chama profissionais de licitações; abaixo, texto de apresentação do MBA e botão vermelho.",
+  "por_que_funciona": [
+    "A faixa amarela explicita a área profissional e permite reconhecer a pertinência do curso.",
+    "A sirene com triângulo cria um ponto visual entre a marca e a chamada.",
+    "Trechos em negrito destacam tema, competências e modalidade no parágrafo.",
+    "O botão vermelho no rodapé encerra a leitura com uma ação clara."
+  ],
+  "quando_usar": "Para apresentar cursos de especialização a um público profissional delimitado, explicando conteúdo e modalidade antes da matrícula.",
+  "estrutura_texto": "[Instituição]\n[Chamada para profissionais de área]\n[Curso] prepara você para [competência].\n[Modalidade] com [dinâmica das aulas], voltado para [conteúdos].\n[CTA de inscrição]",
+  "legenda": "Desenvolva competências em [área] com [curso]. Conheça o conteúdo sobre [temas] e a modalidade [modalidade confirmada]. Consulte as condições de matrícula em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza claro, faixa de marca vermelha no alto e ilustração tridimensional de alerta na parte superior. Abaixo, faça uma faixa amarela com chamada em branco para o público. Inclua parágrafo centralizado com negritos seletivos e botão vermelho no rodapé. Confirme a modalidade antes de escrever: a referência visual e a legenda apresentam informações divergentes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1203063309556568",
+    "anunciante": "IPOG",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-02",
+    "dias_no_ar": 135,
+    "variacoes_ativas": 1,
+    "texto_original": "🔐 Transforme sua carreira para atuar no setor público com segurança.\n\nEsse MBA prepara você para elaborar editais, acompanhar contratos, gerir recursos públicos e garantir compliance, tudo conforme a nova Lei de Licitações.\n\n🗣️ Modalidade presencial com encontros mensais de sexta a domingo, ideal para quem quer dedicação e imersão. \n\n👉 Garanta sua vaga hoje mesmo!\n💻 MBA IPOG Online e ao vivo | Matrículas Abertas\nA escolha que conecta você ao sucesso.",
+    "origem_coleta": "acervo:spy-ia-renda-extra-br"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1203063309556568.jpg"
+}

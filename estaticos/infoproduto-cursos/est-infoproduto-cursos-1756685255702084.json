@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1756685255702084",
+  "tipo": "estatico",
+  "titulo": "Curso artesanal com desconto e mosaico de peças",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo creme com título à esquerda e mosaico de luminária, decoração, peças redondas e bolsa à direita. Blocos rosa e verde destacam desconto, prazo e bônus; uma faixa inferior reúne atributos do acesso.",
+  "por_que_funciona": [
+    "O mosaico mostra diferentes objetos que podem ser produzidos com a técnica.",
+    "O desconto de 60% ocupa um círculo grande no canto inferior esquerdo.",
+    "O bloco de bônus aparece ao lado da oferta e acrescenta um item concreto ao pacote.",
+    "A faixa com ícones concentra informações de acesso, comunidade, certificado e suporte."
+  ],
+  "quando_usar": "Para promover curso de artesanato com exemplos visuais do conteúdo e campanha de desconto com prazo real.",
+  "estrutura_texto": "CURSO DE [TÉCNICA]\nPara [OBJETIVO]\n[MODALIDADE]\nAprenda do zero e [APLICAÇÃO]\n[DESCONTO]\n[PRAZO]\n[QUANTIDADE DE BÔNUS]\n[ACESSO] | [COMUNIDADE] | [CERTIFICADO] | [SUPORTE]",
+  "legenda": "Aprenda [técnica] do zero e crie [tipos de peças]. O curso inclui [conteúdos e recursos] e acesso [condição]. Aproveite [desconto] até [data] e confira os [bônus] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie layout quadrado em creme, verde oliva e rosa. Posicione título e proposta à esquerda e um mosaico de fotos dos trabalhos à direita, usando recortes curvos. Destaque desconto em círculo rosa grande, prazo em tarja verde e bônus em bloco adjacente. Adicione uma faixa inferior com ícones e condições de acesso. Redija a nova arte em pt-BR.",
+  "alerta_politica": "A proposta de gerar renda exige evitar ganhos garantidos e alegações de demanda sem comprovação. Use desconto e urgência somente com condições e prazo reais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1756685255702084",
+    "anunciante": "Mundo de Artesanías y Manualidades",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-30",
+    "dias_no_ar": 168,
+    "variacoes_ativas": 1,
+    "texto_original": "🔥 60% DE DESCUENTO SOLO HOY\n\n¿Cansada de trabajar duro y que los ingresos nunca alcancen?\nMientras tú buscas oportunidades, hay madres, estudiantes y emprendedoras generando ingresos reales desde casa con macramé. 💰\n\nLa demanda existe. Los clientes están ahí esperando. Solo falta que TÚ domines las técnicas que ellos están buscando desesperadamente. ✨\n\n🪢 Aprende a crear diseños como:\n🌿 Tapices decorativos para el hogar\n🎁 Accesorios personalizados únicos\n🪴 Colgantes para plantas que están de moda\n🏠 Decoración para eventos y fiestas\n✨ Piezas personalizadas que SE VENDEN SOLAS\n\nNo necesitas experiencia previa ni inversión grande. Solo las técnicas correctas, los diseños que SÍ funcionan y las ganas de cambiar tu realidad financiera. 💪\n\n🎓 MI CURSO COMPLETO INCLUYE:\n💻 Acceso 100% online de por vida\n📹 Videos paso a paso desde el primer nudo\n👩🏫 Acompañamiento personalizado directo conmigo\n🎓 Certificado profesional al terminar\n🎁 Más de 22 bonos de regalo (aprende 6 artes diferentes)\n💡 Cómo calcular precios y ganar bien por tu trabajo\n📱 Estrategias probadas para vender por redes sociales\n📋 Lista de proveedores económicos y confiables de tu país\n🔄 Actualizaciones gratuitas con nuevas tendencias\n\nTe enseño desde cero hasta tu primera venta. Sin rodeos, sin relleno, solo lo que REALMENTE necesitas para generar ingresos con tus propias manos. 🚀\n\n🔥 OFERTA ESPECIAL: 60% DE DESCUENTO SOLO HOY 🔥\n\n👉 Dale clic al botón de WHATSAPP y conversemos sin compromiso. Respondo todas tus preguntas y te doy toda la información.\nWHATSAPP\n60% DE DESCUENTO 👉\n+ de 2.000 estudiantes ✅",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1756685255702084.jpg"
+}

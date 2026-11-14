@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1511554006421180",
+  "tipo": "estatico",
+  "titulo": "Órtese em uso com desconto e prazo",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um pé com uma órtese para o dedão ocupa a metade esquerda. À direita, letras azuis anunciam 50% de desconto e encerramento no dia, enquanto setas destacam as regiões do dispositivo.",
+  "por_que_funciona": [
+    "A foto em uso mostra onde o dispositivo é colocado.",
+    "A chamada de 50% de desconto ocupa grande parte da metade direita.",
+    "O prazo de encerramento aparece logo abaixo da oferta.",
+    "As setas azuis chamam atenção para o suporte junto ao dedão."
+  ],
+  "quando_usar": "Para divulgar uma promoção real de dispositivo de suporte, com indicação de uso e informações verificáveis.",
+  "estrutura_texto": "ÚLTIMA CHANCE\n[Desconto]% OFF\nPROMOÇÃO\nTERMINA [prazo]\n[assinatura]",
+  "legenda": "Confira [produto] com [desconto] até [prazo]. Veja na página as indicações de uso, as condições de [frete] e os termos de [garantia].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, foto real do dispositivo em uso ocupando a metade esquerda e oferta em azul vivo à direita. Coloque chamada de prazo no topo, percentual grande ao centro e encerramento logo abaixo. Acrescente setas discretas apontando partes do dispositivo, sem sugerir correção anatômica garantida. Só inclua preço e prazo verdadeiros.",
+  "alerta_politica": "Meta: não atribuir condição de saúde ao leitor nem explorar insegurança corporal. ANVISA: verificar a regularização aplicável ao dispositivo e limitar alegações à indicação autorizada; não prometer cura ou correção garantida. Desconto, prazo e garantia devem ser comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1511554006421180",
+    "anunciante": "Treatmedy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-08-07",
+    "dias_no_ar": 829,
+    "variacoes_ativas": 1,
+    "texto_original": "Forgot to checkout? 50% OFF Sale Ends Today!\n⭐️⭐️⭐️⭐️⭐️ \"I have been suffering from bunion discomfort for years.\n\nNothing has helped until I tried this Bunion Fix! I spend 10-12 hours a day standing at work and this has been a lifesaver! ” - Sherri T.\n\nGet yours now >> https://shop.treatmedy.com/bunion/ps-2-50\n\n✅ FREE Shipping & 90-Day Results or Full Refund Guarantee\nFREE Shipping & 90-Day Results or Refund Guarantee\n+ FREE eBook: Natural Bunion Remedies and Prevention Strategies ($19.95 Value)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1511554006421180.jpg"
+}

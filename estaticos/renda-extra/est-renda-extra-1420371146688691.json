@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1420371146688691",
+  "tipo": "estatico",
+  "titulo": "Lançamento de fragrância como convite à revenda",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Um frasco escuro inclinado domina uma composição em vermelho e cobre com textura de fios. A chamada de revenda ocupa o topo, com texto lateral e botão verde na base.",
+  "por_que_funciona": [
+    "O frasco grande e inclinado concentra a atenção no lançamento.",
+    "As texturas vermelhas ao redor reforçam a apresentação sensorial do produto.",
+    "A chamada branca no topo apresenta diretamente a oportunidade de revenda.",
+    "O botão verde se distingue do fundo quente."
+  ],
+  "quando_usar": "Recrutamento de revendedores durante o lançamento de um produto de catálogo.",
+  "estrutura_texto": "[SUA RENDA EXTRA COMEÇA NA REVENDA]\n[Conheça este lançamento]\n[Convite para participar da revenda]\n[CADASTRE-SE]",
+  "legenda": "O lançamento [produto] chegou ao catálogo. Conheça [características verificáveis] e as condições para revender. Comece seu cadastro em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use um único produto da IMAGEM 2 em grande escala e inclinado no centro à direita. Crie fundo fluido em vermelho e cobre, com textura compatível com o produto. Posicione título branco em caixa alta no topo, texto curto na lateral esquerda e botão verde centralizado na base. Apresente a oportunidade de revenda sem garantir resultados financeiros.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1420371146688691",
+    "anunciante": "O Boticário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-09",
+    "dias_no_ar": 66,
+    "variacoes_ativas": 4,
+    "texto_original": "A fragrância mais esperada chegou! 🤩🔥 \n\nGaranta o novo The Blend Saffron e comece na revenda com o lançamento que oferece sofisticação e alta fixação. \n\nLeve e conquiste sua liberdade financeira.\nRevenda O Boticário\nSeja um Revendedor do Boticário. Comece seu cadastro, é rápido e grátis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1420371146688691.jpg"
+}

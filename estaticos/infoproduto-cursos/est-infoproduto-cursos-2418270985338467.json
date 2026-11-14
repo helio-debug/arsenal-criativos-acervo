@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2418270985338467",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com doces em volta da oferta",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Doces e macarons cercam o título verde sobre fundo rosa. A gratuidade aparece em amarelo enorme, com localização em faixa e inscrição no rodapé.",
+  "por_que_funciona": [
+    "A palavra “GRATUITO” ocupa a maior área de texto e torna a condição da oferta imediata.",
+    "Doces distribuídos nas bordas mostram o universo prático do curso.",
+    "A faixa de localização permite avaliar a proximidade antes da inscrição.",
+    "O rodapé reúne limite de vagas e chamada para inscrição."
+  ],
+  "quando_usar": "Para captar inscrições em cursos presenciais gratuitos quando local, disponibilidade e condições já estiverem definidos.",
+  "estrutura_texto": "CURSO DE [TEMA]\n[CONDIÇÃO DE ACESSO]\nLOCAL: [REFERÊNCIA] - [REGIÃO]\n[VAGAS DISPONÍVEIS] [CTA]",
+  "legenda": "Aprenda [técnicas] em um curso gratuito de [tema], com atividades práticas em [local]. Conheça o conteúdo e os requisitos para participar em [link]. [Condição real das vagas].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo rosa, fotografias de produtos nas bordas, título verde em três linhas e a condição de acesso em amarelo com tamanho dominante. Coloque a localização numa faixa arredondada com contorno branco e o CTA no rodapé. Use somente a gratuidade e a escassez comprovadas. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: a gratuidade deve corresponder às condições reais do curso, com eventuais custos e requisitos claros. Só anunciar vagas limitadas quando houver limitação real; se mencionar renda, não garantir ganhos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2418270985338467",
+    "anunciante": "Portal Da Educação Polo Zona Norte",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-13",
+    "dias_no_ar": 185,
+    "variacoes_ativas": 1,
+    "texto_original": "🎓 CURSO GRATUITO DE CONFEITARIA\nEm parceria com escola de autonomia, cursos gratuitos são oferecidos com foco em técnicas práticas. \n👨🍳Localizado em Santana, Zona Norte de São Paulo. \n📍No curso você aprende:\n✅ Técnicas e processos de confeitaria e panificação de verdade\n✅ Receitas que você pode vender\n✅ Impressionar amigos e família\n✅ Tudo na prática, mão na massa \n\n🎂Por que fazer este curso?\n• Demanda real e constante no mercado\n• Aprenda com quem entende do assunto\n• Ganhe renda extra ou trabalhe como autônomo\n• Especialização em área com crescimento garantido🎯 \n⏰ Vagas limitadas!🔗 CLIQUE AQUI E GARANTA SUA VAGA AGORA!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2418270985338467.jpg"
+}

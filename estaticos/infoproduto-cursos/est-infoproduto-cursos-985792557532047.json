@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-985792557532047",
+  "tipo": "estatico",
+  "titulo": "Curso de bandagem com mosaico de aplicações e preço reduzido",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Mosaico de oito fotos mostra bandagens coloridas aplicadas em diferentes regiões do corpo. A base branca reúne nome do curso em azul, benefícios, chamada para saber mais e preço de entrada.",
+  "por_que_funciona": [
+    "As oito fotos mostram aplicações diferentes e tornam o conteúdo do curso concreto.",
+    "O nome do curso em azul ocupa um bloco próprio na base.",
+    "As linhas de benefícios informam modalidade, certificado e liberação das aulas.",
+    "O preço anterior vermelho e o atual verde facilitam a comparação da oferta."
+  ],
+  "quando_usar": "Para vender formação em técnica de bandagem a um público com qualificação compatível, mostrando os tipos de aplicação abordados.",
+  "estrutura_texto": "CURSO [TÉCNICA]\nCurso Online\n[BÔNUS]\n[CERTIFICADO]\n[CONDIÇÃO DE ACESSO]\nClique em [CTA]\nDE R$[PREÇO ANTERIOR] POR R$[PREÇO ATUAL]",
+  "legenda": "Conheça o passo a passo de [técnica] no curso online para [público habilitado]. Veja [conteúdos], condições de acesso e [recursos inclusos]. Confira o programa e a oferta em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um mosaico de oito fotografias de aplicações da técnica na parte superior, separado por margens brancas. Use a IMAGEM 2 como fonte do produto ou demonstração e não invente resultados clínicos. Na base branca, coloque nome do curso em azul à esquerda, benefícios em preto ao centro, pequena chamada vermelha à direita e faixa de preço anterior vermelho e preço atual verde. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": "Em formação ligada à saúde, não prometer cura, alívio garantido ou resultados clínicos universais. Apresentar aplicações como conteúdo educacional e respeitar o escopo profissional e as exigências do conselho competente; evitar atribuir condição de saúde ao usuário.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "985792557532047",
+    "anunciante": "Viva bem",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-03",
+    "dias_no_ar": 164,
+    "variacoes_ativas": 2,
+    "texto_original": "Descubra o passo a passo para aplicação de bandagem de forma prática e simples.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-985792557532047.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-2073665026597077",
+  "tipo": "estatico",
+  "titulo": "Controles do equipamento em primeiro plano",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Dois painéis de controle e parte de uma tela ocupam o primeiro plano sobre tecido com cores de bandeira. No alto, uma embarcação navega ao pôr do sol.",
+  "por_que_funciona": [
+    "Os painéis ampliados deixam botões e controles giratórios visíveis.",
+    "A sobreposição dos aparelhos cria profundidade e concentra a atenção no hardware.",
+    "A embarcação em movimento mostra o contexto de uso no mar.",
+    "O tecido escuro cria contraste com o equipamento e reserva uma área clara para a assinatura."
+  ],
+  "quando_usar": "Para apresentar equipamentos eletrônicos náuticos a pessoas que já conhecem a categoria e avaliam recursos ou configurações.",
+  "estrutura_texto": "[Marca no cenário de uso]\n[Nome do produto]\n[Marca]\n[Assinatura curta]",
+  "legenda": "Controle [equipamento] por [interface de toque] ou [comandos físicos], conforme as condições de navegação. Personalize [controles disponíveis] para sua rotina. Conheça [produto] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre em primeiro plano um recorte grande da tela e dois módulos de comandos físicos da IMAGEM 2, com botões e controles giratórios nítidos. Use uma embarcação ao pôr do sol no terço superior e tecido ondulado azul, vermelho e branco na base. Reserve o canto inferior direito para a identidade própria e uma assinatura curta. Não invente interfaces ou funções.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2073665026597077",
+    "anunciante": "Raymarine USA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-18",
+    "dias_no_ar": 88,
+    "variacoes_ativas": 6,
+    "texto_original": "Total control, your way.\nNavigate with HybridTouch™ or switch to the keypad when seas get rough.\n\nCustomize your Axiom 2 Pro with swappable keypads—choose Evolution autopilot control or programmable soft keys.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-2073665026597077.jpg"
+}

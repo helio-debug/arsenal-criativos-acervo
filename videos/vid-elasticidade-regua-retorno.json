@@ -1,0 +1,73 @@
+{
+  "id": "vid-elasticidade-regua-retorno",
+  "tipo": "video",
+  "titulo": "Tecido esticado sobre régua e retorno ao comprimento inicial",
+  "formato_video": "teste-elasticidade",
+  "nichos": [
+    "moda-acessorios"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Vou mostrar o tecido esticando e voltando, com régua.",
+    "texto_tela": "Comprimento inicial",
+    "visual": "Trecho de tecido apoiado sobre régua com pontos marcados"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Trecho de tecido apoiado sobre régua com pontos marcados",
+      "fala": "Entre estas marcas, temos [medida inicial] sem puxar.",
+      "texto_tela": "Comprimento inicial"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Mãos tracionam devagar dentro do uso previsto",
+      "fala": "Com uma tração leve, chegou até [medida observada].",
+      "texto_tela": "Alongamento observado"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Solta tecido no mesmo plano e mede novamente",
+      "fala": "Soltei o tecido. Agora a medida ficou em [medida final].",
+      "texto_tela": "Retorno após soltar"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Mostra costura e peça inteira",
+      "fala": "É uma demonstração desta peça. Consulte composição e tabela de medidas.",
+      "texto_tela": "Composição e medidas"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra trecho de tecido apoiado sobre régua com pontos marcados, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém a medição e as condições do teste visíveis.",
+    "O fechamento exibe mostra costura e peça inteira, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é tecido esticado sobre régua e retorno ao comprimento inicial.",
+  "roteiro_modelo": "[Abertura] Vou mostrar o tecido esticando e voltando, com régua.\n[0-4s] Entre estas marcas, temos [medida inicial] sem puxar.\n[4-10s] Com uma tração leve, chegou até [medida observada].\n[10-18s] Soltei o tecido. Agora a medida ficou em [medida final].\n[18-25s] É uma demonstração desta peça. Consulte composição e tabela de medidas.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Trecho de tecido apoiado sobre régua com pontos marcados.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mãos tracionam devagar dentro do uso previsto.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Solta tecido no mesmo plano e mede novamente.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mostra costura e peça inteira."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, trecho de tecido apoiado sobre régua com pontos marcados, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, mãos tracionam devagar dentro do uso previsto, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Tecido esticado sobre régua e retorno ao comprimento inicial. Preserve esta mecânica: Trecho de tecido apoiado sobre régua com pontos marcados; Mãos tracionam devagar dentro do uso previsto; Solta tecido no mesmo plano e mede novamente; Mostra costura e peça inteira. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não invente medidas, estoque, garantia nem condições comerciais.",
+  "legenda": "Veja [produto] de perto: tecido esticado sobre régua e retorno ao comprimento inicial. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": null,
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1529309689221047",
+      "dias_no_ar": 40,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

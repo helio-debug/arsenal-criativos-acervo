@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-731893292939012",
+  "tipo": "estatico",
+  "titulo": "Fachada com piscina e preço de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte em turquesa e magenta com fachada residencial e piscina no centro. Faixas inferiores destacam dois quartos, preço inicial e endereço.",
+  "por_que_funciona": [
+    "A fachada ocupa o centro e permite visualizar o empreendimento.",
+    "A piscina e o paisagismo mostram áreas de lazer na mesma composição.",
+    "O preço em branco sobre magenta facilita localizar o valor inicial.",
+    "A informação de dois quartos aparece em destaque ao lado do preço."
+  ],
+  "quando_usar": "Para divulgar um empreendimento com preço inicial definido e receber consultas de compradores.",
+  "estrutura_texto": "[Frase de posicionamento]\n[Marca]\n[Chamada sobre moradia]\n[Programa habitacional]\n[Quantidade de quartos]\nA partir de [preço]\n[Endereço]",
+  "legenda": "Conheça apartamentos de [quantidade de quartos] em [região], a partir de [preço]. Consulte as condições de pagamento, financiamento e uso de [recurso permitido]. Fale com [equipe comercial].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo turquesa, blocos magenta e fotografia central de fachada com lazer, em recorte de cantos arredondados. Posicione chamada curta no topo, selo autorizado lateral, quantidade de quartos e preço em grandes caracteres na base, seguidos de endereço.",
+  "alerta_politica": "Ao divulgar financiamento habitacional, informe condições, critérios de renda e sujeição à análise de crédito. Não prometa aprovação, subsídio ou uso de recursos garantidos. Apresente entrada, parcelas e preço de forma clara e use identificação de programa público somente quando aplicável e autorizada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "731893292939012",
+    "anunciante": "Vivaz Residencial RJ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-29",
+    "dias_no_ar": 473,
+    "variacoes_ativas": 2,
+    "texto_original": "Chegou a sua hora! Compre seu apartamento próprio na Av. Geremário Dantas com pagamento facilitado, financiamento Minha Casa Minha Vida e possibilidade de usar o seu FGTS!\nSaia do Aluguel\nVivaz",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-731893292939012.jpg"
+}

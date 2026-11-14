@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1845632106874986",
+  "tipo": "estatico",
+  "titulo": "Seguro náutico sobre foto de embarcação em movimento",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Embarcação vista de cima navega em mar azul e ocupa grande parte da peça. Título branco identifica o seguro náutico; um bloco com duas faixas no rodapé convida ao contato e ao orçamento.",
+  "por_que_funciona": [
+    "A embarcação em movimento identifica o público e o patrimônio protegido.",
+    "O azul do mar sustenta contraste com o título branco em tamanho grande.",
+    "A palavra que define o tipo de seguro recebe o maior peso tipográfico.",
+    "O bloco de contato no rodapé cria uma área clara para a próxima ação."
+  ],
+  "quando_usar": "Para apresentar seguro de embarcações a proprietários que navegam por lazer e incentivar pedidos de orçamento.",
+  "estrutura_texto": "[Marca]\nSeguro [categoria]\n[Frase sobre preservar o lazer diante de imprevistos]\nEntre em contato!\nSolicite [orçamento/cotação]!",
+  "legenda": "Antes de sair para [atividade], conheça as opções de seguro para [bem]. Encontre coberturas adequadas a [uso e perfil] e consulte as condições da apólice. Clique em [CTA] e solicite uma cotação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a IMAGEM 2 como embarcação principal em vista aérea sobre água azul, com rastro de movimento diagonal. Reserve o topo para identidade própria em uma aba azul, seguido de título branco com a categoria em caixa alta e uma frase curta. Na parte inferior, crie bloco de CTA com faixa branca e faixa azul. Preserve a leitura sem cobrir a embarcação e não implique cobertura irrestrita.",
+  "alerta_politica": "Meta: apresente preço inicial, descontos, parcelamento e coberturas com condições claras e comprováveis. Informe que a contratação depende de cotação, perfil, análise de risco e condições da apólice; não sugira cobertura universal ou aprovação garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1845632106874986",
+    "anunciante": "Segcorp Corretora de Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 1,
+    "texto_original": "🛥️ O passeio termina. As boas lembranças ficam. O prejuízo de um imprevisto também pode ficar.\n\nAntes de sair para navegar, conte com a Segcorp para encontrar o seguro náutico adequado à sua embarcação.\n\nProteja seu patrimônio e aproveite seus momentos de lazer com mais tranquilidade. 🌊\n\n👉 Clique em “Saiba mais” e solicite sua cotação com a Segcorp.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/seguros/est-seguros-1845632106874986.jpg"
+}

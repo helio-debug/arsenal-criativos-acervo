@@ -1,0 +1,108 @@
+{
+ "id": "vid-aula-funis-comparados",
+ "tipo": "video",
+ "titulo": "Aula no quadro com dois caminhos e comparação de esforço",
+ "formato_video": "aula-quadro",
+ "nichos": [
+  "marketing-trafego",
+  "educacao-concursos",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "60-70s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "No caminho A, [tarefa] consome [medida de esforço]. Vamos desenhar onde esse esforço se acumula.",
+  "texto_tela": "A: [medida e unidade]",
+  "visual": "Close no quadro branco: mão aponta o título do caminho A e uma medida escrita à mão. Legenda branca curta embaixo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Close no quadro branco: mão aponta o título do caminho A e uma medida escrita à mão. Legenda branca curta embaixo.",
+   "fala": "No caminho A, [tarefa] consome [medida de esforço]. Vamos desenhar onde esse esforço se acumula.",
+   "texto_tela": "A: [medida e unidade]"
+  },
+  {
+   "tempo": "8-18s",
+   "cena": "Mão com caneta preta desenha caixas e setas do caminho A, mantendo o texto grande.",
+   "fala": "Você começa por [entrada], passa por [etapa intermediária] e chega a [etapa final]. Até aqui, [dúvida ou tarefa] continua pendente.",
+   "texto_tela": "[Entrada] → [etapa] → [final]"
+  },
+  {
+   "tempo": "18-27s",
+   "cena": "Apresentador aponta o ponto de acúmulo no quadro; enquadramento lateral deixa aparecer parte do escritório.",
+   "fala": "Essa pendência cai inteira em [etapa final]. A pessoa precisa [ação difícil] antes de conseguir [objetivo].",
+   "texto_tela": "Pendência: [tarefa]"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Desloque o celular para o lado B. Desenhe uma etapa adicional e destaque-a com caneta vermelha.",
+   "fala": "No caminho B, entra [recurso do produto] antes de [etapa final]. Ele permite [ação específica], usando [informação ou material necessário].",
+   "texto_tela": "B: [recurso] antes de [etapa]"
+  },
+  {
+   "tempo": "39-51s",
+   "cena": "Close no desenho do recurso, com uma seta até a saída. A mão percorre o fluxo.",
+   "fala": "Assim, [tarefa pendente] acontece antes. Compare os caminhos com a mesma [unidade de comparação] e registre [indicador observável].",
+   "texto_tela": "Compare por [unidade]"
+  },
+  {
+   "tempo": "51-60s",
+   "cena": "Mão escreve uma ressalva abaixo das duas colunas; mantenha os dois caminhos no quadro.",
+   "fala": "Use [critério] pra decidir se essa mudança compensa. O resultado depende de [condição de uso]; teste com um recorte pequeno.",
+   "texto_tela": "Teste: [critério]"
+  },
+  {
+   "tempo": "60-68s",
+   "cena": "Abra o plano para mostrar apresentador e quadro. Finalize apontando o recurso desenhado.",
+   "fala": "Em [produto], eu mostro como montar esse caminho com [entrega real]. Confira os detalhes em [destino do botão].",
+   "texto_tela": "Conheça [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A mão aponta números escritos no quadro já na abertura, tornando a comparação visível.",
+  "As caixas e setas desenhadas durante a explicação permitem acompanhar a ordem das etapas.",
+  "A marcação vermelha no segundo fluxo destaca o ponto de aquecimento citado na fala da referência.",
+  "Os closes do quadro mantêm os diagramas grandes enquanto as legendas brancas acompanham a explicação."
+ ],
+ "quando_usar": "Para consultorias, materiais de estudo e serviços de marketing que ensinam um processo em etapas. Use no meio do funil, quando é preciso explicar uma diferença operacional antes de apresentar a entrega.",
+ "roteiro_modelo": "[0-8s] No caminho A, [tarefa] consome [medida de esforço]. Vamos desenhar onde esse esforço se acumula.\n\n[Pausa curta / corte]\n[8-18s] Você começa por [entrada], passa por [etapa intermediária] e chega a [etapa final]. Até aqui, [dúvida ou tarefa] continua pendente.\n\n[Pausa curta / corte]\n[18-27s] Essa pendência cai inteira em [etapa final]. A pessoa precisa [ação difícil] antes de conseguir [objetivo].\n\n[Pausa curta / corte]\n[27-39s] No caminho B, entra [recurso do produto] antes de [etapa final]. Ele permite [ação específica], usando [informação ou material necessário].\n\n[Pausa curta / corte]\n[39-51s] Assim, [tarefa pendente] acontece antes. Compare os caminhos com a mesma [unidade de comparação] e registre [indicador observável].\n\n[Pausa curta / corte]\n[51-60s] Use [critério] pra decidir se essa mudança compensa. O resultado depende de [condição de uso]; teste com um recorte pequeno.\n\n[Pausa curta / corte]\n[60-68s] Em [produto], eu mostro como montar esse caminho com [entrega real]. Confira os detalhes em [destino do botão].",
+ "tomadas_celular": [
+  "Close do quadro com título e medida do caminho A, luz lateral difusa para evitar reflexo; grave 8s.",
+  "Mão desenhando três caixas e setas, celular apoiado na altura do quadro, mesma luz; grave 10s.",
+  "Apresentador ao lado do quadro, plano médio lateral, luz de janela a 45 graus; grave 9s.",
+  "Desenho do caminho B em close, destaque de caneta vermelha e iluminação uniforme; grave 12s.",
+  "Mão percorrendo as setas e escrevendo o critério, plano fechado com foco travado e luz difusa; grave 21s.",
+  "Apresentador e dois fluxos no mesmo plano vertical, luz frontal suave; grave 8s de convite."
+ ],
+ "caminho_ia": "Crie no CapCut um slideshow animado dos dois fluxos, com caixas e setas montadas manualmente para manter os textos corretos. Use avatar autorizado ou voz sintética para narrar. Para inserts no Runway, use: \"Vertical 9:16 close-up, hand holding a black dry erase marker beside two blank flowchart columns for [product process], whiteboard surface, soft side lighting without glare, static camera, no numbers, no logos.\" e \"Vertical 9:16 medium shot, fictional instructor pointing at a blank whiteboard in a modest office, soft daylight, subtle handheld camera movement, clean space for [product diagram], no text, no branding.\" Insira as medidas e os destaques vermelhos na edição. Não apresente medidas inventadas como resultados.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie aula de 68s em sete blocos: medida do caminho A, desenho do fluxo, ponto de acúmulo, caminho B com recurso do produto, comparação na mesma unidade, critério de teste e convite. Quadro branco, caneta preta, destaque vermelho na mudança e legendas brancas curtas. Tom didático, ritmo de desenho e apontamento, closes alternados com plano lateral. A comparação deve servir ao produto informado, inclusive estudo e consultoria. Não copie valores, percentuais, nomes nem promessas comerciais da referência. Números só com evidência fornecida; exemplos hipotéticos precisam de identificação na tela. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e frases de efeito. Use somente informações fornecidas, sem inventar resultados ou provas. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Dois caminhos para [tarefa]. O quadro mostra em que etapa entra [recurso] e o que observar no teste. Veja como [produto] organiza esse processo em [destino].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-4d1dde1d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-aula-funis-comparados/frames/f1.jpg",
+    "videos/vid-aula-funis-comparados/frames/f2.jpg",
+    "videos/vid-aula-funis-comparados/frames/f3.jpg",
+    "videos/vid-aula-funis-comparados/frames/f4.jpg",
+    "videos/vid-aula-funis-comparados/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-65e90637",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

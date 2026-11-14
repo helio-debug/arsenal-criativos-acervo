@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1858920035293786",
+  "tipo": "estatico",
+  "titulo": "Equipe de professores acima do nome do curso",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Montagem de oito pessoas diante de uma bandeira em tons de cinza, com nome do curso em letras grandes na metade inferior. Amarelo marca a modalidade, a região e os recursos de estudo.",
+  "por_que_funciona": [
+    "A montagem da equipe apresenta visualmente quem está associado ao curso.",
+    "A sigla em branco ocupa grande área e permite reconhecer rapidamente o preparatório.",
+    "O selo amarelo de modalidade separa o nome do curso da fotografia.",
+    "A linha de recursos informa os meios de estudo e o canal de dúvidas."
+  ],
+  "quando_usar": "Para divulgar uma turma extensiva com equipe e recursos já definidos.",
+  "estrutura_texto": "CONHEÇA O [CURSO] QUE JÁ [RESULTADO COMPROVADO]\n[MODALIDADE]\n[SIGLA DO CONCURSO]\n[NOME DA CARREIRA E REGIÃO]\nEstude através de [recursos] e [canal de dúvidas]\n[Marca]\n[Fechamento]",
+  "legenda": "Prepare-se para [concurso] com [curso], [materiais] e [canal de dúvidas]. Veja como funciona [trilha de estudos] e conheça os professores e as opções de acompanhamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, fotografia recortada de equipe na metade superior e bandeira genérica monocromática ao fundo. No centro inferior, aplique sigla grande branca e etiqueta amarela de modalidade. Acrescente nome completo e recursos em letras menores. Use apenas pessoas autorizadas e resultados documentados; não reproduza símbolos institucionais que sugiram vínculo oficial.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1858920035293786",
+    "anunciante": "Projeto individualizado para concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-25",
+    "dias_no_ar": 20,
+    "variacoes_ativas": 3,
+    "texto_original": "Você não estuda pouco. Você estuda errado. 🎯\n\nTrês plataformas abertas, quatro apostilas, nenhum critério de prioridade — e a sensação de que o conteúdo nunca acaba.\n\nO PIC Aprova prepara para concursos da Polícia Civil desde 2015: plano de estudo montado a partir do edital, material direto ao ponto e acompanhamento de quem já passou pela prova. 📌\n\nClique e veja os dois formatos: curso online com trilha guiada ou mentoria individual.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1858920035293786.jpg"
+}

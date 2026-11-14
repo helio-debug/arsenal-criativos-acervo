@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1305819145010040",
+  "tipo": "estatico",
+  "titulo": "Convite ao conteúdo com notebook ao fundo",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fotografia de notebook exibindo um blog, coberta por degradê verde escuro. A chamada em branco e verde ocupa a esquerda, com descrição dos temas e botão no rodapé.",
+  "por_que_funciona": [
+    "O notebook mostra o destino do clique como uma página de conteúdos.",
+    "O degradê escuro dá contraste ao título sobre a fotografia.",
+    "A lista de temas esclarece o assunto do blog antes do clique.",
+    "O botão verde no rodapé explicita a ação de visitar o conteúdo."
+  ],
+  "quando_usar": "Para atrair empresários com conteúdo educativo antes de apresentar um serviço.",
+  "estrutura_texto": "[Tema de informação] para [benefício de decisão]\n[Acesse conteúdos sobre temas] em um só lugar\n[Visite o blog]",
+  "legenda": "Encontre conteúdos sobre [tema 1], [tema 2] e [rotina do público] para apoiar as decisões da sua empresa. Acesse [blog] e confira os artigos disponíveis.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma composição com notebook ao fundo exibindo uma página editorial genérica coerente com o produto. Aplique degradê verde escuro mais forte à esquerda e embaixo. Use título grande branco, com o benefício em verde vivo; abaixo, texto curto sobre os temas. No rodapé, botão verde à esquerda e identidade própria à direita. Não reproduza o site da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1305819145010040",
+    "anunciante": "Contajá Contabilidade Online.",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-05",
+    "dias_no_ar": 162,
+    "variacoes_ativas": 3,
+    "texto_original": "Empreender exige boas decisões. E boas decisões começam com informação de qualidade. \n\nNo Blog da Contajá, você encontra conteúdos sobre contabilidade, gestão, CNPJ e rotina empresarial para cuidar melhor do seu negócio.\n\nAcesse agora e fique por dentro do que realmente importa para sua empresa.",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1305819145010040.jpg"
+}

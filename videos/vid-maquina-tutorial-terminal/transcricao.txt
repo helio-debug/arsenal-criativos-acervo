@@ -1,0 +1,2 @@
+This free skill turns one prompt into an isometric machine you can operate. 23,000 people started on GitHub in three weeks. Step 1. Install anatomy with one line in Claude Code, Codex, OpenCode, or Antigravity. Step 2. Pick an example, like the Raptor engine or the arcade cabinet. Step 3. Ask for the machine you want. A full build takes about two hours of agent time. Show people a machine.
+Not a flat box. Comment anatomy and I will send you the link in the install line.

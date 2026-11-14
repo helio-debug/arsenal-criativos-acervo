@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1314485621756320",
+  "tipo": "estatico",
+  "titulo": "Programa do evento em sequência sobre cenário de obra",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo escuro de terreno em obra com desenho luminoso de um edifício à direita. À esquerda, título e cinco etapas conectadas por uma linha vertical apresentam o programa do evento.",
+  "por_que_funciona": [
+    "A sequência de círculos conectados organiza a jornada do terreno ao lançamento.",
+    "O último círculo preenchido destaca o objetivo final do programa.",
+    "A estrutura luminosa do prédio contextualiza o tema imobiliário.",
+    "Data e formato ao vivo aparecem em uma cápsula acima do título."
+  ],
+  "quando_usar": "Para apresentar o programa de um evento e mostrar a ordem dos conteúdos antes da inscrição.",
+  "estrutura_texto": "[EDIÇÃO E TEMA]\n[DATAS] | Ao vivo\nEvento ao vivo: [TRANSFORMAÇÃO ENSINADA]\n[ETAPA 1]\n[ETAPA 2]\n[ETAPA 3]\n[ETAPA 4]\n[ETAPA FINAL]\nGaranta seu ingresso clicando em Saiba Mais",
+  "legenda": "Em [datas], acompanhe [evento] ao vivo. O programa vai de [etapa inicial] a [etapa final], com [recurso ou método] aplicado a [tema]. Confira os detalhes e garanta seu ingresso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário de terreno em obra ao entardecer com desenho luminoso de um edifício à direita e degradê escuro à esquerda. Insira identificação discreta no topo, cápsula com datas e título branco com trecho dourado. Disponha cinco etapas numa linha vertical de círculos, preenchendo o último. Finalize com botão arredondado e seta. Apresente resultados como conteúdos ensinados, sem garantir vendas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1314485621756320",
+    "anunciante": "Incorporação na Prática",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-27",
+    "dias_no_ar": 48,
+    "variacoes_ativas": 13,
+    "texto_original": "O que você aprende nos dois dias ao vivo, 7 e 8 de novembro:\n✓ O Fluxo do Desenvolvimento Imobiliário completo, da leitura de mercado à estrutura de lançamento \n✓ Como ler o mercado e saber quem compra na sua região, por que compra e quanto pode pagar \n✓ Como transformar dado em hipótese de produto, em vez de decidir por feeling \n✓ As três viabilidades (mercado, técnica e financeira) e por que falhar em uma derruba as outras \n✓ Como achar o teto do terreno antes de negociar, para não comprometer a margem ✓ Como usar a IA para acelerar a análise dentro do processo, sem terceirizar a decisão \n✓ Como estruturar um lançamento que vende antes de você levantar a obra\nE se, ao final, o método não fizer sentido para você, são 7 dias de garantia\n▶ Inscreva-se agora clicando no botão.",
+    "origem_coleta": "acervo:incorporacao-na-pratica"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1314485621756320.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1565768834675473",
+  "tipo": "estatico",
+  "titulo": "Anúncio de encontro executivo com data e local",
+  "formato": "Comunicado oficial",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Convite tipográfico com fundo preto, arco verde-oliva na esquerda e nome do evento em letras brancas finas. Data, local e assinatura da organização aparecem abaixo.",
+  "por_que_funciona": [
+    "O nome do encontro ocupa a maior hierarquia da composição.",
+    "Data e local ficam juntos em bloco curto de leitura direta.",
+    "O arco verde-oliva cria uma moldura reconhecível sem competir com o texto.",
+    "O fundo preto dá contraste às letras brancas e ao símbolo colorido."
+  ],
+  "quando_usar": "Para anunciar a data de encontros corporativos e iniciar a divulgação antes de detalhar programação e inscrições.",
+  "estrutura_texto": "[Nome do evento]\n[Tema central]\nDe [dia] a [dia] de [mês]\n[Local]\n[Organização]",
+  "legenda": "O [evento] reunirá [perfil de participantes] para discutir [tema] e desenvolver conexões de negócios. Reserve [datas] na agenda: o encontro será em [local]. Confira a programação e saiba como participar em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie convite tipográfico com fundo preto, grande arco verde-oliva entrando pela esquerda e amplo espaço vazio à direita e no rodapé. Alinhe à esquerda nome do evento em branco com fonte fina e grande, tema menor abaixo, bloco de data e local no centro e assinatura própria inferior. Utilize os dados fornecidos e evite inventar participantes ou exclusividade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1565768834675473",
+    "anunciante": "B2B Match",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-23",
+    "dias_no_ar": 264,
+    "variacoes_ativas": 1,
+    "texto_original": "Com a presença de tomadores de decisão das principais organizações do país, a quinta edição do Exponential Summit reunirá mais de 160 CEOs e C-Levels em uma em uma jornada de conexões, geração de oportunidades e tendências de negócios. \n\nPode anotar na agenda: o mais exclusivo e impactante summit de lideranças corporativas do Brasil acontecerá entre os dias 6 e 8 de outubro, no Clara Ibiúna Resort.\n\nArraste a imagem para conhecer mais detalhes da programação. \n\nQuer saber como participar? Basta enviar mensagem no inbox ou nos comentários.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1565768834675473.jpg"
+}

@@ -1,0 +1,109 @@
+{
+ "id": "vid-automacao-lote-notebook",
+ "tipo": "video",
+ "titulo": "Demonstração no notebook: produção em lote, configuração e convite ao workshop",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "escassez-prazo",
+ "etapa_funil": "fundo",
+ "duracao": "33-39s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Este lote tem [quantidade comprovada] [entregas] feitas com [processo]. Vou mostrar a configuração.",
+  "texto_tela": "[QUANTIDADE] [ENTREGAS]",
+  "visual": "Close inclinado do notebook com grade de arquivos e painel lateral; contagem grande sobre a tela."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Close do notebook; mostre os arquivos reais e sobreponha a quantidade conferida.",
+   "fala": "Este lote tem [quantidade comprovada] [entregas] feitas com [processo]. Vou mostrar a configuração.",
+   "texto_tela": "[QUANTIDADE] [ENTREGAS]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Corte para plano médio sentado à mesa, notebook à frente; gesto em direção à tela.",
+   "fala": "Eu preparei [insumo] uma vez e defini [regra principal] para repetir a tarefa.",
+   "texto_tela": "[INSUMO] + [REGRA]"
+  },
+  {
+   "tempo": "12-19s",
+   "cena": "Volte à tela ou faça inserção da configuração, depois aproxime o rosto com corte.",
+   "fala": "Depois, executei [comando ou ação]. O lote saiu com [característica verificável]; revisei [ponto de controle].",
+   "texto_tela": "[AÇÃO] → [LOTE]"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Plano próximo do apresentador; legenda branca curta no centro.",
+   "fala": "No [evento], vou ensinar esse processo com [exercício prático] e os arquivos de apoio.",
+   "texto_tela": "[EVENTO] • [EXERCÍCIO]"
+  },
+  {
+   "tempo": "26-33s",
+   "cena": "Abra para plano médio com mesa e notebook visíveis.",
+   "fala": "A aula é para [público], com [pré-requisito]. Você vai praticar [tarefa ensinada].",
+   "texto_tela": "Para [PÚBLICO]"
+  },
+  {
+   "tempo": "33-39s",
+   "cena": "Plano mais aberto sentado; mantenha gesto de convite e texto com data e ação.",
+   "fala": "As inscrições vão até [prazo real]. Acesse [botão ou link do perfil] para conferir o programa e reservar [ingresso].",
+   "texto_tela": "Inscrições até [DATA]"
+  }
+ ],
+ "por_que_funciona": [
+  "O close inicial mostra a grade de arquivos antes da apresentação do evento, dando um objeto concreto à quantidade falada.",
+  "O corte para o apresentador à mesa mantém o notebook dentro do cenário da explicação.",
+  "A aproximação do rosto no frame intermediário muda a escala do enquadramento quando a fala passa da demonstração ao convite.",
+  "Os planos finais mais abertos mostram gestos e mesa, enquanto as legendas curtas acompanham a chamada."
+ ],
+ "quando_usar": "Para workshops de ferramentas, marketing ou cursos em que uma tarefa possa gerar entregas em lote demonstráveis. Use no fundo do funil, com programa definido, inscrição disponível e prazo verdadeiro.",
+ "roteiro_modelo": "Este lote tem [quantidade comprovada] [entregas] feitas com [processo]. Vou mostrar a configuração.\n\n[Corte / pausa]\n\nEu preparei [insumo] uma vez e defini [regra principal] para repetir a tarefa.\n\n[Corte / pausa]\n\nDepois, executei [comando ou ação]. O lote saiu com [característica verificável]; revisei [ponto de controle].\n\n[Corte / pausa]\n\nNo [evento], vou ensinar esse processo com [exercício prático] e os arquivos de apoio.\n\n[Corte / pausa]\n\nA aula é para [público], com [pré-requisito]. Você vai praticar [tarefa ensinada].\n\n[Corte / pausa]\n\nAs inscrições vão até [prazo real]. Acesse [botão ou link do perfil] para conferir o programa e reservar [ingresso].",
+ "tomadas_celular": [
+  "Filme o notebook de perto com câmera traseira, leve inclinação, luz ambiente difusa e brilho sem cintilação; 5s.",
+  "Grave sentado à mesa em plano médio, celular à altura dos olhos, luz frontal suave e notebook no quadro; 7s.",
+  "Capture a configuração e um item do lote em close, celular apoiado, tela sem reflexos; 7s.",
+  "Grave o convite em plano próximo, luz frontal constante, sem zoom digital; 7s.",
+  "Grave público e pré-requisito em plano médio, celular fixo e luz difusa; 7s.",
+  "Afaste o celular para mostrar mesa e gestos, mesma iluminação; 6s para prazo e inscrição."
+ ],
+ "caminho_ia": "Use Kling para ilustrar notebook e apresentador, voz sintética ou clonada autorizada para narrar e CapCut para montar cortes e contagem. Prompts: \"Vertical 9:16 handheld close-up of a laptop on a white desk, generic file grid with [deliverable type] thumbnails, soft office lighting, slow push-in, no logos, no readable text.\" e \"Vertical 9:16 medium shot of a fictional workshop instructor seated at a white desk with a laptop, bright modern room, soft frontal lighting, natural hand gestures, eye-level camera, no logos.\" Para a demonstração, use arquivos reais já existentes e capture a tela sem câmera; se só houver imagens geradas, rotule como simulação e não alegue volume produzido. Insira data e número na edição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 39s em seis blocos: lote pronto no notebook; insumo e regra; execução com revisão; convite ao evento; público e pré-requisito; prazo real e inscrição. Tom de bastidor, fala direta e cortes entre tela, plano médio e rosto próximo. Contagem grande na abertura e legendas brancas curtas. Adapte a qualquer processo ensinável do meu produto. Não copie apresentador, tatuagens, marcas, evento ou quantidade da referência. Não invente automação, economia de tempo, vagas esgotando ou entrega comprovada. Use [quantidade a conferir] e [prazo real] quando necessário. Não use antíteses vazias, superlativos sem prova ou perguntas decorativas. Escreva em pt-BR falado, com [colchetes] para dados que preciso completar.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "No [evento], vamos praticar [tarefa] com [insumo necessário]. Confira o programa, [pré-requisito] e as condições em [local de inscrição]. Inscrições até [data real].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a4682172",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-automacao-lote-notebook/frames/f1.jpg",
+    "videos/vid-automacao-lote-notebook/frames/f2.jpg",
+    "videos/vid-automacao-lote-notebook/frames/f3.jpg",
+    "videos/vid-automacao-lote-notebook/frames/f4.jpg",
+    "videos/vid-automacao-lote-notebook/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-cc5ee8a4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-fa6894f1",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

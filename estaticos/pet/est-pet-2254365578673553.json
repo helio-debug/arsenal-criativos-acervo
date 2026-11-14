@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2254365578673553",
+  "tipo": "estatico",
+  "titulo": "Embalagem de ração com indicação de idade e porte",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Embalagem branca de ração centralizada sobre fundo branco. O painel inferior rosa e turquesa informa idade, porte e sabor, com ilustração de um cão no centro.",
+  "por_que_funciona": [
+    "A embalagem ocupa quase toda a altura, facilitando seu reconhecimento.",
+    "O painel inferior reúne idade e porte para orientar a escolha.",
+    "O sabor aparece em uma área própria junto à imagem dos ingredientes.",
+    "A ilustração do cão reforça a espécie a que o produto se destina."
+  ],
+  "quando_usar": "Para catálogo ou remarketing de ração, quando o comprador precisa identificar a versão adequada por idade e porte.",
+  "estrutura_texto": "[Categoria de qualidade]\n[Marca e linha]\n[Espécie]\n[Faixa etária]\n[Porte]\n[Sabor].",
+  "legenda": "Precisa escolher a ração para [espécie]? Conheça [produto] para [idade e porte], sabor [sabor]. Consulte as informações nutricionais e peça pelo [canal]. Para necessidades específicas de saúde, procure orientação veterinária.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma fotografia de catálogo com a embalagem da IMAGEM 2 centralizada, quase na altura total, sobre fundo branco. Preserve fielmente idade, porte, sabor e demais informações reais do rótulo. Use luz uniforme e sombra suave; não acrescente chamadas externas nem promessas de saúde.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2254365578673553",
+    "anunciante": "Nutripet Rações - Pet Shop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-21",
+    "dias_no_ar": 116,
+    "variacoes_ativas": 1,
+    "texto_original": "🐾 Tem dúvida sobre qual é a ração ideal para a saúde do seu Pet?\n\nFica tranquilo que nós traduzimos para você! Recomendando a ração ideal para a idade, porte e saúde do seu Pet!\n\n🐱 Aperte no botão disponível e compre no nosso Shop.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2254365578673553.jpg"
+}

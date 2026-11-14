@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1315784893737570",
+  "tipo": "estatico",
+  "titulo": "Formação técnica com demonstração na máquina",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Moldura vermelha envolve título amarelo com contorno preto e informações das modalidades na parte superior. A metade inferior mostra um instrutor operando um painel industrial.",
+  "por_que_funciona": [
+    "O título amarelo com contorno destaca o assunto técnico.",
+    "A linha sobre torno e centro de usinagem delimita o conteúdo.",
+    "A foto mostra o painel e a interação do instrutor com o equipamento.",
+    "O texto sobre dúvidas em tempo real explica a vantagem das aulas ao vivo."
+  ],
+  "quando_usar": "Para divulgar formação técnica cuja aplicação pode ser mostrada em ambiente de trabalho.",
+  "estrutura_texto": "CURSO DE [tema]\n[equipamentos ou aplicações]\nAULAS [modalidades]\n[benefício do contato com professor]",
+  "legenda": "Prepare-se para atuar com [competência técnica]. Tenha aulas [modalidades] e tire dúvidas [forma de acompanhamento]. Consulte [datas], [conteúdo] e [carga horária] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie moldura vermelha arredondada e área superior branca com título amarelo de contorno preto. Use subtítulo técnico e dois blocos sobre modalidades e dúvidas ao vivo. Ocupe a metade inferior com foto da IMAGEM 2 mostrando instrutor e equipamento em uso.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1315784893737570",
+    "anunciante": "CNC Treinamentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-01",
+    "dias_no_ar": 197,
+    "variacoes_ativas": 1,
+    "texto_original": "👊😎 TORNE-SE UM ESPECIALISTA EM PROGRAMAÇÃO CNC \n\n🤝💪  SE PREPARE CONOSCO para trabalhar em GRANDES INDÚSTRIAS!\n\n🤓 AULAS ONLINE AO VIVO ou PRESENCIAL EM CURITIBA/PR\n\n✅ ACESSE NOSSO SITE e veja datas de inicio, conteúdo e carga horária:\nhttp://www.cnctreinamentos.com.br/programacao_cnc_12.html\n\n✅ OU FALE CONOSCO via Whatsapp:\nhttp://bit.ly/programacao_cnc\n\n👉 SÓ EM NOSSO CURSO O ALUNO TEM:\n\n✅ AULA ONLINE AO VIVO, tire suas duvidas em tempo real com o professor;\n\n✅  APRENDA A PROGRAMAR, PREPARAR e OPERAR TORNO CNC e CENTRO de USINAGEM no mesmo curso;\n\n✅ SIMULADORES CNC para você estudar e praticar em casa o que aprendeu em sala de aula;\n\n✅ PROFESSORES ESPECIALISTAS com mais de 25 anos de EXPERIENCIA em ensino industrial e ativos na profissão\n\n✅ OBTENHA O CERTIFICADO DA MAIOR ESCOLA DE PROGRAMAÇÃO CNC DO BRASIL\n\n👊 FAÇA SUA MATRICULA O QUANTO ANTES!!!. São poucas vagas por turma! 👊\nCNC Treinamentos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1315784893737570.jpg"
+}

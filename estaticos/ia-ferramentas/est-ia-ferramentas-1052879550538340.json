@@ -1,0 +1,36 @@
+{
+  "id": "est-ia-ferramentas-1052879550538340",
+  "tipo": "estatico",
+  "titulo": "Mural de comentários sobre ferramenta de conteúdo",
+  "formato": "Post e comentários",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Oito recortes de comentários distribuídos em duas colunas sobre fundo branco. Avatares, corações e comandos de resposta preservam a aparência de comentários de rede social.",
+  "por_que_funciona": [
+    "Os recortes mantêm avatares e comandos, mostrando o contexto dos relatos.",
+    "Comentários citam tarefas específicas, como criar conteúdo e publicar.",
+    "O volume de relatos ocupa toda a peça e sugere recorrência de uso."
+  ],
+  "quando_usar": "Para apresentar relatos reais de clientes de uma ferramenta, com autorização e texto legível.",
+  "estrutura_texto": "[Comentário real sobre benefício]\n[Indicadores do comentário]\n[Comentário real sobre uso recorrente]\n[Comentário real sobre tarefa facilitada]\n[Demais relatos autorizados]",
+  "legenda": "Veja relatos de quem usa [ferramenta] para [tarefa]. Conheça os recursos de [criação] e [automação] e converse com [equipe] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie mural branco com oito cartões de comentários reais em duas colunas desencontradas. Use sombras leves, avatares autorizados, texto escuro legível e pequenos indicadores de interação. Utilize somente depoimentos fornecidos, sem inventar curtidas ou identidades. A IMAGEM 2 pode aparecer discretamente em uma assinatura própria; evite texto minúsculo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1052879550538340",
+    "anunciante": "APP Zen Post",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-24",
+    "dias_no_ar": 113,
+    "variacoes_ativas": 1,
+    "texto_original": "Converse conosco\nCrie postagens únicas e 100% originais, usadas apenas por você. Isso aumenta sua visibilidade e favorece a entrega pelo novo algoritmo do Instagram.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1052879550538340.jpg"
+}

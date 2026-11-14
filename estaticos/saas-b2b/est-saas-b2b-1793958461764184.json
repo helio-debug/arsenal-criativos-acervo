@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1793958461764184",
+  "tipo": "estatico",
+  "titulo": "Checklist de adoção simples com interface de consultório",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo claro de consultório desfocado, texto sobre início rápido e três itens com checks verdes. Um botão rosa antecede um notebook inclinado com a interface de prontuário; os demais textos pequenos da tela não são legíveis.",
+  "por_que_funciona": [
+    "Os checks verdes destacam as dificuldades de adoção abordadas pela mensagem.",
+    "O botão rosa concentra o próximo passo em ver o funcionamento.",
+    "A interface no notebook mostra o ambiente de uso do software.",
+    "O fundo desfocado mantém os textos pretos em primeiro plano."
+  ],
+  "quando_usar": "Para softwares de consultório que querem responder a objeções sobre implantação e treinamento.",
+  "estrutura_texto": "[Marca]\nSoftware para [público] que precisa de [benefício]\n[Explicação sobre início de uso]\n✓ Sem [barreira 1]\n✓ Sem [barreira 2]\n✓ [Benefício inicial]\nVeja na prática\n[Interface do produto]",
+  "legenda": "Comece a organizar [rotina do consultório] com [produto]. Conheça o processo de configuração, os recursos de [funcionalidade] e as condições de [migração]. Veja uma demonstração e avalie se atende à sua equipe.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro com consultório desfocado, marca própria pequena no topo e um parágrafo curto em preto. Abaixo, coloque três linhas com checks verdes sobre facilidade de adoção. Crie botão arredondado rosa com CTA de demonstração. Mostre na base um notebook inclinado com a interface do produto e dados fictícios, parcialmente cortado pela borda inferior. Preserve bom contraste e não invente prazos de implantação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1793958461764184",
+    "anunciante": "iClinic",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-22",
+    "dias_no_ar": 115,
+    "variacoes_ativas": 1,
+    "texto_original": "Comece seus atendimentos de forma rápida e sem implementação.\nExperimente agora o Afya iClinic\nMigração Gratuita e muito mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1793958461764184.jpg"
+}

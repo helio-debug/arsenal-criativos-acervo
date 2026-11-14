@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-899494609564710",
+  "tipo": "estatico",
+  "titulo": "Cadastro regional para cursos gratuitos",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Chamada de curso grátis sobre fundo branco com textura suave. A região aparece no topo, os cursos ocupam duas colunas e a faixa etária antecede o convite ao cadastro.",
+  "por_que_funciona": [
+    "A região em azul delimita a abrangência da inscrição.",
+    "A palavra GRÁTIS em vermelho dá destaque à oferta.",
+    "As duas colunas permitem visualizar as opções de cursos.",
+    "A idade em azul informa quem pode se cadastrar."
+  ],
+  "quando_usar": "Para divulgar inscrições gratuitas com critérios claros de região e faixa etária.",
+  "estrutura_texto": "Região de: [CIDADE-UF]\nCURSO GRÁTIS\n[CURSOS EM DUAS COLUNAS]\nPARA JOVENS DE [IDADE MÍNIMA] ATÉ [IDADE MÁXIMA] ANOS\nCadastre-se aqui",
+  "legenda": "Inscrições gratuitas para [cursos] em [região], destinadas a [faixa etária]. Consulte [critérios de participação], modalidades e condições de [bolsa, se houver]. Faça seu cadastro em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com textura discreta, pequeno símbolo genérico de educação no topo esquerdo e região no alto à direita. Faça uma chamada grande em verde e vermelho, lista preta em duas colunas, faixa etária azul e CTA laranja na base. Integre a IMAGEM 2 em uma pequena área de apoio sem prejudicar a leitura.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "899494609564710",
+    "anunciante": "Projeto Jovem Empregado São Paulo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-02",
+    "dias_no_ar": 257,
+    "variacoes_ativas": 1,
+    "texto_original": "🔰𝗖𝗔𝗗𝗔𝗦𝗧𝗥𝗔𝗠𝗘𝗡𝗧𝗢 – 𝗖𝗨𝗥𝗦𝗢𝗦 𝗚𝗥𝗔𝗧𝗨𝗜𝗧𝗢𝗦🔰\n📍 𝗘𝗧𝗔𝗣𝗔: CAMPINAS- SP 📍\n\n***DE 10 A 21 ANOS***\n__\n📚 𝗢𝗳𝗲𝗿𝗲𝗰𝗲𝗺𝗼𝘀:\n- CURSOS DE CAPACITAÇÃO GRATUITA\n- ORIENTAÇÃO PROFISSIONAL\n- BOLSA DE ESTUDOS em cursos da empresa parceira.\n__\n𝗦𝗲 𝘃𝗼𝗰𝗲̂ 𝗲𝘀𝘁𝗮́ 𝗽𝗿𝗼𝗻𝘁𝗼 𝗽𝗮𝗿𝗮 𝗲𝗺𝗯𝗮𝗿𝗰𝗮𝗿 𝗻𝗲𝘀𝘀𝗮 𝗷𝗼𝗿𝗻𝗮𝗱𝗮 𝗱𝗲 𝗰𝗿𝗲𝘀𝗰𝗶𝗺𝗲𝗻𝘁𝗼, 𝗰𝗮𝗻𝗱𝗶𝗱𝗮𝘁𝗲-𝘀𝗲 𝗮𝗴𝗼𝗿𝗮!\n__\n✍️ | Inscrição 100% gratuita.\n__\n🛑 ATENÇÃO 🛑\n𝗔𝘀 𝗶𝗻𝘀𝗰𝗿𝗶𝗰̧𝗼̃𝗲𝘀 𝘀𝗲𝗿𝗮̃𝗼 𝗳𝗲𝗶𝘁𝗮𝘀 𝗼𝗻𝗹𝗶𝗻𝗲. 𝗙𝗶𝗾𝘂𝗲 𝗮𝘁𝗲𝗻𝘁𝗼 𝗮𝗼 𝘀𝗲𝘂 𝗰𝗲𝗹𝘂𝗹𝗮𝗿, 𝗲𝗻𝘁𝗿𝗮𝗿𝗲𝗺𝗼𝘀 𝗲𝗺 𝗰𝗼𝗻𝘁𝗮𝘁𝗼 𝘃𝗶𝗮 𝗹𝗶𝗴𝗮𝗰̧𝗮̃𝗼 𝗧𝗘𝗟𝗘𝗙𝗢𝗡𝗜𝗖𝗔 𝗼𝘂 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-899494609564710.jpg"
+}

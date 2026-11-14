@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-2211052602803173",
+  "tipo": "estatico",
+  "titulo": "Convite com especialista e credenciais sobre prédios",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma apresentadora de blazer aparece à direita sobre uma montagem de edifícios e arcos dourados. À esquerda, texto de convite, três argumentos com ícones de confirmação e botão de ingressos.",
+  "por_que_funciona": [
+    "A linha inicial explicita que o convite se dirige ao mercado imobiliário.",
+    "O retrato grande identifica visualmente quem conduz o evento.",
+    "O número de empreendimentos funciona como credencial concreta no texto.",
+    "O botão com ingressos promocionais fecha a leitura com uma ação clara."
+  ],
+  "quando_usar": "Para divulgar um evento conduzido por especialista com experiência comprovável e ingressos em condição promocional.",
+  "estrutura_texto": "[EDIÇÃO E TEMA]\nOPORTUNIDADE PARA QUEM TRABALHA EM [SETOR]:\n[ESPECIALISTA] realiza evento ao vivo mostrando como [APRENDIZADO].\n[DURAÇÃO];\n[EXPERIÊNCIA COMPROVADA];\n[RECURSO UTILIZADO];\nINGRESSOS PROMOCIONAIS DISPONÍVEIS NO BOTÃO.",
+  "legenda": "Aprenda com [especialista] a organizar [processo] em [duração] de evento ao vivo. Veja como trabalhar [conteúdos] com apoio de [recurso]. Confira a programação e os ingressos promocionais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com edifícios em baixa luminosidade e arcos dourados atrás do retrato da IMAGEM 2 à direita. À esquerda, organize identificação do evento, linha curta sobre o público, convite em tipografia fina e três argumentos com ícones de confirmação. Finalize com botão contornado e seta. Use somente credenciais comprovadas e não garanta vendas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2211052602803173",
+    "anunciante": "Incorporação na Prática",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-27",
+    "dias_no_ar": 48,
+    "variacoes_ativas": 13,
+    "texto_original": "O que você aprende nos dois dias ao vivo, 7 e 8 de novembro:\n✓ O Fluxo do Desenvolvimento Imobiliário completo, da leitura de mercado à estrutura de lançamento \n✓ Como ler o mercado e saber quem compra na sua região, por que compra e quanto pode pagar \n✓ Como transformar dado em hipótese de produto, em vez de decidir por feeling \n✓ As três viabilidades (mercado, técnica e financeira) e por que falhar em uma derruba as outras \n✓ Como achar o teto do terreno antes de negociar, para não comprometer a margem ✓ Como usar a IA para acelerar a análise dentro do processo, sem terceirizar a decisão \n✓ Como estruturar um lançamento que vende antes de você levantar a obra\nE se, ao final, o método não fizer sentido para você, são 7 dias de garantia\n▶ Inscreva-se agora clicando no botão.",
+    "origem_coleta": "acervo:incorporacao-na-pratica"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-2211052602803173.jpg"
+}

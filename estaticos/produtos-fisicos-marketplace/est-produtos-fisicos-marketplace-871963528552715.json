@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-871963528552715",
+  "tipo": "estatico",
+  "titulo": "Equipamento de segurança náutica com cena de uso",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma cena de pesca com duas pessoas no barco ocupa o topo, sob céu nublado. Na base branca inclinada, dois dispositivos vestíveis aparecem ampliados ao lado da identificação do sistema sem fio de homem ao mar e corte do motor.",
+  "por_que_funciona": [
+    "A cena com barco, água e varas situa o uso do equipamento.",
+    "Os dispositivos ampliados mostram as versões com mosquetão e pulseira.",
+    "O fundo branco separa os produtos da fotografia movimentada.",
+    "A descrição curta ao lado dos dispositivos informa a função do sistema."
+  ],
+  "quando_usar": "Para apresentar um equipamento náutico e demonstrar suas formas de uso no corpo.",
+  "estrutura_texto": "[Marca]\n[Nome do produto]\n[Sistema sem fio de alerta de homem ao mar e corte do motor]",
+  "legenda": "[Dispositivo] pode ser usado no pulso ou preso por [acessório]. Quando [evento detectado], o sistema aciona [funções documentadas]. Conheça [produto] e consulte requisitos de instalação e compatibilidade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de contexto náutico na parte superior, com água em movimento e pessoas em atividade. Reserve uma base branca com limite diagonal e sobreponha recortes fiéis do produto da IMAGEM 2, mostrando suas formas de fixação. Coloque identidade própria no alto e nome com descrição funcional em preto condensado na base direita. Não invente certificações nem garanta prevenção de acidentes.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "871963528552715",
+    "anunciante": "Garmin Marine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-08",
+    "dias_no_ar": 310,
+    "variacoes_ativas": 1,
+    "texto_original": "If a Garmin OnBoard MOB tag leaves the boat? 🔊 🔊 🔊 🔊 Simply wear one on your wrist or on the carabiner for peace of mind. No strings attached.\nGarmin OnBoard\nWireless man overboard and engine cutoff system",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-871963528552715.jpg"
+}

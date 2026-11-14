@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1773019860688699",
+  "tipo": "estatico",
+  "titulo": "Lista de cursos gratuitos com coluna de gratuidade",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo branco com curvas cinza, ícone de capelo, chamada de cursos gratuitos com certificado e botão vermelho. A metade inferior traz tabela de áreas com números à esquerda e uma coluna azul repetindo a gratuidade.",
+  "por_que_funciona": [
+    "A palavra de gratuidade em destaque comunica a condição de acesso logo no topo.",
+    "A coluna azul repetida torna visível que a gratuidade se aplica a cada linha.",
+    "O botão vermelho interrompe a paleta neutra e destaca a inscrição."
+  ],
+  "quando_usar": "Para apresentar cursos de entrada gratuitos com informações claras sobre inscrição e certificado.",
+  "estrutura_texto": "[Cursos gratuitos]\n[Condição de certificação]\n[Inscreva-se]\n[Orientação de acesso]\n[Número ou código] [Curso] [Grátis]\n[Nota informativa]",
+  "legenda": "Explore cursos online de [áreas] e escolha o que deseja aprender. Consulte a disponibilidade, os requisitos de inscrição e as condições de emissão de [certificado]. Saiba mais em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com curvas cinza discretas, ícone educacional preto no topo, título preto em caixa alta e botão vermelho. Na metade inferior, monte tabela legível com cursos, números identificados pelo seu significado e coluna azul de gratuidade. Adapte a imagem fornecida como apoio visual sem reduzir a lista. Esclareça se o certificado também é gratuito e não invente quantidades.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1773019860688699",
+    "anunciante": "Cursos Digitais",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-27",
+    "dias_no_ar": 48,
+    "variacoes_ativas": 20,
+    "texto_original": "Unlock 300+ FREE courses with certification!\nBoost your skills, advance your career\nWhat will you learn today?\nAn opportunity for those looking for an online course with a certificate\nLearn more 👉",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1773019860688699.jpg"
+}

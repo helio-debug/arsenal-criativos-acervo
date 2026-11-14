@@ -1,0 +1,74 @@
+{
+ "id": "vid-vistoria-medidor-pintura",
+ "tipo": "video",
+ "titulo": "Medidor de pintura gera um mapa dos pontos da carroceria",
+ "formato_video": "vistoria-instrumentada",
+ "nichos": [
+  "automotivo"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "O que o medidor mostra nesta parte do [veículo]?",
+  "texto_tela": "Leitura por ponto",
+  "visual": "Medidor encosta no painel identificado do veículo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Medidor encosta no painel identificado do veículo.",
+   "fala": "O que o medidor mostra nesta parte do [veículo]?",
+   "texto_tela": "Leitura por ponto"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Cortes mostram instrumento e posição em desenho do carro.",
+   "fala": "Neste ponto deu [leitura]; neste outro, [leitura]. O equipamento está em [configuração].",
+   "texto_tela": "Leituras reais"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Mapa permanece com diferenças assinaladas.",
+   "fala": "Diferenças pedem avaliação técnica. Só essa medida não fecha o histórico do carro.",
+   "texto_tela": "Resultado exige interpretação"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Profissional apresenta escopo da vistoria.",
+   "fala": "Peça [vistoria] com laudo e saiba o que está incluído antes de contratar.",
+   "texto_tela": "Consulte o escopo"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Medidor encosta no painel identificado do veículo.",
+  "O desenvolvimento mantém a informação ligada à imagem: Cortes mostram instrumento e posição em desenho do carro.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Mapa permanece com diferenças assinaladas."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho automotivo, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | O que o medidor mostra nesta parte do [veículo]? [Manter na tela: Leitura por ponto]\n4-11s | Neste ponto deu [leitura]; neste outro, [leitura]. O equipamento está em [configuração]. [Manter na tela: Leituras reais]\n11-19s | Diferenças pedem avaliação técnica. Só essa medida não fecha o histórico do carro. [Manter na tela: Resultado exige interpretação]\n19-27s | Peça [vistoria] com laudo e saiba o que está incluído antes de contratar. [Manter na tela: Consulte o escopo]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Medidor encosta no painel identificado do veículo.",
+  "Plano próximo sem reflexos; travar foco e exposição: Cortes mostram instrumento e posição em desenho do carro.",
+  "Plano de detalhe legível, sem zoom digital: Mapa permanece com diferenças assinaladas.",
+  "Plano final estável, com área livre para legenda e botão: Profissional apresenta escopo da vistoria.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Medidor encosta no painel identificado do veículo. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Cortes mostram instrumento e posição em desenho do carro. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Medidor de pintura gera um mapa dos pontos da carroceria, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Medidor encosta no painel identificado do veículo. Depois, Cortes mostram instrumento e posição em desenho do carro. Depois, Mapa permanece com diferenças assinaladas. Depois, Profissional apresenta escopo da vistoria. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "legenda": "Peça [vistoria] com laudo e saiba o que está incluído antes de contratar. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1689261068611853",
+   "dias_no_ar": 621,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/automotivo/carro-seminovo/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

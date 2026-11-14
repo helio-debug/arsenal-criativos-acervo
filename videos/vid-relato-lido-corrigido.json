@@ -1,0 +1,96 @@
+{
+ "id": "vid-relato-lido-corrigido",
+ "titulo": "Especialista lê relato no celular e aponta a orientação que faltou",
+ "formato_video": "faq-resposta",
+ "nichos": [
+  "servicos-locais",
+  "investimentos",
+  "saude",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "75-90s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Vou ler um relato sobre [solução] que deixou uma etapa de fora.",
+  "texto_tela": "Faltou uma etapa em [solução]",
+  "visual": "Apresentador em plano médio junto à janela, olhando para um celular; cartela branca com letras pretas na altura da cintura."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Plano médio fixo. Olhar para o celular e cartela branca sobre a roupa.",
+   "fala": "Vou ler um relato sobre [solução] que deixou uma etapa de fora. A pessoa conta que contratou [serviço] para [objetivo].",
+   "texto_tela": "Faltou uma etapa em [solução]"
+  },
+  {
+   "tempo": "8-22s",
+   "cena": "Continuar lendo no celular, com a mão livre acompanhando o relato. Legendas brancas curtas.",
+   "fala": "Ela fez [primeiro passo], recebeu [entrega inicial] e seguiu com a rotina. Só percebeu a pendência quando chegou a hora de [situação concreta]. Aí precisou [consequência observável].",
+   "texto_tela": "[Situação concreta]"
+  },
+  {
+   "tempo": "22-37s",
+   "cena": "Levantar os olhos para a câmera, mantendo o celular visível. Pausa antes da explicação.",
+   "fala": "Nesse relato, a orientação parou em [primeiro passo]. Ainda faltava [etapa necessária]. Sem essa conferência, [parte do processo] continuou pendente, mesmo depois da entrega.",
+   "texto_tela": "Faltou [etapa necessária]"
+  },
+  {
+   "tempo": "37-54s",
+   "cena": "Mesmo enquadramento; gesto de pinça com a mão para marcar o detalhe.",
+   "fala": "Essa etapa serve para [função da etapa]. Antes de seguir, o responsável precisa verificar [condição concreta] e registrar [comprovante ou decisão]. O caminho depende do contexto de cada caso.",
+   "texto_tela": "Confira [condição concreta]"
+  },
+  {
+   "tempo": "54-73s",
+   "cena": "Falar diretamente com a câmera, celular mais baixo. Legendas acompanham as frases.",
+   "fala": "Ao avaliar [serviço], peça que expliquem onde a entrega termina. Confira quem fica responsável por [etapa] e como isso será documentado. Dá para esclarecer esse ponto antes de contratar.",
+   "texto_tela": "Quem cuida de [etapa]?"
+  },
+  {
+   "tempo": "73-90s",
+   "cena": "Fechar no mesmo plano, com gesto aberto e tom de orientação.",
+   "fala": "Se já existe [trabalho iniciado], reúna [documentos ou informações] para uma revisão. No perfil, eu explico como funciona [serviço] e o que a análise precisa considerar antes de indicar qualquer próximo passo.",
+   "texto_tela": "Veja como funciona [serviço]"
+  }
+ ],
+ "por_que_funciona": [
+  "A cartela branca com acusação no início apresenta a desconfiança que a fala vai esclarecer; no modelo, ela vira uma pendência específica, sem acusar terceiros.",
+  "O celular permanece nas mãos enquanto o apresentador lê, deixando visível a diferença entre relato recebido e comentário profissional.",
+  "A mudança do olhar para a câmera e o gesto de pinça destacam a explicação da etapa ausente, sem trocar o cenário.",
+  "As legendas brancas curtas acompanham um plano estável e permitem seguir a orientação durante a leitura."
+ ],
+ "quando_usar": "Para profissionais que precisam esclarecer uma objeção sobre o próprio serviço no meio do funil. Use um relato autorizado e anonimizado, ou identifique claramente que se trata de um exemplo fictício.",
+ "roteiro_modelo": "Vou ler um relato sobre [solução] que deixou uma etapa de fora. A pessoa conta que contratou [serviço] para [objetivo].\n\n[pausa breve / corte]\n\nEla fez [primeiro passo], recebeu [entrega inicial] e seguiu com a rotina. Só percebeu a pendência quando chegou a hora de [situação concreta]. Aí precisou [consequência observável].\n\n[pausa breve / corte]\n\nNesse relato, a orientação parou em [primeiro passo]. Ainda faltava [etapa necessária]. Sem essa conferência, [parte do processo] continuou pendente, mesmo depois da entrega.\n\n[pausa breve / corte]\n\nEssa etapa serve para [função da etapa]. Antes de seguir, o responsável precisa verificar [condição concreta] e registrar [comprovante ou decisão]. O caminho depende do contexto de cada caso.\n\n[pausa breve / corte]\n\nAo avaliar [serviço], peça que expliquem onde a entrega termina. Confira quem fica responsável por [etapa] e como isso será documentado. Dá para esclarecer esse ponto antes de contratar.\n\n[pausa breve / corte]\n\nSe já existe [trabalho iniciado], reúna [documentos ou informações] para uma revisão. No perfil, eu explico como funciona [serviço] e o que a análise precisa considerar antes de indicar qualquer próximo passo.",
+ "tomadas_celular": [
+  "Grave a abertura por 8s, celular vertical apoiado, plano da cabeça até as coxas e janela lateral com luz difusa; segure outro celular abaixo do peito.",
+  "Grave 14s lendo o relato anonimizado, mesmo plano e luz de janela; deixe a mão livre visível.",
+  "Grave 15s levantando o olhar para a lente, plano médio e luz difusa lateral; pause antes de explicar a pendência.",
+  "Grave 17s da explicação, plano médio fixo, mesma luz; marque o detalhe com um gesto pequeno.",
+  "Grave 19s orientando a conferência, plano médio e rosto voltado à janela; abaixe o celular sem sair do quadro.",
+  "Grave 17s de encerramento, mesmo enquadramento e luz; faça um gesto aberto. Corte silêncios no editor."
+ ],
+ "caminho_ia": "Faça as cenas no Veo ou Kling e use avatar genérico com voz sintética em pt-BR, sem imitar o especialista da referência. Prompts: \"Vertical 9:16 medium shot of a generic consultant holding a smartphone beside a large office window, soft overcast daylight, locked camera, eyes looking down, natural hand motion, no logos, discussing [service].\" e \"Vertical 9:16 medium shot of the same fictional consultant looking into camera, smartphone at waist height, small precision hand gesture, soft side daylight, locked camera, explanation of [missing step], no embedded text.\" Monte no CapCut, adicione a cartela branca e legendas brancas. Identifique o relato como exemplo fictício quando não houver caso autorizado.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 90s em 6 blocos: 0-8s apresenta o relato; 8-22s descreve a pendência; 22-37s explica o que faltou; 37-54s mostra a função da etapa; 54-73s orienta a conferência; 73-90s indica onde entender o serviço. Tom calmo e profissional. Plano médio fixo perto de janela, celular na mão, olhar que passa da leitura para a lente e gestos contidos. Cartela branca inicial com pendência concreta e legendas brancas curtas depois. Não copie chapéu, figurino, acusação inicial ou o tema patrimonial da referência. Use exemplo identificado como fictício se não houver relato autorizado. A explicação precisa servir ao meu produto; não faça diagnóstico individual. Escreva em pt-BR falado, com frases curtas e [colchetes] para informações que faltarem. Sem antítese vazia, tríade decorativa, superlativos sem prova, pergunta de enfeite ou fecho de efeito. Não invente resultados, depoimentos ou condições comerciais. Não copie nomes, marcas, pessoas, logotipos, domínios, contatos, falas longas nem dados de clientes da referência. Use só os dados do bloco MEU PRODUTO.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Em [serviço], confira se [etapa necessária] está incluída na entrega. Peça essa explicação antes de contratar. Veja no perfil como funciona [serviço].",
+ "alerta_politica": "Meta: não atribua condição de saúde ou vulnerabilidade financeira ao espectador; não use antes/depois corporal nem prometa resultado de saúde ou retorno financeiro. Em saúde, respeite as alegações autorizadas pela ANVISA quando houver produto regulado e as regras de publicidade do CFM quando houver médico, sem diagnóstico por anúncio. Em investimentos, observe as regras da CVM para a atividade e o produto, informe riscos e não garanta rentabilidade. Para crédito, se houver adaptação, observe as regras do Banco Central e informe condições e custos. Relatos devem ser autorizados e anonimizados; exemplos fictícios precisam estar identificados.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-3fbb5f9c",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-relato-lido-corrigido/frames/f1.jpg",
+    "videos/vid-relato-lido-corrigido/frames/f2.jpg",
+    "videos/vid-relato-lido-corrigido/frames/f3.jpg",
+    "videos/vid-relato-lido-corrigido/frames/f4.jpg",
+    "videos/vid-relato-lido-corrigido/frames/f5.jpg"
+   ]
+  }
+ ]
+}

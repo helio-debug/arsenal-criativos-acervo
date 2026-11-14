@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1015109347424315",
+  "tipo": "estatico",
+  "titulo": "Pessoa em destaque com três motivos para usar o app",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Pessoa de camiseta vermelha à esquerda e três cartões cinza com ícones à direita, sobre fundo branco. A faixa inferior em degradê laranja e rosa reúne selos de lojas de aplicativos e CTA.",
+  "por_que_funciona": [
+    "A pergunta no topo apresenta a peça como identificação de público.",
+    "Os três cartões com ícones permitem ler cada motivação separadamente.",
+    "A pessoa sorridente ocupa grande parte da imagem e dá presença humana ao serviço.",
+    "A faixa colorida separa o cadastro da apresentação dos motivos."
+  ],
+  "quando_usar": "Para apresentar um aplicativo de oportunidades de trabalho a quem ainda não conhece seu uso.",
+  "estrutura_texto": "Para quem é [APP]?\nPara quem quer [objetivo 1].\nPara quem quer [objetivo 2].\nPara quem quer [objetivo 3].\nDisponível em [lojas].\nClique no link, baixe o app e faça seu cadastro.",
+  "legenda": "[App] conecta pessoas a oportunidades de [atividade] em [tipos de estabelecimento]. Consulte a disponibilidade na sua região, conheça as condições e organize sua agenda. Baixe em [canal] e cadastre-se.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, pergunta grande em roxo escuro no topo esquerdo e marca própria no topo direito. Coloque uma pessoa ligada ao serviço à esquerda e três cartões cinza arredondados à direita com ícones circulares vermelhos. Reserve uma faixa inferior em degradê laranja e rosa para CTA e lojas disponíveis. Incorpore a IMAGEM 2 como tela ou elemento real da oferta, sem inventar selos de lojas.",
+  "alerta_politica": "Meta: não prometer renda, contratação ou flexibilidade garantidas. Informar disponibilidade regional, critérios de acesso e condições das oportunidades. Se divulgar vagas de emprego, observar as regras correspondentes e a categoria especial quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1015109347424315",
+    "anunciante": "helppi.no.insta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-24",
+    "dias_no_ar": 386,
+    "variacoes_ativas": 1,
+    "texto_original": "Cada pessoa tem um motivo. 💡\n\nA Helppi conecta pessoas a oportunidades de trabalho em lojas e supermercado. Uma alternativa para quem busca mais autonomia, flexibilidade ou novas possibilidades.\n\nOrganize seu horário, explore as oportunidades disponíveis e vá no seu ritmo. 🚀\n\nClique no link da bio, baixe o app e cadastre-se.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1015109347424315.jpg"
+}

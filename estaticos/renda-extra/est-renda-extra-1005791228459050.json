@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1005791228459050",
+  "tipo": "estatico",
+  "titulo": "Cena de entrega com chamada direta",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de um entregador de colete colocando uma caixa no porta-malas ocupa a parte superior. Um degradê escuro sustenta a identidade e uma chamada curta em branco e azul na metade inferior.",
+  "por_que_funciona": [
+    "A caixa junto ao porta-malas mostra a tarefa concreta associada ao serviço.",
+    "O colete de alta visibilidade ajuda a identificar o contexto de entrega.",
+    "O degradê escuro cria contraste para o título branco e azul.",
+    "A chamada curta apresenta a atividade em apenas duas linhas."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de entregas e despertar interesse inicial pelo trabalho de parceiro.",
+  "estrutura_texto": "[Identidade]\nEntregue [tipo de encomenda]\npelo [serviço].",
+  "legenda": "Conheça os blocos de entrega de [plataforma] e confira as opções disponíveis para sua rotina. Consulte requisitos, remuneração, custos e disponibilidade em [região].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de profissional adulto com colete de segurança acomodando uma encomenda em veículo, usando a IMAGEM 2 para representar o serviço ou produto. Aplique degradê preto na parte inferior, identidade própria pequena e título forte em duas linhas, com primeira linha branca e segunda azul vivo. Mantenha ampla área escura abaixo da mensagem. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganho fácil ou ausência de risco. Valores e condições de ganhos devem ser comprováveis e apresentados com critérios, custos e ressalvas claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1005791228459050",
+    "anunciante": "Amazon Flex",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-12",
+    "dias_no_ar": 186,
+    "variacoes_ativas": 12,
+    "texto_original": "Faça renda extra em blocos de entrega que se encaixam na sua rotina\nGanhos flexíveis, sem complicações",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1005791228459050.jpg"
+}

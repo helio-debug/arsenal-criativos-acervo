@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-1462338281772664",
+  "tipo": "estatico",
+  "titulo": "Pote inclinado com benefícios em ícones",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Pote de whey inclinado sobre fundo dividido entre laranja e verde, com uma pessoa ao fundo. Três ícones à esquerda organizam benefícios ligados ao treino.",
+  "por_que_funciona": [
+    "O contraste entre laranja e verde separa as áreas da composição.",
+    "O pote inclinado concentra o foco na embalagem.",
+    "Ícones de treino identificam rapidamente os benefícios listados."
+  ],
+  "quando_usar": "Para apresentar os atributos de um suplemento ao público que já considera essa categoria.",
+  "estrutura_texto": "[Chamada sobre objetivo] com [categoria do produto]\n[Benefício 1]\n[Benefício 2]\n[Benefício 3]\n[Marca e contato]",
+  "legenda": "Conheça [produto], uma opção de [categoria] para complementar [rotina]. Confira [composição], [porção recomendada] e [benefício autorizado]. [Chamada para conhecer].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um fundo em degradê laranja e verde com uma cena de academia discreta. Posicione a embalagem inclinada no centro-direita, uma chamada branca no alto e três linhas com ícones simples à esquerda. Use apenas benefícios comprovados e autorizados, sem prometer ganho muscular ou desempenho garantido. Reserve o rodapé para a identidade fornecida.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1462338281772664",
+    "anunciante": "Cuidiprev Cuidado & Prevenção",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-15",
+    "dias_no_ar": 183,
+    "variacoes_ativas": 1,
+    "texto_original": "O Whey Protein 100% Energy da Euronutry é a escolha ideal para quem busca ganho de massa magra, força e recuperação muscular com praticidade e qualidade.\n\nCom uma combinação estratégica de ingredientes, ele vai além da proteína:\n✔️ Whey Protein de alto valor biológico\n✔️ Creatina para mais força e desempenho\n✔️ HMB que auxilia na preservação e ganho muscular\n✔️ Arginina, que contribui para melhor fluxo sanguíneo\n\n✨ Resultado: mais energia nos treinos, melhor recuperação e evolução constante.\n\n💡 Fácil de preparar e com ótima digestibilidade, é perfeito para incluir na rotina de quem quer performance sem complicação.\n\nAcesse nosso site para adquirir seu Whey! 💪",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1462338281772664.jpg"
+}

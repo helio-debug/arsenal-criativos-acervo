@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1275516077861750",
+  "tipo": "estatico",
+  "titulo": "Comissão e entrada sem investimento sobre mostruários",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de mostruários de semijoias abertos sobre mesa preta, com parede verde ao fundo. Blocos brancos de texto apresentam o convite, a comissão máxima e a condição de entrada.",
+  "por_que_funciona": [
+    "Os mostruários abertos tornam visível o tipo de produto a revender.",
+    "As faixas brancas mantêm o texto legível sobre a parede verde.",
+    "A porcentagem de comissão apresenta um dado concreto para avaliar a oportunidade.",
+    "A linha sobre investimento inicial responde a uma possível barreira de entrada."
+  ],
+  "quando_usar": "Para captar pessoas interessadas em revenda quando comissão, consignação e custos já estiverem definidos.",
+  "estrutura_texto": "Seja [perfil de revenda] da [marca] e conheça [oportunidade]\n[Qualidade do produto]\nAté [percentual] de comissão\n[Condição de investimento inicial]",
+  "legenda": "Seja [perfil de revenda] de [categoria]. Comece com [condição real de investimento] e receba até [percentual] de comissão conforme [regras]. Conheça as peças e tire suas dúvidas em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma foto vertical com mostruários abertos do produto na metade inferior, mesa escura e parede vegetal ao fundo. Insira dois grupos de faixas brancas no alto e no centro, com fonte preta condensada e forte contraste. Primeiro apresente o convite à revenda; depois, qualidade, comissão e condição de entrada. Use somente condições comprováveis e evite garantir renda.",
+  "alerta_politica": "Meta: não prometer renda garantida nem apresentar ganhos excepcionais como resultado típico. Informar condições, elegibilidade, custos e que os ganhos dependem da atividade e dos resultados individuais. Esclarecer se há consignação, devoluções, metas, taxas ou responsabilidade por perdas antes de afirmar investimento inicial zero.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1275516077861750",
+    "anunciante": "Karol Semijoias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-05",
+    "dias_no_ar": 101,
+    "variacoes_ativas": 1,
+    "texto_original": "Seja uma consultora Karol Semijoias\n\n💎 Comece sem nenhum investimento.\n💎Semijoias banhada a ouro 18K\n💎Peças anti-alérgicas\n💎Entrega rápida e segura\n\nCadastre-se agora clicando abaixo e transforme sua renda hoje mesmo!👇\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1275516077861750.jpg"
+}

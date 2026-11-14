@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1116834240828826",
+  "tipo": "estatico",
+  "titulo": "Lista de hábitos com promessa de curiosidade",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Capa tipográfica em fundo bege com chamada sobre cinco hábitos de amor-próprio. A última linha aparece sobre marcação rosa e um círculo no canto indica 01/07.",
+  "por_que_funciona": [
+    "O número cinco delimita a quantidade de conteúdo prometido na chamada.",
+    "A expressão “meio malucos” cria curiosidade sobre quais hábitos serão apresentados.",
+    "A faixa rosa destaca “sua vida amorosa”, deixando visível a área de interesse.",
+    "O marcador 01/07 sinaliza continuação e incentiva a leitura das próximas páginas."
+  ],
+  "quando_usar": "Para abrir uma sequência educativa sobre relacionamentos ou desenvolvimento pessoal antes de apresentar uma oferta.",
+  "estrutura_texto": "[Número] hábitos [qualificador de curiosidade] de [tema] que podem [benefício específico]\n[Índice/total de páginas]",
+  "legenda": "[Número] hábitos de [tema] para observar no dia a dia. Veja nos próximos cards como [ação concreta] pode ajudar você a [objetivo], respeitando seu contexto. Salve para consultar depois.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma capa tipográfica de sequência em fundo bege, com texto preto grande, pesado e alinhado à esquerda. Distribua a chamada em cinco linhas, deixando bastante respiro no topo. Aplique uma faixa rosa pálida atrás da última linha e um pequeno círculo preto com índice de páginas no canto superior direito. A IMAGEM 2 orienta apenas a identidade visual do produto, sem obrigar a inserir fotografia. Use benefício moderado e sem garantir transformação pessoal.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1116834240828826",
+    "anunciante": "Sophia Kraus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 2,
+    "texto_original": "Visit Instagram Profile",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1116834240828826.jpg"
+}

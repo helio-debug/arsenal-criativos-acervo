@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-2449113045589231",
+  "tipo": "estatico",
+  "titulo": "Calçado esportivo em perfil lateral",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um calçado esportivo preto com detalhes brancos aparece sozinho, em perfil lateral, sobre fundo cinza muito claro. A sombra fica abaixo e à esquerda do produto.",
+  "por_que_funciona": [
+    "A vista lateral mostra o desenho completo do cabedal e da sola.",
+    "O contraste entre preto e branco torna os detalhes laterais visíveis.",
+    "O fundo claro sem objetos mantém o calçado como único foco.",
+    "A sombra no chão dá volume ao produto."
+  ],
+  "quando_usar": "Para apresentar um modelo de calçado em campanhas de catálogo ou de visita à loja online.",
+  "estrutura_texto": "[Foto lateral do produto sobre fundo claro, sem chamada escrita]",
+  "legenda": "Confira as novidades em [site]. Encontre [categoria de roupas], [categoria de calçados] e [acessórios] para [ocasião de uso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fotografe o produto fornecido em perfil lateral, com a ponta voltada à direita, centralizado na metade inferior de um fundo cinza muito claro. Preserve materiais, solado e detalhes originais, com sombra suave no chão e amplo respiro acima. Não acrescente chamadas ou selos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2449113045589231",
+    "anunciante": "adidas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-18",
+    "dias_no_ar": 180,
+    "variacoes_ativas": 1,
+    "texto_original": "Confira as novidades no site oficial, encontre roupas esportivas, sapatos e acessórios.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-2449113045589231.jpg"
+}

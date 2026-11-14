@@ -1,0 +1,97 @@
+{
+ "id": "vid-marca-gigante-fez-isso",
+ "formato_video": "formato-noticia",
+ "nichos": [
+  "marketing-trafego",
+  "servicos-locais",
+  "saas-b2b",
+  "moda-acessorios"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Caso de empresa grande adaptado para operação pequena",
+ "duracao": "37s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Uma [empresa grande do setor] usou [tática documentada]. Dá para testar uma versão com [recurso acessível].",
+  "texto_tela": "[Tática] em escala pequena",
+  "visual": "Tela vertical com demonstração no alto e apresentador em janela arredondada embaixo, microfone lateral. Tarja branca com texto preto curto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela vertical com demonstração no alto e apresentador em janela arredondada embaixo, microfone lateral. Tarja branca com texto preto curto.",
+   "fala": "Uma [empresa grande do setor] usou [tática documentada]. Dá para testar uma versão com [recurso acessível].",
+   "texto_tela": "[Tática] em escala pequena"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Amplie documento do caso no painel superior; faça uma breve passagem para o documento quase em tela cheia.",
+   "fala": "No caso publicado em [fonte e data], a ação foi [ação concreta da empresa].",
+   "texto_tela": "Caso: [ação] | [fonte e data]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Retorne à divisão com apresentador abaixo e esquema próprio de etapas no alto, substituindo o mapa de conexões da referência.",
+   "fala": "A lógica foi [mecanismo observável]. Na versão pequena, use [produto ou recurso] para [tarefa].",
+   "texto_tela": "[Mecanismo] → [aplicação pequena]"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Painel superior mostra execução em celular ou cartões conectados, com um movimento por etapa.",
+   "fala": "Escolha [uma situação]. Prepare [material simples]. Teste com [grupo ou volume adequado].",
+   "texto_tela": "[Situação] → [material] → [teste]"
+  },
+  {
+   "tempo": "25-32s",
+   "cena": "Acima, amplie um registro simples do teste. Abaixo, apresentador indica a métrica e a ressalva.",
+   "fala": "Acompanhe [métrica] por [período]. A escala e o resultado do caso original podem ser diferentes.",
+   "texto_tela": "Observe [métrica] por [período]"
+  },
+  {
+   "tempo": "32-37s",
+   "cena": "Painel superior vira fundo branco com chamada preta grande; mantenha o apresentador abaixo.",
+   "fala": "Salve esse passo a passo para planejar [seu próximo teste].",
+   "texto_tela": "Salve o passo a passo"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame coloca um diagrama no alto e o apresentador abaixo, com uma tarja branca de título que separa os dois.",
+  "O segundo frame amplia a demonstração até quase ocupar a tela, permitindo alternar explicação com inspeção do material.",
+  "Os frames intermediários repetem o mapa de conexões sobre o apresentador e mantêm o microfone lateral visível.",
+  "O último frame troca o mapa por fundo branco e uma chamada preta grande, concentrando a leitura no convite."
+ ],
+ "quando_usar": "Para explicar uma tática documentada de empresa grande e oferecer um primeiro teste para uma operação menor. Funciona quando a solução do comprador ajuda a executar esse teste, sem sugerir parceria com a empresa do caso.",
+ "roteiro_modelo": "Uma [empresa grande do setor] usou [tática documentada]. Dá para testar uma versão com [recurso acessível].\n\n[Pausa curta / corte]\n\nNo caso publicado em [fonte e data], a ação foi [ação concreta da empresa].\n\n[Pausa curta / corte]\n\nA lógica foi [mecanismo observável]. Na versão pequena, use [produto ou recurso] para [tarefa].\n\n[Pausa curta / corte]\n\nEscolha [uma situação]. Prepare [material simples]. Teste com [grupo ou volume adequado].\n\n[Pausa curta / corte]\n\nAcompanhe [métrica] por [período]. A escala e o resultado do caso original podem ser diferentes.\n\n[Pausa curta / corte]\n\nSalve esse passo a passo para planejar [seu próximo teste].",
+ "tomadas_celular": [
+  "Plano médio vertical com apresentador sentado e microfone lateral, luz de janela a 45 graus; grave 10s.",
+  "Captura no celular do documento autorizado do caso, data e fonte legíveis, brilho uniforme; grave 6s.",
+  "Plano de cima com cartões conectando etapas e produto ou representação ao lado, luz difusa; grave 7s.",
+  "Close de mãos executando a versão pequena da tática, luz lateral suave; grave 8s.",
+  "Gravação de tela da planilha ou registro de teste sem informações de clientes, brilho legível; capture 7s.",
+  "Plano médio de convite olhando para a lente, mesma luz e fundo; grave 5s."
+ ],
+ "caminho_ia": "Faça um avatar com voz sintética para a janela inferior e gere os apoios no Kling ou Veo. Prompts: \"Vertical 9:16 composition, generic presenter seated in lower third with a side microphone, soft warm key light, rounded video inset, black negative space above for a case study overlay, no logos, 4 seconds.\" e \"Overhead close-up, hands connecting blank workflow cards beside [product] on a small business desk, soft diffused light, slow lateral camera slide, no text or brand marks, 8 seconds.\" No CapCut, combine com documento real autorizado do caso e termine com cartela branca. Se não houver documento, use slideshow ilustrativo sem atribuir a tática a uma empresa; nunca gere uma captura como prova de adoção.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nEscreva 37s em 9:16 nos blocos 0-4, 4-10, 10-17, 17-25, 25-32 e 32-37s. Mostre um caso documentado de empresa grande, explique o mecanismo e traduza para um teste de baixo escopo ligado ao meu produto. Use painel superior, rosto em janela inferior com microfone lateral, ampliação momentânea do material e cartela branca final com texto preto. Tom explicativo, cortes por etapa, legendas brancas curtas. Não invente empresa grande: a referência fornecida mostra outro tipo de notícia e só orienta o visual. Se faltar caso, mantenha [empresa grande do setor], [fonte] e [data] para preenchimento. No card e no modelo, mantenha empresas e pessoas em colchetes. Não copie mapas, marcas, números, personagens nem chamadas da referência; não prometa repetir o resultado da empresa. Não copie pessoa, anunciante, marca, logotipo, domínio, cenário identificável nem falas da referência. Use apenas os dados fornecidos; deixe [colchetes] para informação ausente. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, antítese vazia ou pergunta decorativa.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Uma [empresa grande do setor] aplicou [tática], conforme [fonte e data]. Para testar em escala pequena: [primeiro passo] e [segundo passo]. Meça [critério] antes de ampliar. Salve para planejar seu teste.",
+ "alerta_politica": "Use apenas caso verificável e material próprio ou autorizado. Não sugerir parceria ou endosso da empresa citada e não apresentar resultados alheios como garantia para o comprador.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-98d7eab4",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-marca-gigante-fez-isso/frames/f1.jpg",
+    "videos/vid-marca-gigante-fez-isso/frames/f2.jpg",
+    "videos/vid-marca-gigante-fez-isso/frames/f3.jpg",
+    "videos/vid-marca-gigante-fez-isso/frames/f4.jpg",
+    "videos/vid-marca-gigante-fez-isso/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

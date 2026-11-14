@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-949550158024796",
+  "tipo": "estatico",
+  "titulo": "Três planos de consultoria com preços lado a lado",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "servico-online",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Três cartões com bordas laranja apresentam planos mensal, trimestral e semestral. Halteres e um fundo escuro com faíscas enquadram a tabela, a lista de benefícios e o botão.",
+  "por_que_funciona": [
+    "Os três cartões alinhados facilitam comparar duração e preço.",
+    "Os valores em laranja têm destaque dentro de cada plano.",
+    "Os ícones de marcação dividem os benefícios em blocos curtos.",
+    "O botão contornado em laranja mantém continuidade com os cartões."
+  ],
+  "quando_usar": "Para mostrar opções de duração e pagamento a interessados que já conhecem a consultoria.",
+  "estrutura_texto": "CONSULTORIA [ÁREA] ONLINE\nPLANOS\n[PLANO 1]: [PREÇO] / [INCLUSÕES]\n[PLANO 2]: [PARCELAMENTO] ou [À VISTA] / [INCLUSÕES]\n[PLANO 3]: [PARCELAMENTO] ou [À VISTA] / [INCLUSÕES]\n[BENEFÍCIOS]\nSAIBA MAIS",
+  "legenda": "Receba treinos adaptados a [rotina], pelo [aplicativo], para [locais de treino]. Compare os planos [durações] e conte com [tipo de suporte]. Clique para conhecer as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo preto com textura de academia, luz laranja e halteres como elementos secundários. Coloque título grande no topo esquerdo, três cartões de planos alinhados ao centro com preços e inclusões legíveis, quatro benefícios com ícones de marcação abaixo e botão no rodapé. Informe parcelamento e valor à vista sem inventar desconto.",
+  "alerta_politica": "Evite atribuir condições de saúde ou insatisfação corporal ao público, prometer emagrecimento ou resultados garantidos e usar antes e depois de corpo. Descreva o acompanhamento e as condições reais do serviço.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "949550158024796",
+    "anunciante": "André Riggio - Personal Training & Assessoria Esportiva",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-13",
+    "dias_no_ar": 246,
+    "variacoes_ativas": 1,
+    "texto_original": "Cansada de treinar e não ver resultados? Ou quer começar e nem sabe por onde?\n\nReceba no seu celular, através de um aplicativo exclusivo, Treinos Personalizados para o seu caso e sua rotina, para fazer em academia ou em casa, com ou sem equipamentos\n\nElaborados sob medida, de acordo com seus dias disponíveis na semana, tempo disponível por dia e suas necessidades particulares, além de todo suporte que você precisar direto comigo, seu personal trainer\n\nVamos conversar? Clique no botão para me chamar no whatsapp\nWHATSAPP\nAndré Riggio - Personal Training & Assessoria Esportiva",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-949550158024796.jpg"
+}

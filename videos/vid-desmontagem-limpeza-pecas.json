@@ -1,0 +1,73 @@
+{
+ "id": "vid-desmontagem-limpeza-pecas",
+ "tipo": "video",
+ "titulo": "Produto desmontado sobre superfície para mostrar a limpeza",
+ "formato_video": "tutorial",
+ "nichos": [
+  "infantil-maternidade"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quantas peças saem de [produto] pra fazer a limpeza?",
+  "texto_tela": "Limpeza conforme manual",
+  "visual": "Produto desligado ao lado de bandeja vazia."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Produto desligado ao lado de bandeja vazia.",
+   "fala": "Quantas peças saem de [produto] pra fazer a limpeza?",
+   "texto_tela": "Limpeza conforme manual"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Cada peça permitida sai e recebe identificação na edição.",
+   "fala": "Saem [peças removíveis]. A parte [não lavável] fica separada.",
+   "texto_tela": "[Peças laváveis]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Plano mostra instruções aprovadas sem improvisar esterilização.",
+   "fala": "O fabricante orienta [procedimento de limpeza]. Confirme o manual do seu modelo.",
+   "texto_tela": "Siga o manual"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Peças secas e remontadas com encaixe visível.",
+   "fala": "Depois de [secagem indicada], confira o encaixe. Veja todos os cuidados de [produto] na ficha.",
+   "texto_tela": "Confira o encaixe"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a operação concreta: Produto desligado ao lado de bandeja vazia.",
+  "O segundo enquadramento deixa visível o detalhe usado na explicação: Cada peça permitida sai e recebe identificação na edição.",
+  "A etapa seguinte informa o limite da demonstração junto da imagem: Siga o manual"
+ ],
+ "quando_usar": "Quando a pessoa já considera [produto ou serviço] e precisa entender a execução mostrada em “Produto desmontado sobre superfície para mostrar a limpeza”. Usar somente se a operação for compatível com o produto e houver informação verificável.",
+ "roteiro_modelo": "0-4s | Quantas peças saem de [produto] pra fazer a limpeza?\n4-11s | Saem [peças removíveis]. A parte [não lavável] fica separada.\n11-19s | O fabricante orienta [procedimento de limpeza]. Confirme o manual do seu modelo.\n19-26s | Depois de [secagem indicada], confira o encaixe. Veja todos os cuidados de [produto] na ficha.",
+ "tomadas_celular": [
+  "Grave vertical, celular em apoio firme e luz lateral suave: Produto desligado ao lado de bandeja vazia.",
+  "Faça plano de detalhe com foco travado e sem zoom digital: Cada peça permitida sai e recebe identificação na edição.",
+  "Grave uma tomada completa, com luz igual à anterior: Plano mostra instruções aprovadas sem improvisar esterilização.",
+  "Grave o fechamento em plano médio ou de produto, deixando margem para legenda: Peças secas e remontadas com encaixe visível."
+ ],
+ "caminho_ia": "Produza uma versão ilustrativa em Sora/Veo com fotos autorizadas e especificações reais de [produto]. Gere a cena de abertura com o prompt: \"Vídeo vertical, luz natural, Produto desligado ao lado de bandeja vazia. Sem marcas de terceiros, sem letras geradas.\" Para o detalhe use: \"Vídeo vertical com câmera estável, Cada peça permitida sai e recebe identificação na edição. Preservar dimensões e materiais da referência autorizada.\" Monte as quatro cenas no editor, grave voz sintética identificada e adicione os textos depois. Identifique cenas sintéticas como ilustração. Não use geração para alegar reação real, teste físico, resultado clínico ou execução contínua comprovada; nesses casos substitua a prova por diagrama claramente identificado e mantenha a informação técnica fornecida.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAdapte o formato “Produto desmontado sobre superfície para mostrar a limpeza” para este produto. Entregue roteiro falado em pt-BR, legenda do anúncio e prompts de cena. Use quatro cenas com estes tempos: 0-4s, 4-11s, 11-19s e 19-26s. Preserve esta operação visual: Produto desligado ao lado de bandeja vazia. / Cada peça permitida sai e recebe identificação na edição. / Plano mostra instruções aprovadas sem improvisar esterilização. / Peças secas e remontadas com encaixe visível. Use [colchetes] para informação ausente e peça confirmação antes de transformar suposição em alegação. Escreva instruções de enquadramento, luz, ação e texto de tela para cada cena. Não invente depoimentos, desempenho, preço ou recomendação clínica. Identifique ilustrações geradas e mantenha os limites de segurança e os cuidados do manual. Inclua no fim a legenda e uma lista dos dados que precisam de confirmação.",
+ "legenda": "Veja como funciona [produto ou serviço] nesta demonstração. Confira [informação essencial de escolha] e [condições reais da oferta] em [canal]. Siga as orientações de uso do fabricante.",
+ "alerta_politica": "Direcionar a compra ao adulto responsável. Respeitar faixa etária, advertências, certificações e manual do produto. Usar boneco nas simulações e evitar exposição íntima da criança. Não prometer desenvolvimento, sono ou produção de leite; acessórios de amamentação exigem orientação adequada.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "987470424171541",
+   "dias_no_ar": 192,
+   "views": 0,
+   "frames": [],
+   "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/infantil-maternidade/amamentacao/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+  }
+ ],
+ "validacao": "media"
+}

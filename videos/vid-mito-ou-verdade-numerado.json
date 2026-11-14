@@ -1,0 +1,88 @@
+{
+ "id": "vid-mito-ou-verdade-numerado",
+ "nichos": [
+  "servicos-locais",
+  "marketing-trafego",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Mito ou verdade com carimbo e tipografia em movimento",
+ "formato_video": "mito-verdade",
+ "duracao": "15s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Mito ou verdade: [afirmação curta sobre a solução]?",
+  "texto_tela": "Mito ou verdade? [afirmação]",
+  "visual": "Cartela azul-petróleo com palavras em verde e branco e um ponto de interrogação grande."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Cartela azul-petróleo com palavras em verde e branco e um ponto de interrogação grande.",
+   "fala": "Mito ou verdade: [afirmação curta sobre a solução]?",
+   "texto_tela": "Mito ou verdade? [afirmação]"
+  },
+  {
+   "tempo": "3-5s",
+   "cena": "Fundo turquesa; carimbo diagonal com a resposta e um X laranja quando for mito.",
+   "fala": "Mito.",
+   "texto_tela": "MITO"
+  },
+  {
+   "tempo": "5-9s",
+   "cena": "Fundo escuro; palavra principal grande à esquerda e explicação em linhas curtas à direita.",
+   "fala": "O que define isso é [critério verificável].",
+   "texto_tela": "[Critério verificável]"
+  },
+  {
+   "tempo": "9-12s",
+   "cena": "Reduzir o bloco de texto e girá-lo levemente sobre fundo turquesa; segurar a posição para leitura.",
+   "fala": "Confira [item concreto] antes de escolher.",
+   "texto_tela": "Confira [item]"
+  },
+  {
+   "tempo": "12-15s",
+   "cena": "Cartela turquesa com chamada amarela sublinhada e canal próprio em texto escuro.",
+   "fala": "Veja a explicação completa em [canal].",
+   "texto_tela": "Entenda melhor em [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O ponto de interrogação ocupa boa parte da abertura e estabelece a classificação que virá.",
+  "O carimbo diagonal com X laranja entrega a resposta antes da explicação.",
+  "A explicação usa palavras em tamanhos diferentes sobre azul-petróleo, criando hierarquia de leitura.",
+  "A redução e rotação do bloco de texto mudam a composição antes da cartela final sublinhada."
+ ],
+ "quando_usar": "Para serviços, software e marketing quando uma crença específica atrapalha a avaliação da solução. Use uma afirmação por vídeo e uma explicação que possa ser comprovada.",
+ "roteiro_modelo": "Mito ou verdade: [afirmação curta sobre a solução]?\n\n[Corte / pausa curta]\n\nMito.\n\n[Corte / pausa curta]\n\nO que define isso é [critério verificável].\n\n[Corte / pausa curta]\n\nConfira [item concreto] antes de escolher.\n\n[Corte / pausa curta]\n\nVeja a explicação completa em [canal].",
+ "tomadas_celular": [
+  "Filme um cartão com a afirmação em plano superior por 3s, luz difusa e celular paralelo à mesa.",
+  "Grave a mão colocando um cartão MITO por 2s, câmera fixa e iluminação uniforme.",
+  "Filme dois cartões com o critério e a explicação por 4s, em close e sem sombras sobre as letras.",
+  "Grave o cartão de conferência por 3s em plano superior, com luz lateral suave.",
+  "Filme o cartão final por 3s, câmera fixa e foco travado no texto."
+ ],
+ "caminho_ia": "Sem gravar, recrie a tipografia no CapCut com fundos gerados no Runway; a voz sintética é opcional, pois a referência traz música sem fala utilizável. Prompts: \"Landscape 16:9 flat motion design background, deep teal solid field, subtle turquoise geometric accents around the edges, locked composition, three seconds, no text, no logos, space for [product topic] headline.\" e \"Landscape 16:9 turquoise motion graphic background, orange X stamp shape entering diagonally, quick ease-out motion then hold, two seconds, no letters, no branding, empty center for [product claim] overlay.\" Escreva as palavras no editor para controlar legibilidade e pause o movimento antes da leitura.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma animação tipográfica horizontal de 15s: pergunta concreta 0-3s, carimbo MITO 3-5s, explicação 5-9s, critério de conferência 9-12s e canal de aprofundamento 12-15s. Sem numeração: ela não aparece nos frames. Use azul-petróleo e turquesa como referência de contraste, letras grandes e X de destaque; adapte as cores à marca. Tom explicativo, cortes por cartela e narração curta opcional. Não copie o assunto setorial, a explicação técnica nem o endereço da referência. Só use MITO se a afirmação fornecida for de fato falsa; se for verdadeira, troque o carimbo por VERDADE e o X por sinal de confirmação. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não copie nomes, pessoas, marcas, logotipos, domínios ou frases da referência. Não invente dados, resultados ou depoimentos. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Afirmação sobre a solução]: mito ou verdade? No vídeo, confira [critério]. A explicação completa está em [canal].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "ui5LwG472_o",
+   "dias_no_ar": null,
+   "views": 3697595,
+   "frames": [
+    "videos/vid-mito-ou-verdade-numerado/frames/f1.jpg",
+    "videos/vid-mito-ou-verdade-numerado/frames/f2.jpg",
+    "videos/vid-mito-ou-verdade-numerado/frames/f3.jpg",
+    "videos/vid-mito-ou-verdade-numerado/frames/f4.jpg",
+    "videos/vid-mito-ou-verdade-numerado/frames/f5.jpg"
+   ]
+  }
+ ]
+}

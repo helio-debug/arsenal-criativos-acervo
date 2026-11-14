@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1392065065773596",
+  "tipo": "estatico",
+  "titulo": "Kit sensorial com inventário e benefícios na base",
+  "formato": "Produto em destaque",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Kit de brinquedo de encaixe inspirado em macarrão, com caixa verde, peças amarelas e utensílios brancos. A arte combina inventário à esquerda e quatro benefícios na faixa inferior.",
+  "por_que_funciona": [
+    "O título amarelo grande associa o tema às peças em espiral.",
+    "A lista à esquerda esclarece quantidades e componentes do kit.",
+    "As peças separadas e a caixa aberta mostram como o conjunto se organiza.",
+    "A faixa inferior com ícones facilita localizar os benefícios apresentados."
+  ],
+  "quando_usar": "Para explicar o conteúdo de um kit infantil e mostrar suas possibilidades de brincadeira.",
+  "estrutura_texto": "KIT [categoria]\n[Nome do kit]\nO KIT ACOMPANHA:\n[quantidade e componente]\n[Benefício 1] | [Benefício 2] | [Benefício 3] | [Benefício 4]",
+  "legenda": "Conheça [kit de brinquedo]: acompanham [componentes e quantidades]. Uma opção para brincar de [atividade] e explorar [formas de uso]. Confira a faixa etária indicada e as orientações de uso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza claro com textura suave. Posicione título em duas linhas no topo, lista de componentes em painel branco arredondado à esquerda e foto do kit à direita e no centro. Organize peças soltas na parte inferior e finalize com faixa branca de quatro ícones verdes e benefícios curtos. Ajuste cores ao meu produto e use somente componentes, quantidades e benefícios verificáveis.",
+  "alerta_politica": "Brinquedo infantil: informar faixa etária, supervisão e advertências aplicáveis, especialmente para peças pequenas. Não prometer resultados terapêuticos ou desenvolvimento garantido; alegações de aprendizagem devem ser sustentáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1392065065773596",
+    "anunciante": "Vmwstore",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-16",
+    "dias_no_ar": 59,
+    "variacoes_ativas": 1,
+    "texto_original": "Brinquedo Educativo Macarrão de Encaixe – Monte, Encaixe e Brinque \n\nUma brincadeira divertida e criativa que transforma o momento de brincar em aprendizado! O brinquedo permite encaixar e combinar as peças em formato de macarrão, estimulando a criança a explorar diferentes formas e possibilidades.\n\nAlém de proporcionar muita diversão, auxilia no desenvolvimento da coordenação motora, percepção visual, concentração, curiosidade e raciocínio de encaixe.\n\nCom visual inspirado em uma divertida brincadeira de preparar macarrão, o kit torna o faz de conta ainda mais envolvente e incentiva a imaginação dos pequenos.\n\n✨ Benefícios:\n\nEstimula a coordenação olho-mão\nDesenvolve concentração e percepção de formas\nIncentiva o raciocínio e a curiosidade\nEstimula a criatividade e o faz de conta\nBrincadeira educativa e interativa\n\nUm brinquedo diferente e divertido para aprender brincando\nBrinquedo Educativo Macarrão de Encaixe",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1392065065773596.jpg"
+}

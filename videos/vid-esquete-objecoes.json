@@ -1,0 +1,110 @@
+{
+ "id": "vid-esquete-objecoes",
+ "formato_video": "esquete-dialogada",
+ "nichos": [
+  "seguros",
+  "servicos-locais",
+  "saas-b2b",
+  "consorcio-credito"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Esquete em dupla rebate preço e mostra a contratação no celular",
+ "duracao": "40-46s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano aberto de duas pessoas ao lado de [objeto ligado ao problema], mãos na cabeça e reação exagerada.",
+   "fala": "A: De novo [imprevisto concreto]. Agora vou ter que resolver isso.",
+   "texto_tela": "[Imprevisto concreto]"
+  },
+  {
+   "tempo": "5-13s",
+   "cena": "Dupla se vira uma para a outra; uma abre os braços, a outra responde com gestos. Legendas brancas baixas.",
+   "fala": "B: Eu uso [produto] pra [função]. A: Eu achei que ia custar muito. B: Dá pra consultar [preço ou condições] antes de decidir.",
+   "texto_tela": "[Condição verificável]"
+  },
+  {
+   "tempo": "13-22s",
+   "cena": "Manter os dois no quadro; a pessoa desconfiada pega o celular.",
+   "fala": "A: E pra começar? Vou ter que preencher um monte de coisa? B: Olha aqui. Você entra em [canal] e escolhe [opção].",
+   "texto_tela": "Comece por [canal]"
+  },
+  {
+   "tempo": "22-32s",
+   "cena": "Um aponta para a câmera enquanto o outro toca no celular; inserir tela limpa do fluxo real.",
+   "fala": "B: Depois você confere [informação necessária] e envia [solicitação]. A: Aqui já aparece [próxima etapa]? B: Aparece, com [condição importante].",
+   "texto_tela": "Confira [condição importante]"
+  },
+  {
+   "tempo": "32-40s",
+   "cena": "Dupla se aproxima do telefone; quem tinha dúvida mostra a tela e reage.",
+   "fala": "A: Achei [informação que buscava]. Vou conferir antes de seguir. B: É por aqui mesmo. O link abre [destino].",
+   "texto_tela": "Veja [informação] no link"
+  },
+  {
+   "tempo": "40-46s",
+   "cena": "Cartela colorida com recorte do apresentador e imagem de [produto], sem marcas da referência.",
+   "fala": "Consulte [produto] e veja [condições] no link.",
+   "texto_tela": "[Produto] • Consulte as condições"
+  }
+ ],
+ "hook": {
+  "falado": "A: De novo [imprevisto concreto]. Agora vou ter que resolver isso.",
+  "texto_tela": "[Imprevisto concreto]",
+  "visual": "Plano aberto de duas pessoas ao lado de [objeto ligado ao problema], mãos na cabeça e reação exagerada."
+ },
+ "por_que_funciona": [
+  "As mãos na cabeça entre os carros abrem a cena com um imprevisto visível antes da explicação.",
+  "A objeção de preço aparece na conversa e na legenda branca, enquanto os dois continuam no mesmo espaço.",
+  "O celular passa a guiar os gestos da dupla quando a fala muda para contratação.",
+  "A cartela azul final interrompe a encenação e concentra o encerramento em uma tela."
+ ],
+ "quando_usar": "Para serviços que recebem dúvidas sobre custo e contratação. Use no meio do funil, quando o público já entende a função do serviço.",
+ "roteiro_modelo": "A: De novo [imprevisto concreto]. Agora vou ter que resolver isso.\n\n[Pausa / corte]\n\nB: Eu uso [produto] pra [função]. A: Eu achei que ia custar muito. B: Dá pra consultar [preço ou condições] antes de decidir.\n\n[Pausa / corte]\n\nA: E pra começar? Vou ter que preencher um monte de coisa? B: Olha aqui. Você entra em [canal] e escolhe [opção].\n\n[Pausa / corte]\n\nB: Depois você confere [informação necessária] e envia [solicitação]. A: Aqui já aparece [próxima etapa]? B: Aparece, com [condição importante].\n\n[Pausa / corte]\n\nA: Achei [informação que buscava]. Vou conferir antes de seguir. B: É por aqui mesmo. O link abre [destino].\n\n[Pausa / corte]\n\nConsulte [produto] e veja [condições] no link.",
+ "tomadas_celular": [
+  "Plano aberto vertical da dupla junto a [objeto do contexto], luz lateral de janela, 5s; encene só uma reação segura.",
+  "Plano de corpo inteiro da conversa, celular apoiado e luz frontal difusa, 8s.",
+  "Plano médio da dupla pegando o telefone, luz de janela sem reflexo na tela, 9s.",
+  "Detalhe das mãos no celular com dados fictícios, luz suave lateral, 10s.",
+  "Plano médio da reação e indicação do link, mesma luz e posição, 8s.",
+  "Retrato do apresentador em fundo liso, luz frontal, 6s para recortar na cartela."
+ ],
+ "caminho_ia": "Gere a esquete no Veo ou Kling em trechos curtos, preservando os mesmos personagens. Use voz sintética ou voz clonada com autorização para A e B; monte as falas, as legendas brancas e a cartela no CapCut. Prompts: \"Vertical 9:16 medium wide shot, two fictional adults beside [problem-related object], surprised hand gestures, soft warehouse daylight, locked smartphone camera, no logos, no text.\" e \"Vertical 9:16 two-shot, same fictional adults examining a smartphone showing [product workflow], natural conversational gestures, soft frontal light, clean screen for later compositing, no logos.\" Insira uma captura real autorizada ou uma demonstração identificada; não fabrique confirmação de contratação.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça uma esquete de 46s em seis blocos: 0-5 imprevisto; 5-13 dúvida de preço; 13-22 dúvida de esforço; 22-32 fluxo no celular; 32-40 reação; 40-46 cartela. Tom de conversa entre conhecidos, humor nos gestos e alternância curta de A e B. Use plano aberto, legendas brancas e cartela colorida final. Não prometa aprovação, cobertura imediata ou menor preço. Mostre as condições antes da decisão. Não copie pessoas, marcas, nomes, slogans, interface, números ou alegações da referência. Use apenas informações comprováveis do meu produto. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas decorativas e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Dúvida sobre contratar]? Veja como consultar [produto] pelo [canal]. Confira [condições relevantes] antes de seguir. [CTA para o link].",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição financeira vulnerável nem use alegações enganosas de preço ou aprovação. Para seguros, apresente cobertura, exclusões, carência e condições de aceitação conforme o produto e as regras da SUSEP; não prometa cobertura imediata sem respaldo contratual. Se houver crédito, observe as regras do Banco Central e informe custos e condições.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-8ab3f53b",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-esquete-objecoes/frames/f1.jpg",
+    "videos/vid-esquete-objecoes/frames/f2.jpg",
+    "videos/vid-esquete-objecoes/frames/f3.jpg",
+    "videos/vid-esquete-objecoes/frames/f4.jpg",
+    "videos/vid-esquete-objecoes/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-6f990e8e",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e19692b7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

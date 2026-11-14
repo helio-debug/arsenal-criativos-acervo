@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1689261068611853",
+  "tipo": "estatico",
+  "titulo": "Consulta pela placa em moldura de busca",
+  "formato": "Alerta e educação",
+  "nicho": "automotivo",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Uma vista aérea de rodovia escurecida serve de fundo para uma chamada amarela. No centro, uma moldura de busca reúne lupa, palavra placa e uma placa ilustrativa; abaixo aparecem o momento de uso e a quantidade de informações.",
+  "por_que_funciona": [
+    "A moldura com lupa e placa demonstra visualmente como iniciar a consulta.",
+    "O título amarelo contrasta com a rodovia escurecida.",
+    "A frase sobre comprar um usado ou seminovo liga o serviço a uma decisão concreta.",
+    "O bloco com mais de cem informações comunica a abrangência alegada da consulta."
+  ],
+  "quando_usar": "Para apresentar um serviço de histórico veicular a quem está avaliando um carro usado.",
+  "estrutura_texto": "CONSULTA VEICULAR PELA\nPLACA\n[Placa ilustrativa]\nAntes de comprar [tipo de veículo], [ação recomendada]\n[Marca própria]\n[Quantidade comprovada] informações",
+  "legenda": "Consulte [informações disponíveis] de um veículo pela placa em [serviço]. Receba o resultado em [prazo comprovado] e analise os dados antes de comprar um usado ou seminovo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma rodovia vista de cima como fundo escurecido, com pequenos marcadores azuis sobre alguns veículos. Coloque chamada amarela grande no alto à esquerda. No centro, crie uma barra de busca com contorno branco, ícone de lupa, palavra-chave e placa fictícia. Abaixo, inclua uma frase de contexto em branco e um bloco com a quantidade comprovada de informações. A IMAGEM 2 orienta a identidade própria do serviço.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1689261068611853",
+    "anunciante": "Lupa Veicular",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-03-03",
+    "dias_no_ar": 621,
+    "variacoes_ativas": 1,
+    "texto_original": "🔎 Consulta veicular pela placa na Lupa Veicular. 🚗🏍️\n✅ Descubra mais de 100 informações sobre o veículo consultado.\n✅ Resultado em minutos, a consulta mais completa do Brasil\nConsulta veicular pela placa a mais completa do Brasil\nDescubra informações de qualquer veiculo pela placa, a consulta mais completa do Brasil",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1689261068611853.jpg"
+}

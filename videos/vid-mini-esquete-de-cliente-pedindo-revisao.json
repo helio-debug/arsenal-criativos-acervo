@@ -1,0 +1,88 @@
+{
+ "id": "vid-mini-esquete-de-cliente-pedindo-revisao",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Montagem de exemplos com cartela de recurso e upload",
+ "formato_video": "montagem-demonstracao",
+ "duracao": "35s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Veja [tarefa] em uma sequência de exemplos.",
+  "texto_tela": "[Recurso] pronto para usar",
+  "visual": "Cartela preta com chamada branca centralizada em duas linhas."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Cartela preta; texto branco grande em duas linhas.",
+   "fala": "Veja [tarefa] em uma sequência de exemplos.",
+   "texto_tela": "[Recurso] pronto para usar"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Exemplo visual em tela cheia: pessoa em ambiente urbano colorido; palavra grande amarela no topo. Substitua pelo contexto do produto.",
+   "fala": "Este exemplo começa com [material de entrada] e recebe [alteração visível].",
+   "texto_tela": "[Alteração 1]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Segundo exemplo: plano fechado de pessoa segurando um objeto junto ao rosto, fundo verde liso. Use material autorizado do comprador.",
+   "fala": "Aqui, [outro material] recebe [segunda alteração disponível]. Confira [detalhe observável].",
+   "texto_tela": "[Alteração 2]"
+  },
+  {
+   "tempo": "19-29s",
+   "cena": "Interface escura com área central de upload; destaque o arquivo e o comando usados na ferramenta real.",
+   "fala": "Para fazer no [produto], envie [arquivo compatível]. Escolha [ação disponível] e confira a prévia antes de salvar.",
+   "texto_tela": "Envie [arquivo] → escolha [ação]"
+  },
+  {
+   "tempo": "29-35s",
+   "cena": "Cartela clara de encerramento com identidade do comprador e chamada curta.",
+   "fala": "Teste com [material próprio]. Veja [condição do teste] em [canal de acesso].",
+   "texto_tela": "Teste [produto] | [condição]"
+  }
+ ],
+ "por_que_funciona": [
+  "A cartela preta com duas linhas brancas apresenta o recurso antes dos exemplos.",
+  "A palavra amarela sobre a cena urbana muda a escala do texto e cria contraste com a abertura.",
+  "O close do objeto junto ao rosto oferece um segundo exemplo visual antes da interface de upload.",
+  "A área de upload liga os exemplos à ação de enviar um arquivo; a cartela branca separa o encerramento."
+ ],
+ "quando_usar": "Para ferramentas de IA, software B2B ou soluções de marketing que aceitam arquivos e geram alterações visíveis. Use no primeiro contato para apresentar exemplos e conduzir a um teste.",
+ "roteiro_modelo": "Veja [tarefa] em uma sequência de exemplos.\n\n[CORTE / PAUSA]\n\nEste exemplo começa com [material de entrada] e recebe [alteração visível].\n\n[CORTE / PAUSA]\n\nAqui, [outro material] recebe [segunda alteração disponível]. Confira [detalhe observável].\n\n[CORTE / PAUSA]\n\nPara fazer no [produto], envie [arquivo compatível]. Escolha [ação disponível] e confira a prévia antes de salvar.\n\n[CORTE / PAUSA]\n\nTeste com [material próprio]. Veja [condição do teste] em [canal de acesso].",
+ "tomadas_celular": [
+  "Grave uma pessoa em plano médio na rua, com luz natural de sombra, por 7s; deixe espaço superior para texto.",
+  "Grave um close de pessoa segurando [objeto] ao lado do rosto, diante de parede lisa, com janela lateral difusa, por 8s.",
+  "Capture a tela do celular enviando um arquivo de teste à ferramenta, por 6s; use dados fictícios e brilho legível.",
+  "Capture a seleção da ação e a prévia na tela do celular, por 4s; mantenha o aparelho parado e sem reflexos.",
+  "Fotografe [produto ou material de entrada] em plano fechado, com luz de janela, por 3s; use na cartela final."
+ ],
+ "caminho_ia": "Sem gravar, gere os exemplos em Veo ou Runway e monte as cartelas no CapCut. Prompt 1: \"Horizontal 16:9 medium shot of an adult holding [product-related object] on a colorful city street, soft daylight, locked camera, upper frame negative space, no text, no logos.\" Prompt 2: \"Horizontal 16:9 close-up of an adult holding [product] beside their face, plain green studio backdrop, soft diffused key light, static framing, no lettering, no logos.\" Use voz sintética licenciada ou voz clonada com autorização para o roteiro adaptado. Insira capturas reais autorizadas da interface; se não houver, use slideshow com imagens geradas e identifique a interface ilustrativa. Adicione os textos na edição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte 35s em 16:9: 0-4 cartela preta e texto branco; 4-11 exemplo urbano com palavra amarela grande; 11-19 close com objeto e fundo verde; 19-29 upload e comando na interface; 29-35 cartela clara e teste. Tom demonstrativo, cortes secos e música discreta sob a locução. A fala é uma camada nova do modelo, sem reconstruir a fala parcial da referência. Mostre só recursos existentes. Não invente uma esquete de cliente ou diálogo. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não invente funcionalidades, condições comerciais ou resultados. Não copie marcas, pessoas, nomes, logotipos, textos literais nem o produto da referência. Evite superlativos sem prova, perguntas decorativas e frases de efeito. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Tarefa] com [produto]: veja os exemplos e o caminho para enviar [arquivo]. Teste nas condições de [oferta]. Acesse [canal].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "Ot5y1TxZVEE",
+   "dias_no_ar": null,
+   "views": 267543,
+   "frames": [
+    "videos/vid-mini-esquete-de-cliente-pedindo-revisao/frames/f1.jpg",
+    "videos/vid-mini-esquete-de-cliente-pedindo-revisao/frames/f2.jpg",
+    "videos/vid-mini-esquete-de-cliente-pedindo-revisao/frames/f3.jpg",
+    "videos/vid-mini-esquete-de-cliente-pedindo-revisao/frames/f4.jpg",
+    "videos/vid-mini-esquete-de-cliente-pedindo-revisao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

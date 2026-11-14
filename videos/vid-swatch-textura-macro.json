@@ -1,0 +1,73 @@
+{
+  "id": "vid-swatch-textura-macro",
+  "tipo": "video",
+  "titulo": "Swatch em macro: gota, espalhamento e acabamento sem filtro",
+  "formato_video": "swatch-macro",
+  "nichos": [
+    "beleza-cosmeticos"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "amostra-teste",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Vou mostrar a textura de [produto] bem de perto.",
+    "texto_tela": "Textura de perto",
+    "visual": "Macro da gota em placa ou dorso da mão"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Macro da gota em placa ou dorso da mão",
+      "fala": "Esta é a quantidade de [produto] que vou espalhar.",
+      "texto_tela": "Textura de perto"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Espátula arrasta uma faixa na mesma luz",
+      "fala": "Na primeira passada, ele fica [descrição observável].",
+      "texto_tela": "Primeira passada"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Mesmo enquadramento após tempo identificado",
+      "fala": "Depois de [tempo real], o acabamento aparece assim.",
+      "texto_tela": "[tempo] depois"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Frasco volta ao lado da faixa",
+      "fala": "Confira a composição e a indicação de uso na descrição.",
+      "texto_tela": "Conheça [produto]"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra macro da gota em placa ou dorso da mão, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém o mesmo produto como referência entre os cortes.",
+    "O fechamento exibe frasco volta ao lado da faixa, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é swatch em macro: gota, espalhamento e acabamento sem filtro.",
+  "roteiro_modelo": "[Abertura] Vou mostrar a textura de [produto] bem de perto.\n[0-4s] Esta é a quantidade de [produto] que vou espalhar.\n[4-10s] Na primeira passada, ele fica [descrição observável].\n[10-18s] Depois de [tempo real], o acabamento aparece assim.\n[18-25s] Confira a composição e a indicação de uso na descrição.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Macro da gota em placa ou dorso da mão.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Espátula arrasta uma faixa na mesma luz.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mesmo enquadramento após tempo identificado.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Frasco volta ao lado da faixa."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, macro da gota em placa ou dorso da mão, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, espátula arrasta uma faixa na mesma luz, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Swatch em macro: gota, espalhamento e acabamento sem filtro. Preserve esta mecânica: Macro da gota em placa ou dorso da mão; Espátula arrasta uma faixa na mesma luz; Mesmo enquadramento após tempo identificado; Frasco volta ao lado da faixa. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não usar filtros, retoque de pele ou iluminação diferente para fabricar resultado. Testes mostram apenas as condições registradas e não comprovam efeito clínico. ",
+  "legenda": "Veja [produto] de perto: swatch em macro: gota, espalhamento e acabamento sem filtro. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": "Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não usar filtros, retoque de pele ou iluminação diferente para fabricar resultado. Testes mostram apenas as condições registradas e não comprovam efeito clínico. ",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1442690403982156",
+      "dias_no_ar": 253,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

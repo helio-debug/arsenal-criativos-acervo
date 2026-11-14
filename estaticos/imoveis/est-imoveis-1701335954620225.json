@@ -1,0 +1,36 @@
+{
+  "id": "est-imoveis-1701335954620225",
+  "tipo": "estatico",
+  "titulo": "Sala e cozinha integradas em foto de imóvel",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de sala com sofá e mesa de refeições, integrada a uma cozinha branca com geladeira e cooktop. Um símbolo de marca aparece sobreposto ao centro.",
+  "por_que_funciona": [
+    "O sofá à esquerda permite entender o uso da área de estar.",
+    "A mesa em primeiro plano evidencia o espaço para refeições.",
+    "Os armários e eletrodomésticos à direita mostram a organização da cozinha integrada."
+  ],
+  "quando_usar": "Para apresentar a distribuição interna de apartamentos compactos em anúncios de venda.",
+  "estrutura_texto": "[Foto da sala integrada à cozinha] + [identificação visual discreta]",
+  "legenda": "Encontre opções de imóveis à venda em [cidade]. Fale com nossa equipe pelo [canal de contato] e consulte os detalhes.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático de imóvel na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base do imóvel anunciado. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia ampla da sala integrada à cozinha, com sofá à esquerda, mesa no primeiro plano e armários claros à direita. Mantenha aparência de foto de visita e luz ambiente. Se necessário, reserve área discreta para a identidade da marca informada. Utilize os dados de MEU PRODUTO e não invente características, valores ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1701335954620225",
+    "anunciante": "Ipanema Imobiliária",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "🏠 Realize o sonho da casa própria em Uberlândia! Explore opções de venda com a Ipanema Imobiliária.\n\nFale conosco no WhatsApp: 📲 (34)3230-9797\n\nIpanema Imobiliária\nO Seu Melhor Negócio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1701335954620225.jpg"
+}

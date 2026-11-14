@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-829824529566372",
+  "tipo": "estatico",
+  "titulo": "Natação infantil com fotos e horários de atendimento",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Montagem em azul e branco reúne crianças na piscina, título grande, selo de idade mínima e dois recortes fotográficos à direita. A base apresenta horários, endereço e uma faixa sobre inclusão.",
+  "por_que_funciona": [
+    "O título “Natação” ocupa grande área e identifica o serviço rapidamente.",
+    "O selo “A partir dos 6 meses” explicita a faixa de entrada.",
+    "As fotos mostram bebês e crianças em atividades aquáticas.",
+    "Horários e endereço em um bloco separado facilitam avaliar a viabilidade da matrícula."
+  ],
+  "quando_usar": "Para escolas de natação infantil apresentarem público atendido, método e informações práticas.",
+  "estrutura_texto": "A PARTIR DE [IDADE]\n[NOME DO SERVIÇO]\n[FOCO DA ATIVIDADE]\nVenha conhecer nossa metodologia\n[NOME DO MÉTODO]\n[DIAS E HORÁRIOS]\n[ENDEREÇO]\n[MENSAGEM DE INCLUSÃO]",
+  "legenda": "Conheça as aulas de [atividade] para crianças a partir de [idade]. Nossa proposta trabalha [objetivos pedagógicos] com acompanhamento de [equipe]. Confira [horários] e entre em contato para conhecer [local] e as condições de participação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição azul e branca com uma foto principal de criança na piscina e duas fotos menores à direita, em molduras brancas arredondadas e levemente inclinadas. Use título azul grande à esquerda, selo de idade, subtítulo preto e bloco inferior com horários e endereço em placeholders. Inclua mensagem de inclusão somente se corresponder ao serviço oferecido.",
+  "alerta_politica": "Meta: não presumir diagnóstico de crianças ou prometer benefícios terapêuticos garantidos. Usar imagens de menores com autorização e comunicar inclusão sem estereótipos; não apresentar natação como tratamento ou garantia de segurança contra afogamento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "829824529566372",
+    "anunciante": "centroe_boaforma",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-21",
+    "dias_no_ar": 389,
+    "variacoes_ativas": 1,
+    "texto_original": "Você sabia que seu bebê pode começar a nadar a partir dos 6 meses? 💙\n\nCom o nosso método \"Intimidade com a Água\", a natação se torna um momento de diversão e conexão, fortalecendo o sistema respiratório, melhorando a qualidade do sono e estimulando a progressão motora do seu pequeno!\n\nAlém disso, a natação é extremamente benéfica para crianças autistas, auxiliando na regulação sensorial, no desenvolvimento da comunicação e na redução da ansiedade.\n\nAqui no Espaço Aquático Boa Forma, acolhemos tanto crianças típicas quanto atípicas, oferecendo aulas seguras e lúdicas, pensadas para o crescimento saudável do seu filho.\n\n💙 Dê esse presente para o seu pequeno! Chame no WhatsApp e agende uma aula experimental!\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-829824529566372.jpg"
+}

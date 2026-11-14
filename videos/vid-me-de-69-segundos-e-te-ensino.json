@@ -1,0 +1,101 @@
+{
+ "id": "vid-me-de-69-segundos-e-te-ensino",
+ "nichos": [
+  "educacao-concursos",
+  "infoproduto-cursos",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Aula rápida para câmera com palavras grandes e apoio visual",
+ "formato_video": "tutorial-passo-a-passo",
+ "duracao": "69s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Em 69 segundos, vou mostrar como começar [tarefa]. Separe [material básico].",
+  "texto_tela": "Como começar [tarefa] em 69s",
+  "visual": "Pessoa sentada em plano médio, livros ao fundo; título branco grande com contorno escuro."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Pessoa sentada em plano médio, livros ao fundo; título branco grande com contorno escuro.",
+   "fala": "Em 69 segundos, vou mostrar como começar [tarefa]. Separe [material básico].",
+   "texto_tela": "Como começar [tarefa] em 69s"
+  },
+  {
+   "tempo": "6-16s",
+   "cena": "Mesmo plano; gestos delimitam escolhas; palavra-chave no alto.",
+   "fala": "Primeiro, defina [objetivo concreto]. Escolha [opção] conforme [critério]. Anote o que você quer conseguir nesta primeira tentativa.",
+   "texto_tela": "1. Defina [objetivo]"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Inserir pequenos cartões ilustrativos ao redor da pessoa, sem cobrir o rosto.",
+   "fala": "Agora confira [instrução ou requisito]. Procure [informação necessária] e separe [recurso]. Isso evita começar com [erro concreto].",
+   "texto_tela": "2. Confira [requisito]"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Texto grande atravessa o centro por um instante; retirar para mostrar a demonstração com as mãos.",
+   "fala": "Faça [ação principal] com [recurso]. Comece por [parte pequena]. Depois confira se [critério observável] está presente.",
+   "texto_tela": "3. Pratique [ação]"
+  },
+  {
+   "tempo": "39-51s",
+   "cena": "Aproximar o enquadramento; pessoa conta os pontos nos dedos.",
+   "fala": "Se aparecer [erro comum], volte a [etapa] e ajuste [variável]. Registre o que mudou para comparar na próxima tentativa.",
+   "texto_tela": "4. Corrija [erro]"
+  },
+  {
+   "tempo": "51-62s",
+   "cena": "Voltar ao plano médio; gestos acompanham revisão da sequência.",
+   "fala": "Repita com [frequência viável]. Antes de avançar, teste [situação de uso] e confira [critério de conclusão]. Adapte o ritmo ao tempo disponível.",
+   "texto_tela": "5. Teste [situação de uso]"
+  },
+  {
+   "tempo": "62-69s",
+   "cena": "Pessoa aponta para chamada simples junto à borda inferior.",
+   "fala": "Para acompanhar os passos, baixe [material gratuito] em [canal]. Ele traz [conteúdo concreto] para consultar durante a prática.",
+   "texto_tela": "Baixe [material gratuito]"
+  }
+ ],
+ "por_que_funciona": [
+  "A estante permanece ao fundo enquanto os gestos acompanham a explicação direta para a câmera.",
+  "Os cartões pequenos distribuídos ao redor da cabeça oferecem apoio visual durante a fala.",
+  "O texto branco com contorno preto ocupa o centro no trecho sobre a forma de estudar e marca uma etapa.",
+  "A alternância entre plano médio e enquadramento mais próximo dá destaque às instruções sem mudar de cenário."
+ ],
+ "quando_usar": "Para cursos, educação e mentoria ao ensinar uma tarefa pequena antes de oferecer um material gratuito. Escolha uma execução que caiba em uma aula de 69s, sem prometer domínio do tema inteiro.",
+ "roteiro_modelo": "Em 69 segundos, vou mostrar como começar [tarefa]. Separe [material básico].\n\n[Corte / pausa curta]\n\nPrimeiro, defina [objetivo concreto]. Escolha [opção] conforme [critério]. Anote o que você quer conseguir nesta primeira tentativa.\n\n[Corte / pausa curta]\n\nAgora confira [instrução ou requisito]. Procure [informação necessária] e separe [recurso]. Isso evita começar com [erro concreto].\n\n[Corte / pausa curta]\n\nFaça [ação principal] com [recurso]. Comece por [parte pequena]. Depois confira se [critério observável] está presente.\n\n[Corte / pausa curta]\n\nSe aparecer [erro comum], volte a [etapa] e ajuste [variável]. Registre o que mudou para comparar na próxima tentativa.\n\n[Corte / pausa curta]\n\nRepita com [frequência viável]. Antes de avançar, teste [situação de uso] e confira [critério de conclusão]. Adapte o ritmo ao tempo disponível.\n\n[Corte / pausa curta]\n\nPara acompanhar os passos, baixe [material gratuito] em [canal]. Ele traz [conteúdo concreto] para consultar durante a prática.",
+ "tomadas_celular": [
+  "Grave a abertura em plano médio por 6s, luz de janela a 45 graus e celular na altura dos olhos.",
+  "Grave a escolha do objetivo por 10s no mesmo plano e luz, apontando para o espaço reservado ao título.",
+  "Grave os requisitos por 11s, deixando espaço nas laterais para cartões; mantenha a luz difusa.",
+  "Grave a ação principal por 12s, plano médio com mãos visíveis e luz frontal suave.",
+  "Aproxime o celular para plano de peito e cabeça; grave a correção por 12s com a mesma luz.",
+  "Grave revisão e CTA em plano médio por 18s, luz constante e espaço inferior livre para a chamada."
+ ],
+ "caminho_ia": "Sem gravar, monte um avatar em plano médio com voz sintética licenciada e intercale apoios visuais gerados no Sora ou Veo. Prompts: \"Landscape 16:9 medium shot of a fictional instructor sitting at a desk with a bookshelf in the background, soft side window lighting, eye-level locked camera, natural explanatory hand gestures, six seconds, no logos, no text.\" e \"Landscape 16:9 close-up of hands practicing [task] using [learning material] on a tidy desk, soft diffused daylight, overhead locked camera, twelve seconds, clear step-by-step movement, no text.\" Use CapCut para inserir cartões genéricos e palavras brancas com contorno escuro; ajuste a voz para caber nos 69s sem atropelar as instruções.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça um tutorial horizontal de 69s com pessoa falando para a câmera, livros ao fundo e gestos visíveis. Tempos: promessa de tarefa 0-6s, objetivo 6-16s, requisitos 16-27s, prática 27-39s, correção 39-51s, teste 51-62s, material gratuito 62-69s. Ritmo ágil e explicação contínua, com palavras grandes brancas de contorno escuro e cartões laterais. Use aproximação no bloco de correção. O título cronometrado é uma adaptação; não invente cronômetro observado na referência. Não copie nomes de plataformas, dicas de concurso, percentuais de aproveitamento ou promessa de aprovação. Ensine uma tarefa específica do meu produto, com critério observável e CTA para um material gratuito que exista. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não copie nomes, pessoas, marcas, logotipos, domínios ou frases da referência. Não invente dados, resultados ou depoimentos. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Comece [tarefa] por [primeiro passo]. Salve a sequência e baixe [material gratuito] em [canal] para consultar durante a prática.",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "6XfWZNh6lpk",
+   "dias_no_ar": null,
+   "views": 603777,
+   "frames": [
+    "videos/vid-me-de-69-segundos-e-te-ensino/frames/f1.jpg",
+    "videos/vid-me-de-69-segundos-e-te-ensino/frames/f2.jpg",
+    "videos/vid-me-de-69-segundos-e-te-ensino/frames/f3.jpg",
+    "videos/vid-me-de-69-segundos-e-te-ensino/frames/f4.jpg",
+    "videos/vid-me-de-69-segundos-e-te-ensino/frames/f5.jpg"
+   ]
+  }
+ ]
+}

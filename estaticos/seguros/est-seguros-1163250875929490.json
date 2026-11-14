@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1163250875929490",
+  "tipo": "estatico",
+  "titulo": "Seguro de vida com gesto de liberdade ao ar livre",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Mulher sorridente com os braços elevados ocupa o lado direito de uma fotografia ao ar livre. Texto amarelo aparece à esquerda sobre degradê escuro.",
+  "por_que_funciona": [
+    "O gesto de braços elevados traduz visualmente a liberdade citada no texto.",
+    "O sorriso cria uma apresentação leve para seguro de vida.",
+    "O degradê escuro sustenta a leitura da chamada amarela.",
+    "A composição deixa o rosto separado do bloco de texto."
+  ],
+  "quando_usar": "Para apresentar seguro de vida a públicos amplos em campanhas de reconhecimento.",
+  "estrutura_texto": "Com [seguro de vida],\n[benefício emocional central].",
+  "legenda": "Conheça o [seguro de vida], com opções de cobertura e serviços para diferentes fases. Consulte as vantagens e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato ao ar livre de uma pessoa adulta sorrindo, à direita, com braços elevados. Preserve espaço à esquerda para texto serifado amarelo sobre degradê azul escuro. Acrescente filetes amarelos no topo e na base. Use a IMAGEM 2 para representar o contexto do serviço sem reproduzir a pessoa da referência.",
+  "alerta_politica": "Para seguros, informe coberturas, exclusões e condições reais de contratação; não prometa proteção total nem indenização garantida. Observe as regras aplicáveis da SUSEP e evite atribuir vulnerabilidades pessoais ao público na copy da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1163250875929490",
+    "anunciante": "Yelum Seguradora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 1,
+    "texto_original": "Você conhece o seguro Yelum Vida?\nVárias coberturas e serviços para você\nviver cada fase da vida com mais\nliberdade. Descubra todas as vantagens.\nSeguro para viver livre\nSaiba mais da Yelum Seguros",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1163250875929490.jpg"
+}

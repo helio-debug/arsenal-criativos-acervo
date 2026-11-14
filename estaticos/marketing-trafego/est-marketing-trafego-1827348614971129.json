@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1827348614971129",
+  "tipo": "estatico",
+  "titulo": "Benefício de visibilidade cercado por telas de anúncios",
+  "formato": "Print de tela",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Headline preta sobre fundo branco aparece entre recortes de cartões de anúncios, métricas, menu de criação e uma foto de corredores.",
+  "por_que_funciona": [
+    "A headline central tem o maior peso tipográfico.",
+    "Os cartões de anúncios mostram exemplos visuais do serviço.",
+    "Os recortes de métricas apresentam o contexto de acompanhamento de campanhas.",
+    "O botão preto de criação aproxima a mensagem da ação dentro de uma interface."
+  ],
+  "quando_usar": "Para apresentar uma ferramenta de anúncios a empresas que buscam ampliar sua divulgação.",
+  "estrutura_texto": "[Exemplos de anúncios e métricas]\nGanhe [benefício]\ncom [plataforma de anúncios]\n[Prévia de campanha]",
+  "legenda": "Conheça [plataforma de anúncios] e veja como divulgar [negócio ou oferta]. Acesse [link] para começar sua campanha.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma montagem de interfaces sobre fundo branco, com headline preta grande no centro e recortes de cartões, gráficos e métricas nas bordas. Inclua um botão preto de criação e uma prévia fotográfica inferior. Use marca própria e dados demonstrativos identificados, sem sugerir resultados garantidos. Adapte os textos ao MEU PRODUTO, em pt-BR, sem reproduzir nomes de terceiros.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1827348614971129",
+    "anunciante": "ChatGPT",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-22",
+    "dias_no_ar": 23,
+    "variacoes_ativas": 1,
+    "texto_original": "Descubra uma nova forma de fazer seu negócio crescer com o ChatGPT Anúncios.\nAnuncie hoje no ChatGPT",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1827348614971129.jpg"
+}

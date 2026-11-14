@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1407363697530838",
+  "tipo": "estatico",
+  "titulo": "Guia gratuito sobre consultoria em foto de palestra",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de um palestrante com microfone ocupa o fundo. O título identifica a profissão e blocos branco e rosa apresentam um guia gratuito para estruturar uma consultoria.",
+  "por_que_funciona": [
+    "O título no alto identifica diretamente o público profissional.",
+    "A foto com microfone contextualiza a oferta em uma situação de ensino.",
+    "A caixa branca dá contraste ao benefício e destaca uma expressão em vermelho.",
+    "A faixa rosa separa o acesso gratuito do restante do texto."
+  ],
+  "quando_usar": "Para captar profissionais interessados em organizar e comercializar um serviço online.",
+  "estrutura_texto": "[Profissão]\nGuia para estruturar sua [oferta] com [diferencial] e deixá-la pronta para [objetivo] em [prazo fundamentado].\nAcesso gratuito liberado [indicador]",
+  "legenda": "Acesse gratuitamente o guia de [tema] e veja como organizar [oferta] para [objetivo]. Confira o material em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto autorizada do profissional da IMAGEM 2 em contexto de apresentação. Aplique título serifado branco no topo, bloco branco com texto preto no centro e um trecho vermelho, seguido de faixa rosa com CTA gratuito. Não invente prazo de execução ou resultado financeiro.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1407363697530838",
+    "anunciante": "personal.empreendedor",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-29",
+    "dias_no_ar": 46,
+    "variacoes_ativas": 1,
+    "texto_original": "Instagram\nCreate an account or log in to Instagram - Share what you're into with the people who get you.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1407363697530838.jpg"
+}

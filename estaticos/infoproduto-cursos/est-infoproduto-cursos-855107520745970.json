@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-855107520745970",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com título central e faixas de credenciais",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo branco com título central, mensalidade e credenciais acadêmicas. Faixas azuis organizam carga horária, avaliação institucional e condição do trabalho final.",
+  "por_que_funciona": [
+    "O título em preto ocupa a maior área de leitura e identifica a especialização.",
+    "A mensalidade aparece logo abaixo do tema.",
+    "As faixas azuis separam três informações acadêmicas com ícones.",
+    "Mestres e doutores aparecem em destaque tipográfico."
+  ],
+  "quando_usar": "Para apresentar especialização a graduados que comparam tema, corpo docente e condições.",
+  "estrutura_texto": "[modalidade]\n[tema da especialização]\nInvista a partir de R$[valor]/mês\nEstude com [titulação docente]\n[credencial institucional]\n[carga horária]\n[avaliação institucional]\n[condição do trabalho final]",
+  "legenda": "Especialize-se em [tema] com uma pós-graduação [modalidade], a partir de [mensalidade]. Conheça a carga horária, o corpo docente e os requisitos de matrícula. Fale com [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, pequeno ícone de pessoas no topo, etiqueta azul de modalidade, título preto central e preço abaixo. Distribua credenciais em faixas horizontais azuis com ícones brancos e reserve a base para a identidade do produto.",
+  "alerta_politica": "Apresente o tema de saúde mental sem inferir diagnóstico do leitor nem prometer resultados clínicos. Comprove as credenciais acadêmicas e diferencie credenciamento institucional de reconhecimento específico do curso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "855107520745970",
+    "anunciante": "Famef",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 1,
+    "texto_original": "Torne-se Especialista em NR-01: Riscos Psicossociais e Saúde Mental, a partir de R$49/mês, com os cursos de Pós-Graduação EAD da Faculdade Metropolitana de Franca - FAMEF\n\n✅ Curso de Especialização 100% On-line e Autorizados pelo MEC\n✅Professores Mestres e Doutores\n✅ Estágio e TCC não obrigatório (conforme Resolução CNE n° 1, de 06 de abril de 2018).\n\nClique no link e fale com um consultor\nA partir de R$49/mês",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-855107520745970.jpg"
+}

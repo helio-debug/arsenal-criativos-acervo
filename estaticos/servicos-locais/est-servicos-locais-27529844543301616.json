@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-27529844543301616",
+  "tipo": "estatico",
+  "titulo": "Pergunta de caixinha sobre escolha tributária",
+  "formato": "Print de tela",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical de fundo cinza escuro com uma caixinha de pergunta no alto e resposta em texto branco centralizado. O nome da análise aparece em negrito e o convite ao contato fecha o conteúdo.",
+  "por_que_funciona": [
+    "A caixinha reproduz uma dúvida direta sobre impostos e reforma tributária.",
+    "A resposta inicia com a variável que determina a decisão.",
+    "O exemplo de duas empresas com faturamento igual explica a necessidade de análise individual.",
+    "O negrito destaca o serviço dentro do texto educativo."
+  ],
+  "quando_usar": "Para responder dúvidas recorrentes e levar empresários interessados a uma análise individual.",
+  "estrutura_texto": "[Cabeçalho da caixinha]\n[Pergunta do público]\n[Resposta condicionada a uma escolha]\n[Exemplo que explica a diferença]\n[Nome do serviço] para [benefício]\n[Convite para contato]",
+  "legenda": "A escolha de [regime ou estrutura] em [período aplicável] pode alterar [custo] em [ano]. Avalie as opções com [serviço de análise] e entenda o que faz sentido para [empresa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza visual de caixinha de perguntas: retângulo branco arredondado com cabeçalho cinza no terço superior. Fundo grafite, resposta branca centralizada em pequenos parágrafos, nome do serviço em negrito e CTA textual abaixo. A foto da IMAGEM 2 serve apenas para contexto do produto, sem precisar aparecer. Não invente prazos ou regras tributárias.",
+  "alerta_politica": "Meta: não prometa economia tributária garantida nem apresente resultados financeiros como certos. Benefícios e percentuais devem ser comprováveis; a tributação depende do enquadramento e da análise de cada empresa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "27529844543301616",
+    "anunciante": "Unclik Contabilidade Digital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-13",
+    "dias_no_ar": 124,
+    "variacoes_ativas": 3,
+    "texto_original": "Setembro vai definir quanto imposto sua empresa paga em 2027.",
+    "origem_coleta": "acervo:unclik"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-27529844543301616.jpg"
+}

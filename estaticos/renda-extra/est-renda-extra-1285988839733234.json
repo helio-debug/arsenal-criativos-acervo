@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1285988839733234",
+  "tipo": "estatico",
+  "titulo": "Revenda de semijoias com investimento inicial visível",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Composição em marrom e dourado mostra uma mulher junto a uma bandeja de semijoias. A chamada de revenda, o investimento inicial e dois itens de apoio aparecem na coluna esquerda.",
+  "por_que_funciona": [
+    "O valor inicial em números dourados grandes torna o custo de entrada visível.",
+    "A bandeja de joias e os expositores ao fundo situam a oportunidade no produto.",
+    "Os itens sobre vendas e precificação apresentam apoio específico para começar.",
+    "A faixa contornada no rodapé reúne o convite de participação."
+  ],
+  "quando_usar": "Para divulgar um programa de revenda de acessórios com pedido inicial e apoio comercial definidos.",
+  "estrutura_texto": "[Vocativo], sua renda extra pode começar [momento]\nRevenda [categoria] com [condição inicial]\nA partir de [valor]\nReceba [apoio de vendas]\nAprenda [habilidade comercial]\n[Convite à revenda]",
+  "legenda": "Comece a revender [categoria] com investimento inicial a partir de [valor] em [condições]. Tenha acesso a [apoio de vendas] e [orientação de precificação]. Consulte os requisitos e conheça o programa em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use paleta marrom escura e dourada, fotografia de pessoa adulta junto a uma bandeja de produtos da IMAGEM 2 à direita e tipografia serifada clara à esquerda. Destaque o investimento inicial em caixa contornada, acrescente dois itens de suporte com ícones lineares e finalize com faixa arredondada de convite. Não associe a compra a lucro garantido. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganho fácil ou ausência de risco. Valores e condições de ganhos devem ser comprováveis e apresentados com critérios, custos e ressalvas claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1285988839733234",
+    "anunciante": "Veraneio semijoias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-03",
+    "dias_no_ar": 195,
+    "variacoes_ativas": 1,
+    "texto_original": "Comece seu próprio negócio com semijoias. 💎\n\nNa Veraneio, você pode iniciar com apenas R$100 em peças no atacado e ter acesso a dicas de vendas e precificação para dar os primeiros passos com mais confiança.\n\nIdeal para quem quer vender, lucrar e construir uma nova fonte de renda.\n\n👉 Toque em Saiba mais e venha para a Veraneio",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1285988839733234.jpg"
+}

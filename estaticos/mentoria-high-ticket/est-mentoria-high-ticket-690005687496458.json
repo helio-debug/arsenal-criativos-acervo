@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-690005687496458",
+  "tipo": "estatico",
+  "titulo": "Retrato executivo apresenta consultoria hospitalar",
+  "formato": "novo:Retrato com chamada",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical bordô com retrato executivo no alto, identificação lateral e chamada central para estratégia e gestão hospitalar.",
+  "por_que_funciona": [
+    "O retrato de terno apresenta visualmente a liderança da consultoria.",
+    "A identificação junto à foto explicita o cargo de quem representa o serviço.",
+    "O amarelo destaca o convite para conhecer a solução sobre o fundo bordô."
+  ],
+  "quando_usar": "Para apresentar consultorias de gestão hospitalar e seus responsáveis a potenciais instituições contratantes.",
+  "estrutura_texto": "[Nome e cargo]\n[Nossos especialistas com você]\nConheça [área da consultoria] que [benefício institucional]\n[Assinatura]",
+  "legenda": "Transforme a gestão de [instituição] com [consultoria]. Conheça a metodologia e o acompanhamento voltados a [objetivo institucional]. Saiba mais em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma composição vertical com fundo bordô, retrato executivo em retângulo de cantos arredondados no terço superior e identificação discreta ao lado. Abaixo, combine uma frase curta em serifada e escrita cursiva com chamada central branca e destaque amarelo. Finalize com assinatura branca.",
+  "alerta_politica": "Na comunicação de serviços ligados à saúde, evite promessas de resultados clínicos ou superioridade sem comprovação; use imagem e credenciais autorizadas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "690005687496458",
+    "anunciante": "Hcor",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-12",
+    "dias_no_ar": 367,
+    "variacoes_ativas": 1,
+    "texto_original": "Transforme gestão em resultado com a Consultoria e Gestão Hcor. Metodologia, liderança e estratégia para o crescimento da sua instituição.\nEstratégia e Gestão Hospitalar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-690005687496458.jpg",
+  "formato_novo_def": "Retrato de um profissional acompanhado por identificação e chamada comercial, sem depoimento nem interface simulada."
+}

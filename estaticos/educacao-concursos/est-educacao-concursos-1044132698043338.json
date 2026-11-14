@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1044132698043338",
+  "tipo": "estatico",
+  "titulo": "Duas mentorias comparadas por fase de estudo",
+  "formato": "Comparativo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Cartões com duas modalidades de mentoria aparecem sobre fundo escuro, ligados por seta e separados por um X. A pergunta final ocupa uma faixa azul.",
+  "por_que_funciona": [
+    "As duas modalidades em blocos distintos deixam clara a escolha apresentada.",
+    "O X reforça a leitura de comparação entre opções.",
+    "A pergunta na faixa azul relaciona a escolha ao momento do estudante."
+  ],
+  "quando_usar": "Para apresentar modalidades de preparação a estudantes em fases diferentes e abrir uma sequência explicativa.",
+  "estrutura_texto": "MENTORIA [FASE A]\nX\nMENTORIA [FASE B]\nQual é a ideal para [seu momento]?",
+  "legenda": "[Modalidade A] ou [modalidade B]? A escolha depende de [fase de estudo] e [objetivo]. Veja as diferenças e conte [informação sobre sua preparação] para receber uma orientação sobre as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte dois cartões centrais empilhados sobre fundo grafite, o primeiro branco com texto preto e o segundo escuro com texto azul. Inclua X lateral, seta curva e uma faixa azul com pergunta final. Use faixas diagonais azuis nas bordas e preserve amplo espaço ao redor.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1044132698043338",
+    "anunciante": "Q7 - Residência Médica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-25",
+    "dias_no_ar": 142,
+    "variacoes_ativas": 1,
+    "texto_original": "Mentoria Internato ou Mentoria Residência?\n\nÀs vezes, o que confunde os alunos não é a vontade de estudar.\n\nÉ saber qual o momento certo pra cada tipo de preparação.\n\nEsse carrossel foi feito pra te ajudar a entender a diferença e escolher o caminho ideal — sem pressa, sem erro, sem se sobrecarregar.\n\n📌 Conta aqui pra gente qual ano você vai fazer a prova que a gente responde qual faz mais sentido pra você agora. 👇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1044132698043338.jpg"
+}

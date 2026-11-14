@@ -1,0 +1,36 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1536446801146240",
+  "tipo": "estatico",
+  "titulo": "Cupom com reação de surpresa no celular",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo roxo com chamada branca e palavra cupom em destaque amarelo. Uma mulher sorridente segura o celular dentro de uma moldura vertical escura, cercada por ilustrações de bilhetes.",
+  "por_que_funciona": [
+    "A palavra cupom em caixa amarela concentra o contraste da chamada.",
+    "O sorriso e o celular associam a oferta à descoberta no aplicativo.",
+    "As ilustrações de bilhetes indicam a categoria de viagem."
+  ],
+  "quando_usar": "Para divulgar cupom de passagens no aplicativo e levar o público à consulta da oferta.",
+  "estrutura_texto": "[Marca]\nTem [benefício promocional] te esperando!",
+  "legenda": "Tem [cupom] para sua próxima viagem de ônibus. Consulte [rotas elegíveis], aproveite [desconto] e compre pelo [aplicativo ou link]. Confira as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo roxo vibrante, assinatura da marca do usuário no alto e chamada branca centralizada com a palavra principal em retângulo amarelo. Na metade inferior, coloque pessoa autorizada sorrindo com celular, recortada sobre moldura roxa escura arredondada. Adicione bilhetes ilustrados em lilás nas laterais. Mantenha espaço direto entre título e personagem, sem adicionar um botão de compra. Adapte a imagem do produto ao contexto de compra de passagens e inclua condições aplicáveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1536446801146240",
+    "anunciante": "ClickBus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-23",
+    "dias_no_ar": 175,
+    "variacoes_ativas": 18,
+    "texto_original": "ALERTA DE OFERTA! \n• DESCONTO em passagens de ônibus\n• Clique e aproveite agora!\nGrandes descontos em passagens!\nShop Now\n​\nActive",
+    "origem_coleta": "acervo:clickbus"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1536446801146240.jpg"
+}

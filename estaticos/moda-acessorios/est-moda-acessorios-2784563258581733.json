@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-2784563258581733",
+  "tipo": "estatico",
+  "titulo": "Polo em destaque com opções na lateral",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Polo preta com detalhes vinho, botões claros e pequeno escudo no peito, sobre ambiente interno iluminado. À direita há uma faixa vertical com quatro amostras e uma seta; no canto inferior esquerdo, um círculo amplia o escudo.",
+  "por_que_funciona": [
+    "A polo ocupa quase toda a imagem e permite observar gola, botões e acabamento.",
+    "O detalhe vinho se destaca nas mangas e na abertura da gola.",
+    "A faixa branca lateral separa as amostras do fundo e sugere opções de escolha.",
+    "O círculo inferior amplia o bordado que aparece pequeno no peito."
+  ],
+  "quando_usar": "Para apresentar uma polo e seus detalhes, quando houver opções reais de cores ou acabamentos disponíveis.",
+  "estrutura_texto": "[Identificação bordada no peito] + [amostras laterais de opções] + [detalhe ampliado da identificação]",
+  "legenda": "Encontre [tipo de roupa] com [característica verificável] por [preço vigente]. Confira as opções e compre pelo [app ou loja].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Apresente a polo da IMAGEM 2 em primeiro plano, em vista frontal do pescoço ao quadril, sobre ambiente interno quente e suavemente desfocado. Inclua à direita uma faixa branca arredondada com quatro amostras de variantes reais e uma seta inferior. No canto inferior esquerdo, use círculo de contorno colorido para ampliar um acabamento do produto. Preserve cores e detalhes reais; substitua emblemas de terceiros pela identidade autorizada do meu produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2784563258581733",
+    "anunciante": "Temu",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-10",
+    "dias_no_ar": 127,
+    "variacoes_ativas": 9,
+    "texto_original": "👗 Garota, para tudo!\nAs roupas mais estilosas estão com preços absurdamente baixos na Temu! 💃🛒\nLooks lindos, modernos e por um preço que nem parece real! 😍\nMas corre, porque essas ofertas estão sumindo rápido! ⏳\n📲 Baixe o app agora e monte seu guarda-roupa novo sem estourar o bolso!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-2784563258581733.jpg"
+}

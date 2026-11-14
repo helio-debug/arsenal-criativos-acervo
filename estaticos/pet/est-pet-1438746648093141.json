@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-1438746648093141",
+  "tipo": "estatico",
+  "titulo": "Entrega em horas com cachorro em primeiro plano",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo branco com pergunta no topo, título grande em verde e laranja e promessa de entrega em horas. Um cachorro ocupa a metade inferior sobre uma forma turquesa.",
+  "por_que_funciona": [
+    "A pergunta inicial conecta o anúncio à reposição de ração.",
+    "A palavra de urgência em laranja se destaca no título verde.",
+    "O cachorro olhando para a câmera ocupa grande parte da peça.",
+    "A frase sobre entrega em horas explicita a conveniência do serviço."
+  ],
+  "quando_usar": "Para lojas pet divulgarem entrega rápida a compradores que precisam repor produtos.",
+  "estrutura_texto": "[Pergunta sobre reposição do produto]\n[Marca] [Nome do serviço]\nSeu pedido entregue em [prazo]!\n*Consulte [condições e cobertura].",
+  "legenda": "Receba [produtos pet] no conforto de casa em [prazo comprovado]. Consulte a disponibilidade em [região] e faça seu pedido em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, pergunta pequena em laranja no topo e título grande central em verde com uma palavra de destaque laranja. Acrescente uma linha sobre o prazo real de entrega. Na metade inferior, coloque um cão expressivo sobre uma grande forma curva turquesa, integrando o produto da IMAGEM 2 sem cobrir o animal. Inclua condições de cobertura e prazo em texto legível.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1438746648093141",
+    "anunciante": "Cobasi - Essencial para a vida",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-16",
+    "dias_no_ar": 121,
+    "variacoes_ativas": 1,
+    "texto_original": "Suas compras no conforto da sua casa!\nEm poucas horas*!\nTão rápido que você nem vai perceber 🚀",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-1438746648093141.jpg"
+}

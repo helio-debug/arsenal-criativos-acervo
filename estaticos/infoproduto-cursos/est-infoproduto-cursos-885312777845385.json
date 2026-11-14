@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-885312777845385",
+  "tipo": "estatico",
+  "titulo": "Formação profissional com miniatura de casa",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "À esquerda, título verde em quatro linhas; à direita, uma mulher segura uma miniatura de casa. Fundo claro texturizado, logotipo pequeno no canto inferior e faixa verde na borda.",
+  "por_que_funciona": [
+    "O título grande ocupa o espaço vazio à esquerda e identifica a formação rapidamente.",
+    "A miniatura de casa relaciona a formação ao mercado imobiliário.",
+    "A figura humana ocupa metade da peça e aproxima a apresentação do curso."
+  ],
+  "quando_usar": "Para divulgar uma formação profissional a pessoas que ainda estão conhecendo a área.",
+  "estrutura_texto": "[Curso]\n[Tipo de formação] em\n[Profissão]\n[Assinatura da instituição]",
+  "legenda": "Conheça o [curso online] para atuar em [área profissional]. Consulte [grade, requisitos e condições] e tire suas dúvidas pelo [canal de atendimento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o quadro entre título verde escuro à esquerda e pessoa segurando um objeto que simbolize a área à direita. Use fundo branco com textura suave, quatro linhas de título em fonte pesada inclinada, assinatura discreta no canto inferior e filete verde lateral. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "885312777845385",
+    "anunciante": "Escola Técnica São Vicente de Paula Campina Grande",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-18",
+    "dias_no_ar": 241,
+    "variacoes_ativas": 1,
+    "texto_original": "🏠Curso de Corretor de Imóveis online.\n.\nGanhe Dinheiro, vendendo Imóveis 💰\n.\n✅Clique Agora e saiba mais Informações...\nWHATSAPP\nConverse conosco\nCurso Online",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-885312777845385.jpg"
+}

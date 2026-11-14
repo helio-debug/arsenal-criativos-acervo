@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-970099224530984",
+  "tipo": "estatico",
+  "titulo": "Curso em página branca com preço e programa",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça inteiramente tipográfica em fundo branco, com tema do curso em negrito. Preço em azul e lista extensa de conteúdos ocupam o restante da arte.",
+  "por_que_funciona": [
+    "O tema em negrito domina o topo e identifica a formação.",
+    "O preço azul contrasta com o texto preto e explicita a taxa única.",
+    "A lista de tópicos permite avaliar o conteúdo antes da compra."
+  ],
+  "quando_usar": "Para públicos que buscam uma capacitação específica e precisam comparar preço, certificado e conteúdo.",
+  "estrutura_texto": "Curso [modalidade]\n[Nome do curso]\n• [Condição do certificado]\n• Apenas [preço] ([condição de pagamento])\n[Lista de conteúdos]\n[Fechamento da lista]",
+  "legenda": "Matrículas abertas para [curso]. Acesso [condições reais] por [preço], em [condição de pagamento]. Estude [conteúdos principais] no seu ritmo e receba [certificado e requisitos]. Consulte o programa em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma peça tipográfica de fundo branco. No alto, modalidade em preto regular e nome do curso em negrito grande. Abaixo, dois marcadores com certificado e preço; destaque o preço em azul. Complete com lista compacta de conteúdos em preto e fechamento azul. Garanta leitura e não invente reconhecimento do certificado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "970099224530984",
+    "anunciante": "Desenvolve Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-01-30",
+    "dias_no_ar": 653,
+    "variacoes_ativas": 1,
+    "texto_original": "🔥 APROVADO! MATRÍCULAS ABERTAS 🔥\n👉 Curso online de Reforma Tributária - R$ 79,90\n⠀\n⭐️ INFORMAÇÕES DO CURSO:⠀\nPreço: R$ 79,90 (taxa única)\nSem mensalidades, sem taxas adicionais. Você paga uma única vez!\nAmbiente de Aula: Estude no seu próprio ritmo, em qualquer hora e em qualquer lugar. Acesso ilimitado ao conteúdo para SEMPRE!\n⠀\nSUPER CERTIFICADO RECONHECIDO:\n👷 Comprovação e Capacitação Profissional\n⏱ Receba seu certificado assim que concluir o curso\n⠀\n📚Você vai aprender:\nIntrodução à Reforma Tributária\nLei Complementar 214/2025\nPanorama Geral da Reforma Tributária\nPrincipais Tributos Criados (IBS, CBS e IS)\nPrincípios e Diretrizes da nova Tributação\nFator gerador e Base de Cálculos CBS e IS\nAlíquotas do IBS e CBS\nRegimes Especiais\nObrigações e Fiscalização\nImposto Seletivo - Base de Cálculo e Fator Gerador\nImpactos do IS\nBenefícios Tributários para Produtos de Higiene e Saúde\nRedução de Alíquotas e Insumos Agrícolas\nSimples Nacional\nCasos Práticos de Aplicação da Reforma Tributária\nDesafios e Perspectivas da Reforma Tributária\nMateriais completos de Tributação Fiscal\nAnálise resumida da Reforma Tributária\nCarreira - Ebook - Seja Diferente nas Pequenas Coisas\nAulas em Vídeo Atualizadas e Completas\nE MUITO MAIS!\n⠀\nMais de 130 mil alunos.\nÍndice de avaliação: ⭐️⭐️⭐️⭐️⭐️\n\n🔥 Faça sua matrícula aqui: https://www.desenvolvecursos.com/reforma-tributaria",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-970099224530984.jpg"
+}

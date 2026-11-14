@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1263889015000793",
+  "tipo": "estatico",
+  "titulo": "Chamada educativa sobre intervenções em dor",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Imagem de mãos com luvas manipulando uma seringa, sob degradê bege. O título verticalizado destaca o tema em verde escuro e inclui identificação profissional.",
+  "por_que_funciona": [
+    "A fotografia da seringa apresenta o tema de procedimento médico.",
+    "O termo central em verde escuro sobressai ao restante do título branco.",
+    "A identificação profissional aparece junto a uma pequena foto.",
+    "O degradê claro cria espaço para a chamada acima da imagem clínica."
+  ],
+  "quando_usar": "Para profissionais habilitados apresentarem conteúdo educativo sobre procedimentos e suas indicações.",
+  "estrutura_texto": "Saiba quais são os\n[avanços ou opções] da\n[área de cuidado]\n[Identificação profissional e registros]",
+  "legenda": "Quais opções de [área de cuidado] podem ser consideradas em [situação clínica]? Conheça [procedimentos com evidência e autorização aplicáveis], suas indicações e limitações. A escolha depende de avaliação individual.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto da IMAGEM 2 relacionada a um procedimento autorizado, com luvas e instrumento clínico na metade inferior. Aplique degradê bege, título condensado no alto e tema principal em verde escuro. Inclua identificação e registros reais fornecidos. Não anuncie terapias experimentais como tratamentos estabelecidos.",
+  "alerta_politica": "CFM/ANVISA/Meta: identificar médico com CRM e RQE quando aplicável. Divulgar apenas procedimentos permitidos, com evidência e indicação adequadas; não prometer recuperação nem eficácia de terapias celulares ou outras intervenções experimentais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1263889015000793",
+    "anunciante": "Dr. David Sadigursky",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-01-15",
+    "dias_no_ar": 1034,
+    "variacoes_ativas": 1,
+    "texto_original": "Eu falo bastante sobre as intervenções em dor e hoje decidi agrupar as principais terapias de forma atualizada! \n\nDentre os mais recentes avanços, destacam-se:\n\n1️⃣ Terapias ortobiológicas: essas terapias envolvem a utilização de células mesenquimais para acelerar o processo de cicatrizaçao e permitir uma melhor recuperação da lesão; \n2️⃣ Injeções de ácido hialurônico: amplamente utilizadas para tratar a dor associada à osteoartrite do joelho, essas injeções visam diminuir o processo inflamatório no prazo maior que os antiinflamatórios e outras substâncias utilizadas para o mesmo fim. Também espera-se a melhora da viscosidade no meio articular; \n4️⃣ Bloqueio de nervos periféricos: com o propósito de interromper a transmissão da dor de nervos específicos, essa técnica utiliza a injeção de anestésicos locais e outras substâncias neuromoduladoras; \n5️⃣ Terapias de radiofrequência: utilizam a fricção iônica para aumento da temperatura para promover a Neuro modulação, com efeito mais prolongado na redução da dor.\n\nQuando adequadamente indicadas, essas técnicas representam excelentes alternativas à cirurgia, oferecendo uma abordagem eficaz para tratar o paciente e restaurar sua qualidade de vida!\n\nSe você possui dúvidas, fico à disposição para lhe responder! \n\n👨🏻⚕️Dr. David Sadigursky\nOrtopedista cirurgião de joelho\nCRM BA 17295 I RQE 10965\n\n#tratamentodador #dor #terapiasortobiologicas #radiofrequencia #acidohialuronico #bloqueionervoso",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1263889015000793.jpg"
+}

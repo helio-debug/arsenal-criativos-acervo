@@ -1,0 +1,73 @@
+{
+ "id": "vid-duas-versoes-movimento-sincrono",
+ "tipo": "video",
+ "titulo": "Duas versões do mesmo exercício executadas ao mesmo tempo",
+ "formato_video": "split-screen",
+ "nichos": [
+  "emagrecimento-fitness"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Esse exercício tem estas duas versões na nossa aula.",
+  "texto_tela": "Duas versões",
+  "visual": "Duas gravações sincronizadas mostram versões de um movimento."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Duas gravações sincronizadas mostram versões de um movimento.",
+   "fala": "Esse exercício tem estas duas versões na nossa aula.",
+   "texto_tela": "Duas versões"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Lado esquerdo recebe rótulo de apoio e direito de outra variação.",
+   "fala": "Aqui usamos [apoio]. Deste lado, [variação aprovada].",
+   "texto_tela": "[Versão A] | [Versão B]"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Ambas repetem um ciclo completo com a mesma contagem.",
+   "fala": "O ritmo é o mesmo. A escolha depende da orientação pra cada pessoa.",
+   "texto_tela": "Mesmo tempo de execução"
+  },
+  {
+   "tempo": "19-26s",
+   "cena": "Tela mantém as duas opções e convite.",
+   "fala": "Veja a amostra de [programa] e converse sobre a versão adequada antes de começar.",
+   "texto_tela": "Acesse a amostra"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a operação concreta: Duas gravações sincronizadas mostram versões de um movimento.",
+  "O segundo enquadramento deixa visível o detalhe usado na explicação: Lado esquerdo recebe rótulo de apoio e direito de outra variação.",
+  "A etapa seguinte informa o limite da demonstração junto da imagem: Mesmo tempo de execução"
+ ],
+ "quando_usar": "Quando a pessoa já considera [produto ou serviço] e precisa entender a execução mostrada em “Duas versões do mesmo exercício executadas ao mesmo tempo”. Usar somente se a operação for compatível com o produto e houver informação verificável.",
+ "roteiro_modelo": "0-4s | Esse exercício tem estas duas versões na nossa aula.\n4-11s | Aqui usamos [apoio]. Deste lado, [variação aprovada].\n11-19s | O ritmo é o mesmo. A escolha depende da orientação pra cada pessoa.\n19-26s | Veja a amostra de [programa] e converse sobre a versão adequada antes de começar.",
+ "tomadas_celular": [
+  "Grave vertical, celular em apoio firme e luz lateral suave: Duas gravações sincronizadas mostram versões de um movimento.",
+  "Faça plano de detalhe com foco travado e sem zoom digital: Lado esquerdo recebe rótulo de apoio e direito de outra variação.",
+  "Grave uma tomada completa, com luz igual à anterior: Ambas repetem um ciclo completo com a mesma contagem.",
+  "Grave o fechamento em plano médio ou de produto, deixando margem para legenda: Tela mantém as duas opções e convite."
+ ],
+ "caminho_ia": "Produza uma versão ilustrativa em Sora/Veo com fotos autorizadas e especificações reais de [produto]. Gere a cena de abertura com o prompt: \"Vídeo vertical, luz natural, Duas gravações sincronizadas mostram versões de um movimento. Sem marcas de terceiros, sem letras geradas.\" Para o detalhe use: \"Vídeo vertical com câmera estável, Lado esquerdo recebe rótulo de apoio e direito de outra variação. Preservar dimensões e materiais da referência autorizada.\" Monte as quatro cenas no editor, grave voz sintética identificada e adicione os textos depois. Identifique cenas sintéticas como ilustração. Não use geração para alegar reação real, teste físico, resultado clínico ou execução contínua comprovada; nesses casos substitua a prova por diagrama claramente identificado e mantenha a informação técnica fornecida.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAdapte o formato “Duas versões do mesmo exercício executadas ao mesmo tempo” para este produto. Entregue roteiro falado em pt-BR, legenda do anúncio e prompts de cena. Use quatro cenas com estes tempos: 0-4s, 4-11s, 11-19s e 19-26s. Preserve esta operação visual: Duas gravações sincronizadas mostram versões de um movimento. / Lado esquerdo recebe rótulo de apoio e direito de outra variação. / Ambas repetem um ciclo completo com a mesma contagem. / Tela mantém as duas opções e convite. Use [colchetes] para informação ausente e peça confirmação antes de transformar suposição em alegação. Escreva instruções de enquadramento, luz, ação e texto de tela para cada cena. Não invente depoimentos, desempenho, preço ou recomendação clínica. Identifique ilustrações geradas e mantenha os limites de segurança e os cuidados do manual. Inclua no fim a legenda e uma lista dos dados que precisam de confirmação.",
+ "legenda": "Veja como funciona [produto ou serviço] nesta demonstração. Confira [informação essencial de escolha] e [condições reais da oferta] em [canal]. A indicação depende de avaliação profissional.",
+ "alerta_politica": "Não atribuir doença, condição corporal ou insegurança a quem assiste. Usar informação revisada pelo profissional responsável, sem promessa de cura, perda de peso ou resultado garantido. Respeitar regras do conselho profissional e da plataforma; obter consentimento específico para imagem. Simulações devem ser identificadas, sem se passar por resultado clínico.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1320765540221734",
+   "dias_no_ar": 147,
+   "views": 0,
+   "frames": [],
+   "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/emagrecimento-fitness/emagrecer/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+  }
+ ],
+ "validacao": "media"
+}

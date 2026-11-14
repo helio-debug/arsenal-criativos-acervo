@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-949730838023028",
+  "tipo": "estatico",
+  "titulo": "Frota de veículos sob chamada de flexibilidade",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Peça amarela com chamada de renda extra no alto e uma montagem central de carro, moto e veículos de carga. Um botão laranja encerra a composição.",
+  "por_que_funciona": [
+    "A montagem com diferentes veículos mostra visualmente quem pode participar.",
+    "O título em duas linhas enfatiza a flexibilidade apresentada pela oferta.",
+    "O botão laranja cria contraste com o fundo amarelo."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de entregas a proprietários de diferentes tipos de veículo.",
+  "estrutura_texto": "[Identidade]\nRenda extra [benefício de flexibilidade]\nUse [tipos de veículo aceitos]\n[CTA]\n[Termos]",
+  "legenda": "Faça entregas com [plataforma] nos horários disponíveis para sua rotina. Veja quais [veículos] são aceitos e consulte as condições para se tornar [parceiro].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo amarelo com formas geométricas suaves, identidade própria no topo, título preto inclinado com contorno claro e subtítulo central. Monte diferentes veículos compatíveis com o serviço no centro inferior, usando a IMAGEM 2. Inclua botão laranja arredondado e termos legíveis no rodapé. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganho fácil ou ausência de risco. Valores e condições de ganhos devem ser comprováveis e apresentados com critérios, custos e ressalvas claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "949730838023028",
+    "anunciante": "Vou de 99",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-13",
+    "dias_no_ar": 215,
+    "variacoes_ativas": 3,
+    "texto_original": "😎💼 Flexibilidade e grana extra na 99Entrega! Faça entregas quando quiser. Vem pro 99! 🚚\nSeja motorista parceiro 99➡️",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-949730838023028.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1917707215528227",
+  "tipo": "estatico",
+  "titulo": "Renda complementar para um público profissional",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Título grande em verde escuro identifica profissionais de tecnologia. Uma faixa verde apresenta a solução e retângulos sobrepostos sustentam a promessa na metade inferior.",
+  "por_que_funciona": [
+    "A expressão dirigida a profissionais de tecnologia delimita o público no próprio título.",
+    "A faixa arredondada destaca o tipo de serviço vendido.",
+    "Os retângulos em diferentes tons de verde criam uma área de leitura para a mensagem inferior."
+  ],
+  "quando_usar": "Para apresentar um programa de parceria a profissionais com uma base de clientes compatível, usando condições reais de operação.",
+  "estrutura_texto": "Renda extra para [profissão]\ncom [solução]\n[Benefício comprovável]\n[Condição operacional]\n[Identidade]",
+  "legenda": "Você atende clientes de [segmento]? Conheça a possibilidade de oferecer [serviço complementar] à sua base. Consulte as condições de parceria, comissões e suporte.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase branco com grafismos circulares verdes muito suaves, título grande alinhado à esquerda, selo horizontal verde e retângulos sobrepostos em três tons de verde na metade inferior. Reserve o retângulo escuro para dois benefícios verificáveis em branco. Não reproduza as alegações de ausência de esforço ou risco. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganho fácil ou ausência de risco. Valores e condições de ganhos devem ser comprováveis e apresentados com critérios, custos e ressalvas claros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1917707215528227",
+    "anunciante": "CertFácil Certificação Digital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 1,
+    "texto_original": "TI que não vende certificado perde dinheiro.\nReceita recorrente com sua base.\n🚀 Comece hoje\nConsultores TI: Aumente sua Renda",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1917707215528227.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-2185512892049264",
+  "tipo": "estatico",
+  "titulo": "Tabela de plano individual por faixa etária",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "financeiro",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de um homem com celular no topo e tabela central de mensalidades por idade sobre fundo azul. Um botão branco convida a falar com especialista.",
+  "por_que_funciona": [
+    "A tabela permite localizar o valor pela faixa etária.",
+    "Os cabeçalhos laranja diferenciam idade e preço do fundo azul.",
+    "O botão branco abaixo da tabela concentra a próxima ação.",
+    "A frase sobre rede própria e credenciada acrescenta informação sobre atendimento."
+  ],
+  "quando_usar": "Para apresentar preços de plano individual e encaminhar interessados à cotação com especialista.",
+  "estrutura_texto": "[Marca]\n[Benefício de acesso à saúde]\n[Abrangência e rede]\n[Tipo de plano]\n[Faixa etária] | [Preço]\n[Fale com especialista]\n[Condições e registro]",
+  "legenda": "Conheça [plano de saúde] com [coberturas comprovadas] e opções para [público]. Consulte os valores por [faixa etária] e fale com [especialista] para verificar rede, abrangência e condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte faixa fotográfica superior com pessoa adulta usando celular. Abaixo, use fundo azul, frase de abrangência, cartão azul-escuro com tabela de duas colunas e cabeçalhos laranja. Disponha faixas etárias e valores em linhas brancas, CTA branco amplo e condições legíveis no rodapé. Utilize apenas preços e coberturas fornecidos.",
+  "alerta_politica": "Em anúncios de saúde, evite atribuir doenças ao público ou prometer resultados clínicos. Informe condições, abrangência, elegibilidade e preços com clareza; identifique corretamente plano de saúde ou cartão de descontos, sem equipará-los.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2185512892049264",
+    "anunciante": "Hapvida Saúde",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-21",
+    "dias_no_ar": 24,
+    "variacoes_ativas": 7,
+    "texto_original": "Conheça a Hapvida. Planos flexíveis para todas as fases da vida com cobertura completa, consultas, exames internações e muito mais.\nPlano de saúde que cabe no seu orçamento",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-2185512892049264.jpg"
+}

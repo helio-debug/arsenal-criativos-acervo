@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1346423480815099",
+  "tipo": "estatico",
+  "titulo": "Kit técnico com preço e entrada em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Dois receptores e um coletor ocupam o centro sobre fundo claro com recortes amarelos. Faixas pretas apresentam o modelo e os atributos, enquanto uma caixa amarela destaca preço e pagamento.",
+  "por_que_funciona": [
+    "A foto dos três equipamentos mostra a composição física do kit.",
+    "O preço em preto sobre amarelo concentra a atenção na condição comercial.",
+    "A faixa de especificações reúne potência do rádio, inclinação e canais para comparação técnica.",
+    "O nome do modelo em uma cápsula preta cria uma leitura rápida no topo."
+  ],
+  "quando_usar": "Para vender kits técnicos a profissionais que já conhecem a categoria e comparam equipamento e pagamento.",
+  "estrutura_texto": "[CATEGORIA DO KIT]\n[MODELO]\n[PROPOSTA COMERCIAL]\nTecnologia: [ESPECIFICAÇÕES]\nR$ [PREÇO]\nEntrada de R$ [ENTRADA] + [PARCELAS]\n[MARCA]\n[CONDIÇÕES E VALIDADE]",
+  "legenda": "[ESPECIFICAÇÕES] para sua rotina de [APLICAÇÃO]. Conheça o kit [PRODUTO], por R$ [PREÇO], com entrada de R$ [ENTRADA] + [PARCELAS]. Fale com [CANAL] para conferir composição, disponibilidade e condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e cinza com formas amarelas nas bordas. No topo, categoria e cápsula preta com nome em amarelo; ao centro, foto grande do kit com sombra suave. Abaixo, blocos pretos com benefício e especificações e uma etiqueta amarela de preço e parcelas. Reserve rodapé legível para condições. Use apenas atributos e condições fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1346423480815099",
+    "anunciante": "Tecnosat Geotecnologias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-19",
+    "dias_no_ar": 87,
+    "variacoes_ativas": 1,
+    "texto_original": "Rádio de 2W, IMU de 120° e 1760 canais: o X10 GEO entrega a precisão que sua topografia exige, com o preço que cabe no seu orçamento. Entrada de R$10.000,00 + 5x sem juros. \nCondições por tempo limitado, chame agora no WhatsApp e feche o seu kit hoje mesmo!",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1346423480815099.jpg"
+}

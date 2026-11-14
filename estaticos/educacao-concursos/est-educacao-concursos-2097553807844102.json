@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-2097553807844102",
+  "tipo": "estatico",
+  "titulo": "Inscrição para bolsas com identificação da cidade",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Título preto e vermelho anuncia inscrições para bolsas de cursos superiores. Foto de edifício histórico ocupa o fundo e uma faixa translúcida destaca a cidade.",
+  "por_que_funciona": [
+    "A palavra “GRATUITAS” aparece em caixa alta junto da inscrição.",
+    "“CURSOS SUPERIORES” em vermelho diferencia a modalidade de ensino.",
+    "O nome da cidade em letras grandes delimita a região atendida."
+  ],
+  "quando_usar": "Para campanhas regionais de inscrição em seleção de bolsas, com critérios e custos claros na página de destino.",
+  "estrutura_texto": "INSCRIÇÕES\nGRATUITAS PARA [PROGRAMA DE BOLSAS]\n[MODALIDADE DE ENSINO]\n[Cidade - UF]\nIMAGEM ILUSTRATIVA PARA REPRESENTAR A CIDADE",
+  "legenda": "Inscrições gratuitas para [programa de bolsas] em [cidade e região]. Consulte [cursos], critérios de seleção e condições de [benefícios]. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte faixa branca superior com chamada preta em caixa alta e modalidade em vermelho. Use foto ilustrativa de arquitetura regional ao fundo, sem reproduzir o local da referência. Na base, adicione faixa branca translúcida com [cidade - UF] em preto grande. Use a IMAGEM 2 quando pertinente ao serviço e identifique imagens ilustrativas. Não confunda inscrição gratuita com curso integralmente gratuito.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2097553807844102",
+    "anunciante": "EDUC-Auxílio Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "⚠️  ATENÇÃO  SALVADOR BA   E REGIÃO⚠️\n💢 INSCRIÇÕES GRATUITAS PARA BOLSAS DE ESTUDOS PARA CURSO SUPERIOR RECONHECIDO PELO MEC  EM SUA CIDADE  💢\n🔝TODOS OS ALUNOS SELECIONADO GANHARÃO VESTIBULAR TOTALMENTE GRATUITO E A ISENÇÃO DA TAXA DE MATRÍCULA DE SEU CURSO SUPERIOR 🔝\n🎓Acomp. do Transt. Espectro Autista\n🎓Administração\n🎓Análise e Desenv. de Sistema\n🎓 Ciências Contábeis\n🎓 Criminologia\n🎓 Design de Interior\n🎓 Design de Moda\n🎓 Educação Física\n🎓 Engenharia de Software\n🎓 Gastronomia\n🎓 Gerontologia\n🎓 Gestão da Saúde Pública\n🎓 Gestão Pública\n🎓 Inteligência Artificial\n🎓 Investigação Forense e Perícia Criminal\n🎓 Letras\n🎓 Logística\n🎓 Negócios Imobiliários\n🎓 Pedagogia\n🎓 Psicopedagogia\n🎓 Recursos Humanos\n🎓 Redes de Computadores\n🎓 Segurança do Trabalho\n🎓 Segurança Privada\n🎓 Serviço Social\n🎓 Tecnologia da Informação\n🎓 Teologia\nPARA HOMENS E MULHERES COM O ENSINO MÉDIO COMPLETO\nNão Haverá prova de reconhecimento específico mais sim sorteio eletrônico das vagas\nCADASTRE-SE E GARANTA O TÃO SONHADO ENSINO SUPERIOR",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2097553807844102.jpg"
+}

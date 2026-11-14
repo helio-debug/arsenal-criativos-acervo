@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1219650459581483",
+  "tipo": "estatico",
+  "titulo": "Kit náutico fotografado sobre píer de madeira",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Módulo eletrônico, pulseira branca e dispositivo preto com mosquetão estão apoiados sobre um píer de madeira junto à água. A marca fica no alto e o nome do sistema com descrição funcional aparece em branco na metade inferior.",
+  "por_que_funciona": [
+    "Os componentes lado a lado mostram o conjunto do sistema.",
+    "A pulseira branca contrasta com a madeira escura e destaca a forma de uso.",
+    "O píer e a água contextualizam a aplicação náutica.",
+    "A área de madeira livre abaixo do kit acomoda o nome e a função sem cobrir os produtos."
+  ],
+  "quando_usar": "Para apresentar os componentes de um sistema náutico a quem busca entender o conjunto antes da compra.",
+  "estrutura_texto": "[Marca]\n[Nome do sistema]\n[Sistema sem fio de alerta de homem ao mar e corte do motor]",
+  "legenda": "Conheça o sistema [nome]: [alertas sem fio], [função de emergência] e [integrações compatíveis], conforme especificações. Veja os componentes e consulte compatibilidade com [embarcação ou equipamento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fotografe os componentes reais da IMAGEM 2 lado a lado sobre madeira de píer, com água na faixa superior e perspectiva diagonal. Use luz natural suave e cores discretas. Posicione a identidade própria em pequena área clara no alto. Na metade inferior, coloque nome do produto em branco, pesado e condensado, seguido de descrição funcional menor. Preserve detalhes dos componentes e não acrescente funções ou acessórios não fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1219650459581483",
+    "anunciante": "Garmin Marine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-08",
+    "dias_no_ar": 310,
+    "variacoes_ativas": 1,
+    "texto_original": "Garmin OnBoard system. Wireless MOB alerts, emergency engine cutoff, loud audible alarms, Garmin chartplotter integration and so much more.\nGarmin OnBoard\nWireless man overboard and engine cutoff system",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1219650459581483.jpg"
+}

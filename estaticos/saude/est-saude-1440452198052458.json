@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-1440452198052458",
+  "tipo": "estatico",
+  "titulo": "Plano de saúde com preço inicial e foto de família",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul com título e benefícios à esquerda e foto de família em recorte curvo à direita. Um bloco laranja destaca a mensalidade e um botão amarelo convida à simulação.",
+  "por_que_funciona": [
+    "A foto de família aproxima a oferta do uso familiar.",
+    "Três ícones separam rede, cobertura e atendimento preventivo.",
+    "O preço aparece em um bloco contrastante junto ao botão de simulação."
+  ],
+  "quando_usar": "Para operadoras apresentarem planos familiares e levarem interessados à simulação.",
+  "estrutura_texto": "[Benefício para a família] | [Rede e abrangência] | [Coberturas] | [Serviços adicionais] | A partir de [preço]/mês | [Condições] | [Simule seu plano]",
+  "legenda": "Conheça [plano], com [coberturas] e [serviços disponíveis]. Consulte as opções para [região] e simule uma contratação conforme [perfil e condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo, benefícios em coluna com ícones lineares e uma foto em recorte curvo na metade direita. Destaque o preço inicial em caixa laranja e a simulação em botão amarelo. Inclua área legível para condições e identificação regulatória pertinente.",
+  "alerta_politica": "Observar as políticas Meta para saúde e as regras da ANS: informar condições do preço inicial, região, elegibilidade e cobertura real; não sugerir conhecer a condição de saúde do leitor nem prometer cobertura irrestrita.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1440452198052458",
+    "anunciante": "Hapvida Saúde",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 6,
+    "texto_original": "Conheça a Hapvida. Planos flexíveis para todas as fases da vida com cobertura completa, consultas, exames internações e muito mais.\nSe tem saúde, tem jogo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1440452198052458.jpg"
+}

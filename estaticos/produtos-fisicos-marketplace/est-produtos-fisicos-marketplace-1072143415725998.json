@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1072143415725998",
+  "tipo": "estatico",
+  "titulo": "Adesivos para moto com benefícios de compra",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Conjunto de adesivos para motocicleta ocupa um fundo cinza. Faixa amarela no topo, selos de benefícios à esquerda e selo amarelo de desconto no canto inferior direito cercam o produto.",
+  "por_que_funciona": [
+    "Os adesivos aparecem separados e grandes, permitindo observar letras, cores e emblemas.",
+    "Três selos na lateral reúnem frete, devolução e parcelamento.",
+    "O selo amarelo destaca o percentual de desconto sobre o fundo cinza.",
+    "O contraste dos adesivos brancos, pretos e vermelhos permite distinguir as partes do conjunto."
+  ],
+  "quando_usar": "Para vender kits de adesivos ou acessórios em marketplace com vantagens de entrega e pagamento.",
+  "estrutura_texto": "[Assinatura da loja]\n[Chamada curta]\n[Identificações do produto]\nFRETE GRÁTIS\nDEVOLUÇÃO GRÁTIS\nPARCELAMENTO SEM JUROS\nATÉ [percentual] OFF",
+  "legenda": "Compre [kit de adesivos/acessório] com [condições de entrega] e devolução grátis em até [prazo], conforme as regras da oferta. Confira compatibilidade, parcelamento e disponibilidade em [loja].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Composição quadrada com fundo cinza e produto disposto em partes bem visíveis no centro. Inclua faixa amarela no topo, três etiquetas laterais com ícones para entrega, devolução e pagamento e selo amarelo de desconto no canto inferior direito. Use somente identificações autorizadas do produto. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1072143415725998",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 24,
+    "texto_original": "Entrega rápida e devolução grátis em até 30 dias. Compre no Mercado Livre hoje!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1072143415725998.jpg"
+}

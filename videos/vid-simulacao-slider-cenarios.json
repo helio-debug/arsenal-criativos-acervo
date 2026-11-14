@@ -1,0 +1,74 @@
+{
+ "id": "vid-simulacao-slider-cenarios",
+ "tipo": "video",
+ "titulo": "Simulação com controle deslizante e cenários sobrepostos",
+ "formato_video": "simulacao-interativa",
+ "nichos": [
+  "investimentos"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "quiz-diagnostico",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "O que muda quando eu mexo só no [prazo]?",
+  "texto_tela": "Mesmo aporte, outro prazo",
+  "visual": "Dedo aponta para o controle de prazo com o valor inicial fixo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Dedo aponta para o controle de prazo com o valor inicial fixo.",
+   "fala": "O que muda quando eu mexo só no [prazo]?",
+   "texto_tela": "Mesmo aporte, outro prazo"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Controle desliza; duas curvas permanecem lado a lado.",
+   "fala": "Aqui entram [premissas]. Essa linha usa [cenário A]; a outra, [cenário B].",
+   "texto_tela": "Hipóteses, sem garantia"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Amplia a faixa de risco e o valor líquido.",
+   "fala": "Esse número desconta [custos e tributos considerados]. O resultado real pode ser diferente.",
+   "texto_tela": "Leia as premissas"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Volta ao controle e deixa o botão de simular visível.",
+   "fala": "Use seus valores em [simulador] e confira o risco antes de decidir.",
+   "texto_tela": "Faça sua simulação"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Dedo aponta para o controle de prazo com o valor inicial fixo.",
+  "O desenvolvimento mantém a informação ligada à imagem: Controle desliza; duas curvas permanecem lado a lado.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Amplia a faixa de risco e o valor líquido."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho investimentos, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | O que muda quando eu mexo só no [prazo]? [Manter na tela: Mesmo aporte, outro prazo]\n4-11s | Aqui entram [premissas]. Essa linha usa [cenário A]; a outra, [cenário B]. [Manter na tela: Hipóteses, sem garantia]\n11-19s | Esse número desconta [custos e tributos considerados]. O resultado real pode ser diferente. [Manter na tela: Leia as premissas]\n19-27s | Use seus valores em [simulador] e confira o risco antes de decidir. [Manter na tela: Faça sua simulação]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Dedo aponta para o controle de prazo com o valor inicial fixo.",
+  "Plano próximo sem reflexos; travar foco e exposição: Controle desliza; duas curvas permanecem lado a lado.",
+  "Plano de detalhe legível, sem zoom digital: Amplia a faixa de risco e o valor líquido.",
+  "Plano final estável, com área livre para legenda e botão: Volta ao controle e deixa o botão de simular visível.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Dedo aponta para o controle de prazo com o valor inicial fixo. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Controle desliza; duas curvas permanecem lado a lado. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Simulação com controle deslizante e cenários sobrepostos, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Dedo aponta para o controle de prazo com o valor inicial fixo. Depois, Controle desliza; duas curvas permanecem lado a lado. Depois, Amplia a faixa de risco e o valor líquido. Depois, Volta ao controle e deixa o botão de simular visível. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Não prometer retorno, aprovação, economia ou contemplação garantidos. Identificar simulação e premissas; mostrar custos, riscos, prazos e condições legíveis. A adequação depende do produto e da análise aplicável. Revisar a divulgação com o responsável habilitado; não coletar dados financeiros sensíveis no anúncio.",
+ "legenda": "Use seus valores em [simulador] e confira o risco antes de decidir. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Não prometer retorno, aprovação, economia ou contemplação garantidos. Identificar simulação e premissas; mostrar custos, riscos, prazos e condições legíveis. A adequação depende do produto e da análise aplicável. Revisar a divulgação com o responsável habilitado; não coletar dados financeiros sensíveis no anúncio.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "4558690551072073",
+   "dias_no_ar": 82,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/investimentos/investimentos/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

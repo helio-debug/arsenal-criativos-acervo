@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-901692332725075",
+  "tipo": "estatico",
+  "titulo": "Novo site com catálogo exibido no notebook",
+  "formato": "Print de tela",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Notebook sobre uma mesa exibe um catálogo de veículos, com etiquetas azuis de estoque, variedade e garantia. Acima, a chamada anuncia o novo site e destaca o endereço.",
+  "por_que_funciona": [
+    "A tela do notebook mostra como acessar o catálogo e visualizar os carros.",
+    "O endereço em uma cápsula clara ganha uma área própria no topo.",
+    "As etiquetas azuis destacam quantidade, variedade e garantia junto à tela.",
+    "As setas entre o endereço e o notebook conduzem o olhar ao catálogo."
+  ],
+  "quando_usar": "Para anunciar um catálogo digital de veículos e levar interessados à consulta do estoque.",
+  "estrutura_texto": "Nunca foi tão fácil encontrar seu [produto]\nACESSE AGORA O NOVO SITE\n[site]\nMais de [quantidade] [produtos]\n[Diversidade]\n[Garantia]\n[Assinatura]",
+  "legenda": "Encontre seu próximo [veículo] no novo site de [empresa]. Confira [quantidade] opções de [marcas/modelos] e conheça a [garantia oferecida]. Acesse [site] e consulte a disponibilidade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário claro de loja com linhas de luz em perspectiva, notebook central sobre bancada e tela com catálogo realista do produto. Coloque título azul no alto, endereço em cápsula branca e etiquetas azuis com ícones junto à tela. Reserve uma base escura para a assinatura. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "901692332725075",
+    "anunciante": "Jorlan Seminovos Brasília",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-03",
+    "dias_no_ar": 72,
+    "variacoes_ativas": 3,
+    "texto_original": "Seu próximo seminovo ficou ainda mais fácil de encontrar! 🚗\nAcesse o novo site Jorlan Seminovos e confira mais de 1.000 veículos em estoque, com diversas marcas e modelos para você escolher.\n\nConte com a Garantia Jorlan e encontre o carro que combina com você.\nAcesse agora e encontre seu próximo seminovo!\nNovo site Jorlan Seminovos está no ar!\nConheça agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-901692332725075.jpg"
+}

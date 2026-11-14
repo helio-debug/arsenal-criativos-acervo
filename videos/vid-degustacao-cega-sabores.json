@@ -1,0 +1,73 @@
+{
+  "id": "vid-degustacao-cega-sabores",
+  "tipo": "video",
+  "titulo": "Degustação cega de sabores com revelação dos copos",
+  "formato_video": "degustacao-cega",
+  "nichos": [
+    "suplementos"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "amostra-teste",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Escolhi o sabor antes de saber qual era.",
+    "texto_tela": "Opinião pessoal de sabor",
+    "visual": "Duas amostras codificadas A e B em copos iguais"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Duas amostras codificadas A e B em copos iguais",
+      "fala": "Os dois copos têm a mesma diluição. Eu ainda não sei qual é qual.",
+      "texto_tela": "Opinião pessoal de sabor"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Adulto prova A e descreve sensação sem benefício clínico",
+      "fala": "O A me parece [descrição de sabor e textura].",
+      "texto_tela": "A: [impressão pessoal]"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Prova B e escolhe uma amostra",
+      "fala": "O B tem [descrição]. Para o meu gosto, eu escolheria [letra].",
+      "texto_tela": "Escolha antes da revelação"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Outra pessoa vira etiquetas dos sabores",
+      "fala": "O [letra] era [sabor]. Consulte os ingredientes e alergênicos antes de escolher.",
+      "texto_tela": "Sabores revelados"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra duas amostras codificadas a e b em copos iguais, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém o mesmo produto como referência entre os cortes.",
+    "O fechamento exibe outra pessoa vira etiquetas dos sabores, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é degustação cega de sabores com revelação dos copos.",
+  "roteiro_modelo": "[Abertura] Escolhi o sabor antes de saber qual era.\n[0-4s] Os dois copos têm a mesma diluição. Eu ainda não sei qual é qual.\n[4-10s] O A me parece [descrição de sabor e textura].\n[10-18s] O B tem [descrição]. Para o meu gosto, eu escolheria [letra].\n[18-25s] O [letra] era [sabor]. Consulte os ingredientes e alergênicos antes de escolher.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Duas amostras codificadas A e B em copos iguais.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Adulto prova A e descreve sensação sem benefício clínico.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Prova B e escolhe uma amostra.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Outra pessoa vira etiquetas dos sabores."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, duas amostras codificadas a e b em copos iguais, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, adulto prova a e descreve sensação sem benefício clínico, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Degustação cega de sabores com revelação dos copos. Preserve esta mecânica: Duas amostras codificadas A e B em copos iguais; Adulto prova A e descreve sensação sem benefício clínico; Prova B e escolhe uma amostra; Outra pessoa vira etiquetas dos sabores. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não apresentar dissolução, sabor ou preço como prova de pureza, eficácia ou adequação individual. Respeitar porção e público do rótulo; informar alergênicos e restrições. ",
+  "legenda": "Veja [produto] de perto: degustação cega de sabores com revelação dos copos. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": "Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não apresentar dissolução, sabor ou preço como prova de pureza, eficácia ou adequação individual. Respeitar porção e público do rótulo; informar alergênicos e restrições. ",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "28617237814614725",
+      "dias_no_ar": 11,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1906206316611910",
+  "tipo": "estatico",
+  "titulo": "Cena de obra com humor sobre proteção dos joelhos",
+  "formato": "Alerta e educação",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Trabalhador com roupa de alta visibilidade aparece deitado, segurando o joelho numa obra. O título ocupa o topo e dois botões pretos com seta laranja apresentam uma nova linha de joelheiras.",
+  "por_que_funciona": [
+    "A postura do trabalhador dá contexto visual à comparação com treino funcional.",
+    "A roupa fluorescente destaca a pessoa no ambiente cinza da obra.",
+    "As últimas linhas em negrito concentram atenção na joelheira.",
+    "Os botões pretos e a seta laranja conduzem ao lançamento."
+  ],
+  "quando_usar": "Para divulgar acessórios de proteção a profissionais da construção com uma cena de uso reconhecível.",
+  "estrutura_texto": "PARECE [ATIVIDADE], MAS É O QUE ACONTECE QUANDO [SITUAÇÃO DE USO]\n[PRODUTO]\nCONHEÇA A NOVA LINHA DE [CATEGORIA]\n→",
+  "legenda": "A rotina de [atividade profissional] exige atenção ao conforto e à proteção. Conheça a nova linha de [produto], com [características verificáveis]. Deslize e veja qual modelo combina com [uso previsto].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto contextual de trabalho em obra, com pessoa em posição expressiva no centro inferior. Reserve o topo esquerdo para título preto em caixa alta, com as linhas finais em negrito. Na base, inclua duas cápsulas pretas e um círculo laranja com seta; apresente o produto da IMAGEM 2 sem inventar certificações.",
+  "alerta_politica": "Meta: evitar promessas de eliminação de dor ou prevenção garantida de lesões. Descrever proteção e desempenho apenas com respaldo nas características comprovadas do produto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1906206316611910",
+    "anunciante": "Ceramfix",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-16",
+    "dias_no_ar": 394,
+    "variacoes_ativas": 1,
+    "texto_original": "Dor no joelho no fim do dia? Com Ceramfix, isso fica no passado! \n\nDe desafio já basta o dia a dia na obra, por isso que lançamos duas joelheiras pensadas no seu conforto e proteção. Com design anatômico e materiais resistentes, elas são ideais pra quem leva o detalhe e o capricho muito a sério.\n\nArraste para conhecer as novas Joelheiras Ceramfix e escolha a ideal pro seu ritmo!\n\n#TemQueSerCeramfix #Ceramfix #JoelheiraDeObra #ProfissionalDeObra #ProteçãoNaObra #ConstruçãoSegura",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1906206316611910.jpg"
+}

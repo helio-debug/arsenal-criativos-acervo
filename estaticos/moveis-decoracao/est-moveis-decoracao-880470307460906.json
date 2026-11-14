@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-880470307460906",
+  "tipo": "estatico",
+  "titulo": "Campanha de casa completa com duas fotos de projeto",
+  "formato": "Oferta e promoção",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto ampla de cozinha planejada ocupa a parte superior. Na base branca, uma chamada de campanha divide espaço com uma segunda foto menor e a assinatura da loja.",
+  "por_que_funciona": [
+    "A foto superior mostra o projeto instalado, com ilha e armários em escala de ambiente.",
+    "A foto menor apresenta outro ângulo e evidencia o balcão para refeições.",
+    "A base branca separa a chamada comercial da fotografia e facilita a leitura.",
+    "O sinal de mais vermelho destaca o nome da campanha entre letras cinza."
+  ],
+  "quando_usar": "Para lojas de planejados divulgarem condições comerciais por orçamento, com projetos reais como principal argumento.",
+  "estrutura_texto": "CAMPANHA [NOME DA CAMPANHA]\n[CASA + CONCEITO]\nDE [AMBIENTE] A [AMBIENTE]\n[CHAMADA DA CONDIÇÃO]\n[ASSINATURA]",
+  "legenda": "Planeje de [ambiente inicial] a [ambiente final] com [condição comercial]. Solicite seu orçamento e consulte as condições para seu projeto.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto de ambiente ocupando os dois terços superiores e uma base branca. Sobreponha uma segunda foto menor com moldura branca à direita. Na base esquerda, componha o título em cinza com um sinal de mais vermelho; reserve a direita para a marca informada. Não invente valores para a condição comercial.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "880470307460906",
+    "anunciante": "Todeschini Espaço Premier",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-07-10",
+    "dias_no_ar": 857,
+    "variacoes_ativas": 1,
+    "texto_original": "A Todeschini Moema preparou uma condição imperdível para você realizar o seu projeto de móveis planejados, é a Campanha Casa + Fashion. Solicitando seu orçamento através deste anúncio você terá uma condição especial de loja pra comprar seus projetos de móveis planejados da sala ao closet. Então aproveite e solicite uma cotação agora mesmo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-880470307460906.jpg"
+}

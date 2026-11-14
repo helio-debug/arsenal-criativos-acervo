@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-991277656563897",
+  "tipo": "estatico",
+  "titulo": "Análise gratuita da preparação com chamada de dificuldade",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem em escritório ocupa a parte superior, com chamada em letras condensadas sobre concursos de engenharia. A metade inferior cinza anuncia uma mentoria gratuita e termina em faixa laranja com CTA.",
+  "por_que_funciona": [
+    "A chamada em três linhas destaca a área específica do concurso.",
+    "As cores laranja, branco e azul organizam os níveis da pergunta.",
+    "A expressão 100% gratuita aparece ao lado da modalidade individual.",
+    "A faixa laranja no rodapé torna a ação de saiba mais visível."
+  ],
+  "quando_usar": "Para captar candidatos de uma especialidade por meio de uma sessão gratuita de análise da preparação.",
+  "estrutura_texto": "[Pergunta sobre dificuldade na preparação para uma área]\n[Atendimento individual]. [Condição gratuita].\n[Especialista] selecionará [público] para analisar [preparação] e identificar [ajustes].\nToque em [CTA].",
+  "legenda": "Participe de uma [sessão individual gratuita] para analisar sua preparação para [concurso ou especialidade]. Identifique [pontos de ajuste] com apoio de [especialista]. Veja como participar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 na metade superior em contexto profissional. Sobreponha chamada em fonte condensada maiúscula, distribuída em três linhas nas cores laranja, branco e azul, sobre degradê escuro. Na metade inferior, use fundo cinza-claro, destaque atendimento individual e gratuidade, acrescente uma linha azul e breve explicação. Finalize com faixa laranja de CTA em toda a largura. Só anuncie gratuidade se verdadeira; evite garantir classificação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "991277656563897",
+    "anunciante": "Organiza Concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-17",
+    "dias_no_ar": 28,
+    "variacoes_ativas": 1,
+    "texto_original": "- Organiza Concursos\nMentoria gratuita",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-991277656563897.jpg"
+}

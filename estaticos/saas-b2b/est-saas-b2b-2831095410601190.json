@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2831095410601190",
+  "tipo": "estatico",
+  "titulo": "Sistema de automação explicado em seis módulos",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Infográfico denso com chamada voltada a donos de agência, seis módulos de automação em cartões coloridos e quatro etapas de instalação. A base resume o fluxo de implantação, venda e receita recorrente.",
+  "por_que_funciona": [
+    "A faixa superior identifica donos de agência como público da oferta.",
+    "Os seis cartões com ícones tornam visíveis os módulos incluídos.",
+    "As quatro etapas numeradas apresentam o processo de implantação.",
+    "O rodapé conecta a instalação ao modelo de revenda para um setor específico."
+  ],
+  "quando_usar": "Para explicar um pacote de automações B2B a agências que precisam avaliar escopo, implantação e possibilidade de revenda.",
+  "estrutura_texto": "[Público-alvo]\nConheça [sistema completo] para vender a [setor]\n[Especialização e condições de implantação]\n[Quantidade] sistemas: [módulo e função de cada um]\nInstale em [plataforma compatível]\n1. [Conectar]\n2. [Importar]\n3. [Personalizar]\n4. [Vender]\n[Suporte incluído]\n[Modelo de receita]",
+  "legenda": "Sua agência atende [setor] e utiliza [plataforma]? Conheça [pacote de automações] com [módulos disponíveis] e [suporte de implantação]. Veja como integrar a solução à operação dos clientes e consulte condições de revenda em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize um infográfico quadrado em fundo branco com cabeçalho de fonte preta condensada, palavras principais em azul e faixa amarela de público-alvo. No alto à direita, coloque cartão escuro com imagem setorial e três recursos. No meio, distribua seis cartões coloridos com ícones grandes, nome e função curta. Abaixo, use faixa clara com quatro passos numerados e finalize com rodapé azul escuro de três blocos ligados por setas. Priorize legibilidade e reduza texto se necessário. Use informações verificadas do produto, sem garantir receita ou resultados.",
+  "alerta_politica": "Meta: não prometa renda recorrente garantida, ausência de cancelamentos ou resultados automáticos. Comprove alegações de desempenho e prazos de instalação. Solicite avaliações autênticas, sem manipulação de notas ou filtragem enganosa de clientes.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2831095410601190",
+    "anunciante": "Scale Certified",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-29",
+    "dias_no_ar": 199,
+    "variacoes_ativas": 9,
+    "texto_original": "If you are an Agency Owner who uses GoHighLevel and wants to sell to Plumbers, read this.\n\nI’m going to keep this very simple. \n\nWe both know AI Employees and automations are in high-demand right now, when you sell them, they create extremely sticky recurring revenue because it slots into the business as part of their operation.\n\nIt doesn’t become a “want”, it becomes a “need”. After installing it, they don’t know life without it, which means they never cancel.\n\nSo what’s the problem?\n\nTo create an automation system that’s actually high-quality, it takes hours and hours and hours messing around with automations and training AI Employees not to go haywire.\n\nHere’s what I’ve got for you today.\n\nI’ve got the complete AI Employee, both Voice and Text, as well as the complete automation framework pre-built for the Plumbing niche, ready to go. \n\nIt’s completely built out. You receive the entire system and you can sell the entire system today, to Plumbers.\n\nI’ve seen the standard “AI Employees” out there. They are generic and flop at the first sign of friction.\n\nOur Plumber AI Employee is trained on in-depth industry information and also sales frameworks. It’s trained on a vast range of information which makes it incredibly powerful. \n\nNot only does it have information, it has the capability to follow sales frameworks, which means it is skillful and extremely valuable. \n\nI’m also giving you the complete Database Reactivation automation, pre-built and in-depth, for the Plumbing industry.\n\nThe Review Accelerator automation, again, for Plumbers. \n\nThe Referral Flywheel automation, which drives referrals for Plumbers.\n\nFinally, the Lifetime Value Automations which include scenario-specific campaigns including Drain & Blockage Campaign, Early Spring Outdoor Plumbing Prep, High Water Bill Campaign, Leads Who Didn't Book, Old Quote Campaign, No Recent Booking - Free Inspection Campaign, Pre-Winter - Pipe Insulation and Freeze Prevention Campaign, Slow Season Pricing Campaign.\n\nThis isn’t training, this isn’t a course. \n\nThis is a plug-in automation system for GoHighLevel.\n\nYou can use it instantly. \n\nAll custom-built for the Plumbing industry. \n\nI’m giving you all of this, for $27 today.\n\nGet the Plumber Automation Pack and start selling it to Plumbers today. \n\nhttps://scale-certified.com/theplumberautomationpack",
+    "origem_coleta": "acervo:ofertas-dolar-2026-10"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2831095410601190.jpg"
+}

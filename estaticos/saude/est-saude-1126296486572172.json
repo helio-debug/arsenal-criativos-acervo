@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1126296486572172",
+  "tipo": "estatico",
+  "titulo": "Especialidades e preços sobre foto de recepção",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma lista de especialidades e preços ocupa duas colunas sobre foto de recepção de clínica com balcão e cadeiras, desfocada. A chamada de agendamento aparece no alto e a identificação do cartão de descontos fica na base.",
+  "por_que_funciona": [
+    "Os preços aparecem junto de cada especialidade, sem exigir consulta a outra legenda.",
+    "O verde escuro nos valores separa preço e nome da consulta.",
+    "As tarjas pretas no topo preservam o contraste da chamada sobre a foto.",
+    "A lista em duas colunas acomoda doze especialidades em uma peça."
+  ],
+  "quando_usar": "Para divulgar consultas com desconto e informar valores de uma rede conveniada local.",
+  "estrutura_texto": "[Benefício de agendamento]\n[Especialidade] [Preço]\n[Demais especialidades e preços em duas colunas]\n[Marca do cartão]\n[Aviso: cartão de descontos não é plano de saúde]",
+  "legenda": "Consultas a partir de [preço] com [cartão de descontos]. Confira [especialidades], unidades participantes e condições em [canal]. Solicite [cartão] para acessar os descontos. Cartão de descontos não é plano de saúde.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de recepção de clínica com balcão e cadeiras, desfocada como fundo, com leve escurecimento. No topo, coloque chamada branca em duas linhas sobre tarjas pretas. No centro, organize duas colunas de especialidades, cada nome em etiqueta branca e valor em etiqueta verde-escura. Posicione identidade própria na base e aviso legível de que se trata de cartão de descontos, com condições e rede participante. Use apenas preços informados.",
+  "alerta_politica": "Em anúncios de saúde, evite atribuir doenças ao público ou prometer resultados clínicos. Informe condições, abrangência, elegibilidade e preços com clareza; identifique corretamente plano de saúde ou cartão de descontos, sem equipará-los. Para cartão de descontos, explicite que não é plano de saúde e que consultas e serviços são pagos ao prestador; não prometa cobertura assistencial.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1126296486572172",
+    "anunciante": "Cartão de TODOS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-19",
+    "dias_no_ar": 26,
+    "variacoes_ativas": 1,
+    "texto_original": "A evolução do desconto em saúde chegou\nMais economia, mais acesso e benefícios pra sua família\nConsultas a partir de R$30",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/saude/est-saude-1126296486572172.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3154997148036372",
+  "tipo": "estatico",
+  "titulo": "Curso artesanal com preço reduzido e exemplos ao fundo",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Duas instrutoras aparecem no alto, diante de peças artesanais. Um degradê rosa claro acomoda a promessa de aprender 11 modelos e a oferta com preço anterior riscado e preço atual em verde.",
+  "por_que_funciona": [
+    "As peças ao fundo mostram o tipo de trabalho ensinado.",
+    "O número de modelos delimita o conteúdo oferecido.",
+    "O preço anterior riscado e o atual em verde tornam a redução fácil de comparar.",
+    "A barra verde no rodapé explicita a ação de saber mais."
+  ],
+  "quando_usar": "Para cursos de artesanato com desconto real e exemplos visuais do que será ensinado.",
+  "estrutura_texto": "Curso [nome]\nAprenda o passo a passo de [quantidade] [peças]\nDe [preço anterior] por apenas:\n[preço atual]\nCurso completo e [modalidade]\ncom [percentual] de desconto\n[CTA]",
+  "legenda": "Aprenda o passo a passo de [quantidade] modelos de [artesanato] no curso [nome]. A formação é [modalidade] e inclui [bônus]. De [preço anterior] por [preço atual], conforme [condições]. Toque em Saiba mais para conferir.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma arte vertical com instrutores e exemplos de trabalhos no topo, fundidos a fundo rosa-claro por degradê. Centralize título e quantidade de modelos, usando tipografia marrom e rosa. Mostre preço anterior riscado e preço atual muito maior em verde. Finalize com modalidade, desconto comprovado e barra verde de CTA. Não prometa lucro garantido.",
+  "alerta_politica": "Evite promessas de renda ou lucro garantido. Comprove o preço de referência e o percentual de desconto e informe as condições da oferta; o aprendizado de uma técnica não garante retorno financeiro.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3154997148036372",
+    "anunciante": "Feita Mão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-02",
+    "dias_no_ar": 438,
+    "variacoes_ativas": 1,
+    "texto_original": "Você vai aprender de forma fácil o Passo a Passo de 11 Escapulários de Porta apaixonantes e lucrativos!\n\n🎁 Além disso, preparamos 4 Bônus Exclusivos para você que aproveitar essa condição:\n1️⃣ Módulo Bônus – Escapulário de Natal:\n👉🏻 Aprenda uma customização extra para aproveitar o Natal e lucrar muito com seus escapulários!\n\n2️⃣ Módulo Bônus – Escapulário Palavras (Técnica Decoupagem Têxtil):\n👉🏻 Aprenda uma customização extra com aplicação da Técnica de Decoupagem Têxtil em uma customização incrível!\n\n3️⃣ Módulo Bônus – Escapulários Lucrativos:\n👉🏻 Para te ajudar a lucrar mais ainda com as customizações, nesse módulo você terá algumas sugestões de valores de venda, além de aprender a fotografar seus escapulários e embalar para venda ou presente!\n\nVocê aproveita um Desconto Extra garantindo tudo isso…\n❌ De R$ 197,00\n✅ Por apenas 4x 8,33 (ou R$ 29,90 à vista)\n\nVocê está tendo 80% de desconto, aproveite agora: ⤵️\n📲 https://customizeartesacra.com.br/escapularios/\nCurso Escapulário de Porta Lucrativo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3154997148036372.jpg"
+}

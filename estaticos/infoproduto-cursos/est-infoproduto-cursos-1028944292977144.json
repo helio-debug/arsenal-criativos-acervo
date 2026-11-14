@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1028944292977144",
+  "tipo": "estatico",
+  "titulo": "Nome da especialização com faixas de destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo abstrato em rosa e preto com título do curso sobre faixas magenta. A base branca reúne chamada, benefício e seta em círculo.",
+  "por_que_funciona": [
+    "As faixas magenta separam o nome longo do fundo escuro.",
+    "A base branca cria uma área própria para o benefício da formação.",
+    "A seta dentro do círculo indica continuidade após a leitura."
+  ],
+  "quando_usar": "Para apresentar uma especialização a profissionais que já reconhecem o tema de interesse.",
+  "estrutura_texto": "Pós em [tema e foco da formação]\n[Chamada sobre atualização profissional]\n[Aplicação prática do aprendizado]",
+  "legenda": "Aprenda a aplicar [abordagens] em [contexto profissional]. A pós em [tema] oferece [modalidade], [corpo docente] e [certificação]. Conheça o programa e faça sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo abstrato desfocado rosa, vinho e preto nos dois terços superiores. Posicione a assinatura da marca no alto à direita e o título branco em faixas magenta na parte inferior desse bloco. Reserve a base branca para chamada preta, explicação curta e seta em círculo magenta. Inclua um selo tipográfico decorativo discreto no canto inferior direito.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1028944292977144",
+    "anunciante": "pospucprdigital",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-20",
+    "dias_no_ar": 147,
+    "variacoes_ativas": 4,
+    "texto_original": "Melhore a qualidade de vida nas cidades com soluções inteligentes e sustentáveis!\nReverte impactos socioambientais e constrói um futuro urbano mais equilibrado.\n\nAproveite nossa formação completa:\n Certificado PUCPR\n Aulas com professores renomados \n 100% online\n\nConheça o curso e se inscreva agora!\nMatricule-se agora\nFaça uma Pós PUCPR Digital",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1028944292977144.jpg"
+}

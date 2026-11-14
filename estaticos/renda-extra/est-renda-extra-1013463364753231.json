@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1013463364753231",
+  "tipo": "estatico",
+  "titulo": "Lançamento de perfume como convite à revenda",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Dois frascos vermelhos aparecem sobre madeira, cercados por flor e partículas de ingrediente em um cenário dourado. O texto superior associa o lançamento à oportunidade de revenda.",
+  "por_que_funciona": [
+    "Os frascos vermelhos contrastam com o fundo dourado e concentram o olhar.",
+    "Madeira, flor e partículas tornam a proposta olfativa mais concreta.",
+    "Renda extra recebe o maior peso entre as chamadas de texto.",
+    "O selo de ingredientes acrescenta um atributo específico ao produto."
+  ],
+  "quando_usar": "Para atrair interessados em revenda usando um lançamento como porta de entrada para conhecer o catálogo.",
+  "estrutura_texto": "Novo [produto]\nComece seu negócio com [categoria]\nTransforme [tendência] em [oportunidade de revenda]\n[Ingrediente ou diferencial]\n[Programa de revendedores]",
+  "legenda": "Conheça o lançamento [produto] e as condições para revender [categoria]. Consulte [catálogo], [margens e custos] e saiba como funciona o cadastro em [programa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário dourado com textura de areia, arco e grafismos geométricos discretos. Posicione dois produtos no centro inferior sobre base de madeira com ingredientes relacionados. Coloque a chamada no terço superior, destacando a oportunidade de revenda em marrom escuro, e um selo pequeno de atributo ao lado dos frascos. Reserve rodapé para marca própria.",
+  "alerta_politica": "Meta: não garantir lucro ou renda com revenda. Informar custos e condições comerciais; alegações de liderança e exclusividade precisam de comprovação. ANVISA: atributos de cosméticos devem respeitar a finalidade regularizada, sem alegações terapêuticas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1013463364753231",
+    "anunciante": "Natura",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-07",
+    "dias_no_ar": 130,
+    "variacoes_ativas": 3,
+    "texto_original": "Garanta sua renda extra vendendo o lançamento do momento! Seja uma Consultora de Beleza!\nPerfumaria líder, lucro certo\nIngredientes árabes exclusivos e alta perfumaria juntos para turbinar as suas vendas hoje",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1013463364753231.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-833453319813483",
+  "tipo": "estatico",
+  "titulo": "Comissão por indicação com condições destacadas",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical azul com chamada sobre comissão recorrente, explicação da indicação e três pílulas verdes com condições. Escudo ilustrado à direita e botão rosa na parte inferior.",
+  "por_que_funciona": [
+    "O título relaciona a oferta à carteira de clientes que o parceiro já possui.",
+    "A explicação identifica a indicação de empresas como a ação necessária.",
+    "A faixa sobre contrato ativo explicita uma condição da recorrência.",
+    "O botão rosa nomeia a modalidade de parceria oferecida."
+  ],
+  "quando_usar": "Para recrutar parceiros de indicação que já possuem contatos empresariais e querem entender as condições.",
+  "estrutura_texto": "[Carteira de clientes pode gerar comissão]\n[Pergunta curta]\n[Quem indicar e quando a comissão se aplica]\n[Custo inicial]\n[Suporte]\n[Condição de contrato ativo]\n[Quero ser parceiro de indicação]",
+  "legenda": "Conhece empresas que precisam de [serviço]? Você pode indicá-las ao programa [nome]. A equipe responsável realiza [entrega], e a comissão é paga conforme [regras], enquanto [condição do contrato]. Consulte os requisitos para participar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma peça azul-marinho com título branco alinhado à esquerda e pergunta final em verde neon. Inclua parágrafo curto explicando a indicação. Use três pílulas verdes para custo, suporte e condição de comissão. Coloque a imagem do produto na metade inferior direita e um botão rosa com CTA específico. Use apenas condições comerciais confirmadas e evite promessas de renda garantida.",
+  "alerta_politica": "Na Meta, apresente comissões como possibilidade condicionada a contratos ativos e às regras do programa, sem garantir renda ou ganhos fáceis. Comprove números de clientes e deixe claros requisitos, custos e responsabilidades; não prometa adequação legal absoluta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "833453319813483",
+    "anunciante": "DPOnetbr",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-14",
+    "dias_no_ar": 184,
+    "variacoes_ativas": 3,
+    "texto_original": "Você provavelmente já conhece empresas que estão expostas à LGPD e ainda não fizeram nada a respeito. \n\nAgora você pode transformar esse conhecimento em receita, sem precisar entregar o projeto, estudar a lei ou montar uma estrutura. \n\nVocê indica. A DPOnet cuida de tudo. \n\nVocê recebe comissão recorrente enquanto o contrato estiver ativo. Simples. \n\nQuero ser parceiro de indicação →\nQuero ser parceiro de indicação",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-833453319813483.jpg"
+}

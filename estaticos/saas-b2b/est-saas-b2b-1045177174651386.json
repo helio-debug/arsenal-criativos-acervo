@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1045177174651386",
+  "tipo": "estatico",
+  "titulo": "Depoimento sobre dados dispersos com palavra circulada",
+  "formato": "Depoimento em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Depoimento em letras brancas ocupa um painel azul, com a palavra sobre centralização circulada à mão. Um pequeno selo identifica o cliente e a faixa inferior escura reúne botão e assinatura.",
+  "por_que_funciona": [
+    "A fala em primeira pessoa apresenta uma experiência de uso concreta.",
+    "O círculo amarelo destaca o benefício de centralização dentro da frase.",
+    "O painel azul com letras grandes dá prioridade ao depoimento.",
+    "O botão discreto no rodapé propõe conhecer a plataforma."
+  ],
+  "quando_usar": "Para plataformas B2B com depoimentos autorizados sobre organização de processos, na consideração da solução.",
+  "estrutura_texto": "“[Dados ou processos] estavam [problema], então [decisão], porque [solução] [benefício]”\n[Identificação autorizada do cliente]\nConheça [solução]",
+  "legenda": "Centralize [informações], [processos] e [indicadores] em [plataforma] para acompanhar [atividade] com mais clareza. Conheça [solução].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul intenso e um grande bloco de depoimento em branco alinhado à esquerda. Circule a palavra que resume o benefício com traço fino amarelo. Reserve área para identificação autorizada e rodapé azul muito escuro com CTA pequeno. Use apenas depoimento real e autorizado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1045177174651386",
+    "anunciante": "Gupy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-10",
+    "dias_no_ar": 127,
+    "variacoes_ativas": 2,
+    "texto_original": "Com a Gupy, você centraliza informações, processos e indicadores de recrutamento em uma única plataforma, para ganhar mais visibilidade, agilidade e controle em cada contratação.\n\nConheça a Gupy.\nSe os dados do seu RH estão espalhados, suas decisões também ficam.",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1045177174651386.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-4558690551072073",
+  "tipo": "estatico",
+  "titulo": "Pergunta de rentabilidade com convite ao simulador",
+  "formato": "Interativo",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical azul com pergunta no alto, barras tridimensionais e moedas no centro. A chamada inferior convida a acessar um simulador.",
+  "por_que_funciona": [
+    "O valor de R$ 100 mil torna a pergunta concreta.",
+    "As barras de alturas diferentes remetem visualmente a desempenho financeiro.",
+    "O fundo claro dá contraste ao texto escuro.",
+    "A seta para baixo acompanha o convite ao simulador."
+  ],
+  "quando_usar": "Para levar pessoas que comparam investimentos a uma ferramenta de simulação.",
+  "estrutura_texto": "[MARCA]\nQuer saber quanto rende [VALOR] em [SOLUÇÃO]?\nAcesse [SIMULADOR] e descubra ↓",
+  "legenda": "Simule [valor] em [categorias de investimento] e compare cenários conforme [prazo e condições]. Acesse [simulador].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical em azul claro e azul escuro, pergunta alinhada à esquerda no terço superior, barras 3D e moedas no centro, CTA branco na base com seta. Use dados fornecidos e identifique os resultados como simulação.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4558690551072073",
+    "anunciante": "BTG Pactual",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-24",
+    "dias_no_ar": 82,
+    "variacoes_ativas": 1,
+    "texto_original": "Simule a rentabilidade dos seus investimentos em Renda Fixa, Fundos, Ações e Previdência.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-4558690551072073.jpg"
+}

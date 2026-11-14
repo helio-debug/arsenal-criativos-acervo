@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-956867200060581",
+  "tipo": "estatico",
+  "titulo": "Peças automotivas com veículo de referência",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "garantia",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Em fundo branco, a frente de uma van aparece no canto superior direito e duas peças curvas de acabamento automotivo ocupam o centro e a base. Cabeçalho amarelo e selos laterais apresentam a loja e as condições.",
+  "por_que_funciona": [
+    "A foto do veículo ajuda a reconhecer a aplicação pretendida das peças.",
+    "As peças isoladas em fundo branco permitem observar o formato.",
+    "O selo preto destaca a devolução gratuita.",
+    "O cabeçalho amarelo concentra a identificação comercial."
+  ],
+  "quando_usar": "Lojas de acessórios e reposição que precisam mostrar o formato da peça e o veículo de aplicação.",
+  "estrutura_texto": "[Marca da loja]\n[Chamada comercial]\n[Identificação da loja]\n[Foto do veículo e das peças]\nDevolução [condição]",
+  "legenda": "Encontre [peça] para [modelo e ano compatíveis]. Confira as medidas e a aplicação antes de comprar. Consulte [condições de frete], [prazo de envio] e [regras de devolução] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e faixa amarela no topo com identificação da loja à esquerda e chamada curta à direita. Posicione foto do veículo no alto à direita e duas fotos recortadas das peças em tamanho maior no centro e na base. Acrescente selo preto de devolução no canto inferior esquerdo. Mostre apenas condições comerciais confirmadas e compatibilidade informada.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "956867200060581",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-14",
+    "dias_no_ar": 214,
+    "variacoes_ativas": 7,
+    "texto_original": "Frete grátis* e envio super rápido em milhares de ofertas! Quer aproveitar?\nClique para ver mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-956867200060581.jpg"
+}

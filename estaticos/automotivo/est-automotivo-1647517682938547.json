@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1647517682938547",
+  "tipo": "estatico",
+  "titulo": "Câmera de retrovisor com tabela de cupons",
+  "formato": "Oferta e promoção",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça promocional de câmera automotiva com tela em formato de retrovisor e câmera auxiliar. A moldura verde natalina envolve título, datas, coluna de cupons por país e cálculo de preços em três moedas.",
+  "por_que_funciona": [
+    "O produto grande no centro mostra a tela panorâmica e a câmera auxiliar.",
+    "A coluna lateral organiza códigos de cupom por região.",
+    "As contas no rodapé explicam como os descontos formam o valor final.",
+    "O período no topo delimita a campanha e o selo vermelho destaca a novidade."
+  ],
+  "quando_usar": "Para campanhas de acessórios automotivos com cupons acumuláveis e regras de preço claramente verificadas.",
+  "estrutura_texto": "[Marca]\n[Nome da campanha]\n[Período e fuso]\n[Região: valor mínimo, desconto e código]\n[Novidade]\n[Produto]\n[Preço final] = [preço promocional] − [cupom do vendedor] − [cupom da plataforma]",
+  "legenda": "Confira [acessório automotivo] com até [desconto confirmado]. Use [cupom] nas condições de [valor mínimo e região]. Oferta válida de [início] a [fim], enquanto durarem os estoques. Veja as regras em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1 com moldura verde temática e fundo branco. Posicione o nome da campanha e o período no topo, uma coluna compacta de cupons à esquerda e o produto da IMAGEM 2 em destaque no centro. Use um selo vermelho de novidade somente se verdadeiro. No rodapé, mostre em reais o cálculo do preço final com descontos confirmados e condições legíveis. Evite múltiplas moedas para público brasileiro e use apenas códigos válidos. Use a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1647517682938547",
+    "anunciante": "AliExpress",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-30",
+    "dias_no_ar": 229,
+    "variacoes_ativas": 10,
+    "texto_original": "🎉Descontos de até 70%!\nFrete grátis na primeira compra no app para novos clientes!\n⏰ Promoção por tempo limitado – só enquanto durarem os estoques!\n🛒 Corre para garantir o seu – Compre agora na AliExpress!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1647517682938547.jpg"
+}

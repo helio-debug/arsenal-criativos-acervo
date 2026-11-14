@@ -1,0 +1,97 @@
+{
+ "id": "vid-apresentador-e-tela-no-meio",
+ "titulo": "Apresentador abre, corta pra tela do sistema e volta pro convite",
+ "formato_video": "screencast-prova",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "servicos-locais",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "amostra-teste",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "40-45s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Vou mostrar como [produto] ajuda a [tarefa concreta].",
+  "texto_tela": "Veja [tarefa] por dentro",
+  "visual": "Selfie vertical em local cotidiano, com luz de janela. Apresentador em plano de peito, título branco sobre faixa escura no alto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Selfie frontal em ambiente simples. Cabeçalho no alto; deixar espaço central para a interface que entrará depois.",
+   "fala": "Vou mostrar como [produto] ajuda a [tarefa concreta].",
+   "texto_tela": "Veja [tarefa] por dentro"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Inserir uma captura grande sobre o centro do apresentador, cobrindo parte do rosto e torso como na referência. Mostrar a entrada.",
+   "fala": "Neste exemplo, eu começo com [entrada ou situação inicial]. Abro [área da interface] e seleciono [opção].",
+   "texto_tela": "Comece com [entrada]"
+  },
+  {
+   "tempo": "11-21s",
+   "cena": "A captura ocupa quase toda a largura e mostra a ação principal. Um toque ou cursor acompanha a voz.",
+   "fala": "Aqui eu uso [recurso]. Ele permite [ação verificável]. Vou aplicar em [exemplo curto] e abrir o que aparece na próxima tela.",
+   "texto_tela": "Aplique [recurso]"
+  },
+  {
+   "tempo": "21-31s",
+   "cena": "Trocar a sobreposição pela tela de saída. Ampliar só o detalhe que confirma a função; manter legendas brancas abaixo da captura.",
+   "fala": "Esse é [resultado observável da tarefa]. Repare em [detalhe visível]. Dá para conferir [critério] antes de [próximo passo]. [Limite ou condição] vale neste exemplo.",
+   "texto_tela": "Confira [detalhe visível]"
+  },
+  {
+   "tempo": "31-38s",
+   "cena": "Retirar a sobreposição e voltar à mesma selfie. Mostrar uma miniatura neutra da saída acima do ombro, sem cobrir o rosto.",
+   "fala": "Esse fluxo serve para [uso específico]. Para começar, você precisa de [requisito de uso].",
+   "texto_tela": "Para usar: [requisito]"
+  },
+  {
+   "tempo": "38-45s",
+   "cena": "Plano frontal estável, sem tela cobrindo o rosto. Convite curto no rodapé e miniatura sai no corte final.",
+   "fala": "Toque em [botão] para testar [produto]. Na página, confira [condições da amostra] e faça [primeira ação].",
+   "texto_tela": "Teste [produto]\n[Condições da amostra]"
+  }
+ ],
+ "por_que_funciona": [
+  "A selfie no carro abre com um cabeçalho branco sobre preto, separando a chamada da legenda falada na parte inferior.",
+  "Nos frames centrais, capturas claras e grandes cobrem o rosto e o torso. A interface recebe a área principal da imagem durante a explicação.",
+  "As sobreposições mudam de uma tela de conteúdo para uma página de oferta; a fala ganha objetos diferentes para apontar ao longo do vídeo.",
+  "No último frame, o rosto reaparece e sobra apenas um mockup pequeno no alto. Essa retirada da tela abre espaço visual para o convite falado."
+ ],
+ "quando_usar": "Para quem precisa apresentar uma função e também explicar como acessar o teste. Use no meio do funil, depois que a pessoa já demonstrou interesse no problema atendido pelo produto.",
+ "roteiro_modelo": "Vou mostrar como [produto] ajuda a [tarefa concreta].\n\n[Corte]\n\nNeste exemplo, eu começo com [entrada ou situação inicial]. Abro [área da interface] e seleciono [opção].\n\n[Corte]\n\nAqui eu uso [recurso]. Ele permite [ação verificável]. Vou aplicar em [exemplo curto] e abrir o que aparece na próxima tela.\n\n[Corte]\n\nEsse é [resultado observável da tarefa]. Repare em [detalhe visível]. Dá para conferir [critério] antes de [próximo passo]. [Limite ou condição] vale neste exemplo.\n\n[Corte]\n\nEsse fluxo serve para [uso específico]. Para começar, você precisa de [requisito de uso].\n\n[Corte]\n\nToque em [botão] para testar [produto]. Na página, confira [condições da amostra] e faça [primeira ação].",
+ "tomadas_celular": [
+  "Grave o hook em selfie vertical, plano de peito, celular na altura dos olhos e janela à frente; 4s. Se usar carro, mantenha-o estacionado.",
+  "Faça uma gravação de tela da entrada por 7s, em retrato; não precisa de luz externa. Deixe os campos grandes para a sobreposição.",
+  "Capture a execução da função por 10s no celular, toque visível e interface centralizada; nenhuma luz de cena necessária.",
+  "Capture a saída e seu detalhe por 10s, com zoom de interface ou fonte maior; brilho constante, sem luz externa necessária.",
+  "Grave a explicação do requisito em selfie no mesmo lugar e com a mesma luz de janela; 7s, rosto desobstruído.",
+  "Grave o convite em plano de peito por 7s, câmera apoiada e luz suave frontal; deixe o rodapé livre para o botão. Grave a voz dos blocos de tela no celular em ambiente silencioso."
+ ],
+ "caminho_ia": "Sem filmar, use um avatar autorizado para abertura e convite e capturas fornecidas do seu produto nas partes centrais. Faça a voz com o avatar ou voz sintética; clone uma voz apenas com autorização. No CapCut, sobreponha as telas e retire-as antes do convite. Para gerar bases no Veo ou Runway: \"Vertical 9:16 smartphone selfie aesthetic, generic adult presenter seated in a simple daylight interior, chest-up framing, direct eye contact, soft window light, uncluttered upper third, natural small gestures, no logos, no baked-in text.\" e \"Vertical 9:16 hybrid explainer layout, large centered [product screenshot] overlay over a softly defocused presenter background, subtle digital push-in on [visible feature], preserve supplied interface, clean lower caption area, no invented results.\" Identifique mockups como simulações e não transforme um avatar em depoimento de cliente.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um híbrido de 45s: pessoa no hook (0-4s), tela grande sobreposta com entrada (4-11s), ação do recurso (11-21s), saída e conferência (21-31s), retorno ao rosto para explicar requisito (31-38s) e convite ao teste (38-45s). Tom casual e explicativo. Mantenha a fala contínua durante as telas, com cortes por ação. Cabeçalho branco em faixa escura no início; legendas brancas curtas na parte inferior. Telas quase na largura inteira no miolo; rosto livre no convite. Não copie o cenário exato, roupa, aparência da pessoa, slogans, oferta, preço ou promessa de venda rápida da referência. A prova deve ser uma função do meu produto, sem alegação de renda.\n\nUse pt-BR falado, frases curtas e dados verificáveis. Não copie nomes, pessoas, marcas, logotipos, valores, domínios, interfaces proprietárias ou frases da referência. Use apenas informações do meu produto; quando faltar um dado, marque [preencher]. Não invente prova, prazo ou benefício. Evite superlativos, perguntas decorativas, antíteses vazias e promessa de resultado.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [tarefa] dentro de [produto]. Mostrei [recurso] e o que conferir em [saída]. Teste em [botão], com [condições da amostra].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d2e531ab",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-apresentador-e-tela-no-meio/frames/f1.jpg",
+    "videos/vid-apresentador-e-tela-no-meio/frames/f2.jpg",
+    "videos/vid-apresentador-e-tela-no-meio/frames/f3.jpg",
+    "videos/vid-apresentador-e-tela-no-meio/frames/f4.jpg",
+    "videos/vid-apresentador-e-tela-no-meio/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

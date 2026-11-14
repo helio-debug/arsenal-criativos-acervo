@@ -1,0 +1,36 @@
+{
+  "id": "est-servicos-locais-4459301331005398",
+  "tipo": "estatico",
+  "titulo": "Entregador em primeiro plano e benefício logístico",
+  "formato": "Produto em destaque",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Entregadora de capacete e uniforme ocupa a lateral direita, sobre cenário urbano. Um painel amarelo apresenta a entrega e a disponibilidade da operação logística.",
+  "por_que_funciona": [
+    "O painel amarelo cria contraste com o fundo azul e concentra a leitura.",
+    "A entregadora com capacete e moto mostra a execução do serviço.",
+    "O número ampliado na chamada fixa a identificação da solução."
+  ],
+  "quando_usar": "Para plataformas de entrega apresentarem sua operação a restaurantes em fase de comparação.",
+  "estrutura_texto": "[Entrega feita por sua operação]\n[Logística completa com diferencial de capacidade]\n[Disponibilidade para o restaurante]",
+  "legenda": "Seu [tipo de estabelecimento] pode contar com [serviço de entrega]. Conheça [condições comerciais] e cadastre seu negócio em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo urbano, painel arredondado à esquerda em cor vibrante e pessoa com equipamento de entrega à direita. Coloque título grande com contorno e benefício em três linhas menores. Use as cores da minha marca e apenas diferenciais comprovados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4459301331005398",
+    "anunciante": "Vou de 99",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-02",
+    "dias_no_ar": 73,
+    "variacoes_ativas": 1,
+    "texto_original": "🥳 Seu restaurante merece mais! Venha pra 99Food 💰 Menos taxas, mais lucro!\nCadastre seu restaurante agora➡️\nCadastre seu restaurante",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-4459301331005398.jpg"
+}

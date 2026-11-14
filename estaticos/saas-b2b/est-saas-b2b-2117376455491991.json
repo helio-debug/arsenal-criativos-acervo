@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-2117376455491991",
+  "tipo": "estatico",
+  "titulo": "Cena de descoberta gastronômica em vídeo social",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Imagem de vídeo vertical centralizada em um quadrado com laterais desfocadas. Um homem olha para um prato aberto e volumoso enquanto segura uma colher.",
+  "por_que_funciona": [
+    "A colher próxima do prato registra um momento de ação.",
+    "A comida aberta revela o recheio e desperta curiosidade sobre o preparo.",
+    "As laterais desfocadas mantêm o enquadramento vertical e concentram a atenção no centro."
+  ],
+  "quando_usar": "Para aplicativos de vídeos mostrarem um exemplo concreto do conteúdo disponível; a taxonomia não tem um nicho específico para entretenimento digital.",
+  "estrutura_texto": "[Cena de consumo de conteúdo] + [identificação do aplicativo] + [perfil do criador].",
+  "legenda": "Descubra vídeos sobre [interesse] e acompanhe criadores de [tema]. Conheça o aplicativo [nome] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma cena demonstrativa do aplicativo ou conteúdo autorizado, com uma pessoa descobrindo um prato, expressão espontânea e enquadramento vertical central. Preencha as laterais do quadrado com desfoque da própria cena. Use apenas identidade própria e não reproduza perfis de terceiros.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2117376455491991",
+    "anunciante": "TikTok - EU",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-01",
+    "dias_no_ar": 136,
+    "variacoes_ativas": 1,
+    "texto_original": "TikTok - Videos, Shop & LIVE - Apps on Google Play\nJoin your friends and discover videos you love, only on TikTok",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2117376455491991.jpg"
+}

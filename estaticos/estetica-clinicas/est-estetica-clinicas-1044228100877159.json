@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1044228100877159",
+  "tipo": "estatico",
+  "titulo": "Ilustração anatômica para explicar estruturação facial",
+  "formato": "Alerta e educação",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Retrato feminino de perfil recebe uma sobreposição de ossos da face. Título branco no topo, texto explicativo à esquerda e assinatura profissional no rodapé.",
+  "por_que_funciona": [
+    "A sobreposição anatômica conecta o tema à estrutura óssea.",
+    "O título branco se destaca sobre o fundo marrom escuro.",
+    "O perfil ocupa quase toda a arte e dá escala à ilustração.",
+    "A linha fina no rodapé separa a assinatura do conteúdo."
+  ],
+  "quando_usar": "Para introduzir uma explicação sobre planejamento facial e abrir espaço para conteúdo técnico acessível.",
+  "estrutura_texto": "[Tema do procedimento]:\n[Explicação curta da abordagem]\n[Assinatura profissional] • [Especialidade]",
+  "legenda": "[Procedimento] envolve planejamento individual e avaliação das estruturas faciais. Entenda como [aspecto técnico] participa dessa avaliação e quais são os limites da abordagem.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte retrato de perfil com sobreposição anatômica ilustrativa, claramente didática e sem ferimentos. Use tons marrons e dourados, título serifado branco no topo e explicação curta à esquerda. Insira assinatura genérica no rodapé com linha fina; não reproduza a negação do texto original como alegação clínica.",
+  "alerta_politica": "Em anúncios de estética e saúde, evitar antes e depois, indução de insatisfação com a aparência, atribuição de condições pessoais e garantia de resultado. Verificar as regras do conselho profissional responsável e obter autorização para uso de imagem.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1044228100877159",
+    "anunciante": "Dra. Daniela Aidar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-06",
+    "dias_no_ar": 465,
+    "variacoes_ativas": 1,
+    "texto_original": "Muita gente ainda associa ácido hialurônico àquele efeito inflado, artificial.\nMas quando a gente fala em estruturação facial, a proposta é completamente diferente.\n\nNão se trata de transformar um rosto, nem de “harmonizar” algo que estaria errado.\nA ideia aqui é devolver o que o tempo tirou: sustentação, contorno, pontos de ancoragem.\n\nA partir dos 30 anos, a gente já começa a perder osso na face.\nE é por isso que, com o tempo, a olheira fica mais funda, o bigode chinês aparece, o contorno apaga.\n\nCom técnica e bom senso, a gente consegue usar o ácido hialurônico para tratar tudo isso, \ncom resultado natural, elegante e sem exageros.\n\nVocê já tinha ouvido falar nesse conceito de estruturação?\nMe conta aqui o que mais te incomoda hoje no seu rosto. Vamos conversar.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1044228100877159.jpg"
+}

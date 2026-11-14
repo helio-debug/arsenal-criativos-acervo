@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1910199469690387",
+  "tipo": "estatico",
+  "titulo": "Seguro auto com retrato ao lado do carro",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Homem em pé ao lado de um carro ocupa o lado direito da peça. A chamada amarela fica no alto à esquerda, sobre uma área azul escurecida.",
+  "por_que_funciona": [
+    "O carro visível conecta o retrato ao seguro auto.",
+    "O amarelo do texto contrasta com o fundo azul.",
+    "O personagem ocupa a maior parte da imagem e humaniza a apresentação.",
+    "A área escura à esquerda mantém a chamada legível sobre a fotografia."
+  ],
+  "quando_usar": "Para apresentar seguro auto em campanhas de reconhecimento com abordagem cotidiana.",
+  "estrutura_texto": "Com [seguro auto],\n[benefício emocional ligado ao uso do carro].",
+  "legenda": "Conheça o [seguro auto]: opções de cobertura e serviços para acompanhar seus trajetos. Confira as vantagens e as condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical com pessoa adulta à direita e carro visível na metade inferior. Aplique degradê azul escuro à esquerda e chamada curta em fonte serifada amarela no alto. Inclua filetes amarelos nas bordas superior e inferior. Adapte a foto da IMAGEM 2 ao contexto do serviço.",
+  "alerta_politica": "Para seguros, informe coberturas, exclusões e condições reais de contratação; não prometa proteção total nem indenização garantida. Observe as regras aplicáveis da SUSEP e evite atribuir vulnerabilidades pessoais ao público na copy da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1910199469690387",
+    "anunciante": "Yelum Seguradora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 1,
+    "texto_original": "Você conhece o seguro Yelum Auto? São\nvárias opções de coberturas com soluções\ncompletas e mais liberdade ao dirigir.\nDescubra todas as vantagens.\nSeguro para viver livre\nSaiba mais da Yelum Seguros",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1910199469690387.jpg"
+}

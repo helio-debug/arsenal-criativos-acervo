@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1529450598299754",
+  "tipo": "estatico",
+  "titulo": "Alerta de erro técnico com ilustração didática",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma ilustração em corte da pele mostra uma aplicação com seringa. Faixas pretas acima e abaixo trazem um alerta em branco, amarelo e vermelho e uma chamada para a aula.",
+  "por_que_funciona": [
+    "A seringa e o corte da pele tornam o assunto identificável sem ler a legenda.",
+    "As palavras em amarelo e vermelho destacam o procedimento e o alerta.",
+    "A faixa inferior conecta o conteúdo técnico a uma aula do curso."
+  ],
+  "quando_usar": "Para apresentar aulas técnicas a profissionais e estudantes da área, com conteúdo revisado por responsável habilitado.",
+  "estrutura_texto": "Se [procedimento] for feito em [condição inadequada], pode causar [risco].\nAULA DE [TEMA] DO [CURSO]",
+  "legenda": "Na aula de [tema], abordamos [cuidados técnicos] e os critérios para realizar [procedimento] com segurança. Consulte o programa de [curso] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo branco com uma ilustração didática central relacionada ao conteúdo da IMAGEM 2. Coloque faixas pretas no topo e na base, texto serifado grande em branco e destaques pontuais amarelos e vermelhos. A faixa superior apresenta um cuidado técnico e a inferior convida para a aula. Não reproduza afirmações absolutas nem instruções clínicas sem revisão. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Conteúdo de saúde: valide a ilustração e as orientações com profissional habilitado. Evite afirmar que todo erro produz uma complicação específica ou usar medo excessivo; o anúncio não substitui treinamento supervisionado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1529450598299754",
+    "anunciante": "Lucas Bacca Enfermeiro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-12",
+    "dias_no_ar": 367,
+    "variacoes_ativas": 1,
+    "texto_original": "Dois dedos do umbigo. \nDois dedos da última aplicação. \nSim, é isso que separa um acesso bem feito de uma dor de cabeça (e de barriga) no plantão.\nO professor teve que pintar a própria barriga pra te mostrar onde realmente deve aplicar a injeção subcutânea, porque até hoje tem gente que erra isso.\n\n👉 Regra de ouro: 2 dedos de distância do umbigo. \n2 dedos de distância da aplicação anterior. \nE nunca aplicar sobre a cicatriz umbilical.\nE tem mais: pode aplicar também nas laterais do abdômen, nada de ficar preso só à frente. Mas o essencial é entender a lógica do corpo, não decorar posição.\n\nViu como dá pra aprender online quando o professor ensina do jeito certo? \nA Black Friday Lendária tá NO AR. 7 Cursos. Acesso Vitalício. \n\n👇 Comenta BLACK pra receber o link AGORA.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1529450598299754.jpg"
+}

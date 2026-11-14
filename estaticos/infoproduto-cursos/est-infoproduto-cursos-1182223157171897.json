@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1182223157171897",
+  "tipo": "estatico",
+  "titulo": "Certificado ampliado para divulgar horas complementares",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Um certificado inclinado domina a metade direita sobre cenário de biblioteca. À esquerda há chamada para horas complementares, cursos gratuitos, checks de autenticidade e botão verde parcialmente encoberto.",
+  "por_que_funciona": [
+    "O certificado ampliado torna visível a entrega associada ao curso.",
+    "A chamada para horas complementares apresenta uma finalidade acadêmica específica.",
+    "Os checks destacam validade e código de autenticidade.",
+    "O selo de ano de fundação fornece um sinal visual de tempo de atuação."
+  ],
+  "quando_usar": "Para cursos com certificação quando a aceitação das horas pela instituição do aluno puder ser esclarecida.",
+  "estrutura_texto": "[MARCA]\nDesde [ANO]\nGANHE HORAS COMPLEMENTARES\nCURSOS ONLINE GRÁTIS\n+ [QUANTIDADE] CURSOS\n[CONDIÇÃO DO CERTIFICADO]\n[CÓDIGO DE AUTENTICIDADE]\n[CERTIFICADO ILUSTRATIVO]\nCOMEÇAR CURSO\n[DISPONIBILIDADE REAL]",
+  "legenda": "Confira [quantidade] cursos gratuitos para estudar [áreas] e solicitar certificado conforme [requisitos]. Para horas complementares, verifique os critérios da sua instituição. Consulte as condições de emissão em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com biblioteca desfocada e mesa na base. Coloque um certificado ilustrativo grande e inclinado à direita, a partir da IMAGEM 2, sem dados pessoais reais. Organize textos brancos e amarelos em blocos azuis à esquerda, checks verdes, selo de tempo de atuação e botão verde na base. Preserve margens para o CTA não ser coberto. Use apenas escassez comprovada.",
+  "alerta_politica": "Esclarecer os critérios de emissão e eventuais taxas. A aceitação de horas complementares depende da instituição; não garantir reconhecimento universal. Usar urgência apenas quando verdadeira.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1182223157171897",
+    "anunciante": "Cursos Online SP do Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-11",
+    "dias_no_ar": 248,
+    "variacoes_ativas": 3,
+    "texto_original": "🚀350 Cursos Gratuitos Rápidos Online \n🎓Certificado em 5 Minutos\n🏛️Horas Complementares p/ Faculdade\n🔝Ganhe 02 Certificados\n📚Portal de Cursos Fundado em 2013\n✨Enriquecer seu Currículo\nhttps://www.CursosOnlineSP.com.br",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1182223157171897.jpg"
+}

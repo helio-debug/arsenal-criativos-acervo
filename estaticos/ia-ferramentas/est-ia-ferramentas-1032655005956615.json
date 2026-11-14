@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-1032655005956615",
+  "tipo": "estatico",
+  "titulo": "Seis módulos e quatro passos para começar",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Peça branca e azul com título grande, ilustração de torneira e painel de especialização no segmento. Seis colunas apresentam recursos e uma segunda faixa descreve quatro passos de implantação.",
+  "por_que_funciona": [
+    "As seis colunas permitem comparar as funções incluídas em uma leitura horizontal.",
+    "Os quatro passos com setas mostram a sequência de implantação.",
+    "A torneira reforça visualmente o segmento citado no título.",
+    "O rodapé azul separa suporte, revenda e cobrança recorrente."
+  ],
+  "quando_usar": "Para explicar uma solução modular a agências que precisam entender o que recebem e como instalar.",
+  "estrutura_texto": "[Público]\n[Sistema completo para vender ao segmento]\n[Especialização]\n[Seis módulos e benefícios]\n[Implantação em quatro passos]\n[Suporte e modelo comercial]",
+  "legenda": "Ofereça [sistema de IA e automação] aos seus clientes de [segmento]. A solução inclui [módulos] e pode ser instalada em [plataforma compatível]. Confira como conectar, importar e personalizar antes de começar a vender.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize um infográfico branco e azul-marinho. No topo, título grande à esquerda e painel azul com um objeto associado ao segmento à direita. No centro, seis colunas com ícones e descrições curtas. Abaixo, quatro etapas com números e setas. Termine com faixa azul dividida em três blocos. Adapte o objeto ao produto fornecido e não acrescente comprovações ou prazos sem respaldo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1032655005956615",
+    "anunciante": "Scale Certified",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-29",
+    "dias_no_ar": 199,
+    "variacoes_ativas": 9,
+    "texto_original": "If you are an Agency Owner who uses GoHighLevel and wants to sell to Plumbers, read this.\n\nI’m going to keep this extremely simple and straightforward.\n\nI’ve built a complete AI Employee + Automation System you can sell to Plumbers  today. This isn’t training, this is a pre-built system you simply install.\n\nThis includes:\n\n1. A fully-trained, in-depth AI Employee, which includes Voice and Text, it answers their phones, operates as their front-desk, their web requests, SMS, live chat, Instagram, Whatsapp and FB. \n\n– Note, most of the AI Employees out there are generic and weak, they flop at the first sign of friction. This AI Employee is robust, trained on huge amounts of industry information AND sales frameworks, which means it doesn’t just spit information, it actually works the prospect into converting. It’s talented. \n\n2. The Plumber Database Reactivation System, a 100-step automation that reactivates their leads, completely built out. You just add their business name, upload their leads and it works.\n\n3. The Review Accelerator, the complete automation that drives reviews from their customers\n\n4. The Referral Flywheel for Plumbers, it drives new clients from their existing customer base automatically, I’m giving you this automation\n\n5. The Lifetime Value Automations which include scenario-specific campaigns including Drain & Blockage Campaign, Early Spring Outdoor Plumbing Prep, High Water Bill Campaign, Leads Who Didn't Book, Old Quote Campaign, No Recent Booking - Free Inspection Campaign, Pre-Winter - Pipe Insulation and Freeze Prevention Campaign, Slow Season Pricing Campaign.\n\nYou take this system, you install it for Plumbers and you get paid for it. \n\nIt’s as simple as that.\n\nInstead of spending weeks building this out yourself, just take this pre-built, robust system. \n\nIt’s in-depth and powerful.\n\nWhat’s the deal?\n\nI give you the entire system right now to install into your GHL account.\n\nYou give me $27.\n\nThat’s it, simple as that. I appreciate it’s a ridiculous price for all of that and you will think, surely, surely not…\n\nBut my goal here is to give you extreme value and show you what we are all about. \n\nSound reasonable?\n\nClick the link below:\n\nhttps://scale-certified.com/theplumberautomationpack",
+    "origem_coleta": "acervo:ofertas-dolar-2026-10"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1032655005956615.jpg"
+}

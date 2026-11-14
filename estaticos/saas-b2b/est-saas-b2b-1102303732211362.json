@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1102303732211362",
+  "tipo": "estatico",
+  "titulo": "Pergunta de qualificação para contadores do terceiro setor",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Título branco sobre fundo vermelho chama contadores do terceiro setor. A foto de uma profissional no computador ocupa um recorte diagonal, enquanto o texto apresenta integração e separação por projeto.",
+  "por_que_funciona": [
+    "A pergunta inicial delimita profissão e segmento atendido.",
+    "O texto cita segregação por área e projeto, uma funcionalidade específica.",
+    "A diagonal separa a foto da área de leitura e mantém o CTA destacado."
+  ],
+  "quando_usar": "Para software de gestão voltado a contadores e organizações com demandas específicas de prestação de contas.",
+  "estrutura_texto": "Você é [profissional] e atende [segmento]? | [Funcionalidade integrada] | Com [organização por critério] | [Referência a exigência aplicável] | Conheça [produto]",
+  "legenda": "Quem atende [segmento] precisa organizar [informações e processos]. [Produto] integra [áreas] e permite [funcionalidade], reduzindo [retrabalho]. Conheça a solução para as organizações que você atende.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo vermelho em degradê, título branco grande no topo e texto funcional mais curto ao centro. Insira a imagem do produto em recorte diagonal na parte inferior esquerda, com CTA e assinatura visual à direita. Destaque em negrito apenas as funções centrais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1102303732211362",
+    "anunciante": "Software HYB",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 1,
+    "texto_original": "Contador que atende OSC sabe: o problema não é a causa, é a informação espalhada. \n\nO HYB entrega contabilidade integrada ao financeiro e exporta os lançamentos para os principais sistemas contábeis do mercado (Domínio, Contmatic, SCI, Questor, Prosoft e outros). Segregação de contas por área e por projeto, a base que o MROSC e o CEBAS exigem. Menos dupla digitação, menos erro, prestação de contas pronta. \n\nApresente o HYB para as organizações que você atende. \n\n#Contabilidade #ContadorDoTerceiroSetor #MROSC #OSC #HYB",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1102303732211362.jpg"
+}

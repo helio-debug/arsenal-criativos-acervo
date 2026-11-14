@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1364204128680375",
+  "tipo": "estatico",
+  "titulo": "Seguro auto com preço inicial e desconto em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça branca com carro ocupando a metade inferior esquerda e preço mensal em destaque acima. Um bloco escuro apresenta desconto e parcelamento; a lateral reúne logotipos de seguradoras e o rodapé pede cotação.",
+  "por_que_funciona": [
+    "O preço mensal em negrito permite identificar rapidamente a condição inicial.",
+    "O bloco escuro com percentual grande separa o desconto das demais informações.",
+    "O carro em tamanho grande identifica de imediato o bem segurado.",
+    "A faixa inferior concentra uma única ação: solicitar cotação."
+  ],
+  "quando_usar": "Para campanhas de cotação de seguro auto com preço de entrada e condições comerciais verificadas.",
+  "estrutura_texto": "Seguro [cobertura] para [bem]\nA partir de [preço]/[período]\n[Personalização]\nDescontos de até [percentual]\nAté [parcelas] [condição]\nCompare [opções disponíveis]\n[CTA de cotação]",
+  "legenda": "Compare opções de seguro para [veículo/perfil] e encontre coberturas adequadas ao seu uso. Planos a partir de [valor]/mês, com [desconto condicionado] e [parcelamento]. Valores sujeitos a [condições]. Solicite sua cotação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, texto preto e a foto da IMAGEM 2 recortada em grande escala na metade inferior esquerda. No alto à esquerda, organize título, preço inicial grande e frase de personalização. À direita, crie cartão escuro com desconto grande e condição de parcelamento. Abaixo, reserve espaço para parceiros autorizados, sem copiar logotipos da referência. Finalize com faixa escura de CTA e condição de preço legível.",
+  "alerta_politica": "Meta: apresente preço inicial, descontos, parcelamento e coberturas com condições claras e comprováveis. Informe que a contratação depende de cotação, perfil, análise de risco e condições da apólice; não sugira cobertura universal ou aprovação garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1364204128680375",
+    "anunciante": "Segcorp Corretora de Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-26",
+    "dias_no_ar": 80,
+    "variacoes_ativas": 1,
+    "texto_original": "🚗 Seguro completo e personalizado para o seu carro!\n\nCompare as condições de diversas seguradoras e encontre a proteção que melhor combina com o seu perfil e orçamento.\n\n✅ Planos a partir de R$ 180 por mês\n✅ Descontos exclusivos de até 35%\n✅ Parcelamento em até 10x sem juros\n✅ Coberturas personalizadas\n✅ Comparação entre as principais seguradoras do país\n\nConte com opções de Porto, Allianz, HDI, Tokio Marine, Azul, Mapfre, Bradesco Seguros, Suhai e outras grandes seguradoras.\n\n📲 Clique no botão, solicite sua cotação e compare as melhores condições!\n\n*Valores e descontos sujeitos ao perfil do condutor, veículo, região, coberturas selecionadas e análise de cada seguradora.*",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1364204128680375.jpg"
+}

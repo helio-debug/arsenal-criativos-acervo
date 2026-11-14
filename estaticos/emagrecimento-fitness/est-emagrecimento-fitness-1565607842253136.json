@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-1565607842253136",
+  "tipo": "estatico",
+  "titulo": "Chamada de voluntárias para mentoria gratuita",
+  "formato": "Comunicado oficial",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título de recrutamento no alto de uma peça vertical, com faixas coloridas destacando voluntárias e gratuidade. Na parte inferior, uma mulher em roupa de treino faz uma selfie no espelho.",
+  "por_que_funciona": [
+    "O título procura-se comunica imediatamente uma seleção de participantes.",
+    "O fundo verde destaca a expressão mentoria gratuita.",
+    "A palavra voluntárias em faixa vermelha delimita a chamada de participação.",
+    "A selfie em ambiente cotidiano dá um contexto informal à oferta."
+  ],
+  "quando_usar": "Para recrutar participantes de um acompanhamento gratuito, deixando critérios, duração e condições acessíveis.",
+  "estrutura_texto": "Procura-se [perfil de participantes] para [mentoria gratuita] de [tema].",
+  "legenda": "Inscrições abertas para [mentoria gratuita] sobre [hábitos e objetivo de saúde]. O acompanhamento aborda [escopo] com [profissional habilitado, quando aplicável]. Consulte [critérios], [duração] e [condições] em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie peça vertical com fundo creme, título procura-se em fonte condensada grande com degradê vermelho e rosa. Abaixo, distribua a chamada de participantes, gratuidade e tema em linhas curtas, usando faixas coral e verde-claro. Na metade inferior, use foto cotidiana da IMAGEM 2, sem destacar partes do corpo nem sugerir transformação corporal. Apresente condições reais da gratuidade. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": "Meta: anúncios de emagrecimento devem ser direcionados a maiores de 18 anos; evitar antes/depois corporal, autopercepção negativa, insinuação de excesso de peso e promessa de perda de peso garantida. Informar condições da gratuidade; alegações de saúde devem ter suporte e respeitar regras do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1565607842253136",
+    "anunciante": "Patricia Fugihara",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 1,
+    "texto_original": "❌ Você acredita que é impossível emagrecer de forma saudável sem recorrer a dietas restritivas? Então prepare-se para 𝐦𝐮𝐝𝐚𝐫 𝐝𝐞 𝐢𝐝𝐞𝐢𝐚! ✨ A maioria das pessoas fracassa no emagrecimento porque escolhe métodos incompletos: focam só em dieta, só em exercícios ou só em mindset, sem saber que é preciso 𝐢𝐧𝐭𝐞𝐠𝐫𝐚𝐫 𝐭𝐮𝐝𝐨 para ter resultados reais. E a falta de um 𝐚𝐜𝐨𝐦𝐩𝐚𝐧𝐡𝐚𝐦𝐞𝐧𝐭𝐨 𝐚𝐝𝐞𝐪𝐮𝐚𝐝𝐨 leva muita gente a tentar soluções radicais que não duram além de algumas semanas. ⏳\n\nAgora, você tem a chance de receber uma mentoria de emagrecimento Individual, que vai mostrar exatamente o que seu corpo precisa para eliminar gordura de forma saudável e sustentável.\n\n👉 Cadastre-se agora para garantir sua mentoria exclusiva para descobrir como conquistar o corpo que você sempre quis!\n\n❌ Não deixe que a falta de direcionamento seja motivo de frustração: 𝐭𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐞-𝐬𝐞 com o suporte certo e alcance resultados duradouros!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-1565607842253136.jpg"
+}

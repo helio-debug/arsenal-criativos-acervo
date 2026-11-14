@@ -1,0 +1,89 @@
+{
+ "id": "vid-revelacao-equipe-agente",
+ "titulo": "Pergunta no escritório revela o agente por trás da operação",
+ "formato_video": "bastidores",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "35-45s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Plano de duas pessoas no escritório, câmera móvel à altura do peito.",
+   "fala": "[Visitante]: Quem cuida de [tarefa repetitiva] por aqui? Dá para mostrar onde isso acontece?",
+   "texto_tela": "Quem cuida de [tarefa]?"
+  },
+  {
+   "tempo": "6-12s",
+   "cena": "Responsável aponta para o posto de trabalho; câmera acompanha o gesto e volta ao interlocutor.",
+   "fala": "[Responsável]: Vem ver esta tela. A gente usa [solução] nesta parte do atendimento.",
+   "texto_tela": "[Solução] em uso"
+  },
+  {
+   "tempo": "12-23s",
+   "cena": "Interlocutor em plano médio; inserir conversa fictícia na parte superior sobre fundo claro.",
+   "fala": "[Responsável]: Ela recebe [solicitação] e organiza [informação necessária]. Quando aparece [condição de encaminhamento], passa o caso para a pessoa responsável.",
+   "texto_tela": "[Tarefa automatizada] → [encaminhamento]"
+  },
+  {
+   "tempo": "23-32s",
+   "cena": "Corte para visitante falando à câmera; número grande branco sobre o peito, com período menor.",
+   "fala": "[Visitante]: No painel, vimos [volume verificado] de [atividade] em [período]. Esse número conta [critério de contagem], sem indicar vendas concluídas.",
+   "texto_tela": "[Volume verificado] [atividade] em [período]"
+  },
+  {
+   "tempo": "32-41s",
+   "cena": "Visitante em close gesticula para baixo; finalizar com ação disponível.",
+   "fala": "[Visitante]: Para testar em [operação], comece por [tarefa delimitada]. Veja [demonstração disponível] em [local de acesso] e confira se atende ao seu fluxo.",
+   "texto_tela": "Veja [demonstração disponível]"
+  }
+ ],
+ "hook": {
+  "falado": "[Visitante]: Quem cuida de [tarefa repetitiva] por aqui? Dá para mostrar onde isso acontece?",
+  "texto_tela": "Quem cuida de [tarefa]?",
+  "visual": "Plano de duas pessoas no escritório, câmera móvel à altura do peito."
+ },
+ "por_que_funciona": [
+  "O plano inicial reúne visitante e responsável antes de mostrar a operação.",
+  "O gesto de apontar e o movimento da câmera conduzem a revelação do atendimento usado no escritório.",
+  "A conversa sobreposta na parte superior acompanha a explicação do fluxo pelo responsável.",
+  "O número em letras brancas grandes ocupa o peito do apresentador no momento em que ele comenta o volume de conversas."
+ ],
+ "quando_usar": "Para soluções que assumem uma parte delimitada da rotina de atendimento. Use em consideração, quando há uma interface demonstrável e registros que sustentem o volume citado.",
+ "roteiro_modelo": "[Visitante]: Quem cuida de [tarefa repetitiva] por aqui? Dá para mostrar onde isso acontece?\n\n[CORTE / PAUSA]\n\n[Responsável]: Vem ver esta tela. A gente usa [solução] nesta parte do atendimento.\n\n[CORTE / PAUSA]\n\n[Responsável]: Ela recebe [solicitação] e organiza [informação necessária]. Quando aparece [condição de encaminhamento], passa o caso para a pessoa responsável.\n\n[CORTE / PAUSA]\n\n[Visitante]: No painel, vimos [volume verificado] de [atividade] em [período]. Esse número conta [critério de contagem], sem indicar vendas concluídas.\n\n[CORTE / PAUSA]\n\n[Visitante]: Para testar em [operação], comece por [tarefa delimitada]. Veja [demonstração disponível] em [local de acesso] e confira se atende ao seu fluxo.",
+ "tomadas_celular": [
+  "Duas pessoas em plano conjunto no escritório, luz de janela lateral, câmera na mão, 6s.",
+  "Panorâmica curta seguindo a mão até uma estação de trabalho, luz ambiente uniforme, 6s; ocultar documentos.",
+  "Responsável em plano médio com espaço acima para inserir conversa fictícia, luz frontal suave, 11s.",
+  "Celular ou painel com dados de teste em close, brilho ajustado e luz sem reflexos, 4s para sobrepor à fala.",
+  "Visitante em plano médio falando do volume, luz lateral suave e fundo do escritório, 9s.",
+  "Visitante em close com gesto de indicação, mesma luz, 9s; editar a versão final para 41s usando o insert sobreposto."
+ ],
+ "caminho_ia": "Crie dois personagens fictícios com vozes sintéticas licenciadas. No Kling ou Veo, gere os bastidores: \"Vertical 9:16 handheld two-shot of two fictional colleagues in an open-plan office, glass partitions, exposed ceiling pipes, natural window light, one person asks a question while the other points off-camera, no logos.\" e \"Vertical 9:16 medium close-up of a fictional office manager explaining [product workflow], neutral office background, soft frontal daylight, open upper composition for a chat overlay, subtle handheld camera drift, no text or logos.\" No CapCut, insira conversa fictícia e número verificável; se não houver registro, use “Exemplo ilustrativo” e não trate o volume como resultado real. Identifique os personagens e a situação como simulação.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 41s de bastidores com duas pessoas: pergunta operacional concreta, gesto para a estação, revelação da solução, conversa sobreposta, volume documentado com período e CTA. Use câmera móvel, legendas brancas, insert de conversa no alto e número grande sobre o peito. Tom de conversa no escritório, cortes guiados por gesto e troca de interlocutor. Não copie nomes, marca, pessoas, número de conversas nem promessa da referência. Não atribua vendas à contagem de mensagens; se não houver dado comprovado, substitua o bloco por uma ação demonstrada, com duração equivalente. Use pt-BR falado, frases curtas e campos adaptáveis quando faltar informação. Não invente provas, preço, prazo ou funcionalidades. Não use antítese vazia, superlativos sem prova, tríades decorativas, perguntas de enfeite nem fechos de efeito.\n\nEstrutura de tempo e cenas:\n0-6s: Plano de duas pessoas no escritório, câmera móvel à altura do peito.\n6-12s: Responsável aponta para o posto de trabalho; câmera acompanha o gesto e volta ao interlocutor.\n12-23s: Interlocutor em plano médio; inserir conversa fictícia na parte superior sobre fundo claro.\n23-32s: Corte para visitante falando à câmera; número grande branco sobre o peito, com período menor.\n32-41s: Visitante em close gesticula para baixo; finalizar com ação disponível.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Um trecho da rotina de [operação]: [solução] cuida de [tarefa] e encaminha [tipo de caso] para a equipe. Veja [demonstração disponível] em [local de acesso].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ccebb12c",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-revelacao-equipe-agente/frames/f1.jpg",
+    "videos/vid-revelacao-equipe-agente/frames/f2.jpg",
+    "videos/vid-revelacao-equipe-agente/frames/f3.jpg",
+    "videos/vid-revelacao-equipe-agente/frames/f4.jpg",
+    "videos/vid-revelacao-equipe-agente/frames/f5.jpg"
+   ]
+  }
+ ]
+}

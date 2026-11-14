@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1092353066796143",
+  "tipo": "estatico",
+  "titulo": "Hábito repetido com retrato de tensão emocional",
+  "formato": "Alerta e educação",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo azul-escuro, a chamada destaca em amarelo a expressão sobre fazer algo uma única vez. A metade inferior mostra um homem sentado na cama com a mão na cabeça, seguido por um botão amarelo.",
+  "por_que_funciona": [
+    "O trecho amarelo no título enfatiza a justificativa ligada à repetição do hábito.",
+    "A expressão facial e a mão na cabeça ilustram tensão emocional.",
+    "A cama situa a cena em um contexto íntimo e cotidiano.",
+    "O botão amarelo na base repete a cor do destaque e fecha o percurso visual."
+  ],
+  "quando_usar": "Como referência de composição para eventos de desenvolvimento pessoal, reformulando a abordagem para não presumir vícios ou condições emocionais do leitor.",
+  "estrutura_texto": "[Evento e modalidade]\n[Frase sobre repetição de hábitos]\n[Trecho de destaque]\n[Convite para refletir sobre hábitos]\n[Proposta educativa do evento]\n[CTA de inscrição]",
+  "legenda": "Conheça o evento [nome], dedicado a [tema de desenvolvimento pessoal]. Veja a programação, o formato e as datas em [link] e escolha sua participação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça um anúncio com fundo azul-marinho, identificação pequena no topo usando a IMAGEM 2 e título branco central com um trecho amarelo. Abaixo, inclua duas linhas de apoio em linguagem educativa. Use na metade inferior uma pessoa adulta sentada à beira da cama, com expressão pensativa e luz lateral suave, e um botão amarelo arredondado na base. Não afirme que o leitor possui vícios ou transtornos e não prometa tratamento.",
+  "alerta_politica": "Meta: a abordagem em segunda pessoa presume vício e sofrimento emocional; reformular sem atribuir condição de saúde ao leitor. Não reproduzir alegações de redução de ansiedade ou depressão sem comprovação adequada nem apresentar o evento como tratamento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1092353066796143",
+    "anunciante": "Método CIS",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-20",
+    "dias_no_ar": 86,
+    "variacoes_ativas": 1,
+    "texto_original": "O maior evento de inteligência emocional do mundo chega a Goiânia.\n\nNão é papo de autoajuda: pesquisas aplicadas com participantes do Método CIS apontam 78% de redução em sintomas de ansiedade e 93% em sintomas de depressão. \nEm 27 anos, já foram mais de 1,8 milhão de pessoas treinadas!\n\nEssa é a edição 252, no formato CIS Conceito, com vagas limitadas.\n\n📅 Goiânia, 15, 16 e 17 de outubro.\n\n👉 Garanta seu lugar agora. Clique em \"Saiba mais\".",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1092353066796143.jpg"
+}

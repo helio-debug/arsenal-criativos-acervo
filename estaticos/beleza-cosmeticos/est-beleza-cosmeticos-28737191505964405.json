@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-28737191505964405",
+  "tipo": "estatico",
+  "titulo": "Frasco cercado por avaliações de compradores",
+  "formato": "Depoimento em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Frasco de shampoo central sobre fundo preto com luz vermelha. Cinco caixas de avaliações com estrelas cercam o produto sob uma chamada sobre queda capilar.",
+  "por_que_funciona": [
+    "Cinco caixas com estrelas tornam a prova social parte central da composição.",
+    "A tampa vermelha repete a cor de destaque do título.",
+    "O frasco central conecta as avaliações ao produto apresentado.",
+    "As caixas distribuídas nas laterais criam vários pontos curtos de leitura."
+  ],
+  "quando_usar": "Para responder a dúvidas de compra com avaliações autênticas e autorizadas, limitadas a experiências e benefícios permitidos.",
+  "estrutura_texto": "[Chamada sobre experiências de compradores]\n[Produto]\n[Avaliação real 1 + estrelas]\n[Avaliação real 2 + estrelas]\n[Avaliação real 3 + estrelas]",
+  "legenda": "Veja o que compradores relatam sobre [produto] na rotina de [cuidado]. Confira avaliações verificadas e conheça [característica comprovada] para decidir sua próxima compra.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho vermelho discreto, frasco grande ao centro e título branco com trecho em vermelho. Distribua cinco cartões claros com avaliações reais e estrelas nas laterais. Use [avaliação verificada] como marcador se não houver depoimentos fornecidos. Não invente nomes, estrelas, prazos ou resultados.",
+  "alerta_politica": "Meta/ANVISA: depoimentos não dispensam comprovação das alegações; evitar promessas de crescimento, prevenção de queda hereditária e resultados rápidos sem enquadramento e evidência adequados. Usar avaliações autênticas com autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28737191505964405",
+    "anunciante": "Alpecin Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 1,
+    "texto_original": "Quando você lê os comentários, o padrão aparece.\n\nRotina simples, uso consistente e a forma como o cabelo responde com o tempo.\n\nNão é sobre uma percepção isolada, mas sobre o que se repete entre diferentes experiências.\n\n#alpecin #resultadoreal #cuidadocapilar #quedahereditaria #tecnologiaalemã",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-28737191505964405.jpg"
+}

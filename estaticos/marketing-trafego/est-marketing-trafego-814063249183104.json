@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-814063249183104",
+  "tipo": "estatico",
+  "titulo": "Palavra central sobre pincelada e convite para seguir",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul vivo com recortes brancos arredondados nos cantos. Uma palavra grande sobre pincelada branca domina o centro, seguida de uma linha sobre dicas e estratégias e um convite para seguir.",
+  "por_que_funciona": [
+    "A palavra central em caixa alta concentra a atenção na proposta de conteúdo.",
+    "A pincelada branca cria contraste para o título azul.",
+    "A linha abaixo especifica o assunto do perfil.",
+    "O botão branco isolado na base deixa o convite para seguir fácil de localizar."
+  ],
+  "quando_usar": "Para atrair seguidores para um perfil de conteúdo ligado a cursos e ferramentas de marketing.",
+  "estrutura_texto": "[assinatura]\n[atributo principal do conteúdo]\nDICAS E ESTRATÉGIAS DE [tema]\nSIGA [perfil]",
+  "legenda": "Ferramentas e treinamentos para melhorar [atividade de marketing]. Siga [perfil] e acompanhe conteúdos sobre [tema].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul vivo, recortes orgânicos brancos nos cantos e assinatura pequena no alto. No centro, aplique uma pincelada branca horizontal com uma palavra azul muito grande em caixa alta. Abaixo, coloque a descrição do conteúdo em branco e fonte fina. Na base, insira um pequeno botão branco com convite para seguir. Mantenha o produto como referência temática, sem inserir foto que prejudique a composição tipográfica.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "814063249183104",
+    "anunciante": "DigitalMarketer",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2021-03-11",
+    "dias_no_ar": 2074,
+    "variacoes_ativas": 1,
+    "texto_original": "Tools and trainings to out-market the competition.\nDigitalMarketer\nProduct/Service\n843.018 pessoas curtiram isso\nCurtir Página",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-814063249183104.jpg"
+}

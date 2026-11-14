@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-3753021158177743",
+  "tipo": "estatico",
+  "titulo": "Evento tributário com palestrante e data em destaque",
+  "formato": "Comunicado oficial",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de um palestrante com microfone ocupa a direita. Sobre fundo claro texturizado, o lado esquerdo reúne tema tributário, proposta do encontro, data e cidade; aviões ilustrados conectam a identidade.",
+  "por_que_funciona": [
+    "O palestrante com microfone evidencia o contexto de apresentação presencial.",
+    "A data em negrito e a cidade em faixa azul facilitam localizar quando e onde.",
+    "O texto sobre reforma tributária delimita o assunto do evento.",
+    "Os aviões e as curvas coloridas repetem um motivo visual reconhecível."
+  ],
+  "quando_usar": "Para apresentar um encontro técnico a profissionais interessados no tema e na cidade anunciada.",
+  "estrutura_texto": "[Nome do evento]\nCOM [especialista]\n[Chamada sobre o tema]:\n[Benefício do conteúdo]\n[Data]\nEM [cidade]\n[Organização]",
+  "legenda": "Participe de [evento] em [data], em [cidade]. Um dia de conteúdo técnico sobre [tema], voltado a [público], com foco em [aplicação prática]. Consulte a programação em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione a foto do especialista à direita e o texto à esquerda sobre fundo bege texturizado. Use verde, azul e amarelo como acentos, título compacto no alto, benefício ao centro e data e cidade em letras grandes na parte inferior. Adicione um motivo gráfico próprio de deslocamento sem copiar a ilustração da referência. Não prometa lucro ou redução de riscos como resultado garantido.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3753021158177743",
+    "anunciante": "Elcio Ghioto - Educação Tributária Prática",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-26",
+    "dias_no_ar": 567,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 TRIBUTARISTAS, apertem os cintos: VAMOS DECOLAR!\n\nA Reforma Tributária já começou. E a forma como você se posiciona diante dela vai definir seus próximos anos no mercado.\n\nNo dia 06 de junho, começa oficialmente a Reforma Brasil com Elcio Ghioto, um movimento que nasce com um objetivo claro: transformar impacto em oportunidade.\n\nAo longo de um dia completo em Cuiabá, empresários, contadores e tributaristas vão ter acesso a um conteúdo técnico, atualizado e com foco na realidade do mercado tributário – reforma tributária + agronegócio, para que possam:\n✔ Vislumbrar onde estão as grandes oportunidades;\n✔ Reduzir riscos tributários\n✔ Atualizar estratégias\n✔ Decidir com base em dados\n✔ Ampliar visão sobre a nova estrutura fiscal\n\n📌 Se você atua com planejamento e gestão tributária, esse evento não é só uma oportunidade — é uma convocação.\n\nA nova realidade tributária exige preparação, clareza e ação. Este é o espaço para isso.\n\n📍 Data: 06.06.2025\n📍 Horário: 8h30 às 18h30\n📍 Local: Coco Bambu – Shopping Estação Cuiabá\n🧭 A reforma é inevitável. A estagnação, não. Está nas suas mãos. \n\nQuer mais informações? Comente PRESENCIAL.\n\n#ReformaBrasil #ElcioGhioto #ReformaTributária #Agronegócio #PlanejamentoFiscal #ConsultoriaTributária #GestãoTributária #EventoTributário #Tributarista360",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-3753021158177743.jpg"
+}

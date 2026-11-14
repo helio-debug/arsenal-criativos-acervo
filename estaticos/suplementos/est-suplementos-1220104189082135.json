@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1220104189082135",
+  "tipo": "estatico",
+  "titulo": "Pote de suplemento com preço e endereço",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Pote de whey ocupa quase toda a peça sobre fundo escuro de academia. O preço e o parcelamento aparecem em etiquetas vermelhas, com endereço e identificação da loja no rodapé.",
+  "por_que_funciona": [
+    "O pote grande mantém o produto como foco da oferta.",
+    "A etiqueta vermelha com preço se destaca sobre o fundo preto.",
+    "A linha “10x no cartão” apresenta uma condição concreta de compra.",
+    "O endereço com ícone de localização orienta a visita à loja."
+  ],
+  "quando_usar": "Para uma loja física divulgar produto específico com preço, condição de pagamento e localização.",
+  "estrutura_texto": "[Nome da loja]\n[Referência de localização]\n[Produto]\nR$ [preço]\n[Parcelas] no cartão\n[Endereço]\n[Assinatura da loja]",
+  "legenda": "Venha conhecer [loja] em [local]. Encontre [produto] por R$ [preço], com pagamento em [condição]. Confira disponibilidade e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com fundo de academia escuro e desfocado. Centralize uma embalagem grande da IMAGEM 2, mantendo seu rótulo. No topo, escreva nome da loja em branco condensado e referência de localização menor. Abaixo do produto, sobreponha etiqueta vermelha inclinada com preço branco grande e etiqueta menor com parcelamento. No rodapé, inclua ícone de localização, endereço fornecido e assinatura da loja.",
+  "alerta_politica": "Meta/ANVISA: usar apenas alegações autorizadas para o suplemento e compatíveis com o rótulo. Não prometer cura, prevenção de doenças ou resultado físico garantido; alegações de composição devem ser comprováveis. Informar preço total e condições do parcelamento; não presumir ausência de juros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1220104189082135",
+    "anunciante": "JPS Suplementos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-12-16",
+    "dias_no_ar": 698,
+    "variacoes_ativas": 1,
+    "texto_original": "Venha nos visitar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1220104189082135.jpg"
+}

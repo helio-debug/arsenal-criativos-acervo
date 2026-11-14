@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2162595714323188",
+  "tipo": "estatico",
+  "titulo": "Vestibular com cursos e data da prova",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Estudante com livros ocupa a metade esquerda diante de arcos verdes luminosos. À direita, texto branco anuncia o vestibular e lista cursos; inscrição e data ficam na base.",
+  "por_que_funciona": [
+    "Os livros e o estudante identificam rapidamente o contexto acadêmico.",
+    "O título branco tem contraste forte com o fundo escuro.",
+    "A lista permite localizar as áreas de formação oferecidas.",
+    "A data da prova fica junto da chamada de inscrição."
+  ],
+  "quando_usar": "Para anunciar inscrições de vestibular com cursos definidos e data confirmada.",
+  "estrutura_texto": "Vestibular [instituição] [ano]\n[Chamada de ingresso]\n[Áreas e cursos]\nINSCREVA-SE\nProva: [data]",
+  "legenda": "Conheça os cursos de [áreas] de [instituição] e a proposta de aprendizado com [diferencial comprovado]. Inscreva-se no vestibular de [ano]. Prova em [data].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição horizontal com foto do produto à esquerda, fundo preto esverdeado e arcos verdes luminosos atrás da imagem. Coloque à direita chamada em fonte serifada branca, identificação do processo seletivo acima e cursos abaixo. Na base, destaque [CTA] e [data da prova].",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2162595714323188",
+    "anunciante": "Centro Universitário FEI",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 1,
+    "texto_original": "Seja em Engenharia, Administração, Ciência da Computação ou Ciência de Dados e IA, a FEI oferece o ecossistema ideal para impulsionar seu aprendizado na prática. Garanta sua vaga em uma das áreas mais estratégicas e valorizadas do mercado. Inscreva-se para o Vestibular 2027 com prova no dia 29/11 e assegure uma formação de prestígio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2162595714323188.jpg"
+}

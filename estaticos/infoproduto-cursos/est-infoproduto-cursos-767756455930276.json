@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-767756455930276",
+  "tipo": "estatico",
+  "titulo": "Lista de benefícios ao lado do instrutor e da ferramenta",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo cinza, o curso é apresentado em título verde e preto e checklist de benefícios. Um instrutor segurando uma pistola de pintura aparece em recorte circular com borda verde.",
+  "por_que_funciona": [
+    "A ferramenta na mão do instrutor mostra imediatamente a atividade ensinada.",
+    "Os marcadores verdes facilitam a leitura dos itens incluídos no curso.",
+    "O selo de quantidade de alunos fornece prova social numérica.",
+    "O botão verde destaca a abertura de inscrições."
+  ],
+  "quando_usar": "Para cursos profissionais que precisam apresentar conteúdo, suporte e condições de acesso em uma peça.",
+  "estrutura_texto": "Curso online\n[Nome da formação]\nMais de [quantidade] alunos\n✓ [Suporte]\n✓ [Certificado]\n✓ [Prazo de acesso]\n✓ [Volume de aulas]\n✓ [Nível]\n✓ [Bônus]\nInscrições abertas",
+  "legenda": "Aprenda [habilidade] com o curso [nome], de [nível inicial] a [nível final]. Inclui [quantidade de aulas], [suporte], [certificado] e [condição de acesso]. Veja como funciona e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza-claro e paleta verde e preta. Coloque o título no terço superior, checklist à esquerda e foto do instrutor com ferramenta da atividade em um círculo grande à direita. Inclua selo de alunos somente com número comprovado e uma cápsula verde de inscrições abaixo da lista. Preserve espaço livre no topo e no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "767756455930276",
+    "anunciante": "Pintura automotiva passo a passo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-15",
+    "dias_no_ar": 487,
+    "variacoes_ativas": 3,
+    "texto_original": "✨Transforme suas horas vagas em renda extra. \nCom esse curso você aprende uma profissão lucrativa e ainda pode começar na garagem da sua casa \n\n🚀Se inscreva Agora mesmo e comece a lucrar. \n\nGrupo vip para tirar dúvidas \nAcesso vitalício\n🎁Bônus Exclusivo\n📲💻Assista pelo celular ou pelo computador\n👨🎓Certificado\n\nSe caso tenha dúvidas de como funciona chama no nosso whatsapp 19 983433517 \nEspero você nas aulas.\nAprenda Pintura Automotiva\nDo Iniciante ao Profissional",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-767756455930276.jpg"
+}

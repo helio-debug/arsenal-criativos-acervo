@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2269430657138824",
+  "tipo": "estatico",
+  "titulo": "Petisco incomum em close desperta curiosidade",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Uma mão segura um petisco em formato de orelha diante de um cachorro. Texto no topo e uma caixa branca no meio apresentam uma reação de espanto e convidam a conhecer o item.",
+  "por_que_funciona": [
+    "O petisco ocupa quase toda a altura e evidencia sua aparência incomum.",
+    "A mão oferece escala para o tamanho do objeto.",
+    "O cachorro ao fundo contextualiza o uso do petisco.",
+    "A caixa branca com reticências convida a descobrir o contexto."
+  ],
+  "quando_usar": "Para divulgar conteúdo de curiosidades pet em um aplicativo, com um objeto incomum que apareça no conteúdo de destino.",
+  "estrutura_texto": "esses [ITENS] me [REAÇÃO]\ncada vez mais\nConheça o [ITEM] mais [ADJETIVO] de todos...",
+  "legenda": "Explore [curiosidades sobre animais] em [aplicativo]. Acompanhe [criadores ou temas] e descubra [tipo de conteúdo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Preencha o fundo com foto de uma mão segurando um item pet incomum, em primeiro plano, e um cachorro ao fundo. Posicione uma reação curta em letras brancas com contorno preto no topo. No terço inferior, use caixa branca arredondada com chamada de curiosidade em preto. Preserve a aparência espontânea de conteúdo de celular e adapte o objeto ao conteúdo anunciado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2269430657138824",
+    "anunciante": "TikTok- Global",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 5,
+    "texto_original": "fique por dentro de tudo com o TikTok",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2269430657138824.jpg"
+}

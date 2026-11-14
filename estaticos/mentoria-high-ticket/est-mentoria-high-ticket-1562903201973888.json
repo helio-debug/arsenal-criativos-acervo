@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1562903201973888",
+  "tipo": "estatico",
+  "titulo": "Mentoria apresentada em bloco de notícia",
+  "formato": "novo:Notícia editorial",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "garantia",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de um palestrante com microfone serve de fundo para um grande bloco branco. Uma editoria em tarja vermelha antecede a manchete da mentoria, a garantia e a chamada para inscrição.",
+  "por_que_funciona": [
+    "A tarja de editoria separa o tema da manchete e organiza a entrada de leitura.",
+    "A foto com microfone mostra o representante da oferta em contexto de apresentação.",
+    "A manchete vermelha concentra o problema operacional abordado pela mentoria.",
+    "A garantia e o convite para inscrição ficam próximos dentro do mesmo bloco branco."
+  ],
+  "quando_usar": "Para apresentar uma mentoria empresarial com foco em delegação e rotina comercial, quando houver garantia contratual com condições claras.",
+  "estrutura_texto": "#[Editoria]\n[Programa] lança mentoria para [público] que busca [objetivo]\n[Garantia com condições]\nClique em [botão] e [ação]",
+  "legenda": "Quando decisões comerciais e negociações dependem do dono, fica difícil criar uma rotina de gestão. Conheça [mentoria] para desenvolver [processos e liderança da equipe]. Consulte o programa, os critérios de participação e as condições de [garantia] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto autorizada do especialista palestrando com microfone, com ambiente escuro e pontos de luz ao fundo. Sobreponha um grande retângulo branco na metade inferior, precedido por uma tarja vermelha de [tema]. Dentro do bloco, use manchete vermelha grande, explicação cinza com [garantia comprovada] em negrito vermelho e CTA menor na base. Inclua identificação clara de publicidade e identidade própria; não simule endosso de veículo jornalístico. Não use exclusividade como “a única” sem comprovação e explicite as condições da garantia.",
+  "alerta_politica": "Garantias de resultados e reembolso precisam de condições claras e comprováveis. Não apresente publicidade como reportagem independente nem use exclusividade sem evidência.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1562903201973888",
+    "anunciante": "Metta",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-13",
+    "dias_no_ar": 93,
+    "variacoes_ativas": 1,
+    "texto_original": "Você é o maior vendedor da sua empresa. E isso está te custando caro.\n\nToda semana a conta complicada volta pra sua mesa. \n\nToda negociação travada sobe pra você. O cliente grande só confia se for contigo. Quando viaja, o número cai. \n\nQuando desliga o WhatsApp no domingo, a culpa bate na segunda.\n\nEmpresa saudável não precisa do dono vendendo. \n\nPrecisa de um time que sabe o que fazer hoje para bater a meta do mês, um líder que corrige erro antes de virar prejuízo e uma rotina que não depende de vendedor estrelinha.\n\nÉ isso que a programa SMTM instala na sua operação. \n\nMais de 1000 empresas aplicaram, R$ 8,5 bilhões em metas batidas em 12 meses.\n\nAplique no link se sua empresa fatura acima de R$ 200 mil por mês.\nMetta\nA Mentoria que gerou R$8,2 bilhões em 12 meses.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1562903201973888.jpg",
+  "formato_novo_def": "Peça publicitária organizada como chamada de notícia: editoria, manchete, linha de apoio e CTA sobre bloco editorial. A composição não corresponde a um comunicado institucional formal."
+}

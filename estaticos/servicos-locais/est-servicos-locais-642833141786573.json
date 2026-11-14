@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-642833141786573",
+  "tipo": "estatico",
+  "titulo": "Parquinho gratuito com horário em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo laranja com recortes magenta e personagens coloridos anuncia um parquinho gratuito. Horários ficam no centro e uma chamada azul aparece abaixo.",
+  "por_que_funciona": [
+    "“Grátis” em letras grandes torna o benefício principal fácil de localizar.",
+    "Os horários centralizados ajudam a planejar a visita.",
+    "As cores fortes e os personagens remetem ao universo infantil.",
+    "A caixa azul separa o convite para conhecer o espaço."
+  ],
+  "quando_usar": "Para restaurantes e espaços de lazer divulgarem área infantil gratuita a responsáveis planejando uma visita.",
+  "estrutura_texto": "Parquinho\nGrátis\n[Descrição comprovável do espaço]\nFUNCIONAMENTO:\n[Dias]\n[Horários]\n[Convite para visita]\n[Marca]",
+  "legenda": "Conheça [espaço infantil] dentro de [tipo de estabelecimento], em [local]. O parquinho tem [condições da gratuidade] e funciona [dias], das [horário] às [horário]. Confira [regras de acesso] e planeje sua visita.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja com formas geométricas magenta nas bordas e personagens infantis originais nos cantos. Centralize título branco arredondado com sombra magenta, descrição curta, bloco de funcionamento e botão visual azul de convite. Insira a foto do espaço da IMAGEM 2 em área integrada ao layout, preservando a leitura. Esclareça condições da gratuidade e use superlativos somente com comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "642833141786573",
+    "anunciante": "Coco Bambu São Paulo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-02",
+    "dias_no_ar": 591,
+    "variacoes_ativas": 1,
+    "texto_original": "🎡 Venha conhecer o maior parque e espaço de festas infantis dentro de um restaurante em São Paulo! \n \nO Plus, uma marca @cocobambuoficial chegou para fazer a alegria da criançada. \n\n- Espaço para 300 crianças\n- Capacidade para 3 eventos simultâneos\n\nEstamos abertos todos os dias, das 12h às 23h\n \nVenha para o Plus no Coco Bambu Anhembi! \nSiga o @plussaopaulo \n \n#PlusSãoPaulo #Brinquedoteca #Buffet #FestaInfantil #SãoPaulo #EspaçoKids #CocoBambu\nVenha Conhecer",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-642833141786573.jpg"
+}

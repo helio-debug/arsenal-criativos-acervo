@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1152465066950065",
+  "tipo": "estatico",
+  "titulo": "Post de especialista com manchete jurídica",
+  "formato": "Post e comentários",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Cartão branco simula uma publicação de perfil com foto, nome e selo azul. Manchete jurídica em preto antecede foto de tribunal, com quatro pontos de carrossel na base.",
+  "por_que_funciona": [
+    "O cabeçalho de perfil dá contexto de autoria ao conteúdo.",
+    "A manchete em negrito ocupa o primeiro bloco de leitura.",
+    "A foto do tribunal ancora visualmente o assunto institucional.",
+    "Os pontos inferiores indicam continuação em outras telas."
+  ],
+  "quando_usar": "Para perfis educativos de direito apresentarem uma atualização e levarem à leitura da explicação completa, após conferir o alcance da decisão.",
+  "estrutura_texto": "[Nome do autor]\n[@perfil]\n[Órgão] MUDA [Tema]:\n[Resumo preciso da alteração]\n[Imagem institucional]\n[Indicador de carrossel]",
+  "legenda": "O julgamento de [tema] definiu critérios sobre [questão jurídica]. Veja o alcance da decisão, as hipóteses abrangidas e as exceções em [conteúdo completo]. Consulte [fonte oficial e data] antes de aplicar a informação a um caso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, cabeçalho com retrato autorizado da IMAGEM 2, nome e identificador próprios. Abaixo, disponha manchete preta em negrito e foto institucional com cantos arredondados. Inclua quatro pontos na base somente se houver carrossel real. Não reproduza selo de verificação sem autorização. Redija resumo preciso da decisão, sem afirmação absoluta de extinção de direitos ou responsabilidades.",
+  "alerta_politica": "Conteúdo jurídico deve refletir o alcance e as exceções da decisão, sem manchete enganosa ou promessa de resultado. Verifique a fonte oficial antes de veicular e observe as regras de publicidade da OAB.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1152465066950065",
+    "anunciante": "execucao.efetiva",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-17",
+    "dias_no_ar": 393,
+    "variacoes_ativas": 1,
+    "texto_original": "Encerrado o julgamento do Tema 1232 com a fixação das seguintes teses:\n\n“1 - O cumprimento da sentença trabalhista não poderá ser promovido em face de empresa que não tiver participado da fase de conhecimento do processo, devendo o reclamante indicar na petição inicial as pessoas jurídicas corresponsáveis solidárias contra as quais pretende direcionar a execução de eventual título judicial, inclusive nas hipóteses de grupo econômico (art. 2°, §§ 2° e 3°, da CLT), demonstrando concretamente, nesta hipótese, a presença dos requisitos legais;\n\n2 - Admite-se, excepcionalmente, o redirecionamento da execução trabalhista ao terceiro que não participou do processo de conhecimento nas hipóteses de  sucessão empresarial (art. 448-A da CLT) e abuso da personalidade jurídica (art. 50 do CC), observado o procedimento previsto no art. 855-A da CLT e nos arts. 133 a 137 do CPC;\n\n3 - Aplica-se tal procedimento mesmo aos redirecionamentos operados antes da Reforma Trabalhista de 2017, ressalvada a indiscutibilidade relativa aos casos já transitados em julgado, aos créditos já satisfeitos e às execuções findas ou definitivamente arquivadas”.\n\nFicaram vencidos apenas os Min. Edson Fachin e Alexandre de Moraes\n\n👉🏽 E você?? O que achou da decisão??",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1152465066950065.jpg"
+}

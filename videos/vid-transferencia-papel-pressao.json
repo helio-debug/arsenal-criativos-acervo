@@ -1,0 +1,73 @@
+{
+  "id": "vid-transferencia-papel-pressao",
+  "tipo": "video",
+  "titulo": "Teste de transferência em papel com tempo de secagem na tela",
+  "formato_video": "teste-transferencia",
+  "nichos": [
+    "beleza-cosmeticos"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Quanto desse [produto] fica no papel?",
+    "texto_tela": "Aplicação e secagem",
+    "visual": "Aplica faixa de maquiagem na pele ou placa"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Aplica faixa de maquiagem na pele ou placa",
+      "fala": "Vou usar [quantidade] e aguardar [tempo indicado].",
+      "texto_tela": "Aplicação e secagem"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Contador com posição fixa registra espera",
+      "fala": "O tempo de espera foi [tempo real].",
+      "texto_tela": "[tempo]"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Pressiona papel branco com pressão padronizada",
+      "fala": "Encostei o papel por [tempo], sem esfregar.",
+      "texto_tela": "Uma pressão, sem esfregar"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Exibe papel e área aplicada juntos",
+      "fala": "Ficou esta marca no papel, nestas condições. Veja o modo de uso.",
+      "texto_tela": "Resultado deste teste"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra aplica faixa de maquiagem na pele ou placa, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém a medição e as condições do teste visíveis.",
+    "O fechamento exibe exibe papel e área aplicada juntos, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é teste de transferência em papel com tempo de secagem na tela.",
+  "roteiro_modelo": "[Abertura] Quanto desse [produto] fica no papel?\n[0-4s] Vou usar [quantidade] e aguardar [tempo indicado].\n[4-10s] O tempo de espera foi [tempo real].\n[10-18s] Encostei o papel por [tempo], sem esfregar.\n[18-25s] Ficou esta marca no papel, nestas condições. Veja o modo de uso.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Aplica faixa de maquiagem na pele ou placa.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Contador com posição fixa registra espera.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Pressiona papel branco com pressão padronizada.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Exibe papel e área aplicada juntos."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, aplica faixa de maquiagem na pele ou placa, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, contador com posição fixa registra espera, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Teste de transferência em papel com tempo de secagem na tela. Preserve esta mecânica: Aplica faixa de maquiagem na pele ou placa; Contador com posição fixa registra espera; Pressiona papel branco com pressão padronizada; Exibe papel e área aplicada juntos. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não usar filtros, retoque de pele ou iluminação diferente para fabricar resultado. Testes mostram apenas as condições registradas e não comprovam efeito clínico. ",
+  "legenda": "Veja [produto] de perto: teste de transferência em papel com tempo de secagem na tela. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": "Não prometer cura, emagrecimento ou mudança corporal. Usar somente alegações autorizadas para a categoria e respaldadas pelo rótulo; conferir regras aplicáveis de publicidade, regularização, advertências e restrições de uso. Não atribuir condição de saúde ao público. Não usar filtros, retoque de pele ou iluminação diferente para fabricar resultado. Testes mostram apenas as condições registradas e não comprovam efeito clínico. ",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1464667724763792",
+      "dias_no_ar": 205,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência de produto e argumento comercial consultada pela copy local. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

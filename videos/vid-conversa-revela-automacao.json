@@ -1,0 +1,96 @@
+{
+ "id": "vid-conversa-revela-automacao",
+ "titulo": "Celular com conversa em andamento revela automação e abre o fluxo em infográficos",
+ "formato_video": "split-screen",
+ "nichos": [
+  "saas-b2b",
+  "ia-ferramentas",
+  "servicos-locais",
+  "imoveis"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "60-65s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Olha esta conversa sobre [produto]. A pessoa perguntou [dúvida comum] e recebeu [orientação].",
+  "texto_tela": "[DÚVIDA] → [PRÓXIMO PASSO]",
+  "visual": "Tela dividida: conversa demonstrativa desenhada no painel bege superior; apresentador em plano médio embaixo, segurando o celular junto ao rosto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentador mostra celular; balões genéricos entram no painel superior. Faixa branca com borda irregular separa as metades.",
+   "fala": "Olha esta conversa sobre [produto]. A pessoa perguntou [dúvida comum] e recebeu [orientação].",
+   "texto_tela": "[DÚVIDA DO CLIENTE]"
+  },
+  {
+   "tempo": "8-16s",
+   "cena": "Aproximação do rosto. No alto, ícones de pessoas dão lugar ao símbolo do recurso explicado.",
+   "fala": "Essa é uma simulação. O que permite essa resposta é [recurso do produto]. Ele usa [informação necessária] para indicar [próximo passo].",
+   "texto_tela": "COMO FUNCIONA"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Ícones simples mostram a situação anterior e o ponto em que o recurso entra.",
+   "fala": "Hoje, quando chega [pedido comum], alguém precisa [tarefa manual]. Com [produto], essa etapa segue [regra definida].",
+   "texto_tela": "[TAREFA] → [REGRA]"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Fluxo no painel: entrada, processamento e saída. Uma palavra verde acompanha cada etapa.",
+   "fala": "O caminho começa em [entrada]. Depois, [ação do recurso]. A saída é [entrega concreta], que pode ser conferida em [local de consulta].",
+   "texto_tela": "[ENTRADA] → [AÇÃO] → [ENTREGA]"
+  },
+  {
+   "tempo": "39-51s",
+   "cena": "Ícone de registro no topo; apresentador aponta para cima. Corte para plano mais próximo.",
+   "fala": "Se faltar [informação], o processo pede uma confirmação. Quando precisar de uma pessoa, encaminha para [responsável]. Você acompanha [registro disponível].",
+   "texto_tela": "[CONFIRMAÇÃO] / [RESPONSÁVEL]"
+  },
+  {
+   "tempo": "51-65s",
+   "cena": "Painel resume o fluxo; celular sai do quadro e apresentador olha para a lente.",
+   "fala": "Para avaliar no seu caso, separe [informação do cliente]. No link, veja [demonstração do produto] e confira se ele atende [necessidade específica].",
+   "texto_tela": "VEJA [DEMONSTRAÇÃO]"
+  }
+ ],
+ "por_que_funciona": [
+  "O celular erguido no primeiro frame dá um objeto concreto à conversa descrita na fala.",
+  "O painel bege separa os ícones da fala do apresentador e mantém o fluxo legível.",
+  "As faixas brancas com palavras verdes destacam a ideia do momento, como o encaminhamento para a equipe.",
+  "A passagem de conversa para ícones de registro e funil acompanha a explicação do processo."
+ ],
+ "quando_usar": "Para produtos que precisam explicar um processo ou recurso. Use no meio do funil, quando a pessoa já entende o problema e quer ver como a solução opera.",
+ "roteiro_modelo": "Olha esta conversa sobre [produto]. A pessoa perguntou [dúvida comum] e recebeu [orientação].\n\n[Pausa curta. Corte.]\n\nEssa é uma simulação. O que permite essa resposta é [recurso do produto]. Ele usa [informação necessária] para indicar [próximo passo].\n\n[Pausa curta. Corte.]\n\nHoje, quando chega [pedido comum], alguém precisa [tarefa manual]. Com [produto], essa etapa segue [regra definida].\n\n[Pausa curta. Corte.]\n\nO caminho começa em [entrada]. Depois, [ação do recurso]. A saída é [entrega concreta], que pode ser conferida em [local de consulta].\n\n[Pausa curta. Corte.]\n\nSe faltar [informação], o processo pede uma confirmação. Quando precisar de uma pessoa, encaminha para [responsável]. Você acompanha [registro disponível].\n\n[Pausa curta. Corte.]\n\nPara avaliar no seu caso, separe [informação do cliente]. No link, veja [demonstração do produto] e confira se ele atende [necessidade específica].",
+ "tomadas_celular": [
+  "Plano médio vertical com celular ao lado do rosto, luz de janela frontal e fundo com luminária quente; grave 8s.",
+  "Close do rosto explicando o recurso, mesma luz e câmera na altura dos olhos; grave 8s.",
+  "Plano médio com gesto para a metade superior vazia da composição, luz frontal suave; grave 11s.",
+  "Plano médio narrando as etapas, celular fixo e luz frontal; grave 12s.",
+  "Close explicando confirmação e atendimento humano, luz suave lateral; grave 12s.",
+  "Plano médio olhando para a lente no convite final, mesma luz; grave 14s. Crie os diagramas e balões no editor, sem dados de clientes."
+ ],
+ "caminho_ia": "Faça o apresentador com avatar autorizado e voz sintética em pt-BR. Use Veo para dois planos de apoio: \"Vertical 9:16 medium shot of a generic presenter holding a smartphone demonstrating [product], warm practical lights, soft frontal key light, locked camera, no logos, no readable screen text\" e \"Vertical 9:16 close-up of the same fictional presenter explaining [product workflow], eye-level camera, subtle hand gestures, consistent warm background, no text\". No CapCut, recorte o apresentador na metade inferior e monte no alto balões e ícones sobre fundo bege. Insira textos no editor, sincronizados com a voz; rotule a conversa como demonstração.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto, sem reproduzir a identidade ou as afirmações da peça.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 65s em seis blocos: 0-8 conversa; 8-16 revelação do recurso; 16-27 tarefa; 27-39 fluxo; 39-51 exceção e encaminhamento; 51-65 convite. Mantenha o apresentador embaixo e o infográfico bege em cima. Use faixas brancas de borda irregular, palavras verdes e ícones simples. Tom explicativo, com cortes na mudança de etapa. Se o produto não automatiza nada, explique seu processo real sem atribuir automação. Identifique conversas simuladas. Não copie nomes, pessoas reconhecíveis, marcas, interfaces identificáveis, dados pessoais nem falas da referência. Use apenas dados verificáveis fornecidos por mim; se faltarem, sinalize com [dado a verificar]. Não invente depoimentos, estatísticas ou resultados. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas decorativas, antíteses vazias e promessa de resultado.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja como [produto] lida com [situação concreta]. O fluxo vai de [entrada] até [entrega]. Confira [demonstração] no link.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-3ef6dff2",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-conversa-revela-automacao/frames/f1.jpg",
+    "videos/vid-conversa-revela-automacao/frames/f2.jpg",
+    "videos/vid-conversa-revela-automacao/frames/f3.jpg",
+    "videos/vid-conversa-revela-automacao/frames/f4.jpg",
+    "videos/vid-conversa-revela-automacao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

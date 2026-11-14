@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1383531740657414",
+  "tipo": "estatico",
+  "titulo": "Movimentação de produto ilustrada por leitura de código",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul escuro com frase grande na parte superior e foto retangular abaixo. Um profissional aponta um leitor para o código de barras de uma caixa, em ambiente de carga.",
+  "por_que_funciona": [
+    "A frase quebrada em quatro linhas cria uma sequência de leitura clara.",
+    "A palavra final laranja destaca a movimentação mencionada.",
+    "O leitor voltado à caixa materializa a captura de informação.",
+    "A foto de carga conecta o tema a uma rotina logística."
+  ],
+  "quando_usar": "Para serviços de identificação empresarial explicarem a continuidade de dados na movimentação de mercadorias.",
+  "estrutura_texto": "Um [PRODUTO]\nmuda de\n[LUGAR].",
+  "legenda": "Empresas e sistemas mudam. A informação de [produto] precisa continuar conectada ao longo de [etapas da operação]. Conheça [solução] para [aplicação comprovada].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo. Reserve o terço superior para frase alinhada à esquerda em fonte sem serifa: início fino, trecho intermediário em negrito e palavra final laranja. Abaixo, coloque foto retangular de profissional lendo a etiqueta de uma embalagem, com leitor próximo à câmera. Adapte a cena à IMAGEM 2 e mantenha margens amplas; use código ilustrativo sem marca.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1383531740657414",
+    "anunciante": "GS1 Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 1,
+    "texto_original": "Empresas mudam. Sistemas mudam. A informação precisa continuar conectada. Com a GS1 Brasil, pode confiar.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1383531740657414.jpg"
+}

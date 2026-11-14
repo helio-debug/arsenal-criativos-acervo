@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1769808930244426",
+  "tipo": "estatico",
+  "titulo": "Preparação para concurso com professores em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical em verde com cenário de plenário ao fundo, título no alto e dois professores de terno na metade inferior. Ícones apresentam três características do curso e uma chamada aponta para o site.",
+  "por_que_funciona": [
+    "O título especifica disciplina e carreira, delimitando o público.",
+    "Os retratos grandes e as credenciais abaixo identificam quem leciona.",
+    "Os três ícones resumem modalidade, perfil docente e foco do conteúdo."
+  ],
+  "quando_usar": "Para apresentar uma preparação por disciplina a candidatos de uma carreira específica.",
+  "estrutura_texto": "[Disciplina]\nPara os concursos de [carreira]\n[Modalidade] | [Qualificação docente] | [Característica do conteúdo]\n[CTA e endereço]\n[Professor 1 e credencial]\n[Professor 2 e credencial]",
+  "legenda": "Prepare-se para [concurso ou carreira] com um curso de [disciplina]. Aulas [modalidade], ministradas por [qualificações verificáveis], com foco em [escopo do conteúdo]. Conheça a metodologia em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical, fundo verde em degradê com ambiente institucional discreto. Centralize o título branco no alto e destaque a carreira em amarelo. Inclua uma linha de três ícones, CTA pequeno com endereço e dois retratos docentes grandes na metade inferior, com nomes e credenciais reais em legendas. Não invente aprovação ou títulos. ",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1769808930244426",
+    "anunciante": "Aprovação PGE",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-02-25",
+    "dias_no_ar": 627,
+    "variacoes_ativas": 1,
+    "texto_original": "📚 Quer aprender Direito Administrativo com quem aprova? Descubra a metodologia testada e aprovada que faz a diferença nos concursos de Advocacia Pública! 🔥\n\n💡 Sabe o que separa quem passa de quem fica pelo caminho? Uma preparação estratégica e focada no que REALMENTE cai na prova. E é exatamente isso que você encontra aqui! 🎯",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1769808930244426.jpg"
+}

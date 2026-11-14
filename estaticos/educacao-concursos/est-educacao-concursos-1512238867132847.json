@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1512238867132847",
+  "tipo": "estatico",
+  "titulo": "Resultado de aprovação com convite para conhecer a trajetória",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Peça preta com retrato de um aprovado em traje de festa. O texto branco destaca colocação, número de aprovações e tentativa, seguido de convite para deslizar.",
+  "por_que_funciona": [
+    "O retrato central associa a conquista a uma pessoa real.",
+    "A colocação em negrito é a primeira informação abaixo da foto.",
+    "Os números de aprovações e tentativas dão especificidade ao caso.",
+    "“Descubra o que mudou” abre uma pergunta respondida na sequência do carrossel."
+  ],
+  "quando_usar": "Para apresentar um caso documentado de preparação para provas e conduzir ao relato completo.",
+  "estrutura_texto": "[Colocação] em [especialidade ou prova].\n[Número] aprovações. [Número da tentativa].\nDescubra [mudança na preparação].\n[Convite para deslizar]",
+  "legenda": "Após [tentativa anterior], um aluno alcançou [resultado comprovado] em [prova]. Na preparação, contou com [acompanhamento] e [organização de estudos]. Veja o que mudou nessa trajetória e conheça [programa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, pequeno espaço de identidade visual no topo e retrato horizontal com cantos arredondados no centro superior. Abaixo, componha texto branco centralizado: resultado em negrito, linha com números do caso, convite para conhecer a mudança e chamada para deslizar no rodapé. Utilize somente resultados comprovados e retrato autorizado.",
+  "alerta_politica": "Não apresente aprovação ou colocação como resultado garantido. Use provas do caso e autorização para divulgar imagem e resultado do aluno.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1512238867132847",
+    "anunciante": "Q7 - Residência Médica com Sétimo Ano",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-17",
+    "dias_no_ar": 242,
+    "variacoes_ativas": 1,
+    "texto_original": "Na primeira tentativa, não deu.\n\nNa segunda, ele ficou em 1º lugar geral em Neurocirurgia.\n\nO que mudou?\n\nAcompanhamento. Organização. Direção.\n\nO resultado muda quando a preparação muda.\n\nA pergunta agora é:\n\nVocê vai fazer diferente esse ano?\nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica\n \nQ7 - Residência Médica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1512238867132847.jpg"
+}

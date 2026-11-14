@@ -1,0 +1,36 @@
+{
+  "id": "est-saude-549789004660581",
+  "tipo": "estatico",
+  "titulo": "Lista de exames com contato para agendar",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça branca e azul organiza os exames em duas colunas com marcadores. Na base, uma chamada sobre acesso aos exames acompanha preço acessível e telefones.",
+  "por_que_funciona": [
+    "As duas colunas acomodam muitas especialidades com separação visual.",
+    "O título em caixa alta deixa explícito o serviço disponível.",
+    "Os ícones de telefone e mensagem ajudam a localizar os canais de agendamento."
+  ],
+  "quando_usar": "Para divulgar a variedade de exames de uma clínica e facilitar o agendamento de quem já busca atendimento.",
+  "estrutura_texto": "[Convite para realizar exames]\n[Lista de exames em duas colunas]\n[Mensagem sobre acesso e agendamento]\n[Condição de preço]\n[WhatsApp]\n[Telefone]",
+  "legenda": "Realize [exames disponíveis] em [clínica ou unidade]. Consulte preparo, disponibilidade e valores. Agende pelo [canal] e escolha a unidade em [região].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo branco com padrão geométrico muito suave, moldura azul fina e título grande no topo. Distribua os exames efetivamente oferecidos em duas colunas com marcadores. Reserve a base para condições de atendimento e contatos legíveis com ícones. Use a IMAGEM 2 em pequeno elemento institucional se adequada. Evite perguntas que presumam uma condição de saúde do leitor.",
+  "alerta_politica": "Meta: não atribua doenças ou condições de saúde ao leitor nem prometa resultados. Observe as regras de publicidade médica do CFM, com identificação do estabelecimento e responsável técnico e registros aplicáveis. Divulgue somente exames disponíveis e condições de atendimento verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "549789004660581",
+    "anunciante": "Diagnocenter Diagnomed",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-11-04",
+    "dias_no_ar": 740,
+    "variacoes_ativas": 1,
+    "texto_original": "Cuidar da sua saúde é aqui na DIAGNOCENTER! \n\nTemos mais de 200 exames disponíveis no mesmo lugar…. Além da praticidade, você terá preço acessível e um local de confiança para realizar seus exames.\n \nAgende agora seus exames :\nTelefone: (21) 3978-7100 / WhatsApp: +55 21 99920-7691\nUnidades: Tijuca, Campo Grande, Bonsucesso e Madureira!\nWHATSAPP\nAgendamento Rápido",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-549789004660581.jpg"
+}

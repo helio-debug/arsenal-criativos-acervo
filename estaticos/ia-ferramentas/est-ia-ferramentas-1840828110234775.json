@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-1840828110234775",
+  "tipo": "estatico",
+  "titulo": "Desconto estudantil com demonstração de criação",
+  "formato": "Oferta e promoção",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Anúncio quadrado mostra uma interface de criação com foto de frasco e flores, caixa de prompt e botão de gerar. Título para universitários e desconto estudantil cercam a demonstração.",
+  "por_que_funciona": [
+    "O título identifica o uso em apresentações da faculdade.",
+    "A imagem e o campo de prompt mostram uma aplicação da ferramenta.",
+    "O botão azul destaca a ação de gerar.",
+    "O desconto estudantil e o CTA vermelho aparecem próximos da base."
+  ],
+  "quando_usar": "Para promover assinatura de ferramenta criativa com condição específica para estudantes.",
+  "estrutura_texto": "Crie [ENTREGA] para [CONTEXTO]\n[PROMPT DE EXEMPLO]\n[GERAR]\nDesconto no [PLANO] para [PÚBLICO]\n[MARCA]\n[CTA]",
+  "legenda": "Crie [entregas] para [contexto] com [ferramenta]. Conheça o desconto de [plano] para [público elegível] e confira [condições]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo escuro, título branco no alto, grande demonstração central com foto da IMAGEM 2 e painel claro com prompt de exemplo e botão azul de gerar. Posicione condição promocional à direita abaixo da demonstração e CTA vermelho na base. Crie interface e ícones próprios, sem copiar marcas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1840828110234775",
+    "anunciante": "Adobe Creative Cloud",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-30",
+    "dias_no_ar": 76,
+    "variacoes_ativas": 1,
+    "texto_original": "Desconto na Creative Cloud Pro para estudantes. Crie apresentações personalizadas para a faculdade. Teste agora\nDesconto para estudantes\nNa Creative Cloud Pro",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1840828110234775.jpg"
+}

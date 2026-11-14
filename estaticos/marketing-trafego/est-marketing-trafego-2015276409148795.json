@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-2015276409148795",
+  "tipo": "estatico",
+  "titulo": "Estrutura pronta com benefícios e preço de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "garantia",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo claro com título preto e azul, três benefícios acompanhados de ícones e mockups de caixa e celular. O preço ocupa uma faixa inferior, seguido por selos de compra.",
+  "por_que_funciona": [
+    "O trecho azul em fundo sólido destaca o mecanismo da oferta no título.",
+    "Os três ícones à esquerda separam os benefícios em blocos curtos.",
+    "Caixa e celular tornam visível a entrega digital.",
+    "O preço grande e os selos de acesso e garantia concentram os argumentos de compra no rodapé."
+  ],
+  "quando_usar": "Para vender um material digital pronto a quem já busca uma estrutura de conversão.",
+  "estrutura_texto": "[Nome do método]\n[Benefício principal] com [mecanismo].\n[Benefício 1]\n[Benefício 2]\n[Benefício 3]\n[Mockup do material]\nPor apenas [preço]\n[Segurança] • [Acesso] • [Garantia]",
+  "legenda": "[Estrutura] pronta para copiar e adaptar ao seu [produto], com [conteúdo incluído]. Acesse por [preço] com [garantia]. Toque em [CTA] e veja a estrutura completa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco acinzentado, título central no terço superior, palavras importantes em azul e uma faixa azul atrás do mecanismo. Distribua três benefícios com ícones na coluna esquerda e mockups na direita. Finalize com preço grande e selos pequenos. Evite promessas de lucro imediato ou vendas garantidas.",
+  "alerta_politica": "Promessas de lucro no primeiro dia ou vendas diárias exigem comprovação e contexto; evite garantias de resultado financeiro e comunicação enganosa.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2015276409148795",
+    "anunciante": "Henrique Melo Ads",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-2015276409148795.jpg"
+}

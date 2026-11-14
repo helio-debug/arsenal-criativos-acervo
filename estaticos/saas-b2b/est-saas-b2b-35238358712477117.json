@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-35238358712477117",
+  "tipo": "estatico",
+  "titulo": "Custo de adiar a gestão sobre consultório desorganizado",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de consultório com papéis, computador antigo e cofre quebrado derramando dinheiro. Caixas azuis apresentam perdas operacionais e recursos do sistema.",
+  "por_que_funciona": [
+    "O cofre quebrado torna visível a ideia de dinheiro perdido.",
+    "A chamada no topo destaca o custo de adiar a contratação.",
+    "A lista azul nomeia faltas, pacientes inativos e inadimplência.",
+    "O rodapé relaciona essas perdas a três automações específicas."
+  ],
+  "quando_usar": "Para sistemas de gestão que precisam demonstrar o custo de processos manuais antes de apresentar a solução.",
+  "estrutura_texto": "[Profissional], essa “economia” custa caro...\nEnquanto você adia [solução]:\n• [problema 1]\n• [problema 2]\n• [problema 3]\n[Equipe] foca em [atividade principal] e o sistema cuida de [rotinas].\n[Marca]\n[recursos]",
+  "legenda": "Adiar [solução] pode manter [problemas operacionais] na rotina de [negócio]. Com [recurso 1] e [recurso 2], sua equipe organiza [processo]. Conheça [solução].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de ambiente profissional com mesa desorganizada e cofre quebrado como metáfora de perda. Coloque título azul em caixa branca arredondada no topo, lista de problemas em bloco azul abaixo e benefícios em faixa azul no rodapé. Insira a IMAGEM 2 de modo coerente com a cena. Use apenas recursos reais do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "35238358712477117",
+    "anunciante": "SoftClínica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-27",
+    "dias_no_ar": 201,
+    "variacoes_ativas": 1,
+    "texto_original": "Muita clínica acha que está “economizando”\nquando adia a decisão de contratar um bom sistema.\n\nMas olha o que realmente acontece nesse meio‑tempo:\n\n• as faltas continuam enchendo a agenda de buracos \n• os pacientes somem porque ninguém reativa na hora certa \n• a inadimplência cresce em silêncio, consulta após consulta\n\nIsso não é economizar.\nÉ perder dinheiro todo mês.\n\nSoftClínica entra justamente nesses pontos de vazamento:\n\n– confirmações e lembretes automáticos por WhatsApp \n– reativação programada de pacientes que sumiram \n– cobrança estruturada com boleto, link de pagamento e automação \n– visão clara de quem falta, quem deve e quem precisa de contato\n\nO resultado é simples:\nmais cadeira ocupada,\nmenos dinheiro parado,\nmais previsibilidade no fim do mês.\n\nSe hoje você está “economizando” no sistema,\nmas sente que o caixa não acompanha seu esforço, veja como o SoftClínica pode organizar, cobrar\ne reativar no automático pra sua clínica parar de perder. Acesse nosso link na bio ou envie uma mensagem em nosso WhatsApp.\n\n #GestaoOdonto #GestaoFinanceira #SoftwareOdontologico #Lucratividade #ClinicaDigital #Gestao #AgendaInteligente #GestaoDeTempo #Dentistas #softclínica #VidaDeDentista #ClinicaOrganizada #Produtividade #OdontologiaAltaPerformance #ProdutividadeOdonto\nWHATSAPP\nSoftClínica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-35238358712477117.jpg"
+}

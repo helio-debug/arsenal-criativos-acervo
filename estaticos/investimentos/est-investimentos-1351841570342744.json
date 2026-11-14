@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1351841570342744",
+  "tipo": "estatico",
+  "titulo": "Lista de dividendos com metáfora de orquestra",
+  "formato": "Alerta e educação",
+  "nicho": "investimentos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo creme com título central em vinho e preto sobre as maiores pagadoras de dividendos. Botão vermelho fica acima de uma fotografia de maestro e orquestra na base.",
+  "por_que_funciona": [
+    "A palavra dividendos aparece maior e em cor vinho, definindo o assunto.",
+    "O ano delimita o período de interesse do levantamento.",
+    "O botão vermelho contrasta com o fundo claro.",
+    "A orquestra na base cria uma metáfora visual para a seleção de destaques."
+  ],
+  "quando_usar": "Para divulgar levantamentos e conteúdo educativo sobre dividendos com período e metodologia definidos.",
+  "estrutura_texto": "As maiores [CATEGORIA]\nCampeãs de [INDICADOR] de [MERCADO] em [ANO]\n[CTA]",
+  "legenda": "Quais [ativos] lideram [indicador] em [período]? Confira [levantamento], [simulação com premissas] e os critérios para avaliar os dados. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme, título central com tipografia serifada elegante e destaque vinho para o indicador. Acrescente linha de apoio pequena acima, ano no subtítulo e botão vermelho com seta. Na base, use uma composição de orquestra vista de frente com maestro de costas, ou metáfora equivalente própria relacionada à IMAGEM 2. Não crie rankings ou dados sem fonte.",
+  "alerta_politica": "Meta e normas aplicáveis da CVM: não prometer rentabilidade nem apresentar simulação como resultado garantido. Identificar premissas, data e riscos; rentabilidade passada não garante resultados futuros.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1351841570342744",
+    "anunciante": "SVN Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 1,
+    "texto_original": "Quem está no topo das campeãs de dividendos? \n\nReunimos as maiores pagadoras, a simulação real e o que olhar antes de decidir. \n\n🔗 Acesse essa e outras informações sobre dividendos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1351841570342744.jpg"
+}

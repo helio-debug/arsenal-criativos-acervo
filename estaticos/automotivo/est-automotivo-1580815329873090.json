@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1580815329873090",
+  "tipo": "estatico",
+  "titulo": "Cadastro para receber ofertas do veículo",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sedã azul aparece de perfil em um ambiente cinza de concreto. Texto branco no alto apresenta as ofertas e um bloco azul inferior convida ao cadastro.",
+  "por_que_funciona": [
+    "O carro de perfil mostra toda a carroceria com poucos elementos ao redor.",
+    "O fundo de concreto cinza destaca a pintura azul do veículo.",
+    "A chamada superior liga o veículo à consulta de ofertas online.",
+    "O retângulo azul inferior separa o convite ao cadastro do restante da cena."
+  ],
+  "quando_usar": "Para formar uma base de interessados em um modelo e enviar ofertas posteriormente.",
+  "estrutura_texto": "Por você\ndeixamos as [ofertas] de [modelo]\na um clique de distância\nCadastre-se agora e fique\npor dentro de [novidades]\n[Assinatura e observações]",
+  "legenda": "Receba ofertas e novidades de [modelo] em [região]. Cadastre-se para conhecer as condições e oportunidades disponíveis com [concessionária].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza de concreto com piso em perspectiva, produto azul de perfil no centro e bastante espaço livre. Coloque chamada branca no alto à esquerda e um retângulo azul no terço inferior com convite ao cadastro. Mantenha assinatura e observações discretas e legíveis. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1580815329873090",
+    "anunciante": "Hyundai Motor Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-08",
+    "dias_no_ar": 37,
+    "variacoes_ativas": 2,
+    "texto_original": "Por você, a Hyundai trabalha dia e noite, buscando entregar o melhor em cada carro que sai das nossas concessionárias, com as melhores ofertas. Não fique de fora da nossa base de contatos e receba as melhores condições e oportunidades, onde você estiver. Clique no link e veja por que a Hyundai é por você!\nCadastre-se hoje mesmo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1580815329873090.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1113090721048727",
+  "tipo": "estatico",
+  "titulo": "Cursos a distância com mensalidade em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Texto branco e ciano sobre fundo azul apresenta cursos técnicos a distância, mensalidade e lista de seis formações. Formas circulares grandes aparecem discretamente ao fundo.",
+  "por_que_funciona": [
+    "O preço aparece junto da indicação de mensalidade, facilitando a leitura da condição.",
+    "A lista de seis cursos permite reconhecer rapidamente uma área de interesse.",
+    "O ciano destaca o nome da instituição no bloco principal.",
+    "A concentração do texto no centro deixa a oferta legível sobre o fundo com grafismos."
+  ],
+  "quando_usar": "Para divulgar matrículas em cursos com preço definido e várias opções de formação.",
+  "estrutura_texto": "[Modalidade de cursos]\n[Instituição]\nCursos selecionados por apenas [valor] nas mensalidades.*\n• [Curso 1]\n• [Curso 2]\n• [Demais cursos]\n[Condições da oferta]",
+  "legenda": "Sua formação em [área] pode começar com [modalidade] e [condição de pagamento]. Escolha entre [cursos]. Primeira mensalidade de [valor inicial] e demais mensalidades de [valor], conforme [condições]. Consulte os detalhes e faça sua matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul profundo com formas circulares em tons próximos. Concentre o bloco de texto na região central, alinhado à esquerda: modalidade em branco, nome da instituição grande em ciano, preço e lista de cursos abaixo. Inclua condições legíveis, distinguindo mensalidade inicial e recorrente quando informado. Não invente reconhecimento oficial ou descontos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1113090721048727",
+    "anunciante": "EAD UniCesumar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-06",
+    "dias_no_ar": 100,
+    "variacoes_ativas": 3,
+    "texto_original": "Sua formação técnica pode começar agora, com mais flexibilidade e condição especial. 🎓\nA UniCesumar está com Cursos Técnicos EAD selecionados para quem quer se preparar para o mercado em áreas como Tecnologia, Gestão, RH, Contabilidade e Educação.\nComece com a 1ª mensalidade a partir de R$19,90 e apenas R$99 nos demais meses.*\nMatricule-se agora. 💙\nCurso Técnico é na UniCesumar 💙\nFormação rápida, flexível e reconhecida pelo MEC para quem quer dar o próximo passo na carreira.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1113090721048727.jpg"
+}

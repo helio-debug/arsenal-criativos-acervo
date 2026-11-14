@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2090010398435277",
+  "tipo": "estatico",
+  "titulo": "Curso de iniciação associado ao equipamento",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Sobre fundo branco, um selo rosa de curso online se conecta por uma linha ao desenho de um mouse. Um sinal de mais separa o curso da grande foto de uma máquina de recorte branca, com o nome do modelo na base.",
+  "por_que_funciona": [
+    "O selo rosa apresenta a modalidade e o nível de iniciação.",
+    "O sinal de mais sugere associação entre treinamento e equipamento.",
+    "A máquina ocupa quase toda a largura, facilitando reconhecer o item.",
+    "O fundo branco deixa os dois componentes da composição bem separados."
+  ],
+  "quando_usar": "Para apresentar uma oferta que associa equipamento e treinamento introdutório, explicando na legenda o que está incluído.",
+  "estrutura_texto": "CURSO ONLINE\n[NÍVEL]\npor [RESPONSÁVEL]\n+\n[FOTO DO EQUIPAMENTO]\n[MODELO]",
+  "legenda": "Conheça [equipamento] e o curso de iniciação em [tema]. Consulte as condições de [oferta], os itens incluídos e os detalhes do treinamento em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e bastante espaço livre. No topo esquerdo, desenhe selo rosa com contorno preto, ícone de reprodução e texto CURSO ONLINE. Conecte-o com linha fina a uma cápsula rosa de nível e um mouse ilustrado no topo direito. No centro, coloque um sinal de mais rosa. Na metade inferior, destaque a foto recortada do equipamento da IMAGEM 2 e o nome do produto abaixo. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "A composição sugere equipamento com curso; deixe explícito se o treinamento está incluído, é bônus ou é vendido separadamente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2090010398435277",
+    "anunciante": "Silhouette Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-11",
+    "dias_no_ar": 338,
+    "variacoes_ativas": 1,
+    "texto_original": "Os melhores produtos Silhouette Brasil. Com condições imperdíveis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2090010398435277.jpg"
+}

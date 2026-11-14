@@ -1,0 +1,90 @@
+{
+ "id": "vid-hook-estatico-que-ganha-vida",
+ "titulo": "Primeiro frame de anúncio estático que vira vídeo",
+ "formato_video": "hook-estatico-video",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "beleza-cosmeticos",
+  "moda-acessorios",
+  "moveis-decoracao"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "28s",
+ "proporcao": "9:16",
+ "validacao": "media",
+ "hook": {
+  "falado": "[Produto] com [condição de desconto válida].",
+  "texto_tela": "[Produto] com [desconto válido]",
+  "visual": "Imagem congelada em close do apresentador e produto por 2s; depois a mesma composição se move. O close e a ambientação interna vêm dos frames; o congelamento é a abertura prevista pelo formato."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-2s",
+   "cena": "Congele uma foto do apresentador segurando o produto, plano fechado vertical, com título legível. A abertura congelada é a adaptação solicitada; os frames mostram a fala já em andamento.",
+   "fala": "[Produto] com [condição de desconto válida].",
+   "texto_tela": "[Produto] com [desconto válido]"
+  },
+  {
+   "tempo": "2-7s",
+   "cena": "A mesma foto ganha movimento: apresentador olha para a lente e aproxima o produto. Interior com estante, luz suave e legendas brancas.",
+   "fala": "Vou mostrar [detalhe do produto] antes de você escolher.",
+   "texto_tela": "[Produto] com [desconto válido] | Ver oferta"
+  },
+  {
+   "tempo": "7-14s",
+   "cena": "Corte de aproximação para as mãos, com retorno ao rosto. Dois cards escuros com números reais e detalhes verdes entram sobre a área livre.",
+   "fala": "Ele tem [característica verificável]. Para [situação de uso], observe [detalhe demonstrável].",
+   "texto_tela": "[Produto] com [desconto válido] | [Medida real] / [Quantidade real]"
+  },
+  {
+   "tempo": "14-22s",
+   "cena": "Apresentador em close mostra uso ou material. Remover os cards e manter legenda curta sem tapar o objeto.",
+   "fala": "Use [cupom] em [canal de compra]. A condição vale para [itens elegíveis], até [prazo real, se houver].",
+   "texto_tela": "[Produto] com [desconto válido] | [Condições resumidas]"
+  },
+  {
+   "tempo": "22-28s",
+   "cena": "Retorno ao rosto seguido de cartela com fundo colorido em degradê e grafismo próprio. Botão desenhado sem imitar interface funcional.",
+   "fala": "Toque no botão, confira [variação] e veja o valor final antes de pedir.",
+   "texto_tela": "[Produto] com [desconto válido] | Ver oferta"
+  }
+ ],
+ "por_que_funciona": [
+  "O apresentador aparece perto da lente, com olhos e boca grandes no quadro, o que dá leitura às expressões durante a fala.",
+  "As legendas brancas ficam na região do peito e acompanham trechos curtos; a adaptação preserva essa leitura sem encobrir o produto.",
+  "Um dos frames insere dois cards pretos com números claros e detalhes verdes sobre a camiseta. O modelo usa esse espaço para medidas ou quantidades verificáveis.",
+  "O último frame troca o ambiente real por uma cartela colorida com grafismos, separando a fala do encerramento visual."
+ ],
+ "quando_usar": "Para testar uma chamada de oferta em produtos físicos no topo do funil. Use quando houver um detalhe que possa ser mostrado em poucos segundos e desconto com condições verificáveis.",
+ "roteiro_modelo": "[Produto] com [condição de desconto válida].\n\n[CORTE / PAUSA]\n\nVou mostrar [detalhe do produto] antes de você escolher.\n\n[CORTE / PAUSA]\n\nEle tem [característica verificável]. Para [situação de uso], observe [detalhe demonstrável].\n\n[CORTE / PAUSA]\n\nUse [cupom] em [canal de compra]. A condição vale para [itens elegíveis], até [prazo real, se houver].\n\n[CORTE / PAUSA]\n\nToque no botão, confira [variação] e veja o valor final antes de pedir.",
+ "tomadas_celular": [
+  "Base do congelamento: celular vertical na altura dos olhos, close com produto junto ao rosto e luz suave de janela; fique imóvel por 2s e continue falando por 5s sem mexer a câmera.",
+  "Detalhe: close das mãos mostrando [característica], janela lateral e celular apoiado; grave 7s.",
+  "Números: plano de peito e rosto com espaço sobre a roupa para os cards, luz frontal difusa; grave 5s e adicione medidas reais na edição.",
+  "Uso: plano fechado do produto em ação, luz uniforme e fundo sem marcas; grave 8s respeitando as instruções de uso.",
+  "Oferta e convite: volte ao close inicial, mesma luz de janela, produto visível; grave 8s e finalize em cartela de 2s dentro do último bloco."
+ ],
+ "caminho_ia": "Crie o apresentador com avatar licenciado ou uma cena no Veo; extraia o primeiro frame e congele por 2s no CapCut antes de continuar o mesmo clipe. Use voz sintética licenciada ou clonada com autorização. Prompts: \"Vertical 9:16 smartphone close-up of a generic presenter holding [produto] beside their chest in an unbranded room with shelves, soft frontal window light, eye-level locked camera, start completely still for two seconds then begin natural hand movement, continuous single take, no text, no logos.\" e \"Vertical 9:16 macro product demonstration of [produto] performing [ação de uso comprovada], realistic hand anatomy, soft diffused daylight, fixed camera, clean background, seven-second shot, no visual claims of body transformation, no text.\" Monte os cards numéricos e a cartela em degradê no editor; não gere desconto ou especificação sem confirmação.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Use imagens, identidade e argumentos próprios para o meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie anúncio vertical de 28s com 5 blocos: 0-2 foto congelada com título e fala curta; 2-7 a mesma composição ganha movimento; 7-14 detalhe de uso e dois cards de dados reais; 14-22 cupom e condições; 22-28 convite, com cartela colorida nos 2s finais. A referência mostra close casual interno, legendas brancas, cards pretos com números e encerramento em degradê. A abertura estática vem do formato solicitado e precisa ser criada: não afirme que os frames a comprovam. Mantenha a frase principal da oferta na tela do começo ao fim; acrescente CTA aos 2s e legendas de fala em área separada. Tom de conversa, frases curtas e movimento contínuo ao sair do congelamento. Não copie a pessoa, boné, roupa com marca, curso, números, desconto ou escassez do original. Não diga que sabe quem visitou a página. Use escassez apenas quando documentada, sem afirmar que o vídeo só aparece uma vez. Não copie pessoa, marca, logotipo, cenário identificável, domínio, preço ou falas da referência. Escreva em pt-BR falado, com frases curtas. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não invente provas, escassez ou condições comerciais. Mantenha [colchetes] onde faltarem dados. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] com [desconto válido] para [itens elegíveis]. Confira [variação], valor final e condições no botão. [Prazo real, se houver].",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou característica corporal; não use antes/depois de corpo nem promessa de resultado de saúde. ANVISA: cosméticos não podem receber alegações terapêuticas; anuncie apenas benefícios compatíveis com a regularização e a rotulagem do produto. Fonte: https://bibliotecadigital.anvisa.gov.br/jspui/handle/anvisa/7340",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a04bfc79",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-hook-estatico-que-ganha-vida/frames/f1.jpg",
+    "videos/vid-hook-estatico-que-ganha-vida/frames/f2.jpg",
+    "videos/vid-hook-estatico-que-ganha-vida/frames/f3.jpg",
+    "videos/vid-hook-estatico-que-ganha-vida/frames/f4.jpg",
+    "videos/vid-hook-estatico-que-ganha-vida/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

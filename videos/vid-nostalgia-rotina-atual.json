@@ -1,0 +1,103 @@
+{
+ "id": "vid-nostalgia-rotina-atual",
+ "titulo": "Objetos antigos abrem relato de vida que desemboca em uma rotina atual de cuidados",
+ "formato_video": "storytime",
+ "nichos": [
+  "saude",
+  "estetica-clinicas",
+  "emagrecimento-fitness",
+  "relacionamento-desenvolvimento"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "75-90s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Eu guardava [objeto antigo] numa [caixa ou lugar]. Passava [momento da rotina] mexendo nisso.",
+  "texto_tela": "[objeto antigo]",
+  "visual": "Close de brinquedos coloridos, boneca e piões agrupados; na adaptação, objetos antigos próprios, sem personagens licenciados."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Close de objetos antigos agrupados; locução começa antes de mostrar a pessoa.",
+   "fala": "Eu guardava [objeto antigo] numa [caixa ou lugar]. Passava [momento da rotina] mexendo nisso.",
+   "texto_tela": "[objeto antigo]"
+  },
+  {
+   "tempo": "8-20s",
+   "cena": "Detalhe de panela e colher durante o preparo na cozinha.",
+   "fala": "Naquela época, [hábito de cuidado] quase não entrava nas conversas lá em casa. Eu fui levando [pendência concreta] sem procurar informação.",
+   "texto_tela": "[hábito de cuidado]"
+  },
+  {
+   "tempo": "20-33s",
+   "cena": "Plano aberto de atividade física ou outra atividade atual; use ação adequada à pessoa.",
+   "fala": "Hoje minha rotina tem [atividade atual]. Eu separo [tempo real] pra isso e percebo quando [dificuldade concreta] atrapalha a organização do dia.",
+   "texto_tela": "Hoje: [atividade]"
+  },
+  {
+   "tempo": "33-46s",
+   "cena": "Plano médio da pessoa na cozinha, olhando para a câmera e gesticulando.",
+   "fala": "Foi nessa rotina que eu resolvi cuidar de [necessidade]. Comecei buscando uma explicação sobre [tipo de serviço].",
+   "texto_tela": "[necessidade]"
+  },
+  {
+   "tempo": "46-60s",
+   "cena": "Intercale detalhe da atividade com uma explicação em plano médio; preserve a pessoa como fio da história.",
+   "fala": "Eu queria saber como funciona [etapa], quais cuidados seriam necessários e em que situações [serviço] faz sentido. Anotei as dúvidas antes da conversa.",
+   "texto_tela": "Minhas dúvidas sobre [etapa]"
+  },
+  {
+   "tempo": "60-76s",
+   "cena": "Pessoa chega à entrada de um estabelecimento; fachada com identificação genérica na adaptação.",
+   "fala": "Em [prestador], o primeiro contato serve pra [etapa inicial real]. Ali eu posso conferir [condição] e conversar sobre [limite do serviço].",
+   "texto_tela": "[etapa inicial]"
+  },
+  {
+   "tempo": "76-90s",
+   "cena": "Retorno ao rosto da pessoa ou ao gesto de entrar; feche sem comparação corporal.",
+   "fala": "Agora eu tenho [próximo passo verificável] na agenda. Pra saber como funciona [serviço], consulte [canal] e veja [informação ou disponibilidade].",
+   "texto_tela": "Confira [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "Os brinquedos e piões aparecem antes da protagonista, oferecendo um objeto para a lembrança inicial.",
+  "O detalhe da panela liga o relato sobre o passado a uma ação doméstica do presente.",
+  "O plano aberto de exercício e o plano médio na cozinha mostram a mesma pessoa em atividades diferentes.",
+  "As legendas brancas curtas acompanham a fala; a fachada no fim dá um destino concreto à história."
+ ],
+ "quando_usar": "Para serviços em que a contratação vem depois de uma reflexão sobre hábitos e rotina. Use com um relato autorizado e verdadeiro; na versão encenada, sinalize que a história é ilustrativa.",
+ "roteiro_modelo": "[0-8s] Eu guardava [objeto antigo] numa [caixa ou lugar]. Passava [momento da rotina] mexendo nisso.\n\n[pausa; corte]\n\n[8-20s] Naquela época, [hábito de cuidado] quase não entrava nas conversas lá em casa. Eu fui levando [pendência concreta] sem procurar informação.\n\n[pausa; corte]\n\n[20-33s] Hoje minha rotina tem [atividade atual]. Eu separo [tempo real] pra isso e percebo quando [dificuldade concreta] atrapalha a organização do dia.\n\n[pausa; corte]\n\n[33-46s] Foi nessa rotina que eu resolvi cuidar de [necessidade]. Comecei buscando uma explicação sobre [tipo de serviço].\n\n[pausa; corte]\n\n[46-60s] Eu queria saber como funciona [etapa], quais cuidados seriam necessários e em que situações [serviço] faz sentido. Anotei as dúvidas antes da conversa.\n\n[pausa; corte]\n\n[60-76s] Em [prestador], o primeiro contato serve pra [etapa inicial real]. Ali eu posso conferir [condição] e conversar sobre [limite do serviço].\n\n[pausa; corte]\n\n[76-90s] Agora eu tenho [próximo passo verificável] na agenda. Pra saber como funciona [serviço], consulte [canal] e veja [informação ou disponibilidade].",
+ "tomadas_celular": [
+  "Close de objetos antigos próprios numa mesa; janela lateral e movimento lento de celular, 8s.",
+  "Detalhe de panela e colher na cozinha; luz natural e celular afastado do calor, 12s.",
+  "Plano aberto de atividade atual segura e habitual; celular apoiado e luz do ambiente, 13s.",
+  "Plano médio contando a história na cozinha; janela à frente, 13s.",
+  "Detalhe das mãos anotando dúvidas e plano médio de explicação; luz difusa, 14s.",
+  "Plano aberto chegando à entrada do estabelecimento, sem terceiros identificáveis; luz do dia, 16s.",
+  "Plano médio do convite final ou retorno ao rosto; luz frontal suave, 14s."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou no Runway, mantendo a mesma pessoa e os objetos entre cenas. Prompts prontos: \"Vertical 9:16, close-up of [personally meaningful vintage objects] on a wooden table, warm window light, slow lateral camera slide, tactile worn surfaces, nostalgic domestic atmosphere, 8 seconds, no licensed characters, no logos.\" e \"Vertical 9:16, medium handheld smartphone shot of a mature adult explaining [care-related routine] in a home kitchen, soft natural daylight, conversational gestures, realistic skin texture, 10 seconds, no subtitles, no branding.\". Para os demais blocos, mantenha essa linguagem visual e altere a ação conforme a estrutura. Use avatar para falas em quadro e voz sintética em pt-BR para locução; voz clonada apenas com autorização. Monte no CapCut, respeitando os tempos e as pausas. Também dá para montar um slideshow com imagens geradas e movimentos leves de aproximação. Identifique cenas ilustrativas e não apresente avatar como cliente ou profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nStorytime em 7 blocos e até 90 segundos: objeto antigo, hábito do passado, rotina atual, decisão de buscar orientação, dúvidas, chegada ao prestador e próximo passo. Comece pela voz sobre objetos; apresente a pessoa depois. Ritmo de conversa com respiros nas trocas de ambiente. Legendas brancas curtas em área segura. Não copie personagens licenciados, pessoa, idade exata, voz, fachada, marca ou números da referência. A história pessoal deve ser verdadeira e autorizada; se criada, identifique a encenação. Não associe o serviço a energia, aptidão física ou recuperação garantidas.\n\nEstrutura com tempos: 0-8s: Close de objetos antigos agrupados; locução começa antes de mostrar a pessoa.; 8-20s: Detalhe de panela e colher durante o preparo na cozinha.; 20-33s: Plano aberto de atividade física ou outra atividade atual; use ação adequada à pessoa.; 33-46s: Plano médio da pessoa na cozinha, olhando para a câmera e gesticulando.; 46-60s: Intercale detalhe da atividade com uma explicação em plano médio; preserve a pessoa como fio da história.; 60-76s: Pessoa chega à entrada de um estabelecimento; fachada com identificação genérica na adaptação.; 76-90s: Retorno ao rosto da pessoa ou ao gesto de entrar; feche sem comparação corporal..\nUse pt-BR falado, frases curtas e informações comprováveis. Troque dados ausentes por [colchetes]. Adapte o objeto, a dificuldade e a demonstração ao meu produto, sem forçar assunto odontológico. Sem nomes, contatos ou frases da referência. Não use antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou promessa de resultado. Respeite as regras de publicidade do nicho.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Eu lembrava de [objeto antigo] e acabei pensando em [hábito de cuidado]. Hoje, [atividade atual] faz parte da minha rotina. Pra entender [serviço], confira [etapa inicial] em [canal]. [Identificação de encenação, se houver].",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou insatisfação com o corpo; sem antes/depois corporal nem promessa de resultado de saúde. Não use segurança absoluta, cura ou resultado garantido. Em serviços médicos, siga as regras de publicidade do CFM; em odontologia, as do CFO/CRO. Alegações de produtos sujeitos à ANVISA devem respeitar sua regularização e indicações autorizadas. Cenas encenadas ou geradas não podem se passar por depoimento ou resultado clínico real.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d41d7dce",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-nostalgia-rotina-atual/frames/f1.jpg",
+    "videos/vid-nostalgia-rotina-atual/frames/f2.jpg",
+    "videos/vid-nostalgia-rotina-atual/frames/f3.jpg",
+    "videos/vid-nostalgia-rotina-atual/frames/f4.jpg",
+    "videos/vid-nostalgia-rotina-atual/frames/f5.jpg"
+   ]
+  }
+ ]
+}

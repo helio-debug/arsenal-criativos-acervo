@@ -1,0 +1,38 @@
+{
+  "id": "est-mentoria-high-ticket-1761820148197795",
+  "tipo": "estatico",
+  "titulo": "Pergunta de gestão com retrato e convite para consulta",
+  "formato": "novo:Pergunta com retrato",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Layout dividido entre coluna vinho com pergunta e qualificação à esquerda e retrato vertical de executivo à direita. Uma linha clara atravessa a base e contorna a assinatura.",
+  "por_que_funciona": [
+    "A divisão em duas colunas mantém texto e retrato em áreas próprias.",
+    "A pergunta branca e grande lidera a hierarquia sobre o fundo vinho.",
+    "A faixa de faturamento em negrito ajuda o leitor a reconhecer o perfil atendido.",
+    "O botão contornado permanece junto da explicação do serviço."
+  ],
+  "quando_usar": "Para consultorias empresariais qualificarem gestores pelo porte da empresa e convidarem para uma primeira conversa.",
+  "estrutura_texto": "[Pergunta sobre um problema de execução]?\n[Consultoria] é especialista em empresas com [perfil ou faixa de faturamento].\n[CTA para falar com consultor]",
+  "legenda": "A gestão da sua empresa precisa de [mudança específica]? Converse com um especialista em [área de gestão] para entender [situação atual] e avaliar por onde começar. Atendimento a empresas de [perfil ou faixa de faturamento]. Conheça [experiência comprovável] e agende uma conversa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte duas colunas: à esquerda, fundo vinho com site discreto, pergunta grande branca, qualificação do público e botão contornado; à direita, enquadramento vertical fechado do elemento principal da IMAGEM 2. Acrescente linha fina clara na base e uma área de assinatura da minha marca.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1761820148197795",
+    "anunciante": "Mid Falconi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 4,
+    "texto_original": "Se a gestão da sua empresa pede mudança, o próximo passo está bem na sua frente.  \n\nÉ uma conversa com um especialista da Mid, que entende o momento do seu negócio e mostra por onde começar.  \n\nA Mid é a consultoria da Falconi para quem comanda empresas de R$ 4,8 mi a R$ 300 mi por ano.  \n\nJá são mais de 500 clientes atendidos. Esse passo está a um clique: converse com um especialista!\nHTTPS://MIDFALCONI.COM/\nO método Falconi para o seu porte\nConsultoria empresarial para médias empresas que buscam crescer com gestão estruturada e decisões mais seguras",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1761820148197795.jpg",
+  "formato_novo_def": "Chamada sobre um problema de gestão acompanhada de retrato profissional, qualificação do público e botão para conversar com um consultor."
+}

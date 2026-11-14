@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-839379015914611",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com modelo usando joias",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Modelo com camisa rosa ocupa a metade direita e exibe colares, brincos e pulseira. À esquerda, chamada para revenda e botão de cadastro sobre fundo pêssego.",
+  "por_que_funciona": [
+    "A chamada em caixa alta ocupa o espaço livre à esquerda e identifica a oportunidade de revenda.",
+    "Os acessórios aparecem em uso na modelo, mostrando escala e combinação.",
+    "O botão rosa escuro separa o cadastro do restante do texto."
+  ],
+  "quando_usar": "Para captar interessadas em revenda de acessórios em campanhas de cadastro.",
+  "estrutura_texto": "SEJA REVENDEDORA\n[MARCA]\nTransforme sua paixão por [categoria] em [benefício] e renda extra.\n[CTA de cadastro]",
+  "legenda": "Transforme seu interesse por [categoria] em uma atividade de revenda. Conheça [produtos], [suporte] e [condições para começar]. Cadastre-se para receber os detalhes.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fundo pêssego, modelo adulta à direita usando os acessórios da IMAGEM 2 e camisa rosa. Reserve a esquerda para título em caixa alta escura, benefício em três linhas e botão arredondado rosa com CTA de cadastro. Preserve a legibilidade e a aparência real dos produtos.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Apresentar condições da revenda e custos de entrada com clareza.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "839379015914611",
+    "anunciante": "Prata e Arte",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-21",
+    "dias_no_ar": 177,
+    "variacoes_ativas": 1,
+    "texto_original": "💎 Transforme sua paixão por acessórios em uma nova fonte de renda!\nSeja uma revendedora Prata e Arte e tenha acesso a peças incríveis, liberdade para vender no seu ritmo e suporte para crescer. ✨\nComece hoje mesmo a conquistar sua renda extra com uma marca que encanta clientes em todo o Brasil. 💖\n👉 Cadastre-se agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-839379015914611.jpg"
+}

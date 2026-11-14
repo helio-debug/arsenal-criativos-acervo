@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1096485980959062",
+  "tipo": "estatico",
+  "titulo": "E-book gratuito com metáfora de navegação",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "A peça oferece um e-book sobre campanhas internas em fundo roxo. Um livro aberto aparece à esquerda e um veleiro ilustrado à direita, com caminhos brancos levando ao rodapé com botão de download.",
+  "por_que_funciona": [
+    "O aviso amarelo de gratuidade aparece antes do título.",
+    "O título branco em tamanho grande explicita o tema do material.",
+    "O livro aberto torna o conteúdo digital visível.",
+    "O botão laranja no rodapé concentra a ação de baixar."
+  ],
+  "quando_usar": "Para captar contatos de profissionais interessados em comunicação interna e endomarketing.",
+  "estrutura_texto": "E-BOOK GRATUITO\n[TEMA PRINCIPAL]:\nO que você precisa saber antes de [ação relacionada ao tema].\nBAIXAR GRATUITAMENTE\n[assinatura]",
+  "legenda": "Antes de iniciar [tipo de campanha], confira [etapas e decisões necessárias]. Baixe gratuitamente o e-book [título] e use o material para planejar [atividade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo com variações suaves, selo textual amarelo de e-book gratuito, título branco em caixa-alta e subtítulo menor. Posicione um mockup do material aberto embaixo à esquerda e uma ilustração de navegação à direita, conectada por caminhos brancos. Reserve uma faixa clara no rodapé com botão laranja para baixar.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1096485980959062",
+    "anunciante": "Vibro Comunicação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2022-08-08",
+    "dias_no_ar": 1559,
+    "variacoes_ativas": 1,
+    "texto_original": "Quantas vezes você já ouviu que a comunicação não é o que você diz, mas o que o outro entende?  A comunicação é um processo natural e necessário para vida em sociedade, e dentro das empresas não é diferente. Embora pareça simples, a comunicação por meio de campanhas internas é um processo que envolve alinhamento aos objetivos da organização, etapas, além de recursos humanos e financeiros. Por isso, antes de embarcar na próxima campanha, se pergunte:\n\n• É necessário divulgar o conteúdo na forma de campanha?\n• Para quem precisamos comunicar?\n• O que esperamos como resultado da nossa comunicação?\n\nCom esse ebook exclusivo que preparamos para você, será mais fácil responder a essas perguntas e desenvolver um planejamento de campanha capaz de engajar seus colaboradores, mesmo que não tenha experiência em campanhas internas. Esperamos que goste e aprenda muito.\n\n>> Baixar gratuitamente - Acesse o LINK NA BIO: bit.ly/3Jo6T8V\n\n🚀💜🧡",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1096485980959062.jpg"
+}

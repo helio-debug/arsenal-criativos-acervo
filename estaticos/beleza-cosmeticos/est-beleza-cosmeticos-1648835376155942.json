@@ -1,0 +1,36 @@
+{
+  "id": "est-beleza-cosmeticos-1648835376155942",
+  "tipo": "estatico",
+  "titulo": "Removedor com demonstração do esmalte",
+  "formato": "Antes e depois",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Frasco de removedor à esquerda sobre preto. À direita, fotos aproximadas mostram esmalte vermelho intacto e fragmentado, separadas por faixas verdes.",
+  "por_que_funciona": [
+    "O frasco grande identifica a categoria do produto.",
+    "As fotos mostram a mudança na superfície do esmalte.",
+    "As faixas verdes relacionam a demonstração ao rótulo."
+  ],
+  "quando_usar": "Removedores com demonstrações reais e comprováveis de uso.",
+  "estrutura_texto": "[Nome e categoria]\n[Volume]\n[Antes]\n[Depois]",
+  "legenda": "Conheça [removedor] para [tipo de esmalte compatível]. Veja [oferta vigente] em [canal] e siga as instruções de uso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre frasco grande sobre preto à esquerda e duas fotos reais autorizadas de remoção do esmalte à direita. Use faixas verdes com [antes] e [depois]. Não invente resultados nem sugira melhora corporal.",
+  "alerta_politica": "Cosméticos: evite alegações terapêuticas ou resultados garantidos. A demonstração deve ser real, sem edição enganosa, e coerente com as instruções de uso e a rotulagem.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1648835376155942",
+    "anunciante": "DHgate",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-15",
+    "dias_no_ar": 213,
+    "variacoes_ativas": 7,
+    "texto_original": "SUPER DEALS  on DHgate🔥\nShop at the $1.99 store for the best discounts🎉",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1648835376155942.jpg"
+}

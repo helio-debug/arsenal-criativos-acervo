@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-940288381762336",
+  "tipo": "estatico",
+  "titulo": "Personal com preço mensal em caixa verde",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de um profissional de braços cruzados ocupa a parte superior. Caixas verde-limão apresentam o preço e o comando de ação sobre fundo cinza com degradê preto.",
+  "por_que_funciona": [
+    "O retrato frontal dá um rosto ao serviço oferecido.",
+    "A caixa verde-limão separa a oferta do fundo neutro.",
+    "O preço em vermelho recebe destaque dentro da chamada preta.",
+    "O botão inferior repete a cor da oferta e explicita a próxima ação."
+  ],
+  "quando_usar": "Para captar interessados em acompanhamento de treino com mensalidade acessível.",
+  "estrutura_texto": "Já pensou treinar com [PROFISSIONAL] por menos de [PREÇO]/mês?\nTreine [LOCAL], com plano [DIFERENCIAL].\nCLIQUE EM SAIBA MAIS",
+  "legenda": "Treine com [profissional] e tenha [frequência de suporte]. Receba um plano adaptado a [rotina e objetivos]. Conheça as condições a partir de [preço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato autorizado do profissional de braços cruzados na metade superior, fundo cinza e degradê preto no rodapé. Sobreponha caixa arredondada verde-limão com chamada preta e preço vermelho. Abaixo, escreva o benefício em branco e adicione botão verde com chamada curta.",
+  "alerta_politica": "Evite atribuir condições de saúde ou insatisfação corporal ao público, prometer emagrecimento ou resultados garantidos e usar antes e depois de corpo. Descreva o acompanhamento e as condições reais do serviço.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "940288381762336",
+    "anunciante": "Musculação Online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-09",
+    "dias_no_ar": 278,
+    "variacoes_ativas": 2,
+    "texto_original": "Treine com um personal trainer com suporte diário",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-940288381762336.jpg"
+}

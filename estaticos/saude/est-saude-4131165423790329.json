@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-4131165423790329",
+  "tipo": "estatico",
+  "titulo": "Print de postagem com dúvida sobre classes de medicamentos",
+  "formato": "Print de tela",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma postagem em fundo branco ocupa o centro de um quadrado azul-marinho. Há avatar, nome, identificador e relato sobre uma dúvida de paciente.",
+  "por_que_funciona": [
+    "O cabeçalho com avatar e identificador reproduz a aparência de uma rede social.",
+    "O relato de uma pergunta situa o tema numa conversa concreta.",
+    "As palavras com trechos em maiúsculas destacam a confusão entre nomes de classes.",
+    "O emoji no fim deixa a explicação em aberto e incentiva a continuidade da leitura."
+  ],
+  "quando_usar": "Para apresentar dúvidas frequentes em conteúdo médico educativo, preservando a privacidade de pacientes.",
+  "estrutura_texto": "[Nome profissional]\n[@perfil]\nHoje surgiu uma dúvida sobre [tema].\n[Contexto da dúvida]\n[Convite para entender a explicação]",
+  "legenda": "Os nomes de [classes de tratamento] podem gerar dúvidas. A escolha depende de [critérios clínicos] e acompanhamento individual. Entenda as diferenças no conteúdo e converse com [profissional habilitado] antes de alterar qualquer tratamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Recrie uma postagem genérica em um painel branco central sobre fundo azul-marinho. Inclua avatar autorizado, nome e identificador fictícios, texto preto alinhado à esquerda e poucas palavras destacadas em maiúsculas. Não reproduza interface com selo de verificação ou endosso inventado.",
+  "alerta_politica": "Meta: evitar atribuir condições de saúde ao público ou prometer resultados. CFM: conteúdo médico deve ser informativo, sem garantia de resultado, com identificação profissional quando aplicável. ANVISA: não promover medicamentos sujeitos a prescrição ao público. Não repetir afirmações absolutas de segurança ou ausência de dependência presentes na legenda de origem.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4131165423790329",
+    "anunciante": "pedrofmelo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-03",
+    "dias_no_ar": 437,
+    "variacoes_ativas": 1,
+    "texto_original": "Os ansiolíticos entrariam junto na classe desses “hipnóticos e sedativos”. São os famosos, tarja preta. Exigem cuidado pra não ter risco de abuso.⚫️🔲🏴\n\nAntidepressivos são mais seguros. Risco de abuso é praticamente zero. Duvido você conhecer alguem que ficou dependente ou fez uso abusivo de qualquer antidepressivo que seja. Ta desafiado a me mostrar! \n\nAmbas as classes podem ser usadas no tratamento, desde que o acomoanhamento seja adequado, com um profissional gabaritado!\n\nMe siga e fique por dentro de mais conteúdos interessantes! 🧠📍",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-4131165423790329.jpg"
+}

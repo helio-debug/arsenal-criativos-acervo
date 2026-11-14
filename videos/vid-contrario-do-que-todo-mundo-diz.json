@@ -1,0 +1,97 @@
+{
+ "id": "vid-contrario-do-que-todo-mundo-diz",
+ "formato_video": "mito-verdade",
+ "nichos": [
+  "investimentos",
+  "emagrecimento-fitness",
+  "marketing-trafego",
+  "imoveis"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Crença comum confrontada com um dado",
+ "duracao": "40s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Dizem que [crença comum]. Neste [recorte verificável], o dado foi [número e unidade].",
+  "texto_tela": "[Crença] × [dado comprovado]",
+  "visual": "Plano médio horizontal de apresentador à mesa, gestos abertos, parede clara e prateleira com quadros genéricos sem marcas. Acrescente texto discreto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio horizontal de apresentador à mesa, gestos abertos, parede clara e prateleira com quadros genéricos sem marcas. Acrescente texto discreto.",
+   "fala": "Dizem que [crença comum]. Neste [recorte verificável], o dado foi [número e unidade].",
+   "texto_tela": "[Crença] × [dado comprovado]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Mesmo plano; apresente documento ou cartão com dado, fonte e período.",
+   "fala": "Esse número vem de [fonte], entre [datas], com [amostra]. Mede [métrica], neste contexto.",
+   "texto_tela": "[Métrica] | [período] | [fonte]"
+  },
+  {
+   "tempo": "12-20s",
+   "cena": "Close leve do rosto, com recorte vertical de tela ao lado, inspirado no celular sobreposto da referência.",
+   "fala": "Olha [detalhe do registro]. Aqui, [explicação do dado]. [Limitação] fica fora da comparação.",
+   "texto_tela": "[Detalhe observado] • [limitação]"
+  },
+  {
+   "tempo": "20-28s",
+   "cena": "A tela sobreposta mostra uma única ação ligada ao produto, enquanto o apresentador aponta para ela.",
+   "fala": "Com [produto], comece por [ação]. Depois confira [critério] no seu contexto.",
+   "texto_tela": "1. [Ação]  2. [Critério]"
+  },
+  {
+   "tempo": "28-35s",
+   "cena": "Retorno ao plano médio com mãos sobre a mesa; cartão pequeno de ressalva, sem gráfico de resultado inventado.",
+   "fala": "O dado ajuda em [decisão específica]. Ele não prova [conclusão indevida].",
+   "texto_tela": "Vale para [recorte]"
+  },
+  {
+   "tempo": "35-40s",
+   "cena": "Plano médio, olhar para a lente e gesto para o conteúdo complementar.",
+   "fala": "Salve para consultar [critério] antes de [decisão].",
+   "texto_tela": "Salve para conferir [critério]"
+  }
+ ],
+ "por_que_funciona": [
+  "Os dois primeiros frames mantêm o apresentador sentado e gesticulando diante da mesma prateleira, dando continuidade à explicação.",
+  "No terceiro frame, um celular ampliado ocupa a lateral e o rosto aparece mais próximo; a mudança oferece espaço para mostrar o registro citado.",
+  "A transcrição explica uma dificuldade, relata tentativas e depois mostra uma alternativa; essa ordem sustenta a passagem de crença para evidência.",
+  "Os últimos frames voltam ao apresentador sem a sobreposição grande, deixando o encerramento visualmente mais simples."
+ ],
+ "quando_usar": "Para quem tem um dado verificável que corrige uma crença específica sobre a categoria, antes de apresentar a solução. Em investimentos, treino, imóveis ou marketing, mantenha o mesmo recorte e a mesma métrica na comparação.",
+ "roteiro_modelo": "Dizem que [crença comum]. Neste [recorte verificável], o dado foi [número e unidade].\n\n[Pausa curta / corte]\n\nEsse número vem de [fonte], entre [datas], com [amostra]. Mede [métrica], neste contexto.\n\n[Pausa curta / corte]\n\nOlha [detalhe do registro]. Aqui, [explicação do dado]. [Limitação] fica fora da comparação.\n\n[Pausa curta / corte]\n\nCom [produto], comece por [ação]. Depois confira [critério] no seu contexto.\n\n[Pausa curta / corte]\n\nO dado ajuda em [decisão específica]. Ele não prova [conclusão indevida].\n\n[Pausa curta / corte]\n\nSalve para consultar [critério] antes de [decisão].",
+ "tomadas_celular": [
+  "Plano médio horizontal à mesa, celular apoiado na altura dos olhos e janela frontal, por 12s.",
+  "Mesmo enquadramento com mãos segurando cartão do dado, luz frontal suave; grave 7s.",
+  "Gravação de tela do registro autorizado no celular, brilho legível e sem reflexo; capture 8s para sobreposição.",
+  "Close do rosto e gesto apontando para a lateral reservada ao registro, luz de janela; grave 8s.",
+  "Plano médio demonstrando uma ação do produto ou segurando sua representação, luz difusa; grave 8s.",
+  "Plano médio de fechamento olhando para a lente, mesma luz e fundo, por 5s."
+ ],
+ "caminho_ia": "Use avatar com voz sintética para a fala e Veo ou Kling para os planos de apoio. Prompts: \"Horizontal 16:9 medium shot, generic presenter seated at a desk, white wall and shelf with unbranded frames, soft frontal daylight, conversational hand gestures, locked camera, no text, 5 seconds.\" e \"Horizontal 16:9 close-up, hand holding [product or neutral evidence card] beside a smartphone, clean desk, soft window light, empty left area for an evidence overlay, no logos, 6 seconds.\" No CapCut, coloque o documento real fornecido pelo comprador na tela lateral e adicione fonte e período. Se não houver documento, use slideshow de cartões com campos vazios; não gere números ou telas como se fossem evidência.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça um vídeo horizontal 16:9 de 40s com os blocos 0-5, 5-12, 12-20, 20-28, 28-35 e 35-40s. Tom didático e calmo. Abra com crença específica e dado contrário, identifique fonte, período e amostra, explique limite, demonstre uma ação e encerre pedindo para salvar. Use plano médio, gestos, aproximação e celular sobreposto na lateral. Nos frames não há legenda principal grande; acrescente só rótulos curtos de dado e fonte. Nunca invente estatística, retorno financeiro ou evidência clínica, nem transplante o exemplo de produto da referência. Não copie pessoa, anunciante, marca, logotipo, domínio, cenário identificável nem falas da referência. Use apenas os dados fornecidos; deixe [colchetes] para informação ausente. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, antítese vazia ou pergunta decorativa.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Antes de decidir sobre [tema], confira [métrica]. Em [recorte e período], [dado com unidade]. Fonte: [fonte verificável]. Limite da comparação: [limitação]. Salve para consultar.",
+ "alerta_politica": "Meta: sem atribuir condição de saúde ou situação financeira ao espectador; sem antes/depois corporal e promessa de resultado de saúde ou perda de peso. Investimentos: não garantir rentabilidade; a CVM exige atenção aos riscos e ao fato de que retornos passados não garantem retornos futuros em análises de valores mobiliários. Não converter um recorte de dados em recomendação universal. Se houver oferta de crédito ou instituição financeira na adaptação, observar regras do Banco Central e divulgar custos e condições. Em imóveis, observar as restrições da Meta para anúncios de moradia e segmentação discriminatória.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b41e5fcb",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-contrario-do-que-todo-mundo-diz/frames/f1.jpg",
+    "videos/vid-contrario-do-que-todo-mundo-diz/frames/f2.jpg",
+    "videos/vid-contrario-do-que-todo-mundo-diz/frames/f3.jpg",
+    "videos/vid-contrario-do-que-todo-mundo-diz/frames/f4.jpg",
+    "videos/vid-contrario-do-que-todo-mundo-diz/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

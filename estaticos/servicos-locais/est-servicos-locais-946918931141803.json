@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-946918931141803",
+  "tipo": "estatico",
+  "titulo": "Desconto e entrega grátis com refeição em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma bandeja com refeição ocupa o centro de um fundo vermelho com trilhos desenhados. Acima, desconto e entrega grátis; abaixo, chamada para pedir comida durante a viagem.",
+  "por_que_funciona": [
+    "O “60% OFF” em branco ocupa grande área e torna o incentivo fácil de identificar.",
+    "A entrega grátis aparece imediatamente abaixo do desconto, reunindo as condições principais.",
+    "A bandeja aberta mostra os componentes da refeição em primeiro plano.",
+    "Os trilhos curvos tornam explícito o contexto de viagem de trem."
+  ],
+  "quando_usar": "Para serviços de entrega de refeições com promoção de primeira compra em um contexto de consumo específico.",
+  "estrutura_texto": "[Chamada sobre ocasião de consumo]\nATÉ [percentual] OFF\n+ [benefício de entrega]\n[Chamada para pedir] | [Marca]",
+  "legenda": "Peça [refeição] durante [ocasião] e aproveite até [percentual] de desconto e [condição de entrega] no primeiro pedido. Confira [regras, cobertura e pedido mínimo] e faça seu pedido.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use vermelho intenso como fundo e tipografia branca pesada para “ATÉ [percentual] OFF” e “[condição de entrega]”. Posicione uma bandeja de refeição em perspectiva no centro inferior e desenhe trilhos curvos ao redor, adaptando o cenário à ocasião de consumo informada. Coloque a oferta na parte superior. Reserve o rodapé para chamada e marca própria. Mostre com clareza limites, elegibilidade e condições do desconto e da entrega.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "946918931141803",
+    "anunciante": "Zomato",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-07",
+    "dias_no_ar": 99,
+    "variacoes_ativas": 3,
+    "texto_original": "get up to 60% OFF and enjoy FREE delivery on your first order.\nMake your train journey better.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-946918931141803.jpg"
+}

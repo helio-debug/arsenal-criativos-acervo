@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1777084967036922",
+  "tipo": "estatico",
+  "titulo": "Seguro de vida com benefícios para a rotina",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma mulher jogando tênis serve de fundo para a apresentação de um seguro de vida. Etiquetas coral destacam categoria e cotação, com bloco azul de assinatura no rodapé.",
+  "por_que_funciona": [
+    "A cena de tênis associa o serviço a uma atividade cotidiana.",
+    "O destaque coral em “em vida” direciona a atenção ao benefício central.",
+    "“Para você e para seu pet” explicita dois destinatários da assistência.",
+    "O botão “Cote agora” apresenta o próximo passo."
+  ],
+  "quando_usar": "Para apresentar benefícios de uso cotidiano de um seguro de vida e levar à cotação.",
+  "estrutura_texto": "[Categoria de seguro]\nBenefícios que você aproveita [quando]:\npara [público] e [beneficiário adicional].\n[Cote agora]\n[Assinatura da marca]",
+  "legenda": "Conte com [proteção] e [assistências] para diferentes momentos da rotina. Conheça os benefícios de [seguro] e peça sua cotação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Componha uma cena esportiva com pessoa adulta à direita e texto branco à esquerda sobre fundo azul. Use etiquetas coral para categoria e CTA, destaque a expressão do benefício e finalize com curva azul clara no rodapé. Integre a IMAGEM 2 como apresentação do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Meta: não atribua vulnerabilidade financeira ou condição de saúde ao público. Informe coberturas, carências, exclusões e condições reais; descontos e assistências devem corresponder ao contrato. Observe as regras da SUSEP quando se tratar de seguro.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1777084967036922",
+    "anunciante": "Zurich no Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-02",
+    "dias_no_ar": 135,
+    "variacoes_ativas": 1,
+    "texto_original": "Proteção, cuidado no dia a dia e apoio para você e quem você ama em diferentes momentos da vida.\nCuidado para sua vida",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1777084967036922.jpg"
+}

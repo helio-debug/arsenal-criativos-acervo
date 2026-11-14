@@ -1,0 +1,81 @@
+{
+ "id": "vid-aplicacoes-planos-preco",
+ "titulo": "Peça animada reúne aplicações do produto, opções de plano e preço mensal",
+ "formato_video": "catalogo-produto",
+ "nichos": [
+  "saas-b2b",
+  "automotivo",
+  "seguros",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "duracao": "15-16s",
+ "proporcao": "1:1",
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Composição quadrada preta; bloco azul entra à esquerda e imagem recortada do produto ocupa a direita.",
+   "fala": "[Produto] para [aplicação principal].",
+   "texto_tela": "[Categoria do produto]\nPara [aplicação]"
+  },
+  {
+   "tempo": "3-7s",
+   "cena": "Completar bloco azul com quantidade em branco e preço maior; faixa colorida para valor por unidade, se aplicável.",
+   "fala": "[Quantidade ou cobertura] por [preço] [periodicidade].",
+   "texto_tela": "[Quantidade ou cobertura]\n[Preço]/[período]\n[Condição essencial]"
+  },
+  {
+   "tempo": "7-11s",
+   "cena": "Faixa branca inferior reúne pequenas opções em caixas escuras; oferta principal continua visível acima.",
+   "fala": "Compare [opção A] e [opção B].",
+   "texto_tela": "[Opção A] | [Opção B]\nCompare as condições"
+  },
+  {
+   "tempo": "11-15.5s",
+   "cena": "Corte para fundo preto com assinatura e convite em branco centralizados.",
+   "fala": "Fale com [equipe] e consulte [condições].",
+   "texto_tela": "[Marca]\n[Canal de contato]\nConsulte [condições]"
+  }
+ ],
+ "hook": {
+  "falado": "[Produto] para [aplicação principal].",
+  "texto_tela": "[Categoria do produto]\nPara [aplicação]",
+  "visual": "Composição quadrada preta; bloco azul entra à esquerda e imagem recortada do produto ocupa a direita."
+ },
+ "por_que_funciona": [
+  "A imagem recortada à direita dá um objeto concreto à oferta escrita no bloco azul.",
+  "O preço ocupa a maior área tipográfica e fica junto da quantidade e da cobrança mensal.",
+  "A faixa branca inferior organiza as opções em caixas pequenas sem retirar a oferta principal da tela.",
+  "O encerramento elimina os blocos de preço e deixa só assinatura em branco sobre preto."
+ ],
+ "quando_usar": "Para uma oferta já definida, com preço e opções que possam ser comparados em poucos segundos. Use no fundo do funil; em seguros, substitua quantidade por cobertura e informe as condições da cotação.",
+ "roteiro_modelo": "[Produto] para [aplicação principal].\n\n[CORTE / PAUSA]\n\n[Quantidade ou cobertura] por [preço] [periodicidade].\n\n[CORTE / PAUSA]\n\nCompare [opção A] e [opção B].\n\n[CORTE / PAUSA]\n\nFale com [equipe] e consulte [condições].",
+ "tomadas_celular": [
+  "Filme o produto ou um objeto da aplicação em plano fechado quadrado, fundo liso e luz de janela, 3s.",
+  "Grave o produto fixo em três quartos, câmera apoiada e luz lateral difusa, 4s; sobreponha preço na edição.",
+  "Filme duas opções lado a lado, plano superior e luz uniforme, 4s.",
+  "Grave um fundo preto limpo com enquadramento quadrado e luz controlada, 4,5s; aplique assinatura e CTA no CapCut."
+ ],
+ "caminho_ia": "Gere uma imagem recortada com Runway e monte um slideshow animado no CapCut, com voz sintética licenciada. Prompt 1: \"Square 1:1 commercial product shot of [product or application object], three-quarter view, white seamless background, soft studio key light, sharp edges for masking, product positioned on right side, no logos, no text.\" Prompt 2: \"Square 1:1 clean technology advertising background, deep black upper area, blank cobalt blue rounded rectangle on left, plain light gray lower band, subtle lateral light streaks, locked-off camera, no lettering.\" Faça os números como texto editável; reserve pelo menos 4s de leitura para preço e condição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao meu produto com os dados abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um catálogo animado quadrado 1:1 de 15,5s em 4 blocos: 0-3, 3-7, 7-11 e 11-15,5s. Produto recortado à direita, bloco azul com quantidade e preço à esquerda, faixa clara com opções embaixo e assinatura final sobre preto. Locução curta e comercial, com pausas para ler o preço. Texto branco, preço maior que o restante e condições legíveis. Não prometa funcionamento sem falhas. Adapte quantidade para unidade, recurso, pacote ou cobertura conforme a categoria; só use preço por unidade se a conta for válida. Se não houver plano mensal, use a periodicidade real. Em seguros, deixe claro quando o preço depender de cotação. Não copie pessoas, marcas, interfaces, números, depoimentos ou frases da referência. Use somente dados comprováveis do meu produto. Não invente experiência de uso, vínculo de investidor ou resultado. Escreva em pt-BR falado, com frases curtas e campos [entre colchetes] para dados ausentes. Evite superlativos, perguntas de enfeite e frases de efeito.\n\nEntregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] para [aplicação]. [Quantidade ou cobertura] por [preço] [periodicidade], conforme [condições]. Compare [opções] e consulte [equipe/canal].",
+ "alerta_politica": "Para seguros, a publicidade deve corresponder às condições contratuais: informe cobertura, exclusões relevantes, franquia e se o preço depende de análise ou cotação. Não anuncie cobertura total ou indenização garantida. Consulte as regras SUSEP aplicáveis e disponibilize as condições antes da contratação. Meta: evite afirmar atributos pessoais do público, como situação financeira. Referência: https://www.gov.br/susep/pt-br/assuntos/meu-futuro-seguro/seguros-previdencia-e-capitalizacao/seguros/informacoes-importantes",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-7fb53e83",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-aplicacoes-planos-preco/frames/f1.jpg",
+    "videos/vid-aplicacoes-planos-preco/frames/f2.jpg",
+    "videos/vid-aplicacoes-planos-preco/frames/f3.jpg",
+    "videos/vid-aplicacoes-planos-preco/frames/f4.jpg"
+   ]
+  }
+ ]
+}

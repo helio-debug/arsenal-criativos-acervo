@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1048691656590265",
+  "tipo": "estatico",
+  "titulo": "Coleção de e-books com preço anterior riscado",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Capas coloridas de e-books sobre gestão e negócios aparecem inclinadas em um mosaico vertical. Uma etiqueta central mostra o preço de $149 ao lado do valor anterior de $1,332 riscado.",
+  "por_que_funciona": [
+    "As várias capas tornam visível a variedade de temas do pacote.",
+    "As cores distintas ajudam a separar os livros na composição.",
+    "A etiqueta escura central destaca o preço atual em branco.",
+    "O preço anterior riscado permite comparar os valores de imediato."
+  ],
+  "quando_usar": "Para vender uma coleção digital com diversos títulos e uma condição promocional comprovável.",
+  "estrutura_texto": "[Capas com títulos dos materiais]\n[Preço anterior riscado]\n[Preço atual em destaque]",
+  "legenda": "Reúna materiais sobre [temas de negócios] em uma única coleção. Conheça o pacote [nome do pacote], confira os títulos incluídos e aproveite de [preço anterior] por [preço atual], conforme as condições da oferta.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um mosaico vertical de capas digitais inclinadas, com cores fortes e títulos grandes, distribuídas sobre fundo cinza-claro. Deixe algumas capas parcialmente cortadas nas bordas para sugerir variedade real do pacote. Sobreponha no centro uma etiqueta escura com preço atual branco e outra clara com preço anterior riscado. Use somente títulos e valores fornecidos, sem promessas de renda.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1048691656590265",
+    "anunciante": "Business Explained",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-21",
+    "dias_no_ar": 542,
+    "variacoes_ativas": 1,
+    "texto_original": "ATTENTION: This bundle is a must-have for marketers, project managers, entrepreneurs, consultants, analysts, and everyone who wants to take their business knowledge to another level.\n\nElevate Your Career with the Everything EXPLAINED Bundle!\n\nGet the Everything EXPLAINED Bundle today and save over $1,700!\nbusiness-explained.com/shop/everything-explained-bundle/",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1048691656590265.jpg"
+}

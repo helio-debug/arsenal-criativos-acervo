@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-518967684570257",
+  "tipo": "estatico",
+  "titulo": "Curso de artesanato com peça pronta e CTA destacado",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de terço verde em uma mão ocupa o lado esquerdo e se dissolve no fundo branco. À direita aparecem título e descrição do curso, com CTA preto sobre faixas amarelas na base.",
+  "por_que_funciona": [
+    "O terço em primeiro plano mostra o tipo de peça ensinado no curso.",
+    "A faixa verde clara separa a modalidade online do restante do texto.",
+    "O fundo branco mantém o bloco explicativo legível.",
+    "O amarelo na base diferencia o convite à matrícula da descrição."
+  ],
+  "quando_usar": "Para apresentar um curso online de artesanato a quem deseja aprender uma técnica e avaliar a venda das peças.",
+  "estrutura_texto": "CURSO ONLINE\n[NOME DO CURSO]\nAprenda a [HABILIDADE]\ncom [MÉTODO].\n[PROPÓSITO DO PRODUTO]\nMatricule-se [PRAZO] e\n[OBJETIVO]",
+  "legenda": "Aprenda a criar [peças artesanais] com aulas online e passo a passo para iniciantes. Confira [conteúdo do curso], [condições da oferta] e informações para matrícula em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição quadrada, com foto aproximada do produto artesanal na mão à esquerda e transição suave para branco à direita. No topo direito, crie faixa verde clara com modalidade em verde escuro e título logo abaixo. Centralize um texto preto curto na coluna direita. Destaque o CTA inferior com duas faixas amarelas e fonte preta em negrito. Não inclua promessa de retorno financeiro.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Depoimentos e oportunidades divulgadas devem ser reais e verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "518967684570257",
+    "anunciante": "Ateliê Jô Silva",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-04",
+    "dias_no_ar": 498,
+    "variacoes_ativas": 1,
+    "texto_original": "🔔 ÚLTIMAS VAGAS COM DESCONTO! 🔔\nJá pensou em transformar fé, arte e dedicação em uma renda extra abençoada?\n\nCom o curso TERÇOS NA PRÁTICA, você aprende, do zero, a criar lindos terços católicos artesanais — mesmo sem experiência anterior! São aulas 100% online, com passo a passo simples, prático e direto.\n\n✅ Comece com pouco investimento\n✅ Venda suas peças e recupere o valor do curso com a primeira encomenda\n✅ Faça no seu tempo, no conforto da sua casa\n✅ Descubra uma atividade que une paz interior e renda no bolso\n\n⚠️ ATENÇÃO: As vagas com valor promocional estão acabando. Garanta a sua hoje e comece ainda esta semana!\n\n👉 Clique no botão e inscreva-se agora!\nA sua nova fonte de renda pode começar com um terço!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-518967684570257.jpg"
+}

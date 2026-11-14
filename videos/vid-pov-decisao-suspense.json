@@ -1,0 +1,109 @@
+{
+ "id": "vid-pov-decisao-suspense",
+ "titulo": "POV animado: rotina interrompida por ameaça e decisão em suspense",
+ "formato_video": "pov",
+ "nichos": [
+  "educacao-concursos",
+  "infoproduto-cursos",
+  "eventos-lives"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "45-60s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Pessoa na rotina]: Falta conferir [item da tarefa].",
+  "texto_tela": "POV: [situação cotidiana]",
+  "visual": "Animação em primeira pessoa: mãos junto ao balcão e uma pessoa esperando; luz fria de teto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "POV ilustrado diante de um balcão. Uma pessoa aguarda a conferência de um objeto.",
+   "fala": "[Pessoa na rotina]: Falta conferir [item da tarefa]. [Protagonista]: Vou olhar agora.",
+   "texto_tela": "POV: [situação cotidiana]"
+  },
+  {
+   "tempo": "8-16s",
+   "cena": "Mão ergue celular; aviso vermelho interrompe o atendimento.",
+   "fala": "[Protagonista]: Chegou um aviso: [regra do cenário fictício]. [Colega]: Deve ser [explicação cotidiana].",
+   "texto_tela": "SIMULAÇÃO FICTÍCIA • [aviso curto]"
+  },
+  {
+   "tempo": "16-26s",
+   "cena": "Corte para corredor em perspectiva ampla; personagens se deslocam para uma sala.",
+   "fala": "[Colega]: O pessoal foi para [local]. [Protagonista]: Vamos conferir [informação disponível] antes de seguir.",
+   "texto_tela": "[Informação que precisa ser conferida]"
+  },
+  {
+   "tempo": "26-37s",
+   "cena": "Sala mais escura, pernas do protagonista visíveis; porta fechada à frente.",
+   "fala": "[Colega]: Aqui diz para [conduta A]. [Protagonista]: Mas ainda falta [dado decisivo].",
+   "texto_tela": "[Regra apresentada]"
+  },
+  {
+   "tempo": "37-48s",
+   "cena": "Aproximação da porta; uma voz externa apresenta um pedido que conflita com o aviso.",
+   "fala": "[Voz externa]: Preciso de [pedido conflitante]. [Colega]: Isso contraria [regra]. [Protagonista]: Vou conferir [critério ligado ao tema do produto].",
+   "texto_tela": "[Pedido] × [regra]"
+  },
+  {
+   "tempo": "48-60s",
+   "cena": "Fundo escurecido sobre a porta; dois cartões de escolha, vermelho e azul.",
+   "fala": "[Protagonista]: Escolha entre [ação A] e [ação B]. Comente a opção e o dado que usou para decidir.",
+   "texto_tela": "[AÇÃO A] / [AÇÃO B] • Comente sua escolha"
+  }
+ ],
+ "por_que_funciona": [
+  "O balcão e as mãos visíveis situam o espectador no lugar de quem precisa agir.",
+  "O alerta vermelho interrompe a conversa cotidiana e muda a direção da história.",
+  "A passagem do corredor iluminado para a sala escura concentra a atenção na porta.",
+  "Os dois cartões coloridos no final oferecem respostas concretas para o comentário."
+ ],
+ "quando_usar": "Para cursos e eventos que ensinam análise de situações ou tomada de decisão. Use no topo do funil como simulação de um dilema ligado ao tema ensinado; a duração proposta é estimada, pois a referência não informa o tempo.",
+ "roteiro_modelo": "[Corte / pausa | 0-8s]\n[Pessoa na rotina]: Falta conferir [item da tarefa]. [Protagonista]: Vou olhar agora.\n\n[Corte / pausa | 8-16s]\n[Protagonista]: Chegou um aviso: [regra do cenário fictício]. [Colega]: Deve ser [explicação cotidiana].\n\n[Corte / pausa | 16-26s]\n[Colega]: O pessoal foi para [local]. [Protagonista]: Vamos conferir [informação disponível] antes de seguir.\n\n[Corte / pausa | 26-37s]\n[Colega]: Aqui diz para [conduta A]. [Protagonista]: Mas ainda falta [dado decisivo].\n\n[Corte / pausa | 37-48s]\n[Voz externa]: Preciso de [pedido conflitante]. [Colega]: Isso contraria [regra]. [Protagonista]: Vou conferir [critério ligado ao tema do produto].\n\n[Corte / pausa | 48-60s]\n[Protagonista]: Escolha entre [ação A] e [ação B]. Comente a opção e o dado que usou para decidir.",
+ "tomadas_celular": [
+  "POV com celular na altura dos olhos diante de uma mesa, mãos no quadro e luz de janela, 8s; use como base para ilustração.",
+  "Close de celular com aviso fictício criado no editor, luz lateral suave e tela sem dados pessoais, 8s.",
+  "POV atravessando um corredor livre, luz ambiente e movimento lento, 10s.",
+  "POV sentado diante de uma porta fechada, pernas em quadro e luz lateral baixa, 11s.",
+  "Close da porta sem abri-la, câmera firme e mesma luz baixa, 11s.",
+  "Plano fixo da porta por 12s para sobrepor as duas escolhas no editor."
+ ],
+ "caminho_ia": "Faça a animação no Veo ou Kling em clipes curtos e mantenha mãos, roupa e ambiente consistentes com uma imagem-base. Prompt 1: \"Vertical 9:16 hand-drawn first-person animation, visible hands at a generic service counter, [product-related task] on the counter, wide-angle perspective, cool overhead lighting, slow head movement, no logos, no text.\" Prompt 2: \"Vertical 9:16 first-person illustrated scene, seated viewpoint facing a closed metal door, visible knees and hands, dim side lighting, restrained suspense, [product-related decision] represented by a neutral prop, slow push-in, no text.\" Use vozes sintéticas licenciadas para os personagens e monte avisos e escolhas no CapCut; identifique a história como ficção.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um POV animado de 60s, em seis blocos: 0-8 rotina; 8-16 aviso; 16-26 deslocamento; 26-37 regra e dúvida; 37-48 pedido conflitante; 48-60 escolha entre duas ações. Use diálogo curto, pausas de suspense, mãos e pernas no quadro, alerta vermelho e cartões finais vermelho e azul. Ligue o dilema ao conteúdo do produto sem inventar riscos reais. Identifique como simulação fictícia. A pergunta final precisa exigir uma decisão e justificativa. Não reproduza a ameaça, o supermercado ou os personagens da referência. Não copie pessoas, marcas, nomes, falas literais, cenários identificáveis ou alegações da referência. Use apenas informações fornecidas sobre meu produto; mantenha campos sem informação entre [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias ou perguntas decorativas.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Na simulação de [situação], você escolheria [ação A] ou [ação B]? Comente a opção e o dado que pesou na decisão. Esse é um dos temas de [produto].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-45171d43",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-pov-decisao-suspense/frames/f1.jpg",
+    "videos/vid-pov-decisao-suspense/frames/f2.jpg",
+    "videos/vid-pov-decisao-suspense/frames/f3.jpg",
+    "videos/vid-pov-decisao-suspense/frames/f4.jpg",
+    "videos/vid-pov-decisao-suspense/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-bc2f9a67",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c8c6331a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

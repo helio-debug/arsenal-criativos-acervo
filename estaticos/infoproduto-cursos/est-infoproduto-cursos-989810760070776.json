@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-989810760070776",
+  "tipo": "estatico",
+  "titulo": "Lista de certificações ao lado do especialista",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Retrato de um palestrante com microfone à esquerda e lista de seis temas de certificação à direita, sobre fundo preto com formas diagonais.",
+  "por_que_funciona": [
+    "O título alto e condensado destaca de imediato a modalidade online.",
+    "Os marcadores verdes organizam as áreas cobertas pela formação.",
+    "O palestrante com microfone vincula visualmente a oferta a uma situação de ensino."
+  ],
+  "quando_usar": "Para apresentar o escopo de uma formação profissional e ajudar interessados a identificar temas relevantes.",
+  "estrutura_texto": "CERTIFICAÇÕES ONLINE\n• [Tema 1]\n• [Tema 2]\n• [Tema 3]\n• [Tema 4]\n• [Tema 5]\n• [Comunidade e público]",
+  "legenda": "Aprofunde sua formação em [área] com certificações online sobre [temas]. Conheça o conteúdo e as condições de acesso para [público] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com formas diagonais discretas em cinza. Posicione retrato autorizado do especialista com microfone na metade esquerda e título condensado branco no alto à direita. Abaixo, distribua seis itens em branco com marcadores verdes e espaçamento legível. Reserve o canto superior esquerdo para assinatura própria.",
+  "alerta_politica": "Ao divulgar formação sobre reabilitação, não prometa cura nem resultados clínicos garantidos. A certificação não deve ser apresentada como habilitação para atos reservados a profissões regulamentadas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "989810760070776",
+    "anunciante": "Guilherme Anziliero",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "Certificação completa em Preparação Física Esportiva com método baseado em dados. Toque em saiba mais para descobrir como ter acesso.\nAcesse agora >>\nVamos além do ensino tradicional, mergulhando no que é necessário para você transformar a performance dos seus atletas.Você será capacitado não apenas para alcançar a excelência, mas para definir novos padrões de desempenho.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-989810760070776.jpg"
+}

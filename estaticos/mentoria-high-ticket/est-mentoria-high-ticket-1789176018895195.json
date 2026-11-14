@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1789176018895195",
+  "tipo": "estatico",
+  "titulo": "Formação clínica com módulos e suporte em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça bege e dourada apresenta formação em dois procedimentos faciais. Foto de rosto com luvas, selo online, quatro colunas de suporte, imagens explicativas e botão organizam a oferta.",
+  "por_que_funciona": [
+    "O nome dos dois procedimentos em letras grandes delimita o conteúdo da formação.",
+    "O selo 100% online explicita a modalidade.",
+    "As quatro colunas detalham frequência de aulas, duração do suporte e discussão de casos.",
+    "O botão dourado fecha a leitura com uma ação ligada ao aprendizado da técnica."
+  ],
+  "quando_usar": "Para apresentar formação clínica a profissionais habilitados que precisam avaliar conteúdo e acompanhamento.",
+  "estrutura_texto": "Formação completa\nDomine [técnica 1] e mais [técnica 2]\n[Posicionamento profissional]\nAcompanhamento [modalidade]\n[Aulas] | [Duração do suporte] | [Discussão de casos] | [Modalidade]\n[Dois módulos e descrições]\n[Benefícios de aprendizado]\nQuero aprender [técnica]",
+  "legenda": "Formação para [profissionais habilitados] que desejam aprofundar conhecimentos em [procedimentos]. A mentoria reúne [aulas gravadas], [encontros ao vivo], discussão de casos e suporte por [período]. Consulte conteúdo, requisitos e condições de participação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use paleta bege e dourada, título serifado grande à esquerda e recorte de rosto com luvas à direita. Inclua selo de modalidade, faixa com quatro ícones de entregas, dois blocos de módulos com imagens ilustrativas e botão dourado no rodapé. Foque objetivos educacionais e requisitos profissionais; evite promessas de segurança absoluta ou resultados clínicos garantidos.",
+  "alerta_politica": "Formação em procedimentos invasivos deve ser dirigida a profissionais legalmente habilitados e respeitar o escopo profissional e as regras do conselho competente, como CFO/CRO. Não prometa resultados clínicos, segurança absoluta ou habilitação automática; use imagens clínicas autorizadas, sem antes e depois corporal.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1789176018895195",
+    "anunciante": "Dra Clara Freitas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-14",
+    "dias_no_ar": 31,
+    "variacoes_ativas": 1,
+    "texto_original": "O Método Clara Freitas foi desenvolvido para cirurgiões-dentistas que desejam desenvolver mais segurança para realizar lipo de papada na prática clínica.\n\nMais do que um curso online, trata-se de uma mentoria com acompanhamento contínuo, onde o aluno tem acesso a aulas gravadas, encontros quinzenais ao vivo, discussão de casos clínicos e suporte durante toda a sua evolução.\n\nAo longo da mentoria, você irá aprofundar seus conhecimentos em planejamento, diagnóstico, execução do procedimento, pós-operatório e tomada de decisão clínica, sempre com foco na aplicação prática.\n\n✅ Mentoria 100% online com acompanhamento quinzenal.\n✅ Discussão de casos clínicos reais e suporte durante 6 meses.\n✅ Aulas gravadas passo a passo para estudar no seu ritmo.\n\n⚠️ Este programa possui finalidade exclusivamente educacional e destina-se a cirurgiões-dentistas habilitados. A mentoria não confere título de especialista, habilitação profissional ou autorização para realização de procedimentos, permanecendo o exercício profissional sujeito à legislação vigente, às normas do Sistema CFO/CRO e à formação individual de cada profissional.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1789176018895195.jpg"
+}

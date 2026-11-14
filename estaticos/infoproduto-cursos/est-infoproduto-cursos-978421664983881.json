@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-978421664983881",
+  "tipo": "estatico",
+  "titulo": "Curso culinário com benefícios e variedade visual",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Título e lista de benefícios ocupam a coluna esquerda sobre fundo creme. À direita, pratos de diferentes biscoitos formam uma vitrine vertical; a inscrição aparece em uma faixa rosa inferior.",
+  "por_que_funciona": [
+    "Os vários pratos exibem diversidade de receitas e acabamentos.",
+    "A coluna de ícones permite localizar os benefícios do curso.",
+    "O selo superior comunica flexibilidade de horário e local.",
+    "A faixa rosa separa o convite à inscrição das informações do conteúdo."
+  ],
+  "quando_usar": "Para mostrar variedade e conteúdo de um curso de culinária antes da inscrição.",
+  "estrutura_texto": "Transforme [ingredientes] em [resultado]\nAprenda [condição de acesso]\nCurso de [especialidade]\n[benefício]\n[receitas] | [variedade] | [possibilidade de renda] | [suporte]\nFaça sua inscrição e [próximo passo]\n[aulas] | [material digital] | [conteúdos extras] | [comunidade]",
+  "legenda": "Aprenda [especialidade] com [quantidade real] receitas e aulas [formato]. Prepare para a família, para presentear ou para iniciar vendas, conforme sua realidade. Conheça [materiais e bônus] e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize uma coluna esquerda com título escuro, complemento manuscrito rosa e benefícios com ícones circulares. Na direita, disponha pratos com diferentes resultados culinários da IMAGEM 2. Use creme, rosa e amarelo, selo no alto sobre acesso e faixa rosa de inscrição acima de quatro pequenos blocos de conteúdo no rodapé. Não inclua renda garantida.",
+  "alerta_politica": "Meta: apresentar a oportunidade e os requisitos com clareza, sem garantir renda, lucro ou independência financeira. Ganhos dependem de atividade, custos e condições individuais; não sugerir emprego ou remuneração garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "978421664983881",
+    "anunciante": "Curso Biscoitos Caseiros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 2,
+    "texto_original": "👀 Quer fazer biscoitos como esses?\nAprenda no meu curso de Biscoitos! Mais de 25 receitas incríveis para vender muito, todos os dias. Receitas baratas e lucrativas.\n\nPerfeitos para quem gosta de comer biscoitos, para fazer para os amigos, família e até vender e faturar MUITO! 💰\n👉 CURSO COMPLETO + BÔNUS EXCLUSIVOS\nJá formei várias alunas, e agora chegou sua vez! Faça agora mesmo sua inscrição.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-978421664983881.jpg"
+}

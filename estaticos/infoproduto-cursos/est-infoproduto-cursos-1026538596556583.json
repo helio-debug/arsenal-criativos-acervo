@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1026538596556583",
+  "tipo": "estatico",
+  "titulo": "Formação sobre floresta com preço no rodapé",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma árvore de raízes expostas ocupa a floresta iluminada. O título fica à direita, com prazo, mensalidade e acesso vitalício em faixas inferiores.",
+  "por_que_funciona": [
+    "A árvore e os frascos associam o tema do curso ao uso de plantas.",
+    "O título claro contrasta com a vegetação escura.",
+    "Prazo e mensalidade ficam reunidos no rodapé, facilitando a comparação da oferta."
+  ],
+  "quando_usar": "Para divulgar formação online a interessados no tema que já avaliam duração e investimento.",
+  "estrutura_texto": "Formação Profissional em [tema]\n[proposta de aprofundamento]\n[abrangência da certificação]\nConclusão em até [prazo]\nR$[valor] por mês\nAcesso [condição]",
+  "legenda": "Aprofunde seus conhecimentos em [tema] com uma formação [modalidade] de [carga horária]. Aprenda [conteúdos] e conte com [suporte]. Consulte os detalhes da certificação e saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário natural escuro, luz quente ao fundo, árvore e objetos de estudo relacionados ao tema. Posicione título em serifada clara no alto à direita e condições comerciais em placas discretas na base. Preserve a legibilidade.",
+  "alerta_politica": "Não prometa cura ou habilitação para prescrever tratamentos. Alegações sobre plantas e saúde devem ser fundamentadas; explicite os limites da formação e comprove certificação e reconhecimento anunciados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1026538596556583",
+    "anunciante": "terapiamilenar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-29",
+    "dias_no_ar": 138,
+    "variacoes_ativas": 1,
+    "texto_original": "QUER SER UM ESPECIALISTA EM FITOTERAPIA?\n\nTransforme seu conhecimento em Plantas Medicinais numa carreira de sucesso!\n\n• Identifique e utilize plantas medicinais\n• Aprenda preparo, cultivo e manipulação\n• Entenda patologia, fisiologia e fitoterapia aplicada\n\nReceba:\n- Curso 100% online com certificação profissional (600h)\n- Suporte direto e grupo no WhatsApp \n\nClique para saber mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1026538596556583.jpg"
+}

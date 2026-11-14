@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2180232269212905",
+  "tipo": "estatico",
+  "titulo": "Vitrine de cursos com seis opções e preço inicial",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma mulher aparece à esquerda de uma grade com seis fotos de doces e nomes de cursos. Fundo de chocolate, elementos de confeitaria, botão rosa e selo de preço compõem a oferta.",
+  "por_que_funciona": [
+    "As seis fotos mostram as receitas cobertas pelos cursos.",
+    "Os nomes sob as fotos ajudam a comparar as opções.",
+    "O selo de preço inicial se destaca no canto inferior direito.",
+    "O botão rosa com cursor indica onde prosseguir."
+  ],
+  "quando_usar": "Para vender um catálogo de cursos de confeitaria com entrada de baixo valor.",
+  "estrutura_texto": "CONHEÇA NOSSOS CURSOS DE [tema]\nACESSE O LINK E VEJA TODAS AS OPÇÕES\npara começar [atividade] hoje!\n[grade de cursos com nomes]\nCursos a partir de: [preço]\nCLIQUE NO LINK ABAIXO!",
+  "legenda": "Conheça nossos cursos e materiais de [tema]. Aprenda [receitas ou técnicas] com passo a passo para [objetivo de aprendizagem]. Veja as opções a partir de [preço] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo marrom chocolate com detalhes rosa e creme, utensílios ilustrados nas bordas, pessoa adulta à esquerda e grade de seis fotos de receitas à direita com legendas. Faça título grande no topo, faixa de orientação acima da grade, botão rosa na base e selo de preço inicial. Adapte as fotos à oferta da IMAGEM 2 sem inventar resultados financeiros.",
+  "alerta_politica": "Evite promessas de faturamento ou lucro garantido com o curso. Alegações de renda e de número de alunos precisam de comprovação; informe quais cursos estão disponíveis pelo preço inicial anunciado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2180232269212905",
+    "anunciante": "Thayná Oliveira Doceria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-18",
+    "dias_no_ar": 88,
+    "variacoes_ativas": 2,
+    "texto_original": "✨ Conheça nossos cursos e apostilas que já estão ajudando milhares de alunos a faturarem todos os dias na confeitaria!\n\nSe você sempre quis começar a vender doces, ter uma renda extra ou até transformar a cozinha da sua casa em um negócio lucrativo, aqui você encontra o caminho.\n\nNossos cursos e apostilas foram criados para ensinar receitas completas, práticas e lucrativas, com passo a passo detalhado, técnicas profissionais e dicas que facilitam mesmo para quem está começando do zero. 👩🏻🍳🍮\n\nSão diversos conteúdos pensados para quem quer produzir doces bonitos, saborosos e com alto potencial de venda, sem precisar de grandes investimentos.\n\n📚 Apostilas completas\n🎥 Vídeo aulas práticas\n💡 Dicas de produção, organização e vendas\n🚀 Conteúdos feitos para quem quer começar de verdade\n\nTudo isso com acesso imediato, para você aprender no seu tempo e começar a produzir ainda hoje.\n\n👉🏽 Clique no link e conheça todos os nossos cursos e apostilas disponíveis agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2180232269212905.jpg"
+}

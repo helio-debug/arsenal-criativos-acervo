@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1543653333719197",
+  "tipo": "estatico",
+  "titulo": "Chamada de três motivos para segunda graduação",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Colagem sobre fundo azul combina recortes de profissionais de engenharia, direito e saúde com faixas amarelas e a chamada para conhecer três motivos para uma segunda graduação. A imagem é uma capa e não mostra os motivos.",
+  "por_que_funciona": [
+    "O número 3 em tamanho grande delimita o conteúdo anunciado.",
+    "Os recortes de profissionais exemplificam diferentes áreas de formação.",
+    "As bordas brancas separam as pessoas do fundo azul.",
+    "As faixas amarelas e o título inclinado criam destaque para a chamada central."
+  ],
+  "quando_usar": "Para abrir uma sequência educativa sobre formação e estimular a leitura dos próximos cards, com motivos concretos na continuação.",
+  "estrutura_texto": "[Número] MOTIVOS\nPARA COMEÇAR [formação ou projeto]",
+  "legenda": "Quer ampliar sua formação em [área]? Veja [número] motivos para considerar [curso] e conheça [modalidades e condições]. Acesse [canal] para consultar as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma capa com fundo azul, faixas amarelas curvas e recortes fotográficos de profissionais relacionados ao curso, com contorno branco. Centralize um número grande e uma chamada em letras condensadas, alternando amarelo e branco. Use o material da IMAGEM 2 e pessoas com uso autorizado. Reproduza a lógica de capa de lista, com texto gramaticalmente correto; não invente os motivos nem prometa emprego ou renda.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1543653333719197",
+    "anunciante": "Universidade Cruzeiro do Sul",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "Se você quer realizar um sonho antigo ou expandir suas horizontes profissionais, a segunda graduação é o caminho certo! 🚀\n\nArrasta pro lado e confira 3 motivos imperdíveis para dar esse passo. ✨\n\nO seu próximo passo pode começar hoje! Clique no link da bio e descubra como transformar a sua trajetória com a gente. 💛\n\n#cruzeirodosul #SegundaGraduação #Carreira #Educacao #SucessoProfissional\n\n#ParaTodosVerem: Carrossel com fundo azul e elementos visuais sobre Segunda Graduação. Slide 1: Título \"3 motivos para começar uma segunda graduação\" cercado por fotos de um mesmo homem em diferentes profissões (engenheiro, advogado e médico). Slide 2: Estudante sorrindo em um notebook com o texto \"1. Amplie suas oportunidades\". Slide 3: Mulher segurando um caderno em um escritório moderno com o texto \"2. Fortaleça o seu currículo\". Slide 4: Jovem escrevendo no caderno com o texto \"3. Construa conexões valiosas\". Slide 5: Tela final com o texto \"O próximo passo pode começar hoje. Inscreva-se e descubra como a segunda graduação pode transformar sua trajetória\".",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1543653333719197.jpg"
+}

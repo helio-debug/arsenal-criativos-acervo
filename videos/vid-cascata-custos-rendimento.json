@@ -1,0 +1,74 @@
+{
+ "id": "vid-cascata-custos-rendimento",
+ "tipo": "video",
+ "titulo": "Rendimento bruto desce por uma cascata de custos até o líquido",
+ "formato_video": "cascata-numerica",
+ "nichos": [
+  "investimentos"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quanto sobra desse [rendimento bruto]?",
+  "texto_tela": "Do bruto ao líquido",
+  "visual": "Valor bruto ocupa o topo; uma parcela se desprende."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Valor bruto ocupa o topo; uma parcela se desprende.",
+   "fala": "Quanto sobra desse [rendimento bruto]?",
+   "texto_tela": "Do bruto ao líquido"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Barras destacam tributo e taxa separadamente.",
+   "fala": "Neste exemplo, [tributo] corresponde a [valor] e [taxa] a [valor].",
+   "texto_tela": "Custos discriminados"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Saldo final aparece com prazo e base de cálculo.",
+   "fala": "Com [prazo e premissas], chegamos a [valor líquido ilustrativo].",
+   "texto_tela": "Exemplo hipotético"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Mantém a conta inteira e aponta o documento.",
+   "fala": "Compare usando a mesma base. As regras de [produto] estão em [canal].",
+   "texto_tela": "Confira a base de cálculo"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Valor bruto ocupa o topo; uma parcela se desprende.",
+  "O desenvolvimento mantém a informação ligada à imagem: Barras destacam tributo e taxa separadamente.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Saldo final aparece com prazo e base de cálculo."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho investimentos, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Quanto sobra desse [rendimento bruto]? [Manter na tela: Do bruto ao líquido]\n4-11s | Neste exemplo, [tributo] corresponde a [valor] e [taxa] a [valor]. [Manter na tela: Custos discriminados]\n11-19s | Com [prazo e premissas], chegamos a [valor líquido ilustrativo]. [Manter na tela: Exemplo hipotético]\n19-27s | Compare usando a mesma base. As regras de [produto] estão em [canal]. [Manter na tela: Confira a base de cálculo]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Valor bruto ocupa o topo; uma parcela se desprende.",
+  "Plano próximo sem reflexos; travar foco e exposição: Barras destacam tributo e taxa separadamente.",
+  "Plano de detalhe legível, sem zoom digital: Saldo final aparece com prazo e base de cálculo.",
+  "Plano final estável, com área livre para legenda e botão: Mantém a conta inteira e aponta o documento.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Valor bruto ocupa o topo; uma parcela se desprende. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Barras destacam tributo e taxa separadamente. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Rendimento bruto desce por uma cascata de custos até o líquido, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Valor bruto ocupa o topo; uma parcela se desprende. Depois, Barras destacam tributo e taxa separadamente. Depois, Saldo final aparece com prazo e base de cálculo. Depois, Mantém a conta inteira e aponta o documento. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Não prometer retorno, aprovação, economia ou contemplação garantidos. Identificar simulação e premissas; mostrar custos, riscos, prazos e condições legíveis. A adequação depende do produto e da análise aplicável. Revisar a divulgação com o responsável habilitado; não coletar dados financeiros sensíveis no anúncio.",
+ "legenda": "Compare usando a mesma base. As regras de [produto] estão em [canal]. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Não prometer retorno, aprovação, economia ou contemplação garantidos. Identificar simulação e premissas; mostrar custos, riscos, prazos e condições legíveis. A adequação depende do produto e da análise aplicável. Revisar a divulgação com o responsável habilitado; não coletar dados financeiros sensíveis no anúncio.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "4558690551072073",
+   "dias_no_ar": 82,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/investimentos/investimentos/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

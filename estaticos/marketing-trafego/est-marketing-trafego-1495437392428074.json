@@ -1,0 +1,36 @@
+{
+  "id": "est-marketing-trafego-1495437392428074",
+  "tipo": "estatico",
+  "titulo": "Chamada para abrir uma operação de marketing",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com fundo vermelho quadriculado e escurecido na base. A chamada central em caixa alta apresenta a franquia, com faixa branca de destaque e botão verde.",
+  "por_que_funciona": [
+    "A chamada em caixa alta concentra a atenção na abertura de uma empresa de marketing.",
+    "A faixa branca dá destaque à ideia de começar com uma estrutura existente.",
+    "O botão verde contrasta com o vermelho e identifica a ação proposta."
+  ],
+  "quando_usar": "Para captar interessados em franquias ou modelos de operação de marketing com suporte estruturado.",
+  "estrutura_texto": "[Marca]\n[Ícone]\nSEJA DONO DE UMA\n[EMPRESA DO SETOR]\n[CONDIÇÃO CENTRAL DA PROPOSTA].\nTenha [operação] com [suporte], [processo] e [modelo de gestão].\n[CTA de interesse] →",
+  "legenda": "Quer construir ou ampliar uma operação de [setor]? Conheça o modelo de [franquia], com [estrutura oferecida] e [processos de suporte]. Consulte [investimento necessário], [taxas] e os dados da rede antes de decidir. Solicite as informações por [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma peça vertical com fundo vermelho em padrão quadriculado discreto e degradê escuro na base. Use a marca informada pequena no canto superior esquerdo e um símbolo central acima do título. Faça a chamada em caixa alta branca, com a última linha em vermelho sobre faixa branca. Acrescente texto de apoio pequeno e um botão verde centralizado. Mantenha a metade inferior com amplo respiro.",
+  "alerta_politica": "Ao promover oportunidade de negócio, não prometa lucro, renda garantida ou demanda previsível sem comprovação. Informe que resultados dependem da operação e apresente investimento, taxas e condições com clareza.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1495437392428074",
+    "anunciante": "V4 Company",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 25,
+    "texto_original": "Você está pronto para construir ou escalar sua operação de marketing?\n \nA franquia V4 oferece uma solução pronta: estrutura comprovada, processos definidos e a maior marca de marketing do Brasil.\n\n99% dos nossos franqueados abririam novamente! Quer saber mais sobre essa oportunidade?\n-> Veja os números da rede antes de decidir",
+    "origem_coleta": "acervo:v4-company"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1495437392428074.jpg"
+}

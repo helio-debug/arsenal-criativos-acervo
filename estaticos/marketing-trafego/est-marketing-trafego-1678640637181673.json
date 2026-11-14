@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1678640637181673",
+  "tipo": "estatico",
+  "titulo": "Templates de quiz com mapa e preço de entrada",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Composição branca com título preto e azul, retratos laterais e mockups de monitor, tablet e material de templates. Três benefícios com ícones e preço de entrada fecham o bloco central, cercado por margens brancas amplas.",
+  "por_que_funciona": [
+    "“funis de quiz” em azul enfatiza o assunto principal do material.",
+    "O monitor com fluxogramas torna visível a estrutura que será entregue.",
+    "Tablet, livro e lupa reforçam a apresentação de um conjunto de materiais.",
+    "O preço grande em azul ocupa faixa própria abaixo dos benefícios."
+  ],
+  "quando_usar": "Para vender bibliotecas de templates ou estruturas de marketing com preço de entrada e entrega digital clara.",
+  "estrutura_texto": "[Selo de acesso]\nEu analisei [estruturas do segmento]\ne separei [material] para você [ação].\n[Mockups dos materiais]\n[Benefício 1] | [Benefício 2] | [Benefício 3]\nAcesse [produto] por [preço].",
+  "legenda": "Um [funil de quiz] pronto para copiar e adaptar ao seu [produto]. Conheça [materiais incluídos] e veja como usar a estrutura na sua oferta. Toque em [CTA] para acessar os detalhes.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use tela vertical branca com grandes margens vazias no alto e na base, concentrando a composição no miolo. Crie título preto com termos-chave azuis, selo pequeno acima e retratos adultos genéricos autorizados nas laterais. Apresente mockups de monitor com fluxogramas, tablet com módulos e livro digital. Organize três benefícios em colunas com ícones e preço grande azul na faixa inferior. Deixe os rótulos dos materiais legíveis e use apenas alegações comprovadas.",
+  "alerta_politica": "Meta: alegações como “os que mais vendem”, “validado” ou referências a faturamento exigem comprovação. Não prometa aumento de vendas ou receita garantida com o uso dos templates.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1678640637181673",
+    "anunciante": "Henrique Melo Ads",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1678640637181673.jpg"
+}

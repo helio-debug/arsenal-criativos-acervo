@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-376759455166573",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com certificação por etapa",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Arte branca e azul apresenta um curso técnico, uma profissional sorridente à direita e faixas com certificação e avaliação institucional. Peças de quebra-cabeça decoram as bordas.",
+  "por_que_funciona": [
+    "O nome do curso em azul grande define imediatamente o tema.",
+    "A faixa cinza destaca o certificado por disciplina concluída.",
+    "O selo EAD informa a modalidade junto ao título.",
+    "A faixa azul com medalha dá destaque à alegação de avaliação institucional."
+  ],
+  "quando_usar": "Para instituições apresentarem cursos técnicos a pessoas comparando modalidade, certificação e credenciais.",
+  "estrutura_texto": "[Chamada curta]\nCurso Técnico em\n[Área]\n[Modalidade]\nA cada [etapa concluída], você recebe [certificado].\n[Credencial comprovada]\n[Marca]",
+  "legenda": "O curso técnico em [área], na modalidade [modalidade], prepara para atuar em [campos de atuação]. Conheça a grade, a certificação e as condições de matrícula em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, faixa azul vertical à direita e retrato profissional recortado nessa lateral. Coloque o curso em azul grande à esquerda, selo laranja da modalidade, faixa cinza de certificação e faixa azul com credencial. Inclua peças de quebra-cabeça discretas. Use apenas credenciais fornecidas e comprováveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "376759455166573",
+    "anunciante": "Faspec",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-07-31",
+    "dias_no_ar": 836,
+    "variacoes_ativas": 1,
+    "texto_original": "O Curso Técnico em Contabilidade EaD capacita futuros profissionais para atuarem em contabilidade, gestão de processos no geral, financeiros, comerciais e industriais, conforme as exigências fiscais e legais a que as organizações estão submetidas.\nEstude na Faspec",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-376759455166573.jpg"
+}

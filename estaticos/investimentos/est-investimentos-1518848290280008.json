@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1518848290280008",
+  "tipo": "estatico",
+  "titulo": "Convite a investir sobre panorama urbano",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Um panorama de edifícios ocupa a metade inferior, sob um céu claro com espaço para a mensagem. O texto central associa fundos imobiliários a renda mensal e convida à abertura de conta.",
+  "por_que_funciona": [
+    "Os prédios conectam a imagem à categoria de fundos imobiliários.",
+    "O céu claro cria uma área limpa para leitura da mensagem.",
+    "A linha em laranja destaca a modalidade de investimento.",
+    "A chamada de abertura de conta apresenta uma próxima ação objetiva."
+  ],
+  "quando_usar": "Apresentação de uma plataforma de investimentos a interessados em fundos imobiliários, com comunicação equilibrada de riscos.",
+  "estrutura_texto": "[MARCA]\n[Objetivo de renda periódica] com\n[MODALIDADE] na [PLATAFORMA].\n[ABRA SUA CONTA]",
+  "legenda": "Conheça as opções de [modalidade de investimento] disponíveis em [plataforma]. Avalie riscos, custos e adequação ao seu perfil antes de investir. Distribuições e rentabilidade podem variar. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma fotografia vertical de edifícios urbanos na metade inferior e céu claro na metade superior. Posicione identificação própria no alto, mensagem central em azul escuro com a modalidade destacada em laranja e CTA curto abaixo de um pequeno traço. Use a IMAGEM 2 como apoio visual do serviço, sem inventar produto físico. Inclua aviso legível sobre riscos e rendimentos variáveis.",
+  "alerta_politica": "Meta/CVM: comunicação financeira deve ser clara e equilibrada, com riscos e custos relevantes. Fundos imobiliários têm risco de mercado e não garantem renda mensal, distribuição ou rentabilidade. Evite apresentar ganhos como certos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1518848290280008",
+    "anunciante": "Rico.com.vc",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 3,
+    "texto_original": "Procurando por dividendos mensais?\nConheça nossas opções de Fundos Imobiliários e comece hoje mesmo a investir.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1518848290280008.jpg"
+}

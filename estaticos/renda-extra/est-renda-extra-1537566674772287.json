@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1537566674772287",
+  "tipo": "estatico",
+  "titulo": "Franquia segmentada com três benefícios em coluna",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Anúncio vertical preto e azul com título e três argumentos à esquerda. Um profissional com notebook aparece à direita, separado por uma curva azul; um botão ocupa a base do conteúdo.",
+  "por_que_funciona": [
+    "O título “para TI” explicita a profissão a que a oferta se destina.",
+    "Três blocos com ícones organizam especialização, modelo comercial e prazo de retorno.",
+    "A foto com notebook conecta visualmente a oferta ao trabalho em tecnologia.",
+    "A curva azul conduz o olhar até o botão de investimento."
+  ],
+  "quando_usar": "Para divulgar franquias de serviços a um segmento profissional específico em Stories ou Reels estáticos.",
+  "estrutura_texto": "Franquia de [especialidade] para [público]!\nTorne-se [posicionamento profissional].\nModelo com [característica comercial].\n[Prazo estimado com condições].\nInvista na sua franquia de [especialidade] [chamada].",
+  "legenda": "Franquia de [especialidade] para [público]. Conheça o modelo de [contratos mensais] e as condições para formar sua base de clientes. Veja os detalhes da operação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha fundo preto com azul elétrico, título grande no alto à esquerda e três benefícios curtos com ícones circulares abaixo. Posicione a IMAGEM 2 à direita dentro de um recorte curvo com borda azul. Coloque botão azul com seta próximo à base e assinatura própria abaixo. Use somente dados econômicos comprovados, sem garantia de retorno.",
+  "alerta_politica": "A Meta proíbe práticas comerciais enganosas. Alegações de lucro, receita recorrente e prazo de retorno precisam de comprovação e contexto; não apresentar ganhos ou payback como garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1537566674772287",
+    "anunciante": "Somaxi Group",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-15",
+    "dias_no_ar": 122,
+    "variacoes_ativas": 1,
+    "texto_original": "Franquia de LGPD para Advogados e TI\n\nModelo com contratos mensais, sua base de clientes cresce mês a mês.\n\nVer detalhes da franquia.\nVer detalhes da franquia\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1537566674772287.jpg"
+}

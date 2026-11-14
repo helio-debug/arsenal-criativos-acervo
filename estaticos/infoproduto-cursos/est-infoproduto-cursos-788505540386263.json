@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-788505540386263",
+  "tipo": "estatico",
+  "titulo": "Curso presencial com demonstração da prática",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul escuro com título condensado em branco e laranja, localização e contato em destaque. Uma foto de massagem ocupa a base, acompanhada de balões com corações.",
+  "por_que_funciona": [
+    "A palavra da especialidade em laranja se destaca entre duas linhas brancas.",
+    "A foto de uma sessão de massagem mostra a atividade ensinada.",
+    "O pin com a região delimita o público do curso presencial.",
+    "O telefone em uma faixa laranja facilita encontrar o contato."
+  ],
+  "quando_usar": "Para divulgar turmas presenciais de formação profissional a interessados da região atendida.",
+  "estrutura_texto": "[Marca]\nCURSO DE\n[ESPECIALIDADE]\nPRESENCIAL\n[Cidade e região]\nEntre em contato no [canal]\n[Contato]",
+  "legenda": "Aprenda [especialidade] em um curso presencial com [atividades práticas]. Confira [pré-requisitos], [conteúdo] e condições de certificação. Fale com [canal] para conhecer a próxima turma em [cidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo, título alto e condensado no terço superior, com a especialidade em laranja e demais linhas brancas. Insira localização com pin e contato em cápsula laranja. Na base, use a IMAGEM 2 para mostrar a prática ou oferta com enquadramento respeitoso. Adicione poucos elementos arredondados decorativos.",
+  "alerta_politica": "Meta: não prometer renda garantida após a formação. A certificação deve ter escopo verdadeiro e não sugerir habilitação profissional que o curso não concede. Não atribuir cura ou resultados terapêuticos garantidos à técnica.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "788505540386263",
+    "anunciante": "AlfaMed Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-03",
+    "dias_no_ar": 437,
+    "variacoes_ativas": 1,
+    "texto_original": "É de Goiânia? Chegou a sua vez de ter uma renda extra ou até mesmo principal, com nosso curso profissionalizante, mesmo que você seja iniciante do zero. 🧑🏻⚕️❤️\n\nVeja como você pode receber seu certificado profissional para trabalhar na área com seu nome para se diferenciar no mercado.🔥💰\n\n-Não precisa de faculdade.\n-Mais de 1700 profissionais transformados.\n\nClique agora e faça sua inscrição, curso presencial com aulas práticas e dinâmicas!👩🏻🏫✨\nInformações para contato: 62 9655-7943\nWHATSAPP\nOportunidade!\n⭐⭐⭐⭐⭐ (227 avaliações)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-788505540386263.jpg"
+}

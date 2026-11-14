@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2496172254240561",
+  "tipo": "estatico",
+  "titulo": "Áreas conectadas ao conhecimento compartilhado",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Um círculo branco central com borda azul apresenta a mensagem principal. Seis círculos coloridos com nomes de áreas se conectam ao centro sobre um fundo cinza com relevo.",
+  "por_que_funciona": [
+    "Os seis círculos identificam as áreas envolvidas na capacitação.",
+    "As conexões visuais sustentam a ideia de conhecimento compartilhado.",
+    "O trecho azul em negrito dá prioridade à conclusão da mensagem.",
+    "As cores distintas permitem distinguir os departamentos rapidamente."
+  ],
+  "quando_usar": "Para divulgar capacitação corporativa que envolve profissionais de diferentes departamentos.",
+  "estrutura_texto": "[ÁREA 1] | [ÁREA 2] | [ÁREA 3] | [ÁREA 4] | [ÁREA 5] | [ÁREA 6]\n[TEMA] gera mais valor quando [AÇÃO COLETIVA].",
+  "legenda": "Ao capacitar [áreas da organização] em conjunto, sua equipe pode construir uma linguagem comum sobre [tema]. Conheça [solução de formação corporativa] e organize o aprendizado de [equipes participantes]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um infográfico radial sobre fundo cinza-claro, com grande disco em relevo suave. Coloque a mensagem no círculo central branco de borda azul e seis círculos menores ao redor, cada um com uma cor e o nome de uma área. Una-os por conexões largas e translúcidas. Destaque a conclusão em azul e negrito. Use a imagem do produto discretamente, sem prejudicar a leitura do diagrama.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2496172254240561",
+    "anunciante": "IBGC - Instituto Brasileiro de Governança Corporativa",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-14",
+    "dias_no_ar": 31,
+    "variacoes_ativas": 2,
+    "texto_original": "Capacitar apenas um profissional gera aprendizado.\n\nCapacitar equipes gera transformação.\n\nAo desenvolver diferentes áreas simultaneamente, sua organização cria linguagem comum, fortalece processos e acelera a adoção das boas práticas de governança.\n\nPorque o conhecimento gera mais valor quando é compartilhado.\n\n👉 Conheça as soluções In Company do IBGC.",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2496172254240561.jpg"
+}

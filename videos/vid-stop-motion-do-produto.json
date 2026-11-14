@@ -1,0 +1,89 @@
+{
+ "id": "vid-stop-motion-do-produto",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "moda-acessorios",
+  "pet",
+  "infantil-maternidade"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Stop motion de unidades em fileiras e pilhas",
+ "formato_video": "stop-motion",
+ "duracao": "19s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Veja [produto] mudar de posição, quadro a quadro.",
+  "texto_tela": "[Produto]",
+  "visual": "Fundo azul liso com título grande inclinado e uma unidade no canto inferior."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Título do comprador sobre fundo azul; uma unidade de produto entra pelo canto.",
+   "fala": "Veja [produto] mudar de posição, quadro a quadro.",
+   "texto_tela": "[Produto]"
+  },
+  {
+   "tempo": "3-7s",
+   "cena": "Quatro unidades ou elementos do produto se agrupam em vista superior, com saltos entre fotos.",
+   "fala": "Aqui aparecem [unidades ou partes do conjunto].",
+   "texto_tela": "[O que acompanha]"
+  },
+  {
+   "tempo": "7-11s",
+   "cena": "Elementos se alinham em fileira horizontal, mantendo fundo e escala consistentes.",
+   "fala": "De perto, dá para ver [detalhe físico verificável].",
+   "texto_tela": "[Detalhe físico]"
+  },
+  {
+   "tempo": "11-15s",
+   "cena": "Plano frontal baixo: unidades formam grupos de alturas diferentes. Para objetos não empilháveis, use suportes ocultos ou grupos no plano.",
+   "fala": "O conjunto pode ser organizado em [disposição segura].",
+   "texto_tela": "[Quantidade ou composição real]"
+  },
+  {
+   "tempo": "15-19s",
+   "cena": "Produto ou embalagem em primeiro plano sobre o mesmo azul, com fundo suave.",
+   "fala": "Confira [modelo ou conjunto] em [canal].",
+   "texto_tela": "Veja [produto] em [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O fundo azul uniforme deixa os contornos escuros das unidades fáceis de acompanhar.",
+  "O grupo de quatro visto de cima muda para uma fileira horizontal, criando variedade com o mesmo objeto.",
+  "As pilhas de alturas diferentes trocam a vista superior por um plano frontal.",
+  "A embalagem no último frame identifica o conjunto depois das composições com unidades soltas."
+ ],
+ "quando_usar": "Para produtos físicos, acessórios e itens pet ou infantis que possam ser organizados com segurança sobre uma mesa. Use no topo do funil para apresentar aparência, composição e embalagem sem depender de uma pessoa em cena.",
+ "roteiro_modelo": "Veja [produto] mudar de posição, quadro a quadro.\n\n[CORTE / PAUSA]\n\nAqui aparecem [unidades ou partes do conjunto].\n\n[CORTE / PAUSA]\n\nDe perto, dá para ver [detalhe físico verificável].\n\n[CORTE / PAUSA]\n\nO conjunto pode ser organizado em [disposição segura].\n\n[CORTE / PAUSA]\n\nConfira [modelo ou conjunto] em [canal].",
+ "tomadas_celular": [
+  "Fixe o celular acima de uma cartolina azul, com duas luzes difusas laterais; fotografe a entrada de uma unidade para 3s de montagem a 8-12 quadros por segundo.",
+  "Mantenha a vista superior e a luz fixa; mova quatro unidades ou partes alguns milímetros por foto para formar um grupo em 4s.",
+  "Ainda de cima, alinhe as unidades em fileira com fotos entre os movimentos; reserve 4s e bloqueie foco e exposição.",
+  "Coloque o celular à altura da mesa em plano frontal, mantendo luz difusa; monte grupos de alturas diferentes com apoios seguros para 4s.",
+  "Filme a embalagem ou o conjunto em plano fechado por 4s, com foco no produto e luz lateral suave; use o mesmo fundo azul."
+ ],
+ "caminho_ia": "Sem gravar, use fotos autorizadas do produto como guia em Kling ou Veo e finalize no CapCut. Prompt 1: \"Horizontal 16:9 overhead stop-motion shot of four identical [product units] arranging into a neat horizontal row on seamless cyan paper, locked camera, consistent scale, soft studio lighting, stepped frame-by-frame movement, no text, no logos.\" Prompt 2: \"Horizontal 16:9 low frontal stop-motion shot of [product units] forming three stable groups of different heights on cyan seamless backdrop, rigid product geometry, locked focus and exposure, soft contact shadows, no text, no logos.\" Para manter forma e quantidade, prefira um slideshow com recortes de imagens geradas quando o vídeo deformar o objeto. Adicione os textos na edição e música licenciada; faça a locução opcional com voz sintética ou clonada autorizada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 19s em 16:9: 0-3 título e entrada de uma unidade; 3-7 grupo de quatro em vista superior; 7-11 fileira; 11-15 grupos de alturas diferentes em plano frontal; 15-19 embalagem ou conjunto. Movimento em pequenos saltos, câmera fixa, fundo azul e luz constante. A referência usa música; proponha locução curta opcional e preserve pausas para o movimento. Texto mínimo, apenas nome, composição e detalhe comprovável. Não copie o alimento, a embalagem, o logotipo ou o texto da referência. Não faça objetos inseguros se empilharem: adapte para agrupamentos com suporte. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não invente funcionalidades, condições comerciais ou resultados. Não copie marcas, pessoas, nomes, logotipos, textos literais nem o produto da referência. Evite superlativos sem prova, perguntas decorativas e frases de efeito. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] em movimento, quadro a quadro. Veja [detalhe físico] e [composição real do conjunto]. Confira os modelos em [canal].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "HIUzm64va_s",
+   "dias_no_ar": null,
+   "views": 161505,
+   "frames": [
+    "videos/vid-stop-motion-do-produto/frames/f1.jpg",
+    "videos/vid-stop-motion-do-produto/frames/f2.jpg",
+    "videos/vid-stop-motion-do-produto/frames/f3.jpg",
+    "videos/vid-stop-motion-do-produto/frames/f4.jpg",
+    "videos/vid-stop-motion-do-produto/frames/f5.jpg"
+   ]
+  }
+ ]
+}

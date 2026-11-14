@@ -1,0 +1,36 @@
+{
+  "id": "est-investimentos-1447406339902243",
+  "tipo": "estatico",
+  "titulo": "Post com lista de custos de adiar decisões",
+  "formato": "Post e comentários",
+  "nicho": "investimentos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Simulação de post social em fundo branco, com perfil no topo, três itens marcados por X vermelhos e um parágrafo em negrito. Ícones e contagens de interação fecham a peça.",
+  "por_que_funciona": [
+    "O cabeçalho com avatar e identificador reproduz a leitura de um post social.",
+    "Os três X vermelhos destacam comportamentos financeiros em uma página quase toda preta e branca.",
+    "O parágrafo final em negrito leva da lista ao convite para conhecer casos."
+  ],
+  "quando_usar": "Para apresentar orientação financeira e abrir uma conversa sobre organização de gastos.",
+  "estrutura_texto": "[Perfil]\nCada [período] que você adia [decisão]:\n❌ [consequência 1]\n❌ [consequência 2]\n❌ [consequência 3]\n[Impacto do adiamento]. Veja [casos documentados].",
+  "legenda": "Adiar [decisão financeira] pode gerar [custo verificável]. Entenda como organizar [aspecto das finanças] e conheça [serviço]. Acesse [canal] para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, avatar pequeno no topo e identificação da minha marca. Organize uma abertura em negrito, três linhas com X vermelhos e fechamento em negrito. Preserve margens largas e tipografia preta legível. Não invente selo de verificação, depoimentos ou contagens de engajamento.",
+  "alerta_politica": "Meta: não presumir endividamento ou condição financeira do leitor; não prometer retorno ou resultado garantido. Casos e provas sociais precisam ser autênticos. Se houver recomendação de investimentos, observar as regras e autorizações aplicáveis da CVM.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1447406339902243",
+    "anunciante": "Finanças com a Kim Kohl",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-04",
+    "dias_no_ar": 467,
+    "variacoes_ativas": 1,
+    "texto_original": "Você sabe quanto te custa não tomar uma decisão?\nEnquanto espera o “momento ideal”, você está:\n– Pagando juros desnecessários\n– Perdendo dinheiro parado\n– Adiando seus sonhos\n\nMeus clientes não ganham mais, eles só decidiram certo.\n\n📍 Quer fazer o mesmo?\nEscreve clica no link da bio.\nVou te mostrar como parar de perder no básico.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1447406339902243.jpg"
+}

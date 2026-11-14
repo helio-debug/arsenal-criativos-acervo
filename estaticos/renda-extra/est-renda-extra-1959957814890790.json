@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1959957814890790",
+  "tipo": "estatico",
+  "titulo": "Convite à parceria com benefícios em faixas",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul escuro com título branco e verde, três faixas verdes de benefícios e botão rosa. Uma ilustração de escudo sobre equipamentos ocupa a direita e a base.",
+  "por_que_funciona": [
+    "A pergunta em verde encerra o título e chama atenção para o convite.",
+    "As três faixas destacam prova numérica, modelos de parceria e recorrência.",
+    "O botão rosa contrasta com o verde dos benefícios e separa a ação final.",
+    "O escudo com marca de verificação relaciona a oferta à proteção de dados."
+  ],
+  "quando_usar": "Para captar interessados em um programa de parceria empresarial com modalidades distintas.",
+  "estrutura_texto": "[Rede de parceiros em expansão]\n[Convite]\n[Serviço oferecido, suporte e modelo de remuneração]\n[Prova numérica]\n[Modalidades]\n[Condição de recorrência]\n[Quero fazer parte]",
+  "legenda": "Você atende empresas que precisam de [serviço]? Conheça o programa de parceria de [solução]. No modelo de indicação, [responsável] realiza a entrega e a comissão segue [regras e vigência do contrato]. Consulte também [outra modalidade] e seus requisitos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho com linhas tecnológicas discretas. Posicione título branco no alto, destacando o convite em verde neon. Abaixo, explicação curta e três pílulas verdes com fatos comprovados. Integre a imagem do produto à direita e na base, com elementos de proteção de dados. Finalize com botão rosa centralizado. Não invente liderança de mercado, números ou garantia de receita.",
+  "alerta_politica": "Na Meta, apresente comissões como possibilidade condicionada a contratos ativos e às regras do programa, sem garantir renda ou ganhos fáceis. Comprove números de clientes e deixe claros requisitos, custos e responsabilidades; não prometa adequação legal absoluta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1959957814890790",
+    "anunciante": "DPOnetbr",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-14",
+    "dias_no_ar": 184,
+    "variacoes_ativas": 3,
+    "texto_original": "Você provavelmente já conhece empresas que estão expostas à LGPD e ainda não fizeram nada a respeito. \n\nAgora você pode transformar esse conhecimento em receita, sem precisar entregar o projeto, estudar a lei ou montar uma estrutura. \n\nVocê indica. A DPOnet cuida de tudo. \n\nVocê recebe comissão recorrente enquanto o contrato estiver ativo. Simples. \n\nQuero ser parceiro de indicação →\nQuero ser parceiro de indicação",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1959957814890790.jpg"
+}

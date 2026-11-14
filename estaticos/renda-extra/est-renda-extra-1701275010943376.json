@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1701275010943376",
+  "tipo": "estatico",
+  "titulo": "Revenda com moto em lista de benefícios",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um motociclista visto de costas transporta galões de água à direita. À esquerda, quatro ícones acompanham os benefícios da parceria, sob uma chamada grande em branco e azul.",
+  "por_que_funciona": [
+    "A moto carregada mostra visualmente como a atividade acontece.",
+    "Os quatro ícones separam investimento, horário, demanda e suporte.",
+    "As palavras em azul destacam o recurso necessário e a oportunidade.",
+    "A coluna escura à esquerda permite ler os benefícios sobre a foto."
+  ],
+  "quando_usar": "Captação de parceiros que já possuem um veículo compatível com a operação de distribuição.",
+  "estrutura_texto": "[SEU RECURSO] PODE GERAR [OPORTUNIDADE DE RENDA]!\nRevenda [categoria] e [convite].\n[CONDIÇÃO DE ENTRADA] — [explicação]\n[ORGANIZAÇÃO DE HORÁRIOS] — [explicação]\n[DEMANDA] — [evidência]\n[SUPORTE] — [explicação]",
+  "legenda": "Tem [veículo ou recurso] e interesse em revender [produto]? Conheça as condições da parceria, os custos da operação e o suporte disponível. Fale com [canal] para verificar disponibilidade em [região].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma foto de contexto à direita com profissional de costas, veículo e produtos da IMAGEM 2 sendo transportados. Use uma área escura à esquerda com quatro ícones lineares azuis em círculos e blocos curtos de benefícios. No topo, distribua uma chamada grande em branco e azul. Mostre operação e transporte adequados ao produto e descreva apenas condições reais.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1701275010943376",
+    "anunciante": "Petrus Ipueiras",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-12",
+    "dias_no_ar": 63,
+    "variacoes_ativas": 1,
+    "texto_original": "🏍️ TEM MOTO E QUER FAZER UMA RENDA EXTRA?\n\nTalvez você já tenha o principal para começar.\n\nTodos os dias existem pessoas que precisam de água em casa, no comércio ou na empresa — e muitas estão dispostas a pagar pela comodidade de receber seus galões onde estiverem.\n\nÉ aí que pode estar a sua oportunidade. 💧\n\nA Água Petrus está buscando novos parceiros para revenda. Você abastece seus galões com condições diferenciadas para revendedor, organiza seus próprios horários, conquista seus clientes e faz suas entregas.\n\nVocê não precisa produzir água nem investir em equipamentos de tratamento.\n\nA Petrus cuida da qualidade. Você cuida das vendas.\n\nPode ser uma renda extra depois do trabalho, em horários específicos ou até o começo de uma atividade própria.\n\n🤝 Queremos ser seus parceiros e ajudar você a começar.\n\n⚠️ Estamos abrindo vagas limitadas para novos revendedores.\n\n📲 Clique em “Enviar mensagem” e fale com a Petrus para conhecer as condições para revenda.\n\nVocê já tem a moto. A oportunidade pode começar com você.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1701275010943376.jpg"
+}

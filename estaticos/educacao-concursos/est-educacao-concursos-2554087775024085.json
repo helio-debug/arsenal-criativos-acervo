@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2554087775024085",
+  "tipo": "estatico",
+  "titulo": "Formação médica com chamada para falar com consultor",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul muito escuro com fotos médicas recortadas em cantos opostos. A chamada sobre condução de casos ocupa o centro, com botão branco abaixo.",
+  "por_que_funciona": [
+    "O texto central destaca uma competência clínica específica que a formação propõe desenvolver.",
+    "As fotos de atendimento e modelo anatômico situam a oferta na prática médica.",
+    "O botão branco com seta azul se destaca do fundo escuro e explicita o próximo passo.",
+    "A indicação lateral de público delimita a formação para médicos."
+  ],
+  "quando_usar": "Para divulgar uma formação profissional especializada a pessoas que já conhecem a área e precisam avaliar o curso.",
+  "estrutura_texto": "[Marca]\n[Pós-graduação]\n[Especialidade]\nAprenda a [competência] com [benefício]\n[Complemento sobre os desafios da área]\n[Fale com um consultor]\n[Restrição de público]",
+  "legenda": "Desenvolva sua atuação em [especialidade] com [formação]. O programa reúne [atividades práticas], [conteúdos complementares] e [acompanhamento]. Conheça a proposta e fale com [canal de atendimento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, etiquetas azuis no alto à esquerda e duas fotos relacionadas à formação em recortes verticais com cantos arredondados, no alto à direita e embaixo à direita. Posicione uma chamada grande e leve no centro à esquerda, texto de apoio menor e botão branco com seta circular azul. Inclua a indicação de público de forma legível.",
+  "alerta_politica": "Em formação médica, descreva competências e atividades reais sem garantir resultados clínicos ou habilitações não conferidas pelo curso. Se houver publicidade médica, observar as regras do CFM; não expor pacientes identificáveis sem autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2554087775024085",
+    "anunciante": "Sanar Pós",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-07",
+    "dias_no_ar": 99,
+    "variacoes_ativas": 1,
+    "texto_original": "Atue com segurança na prevenção, diagnóstico e tratamento de pacientes cardiológicos.\n\nNa Pós-graduação em Cardiologia, você tem práticas com atendimento a pacientes reais em ambulatório, tem formações complementares em ECG, ergometria e ACLS e recebe mentoria individual com o coordenador até o fim do curso.\n\n👉 Conheça mais sobre a Pós\n➡️Pós-graduação Sanar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2554087775024085.jpg"
+}

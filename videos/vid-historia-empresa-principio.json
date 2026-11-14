@@ -1,0 +1,96 @@
+{
+ "id": "vid-historia-empresa-principio",
+ "titulo": "História de empresa com fotos de arquivo revela uma regra de gestão",
+ "formato_video": "storytime",
+ "nichos": [
+  "mentoria-high-ticket",
+  "investimentos",
+  "marketing-trafego",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "75-90s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Em [organização do caso], uma decisão mudou quem cuidava de [tarefa].",
+  "texto_tela": "Uma decisão sobre [tarefa]",
+  "visual": "Apresentadora em plano próximo, sentada diante de persianas, com luz quente ao lado e palavra branca em negrito no centro inferior."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentadora ocupa a tela inteira; frase de abertura com palavras brancas curtas.",
+   "fala": "Em [organização do caso], uma decisão mudou quem cuidava de [tarefa]. A mudança começou quando [situação verificável] passou a afetar a rotina.",
+   "texto_tela": "Uma decisão sobre [tarefa]"
+  },
+  {
+   "tempo": "8-23s",
+   "cena": "Foto de arquivo autorizada no alto, apresentadora no quadro inferior.",
+   "fala": "A organização começou com [contexto documentado]. Durante [período], [responsável ou equipe] concentrava [atividade]. Com [mudança de contexto], ficou difícil manter o mesmo jeito de decidir e acompanhar as entregas.",
+   "texto_tela": "[Contexto do caso]"
+  },
+  {
+   "tempo": "23-39s",
+   "cena": "Trocar a foto superior por outra do processo; fala permanece embaixo.",
+   "fala": "Foi quando definiram [decisão concreta]. [Responsável A] passou a cuidar de [função A]. [Responsável B] ficou com [função B]. O acordo também dizia como uma decisão seria revista quando surgisse um problema.",
+   "texto_tela": "[Decisão concreta]"
+  },
+  {
+   "tempo": "39-55s",
+   "cena": "Imagem do objeto ou da operação no alto; apresentadora aponta discretamente.",
+   "fala": "Depois da mudança, o registro de [fonte do caso] mostrou [efeito documentado]. Esse dado descreve aquela situação, naquele período. Para aplicar a ideia em outro contexto, é preciso conferir o que mudou junto.",
+   "texto_tela": "[Efeito documentado]"
+  },
+  {
+   "tempo": "55-73s",
+   "cena": "Voltar à apresentadora em tela inteira, enquadramento um pouco mais aberto.",
+   "fala": "O ponto que dá para examinar é [princípio prático]. No contexto de [produto ou serviço], isso começa por definir quem cuida de [tarefa] e qual registro permite acompanhar o trabalho.",
+   "texto_tela": "Quem cuida de [tarefa]?"
+  },
+  {
+   "tempo": "73-90s",
+   "cena": "Apresentadora fecha com mãos apoiadas; manter legendas brancas.",
+   "fala": "Antes de aplicar, levante [informação necessária]. Assim dá para avaliar se a mesma decisão faz sentido na sua rotina. No perfil, eu mostro como [produto] ajuda a organizar [parte do processo], com as condições de uso.",
+   "texto_tela": "Conheça [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "As fotos em preto e branco entram na faixa superior enquanto a apresentadora continua visível embaixo, mantendo a narração ligada ao caso.",
+  "A passagem de pessoas do arquivo para uma imagem do produto muda o assunto visual de origem para operação.",
+  "As palavras brancas em negrito aparecem em trechos curtos, acompanhando a fala sem ocupar a área das fotos.",
+  "O retorno à apresentadora em tela inteira separa o caso narrado da orientação aplicada ao público."
+ ],
+ "quando_usar": "Para quem vende uma solução que exige explicar um critério de decisão, inclusive curso, consultoria ou serviço. Use no topo do funil com um caso verificável e relação clara com o problema que o produto atende.",
+ "roteiro_modelo": "Em [organização do caso], uma decisão mudou quem cuidava de [tarefa]. A mudança começou quando [situação verificável] passou a afetar a rotina.\n\n[pausa breve / corte]\n\nA organização começou com [contexto documentado]. Durante [período], [responsável ou equipe] concentrava [atividade]. Com [mudança de contexto], ficou difícil manter o mesmo jeito de decidir e acompanhar as entregas.\n\n[pausa breve / corte]\n\nFoi quando definiram [decisão concreta]. [Responsável A] passou a cuidar de [função A]. [Responsável B] ficou com [função B]. O acordo também dizia como uma decisão seria revista quando surgisse um problema.\n\n[pausa breve / corte]\n\nDepois da mudança, o registro de [fonte do caso] mostrou [efeito documentado]. Esse dado descreve aquela situação, naquele período. Para aplicar a ideia em outro contexto, é preciso conferir o que mudou junto.\n\n[pausa breve / corte]\n\nO ponto que dá para examinar é [princípio prático]. No contexto de [produto ou serviço], isso começa por definir quem cuida de [tarefa] e qual registro permite acompanhar o trabalho.\n\n[pausa breve / corte]\n\nAntes de aplicar, levante [informação necessária]. Assim dá para avaliar se a mesma decisão faz sentido na sua rotina. No perfil, eu mostro como [produto] ajuda a organizar [parte do processo], com as condições de uso.",
+ "tomadas_celular": [
+  "Grave 8s de abertura em plano próximo vertical, celular na altura dos olhos, luz suave de janela na frente e luminária quente ao fundo.",
+  "Grave 15s de contexto em plano médio, mesma luz; deixe espaço para recortar a fala na metade inferior.",
+  "Grave 16s explicando a decisão, plano médio e luz frontal difusa; mantenha mãos dentro do enquadramento inferior.",
+  "Filme por 16s um objeto ou registro autorizado do caso, em detalhe, com luz lateral de janela e sem dados identificáveis; use fotos autorizadas para o arquivo.",
+  "Grave 18s de aplicação em plano médio mais aberto, mesma luz e celular fixo.",
+  "Grave 17s do convite em plano médio, luz suave frontal, mãos apoiadas e fala sem pressa."
+ ],
+ "caminho_ia": "Use um avatar genérico com voz sintética para a narração e Sora ou Runway para ilustrações do processo. Prompts: \"Vertical 9:16 medium close-up of a fictional female presenter seated in front of horizontal blinds, warm practical lamp in background, soft frontal key light, locked camera, explaining [decision related to product], no logos.\" e \"Horizontal archival-style black-and-white illustrative footage of a fictional team reviewing [process documents] around a table, gentle film grain, slow push-in, no readable names, no logos, no resemblance to real historical figures.\" No CapCut, recorte a ilustração no alto e mantenha o avatar embaixo. Identifique imagens geradas como ilustrações; elas não comprovam o caso. Se não houver história verificável, apresente todo o exemplo como fictício e remova resultados atribuídos a empresas reais.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo de 90s, 9:16, em 6 blocos: 0-8s decisão e situação; 8-23s contexto; 23-39s divisão de responsabilidades; 39-55s efeito documentado; 55-73s princípio aplicável; 73-90s convite para conhecer o produto. Alterne apresentadora em tela cheia com fotos autorizadas no alto e apresentadora embaixo. Use palavras brancas em negrito acompanhando frases curtas; ritmo de explicação, sem edição frenética. Não copie a empresa, os fundadores, as imagens históricas, os resultados ou a regra de sucessão da referência. Use um caso verificável fornecido por mim ou um exemplo explicitamente fictício, sem números inventados. Relacione a decisão ao meu produto sem garantir o mesmo resultado. Escreva em pt-BR falado, com frases curtas e [colchetes] para informações que faltarem. Sem antítese vazia, tríade decorativa, superlativos sem prova, pergunta de enfeite ou fecho de efeito. Não invente resultados, depoimentos ou condições comerciais. Não copie nomes, marcas, pessoas, logotipos, domínios, contatos, falas longas nem dados de clientes da referência. Use só os dados do bloco MEU PRODUTO.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Em [caso documentado], [decisão] mudou a forma de cuidar de [tarefa]. Veja o que vale conferir antes de aplicar esse princípio em [contexto]. Conheça [produto] no perfil.",
+ "alerta_politica": "Meta: não sugira conhecer a situação financeira do espectador nem use promessas enganosas. Em investimentos, o resultado de um caso não garante retorno futuro; apresente riscos e limites e observe as regras da CVM aplicáveis à oferta e à atividade. Se a adaptação envolver crédito ou instituição financeira, siga as regras do Banco Central e divulgue custos e condições. Use dados verificáveis e imagens autorizadas; ilustração gerada por IA não pode ser apresentada como arquivo histórico real.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1a9afd31",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-historia-empresa-principio/frames/f1.jpg",
+    "videos/vid-historia-empresa-principio/frames/f2.jpg",
+    "videos/vid-historia-empresa-principio/frames/f3.jpg",
+    "videos/vid-historia-empresa-principio/frames/f4.jpg",
+    "videos/vid-historia-empresa-principio/frames/f5.jpg"
+   ]
+  }
+ ]
+}

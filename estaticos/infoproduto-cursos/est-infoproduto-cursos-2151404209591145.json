@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2151404209591145",
+  "tipo": "estatico",
+  "titulo": "Formação especializada apresentada em prancheta",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma prancheta ocupa quase toda a foto, com mão segurando uma caneta no canto inferior direito. O tema da formação aparece em letras rosas grandes, seguido de módulos e botão.",
+  "por_que_funciona": [
+    "A prancheta associa a formação à prática profissional.",
+    "O tema em rosa ocupa a maior parte da folha e facilita a identificação da especialidade.",
+    "O número de módulos dá dimensão ao conteúdo.",
+    "O botão rosa mantém o próximo passo visível na mesma área da leitura."
+  ],
+  "quando_usar": "Para divulgar uma formação técnica a profissionais que procuram aprofundamento em uma especialidade.",
+  "estrutura_texto": "[Tipo de formação] em [especialidade]\n[Áreas abordadas]\nDomine [tema] do início ao avançado\n[Quantidade] módulos completos, [características verificáveis]\nSaiba mais!",
+  "legenda": "A formação em [especialidade] aborda [conteúdos relevantes] para apoiar a atuação de [profissionais]. Conheça os [módulos] e confira [requisitos e informações da formação] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de prancheta clara inclinada sobre uma mesa, mão com caneta na parte inferior direita e fundo escuro. Na folha, organize título grande rosa em várias linhas, detalhes menores, traço divisor e botão rosa arredondado. Coloque a identidade própria discretamente no topo e na base. Escreva em pt-BR, adaptando o texto aos dados de MEU PRODUTO, sem inventar benefícios, credenciais ou condições comerciais.",
+  "alerta_politica": "Divulgação de formação em saúde: não garantir resultados clínicos ou físicos para pacientes. A designação de pós-graduação, a certificação, os requisitos e a ausência de TCC devem corresponder às condições reais e às regras educacionais aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2151404209591145",
+    "anunciante": "Personal Trainer Academy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-06",
+    "dias_no_ar": 100,
+    "variacoes_ativas": 1,
+    "texto_original": "Se você é Personal Trainer e quer aprender a treinar mulheres de forma realmente eficaz, essa pós-graduação pode mudar completamente o seu posicionamento no mercado.\n\nA maioria dos profissionais ainda usa treinos genéricos, sem considerar fatores fundamentais como:\n\n• Ciclo menstrual\n• Alterações hormonais\n• Metabolismo feminino\n• Objetivos estéticos específicos\n\nResultado?\n\nAlunas frustradas, resultados lentos e pouca valorização do seu trabalho.\n\nNa Pós-Graduação em Treinamento Feminino, você vai aprender protocolos avançados para:\n\n✔ Emagrecimento feminino\n✔ Hipertrofia focada em glúteos e pernas\n✔ Treinamento adaptado ao ciclo hormonal\n✔ Estratégias que aumentam resultados e fidelizam alunas\n\nIsso significa mais resultado para suas clientes e mais valor para o seu serviço.\n\nPreencha o formulário e receba todas as informações da pós-graduação.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2151404209591145.jpg"
+}

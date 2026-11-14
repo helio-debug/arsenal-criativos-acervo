@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-3929403513870968",
+  "tipo": "estatico",
+  "titulo": "Desconto de 60% dentro de interface clara",
+  "formato": "Oferta e promoção",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical em cinza muito claro simula uma tela de aplicativo com sequência de uso, progresso semanal e navegação. A chamada central em inglês apresenta o método e destaca 60% de desconto.",
+  "por_que_funciona": [
+    "O percentual grande concentra a leitura na oferta.",
+    "O texto preto tem alto contraste com o fundo claro.",
+    "A navegação inferior contextualiza o produto como aplicativo.",
+    "Os indicadores de semana e sequência remetem à constância de uso."
+  ],
+  "quando_usar": "Para campanhas de assinatura com desconto, sobretudo ao apresentar o produto em um ambiente visual semelhante ao aplicativo.",
+  "estrutura_texto": "[indicador de sequência] + [resumo da semana] + [marca] + [frase sobre método] + [percentual] DE DESCONTO + [navegação do app].",
+  "legenda": "Conheça o [aplicativo de treino] com [orientações de rotina], [exercícios] e [recursos de alimentação]. Assine [plano elegível] com [percentual de desconto]. Veja os detalhes em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza muito claro com leve gradiente, moldura fina arredondada e indicadores discretos no topo. Centralize marca, chamada breve sobre o método e [percentual] DE DESCONTO em preto grande. Inclua três ícones de navegação no rodapé. Use a IMAGEM 2 para adaptar o produto e a identidade visual; não copie a interface exata nem alegue resultados milagrosos.",
+  "alerta_politica": "Meta: evitar alegações de resultados milagrosos, transformação corporal garantida ou atribuição de condição de saúde ao leitor. Informar desconto real e condições da assinatura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3929403513870968",
+    "anunciante": "Freeletics",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-20",
+    "dias_no_ar": 298,
+    "variacoes_ativas": 1,
+    "texto_original": "Get your personalized Training Coach and get in the best shape ever!\n►Daily instructions\n►Effective workouts\n►Easy meal plans",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-3929403513870968.jpg"
+}

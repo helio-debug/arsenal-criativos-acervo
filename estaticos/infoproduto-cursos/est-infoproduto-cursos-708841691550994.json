@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-708841691550994",
+  "tipo": "estatico",
+  "titulo": "Checklist de formação e renovação para condutores",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo verde com foto de veículo sustenta o título de cursos de trânsito. À esquerda, quatro itens com marcas de verificação; à direita, um círculo com veículos e identificação das categorias.",
+  "por_que_funciona": [
+    "Os quatro símbolos de verificação organizam prazos e formas de estudo.",
+    "A faixa “formação e renovação” explicita as duas necessidades atendidas.",
+    "Os veículos dentro do círculo representam as especialidades disponíveis.",
+    "O ícone de celular reforça a possibilidade de estudar pelo aparelho."
+  ],
+  "quando_usar": "Para cursos de habilitação profissional ou atualização que precisam explicar modalidade, categorias e prazos.",
+  "estrutura_texto": "[Marca]\n[Cursos especializados e modalidade]\n[Formação e renovação]\n[Prazo de formação]\n[Prazo de renovação]\n[Dispositivo de acesso]\n[Flexibilidade de estudo]\n[Categorias]\n[Autorização]\n[Contato]",
+  "legenda": "Faça seu curso de [especialidade] na modalidade [modalidade]. Estude em [dispositivos] conforme [condições de acesso]. Confira [categorias], [prazos] e [autorização aplicável]. Fale com a equipe pelo [canal] para iniciar sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde-escuro com foto de veículo em baixa opacidade. Coloque título branco no topo, faixa verde de formação e renovação, checklist à esquerda e recorte circular com veículos das categorias à direita. Reserve rodapé para autorização comprovada, ícone de celular e contato. Não invente prazos nem validade de certificação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "708841691550994",
+    "anunciante": "Grupo Eadtran Jessica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-28",
+    "dias_no_ar": 535,
+    "variacoes_ativas": 6,
+    "texto_original": "🚨 Inicie hoje mesmo seu curso de trânsito especializado na modalidade ONLINE.\n\n➡ Estude no conforto de sua casa conforme sua disponibilidade.\n\n✔️ Início Imediato;\n✔️ Cursos autorizados pelo SENATRAN;\n✔️ Vinculados em sua CNH digital;\n✔️ Com certificação aceito em todo território nacional.\n\nClique agora em nosso WhatsApp e inicie o seu curso agora mesmo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-708841691550994.jpg"
+}

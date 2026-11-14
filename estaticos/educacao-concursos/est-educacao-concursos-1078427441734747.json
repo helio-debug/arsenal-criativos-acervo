@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1078427441734747",
+  "tipo": "estatico",
+  "titulo": "Cargo desejado com público da mentoria em caixa amarela",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo branco com bastante espaço vazio, título preto serifado em duas linhas e prazo logo abaixo. Um retângulo amarelo descreve a mentoria individual e o público que concilia estudos e trabalho.",
+  "por_que_funciona": [
+    "O cargo em letras grandes concentra a atenção no objetivo da preparação.",
+    "O bloco amarelo separa a descrição da mentoria do restante da peça.",
+    "A menção a conciliar estudos e trabalho explicita o contexto de uso."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de transição de carreira a profissionais que estudam enquanto trabalham, usando prazo de preparação sem garantia de aprovação.",
+  "estrutura_texto": "[Cargo desejado]. [Prazo de preparação]. Mentoria individual para [públicos] que decidiram investir em [transição], conciliando [rotina e estudos].",
+  "legenda": "Prepare-se para [concurso/cargo] com um plano de estudos individual, adaptado à rotina de [público]. Conheça o acompanhamento e faça sua aplicação em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição tipográfica com fundo branco e amplas margens verticais. Escreva o cargo em preto, serifado e muito grande, seguido de uma linha de prazo de preparação. Abaixo, coloque descrição do público e da mentoria em caixa amarela, com fonte sem serifa. Não apresente aprovação em prazo fixo como garantia. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1078427441734747",
+    "anunciante": "Mentoria Tribunal do Trabalho",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 4,
+    "texto_original": "Você está a um clique de estudar com um plano 100% guiado por mim até sua aprovação no TRT.\nFaça sua aplicação agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1078427441734747.jpg"
+}

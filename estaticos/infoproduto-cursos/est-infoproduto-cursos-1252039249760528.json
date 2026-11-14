@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1252039249760528",
+  "tipo": "estatico",
+  "titulo": "Catálogo gratuito com certificados em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma mulher segura dois certificados e aponta para eles sobre fundo azul texturizado. A oferta de cursos gratuitos aparece no topo, com benefícios à direita e botão amarelo na base.",
+  "por_que_funciona": [
+    "A mulher apontando direciona o olhar para os certificados.",
+    "A quantidade de cursos apresenta a amplitude do catálogo.",
+    "Os checks destacam a emissão gratuita de dois certificados.",
+    "O botão amarelo separa a ação de matrícula do restante da peça."
+  ],
+  "quando_usar": "Para apresentar um catálogo de cursos gratuitos com condições de certificação transparentes.",
+  "estrutura_texto": "[MARCA]\nCURSOS ONLINE GRATUITOS\nCOM CERTIFICADO\n+ [QUANTIDADE] CURSOS\nEMITA [QUANTIDADE] CERTIFICADOS DE GRAÇA\nCOMEÇAR CURSO GRÁTIS!\n[DISPONIBILIDADE REAL]",
+  "legenda": "Escolha entre [quantidade] cursos online gratuitos em [áreas]. Consulte a carga horária, a avaliação e as condições para emitir [quantidade] certificados gratuitos. Veja o catálogo e comece em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho texturizado e título amarelo com subtítulo branco. À esquerda, pessoa segurando certificados genéricos baseados no produto da IMAGEM 2; à direita, dois benefícios com checks. Na base, botão amarelo arredondado e faixa vermelha de disponibilidade somente se houver limite real. Certificados devem ser ilustrativos e sem dados pessoais reais.",
+  "alerta_politica": "Informar claramente custos e requisitos da certificação. Só usar escassez verificável; não sugerir certificação sem estudo ou reconhecimento oficial sem comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1252039249760528",
+    "anunciante": "Cursos Online SP do Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-11",
+    "dias_no_ar": 248,
+    "variacoes_ativas": 3,
+    "texto_original": "🚀350 Cursos Gratuitos Rápidos Online \n🎓Certificado em 5 Minutos\n🏛️Horas Complementares p/ Faculdade\n🔝Ganhe 02 Certificados\n📚Portal de Cursos Fundado em 2013\n✨Enriquecer seu Currículo\nhttps://www.CursosOnlineSP.com.br",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1252039249760528.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-4121546371497388",
+  "tipo": "estatico",
+  "titulo": "Newsletter gratuita em capa editorial",
+  "formato": "Alerta e educação",
+  "nicho": "imoveis",
+  "tipo_solucao": "servico-online",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Uma capa editorial clara aparece sobre uma fotografia de prédios vistos de baixo. Um quadro de indicadores antecede a chamada para receber notícias gratuitas por e-mail.",
+  "por_que_funciona": [
+    "O quadro com nove indicadores mostra o tipo de conteúdo entregue.",
+    "A chamada em preto e caixa alta destaca o assunto da newsletter.",
+    "A palavra “gratuitamente” e a entrega por e-mail tornam a adesão fácil de entender.",
+    "A fotografia de edifícios situa a peça no mercado imobiliário."
+  ],
+  "quando_usar": "Para captar assinantes interessados em notícias do setor imobiliário e da construção.",
+  "estrutura_texto": "[Nome da newsletter]\n[Setor] | [Ano]\n[Prévia de indicadores]\nAS PRINCIPAIS NOTÍCIAS DE [SETOR]\npor [Autor]\nReceba gratuitamente no seu e-mail [conteúdo] para [público].\n[Marca]",
+  "legenda": "Receba gratuitamente toda semana [notícias e indicadores de setor] no seu e-mail. Clique em [CTA] e assine [newsletter].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo fotográfico de arquitetura, cartão branco translúcido com cantos arredondados, cabeçalho editorial azul e preto, prévia de indicadores em grade e título preto condensado. Abaixo, inclua autoria genérica, explicação da assinatura gratuita e botão circular com seta. Use somente dados fornecidos; não invente indicadores.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4121546371497388",
+    "anunciante": "O Incorporador",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-03",
+    "dias_no_ar": 499,
+    "variacoes_ativas": 1,
+    "texto_original": "Receba gratuitamente toda semana a melhor newsletter com foco no mercado imobiliário, incorporações imobiliárias e setor da construção diretamente no seu e-mail!\n\nClique em “Saiba Mais” e faça sua assinatura gratuitamente.\nIncorporaNews | A melhor Newsletter do Mercado Imobiliário",
+    "origem_coleta": "acervo:o-incorporador"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-4121546371497388.jpg"
+}

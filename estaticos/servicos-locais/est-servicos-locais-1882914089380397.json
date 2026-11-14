@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1882914089380397",
+  "tipo": "estatico",
+  "titulo": "Embarcação e aplicativo com benefícios de monitoramento",
+  "formato": "Produto em destaque",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Lancha em movimento ocupa o centro, com chamada branca e ciano no topo. Um celular com mapa e ícones de recursos aparecem na parte inferior, que está cortada.",
+  "por_que_funciona": [
+    "A lancha em movimento situa o uso do serviço no ambiente náutico.",
+    "O celular com mapa torna visível o acompanhamento pelo aplicativo.",
+    "Os ícones de localização e água identificam dois recursos com pouco texto.",
+    "O ciano destaca a promessa principal sobre o céu azul."
+  ],
+  "quando_usar": "Para empresas de rastreamento náutico apresentarem recursos a proprietários que estão comparando soluções.",
+  "estrutura_texto": "[BEM QUE MERECE PROTEÇÃO]\n[CHAMADA DE PROTEÇÃO INTELIGENTE]\n[CONTROLE PELO CELULAR]\n[RECURSO 1]\n[RECURSO 2]",
+  "legenda": "Acompanhe [bem] pelo celular com [serviço]. Receba [alertas disponíveis] e consulte [informações de monitoramento]. Atendimento em [região]. Solicite um orçamento pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia do produto ou bem monitorado no centro, em ambiente de uso, título grande branco e ciano no topo e subtítulo menor. Na base, organize ícones circulares e legendas de recursos ao lado de um celular com mapa ilustrativo. Trabalhe com azul, branco e ciano; mantenha todos os textos dentro da área útil. Adapte o texto ao MEU PRODUTO, em pt-BR, com benefícios comprováveis e sem acrescentar recursos não informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1882914089380397",
+    "anunciante": "Multtracker.gpsrastreamento",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-22",
+    "dias_no_ar": 23,
+    "variacoes_ativas": 1,
+    "texto_original": "🛥️ Sua embarcação merece proteção!\n\nCom a Multtracker Náutica, acompanhe a localização pelo celular, receba alertas e tenha mais controle e segurança.\n\n📍 Atendimento em Ubatuba e região.\n\n📲 Solicite seu orçamento!\nWHATSAPP\nMonitoramento de embarcação com rastreamento Náutico.",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1882914089380397.jpg"
+}

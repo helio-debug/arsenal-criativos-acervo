@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-346100411901665",
+  "tipo": "estatico",
+  "titulo": "Certificação técnica com equipamento e selo",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Equipamento de bioimpedância à esquerda, selo de certificação no alto à direita e nome do curso abaixo. Uma seta conduz à chamada para consultar a programação.",
+  "por_que_funciona": [
+    "O equipamento à esquerda identifica imediatamente o tema técnico.",
+    "O selo recortado destaca o nível da certificação.",
+    "O título em vinho se destaca no fundo branco.",
+    "A seta no rodapé dá direção à chamada de programação."
+  ],
+  "quando_usar": "Para divulgar formação técnica a profissionais que já conhecem o equipamento ou a área.",
+  "estrutura_texto": "[PERFIL]\n[SELO DE CERTIFICAÇÃO]\n[NÍVEL]\n[NOME DO CURSO]\n[MARCA]\n[confira a programação]",
+  "legenda": "Aprenda a usar [tecnologia] na sua prática profissional. Inscreva-se gratuitamente em [curso de certificação] e confira [programação] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com linhas curvas finas, foto da IMAGEM 2 ocupando a metade esquerda e selo de certificação no alto à direita. Abaixo do selo, coloque título técnico em vinho, com CTA e seta no rodapé. Só use selo e certificação comprovados.",
+  "alerta_politica": "Por envolver formação em tecnologia de saúde, evite promessas de eficácia clínica e resultados garantidos. Certificação e gratuidade devem ser verificáveis; não apresente o curso como habilitação profissional que ele não concede.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "346100411901665",
+    "anunciante": "Ottoboni Comércio e Importação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-08-13",
+    "dias_no_ar": 823,
+    "variacoes_ativas": 1,
+    "texto_original": "Domine o uso da bioimpedância para otimizar o tratamento dos seus pacientes. Inscreva-se gratuitamente no InBody International Certification Bioelectrical Impedance Analysis Level 1 Course. É só clicar no link.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-346100411901665.jpg"
+}

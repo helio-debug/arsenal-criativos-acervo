@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1713648380321976",
+  "tipo": "estatico",
+  "titulo": "Comparação de mensalidades com plano central destacado",
+  "formato": "Comparativo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Três cartões comparam mensalidades, taxas e recursos. O plano central ganha borda verde e uma lista de vantagens; uma faixa vermelha encerra com chamada para acesso.",
+  "por_que_funciona": [
+    "O preço do cartão central aparece entre dois preços maiores, facilitando a comparação.",
+    "A borda verde e o fundo colorido destacam a opção central dos cartões brancos.",
+    "Ícones verdes e vermelhos permitem localizar recursos e limitações.",
+    "A faixa vermelha cria um ponto de ação separado da tabela."
+  ],
+  "quando_usar": "Para software B2B com diferenças comprováveis de preço e recursos, perto da decisão de contratação.",
+  "estrutura_texto": "[Categoria da solução]\n[Alternativa A]: [preço] + [taxas] + [limitações]\n[Seu plano]: [preço] + [taxas] + [recursos]\n[Alternativa B]: [preço] + [taxas] + [limitações]\n[CTA]\n[Condições de implantação]",
+  "legenda": "Compare [solução] por mensalidade, taxas e recursos incluídos. O plano [nome] custa [preço] e inclui [recursos comprovados]. Veja as condições de [implantação] em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro com padrões discretos, título superior e três cartões verticais. Destaque o cartão central com borda verde, preço grande e itens com checks. Nas laterais, use comparações verificáveis e limitações. Termine com faixa vermelha de CTA. Use dados fornecidos, sem inventar concorrentes, credenciais ou garantias contra bloqueios.",
+  "alerta_politica": "Evitar garantia de ausência de bloqueios e alegações de parceria oficial sem comprovação. Mensagens em massa devem respeitar consentimento e as regras da plataforma de mensagens.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1713648380321976",
+    "anunciante": "WhatChimp",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-31",
+    "dias_no_ar": 14,
+    "variacoes_ativas": 4,
+    "texto_original": "Looking to send personalised bulk messages on WhatsApp without getting banned?\n\nUse the official WhatsApp API with WhatChimp, the 🏆 #1 Official WhatsApp Marketing Platform and a Verified Meta Business Partner.\n\nTrusted by thousands of businesses in 90+ countries, WhatChimp is built for everyone from small startups to large enterprises.\n\n🚨 Lock in Early Bird Pricing for Life starting at just $12/month\n\nWith WhatChimp, you can\n\n ✅ Send personalised bulk messages safely using the official WhatsApp API\n ✅ Add multiple team members with roles, permissions, and manager monitoring\n ✅ Manage all customer chats through a multi-agent shared inbox\n ✅ Connect multiple WhatsApp numbers with coexistence support\n ✅ Automate replies using AI trained on your business\n ✅ Build smart chatbots with a drag-and-drop builder, no coding needed\n ✅ Create automated follow-up sequences and collect user inputs interactively\n ✅ Route chats automatically to the right agent with smart AI routing\n ✅ Send unlimited messages and enjoy unlimited chatbot sessions\n ✅ Use message templates, SMS broadcasts, and click to WhatsApp ad integrations\n ✅ Track campaign reports, monitor bot performance, and view conversation insights\n\nYou also get\n\n ⚡ 0% Markup Fees on WhatsApp API\n ⚡ Unlimited Messaging Credits\n ⚡ Unlimited Free Incoming Conversations\n ⚡ WhatsApp Chat Widget for your website\n ⚡ AI Intent Detection and Incoming Chat Translation\n ⚡ Google Sheets and API Integration for developers\n ⚡ Outgoing Webhooks to send data anywhere\n ⚡ Integrations with Zapier, Pabbly, Make, n8n, Shopify, and WooCommerce\n ⚡ Phone Number Masking for privacy and compliance\n\nAll plans include 7-day dedicated support, free onboarding, and free migration from your existing provider.\n\nThousands of businesses have already switched to WhatChimp for its reliability, transparent pricing, and world-class support.\n\nLearn more and grab the special offer: https://whatchimp.com/special-offer",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1713648380321976.jpg"
+}

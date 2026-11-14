@@ -1,0 +1,90 @@
+{
+ "id": "vid-proibicao-nunca-faca-isso",
+ "titulo": "Aviso de \"nunca faça isso\" com a consequência concreta",
+ "formato_video": "faq-resposta",
+ "nichos": [
+  "saude",
+  "automotivo",
+  "investimentos",
+  "imoveis"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio de apresentador sentado em escritório claro. Uma mão entra pela direita com microfone. Caixa branca fixa sobre o peito, com cabeçalho preto; palavra de alerta branca com contorno preto acima.",
+   "fala": "Não faça [ação de risco] sem conferir [critério].",
+   "texto_tela": "NÃO FAÇA [AÇÃO] SEM CONFERIR [CRITÉRIO]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Corte no mesmo eixo, um pouco mais perto. Apresentador aponta para um documento genérico na mesa; a caixa continua fixa.",
+   "fala": "Pular essa conferência pode trazer [consequência concreta]. Isso depende de [condição que altera o risco].",
+   "texto_tela": "Risco: [consequência]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "Plano médio com gesto de comparação entre duas opções. Legenda grande destaca uma palavra por vez acima da caixa.",
+   "fala": "Em [situação A], vale [regra A]. Em [situação B], o procedimento muda para [regra B].",
+   "texto_tela": "Confira [condição]"
+  },
+  {
+   "tempo": "17-25s",
+   "cena": "Corte para mãos mostrando o campo relevante em documento ou tela própria, sem dados pessoais. Volta ao rosto na última frase.",
+   "fala": "Antes de decidir, consulte [fonte confiável] e confira [campo específico]. Se houver dúvida, peça [orientação adequada].",
+   "texto_tela": "Veja o campo [campo específico]"
+  },
+  {
+   "tempo": "25-33s",
+   "cena": "Volta ao plano médio do escritório. Microfone permanece visível; apresentador olha para a câmera e indica a legenda.",
+   "fala": "Salve esse aviso. Na legenda, deixei [orientação inicial] para conferir [critério] com calma.",
+   "texto_tela": "Salve para consultar"
+  }
+ ],
+ "hook": {
+  "falado": "Não faça [ação de risco] sem conferir [critério].",
+  "texto_tela": "NÃO FAÇA [AÇÃO] SEM CONFERIR [CRITÉRIO]",
+  "visual": "Plano médio de apresentador sentado em escritório claro. Uma mão entra pela direita com microfone. Caixa branca fixa sobre o peito, com cabeçalho preto; palavra de alerta branca com contorno preto acima."
+ },
+ "por_que_funciona": [
+  "A mão com o microfone entra no quadro e situa a fala como uma resposta de escritório.",
+  "A caixa branca com cabeçalho preto permanece sobre o peito nos cinco frames, mantendo o assunto à vista.",
+  "As palavras brancas com contorno preto aparecem acima da caixa e acompanham os termos pronunciados.",
+  "A resposta audível distingue condições diferentes em vez de tratar a regra como universal; o modelo mantém essa ressalva."
+ ],
+ "quando_usar": "Para quem vende orientação ou ajuda numa decisão com risco verificável. Use no topo do funil para explicar um cuidado antes da contratação, compra ou uso.",
+ "roteiro_modelo": "Não faça [ação de risco] sem conferir [critério].\n\n[pausa curta; corte]\n\nPular essa conferência pode trazer [consequência concreta]. Isso depende de [condição que altera o risco].\n\n[pausa curta; corte]\n\nEm [situação A], vale [regra A]. Em [situação B], o procedimento muda para [regra B].\n\n[pausa curta; corte]\n\nAntes de decidir, consulte [fonte confiável] e confira [campo específico]. Se houver dúvida, peça [orientação adequada].\n\n[pausa curta; corte]\n\nSalve esse aviso. Na legenda, deixei [orientação inicial] para conferir [critério] com calma.",
+ "tomadas_celular": [
+  "Grave 4s em plano médio vertical, sentado, com janela à frente e escritório neutro ao fundo; peça que uma mão entre com um microfone.",
+  "Grave 6s no mesmo eixo, enquadrando rosto e mesa, com luz lateral suave; aponte para um documento sem dados.",
+  "Grave 7s do peito para cima, janela à frente, comparando duas situações com gestos pequenos.",
+  "Grave 8s em close das mãos e do campo a consultar, luz difusa sobre a mesa; esconda dados pessoais.",
+  "Grave 8s em plano médio, mesma luz do início, encerrando com indicação discreta da legenda."
+ ],
+ "caminho_ia": "Use Veo ou Runway para criar o escritório e um avatar autorizado para a fala, sem reproduzir a pessoa da referência. Prompts: \"Vertical 9:16 medium shot of a generic presenter seated in a bright office, an interviewer hand holding a small microphone entering from frame right, soft window light, natural gestures, blank lower chest area for [warning about product], no logos, 4 seconds.\" e \"Vertical 9:16 close-up of hands checking [relevant field for product] on an unbranded document, soft diffused daylight, steady camera, no personal data, no readable generated text, 8 seconds.\" Monte no CapCut, acrescente a caixa fixa e as palavras brancas com contorno preto; grave a fala com avatar ou voz sintética licenciada.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e de edição. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um aviso de 33s em cinco blocos: 0-4 proibição específica; 4-10 consequência e condição; 10-17 duas situações; 17-25 conferência e alternativa segura; 25-33 convite para salvar e consultar a legenda. Tom calmo de resposta técnica, sem alarmismo. Use escritório, mão com microfone, caixa branca de cabeçalho preto e palavras brancas com contorno preto. Faça cortes entre frases, mantendo o mesmo eixo. O gancho deve proibir uma ação concreta, embora a referência visual seja uma resposta a pergunta. Não copie o assunto tributário nem a fala de referência. Para cada nicho, escolha critérios e fontes adequados; não prescreva condutas clínicas ou investimentos individuais. Use pt-BR falado, frases curtas e campos [entre colchetes] para dados ausentes. Não invente prova, prazo, preço ou garantia. Não copie anunciante, pessoa, marca, logotipo, domínio, contato nem falas da referência. Não use clichês, superlativos sem prova, antíteses vazias nem perguntas de enfeite. Meta: não atribua doença ou condição financeira ao espectador; sem antes/depois de corpo ou promessa de resultado de saúde. Em saúde, use alegações comprovadas e respeite ANVISA e CFM quando aplicáveis. Em investimentos, observe as regras da CVM, informe riscos e não garanta rentabilidade; retorno passado não garante retorno futuro. Banco Central quando a adaptação envolver crédito ou instituição sob sua supervisão. Em imóveis, observe as regras da Meta para anúncios de moradia.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Antes de [ação], confira [critério]. Consulte [fonte confiável] e localize [campo]. Em [condição], procure [profissional habilitado]. Salve para a próxima consulta.",
+ "alerta_politica": "Meta: não atribua doença ou condição financeira ao espectador; sem antes/depois de corpo ou promessa de resultado de saúde. Em saúde, use alegações comprovadas e respeite ANVISA e CFM quando aplicáveis. Em investimentos, observe as regras da CVM, informe riscos e não garanta rentabilidade; retorno passado não garante retorno futuro. Banco Central quando a adaptação envolver crédito ou instituição sob sua supervisão. Em imóveis, observe as regras da Meta para anúncios de moradia.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c22d1a28",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-proibicao-nunca-faca-isso/frames/f1.jpg",
+    "videos/vid-proibicao-nunca-faca-isso/frames/f2.jpg",
+    "videos/vid-proibicao-nunca-faca-isso/frames/f3.jpg",
+    "videos/vid-proibicao-nunca-faca-isso/frames/f4.jpg",
+    "videos/vid-proibicao-nunca-faca-isso/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

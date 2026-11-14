@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1033712969386173",
+  "tipo": "estatico",
+  "titulo": "Capacitação com apostila ilustrada e percurso técnico",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Em fundo creme, o título verde ocupa a esquerda e um mockup de material avaliativo aparece à direita. Uma caixa verde reúne três benefícios e uma faixa inferior apresenta os recursos do curso.",
+  "por_que_funciona": [
+    "O mockup de apostila torna o conteúdo técnico visível.",
+    "O título grande identifica a competência ensinada.",
+    "Os três itens com marca de verificação resumem o escopo da capacitação.",
+    "A faixa inferior reúne formatos, acesso e certificado sem competir com o título."
+  ],
+  "quando_usar": "Para apresentar capacitação técnica a profissionais habilitados que buscam organizar um processo de avaliação.",
+  "estrutura_texto": "INSCRIÇÕES ABERTAS\nCurso de Capacitação e Aperfeiçoamento em\n[tema]\nDo [início do processo] à [entrega final]\n[benefício 1]\n[benefício 2]\n[benefício 3]\n[formatos] · [condição de acesso] · [certificado]",
+  "legenda": "Aprenda a planejar e estruturar [processo profissional], de [etapa inicial] até [entrega]. O curso aborda [conteúdos] com [materiais]. Confira o público indicado e os requisitos de participação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use paleta creme e verde escuro, título grande à esquerda e mockup inclinado de apostila à direita. Inclua formas curvas discretas, caixa verde com três itens assinalados e faixa inferior com pequenos ícones de conteúdo, acesso e certificado. Use exemplos didáticos originais, sem reproduzir testes restritos.",
+  "alerta_politica": "Direcione a oferta ao público habilitado e explicite os limites da capacitação. Não prometa diagnóstico ou competência clínica automática; preserve sigilo e não reproduza instrumentos psicológicos de uso restrito.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1033712969386173",
+    "anunciante": "ElloCursos Psicologia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-14",
+    "dias_no_ar": 123,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 Neste curso, você aprende a planejar, conduzir e estruturar uma avaliação neuropsicológica de forma organizada, ética e tecnicamente fundamentada, desde o acolhimento inicial até a elaboração do laudo.\n\nO erro de muitos profissionais está em tratar a avaliação neuropsicológica como uma sequência de testes, quando na prática ela exige planejamento, anamnese, escolha criteriosa de instrumentos, integração de dados e raciocínio clínico para sustentar conclusões.\n\nSem esse domínio, a avaliação pode ficar fragmentada, insegura e pouco consistente para responder à demanda clínica, escolar, médica ou jurídica apresentada.\n\n🎯 Esse curso foi pensado para psicólogos e estudantes de Psicologia que querem aprender a estruturar o processo de avaliação neuropsicológica com mais clareza, segurança técnica e responsabilidade ética.\n\n📍 Curso online\n📍 Aulas gravadas\n📍 Acesso imediato\n📍 Apostila de apoio\n📍 Certificado de conclusão\n\n💬 Clique em saiba mais para acessar os detalhes.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1033712969386173.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-2091970905073252",
+  "tipo": "estatico",
+  "titulo": "Plano pet com dois meses grátis e carência zerada",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo claro e roxo com oferta de dois meses grátis, linha adicional de carência zerada e foto de cachorro mordendo um brinquedo. Um selo verde sobrepõe a foto no canto inferior direito.",
+  "por_que_funciona": [
+    "A expressão “2 meses GRÁTIS” concentra a oferta no título.",
+    "A linha de carência zerada acrescenta uma condição concreta para consultas e vacinas.",
+    "O cachorro com brinquedo identifica de imediato o público pet.",
+    "O selo verde contrasta com o roxo e chama atenção para a oferta."
+  ],
+  "quando_usar": "Para divulgar promoção de contratação de plano pet com benefício e regulamento definidos.",
+  "estrutura_texto": "[Categoria] [Marca]\n[Quantidade] meses GRÁTIS\n+ [Condição de carência e serviços elegíveis]\n[Selo de oferta]\nVálido para [modalidade]. Consulte o regulamento.",
+  "legenda": "São [período de cobertura] de plano pet pelo valor de [período pago], na contratação [modalidade]. Conheça os serviços incluídos, as carências e as condições da promoção em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme no topo e roxo na base, com divisão levemente inclinada. Coloque identificação pequena acima de título roxo em fonte pesada e arredondada, e uma linha menor de benefício adicional. Insira foto central de pet brincando em retângulo de cantos arredondados e selo circular verde sobre o canto inferior direito. Reserve rodapé legível para contratação anual e regulamento.",
+  "alerta_politica": "Em planos de saúde veterinários, comprove os meses gratuitos e informe modalidade de contratação, carências, serviços elegíveis e regras da promoção. Não prometa cura nem cobertura irrestrita. Só use alegação de melhor oferta se houver comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2091970905073252",
+    "anunciante": "Petlove",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 2,
+    "texto_original": "Não é só pelo desconto! É pela saúde do seu pet e do seu bolso! São 12 meses de proteção, pagando o precinho de 10.\nNão adie mais a saúde do seu pet\nSe tem pet, tem que ter!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-2091970905073252.jpg"
+}

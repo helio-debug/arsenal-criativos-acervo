@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-687839050976209",
+  "tipo": "estatico",
+  "titulo": "Tema de anatomia sobre ilustração de crânio",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Ilustração anatômica lateral de um crânio sobre fundo roxo texturizado. Duas faixas claras destacam o tema e um ícone de mão sugere deslizar.",
+  "por_que_funciona": [
+    "O crânio ocupa quase toda a peça e identifica imediatamente a área de estudo.",
+    "A região temporal aparece em cor distinta das áreas vizinhas.",
+    "As faixas brancas tornam o título legível sobre a ilustração.",
+    "O gesto no canto sugere continuidade do conteúdo."
+  ],
+  "quando_usar": "Para perfis de ensino de anatomia atraírem estudantes e profissionais com uma introdução visual ao tema.",
+  "estrutura_texto": "ANATOMIA DO\n[ESTRUTURA ANATÔMICA]",
+  "legenda": "Você conhece [partes ou características da estrutura]? Siga [perfil] para receber mais conteúdos de [disciplina].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo com textura discreta e ilustração anatômica lateral central, com a região estudada em destaque. Posicione o título em duas faixas brancas arredondadas no terço inferior, em letras roxas pesadas. Inclua um pequeno ícone de deslizar. Preserve a precisão anatômica e use rótulos legíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "687839050976209",
+    "anunciante": "Buco Approve",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-31",
+    "dias_no_ar": 471,
+    "variacoes_ativas": 1,
+    "texto_original": "Dentista, você conhece as 4 partes do osso temporal? \n\nSiga meu perfil para receber mais conteúdos de anatomia.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-687839050976209.jpg"
+}

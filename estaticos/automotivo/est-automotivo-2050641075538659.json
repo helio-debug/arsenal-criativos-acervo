@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-2050641075538659",
+  "tipo": "estatico",
+  "titulo": "Tração e bateria em dois quadros de apoio",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um utilitário ocupa o centro de uma cena de lama com céu dramático e chamada 4x4 em diagonal. Dois quadros inferiores apresentam modos de condução e tração integral e capacidade de bateria.",
+  "por_que_funciona": [
+    "O veículo grande em terreno de lama associa o produto ao uso fora de estrada.",
+    "Dois quadros inferiores separam a informação de tração da capacidade de bateria.",
+    "O “4X4” em diagonal ocupa o fundo e reforça a versão anunciada."
+  ],
+  "quando_usar": "Para apresentar uma nova versão de veículo e detalhar dois diferenciais por peça em uma sequência de campanha.",
+  "estrutura_texto": "[Marca e assinatura]\n[Modelo e versão]\n[Chamada de lançamento]\n[Diferencial 1 e especificação]\n[Diferencial 2 e especificação]\n[Ressalvas técnicas, quando aplicáveis]",
+  "legenda": "Conheça o novo [modelo e versão]. Com [diferencial 1] e [diferencial 2], o veículo oferece [benefício comprovável]. Consulte especificações e agende uma apresentação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição quadrada com céu dramático, terreno de lama e paleta de preto, marrom e bege. Destaque o veículo em três quartos no centro, identificação própria no topo e versão em tipografia grande diagonal ao fundo. Na base, organize dois quadros com duas fotos externas em terreno irregular, acompanhados de legendas técnicas curtas sobre modos de condução e tração integral e capacidade de bateria. Use apenas especificações fornecidas e mantenha ressalvas técnicas legíveis. Não reproduza manobras perigosas nem apresente assistência à condução como autonomia total.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2050641075538659",
+    "anunciante": "Jetour Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-24",
+    "dias_no_ar": 113,
+    "variacoes_ativas": 3,
+    "texto_original": "O novo JETOUR T2 Híbrido Plug-in 4x4 chegou ao Brasil.\n\nSão 597 cv de potência, aceleração de 0 a 100 km/h em apenas 5,5 segundos, tração inteligente XWD, oito modos de condução e capacidade para atravessar até 70 cm de água.\nUm SUV que combina tecnologia, desempenho e sofisticação para ir além, em qualquer terreno.\n\nConheça o novo JETOUR T2 Híbrido Plug-in 4x4.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-2050641075538659.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1504747991419218",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre estrutura cirúrgica sobre foto da unidade",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto da fachada de uma unidade hospitalar recebe uma camada azul. Uma pergunta em letras claras ocupa o alto à esquerda, com destaque colorido e sublinhado para o serviço e a unidade.",
+  "por_que_funciona": [
+    "A fachada mostra o espaço físico relacionado ao atendimento.",
+    "A palavra diferenciais em outra cor destaca o assunto da peça.",
+    "O sublinhado concentra a atenção no centro cirúrgico e na unidade citada.",
+    "A seta laranja no canto superior marca o início da leitura."
+  ],
+  "quando_usar": "Para apresentar instalações e serviços de uma unidade de saúde a pessoas que comparam locais de atendimento.",
+  "estrutura_texto": "Você conhece os [diferenciais] do [serviço] da [unidade]?",
+  "legenda": "O [centro cirúrgico] da [unidade] conta com [estrutura e recursos comprovados] para [procedimentos atendidos]. Conheça as condições de atendimento em [site] e consulte a cobertura do seu plano.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Preencha o quadro com uma fotografia arquitetônica da unidade apresentada pela IMAGEM 2 e aplique camada azul que mantenha a fachada reconhecível. No alto à esquerda, inclua seta fina laranja e pergunta em fonte serifada clara. Destaque uma palavra em verde claro e sublinhe o nome do serviço. Use a unidade do anunciante, sem copiar o prédio da referência. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de saúde: respeitar as normas do CFM quando aplicáveis e as regras da Meta; não prometer resultados clínicos nem atribuir condições de saúde ao leitor. Informar condições de atendimento e comprovar alegações sobre a estrutura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1504747991419218",
+    "anunciante": "Sírio-Libanês",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-01",
+    "dias_no_ar": 74,
+    "variacoes_ativas": 1,
+    "texto_original": "O Centro Cirúrgico da Unidade Itaim foi desenvolvido para oferecer uma estrutura moderna e especializada para cirurgias plásticas, dermatológicas e outros procedimentos de baixa complexidade.\n\nUm ambiente seguro, preparado para proporcionar uma experiência de cuidado com a excelência do Hospital Sírio-Libanês.\n\nConsulte seu plano de saúde ou acesse nosso site para verificar as condições de atendimento.\nConheça o Centro Cirúrgico\nUnidade Itaim",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1504747991419218.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1377363541238883",
+  "tipo": "estatico",
+  "titulo": "Reportagem sobre trajetória em educação financeira",
+  "formato": "Print de tela",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Captura de uma página de reportagem com cabeçalho laranja, manchete sobre dívidas e educação financeira e foto da entrevistada. Subtítulo, autoria, data e legenda da foto preservam a aparência editorial.",
+  "por_que_funciona": [
+    "O cabeçalho e a autoria tornam o recorte reconhecível como página editorial.",
+    "A manchete liga uma dificuldade pessoal à criação de um negócio.",
+    "O subtítulo apresenta o número de alunos como dado de escala.",
+    "A foto da entrevistada conecta o texto a uma pessoa visível."
+  ],
+  "quando_usar": "Para divulgar uma matéria real sobre um negócio de educação financeira, com autorização e contexto.",
+  "estrutura_texto": "[Veículo]\nComo [experiência] inspirou [profissional] a criar [negócio].\n[Resumo da atuação e dado comprovado].\nPor [autoria] · [data]\n[Foto e legenda].",
+  "legenda": "A trajetória de [profissional] e o trabalho da [iniciativa de educação financeira] foram apresentados em [veículo]. A matéria conta como [experiência] levou à criação de [serviços]. Leia o conteúdo completo em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a organização de um recorte editorial em fundo branco: cabeçalho laranja genérico, manchete preta alinhada à esquerda, subtítulo menor, autoria e data e foto horizontal da IMAGEM 2 com legenda. Use somente reportagem real, autorizada e verificável; não invente publicação, autoria, data, números ou endosso de imprensa. Não reproduza identidade de veículo terceiro.",
+  "alerta_politica": "Meta: não use reportagem simulada ou endosso jornalístico falso. Em educação financeira, não prometa rentabilidade ou eliminação garantida de dívidas; recomendações de investimentos podem exigir observância das regras da CVM.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1377363541238883",
+    "anunciante": "Cecília Assis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-02",
+    "dias_no_ar": 73,
+    "variacoes_ativas": 1,
+    "texto_original": "TÔ NA PEQUENAS EMPRESAS & GRANDES NEGÓCIOS, MEU POVO! 🥹\n\nA @auniversidadedodinheiro virou matéria de revista de empreendedorismo, escrita pela Rafaela Souza da @revistapegn , e eu ainda não caí na real.\n\nPorque a mesma mulher que tá ali contando de mentoria, curso e consultoria é a aquela menina que tinha uma dívida crescendo, bolsa de estágio de R$ 500, a mãe ainda ajudando a pagar as contas e mesmo assim comprava comida fiado. Eu não tinha um passarinho pra cuidar. Não tinha ninguém dependendo de mim. E o dinheiro não fechava do mesmo jeito.\n\nQuando eu fui quase pagar o mínimo do meu cartão, o Nikolas, meu querido amor, veio ao meu resgate.\n\nOlha o que esse resgate criou: sete anos depois, mais de 215 clientes individuais, 43 ativos neste momento e crescendo, mais de 400 alunos e quatro mulheres pretas maravilhosas trabalhando juntas todos os dias.\n\nSe você chegou aqui agora: sou consultora financeira desde 2019 e trabalho com mulheres que estão cansadas de mexer no próprio dinheiro no escuro e sozinhas.\n\n✨ Matéria completa e aplicação pra consultoria: link na bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1377363541238883.jpg"
+}

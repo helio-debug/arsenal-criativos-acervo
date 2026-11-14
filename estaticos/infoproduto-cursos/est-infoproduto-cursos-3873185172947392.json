@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-3873185172947392",
+  "tipo": "estatico",
+  "titulo": "Curso com carga horária e inscrição gratuita",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo roxo com título grande à esquerda e foto de uma criança com peças de quebra-cabeça à direita. Uma faixa rosa na base convida à inscrição gratuita.",
+  "por_que_funciona": [
+    "O título branco em várias linhas torna o tema do curso evidente.",
+    "O bloco “200H” destaca uma informação objetiva da formação.",
+    "O botão rosa com “Inscreva-se grátis” concentra a chamada para ação."
+  ],
+  "quando_usar": "Para divulgar capacitação online a educadores e profissionais interessados no tema, na abertura de inscrições.",
+  "estrutura_texto": "[Modalidade]\n[Nome do curso]\nCarga horária [horas]\n[CTA de inscrição gratuita]",
+  "legenda": "Aprenda [conteúdo do curso] para apoiar [aplicação profissional]. Formação online com [condição real do certificado]. Inscreva-se [condição da gratuidade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo, título branco grande à esquerda, selo rosa de modalidade no alto e foto temática em painel com cantos arredondados à direita. Destaque a carga horária com ícone de relógio e uma faixa rosa de inscrição na base. Use apenas condições reais de gratuidade e certificação.",
+  "alerta_politica": "Meta: não atribuir diagnóstico ao leitor ou à criança retratada nem prometer cura ou resultados terapêuticos. Esclarecer se a gratuidade cobre o curso, a inscrição e o certificado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3873185172947392",
+    "anunciante": "Só Educador",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-11-29",
+    "dias_no_ar": 715,
+    "variacoes_ativas": 2,
+    "texto_original": "Domine as melhores práticas para inclusão e desenvolvimento de alunos com TEA. Curso online com certificado reconhecido. Matricule-se já!\nCapacitação em TEA\nTranstorno do Espectro Autista: Domine as Melhores Práticas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3873185172947392.jpg"
+}

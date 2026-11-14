@@ -1,0 +1,36 @@
+{
+  "id": "est-renda-extra-1678391983442745",
+  "tipo": "estatico",
+  "titulo": "Chamada regional sobre cena de entregas",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto em tela cheia de motociclista com caixas, diante de uma fachada clara com detalhes azuis. A chamada fica no alto à esquerda, com texto preto e azul.",
+  "por_que_funciona": [
+    "A fachada clara oferece contraste para a chamada sem uma caixa de texto.",
+    "O azul destaca a plataforma e a região em linhas grandes.",
+    "A moto e as caixas tornam a atividade reconhecível antes da leitura do subtítulo."
+  ],
+  "quando_usar": "Para apresentar uma oportunidade regional de entregas com veículo próprio.",
+  "estrutura_texto": "[assinatura]\nFaça entregas com [plataforma] na região de [cidade]\nTransforme seu tempo livre em [possibilidade de renda] fazendo [atividade] com [veículo]",
+  "legenda": "Faça [tipo de entrega] com sua [veículo] em [região]. Organize sua disponibilidade em blocos de até [duração] e consulte as condições de participação em [plataforma].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Preencha a arte com foto contextual de veículo e entregador na metade direita e inferior. Reserve área clara no alto à esquerda para assinatura, título grande preto e azul e subtítulo preto menor. Preserve a leitura do texto sobre a foto.",
+  "alerta_politica": "Meta: apresentar a oportunidade e os requisitos com clareza, sem garantir renda, lucro ou independência financeira. Ganhos dependem de atividade, custos e condições individuais; não sugerir emprego ou remuneração garantidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1678391983442745",
+    "anunciante": "Amazon Flex",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-05",
+    "dias_no_ar": 162,
+    "variacoes_ativas": 6,
+    "texto_original": "Transforme seu tempo livre em renda extra fazendo entregas com o Amazon Flex em Osasco usando sua motocicleta.\nFaça entregas de pacotes da Amazon usando sua motocicleta\nUse sua própria motocicleta para entregar pacotes da Amazon e ganhar dinheiro na sua própria programação com blocos de entrega de até 4 horas.\nSign Up\nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1678391983442745.jpg"
+}

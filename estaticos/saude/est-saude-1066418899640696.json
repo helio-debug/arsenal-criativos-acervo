@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1066418899640696",
+  "tipo": "estatico",
+  "titulo": "Atendimento online demonstrado em videochamada",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma mão segura um celular inclinado com uma profissional em videochamada. Sobre fundo roxo, um bloco de acolhimento e um texto lateral apresentam o atendimento online.",
+  "por_que_funciona": [
+    "A tela com profissional e controles de chamada demonstra como o serviço acontece.",
+    "O trecho “dias mais pesados” ganha faixa escura dentro do bloco de texto.",
+    "O celular ocupa a metade direita e dá escala ao atendimento pelo aparelho.",
+    "A faixa branca inferior torna o convite para conhecer o serviço fácil de localizar."
+  ],
+  "quando_usar": "Para apresentar a modalidade de um serviço de atendimento remoto e reduzir dúvidas sobre seu uso.",
+  "estrutura_texto": "[Mensagem geral de acolhimento]\n[Profissionais] online, onde você estiver.\nConheça [serviço].",
+  "legenda": "O cuidado emocional pode começar no seu tempo. Conheça [serviço] e veja como acessar [atendimento online] com [profissionais habilitados].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo com padrão geométrico discreto. À direita, coloque uma mão segurando celular grande e levemente inclinado com uma profissional adulta em videochamada e controles visuais simples. À esquerda, crie bloco translúcido com mensagem geral de acolhimento em branco e texto de apoio abaixo. Inclua faixa branca arredondada na base com CTA roxo. Não atribua condições de saúde ao leitor nem sugira que a pessoa retratada endossa o serviço.",
+  "alerta_politica": "Meta: evite afirmar ou insinuar que o público possui uma condição de saúde mental, está em crise ou negligencia o próprio cuidado. Use convite geral ao atendimento, sem diagnóstico ou promessa de cura; respeite sigilo e regras éticas do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1066418899640696",
+    "anunciante": "Zenklub",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-12",
+    "dias_no_ar": 63,
+    "variacoes_ativas": 2,
+    "texto_original": "Você não precisa esperar uma crise pra procurar ajuda. No Zenklub, dá pra começar agora, no seu tempo.",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1066418899640696.jpg"
+}

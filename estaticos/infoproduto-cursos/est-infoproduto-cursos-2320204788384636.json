@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2320204788384636",
+  "tipo": "estatico",
+  "titulo": "Formação executiva com programa e condições",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Anúncio vertical em azul-escuro apresenta credencial em inovação digital, lista de módulos e botão circular de candidatura. Uma faixa com duração e preço separa o texto de uma imagem de mão sustentando um globo luminoso.",
+  "por_que_funciona": [
+    "O título branco central explicita a formação oferecida.",
+    "Os marcadores “NEW” e “REFRESHED!” chamam atenção para mudanças no programa.",
+    "A faixa de condições concentra duração, dedicação semanal, preço e modalidade.",
+    "O círculo claro “Apply Now” se destaca ao lado dos módulos."
+  ],
+  "quando_usar": "Para divulgar uma formação executiva a interessados que precisam avaliar conteúdo, carga horária e investimento antes da candidatura.",
+  "estrutura_texto": "[INSTITUIÇÃO]\nAgora com mais conteúdo de [TEMA]\n[FORMAÇÃO]\n[BENEFÍCIO PROFISSIONAL]\n[MÓDULOS E ATUALIZAÇÕES]\n[CANDIDATE-SE]\n[DURAÇÃO] | [DEDICAÇÃO] | [PREÇO] | [MODALIDADE]",
+  "legenda": "Desenvolva competências em [área] para aplicar em [contexto profissional]. A formação inclui [módulos], com conteúdo de [tema atualizado]. Duração de [prazo], no formato [modalidade]. Consulte o programa e os critérios de candidatura em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho vertical e identidade própria no topo. Centralize o nome da formação em branco, adicione subtítulo menor e módulos em duas colunas com pontos amarelos. Marque atualizações reais com etiquetas pequenas, adicione CTA circular azul-claro e uma faixa contrastante com condições. No terço inferior use imagem conceitual de tecnologia vinculada ao produto. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2320204788384636",
+    "anunciante": "Harvard Business School Online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-13",
+    "dias_no_ar": 93,
+    "variacoes_ativas": 1,
+    "texto_original": "Your company needs a digital innovation leader, so why not you? Gain actionable skills to evolve your company and advance.\nNew AI for Leaders Module\n6-month self-paced credential",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2320204788384636.jpg"
+}

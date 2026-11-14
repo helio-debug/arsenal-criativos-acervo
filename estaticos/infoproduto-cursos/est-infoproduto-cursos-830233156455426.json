@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-830233156455426",
+  "tipo": "estatico",
+  "titulo": "Formação técnica com oficina e instrutores em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma oficina escurecida mostra um profissional diante de um computador e de um carro com capô aberto. Título azul-ciano, recortes de quatro instrutores e botão arredondado compõem a chamada do curso.",
+  "por_que_funciona": [
+    "O carro aberto e o computador situam o assunto no diagnóstico automotivo.",
+    "O título ciano contrasta com o fundo escuro.",
+    "Os recortes de instrutores tornam visível a presença de uma equipe docente.",
+    "O botão azul grande oferece uma próxima ação clara."
+  ],
+  "quando_usar": "Para promover capacitação técnica a quem já atua ou estuda no setor automotivo.",
+  "estrutura_texto": "Cursos e treinamentos\n[MODALIDADE]\n[TEMA]\nDesenvolva [competências] para [contexto profissional].\nQUERO SABER MAIS",
+  "legenda": "Desenvolva competências em [tema técnico] com o curso [modalidade]. Conheça os conteúdos, os instrutores e as condições de acesso em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo fotográfico escuro de ambiente profissional relacionado à IMAGEM 2. No topo, coloque modalidade em branco e título grande em azul-ciano. No meio, disponha recortes de instrutores dentro de uma moldura com brilho ciano à esquerda e uma frase curta à direita. Inclua pequenas setas e botão azul arredondado no terço inferior, com espaço para a marca abaixo. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "830233156455426",
+    "anunciante": "Tecnomotor Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-01",
+    "dias_no_ar": 348,
+    "variacoes_ativas": 1,
+    "texto_original": "Domine o diagnóstico automotivo e avance na sua carreira com o EAD Tecnomotor. Aprenda com quem é referência no mercado!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-830233156455426.jpg"
+}

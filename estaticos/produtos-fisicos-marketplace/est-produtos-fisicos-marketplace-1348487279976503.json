@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1348487279976503",
+  "tipo": "estatico",
+  "titulo": "Embalagens para sobremesas em fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Três embalagens para sobremesas formam uma composição triangular sobre fundo branco. Duas mostram alimentos e a embalagem maior ao fundo tem tampa vermelha.",
+  "por_que_funciona": [
+    "O conjunto triangular deixa as três embalagens visíveis.",
+    "O fundo branco destaca as cores das tampas e dos rótulos.",
+    "As sobremesas nas embalagens abertas demonstram a aplicação dos recipientes.",
+    "Os formatos e tamanhos diferentes sugerem variedade de opções."
+  ],
+  "quando_usar": "Para catálogo de embalagens alimentícias e anúncios voltados a negócios que buscam recipientes para sobremesas.",
+  "estrutura_texto": "[Foto de diferentes embalagens em uso, sem chamada adicional]",
+  "legenda": "Encontre [tipos de embalagens] para [aplicação no negócio]. Consulte [modelos], [quantidade mínima] e [condições de fornecimento] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize três embalagens em composição triangular sobre fundo branco, com a maior atrás e duas menores à frente. Mostre aplicações alimentícias coerentes com os recipientes, sem alterar o produto da IMAGEM 2. Use iluminação uniforme, cores vivas nos rótulos próprios e sombras leves. Não adicione preço ou chamada externa.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1348487279976503",
+    "anunciante": "Alibaba.com",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-08",
+    "dias_no_ar": 129,
+    "variacoes_ativas": 5,
+    "texto_original": "Shop smarter with the Alibaba B2B App! Access millions of products, connect with global suppliers, and unlock great in-app deals today!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1348487279976503.jpg"
+}

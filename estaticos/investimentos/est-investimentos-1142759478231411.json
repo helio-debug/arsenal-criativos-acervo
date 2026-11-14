@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1142759478231411",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre ação antes do balanço",
+  "formato": "Alerta e educação",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "A metade superior mostra uma fachada corporativa com identificação da empresa. Uma faixa vinho na metade inferior traz uma pergunta sobre a ação e a data do balanço.",
+  "por_que_funciona": [
+    "A fachada e a identificação visual tornam imediato o assunto da peça.",
+    "A pergunta em letras grandes abre uma discussão sobre a ação.",
+    "A data do balanço fornece um motivo concreto para acompanhar o tema.",
+    "A faixa vinho separa a mensagem da fotografia e mantém a hierarquia."
+  ],
+  "quando_usar": "Para conteúdo de análise de empresas próximo à divulgação de resultados, com datas verificadas.",
+  "estrutura_texto": "[Marca]\n[Empresa analisada]\nO que vai acontecer com a ação de [empresa]?\nBalanço do [período] em [data]\n[Avisos regulatórios]",
+  "legenda": "Qual sua expectativa para [empresa] antes da divulgação de [período de resultados]? Compartilhe sua leitura sobre [fator relevante].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o quadrado em foto de fachada corporativa nos três quintos superiores e faixa vinho no restante. Use uma empresa e imagem autorizadas, sem reproduzir os nomes da referência. Insira a pergunta em branco, grande e alinhada à esquerda; abaixo, período do balanço e data confirmada. Inclua marca própria no topo e avisos regulatórios legíveis no rodapé. Não indique valorização certa.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1142759478231411",
+    "anunciante": "ARQ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-11-04",
+    "dias_no_ar": 10,
+    "variacoes_ativas": 5,
+    "texto_original": "Qual sua expectativa para a Disney?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1142759478231411.jpg"
+}

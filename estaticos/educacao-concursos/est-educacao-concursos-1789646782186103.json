@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1789646782186103",
+  "tipo": "estatico",
+  "titulo": "Retrato informal com prazo para preparar projeto de mestrado",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Retrato vertical de uma mulher segurando uma câmera em ambiente cotidiano. Duas faixas vermelhas trazem uma abertura em tom de conversa e a proposta de preparar um projeto de mestrado em três meses.",
+  "por_que_funciona": [
+    "O retrato próximo com olhar para a câmera dá presença à pessoa que oferece o acompanhamento.",
+    "A abertura em tom de conversa ocupa uma faixa vermelha isolada no topo.",
+    "O prazo de três meses torna o escopo temporal da mentoria visível.",
+    "A palavra mestrado em caixa alta facilita reconhecer o objetivo da oferta."
+  ],
+  "quando_usar": "Para apresentar mentoria individual a candidatos que têm uma ideia de pesquisa e precisam desenvolver o projeto para a seleção.",
+  "estrutura_texto": "[ABERTURA EM TOM DE CONVERSA]:\n[PRAZO] para transformar sua [PONTO DE PARTIDA] em [ENTREGA] pronto para [ETAPA], com ajuda de [PROFISSIONAL E EXPERIÊNCIA COMPROVÁVEL].",
+  "legenda": "Sua meta é participar de [seleção]? Em [prazo] de mentoria individual, você recebe apoio para desenvolver [entrega] a partir de [ideia inicial], considerando as exigências de [programa ou instituição]. Envie [palavra-chave] no direct para conhecer a mentoria.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou profissional. Use retrato próximo em ambiente cotidiano iluminado naturalmente, com expressão acolhedora. Sobreponha uma faixa vermelha no topo com abertura curta em fonte serifada branca. Na região inferior do tronco, coloque uma segunda faixa vermelha com prazo, entrega da mentoria e experiência comprovável, destacando a palavra principal em caixa alta. Preserve rosto e mãos e mantenha margens confortáveis. Não invente aprovações ou garanta ingresso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1789646782186103",
+    "anunciante": "Anna Vescovi - Profª e Mentora de TCC",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-31",
+    "dias_no_ar": 14,
+    "variacoes_ativas": 1,
+    "texto_original": "Se a sua meta é conquistar a aprovação no mestrado, seu projeto de pesquisa precisa estar à altura dessa oportunidade.\n\nEm 3 meses de mentoria individual, eu te ajudo a transformar tua ideia em um projeto consistente, competitivo e alinhado às exigências do programa que você quer ingressar  💛\n\nEnvie MESTRADO no direct e conheça a mentoria",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1789646782186103.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1045139141112786",
+  "tipo": "estatico",
+  "titulo": "Aluna mostra certificado em foto espontânea",
+  "formato": "Depoimento em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma aluna sorri para a câmera enquanto segura um certificado de proficiência em inglês. A foto doméstica ocupa toda a peça, sem chamada comercial sobreposta.",
+  "por_que_funciona": [
+    "O certificado ocupa grande parte da foto e torna o resultado demonstrável.",
+    "O enquadramento de selfie aproxima a peça de uma publicação pessoal.",
+    "A expressão sorridente associa a conquista a uma experiência positiva."
+  ],
+  "quando_usar": "Para cursos preparatórios que tenham autorização para divulgar conquistas documentadas de alunos.",
+  "estrutura_texto": "[Foto de aluno com certificado]\n[Instituição certificadora]\n[Nome do aluno]\n[Qualificação obtida]\n[Nível e resultado]",
+  "legenda": "Parabéns a [aluno] pela conquista de [certificação]! As pré-vendas do preparatório de [exame] estão abertas. Consulte [link] para conhecer a próxima turma.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia espontânea em ambiente doméstico, com uma pessoa sorrindo e segurando uma comprovação real relacionada ao produto. Mantenha a foto em tela cheia e luz natural, sem faixas promocionais. Utilize apenas certificado e resultado fornecidos e autorizados; oculte dados pessoais desnecessários e não fabrique credenciais ou aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1045139141112786",
+    "anunciante": "Fabrício Raposo FCE",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-14",
+    "dias_no_ar": 488,
+    "variacoes_ativas": 1,
+    "texto_original": "Parabéns Maria Fernanda 🇬🇧🇬🇧\n\nCurso Preparatório de Cambridge \n\nAbrimos o grupo vip para as pré vendas! O link está no storie! \n\nCorra e garanta o seu lugar na fila🇬🇧\n\nwww.cursosdecambridge.com.br\n\n#mediciner #medstudentlife #medlife #cursodeingles #english #inglesmedico #inglesonline #medicalenglish\nSEO: curso de inglês, inglês online, inglês para médicos, aula de inglês",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1045139141112786.jpg"
+}

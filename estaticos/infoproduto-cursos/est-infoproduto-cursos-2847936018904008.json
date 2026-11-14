@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2847936018904008",
+  "tipo": "estatico",
+  "titulo": "Workshop gratuito com retrato e chamada para grupo",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Retrato de uma mulher de blazer branco apontando um dedo para cima sobre fundo neutro. Faixas pretas e rosas sobrepostas apresentam workshop, gratuidade, certificado e entrada no grupo.",
+  "por_que_funciona": [
+    "O bloco preto superior apresenta o tema e o certificado antes dos demais textos.",
+    "A faixa rosa clara destaca “100% GRATUITO” no centro da peça.",
+    "A faixa magenta conecta a técnica a uma duração explícita de demonstração.",
+    "A chamada inferior informa o botão e o destino: entrar no grupo."
+  ],
+  "quando_usar": "Para captar inscrições em aulas abertas de técnicas profissionais e direcionar interessados a um grupo de acesso.",
+  "estrutura_texto": "WORKSHOP DE [TÉCNICA]\n[CERTIFICADO INCLUSO]\n100% GRATUITO\nVEJA COMO FAZER [PROCEDIMENTO]\nEM [DURAÇÃO]\nCLIQUE EM SAIBA MAIS E ENTRE\nNO [GRUPO DE ACESSO]",
+  "legenda": "Participe do workshop gratuito de [técnica]. Em [duração da aula], acompanhe [conteúdo demonstrado] e conheça [benefícios técnicos verificáveis]. [Certificado incluso, se disponível]. Clique em Saiba Mais e entre no [grupo de acesso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a pessoa ou representação da oferta da IMAGEM 2 em destaque central, com fundo bege e espaço para faixas. Coloque tema e certificado em bloco preto no topo, gratuidade em rosa claro, conteúdo e duração em magenta e chamada para o grupo em preto na base. Use letras brancas estreitas e legíveis. Apresente a duração como tempo da aula ou demonstração, sem garantir domínio da técnica nesse prazo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2847936018904008",
+    "anunciante": "Unhas da Tay",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 2,
+    "texto_original": "🚨 WORKSHOP GRATUITO DE MOLDE F1 🚨\n\nCOM CERTIFICADO INCLUSO 🎓\n\nAprenda a fazer alongamentos de excelência em apenas 1 HORA, usando o Molde F1, mesmo que você esteja começando do ZERO ✨\n\n✅ Técnica prática\n✅ Acabamento natural\n✅ A unha já sai praticamente pronta\n✅ Mais velocidade no atendimento\n✅ Mais clientes\n✅ Mais faturamento\n\n🎓 Certificado incluso\n💯 100% online e gratuito\n\n👉 Clique em saiba mais e entre no grupo vip.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2847936018904008.jpg"
+}

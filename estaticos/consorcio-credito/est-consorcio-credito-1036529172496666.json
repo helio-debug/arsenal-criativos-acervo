@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1036529172496666",
+  "tipo": "estatico",
+  "titulo": "Moto esportiva com parcela no topo",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Moto esportiva verde recortada ocupa a metade inferior sobre fundo cinza. Título preto e caixa verde com a parcela ficam acima, dentro de uma composição que simula uma moldura de publicação social.",
+  "por_que_funciona": [
+    "O recorte grande da moto mostra carenagem, rodas e cor do bem desejado.",
+    "A caixa verde conecta visualmente o preço à cor do veículo.",
+    "O valor da parcela tem escala maior que o texto de apoio e fica logo acima do produto."
+  ],
+  "quando_usar": "Para apresentar um plano de consórcio de motocicleta a quem já tem interesse em um modelo.",
+  "estrutura_texto": "[MARCA DO BEM]\n[MODELO]\n[CHAMADA SOBRE O MODELO]\npelo Consórcio.\nPARCELAS DE\nR$ [VALOR]*\nMENSAIS PELO CONSÓRCIO\n[CONDIÇÕES E RESSALVAS]\n[MARCA DO CONSÓRCIO]",
+  "legenda": "Planeje a compra da [moto] pelo consórcio. Consulte parcelas de [valor], prazo, taxa de administração e regras de contemplação do plano. Fale com [canal] para simular.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza claro com formas diagonais suaves. Coloque marca do bem e modelo no topo em preto, seguidos de uma frase curta. Abaixo, crie caixa verde com valor da parcela em branco muito grande, centavos menores e ressalvas legíveis. Recorte a moto da IMAGEM 2 e coloque-a em destaque na metade inferior, com sombra suave, moldura fina verde, ícones sociais decorativos e assinatura da marca do usuário na base.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1036529172496666",
+    "anunciante": "Consórcio Kawasaki Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 20,
+    "texto_original": "A Ninja 300 é a porta de entrada para o universo Kawasaki. E com o Consórcio, você conquista esse ícone sem pagar juros, sem entrada e com parcelas acessiveis.\nConsórcio Kawasaki\nConquiste sua moto\nSend WhatsApp Message\nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1036529172496666.jpg"
+}

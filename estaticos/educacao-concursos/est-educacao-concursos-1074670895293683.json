@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1074670895293683",
+  "tipo": "estatico",
+  "titulo": "Números da experiência do mentor e dos alunos",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Quatro blocos verticais mostram números grandes sobre fundo preto com brilho dourado. Legendas em caixa alta e linhas finas separam alunos orientados, aprovações, horas de mentoria e exames aprovados pelo mentor.",
+  "por_que_funciona": [
+    "Os números grandes permitem comparar rapidamente as dimensões da experiência.",
+    "As legendas distinguem horas, alunos e aprovações para evitar uma estatística solta.",
+    "O dourado destaca o bloco de aprovações.",
+    "O rodapé apresenta uma credencial ligada à preparação para os exames."
+  ],
+  "quando_usar": "Para apresentar experiência comprovada em mentoria de preparação para exames profissionais.",
+  "estrutura_texto": "[Quantidade] alunos orientados\n[Quantidade] aprovações em [exames]\n[Quantidade] horas de mentoria individual\n[Quantidade] exames aprovados pelo mentor\nConduzido por [qualificação verificável].",
+  "legenda": "A preparação para [exame] exige familiaridade com [formato e critérios]. Conheça uma mentoria com [experiência comprovada] e acompanhamento em [método de estudo]. Veja a proposta e cadastre-se em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com brilho dourado discreto ao centro e quatro blocos empilhados separados por linhas finas cinza. Faça números muito grandes em branco e destaque um em dourado; abaixo de cada um, use legenda pequena, espaçada e em caixa alta. Finalize com credencial verificável em corpo menor. Substitua as estatísticas por dados comprovados do produto da IMAGEM 2, sem inventar taxas de aprovação.",
+  "alerta_politica": "Meta: números de alunos, horas e aprovações devem ser comprováveis; não garanta aprovação nem reproduza taxa de 100% sem base verificável e contexto. Se houver publicidade médica vinculada à atuação profissional, observar as regras do CFM sobre identificação e títulos; certificação estrangeira não equivale a RQE.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1074670895293683",
+    "anunciante": "Step Zero",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 1,
+    "texto_original": "Para passar no USMLE você precisa parar de estudar como brasileiro e começar a estudar IGUAL AMERICANO.\n\nO problema nunca foi sua inteligência. \n\nÉ que você está usando o método errado para a prova errada. \n\nDescubra o sistema americano de estudo que alunos do metodo STEPZERO usaram para ter 100% de aprovação nos STEPs.\n\nToque em Saiba Mais e cadastre-se.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1074670895293683.jpg"
+}

@@ -1,0 +1,90 @@
+{
+ "id": "vid-pov-uso-beneficio",
+ "titulo": "POV de uso com recortes do produto e benefício narrado",
+ "formato_video": "pov",
+ "nichos": [
+  "automotivo",
+  "produtos-fisicos-marketplace",
+  "pet",
+  "infantil-maternidade"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "proporcao": "9:16",
+ "duracao": "25-30s",
+ "hook": {
+  "falado": "Olha o [produto] funcionando durante [situação de uso].",
+  "texto_tela": "Sem texto adicional; recorte de [produto] no alto.",
+  "visual": "Plano em primeira pessoa, com as mãos e o objeto de uso em primeiro plano. Embalagem recortada sobre a faixa superior."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "POV do uso; sobrepor recorte da embalagem no alto.",
+   "fala": "Olha o [produto] funcionando durante [situação de uso].",
+   "texto_tela": "Sem texto adicional."
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Manter o POV e trocar a embalagem pelo recorte de uma aplicação compatível.",
+   "fala": "Aqui eu uso com [aplicação demonstrada]. O que ele faz é [função verificável].",
+   "texto_tela": "Sem texto adicional."
+  },
+  {
+   "tempo": "9-15s",
+   "cena": "Retirar o recorte e mostrar a interação das mãos com o objeto.",
+   "fala": "Na prática, eu [ação de uso] e consigo [benefício observável].",
+   "texto_tela": "Sem texto adicional."
+  },
+  {
+   "tempo": "15-22s",
+   "cena": "Outro trecho do mesmo uso, com as mãos visíveis e cenário mudando ao fundo.",
+   "fala": "Ele atende [aplicação compatível A] e [aplicação compatível B]. Confira a versão indicada para [seu equipamento ou rotina].",
+   "texto_tela": "Sem texto adicional."
+  },
+  {
+   "tempo": "22-30s",
+   "cena": "Continuar o uso em POV até o convite final, sem cartela obrigatória.",
+   "fala": "Abra o link, veja os detalhes do [produto] e escolha [versão ou opção disponível].",
+   "texto_tela": "Sem texto adicional."
+  }
+ ],
+ "por_que_funciona": [
+  "A embalagem recortada no alto identifica o produto enquanto o volante e a via continuam visíveis.",
+  "A troca do recorte da embalagem pelo de um veículo acompanha a fala sobre diferentes aplicações.",
+  "As mãos e a via ocupam os frames seguintes sem legendas sobrepostas, mantendo a atenção na situação de uso.",
+  "A narração termina com convite de compra enquanto o POV continua; o anúncio mantém a demonstração até o fim."
+ ],
+ "quando_usar": "Para produtos que podem ser mostrados em uso, especialmente acessórios e equipamentos. Use perto da compra, quando falta visualizar a aplicação e conferir a compatibilidade.",
+ "tomadas_celular": [
+  "POV com mãos e objeto no terço inferior, luz natural lateral, 5s; fixe o celular antes de começar. Em veículo, use suporte instalado com o carro parado e mantenha a condução segura.",
+  "Embalagem inteira em fundo liso, luz de janela, tomada estática de 4s para extrair o recorte.",
+  "Aplicação compatível parada, plano aberto, luz natural, 4s para extrair o segundo recorte.",
+  "Detalhe da ação de uso em primeira pessoa, luz natural sem reflexo, 7s.",
+  "Segunda etapa do mesmo uso em plano aberto, exposição travada, luz natural, 8s.",
+  "Continuação do POV com área livre no alto, luz igual às demais tomadas, 8s para o encerramento."
+ ],
+ "caminho_ia": "Sem gravar, crie os trechos em Veo ou Sora e monte no CapCut. Use imagens autorizadas do produto para o recorte e voz sintética ou voz clonada com autorização para a narração. Prompts: \"Vertical 9:16 first-person product-use shot, hands interacting with [product] in [usage setting], natural daylight, fixed chest-level perspective, realistic hand anatomy, 6 seconds, no logos, no text.\" e \"Vertical 9:16 locked-off product packshot of [product packaging], neutral background, soft window light, sharp edges for masking, 4 seconds, no invented labels.\" Sobreponha a embalagem e depois uma aplicação compatível. Não gere uma demonstração técnica como se fosse prova real; confira cada função exibida.",
+ "legenda": "Veja o [produto] em uso durante [situação]. Ele oferece [função verificável]. Confira [compatibilidade] e [opções disponíveis] no link.",
+ "alerta_politica": null,
+ "roteiro_modelo": "[0-4s | Abertura]\nOlha o [produto] funcionando durante [situação de uso].\n\n[4-9s | Pausa e corte para a próxima tomada]\nAqui eu uso com [aplicação demonstrada]. O que ele faz é [função verificável].\n\n[9-15s | Pausa e corte para a próxima tomada]\nNa prática, eu [ação de uso] e consigo [benefício observável].\n\n[15-22s | Pausa e corte para a próxima tomada]\nEle atende [aplicação compatível A] e [aplicação compatível B]. Confira a versão indicada para [seu equipamento ou rotina].\n\n[22-30s | Pausa e corte para a próxima tomada]\nAbra o link, veja os detalhes do [produto] e escolha [versão ou opção disponível].",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto e as informações abaixo para criar uma peça nova.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça um POV de uso de 30s em cinco blocos: 0-4s produto recortado no alto; 4-9s recorte de aplicação compatível; 9-15s interação visível; 15-22s compatibilidade; 22-30s convite de compra. Tom de conversa, narração contínua, cortes discretos entre trechos de uso. Preserve mãos e objeto no primeiro plano. Não acrescente legendas decorativas; os recortes identificam o que está sendo citado. Não copie o carro, marcas, embalagem, fala ou alegações da referência. Não afirme compatibilidade universal nem simule desempenho sem comprovação. Use apenas dados confirmados. Onde faltar informação, mantenha [campo a preencher]. Escreva em pt-BR falado, com frases curtas. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Não copie nomes, marcas, pessoas, contatos, domínios, logotipos ou falas da referência.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e9c03ab9",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-pov-uso-beneficio/frames/f1.jpg",
+    "videos/vid-pov-uso-beneficio/frames/f2.jpg",
+    "videos/vid-pov-uso-beneficio/frames/f3.jpg",
+    "videos/vid-pov-uso-beneficio/frames/f4.jpg",
+    "videos/vid-pov-uso-beneficio/frames/f5.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-829706413184534",
+  "tipo": "estatico",
+  "titulo": "Segunda graduação com mensalidade e lista de cursos",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Layout em verde, branco e dourado reúne uma estudante com tablet, livros, uma faixa de segunda graduação e lista de licenciaturas. À direita, um quadro em formato de recibo destaca o preço mensal e a matrícula.",
+  "por_que_funciona": [
+    "A faixa dourada larga torna o tipo de formação o primeiro bloco de leitura.",
+    "A lista em duas colunas facilita localizar a área de interesse.",
+    "O quadro branco isola e amplia a mensalidade.",
+    "Prazo de conclusão e chamada de matrícula acrescentam informações de decisão."
+  ],
+  "quando_usar": "Para campanhas de matrícula com preço mensal e várias opções de curso para um público já qualificado.",
+  "estrutura_texto": "[MODALIDADE]\n[FORMAÇÃO]\nMensalidades [CONDIÇÃO] para [PÚBLICO]\n[LISTA DE CURSOS]\nCADA CURSO por [PREÇO]/MÊS\n[CONDIÇÕES]\nMatricule-se já!\nConclusão a partir de [PRAZO]\n[DISPONIBILIDADE REAL]",
+  "legenda": "Faça sua [formação] em [modalidade], com opções em [áreas]. Mensalidades a partir de [valor], conforme [regulamento]. Confira requisitos, duração e disponibilidade em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize o anúncio em verde, branco e dourado. No topo, use foto de pessoa com tablet da IMAGEM 2 junto a livros e indicação da modalidade. Insira uma faixa horizontal dourada com título branco grande. Na metade inferior, coloque lista de opções em duas colunas verdes à esquerda e quadro branco de preço mensal à direita, com chamada de matrícula. Na base, inclua prazo e condições reais. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Comprove credenciais acadêmicas e informe condições do preço, requisitos de ingresso e duração. Use escassez apenas quando houver limitação real e verificável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "829706413184534",
+    "anunciante": "Educacional Faveni",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-08",
+    "dias_no_ar": 341,
+    "variacoes_ativas": 2,
+    "texto_original": "🚨 Avance sua carreira Profissional com sua SEGUNDA GRADUAÇÃO! 🚨OFERTA POR TEMPO LIMITADO🚨\nNossos cursos são elaborados para potencializar suas habilidades e destacá-lo no mercado de trabalho. Não deixe para depois, matricule-se já!\nFaveni nota 5 no MEC",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-829706413184534.jpg"
+}

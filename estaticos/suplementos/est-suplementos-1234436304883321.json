@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1234436304883321",
+  "tipo": "estatico",
+  "titulo": "Embalagem isolada em fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma embalagem de whey aparece isolada e centralizada em fundo branco. O próprio rótulo concentra o nome da categoria, peso e informações de composição.",
+  "por_que_funciona": [
+    "O fundo branco elimina distrações em torno da embalagem.",
+    "A divisão clara e azul-escura destaca o desenho do pacote.",
+    "O nome da categoria em letras grandes facilita reconhecer o produto.",
+    "O rótulo exibe peso e atributos para consulta visual."
+  ],
+  "quando_usar": "Para catálogo ou anúncio de venda direta em que a legenda apresenta cupom e frete, enquanto a arte prioriza a embalagem.",
+  "estrutura_texto": "[Marca no rótulo]\n[Categoria]\n[Designação do produto]\n[Informações nutricionais comprovadas]\n[Peso]\n[Classificação do produto]",
+  "legenda": "Encontre [suplemento] em [loja]. Use [cupom] para receber [percentual] de desconto e consulte as condições de frete grátis para [região ou pedido mínimo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Coloque apenas a embalagem da IMAGEM 2 centralizada sobre fundo branco puro, com margens amplas e sombra muito discreta. Preserve proporções, cores e textos reais do rótulo. A embalagem deve ocupar aproximadamente três quartos da altura; não acrescente títulos, selos, cupom ou elementos de cenário.",
+  "alerta_politica": "Meta/ANVISA: usar apenas alegações autorizadas para o suplemento e compatíveis com o rótulo. Não prometer cura, prevenção de doenças ou resultado físico garantido; alegações de composição devem ser comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1234436304883321",
+    "anunciante": "HealthTime Nutrition",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-07",
+    "dias_no_ar": 586,
+    "variacoes_ativas": 1,
+    "texto_original": "Garanta os melhores suplementos para alcançar seus objetivos com força total. ✨💪\nUse Cupom: 10PRIMEIRACOMPRA e ganhe 10% OFF\nAproveite as Condições de Frete Grátis!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1234436304883321.jpg"
+}

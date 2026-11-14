@@ -1,0 +1,38 @@
+{
+  "id": "est-educacao-concursos-1562454475582287",
+  "tipo": "estatico",
+  "titulo": "Convite para seguir com público destacado em azul",
+  "formato": "novo:Retrato com chamada",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Retrato de uma mulher sorrindo e segurando um celular, com escurecimento sobre a foto. O texto branco central destaca profissão e objetivo em tarjas azuis; abaixo há um convite para seguir.",
+  "por_que_funciona": [
+    "As tarjas azuis destacam profissão e concurso no meio da frase.",
+    "O celular na mão acompanha visualmente a ação de seguir um perfil.",
+    "O escurecimento da foto mantém o texto branco legível.",
+    "O convite inferior pede uma ação simples e específica."
+  ],
+  "quando_usar": "Para atrair seguidores interessados em preparação para concursos de uma categoria profissional, antes de apresentar a mentoria.",
+  "estrutura_texto": "Se você é [profissional], estuda para [objetivo] e ainda não segue esse perfil...\nToque abaixo e comece a seguir...",
+  "legenda": "Conteúdo de preparação para [concurso ou área], com [orientações oferecidas] e informações sobre [acompanhamento]. Siga o perfil para conhecer a abordagem e organizar seus estudos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada com retrato autorizado de uma especialista sorrindo e segurando um celular. Use fundo escuro e camada preta translúcida sobre a foto. Centralize na metade superior uma frase em branco e negrito com [categoria profissional] e [objetivo de estudo] sobre retângulos azuis. No terço inferior, insira um convite curto para seguir, em branco e corpo menor. Não acrescente selos de aprovação nem resultados não comprovados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1562454475582287",
+    "anunciante": "Projeto Aprovação - Mentoria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-01",
+    "dias_no_ar": 105,
+    "variacoes_ativas": 1,
+    "texto_original": "📌 É ENFERMEIRA e quer ser aprovada em concurso?\n\nEu posso te ajudar com mentoria e acompanhamento individualizado, voltados pra quem tem pouco tempo, plantões puxados e um sonho grande: a aprovação.\n\nEm 2025, já foram dezenas de alunas aprovadas com meu método — incluindo as 3 primeiras colocadas em um dos concursos mais concorridos do ano.\n\nCom direção, estratégia e o que realmente cai na prova, você pode conquistar o seu lugar também.\n\n👉 Toque em Seguir e vem começar sua preparação com quem já sabe o caminho. 💙",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1562454475582287.jpg",
+  "formato_novo_def": "Retrato dominante de um especialista ou representante da oferta, com chamada curta sobreposta. A hierarquia se apoia no rosto e no texto, sem simular depoimento ou interface."
+}

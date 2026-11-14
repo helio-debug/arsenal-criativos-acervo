@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1657886374897192",
+  "tipo": "estatico",
+  "titulo": "Parceria apresentada com foto da operação",
+  "formato": "Produto em destaque",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto de duas profissionais de jaleco examinando imagens médicas ocupa a parte superior. A metade inferior traz uma faixa rosa intensa com uma declaração de parceria em letras brancas grandes.",
+  "por_que_funciona": [
+    "A fotografia mostra o ambiente de trabalho do segmento atendido.",
+    "O bloco rosa cria uma separação clara entre foto e mensagem.",
+    "A frase menor introduz o papel estratégico antes do título principal.",
+    "O título em três linhas dá destaque ao segmento do parceiro."
+  ],
+  "quando_usar": "Para apresentar experiência de uma agência em um segmento, com autorização para uso da imagem e da parceria.",
+  "estrutura_texto": "[CHAMADA DE PARCERIA]\n[SEGMENTO OU PERFIL DO PARCEIRO]",
+  "legenda": "Uma parceria com [segmento] envolve planejamento e execução alinhados a [objetivo]. Conheça nosso trabalho com [serviços de comunicação] e como estruturamos o acompanhamento de [indicadores].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça em foto na metade superior e bloco rosa intenso na inferior. Use a IMAGEM 2 para representar a operação atendida, com autorização. Aplique uma frase introdutória pequena e um título branco grande em três linhas. Generalize o parceiro como [segmento] e não reproduza nomes ou bordados da referência.",
+  "alerta_politica": "Se houver divulgação de serviço médico, observar as regras de publicidade do CFM, identificação exigida e autorização de imagem. Não prometer resultados clínicos nem expor dados de pacientes.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1657886374897192",
+    "anunciante": "Melhor Comunicação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-23",
+    "dias_no_ar": 570,
+    "variacoes_ativas": 1,
+    "texto_original": "Na Melhor Comunicação, acreditamos que ser parceiro é ir além do \"fazer\". É planejar, executar e crescer junto. 💡✨\n\nCom o Centro Diagnóstico Lucilo Ávila, nosso trabalho não é apenas atender demandas. É construir estratégias integradas que transformam desafios em resultados:\n\n📌 Comunicação personalizada e eficiente.\n📌 Planejamento estratégico de marketing alinhado aos objetivos do cliente.\n📌 Gestão de site, inbound, tráfego pago e endomarketing.\n📌 Fortalecimento do relacionamento e da experiência do cliente.\n\nO resultado? 📈 Crescimento mensurável e consistente, ano após ano.\n\nMais do que entregar soluções, construímos histórias de sucesso junto aos nossos parceiros. 💪💙\n\n#MelhorComunicação #ParceriaEstratégica #ResultadosReais #MarketingDeResultados #CentroDiagnosticoLuciloAvila #ComunicaçãoEstrategica",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1657886374897192.jpg"
+}

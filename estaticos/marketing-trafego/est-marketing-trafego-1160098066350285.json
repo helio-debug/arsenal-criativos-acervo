@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1160098066350285",
+  "tipo": "estatico",
+  "titulo": "Selfie com convite para aulas de gestão de tráfego",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Uma selfie dentro de um carro mostra um homem de óculos escuros apontando para blocos de texto. As faixas anunciam 12 aulas e associam a formação a cobrança por cliente e atendimento simultâneo.",
+  "por_que_funciona": [
+    "O dedo aponta para o título azul e define o início da leitura.",
+    "A quantidade de 12 aulas torna o conteúdo da oferta concreto.",
+    "As caixas azuis, pretas e brancas separam título, argumento comercial e chamada.",
+    "O enquadramento de selfie aproxima visualmente o apresentador do público."
+  ],
+  "quando_usar": "Para divulgar aulas de formação em gestão de tráfego, com explicação realista sobre conteúdo e possibilidades de atuação.",
+  "estrutura_texto": "[QUANTIDADE] aulas de [TEMA] comigo\n[APLICAÇÃO PROFISSIONAL DO CONTEÚDO]\n[O QUE SERÁ ENSINADO SOBRE CLIENTES]\n[TOQUE PARA SABER MAIS]",
+  "legenda": "Participe de [quantidade] aulas gratuitas sobre [tema]. Ao vivo em [dia e horário], com replay por [prazo]. Cadastre-se em [link] para receber o acesso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma selfie vertical em ambiente cotidiano, com uma pessoa apontando para a área central inferior. Distribua a copy em quatro caixas: título azul vivo com letras brancas, argumento em caixa preta, conteúdo em caixa branca e CTA preto menor. Preserve rosto e gesto sem sobreposição. Descreva aprendizado e aplicação profissional sem prometer renda, valores garantidos ou capacidade de atender determinado número de clientes.",
+  "alerta_politica": "Meta: a associação entre curso, cobrança de R$1.000 e atendimento de dez clientes pode sugerir ganhos fáceis. Não garantir renda ou resultados; fundamentar exemplos e explicar condições e esforço necessários.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1160098066350285",
+    "anunciante": "Pedro Sobral - CST",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 1,
+    "texto_original": "Aulas 100% gratuitas e melhor que 99% dos cursos pagos.\n\nPróxima terça-feira, ao vivo, às 15h, com 7 dias de replay.\n\nCadastre-se para participar.\nAulas gratuitas | Terça-feira às 15h",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1160098066350285.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-pet-506061240039723",
+  "tipo": "estatico",
+  "titulo": "Serviços pet em lista com contatos locais",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "pet",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Banner laranja e creme com lista de serviços, cachorro em destaque e fotos circulares de gatos e atendimento. Telefones, endereço e e-mail ocupam a faixa inferior.",
+  "por_que_funciona": [
+    "Ícones de patas marcam cada serviço e facilitam a leitura da lista.",
+    "A foto grande do cachorro identifica o universo pet de imediato.",
+    "Telefones em bloco e endereço no rodapé oferecem caminhos concretos de contato."
+  ],
+  "quando_usar": "Para estabelecimentos pet divulgarem serviços e localização em campanhas locais.",
+  "estrutura_texto": "[Serviços em duas colunas]\n[Telefones] | [WhatsApp]\n[E-mail]\n[Endereço completo]",
+  "legenda": "Encontre [serviços veterinários] e [serviços de higiene] em [bairro]. Também temos [categorias de produtos]. Fale pelo [contato] ou visite [endereço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme, faixas curvas laranja e lista de serviços em duas colunas à esquerda com pequenos ícones de patas. Coloque foto de animal à direita e dois recortes circulares menores. Reserve o rodapé para contatos e endereço, com texto legível.",
+  "alerta_politica": "Serviços veterinários: evite promessas de cura, resultados garantidos ou diagnósticos pela publicidade; divulgue apenas serviços efetivamente oferecidos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "506061240039723",
+    "anunciante": "Cão Capricho Pet Shop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2020-03-21",
+    "dias_no_ar": 2429,
+    "variacoes_ativas": 1,
+    "texto_original": "Exames Laboratóriais, Farmácia Veterinária, Banho, Tosa, Pet Tpys, Rações, Petiscos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-506061240039723.jpg"
+}

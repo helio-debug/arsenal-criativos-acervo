@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-1267599725145588",
+  "tipo": "estatico",
+  "titulo": "Peças automotivas com veículo de aplicação",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Duas molduras pretas de para-lama ocupam o fundo branco, com parte de um veículo no alto indicando aplicação. Uma faixa amarela no topo e selos no canto inferior esquerdo destacam loja oficial, frete e devolução.",
+  "por_que_funciona": [
+    "As duas peças grandes sobre branco deixam o contorno e o acabamento visíveis.",
+    "A imagem do veículo no alto contextualiza a aplicação das molduras.",
+    "Os selos amarelo e preto isolam as condições de frete e devolução.",
+    "O selo de loja oficial aparece separado na borda superior direita."
+  ],
+  "quando_usar": "Para vender peças automotivas quando é necessário mostrar formato e aplicação, com compatibilidade confirmada na página do produto.",
+  "estrutura_texto": "[marca]\n[chamada de chegada ou oferta]\n[selo de loja, se comprovado]\nFrete [condição]\nDevolução [condição]",
+  "legenda": "Confira [peças] para [veículos compatíveis], com [condição de frete] e envio em [prazo]. Clique em [destino] para verificar aplicação, disponibilidade e condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, faixa amarela superior com identidade própria e pequena chamada. Distribua duas peças em destaque na diagonal, com uma foto menor do veículo compatível no canto superior direito. Insira selos geométricos de frete e devolução no canto inferior esquerdo. Só use selo de loja oficial se autorizado e compatibilidade comprovada.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1267599725145588",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-25",
+    "dias_no_ar": 173,
+    "variacoes_ativas": 7,
+    "texto_original": "Frete grátis* e envio super rápido em milhares de ofertas! Quer aproveitar?\nClique para ver mais!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-1267599725145588.jpg"
+}

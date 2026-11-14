@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-2692155174487244",
+  "tipo": "estatico",
+  "titulo": "Retrato profissional com chamada de atenção",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Profissional de jaleco aparece sobre fundo branco com moldura azul. Um bloco azul-marinho na parte inferior destaca uma chamada sobre ansiedade, com palavras em azul e rosa.",
+  "por_que_funciona": [
+    "O jaleco e a identificação profissional contextualizam a área de atuação.",
+    "O bloco azul-marinho separa a chamada do retrato.",
+    "A palavra ANSIEDADE em rosa cria um ponto de atenção.",
+    "O identificador no topo oferece um caminho visível para encontrar o perfil."
+  ],
+  "quando_usar": "Para divulgar conteúdo educativo de um perfil profissional e atrair pessoas interessadas no tema.",
+  "estrutura_texto": "[Identificação profissional]\n[Perfil]\n[Informações importantes]\nSOBRE\n[TEMA]\n[Convite à leitura]",
+  "legenda": "No perfil, compartilho conteúdos sobre [tema] e orientações gerais sobre [cuidado]. Acompanhe as publicações e saiba quando buscar avaliação profissional.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, moldura azul-ciano e retrato profissional centralizado na parte superior. Insira identificação discreta no canto superior esquerdo e perfil no direito. Sobreponha à base do retrato um retângulo azul-marinho com título em caixa alta, usando branco, azul e rosa para destacar o assunto. Evite alarmismo e atribuição de diagnóstico ao leitor.",
+  "alerta_politica": "Meta: a expressão dirigida a toda mulher com ansiedade pode insinuar condição pessoal de saúde; prefira abordar o tema de forma geral. CFM: mantenha identificação profissional obrigatória e evite conteúdo sensacionalista ou promessas de resultado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2692155174487244",
+    "anunciante": "Dr. Igor Emanuel - Psiquiatra",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "Segundo a OMS, o Brasil é o país com o mais número de pessoas ansiosas no mundo...\n\nE, neste contexto, as mulheres são as mais afetadas: elas têm duas vezes mais ansiedade que os homens!\n\nNeste contexto, eu tenho conteúdos regulares no meu Instagram para ajudar mulheres a lidarem com tudo isso de forma mais leve e buscando uma mente mais calma! \n\nSiga o meu perfil e aprenda a lidar com a ansiedade!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-2692155174487244.jpg"
+}

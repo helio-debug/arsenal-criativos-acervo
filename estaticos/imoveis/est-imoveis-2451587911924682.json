@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-2451587911924682",
+  "tipo": "estatico",
+  "titulo": "Foto do condomínio com ficha e convite para visita",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de edifícios e piscina ocupa toda a peça, com céu azul como área de texto. Características e localização ficam no topo, enquanto o convite para visita e o telefone aparecem sobre a piscina.",
+  "por_que_funciona": [
+    "O céu oferece uma área uniforme para leitura da ficha do imóvel.",
+    "A lista curta reúne quartos, banheiro e vaga.",
+    "A piscina em primeiro plano evidencia uma área de lazer.",
+    "O convite para visita fica junto ao número de contato."
+  ],
+  "quando_usar": "Para anunciar unidades disponíveis a compradores que precisam conferir características e marcar uma visita.",
+  "estrutura_texto": "APARTAMENTO À VENDA\n[Empreendimento e fase]\n• [Quartos e suítes]\n• [Banheiros]\n• [Vagas]\n[Endereço]\nAGENDE SUA VISITA:\n[Contato]\n[Marca]",
+  "legenda": "Conheça [empreendimento], em [região]: [quartos], [banheiros] e [vagas]. Consulte disponibilidade e valores para morar ou investir. Agende uma visita com [equipe] pelo [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia vertical de condomínio com piscina em primeiro plano e céu amplo no topo. Insira título, nome do empreendimento, lista curta de características e localização sobre o céu. Coloque o convite para agendar visita e contato na parte inferior, com contraste suficiente e marca própria discreta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2451587911924682",
+    "anunciante": "Coimbra Imobiliária",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-29",
+    "dias_no_ar": 350,
+    "variacoes_ativas": 1,
+    "texto_original": "ÚLTIMAS UNIDADES:  Residencial Boulevard Tapajós 🏠✨ Excelente custo benefício para morar ou investir.\nFale com o nosso corretor e aproveite essa oportunidade única!\n\n📲 Não perca tempo! Entre em contato conosco e saiba mais.\nFaça uma cotação\nCoimbra Imobiliária",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-2451587911924682.jpg"
+}

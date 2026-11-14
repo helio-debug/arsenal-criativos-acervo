@@ -1,0 +1,36 @@
+{
+  "id": "est-infantil-maternidade-1237599438209025",
+  "tipo": "estatico",
+  "titulo": "Kit promocional sobre foto de moda para gestação",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto em ambiente doméstico mostra uma modelo gestante usando um conjunto longo lilás. Duas faixas centrais translúcidas anunciam kits em promoção e a condição de frete grátis.",
+  "por_que_funciona": [
+    "A foto de corpo inteiro permite observar o caimento e o comprimento do conjunto.",
+    "A palavra PROMO em negrito concentra a atenção na condição comercial.",
+    "A faixa menor abaixo do título informa o mínimo de compra para o frete grátis."
+  ],
+  "quando_usar": "Para divulgar kits de roupas de gestação ou pós-parto com condição promocional no site.",
+  "estrutura_texto": "TEM [kit] EM PROMO NO [canal]\nFRETE GRÁTIS NAS COMPRAS ACIMA DE [valor]",
+  "legenda": "Confira os kits de [categoria] para [fase de uso]. Veja as combinações disponíveis e os preços em [site]. Frete grátis nas compras acima de [valor], conforme [condições e regiões atendidas].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto vertical em ambiente doméstico claro com pessoa adulta vestindo o produto da IMAGEM 2 e enquadramento que mostre o caimento completo. Aplique duas faixas centrais translúcidas em rosa suave com contorno branco: uma maior para promoção de kits, com PROMO em negrito, e outra menor para condição de frete. Mantenha o produto visível. Adapte todos os textos aos dados de MEU PRODUTO, em pt-BR, com leitura clara em celular.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1237599438209025",
+    "anunciante": "Se Cuida Mamãe",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-04",
+    "dias_no_ar": 194,
+    "variacoes_ativas": 1,
+    "texto_original": "Amigaaa, eu sempre falo: 1 peça já é bom… mas quando vem 2 em kit, aí é MARAVILHOSO! 😍✨\nOs kits da SCM são super práticos, lindos e ainda saem muito mais em conta!\n\nEu amo porque dá pra variar no dia a dia, ter sempre uma opção extra enquanto a outra tá lavando e, de quebra, ainda economizar. 💕\n\nSério, é o tipo de compra inteligente que faz TODA diferença na gestação e no pós-parto.\n\n📦 Chegou rapidinho e a qualidade é surreal!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1237599438209025.jpg"
+}

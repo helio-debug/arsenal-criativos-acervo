@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1437481204905939",
+  "tipo": "estatico",
+  "titulo": "Formação executiva com mensagem institucional",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de um formando ocupa o topo; o restante é um painel verde escuro. Uma frase em verde-lima apresenta a proposta da instituição, seguida de convite e áreas de atuação.",
+  "por_que_funciona": [
+    "O capelo na foto comunica formação acadêmica antes da leitura.",
+    "O painel verde escuro cria uma área uniforme para a mensagem.",
+    "A frase em corpo grande ocupa o centro e facilita a leitura em tela pequena.",
+    "A linha com educação, consultoria e pesquisa explicita a abrangência da instituição."
+  ],
+  "quando_usar": "Para apresentar uma instituição de ensino e gerar interesse em seu conjunto de programas antes de divulgar um curso específico.",
+  "estrutura_texto": "[Identidade institucional]\n[Proposta de transformação do aprendizado em prática]\nConheça [instituição]\n[Áreas de atuação]\n[Assinatura]",
+  "legenda": "Desenvolva conhecimentos para apoiar suas decisões em [área]. Conheça os programas de [instituição] e sua atuação em [frentes de trabalho]. Acesse [canal] para explorar as opções de formação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a peça vertical em uma fotografia horizontal de formando no topo e um painel verde escuro abaixo. Use a imagem fornecida ou um retrato autorizado adequado à oferta. No painel, reserve identidade própria em verde-lima, uma mensagem institucional grande alinhada à esquerda, convite curto em branco e uma linha fina separando as áreas de atuação do rodapé. Use fonte sem serifa e margens amplas. Não atribua credenciais ou resultados que não foram fornecidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1437481204905939",
+    "anunciante": "FIA Business School",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-31",
+    "dias_no_ar": 106,
+    "variacoes_ativas": 3,
+    "texto_original": "As grandes decisões não acontecem por acaso. Elas são resultado de conhecimento, experiência e aprendizado contínuo.\nEm um mercado em constante transformação, aprender com quem lidera e gera impacto faz toda a diferença.\nConheça a FIA Business School e descubra um ecossistema que conecta educação, consultoria e pesquisa para formar líderes preparados para decidir o futuro.\n\nSaiba mais em fia.com.br/programas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1437481204905939.jpg"
+}

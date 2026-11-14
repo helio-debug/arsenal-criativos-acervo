@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1694898175033366",
+  "tipo": "estatico",
+  "titulo": "Cursos gratuitos com lista de cargas horárias",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo em degradê amarelo e rosa com contornos de quebra-cabeça. A chamada de cursos gratuitos aparece sobre uma lista de temas e cargas horárias; um certificado e selos ocupam o rodapé.",
+  "por_que_funciona": [
+    "A chamada azul no topo destaca a gratuidade e a área de pedagogia.",
+    "A lista central mostra temas e cargas horárias para comparar as opções.",
+    "A imagem do certificado no rodapé torna visível o documento anunciado."
+  ],
+  "quando_usar": "Para divulgar um catálogo de cursos de formação complementar a professores que procuram temas e cargas horárias específicas.",
+  "estrutura_texto": "CURSOS GRATUITOS\n[ÁREA]\n(COM CERTIFICADOS)\n[CURSO 1] - [CARGA HORÁRIA]\n[CURSO 2] - [CARGA HORÁRIA]\n[DEMAIS CURSOS]\nE outros\n[IMAGEM DO CERTIFICADO]\n[CREDENCIAIS VERIFICADAS]",
+  "legenda": "Inscreva-se em [link]. Acesse gratuitamente [videoaulas e materiais] de [área], com estudo [modalidade]. Consulte as condições de emissão do certificado e a aceitação pela instituição em que pretende apresentá-lo.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo pastel em degradê amarelo e rosa com linhas de quebra-cabeça, título azul grande no topo, lista preta central de cursos e cargas horárias e imagem do certificado no rodapé. Use a IMAGEM 2 em uma miniatura de material ou certificado quando pertinente. Destaque a gratuidade apenas para os itens realmente gratuitos e informe eventuais custos do certificado. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": "Informe se há cobrança pela emissão do certificado. Alegações de validade, aceitação institucional e associações devem ser comprováveis; não sugira reconhecimento oficial ou aceitação universal sem respaldo.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1694898175033366",
+    "anunciante": "Cursos Online Para Professores",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-22",
+    "dias_no_ar": 296,
+    "variacoes_ativas": 5,
+    "texto_original": "INSCREVA-SE https://superpreparadocursos.com.br/?ID=112\nAcesso 100% gratuito às videoaulas e materiais\n100% online\n\nCERTIFICADO ACEITO EM TODO O BRASIL!\nUTILIZE PARA HORAS COMPLEMENTARES, PROVAS DE TÍTULOS, PROGRESSÃO NO EMPREGO, CURRÍCULO, ....\nCURSOS GRATUITOS PARA PROFESSORES\nCERTIFICADO VÁLIDO EM TODO O BRASIL",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1694898175033366.jpg"
+}

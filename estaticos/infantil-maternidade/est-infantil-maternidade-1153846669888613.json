@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1153846669888613",
+  "tipo": "estatico",
+  "titulo": "Lista de aulas gratuitas sobre alimentação infantil",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "saas-app",
+  "oferta": "aula-ou-live-gratuita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sobre uma foto de mesa com livros, uma faixa branca anuncia aulas gratuitas. Um grande retângulo rosa lista assuntos de alimentação infantil e o rodapé traz um link de acesso.",
+  "por_que_funciona": [
+    "A lista apresenta dúvidas específicas como seletividade, refeições por idade e recusa alimentar.",
+    "O retângulo rosa concentra o conteúdo e se destaca do fundo de madeira.",
+    "A palavra “gratuitas” em rosa reforça a condição de acesso na faixa superior.",
+    "O botão branco arredondado com ícone de link indica onde acessar as aulas."
+  ],
+  "quando_usar": "Para apresentar a biblioteca gratuita de um aplicativo de orientação sobre alimentação infantil e captar novos usuários.",
+  "estrutura_texto": "Aulas [CONDIÇÃO DE ACESSO] que já estão disponíveis para você:\n- [DÚVIDA OU TEMA 1]\n- [DÚVIDA OU TEMA 2]\n- [DEMAIS TEMAS]\n[ACESSO GRATUITO AQUI]",
+  "legenda": "Conheça as aulas gratuitas de [aplicativo] sobre [temas de alimentação infantil]. Acesse [link] para consultar o conteúdo disponível e as condições de participação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma peça vertical com foto desfocada de mesa e materiais de estudo ao fundo. No topo, coloque uma faixa branca com título em serifada preta e destaque rosa para a gratuidade. Abaixo, use um retângulo rosa vivo com lista de temas em texto claro e espaçamento legível. Finalize com botão branco arredondado e ícone de link. Reduza o número de itens se necessário para leitura no celular. Use temas educativos sem prescrever condutas ou suplementação.",
+  "alerta_politica": "Meta: abordar alimentação infantil de forma educativa, sem diagnosticar o bebê ou atribuir falhas aos responsáveis. Orientações sobre ferro, leite e introdução alimentar devem ter respaldo profissional e não substituir avaliação individual.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1153846669888613",
+    "anunciante": "Bebê de Nutri - Nutricionista Franciele Loss",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-17",
+    "dias_no_ar": 454,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer melhorar a alimentação do seu bebê? Baixe o app Bebê de Nutri e tenha acesso ao conteúdo mais completo sobre a alimentação infantil. Faça parte de uma comunidade de sucesso!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1153846669888613.jpg"
+}

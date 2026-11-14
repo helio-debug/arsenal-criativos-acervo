@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1807742036721608",
+  "tipo": "estatico",
+  "titulo": "Lista de técnicas com foto de procedimento",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto de procedimento com monitor à esquerda e lista de técnicas à direita. Fundo preto, molduras douradas e três selos circulares no topo compõem a apresentação.",
+  "por_que_funciona": [
+    "A palavra MASCULINA em branco identifica a linha de atendimento.",
+    "Três círculos dourados no topo agrupam os nomes das técnicas.",
+    "Setas douradas separam os blocos de texto na coluna direita.",
+    "A foto do monitor e da equipe situa a oferta em contexto de procedimento."
+  ],
+  "quando_usar": "Para apresentar áreas de atuação e tecnologias em comunicação revisada por profissional responsável, com indicações e riscos claros.",
+  "estrutura_texto": "[selo de técnica A] [selo de técnica B] [selo de técnica C]\n[linha de atendimento]\n» [técnica e aplicação]\n» [descrição objetiva]\n» [indicação avaliada pelo profissional]\n[assinatura]",
+  "legenda": "Conheça [área de atendimento] e os procedimentos disponíveis em [clínica]. Na consulta, [profissional habilitado] avalia indicações, limitações e riscos de cada opção. Agende em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo preto com detalhes dourados e três selos circulares alinhados no topo. Use foto de atendimento na coluna esquerda e título branco seguido de blocos com setas douradas na direita. Destaque apenas termos essenciais. Substitua superlativos de segurança por descrições objetivas e verificáveis.",
+  "alerta_politica": "Publicidade de estética: observar as políticas da Meta para procedimentos cosméticos, com segmentação adulta e sem explorar inseguranças ou prometer resultados. Respeitar as normas do conselho profissional responsável e as restrições da ANVISA sobre publicidade de medicamentos sujeitos a prescrição.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1807742036721608",
+    "anunciante": "Dra. Priscilla Chang - Cirurgia Plástica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-01-07",
+    "dias_no_ar": 676,
+    "variacoes_ativas": 1,
+    "texto_original": "Porque acreditamos que a sua 🧘♀️SAÚDE MENTAL 🧘 passa pela sua AUTOESTIMA ❤!⁣\n⁣\n💫 Para Procedimentos agende sua Consulta Estética com nossas Essenza Experts, conheça o que há de MELHOR em TECNOLOGIA, MODERNIDADE e SEGURANÇA para a sua Saúde, Bem-estar e Equilíbrio!⁣\n⁣\n💫 Para Cirurgias agende sua Consulta Médica com a Dra. Priscilla Chang!⁣\n⁣\n⭐️Estética Avançada⁣\n✨️Pré & Pós-Operatório⁣\n🤰Grávidas & Pós-Parto⁣\n⁣\n⭐️Protocolos Exclusivos BELLA ESSENZA⁣\n⁣\nTecnologias SEM CIRURGIA:⁣\n⁣\n🪙Hipro®️ Mini Lipo | FaceLift⁣\n⚡️Raytrace®️ Lift | StriaPeel | AcnePeel | AcneDry ⁣\n💢Celulite & Fibrose⁣\n⚜️Glúteos ⁣\n✒️Subcisão de Celulites, Rugas & Cicatrizes⁣\n✨️Íntima Feminina & Masculina⁣\n🌺Íntima Thermi Va®️⁣\n🌡Thermi Tight®️ Flacidez de Face, Pescoço & Corporal⁣\n❄️♨️CrioFocus® Gordura & Flacidez⁣\n🪄Enzimas Sem Agulha⁣\n⁣\nProcedimentos MÉDICOS:⁣\n⁣\n🔝Lifting 3D Sem Cirurgia Facial | Corporal | Íntimo⁣\n🧬Botox⁣\n💉ColoLift⁣\n♨️Código de Barras ⁣\n👃Rinomodelação⁣\n👄Lábios ⁣\n👐HandLift⁣\n⁣\nIncrível SPA:⁣\n⁣\n😶🌫️Pós-Operatório⁣\n💦Drenagem Linfática⁣\n💆♂️Massagens⁣\n⁣\n✨️Cirurgia Plástica Avançada:⁣\n⁣\n🩱Abdominoplastia⁣\n🩳VibroLipo UltraHD com Lipoenxertia & Aumento Muscular de Peitoral, Gomos Abdominais & Braços Guiado por Ultrassom⁣\n👙Prótese Submuscular R24R & 14-Point Plan⁣\n👙Mamoplastia Com & Sem Prótese⁣\n🧜♀️Aumento de Mama & Glúteo com Gordura⁣\n🌟Explante, Capsulectomia & Troca de Prótese⁣\n🤰Mommy Makeover | Plástica Pós-Parto ⁣\n👃Rinosseptoplastia⁣\n👁Pálpebra ⁣\n👂Orelha⁣\n🙅♀️Papada⁣\n💃Liftings Corporais Pós-Bariátricos ⁣\n⁣\n#cirurgiaplásticamanaus⁣\n#cirurgiaplasticamanaus⁣\n#esteticamanaus⁣\n#belezamanaus⁣\n#cirurgiaesteticamanaus⁣\n#botoxmanaus⁣\n#preenchimentomanaus⁣\n#harmonizacaofacialmanaus⁣\n#abdominoplastiamanaus⁣\n#lipohdmanaus⁣\n#lipomanaus⁣\n#rinoplastiamanaus⁣\n#protesedesiliconemanaus⁣\n#lipoultrahdmanaus⁣\n#mamoplastiamanaus⁣\n#liftingsemcirurgiamanaus⁣\n#liftingsemcortemanaus",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1807742036721608.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1038048005735478",
+  "tipo": "estatico",
+  "titulo": "Guia de redação com chamada para vestibular",
+  "formato": "Alerta e educação",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul escuro com título branco e vermelho sobre preparação de redação. Um quadro branco resume a proposta, enquanto uma foto de campus ocupa a base.",
+  "por_que_funciona": [
+    "O nome da prova em vermelho delimita o público.",
+    "A pergunta implícita em “como” apresenta um conteúdo específico.",
+    "O quadro branco separa a explicação do restante da arte.",
+    "A foto de campus relaciona a preparação ao destino acadêmico."
+  ],
+  "quando_usar": "Para captar candidatos de uma prova específica e apresentar uma preparação direcionada.",
+  "estrutura_texto": "[TURMA E ANO]\n[COMO ALCANÇAR OBJETIVO NA PROVA]\n[DISCIPLINAS]\n[RESUMO DA PREPARAÇÃO]\n[RESPONSÁVEL E CONTATO]",
+  "legenda": "Prepare a redação para [vestibular] com prática voltada aos critérios de [banca]. A turma oferece [correção individual] e [acompanhamento]. Consulte [datas] e vagas em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, faixa vermelha superior com turma e ano, título central grande em branco e palavra-chave em vermelho. Coloque a descrição em caixa branca arredondada e uma foto de ambiente acadêmico na base. Não use brasão ou identidade da instituição de referência nem prometa nota máxima.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1038048005735478",
+    "anunciante": "Fragale Redação e Específicas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-05",
+    "dias_no_ar": 101,
+    "variacoes_ativas": 1,
+    "texto_original": "As inscrições para o Vestibular PUC-Rio 2027 já estão abertas!\n\nPeríodo de inscrição: 27 de julho a 7 de setembro\n📝 Provas: 11 e 15 de outubro. \n\nSe a redação pode decidir a sua aprovação, ela precisa ser preparada com estratégia, repertório e prática específica para a banca da PUC.\n\nA Turma PUC com Fragale está com vagas reduzidas, garantindo correção individual e acompanhamento de perto. Não deixe para a última hora.\n\nGaranta sua vaga e escreva a redação que a PUC-Rio espera. 🔗 Link na Bio!\n\nCompartilha com um amigo. \n\n#puc #vestibularpuc",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1038048005735478.jpg"
+}

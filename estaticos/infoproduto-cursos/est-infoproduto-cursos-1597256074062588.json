@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1597256074062588",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com número de alunos e inscrições abertas",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Cabeçalho branco anuncia um curso de tomografia, com contagem de alunos e cinco estrelas. Abaixo, uma fotografia mostra um paciente no equipamento e uma profissional ao lado.",
+  "por_que_funciona": [
+    "O título em preto e azul ocupa duas linhas e identifica a especialidade rapidamente.",
+    "A contagem de alunos e as cinco estrelas adicionam sinais visuais de adesão.",
+    "A fotografia do equipamento situa a formação no ambiente de trabalho.",
+    "A chamada de inscrições abertas aparece no cabeçalho, junto ao título."
+  ],
+  "quando_usar": "Divulgação de inscrições em cursos técnicos para um público que já conhece a especialidade.",
+  "estrutura_texto": "[NOME DA ESPECIALIDADE]\n[QUANTIDADE] alunos\nInscrições abertas\n[SITE]",
+  "legenda": "Conheça o curso de [especialidade], com aulas [modalidade] e explicações passo a passo. Consulte [condições de acesso], [suporte] e [certificado]. Clique em [CTA] para ver o programa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reserve o terço superior para título grande em duas linhas, com preto e azul, contagem de alunos à esquerda e inscrições abertas à direita. Use apenas números e avaliações comprovados. Abaixo, coloque uma foto contextual da especialidade em moldura azul discreta e o site no rodapé.",
+  "alerta_politica": "Por tratar de formação em saúde, não prometer habilitação profissional automática nem resultados clínicos. Número de alunos, avaliações e condições do certificado devem ser verificáveis; preserve a privacidade de pacientes retratados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1597256074062588",
+    "anunciante": "Radiologia Moderna",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2022-12-03",
+    "dias_no_ar": 1442,
+    "variacoes_ativas": 2,
+    "texto_original": "🧠Deseja ter o conhecimento necessário de forma simples e rápida para atuar nesta área?\n📶Gostaria de dominar com segurança essa especialidade?\n\n🎓Inscrições abertas 🔥🔥🔥🔥Desconto incrível⏱⏳\n100% online, vídeos explicativos, tudo passo a passo.\nExplicações simples e objetivas\n📌 Início imediato\n💻Aula online com suporte 24 horas\n🖥Aulas liberadas após a inscrição\n📃Certificado de conclusão liberado imediatamente após as aulas\n🔗Clique em “saiba mais”.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1597256074062588.jpg"
+}

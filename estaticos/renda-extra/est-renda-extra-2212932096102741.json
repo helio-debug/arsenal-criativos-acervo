@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2212932096102741",
+  "tipo": "estatico",
+  "titulo": "Reativação da revenda com produtos em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo em degradê vermelho e laranja sustenta uma chamada de retorno à consultoria digital. Um perfume e um pote de cosmético aparecem ampliados abaixo do botão de pedido.",
+  "por_que_funciona": [
+    "A abertura “volte a empreender” direciona a mensagem a quem já participou da atividade.",
+    "As expressões em negrito destacam a condição de entrada e o funcionamento digital.",
+    "Os dois produtos ampliados dão concretude ao catálogo oferecido.",
+    "O botão contornado fica logo abaixo do texto e explicita a ação de pedido."
+  ],
+  "quando_usar": "Para campanhas de reativação de antigos revendedores, com regras de retorno e custos atualizados.",
+  "estrutura_texto": "[Volte a atividade]\n[Modalidade de revenda]\n[Condição de investimento inicial]\n[Funcionamento digital]\n[Faça seu pedido]",
+  "legenda": "Volte a revender [categoria] por meio de [modalidade digital]. Consulte as condições de reativação, [eventuais custos] e os recursos disponíveis para sua loja. Saiba como retomar em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo em degradê vermelho e laranja com detalhes pontilhados discretos. Posicione uma chamada curta em branco no alto e destaque as condições comerciais em negrito e amarelo. Inclua botão contornado abaixo. Na metade inferior, disponha dois produtos da IMAGEM 2 em tamanhos grandes e ângulos diferentes, com sombras suaves. Use apenas condições reais de reativação. Adapte a mensagem aos dados de MEU PRODUTO, sem inventar benefícios ou condições. Escreva em pt-BR e preserve a legibilidade.",
+  "alerta_politica": "Meta: alegações de ausência de investimento devem explicar eventuais custos e requisitos. Não reproduzir promessas de “sem riscos, só lucros” nem garantir recuperação de renda.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2212932096102741",
+    "anunciante": "Natura",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-21",
+    "dias_no_ar": 85,
+    "variacoes_ativas": 2,
+    "texto_original": "Recupere sua renda extra hoje! Volte para a Natura e Avon sem custos.\nRevenda Avon E Natura\nSem riscos, só lucros. Reative agora e tenha sua loja virtual em minutos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2212932096102741.jpg"
+}

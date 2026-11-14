@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1017064964334693",
+  "tipo": "estatico",
+  "titulo": "Apresentação de método com grupo de profissionais",
+  "formato": "novo:Retrato com chamada",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul e roxo com sigla muito grande, chamada de apresentação e quatro profissionais em primeiro plano. O rodapé sugere continuidade em carrossel.",
+  "por_que_funciona": [
+    "A sigla branca ocupa o centro e torna a identidade o principal foco.",
+    "A linha com tempo de atuação e aprovações apresenta prova de experiência.",
+    "O grupo com roupas de diferentes carreiras amplia a representação dos objetivos profissionais."
+  ],
+  "quando_usar": "Para apresentar uma marca de preparação para concursos e abrir uma sequência de conteúdos sobre seu método.",
+  "estrutura_texto": "[Tempo de atuação]. [Resultados comprovados].\nCONHEÇA [marca]\n[Frase sobre o método de preparação]\n[Indicação de continuidade]",
+  "legenda": "Conheça [programa de preparação]: [tempo de atuação] apoiando estudantes de [concursos]. Veja como funcionam [método] e [acompanhamento] para organizar seus estudos. Saiba mais em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual principal do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo com luzes roxas e formas circulares discretas. Coloque tempo de atuação no topo, chamada sobre faixa colorida e nome da marca em letras brancas muito grandes. Distribua retratos autorizados na metade inferior e sobreponha frase curta em branco. Inclua seta de continuidade apenas se houver carrossel. Não invente números de aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1017064964334693",
+    "anunciante": "LS Concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-16",
+    "dias_no_ar": 182,
+    "variacoes_ativas": 1,
+    "texto_original": "Prazer, somos a LS Concursos. 🚀\n\nSe você chegou até aqui, já deu o primeiro passo: buscar um jeito mais inteligente de estudar para concursos. 🏆\n\nA LS nasceu com um objetivo simples e direto: mostrar o caminho da aprovação.\nSem achismo, sem perda de tempo, sem esforço desperdiçado.\n\nAo longo de 17 anos, esse método já levou mais de 15 mil alunos à aprovação em todo o Brasil.\nE todos esses resultados têm algo em comum: direção.\n\nAqui, você não estuda no escuro.\n\nO que torna a LS diferente?\nUm acompanhamento próximo, estratégico e totalmente adaptado à sua realidade.\n\nVocê conta com:\n- Professor orientador que já passou pelo que você está vivendo\n- Planejamento feito sob medida para o seu concurso\n- Metas que evoluem junto com o seu desempenho\n- Decisões baseadas no que realmente cai na prova\n\nNosso foco é simples: fazer você parar de “tentar estudar” e começar a avançar de verdade.\n\nPorque quando existe estratégia, o resultado deixa de ser sorte e passa a ser consequência. \n\nAgora é a sua vez de entrar nesse caminho.\n\nAcesse o link na bio e comece a estudar com quem entende de aprovação.\n\n▶️ E se conhece alguém que também está nessa jornada, compartilha esse post.\n\nLS Concursos. Direção para quem quer passar.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1017064964334693.jpg",
+  "formato_novo_def": "Retrato individual ou em grupo combinado com uma chamada de apresentação ou posicionamento, sem depoimento."
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-753713610516206",
+  "tipo": "estatico",
+  "titulo": "Tabela de crédito imobiliário sobre casa ilustrativa",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Topo vermelho reúne chamada de consórcio imobiliário e tabela com três faixas de crédito e parcelas. A metade inferior traz a imagem de uma casa moderna sobre fundo branco.",
+  "por_que_funciona": [
+    "As colunas de crédito e parcela facilitam comparar três opções.",
+    "O quadro vermelho separa os valores da imagem da casa.",
+    "A casa ilustra o objetivo de aquisição associado ao plano."
+  ],
+  "quando_usar": "Para apresentar faixas de consórcio imobiliário a quem já compara valores e parcelas.",
+  "estrutura_texto": "[Categoria do consórcio] | [chamada] | Crédito: [valor] / Parcela: [valor] | [condição destacada] | [condições completas] | [imagem ilustrativa do imóvel].",
+  "legenda": "Peça uma cotação de consórcio imobiliário para [objetivo]. Compare créditos de [faixas] e confira parcelas, taxas, reajustes e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma peça vertical com área vermelha no topo, título branco, tabela de duas colunas com três linhas e pequeno selo lateral de condição comercial. Abaixo, mostre casa ilustrativa recortada sobre fundo branco. Use valores reais e condições legíveis. Não trate a casa como imóvel já incluído no plano nem apresente ausência de juros como ausência de custos.",
+  "alerta_politica": "Em consórcio, não prometa contemplação, prazo garantido ou liberação imediata de crédito. Informe administradora, condições, taxas, reajustes e regras de sorteio ou lance; parcelas e prazos devem corresponder à oferta vigente. Se usar “sem juros”, esclareça taxa de administração e demais custos. Destaque eventual parcela reduzida e a condição de alteração.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "753713610516206",
+    "anunciante": "Prisma Consórcios e Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-07",
+    "dias_no_ar": 495,
+    "variacoes_ativas": 1,
+    "texto_original": "Pedir cotação",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-753713610516206.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-automotivo-745954577091255",
+  "tipo": "estatico",
+  "titulo": "Frasco de finalizador com rótulo em evidência",
+  "formato": "Produto em destaque",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Frasco cinza com tampa amarela ocupa quase toda a arte sobre fundo branco. O rótulo apresenta função, benefícios e volume.",
+  "por_que_funciona": [
+    "O fundo branco destaca o contorno do frasco cinza.",
+    "A tampa e a faixa amarela conectam embalagem e rótulo.",
+    "Os benefícios em lista e o volume permitem avaliar o produto na própria foto."
+  ],
+  "quando_usar": "Para apresentar um produto de cuidado automotivo em catálogo ou anúncio voltado a quem já procura essa categoria.",
+  "estrutura_texto": "[Marca]\n[Nome do produto]\n[Função]\n[Novidade da fórmula]\n[Benefícios do rótulo]\n[Etapa de uso]\n[Volume]\n[Instrução de segurança]",
+  "legenda": "Cuide do seu carro com [produto de cuidado automotivo]. Conheça a linha para [finalidade] e confira os modos de uso. Clique em [CTA] para ver as opções.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Centralize a embalagem em fundo branco, em grande escala, com sombra discreta. Preserve a identidade e o rótulo reais do produto da IMAGEM 2, garantindo leitura da função, dos benefícios comprovados e do volume. Não acrescente selos ou promessas que não existam no produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "745954577091255",
+    "anunciante": "WCF Distribuidora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-02-24",
+    "dias_no_ar": 1359,
+    "variacoes_ativas": 3,
+    "texto_original": "Que tal você mesmo cuidar e dar aquele talento em seu carro?\nConheça nossa linha de produtos e ande com seu carro sempre limpo e cheiroso.\nCom nossos produtos você economiza\n✅ Tempo\n✅ Dinheiro\n✅ Produtos\n\nClique em \"Saiba Mais\" para conhecer a nossa linha!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-745954577091255.jpg"
+}

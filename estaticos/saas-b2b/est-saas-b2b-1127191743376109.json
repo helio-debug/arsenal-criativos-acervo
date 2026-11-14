@@ -1,0 +1,36 @@
+{
+  "id": "est-saas-b2b-1127191743376109",
+  "tipo": "estatico",
+  "titulo": "Gestão de múltiplas empresas em uma interface",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Texto sobre fundo azul escuro apresenta a dificuldade de gerir múltiplos CNPJs e a centralização da operação. Três telas do software aparecem sobrepostas na parte inferior.",
+  "por_que_funciona": [
+    "O trecho sobre múltiplos CNPJs ganha destaque em verde e identifica o cenário de uso.",
+    "As expressões em negrito destacam ambiente único e atualização em tempo real.",
+    "As telas sobrepostas mostram visualmente a ferramenta apresentada."
+  ],
+  "quando_usar": "Para software financeiro comunicar centralização a grupos com várias empresas.",
+  "estrutura_texto": "[Categoria do software] | [Operação com múltiplas unidades] não é fácil | Com [produto], gerencie [empresas] em [ambiente único] | [Relatórios consolidados e frequência de atualização]",
+  "legenda": "Gerencie [empresas ou unidades] em [ambiente centralizado]. Com [produto], acompanhe [informações financeiras] e consulte [relatórios consolidados] com [frequência real de atualização]. Conheça os recursos.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul muito escuro, pequeno selo contornado de categoria no topo, título alinhado à esquerda e destaque verde para o cenário de uso. Inclua parágrafo curto com benefícios em negrito e três capturas do produto em perspectiva sobrepostas na metade inferior.",
+  "alerta_politica": "Por tratar de gestão financeira, evite garantias de lucro ou economia. Recursos de consolidação e atualização em tempo real devem corresponder ao funcionamento efetivo do software.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1127191743376109",
+    "anunciante": "Kamino Latam",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-17",
+    "dias_no_ar": 28,
+    "variacoes_ativas": 1,
+    "texto_original": "A Kamino é o software financeiro que você estava procurando para transformar sua operação\nNão perca mais tempo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1127191743376109.jpg"
+}

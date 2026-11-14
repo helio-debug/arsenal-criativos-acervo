@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1644001657303278",
+  "tipo": "estatico",
+  "titulo": "Risco climático em manchete sobre prédios",
+  "formato": "Alerta e educação",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fotografia em perspectiva entre edifícios de vidro, com céu ao centro e uma pessoa na base. Uma manchete branca relaciona risco climático à análise de ativos imobiliários.",
+  "por_que_funciona": [
+    "A perspectiva dos prédios situa o tema no mercado imobiliário.",
+    "O contraste entre fachadas escuras e céu destaca o texto branco.",
+    "Os trechos em negrito guiam a leitura para risco climático e ativos imobiliários.",
+    "O pequeno selo editorial no topo dá contexto de conteúdo de mercado."
+  ],
+  "quando_usar": "Para instituições e especialistas introduzirem fatores de risco em conteúdo educativo sobre investimentos.",
+  "estrutura_texto": "[Nome da série editorial]\nO [fator de risco] já entrou na análise dos [ativos].",
+  "legenda": "[Fator de risco] pode afetar custos, operações e decisões de longo prazo sobre [categoria de ativo]. Entenda como [tema] entra na avaliação desses investimentos em [conteúdo ou canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma composição editorial com fotografia vertical de edifícios vistos de baixo, céu visível no centro e figura humana pequena na base. Use sombras escuras para sustentar uma manchete branca na metade inferior esquerda, destacando dois termos em negrito. Inclua uma identificação discreta da série e uma linha fina no topo.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1644001657303278",
+    "anunciante": "Itaú BBA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 1,
+    "texto_original": "O risco climático já é realidade. Ele impacta operações, custos, adaptação e decisões de longo prazo sobre ativos imobiliários. \n\nEsse foi um dos temas da Convenção Secovi 2026. No painel sobre riscos climáticos, resiliência urbana e o papel do setor, Lucas Vasconcellos, especialista de Estratégia ESG e Sustentabilidade do Itaú Unibanco, refletiu sobre a relação entre clima, eficiência operacional e longevidade dos ativos. \n\nAo apoiar encontros como esse e contribuir tecnicamente, o Itaú BBA amplia o olhar sobre transformações que já influenciam o setor. \n\nConfira os principais sinais desse movimento no carrossel.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1644001657303278.jpg"
+}

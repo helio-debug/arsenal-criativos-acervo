@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1662053221918577",
+  "tipo": "estatico",
+  "titulo": "Assistência 24 horas mostrada em cena de atendimento",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Bloco verde superior destaca a assistência 24 horas. Abaixo, uma pessoa aguarda ao lado de um carro com capô aberto enquanto um profissional atende; um personagem de expressão triste segura um triângulo de sinalização.",
+  "por_que_funciona": [
+    "“Assistência 24h” aparece em destaque no texto superior.",
+    "O capô aberto situa a mensagem em uma pane de carro.",
+    "O uniforme do profissional materializa o serviço de assistência.",
+    "“Fale com seu corretor” indica o canal de contato no rodapé."
+  ],
+  "quando_usar": "Para divulgar assistência de seguro auto a quem está comparando coberturas e suporte.",
+  "estrutura_texto": "[Categoria]\nCOM A CERTEZA DA\n[ASSISTÊNCIA E DISPONIBILIDADE] DO\n[SEGURO],\n[CHAMADA SOBRE APOIO].\nFALE COM [CANAL]\n[Site]\n[Assinatura]",
+  "legenda": "Conte com [assistência] do [seguro auto] para situações previstas na cobertura. Conheça os serviços, os limites de atendimento e as condições. Fale com [corretor ou canal] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Reserve o terço superior para fundo verde com texto branco em caixa alta e ícone pequeno de carro. Abaixo, mostre uma cena de assistência com veículo de capô aberto, pessoa aguardando e profissional uniformizado. Integre a IMAGEM 2 à apresentação do serviço. Inclua rodapé com contato e assinatura legíveis. Não copie a marca, o logotipo, o personagem nem o local exato da IMAGEM 1.",
+  "alerta_politica": "Meta: não atribua vulnerabilidade financeira ou condição de saúde ao público. Informe coberturas, carências, exclusões e condições reais; descontos e assistências devem corresponder ao contrato. Observe as regras da SUSEP quando se tratar de seguro. A assistência 24 horas deve respeitar a abrangência, os limites e os eventos previstos no contrato.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1662053221918577",
+    "anunciante": "HDI Seguros Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-16",
+    "dias_no_ar": 90,
+    "variacoes_ativas": 1,
+    "texto_original": "Não importa o horário nem o lugar. O Seguro HDI Auto é a certeza de seguir em frente com quem está sempre ao seu lado com soluções completas.\nFale com seu corretor",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1662053221918577.jpg"
+}

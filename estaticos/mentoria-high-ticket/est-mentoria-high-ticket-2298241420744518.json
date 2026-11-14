@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-2298241420744518",
+  "tipo": "estatico",
+  "titulo": "Condições de inscrição com entregas e parcelamento",
+  "formato": "Oferta e promoção",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "À esquerda, três entregas com ícones antecedem o parcelamento em destaque e um botão de contato. À direita, uma equipe se reúne em torno de um notebook, sobre fundo claro com detalhes lilases.",
+  "por_que_funciona": [
+    "Os três ícones separam carga horária, projeto e mentoria para leitura rápida.",
+    "O destaque em lilás para o parcelamento dá visibilidade à condição comercial.",
+    "O botão no rodapé explicita o próximo passo de conversar com a equipe.",
+    "A equipe ao redor do notebook ilustra a aplicação em ambiente de trabalho."
+  ],
+  "quando_usar": "Para responder dúvidas comerciais de interessados que já conhecem o programa.",
+  "estrutura_texto": "Tire suas dúvidas sobre [investimento e inscrição]. [Formação] de [carga horária]. [Projeto aplicado]. [Acompanhamento]. [Programa] em até [parcelas e condição]. [CTA de contato].",
+  "legenda": "Já conhece o [programa] e está avaliando a inscrição para você ou sua equipe? O investimento pode ser parcelado em [condição vigente]. Consulte [condições para grupos, se disponíveis]. Fale com a equipe para esclarecer dúvidas e escolher [trilha].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize a coluna esquerda com título, três linhas de entregas acompanhadas de ícones circulares, divisor, condição de parcelamento em lilás e botão de contato. Na direita, mostre equipe trabalhando com notebook. Use fundo claro, azul-escuro e lilás, preservando legibilidade e condições comerciais reais. Adapte os textos aos dados de MEU PRODUTO, sem inventar informações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2298241420744518",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Você já conhece o Programa Prático de Formação Lean Serviços e está avaliando as condições de investimento para você ou para a sua equipe?\n\nA sua inscrição pode ser parcelada em até 6x sem juros. Além disso, oferecemos condições especiais para grupos corporativos.\n\nFale com a nossa equipe para esclarecer dúvidas e escolher a trilha mais adequada ao desafio que você quer resolver na sua empresa.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-2298241420744518.jpg"
+}

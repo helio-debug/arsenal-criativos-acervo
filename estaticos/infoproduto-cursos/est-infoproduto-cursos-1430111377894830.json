@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1430111377894830",
+  "tipo": "estatico",
+  "titulo": "Catálogo de cursos com uma faixa para cada veículo",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Cinco faixas azuis empilham categorias de cursos, cada uma acompanhada de um veículo. O rodapé branco reúne uma lista de benefícios, identificação e símbolos de pagamento.",
+  "por_que_funciona": [
+    "Cada categoria ocupa uma faixa própria com letras grandes.",
+    "Ambulância, ônibus e caminhões ajudam a reconhecer a área de cada curso.",
+    "A alternância dos veículos entre os lados dá ritmo à lista.",
+    "O rodapé reúne suporte, acesso e certificado em itens curtos."
+  ],
+  "quando_usar": "Para apresentar um catálogo de cursos técnicos e ajudar o público a encontrar sua categoria.",
+  "estrutura_texto": "[Cursos e modalidade]\n[Categoria 1 + imagem]\n[Categoria 2 + imagem]\n[Categoria 3 + imagem]\n[Categoria 4 + imagem]\n[Categoria 5 + imagem]\n[Benefícios de acesso, suporte e certificação]\n[Pagamento e marca]",
+  "legenda": "Encontre o curso de [categoria profissional] que você procura. Aulas em [modalidade], com [suporte] e [condições de acesso]. Consulte [autorização e validade da certificação] e fale pelo [canal] para saber como se inscrever.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie cabeçalho verde com título branco e cinco faixas horizontais azul-acinzentadas separadas por linhas brancas. Em cada faixa, escreva uma categoria em branco e acrescente um veículo correspondente, alternando os lados. Faça rodapé branco com lista curta em preto, credenciais verificadas e informações de pagamento legíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1430111377894830",
+    "anunciante": "Grupo Eadtran Jessica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-28",
+    "dias_no_ar": 535,
+    "variacoes_ativas": 6,
+    "texto_original": "🚨 Inicie hoje mesmo seu curso de trânsito especializado na modalidade ONLINE.\n\n➡ Estude no conforto de sua casa conforme sua disponibilidade.\n\n✔️ Início Imediato;\n✔️ Cursos autorizados pelo SENATRAN;\n✔️ Vinculados em sua CNH digital;\n✔️ Com certificação aceito em todo território nacional.\n\nClique agora em nosso WhatsApp e inicie o seu curso agora mesmo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1430111377894830.jpg"
+}

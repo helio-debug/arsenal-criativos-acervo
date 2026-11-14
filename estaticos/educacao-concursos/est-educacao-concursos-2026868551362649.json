@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2026868551362649",
+  "tipo": "estatico",
+  "titulo": "Mosaico de aprovados com identificação profissional",
+  "formato": "Depoimento em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Quatro fotos de pessoas com distintivos ou em ambientes ligados à carreira aparecem em grade com contornos amarelos. O título anuncia a conquista profissional e o rodapé atribui a preparação ao curso.",
+  "por_que_funciona": [
+    "A grade de quatro fotos apresenta vários casos na mesma peça.",
+    "Distintivos e ambientes ligados à carreira reforçam visualmente o resultado citado.",
+    "Contornos amarelos conectam os retratos ao destaque do título.",
+    "A frase abaixo das fotos liga os casos apresentados ao preparatório."
+  ],
+  "quando_usar": "Para apresentar resultados documentados de ex-alunos a candidatos que avaliam a credibilidade do preparatório.",
+  "estrutura_texto": "HOJE ELES SÃO\n[PROFISSIONAIS DA CARREIRA EM REGIÃO]\n[GRADE DE CASOS AUTORIZADOS]\nPara chegar lá, eles passaram pelo [CURSO]\n[Marca]",
+  "legenda": "Conheça trajetórias de alunos de [curso] que conquistaram [resultado comprovado]. Veja como funcionam [plano de estudos], [materiais] e [acompanhamento] para preparar-se para [concurso]. Resultados dependem da preparação e das regras de cada seleção.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, título superior em caixa alta com branco e amarelo, grade central 2 por 2 de retratos autorizados com bordas amarelas e cantos arredondados. Abaixo, acrescente uma frase de atribuição ao curso e a marca fornecida. Use somente casos comprovados, sem inventar depoimentos, distintivos ou vínculos oficiais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2026868551362649",
+    "anunciante": "Projeto individualizado para concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-29",
+    "dias_no_ar": 16,
+    "variacoes_ativas": 3,
+    "texto_original": "Você não estuda pouco. Você estuda errado. 🎯\n\nTrês plataformas abertas, quatro apostilas, nenhum critério de prioridade — e a sensação de que o conteúdo nunca acaba.\n\nO PIC Aprova prepara para concursos da Polícia Civil desde 2015: plano de estudo montado a partir do edital, material direto ao ponto e acompanhamento de quem já passou pela prova. 📌\n\nClique e veja os dois formatos: curso online com trilha guiada ou mentoria individual.\nWHATSAPP\n⏳ Estudar sozinho custa tempo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2026868551362649.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-2807859202909766",
+  "tipo": "estatico",
+  "titulo": "Cupom de primeira compra sobre foto de viagem",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Passageira com fones usa o celular dentro de um ônibus. Um painel roxo à esquerda recebe a chamada, enquanto uma faixa amarela atravessa o centro com desconto e cupom.",
+  "por_que_funciona": [
+    "A faixa amarela contrasta com o roxo e amplia a leitura do desconto.",
+    "A passageira no ônibus mostra o contexto de uso do serviço.",
+    "O código do cupom aparece junto à chamada de desconto.",
+    "O texto de primeira compra identifica quem pode aproveitar a oferta."
+  ],
+  "quando_usar": "Para plataformas de compra de passagens que promovem a primeira transação no aplicativo.",
+  "estrutura_texto": "[Marca]\n[Chamada de boas-vindas no aplicativo]\nAté [valor] OFF\nCupom [código]\nNa sua primeira compra\n[Percentual, teto e condições]",
+  "legenda": "Economize na sua próxima viagem de ônibus: tenha [desconto] em [condição de compra]. Use [cupom] no aplicativo e confira rotas, disponibilidade e regras em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de passageira autorizada sentada em ônibus, com fones e celular, ocupando a direita. Sobreponha painel roxo vertical à esquerda com texto branco e faixa amarela horizontal com desconto em preto muito grande. Coloque código do cupom na mesma faixa e condição de primeira compra abaixo. Deixe rodapé legível com percentual, teto e validade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2807859202909766",
+    "anunciante": "ClickBus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-03",
+    "dias_no_ar": 256,
+    "variacoes_ativas": 18,
+    "texto_original": "ALERTA DE OFERTA! \n• DESCONTO em passagens de ônibus\n• Clique e aproveite agora!\nGrandes descontos em passagens!\nShop Now\n​\nActive",
+    "origem_coleta": "acervo:clickbus"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-2807859202909766.jpg"
+}

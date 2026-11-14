@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-969616518484898",
+  "tipo": "estatico",
+  "titulo": "Post com perfil de seguidora e convite para ler a estratégia",
+  "formato": "Post e comentários",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Peça em fundo branco que imita uma publicação de rede social, com avatar, identificação do perfil e uma lista de informações de uma seguidora. A chamada final direciona para a estratégia na legenda.",
+  "por_que_funciona": [
+    "O cabeçalho com avatar e identificador dá à peça aparência de publicação pessoal.",
+    "A lista reúne idade, escolaridade, renda e objetivo, tornando o caso fácil de acompanhar.",
+    "A frase final deixa a estratégia para a legenda e indica onde continuar a leitura."
+  ],
+  "quando_usar": "Para consultorias de orientação acadêmica internacional apresentarem um caso autorizado e explicarem caminhos possíveis na legenda.",
+  "estrutura_texto": "[Perfil]\nUMA SEGUIDORA ME MANDOU AQUI:\n- Idade: [idade]\n- Escolaridade: [histórico]\n- Renda: [renda]\n- Notas: [notas]\n- Idioma: [nível]\n- Objetivo: [objetivo]\n- Ocupação: [ocupação]\n- Curso desejado: [curso]\nMINHA ESTRATÉGIA NA LEGENDA [seta]",
+  "legenda": "Para um perfil com [histórico acadêmico] e objetivo de [objetivo], vale avaliar [caminho A] e [caminho B]. Cada opção tem [requisitos] e [prazos]. Veja como organizar os próximos passos: [orientação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, avatar circular pequeno a partir da IMAGEM 2, cabeçalho de perfil genérico e texto preto alinhado à esquerda. Destaque a abertura em negrito, organize o caso em oito linhas e termine com convite para ler a legenda. Use dados fictícios identificados como exemplo ou um caso autorizado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "969616518484898",
+    "anunciante": "Matheus A. Tomoto",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-22",
+    "dias_no_ar": 510,
+    "variacoes_ativas": 1,
+    "texto_original": "MINHA OPINIÃO SINCERA 👇🏼\n\nVocê concluiu o Ensino Médio há 11 anos, então precisamos ser estratégicos para você conquistar boas bolsas de estudos. Mas temos alguns caminhos interessantes.\n\nCAMINHO A\nVocê pode começar uma faculdade no Brasil e aplicar para estágios internacionais, que são excelentes extracurriculares, como Summer e Winter Jobs.\n\nSJ e WJ não pedem provas. Você aplica apenas com o seu currículo e uma carta pessoal.\n\nAs aplicações para instituições como Harvard, MIT, NASA, Oxford etc, começam daqui a 2 meses, então precisa começar a se preparar agora.\n\nNo futuro, essas extras vão te abrir portas para bolsas de Mestrado ou Doutorado no exterior.\n\nCom o Mestrado/PhD, você vai conseguir trabalhar legalmente, e depois de 2-3 anos trabalhando no país, pode solicitar o seu Green Card.\n\nTenho alunos recebendo mais de 17 mil dólares por mês e com residência permanente nos EUA.\n\nCAMINHO B\nVocê pode aplicar para graduação fora do Brasil como Mature Student.\n\nMuitas universidades possuem facilitação para pessoas que finalizaram o ensino médio há algum tempo, inclusive excluindo a necessidade de cartas de recomendação.\n\nObviamente, você vai precisar fazer uma aplicação linda se precisa de bolsa!\n\nNisso, o SAT vai fazer diferença. Então você pode utilizar o Khan Academy para se preparar para essa prova, e se quiser estudar com mais eficiência e agilidade, a inteligência artificial de provas do M60 pode ajudar você.\n\nA sua própria experiência profissional pode ser usada como extracurriculares. (Quanto mais experiências de vida, mais você sai na frente!)\n\nInclusive, a minha aluna mais velha tinha 62 anos. Ela aplicou para bolsas M60 de 100% e está agora na Europa com tudo pago pelas bolsas por lá.\n\nE lembrando: sua idade, área, notas ou nível de inglês não te impedem de conquistar bolsas de 100%.\n\nVocê só precisa se preparar e fazer o processo corretamente.\n\nQual desses caminhos faz mais sentido para você? A ou B?\n\nExistem mais de 920 mil bolsas pelo mundo - para todos os perfis!\n\nQuer se preparar comigo e meu time com um passo a passo, assessoria e estratégia personalizada?\n\nComente #920k e faça agora a sua pré-matrícula para a minha MENTORIA M60.👇🏼",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-969616518484898.jpg"
+}

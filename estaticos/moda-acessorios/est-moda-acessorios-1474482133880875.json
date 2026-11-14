@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-1474482133880875",
+  "tipo": "estatico",
+  "titulo": "Tênis casual preto em fundo claro",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Tênis preto de perfil lateral, com detalhes brancos e sola branca, sobre fundo cinza claro. Há bastante espaço vazio em torno do produto.",
+  "por_que_funciona": [
+    "O perfil lateral evidencia a silhueta baixa do tênis.",
+    "A sola branca se destaca do cabedal preto e facilita a leitura da construção.",
+    "O espaço vazio ao redor isola o produto.",
+    "A textura do cabedal permanece visível na fotografia próxima."
+  ],
+  "quando_usar": "Para divulgar um tênis de coleção e levar o público à compra no aplicativo.",
+  "estrutura_texto": "[Foto lateral do tênis, sem chamada escrita]",
+  "legenda": "Explore [coleção] e confira os lançamentos de [categoria] no [aplicativo]. Veja os modelos e escolha [variação disponível].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre o produto fornecido em perfil lateral, apontando para a direita, sobre fundo cinza claro uniforme. Use enquadramento horizontal do objeto dentro da arte quadrada, bastante respiro e sombra discreta sob a sola. Preserve a textura e o contraste das cores reais. Sem texto adicional.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1474482133880875",
+    "anunciante": "adidas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "Conheça e compre todas as coleções e os principais lançamentos da adidas pelo app!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-1474482133880875.jpg"
+}

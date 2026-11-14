@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1591443782618547",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre o custo de adiar a decisão",
+  "formato": "novo:Pergunta sobre foto ambiente",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Foto escurecida de uma poltrona junto a uma mesa com notebook e garrafa. Uma pergunta branca central ocupa a maior área de texto.",
+  "por_que_funciona": [
+    "A pergunta em caixa alta coloca o custo da inação no centro da peça.",
+    "A palavra TEM em negrito destaca o método como critério de compra.",
+    "O ambiente de trabalho contextualiza a mensagem para negócios."
+  ],
+  "quando_usar": "Para apresentar uma mentoria comercial a profissionais que já conhecem o problema de vender sem processo.",
+  "estrutura_texto": "[Pergunta sobre o custo de adiar]\n[Cliente desejado] está comprando de quem tem [método].",
+  "legenda": "Enquanto você adia [ação], oportunidades de [objetivo] continuam passando. Na [mentoria], trabalhamos [processo] e [posicionamento]. Solicite [diagnóstico] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 em um ambiente de trabalho, com mesa e poltrona e filtro escuro em tons de roxo. Centralize uma pergunta curta em branco, caixa alta e peso forte. Abaixo, inclua duas linhas menores com destaque em negrito para [método]. Preserve espaço livre nas bordas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1591443782618547",
+    "anunciante": "George Soares",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-20",
+    "dias_no_ar": 86,
+    "variacoes_ativas": 1,
+    "texto_original": "Quanto custa não agir?\n\nEnquanto você “se prepara”, alguém com menos conhecimento está fechando contratos de R$50k.\n\nNão é sorte.\nÉ método.\nVocê não precisa de mais seguidores.\n\nPrecisa de:\n✔️ Processo mapeado\n✔️ Sessão estratégica estruturada\n✔️ Posicionamento premium\nAmadores tentam vender.\nProfissionais conduzem.\n\nA pergunta não é se você consegue.\nÉ: quanto mais você vai perder antes de estruturar?\n\n5 vagas para Diagnóstico Estratégico.\nLink na bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1591443782618547.jpg",
+  "formato_novo_def": "Pergunta de reflexão em grande destaque sobre fotografia de ambiente escurecida, acompanhada por uma frase curta que conecta a pergunta à solução."
+}

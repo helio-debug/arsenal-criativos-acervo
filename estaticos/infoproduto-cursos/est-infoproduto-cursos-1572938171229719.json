@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1572938171229719",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação em painel branco sobre retrato histórico",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um painel branco ocupa a esquerda sobre uma fotografia em preto e branco de uma figura histórica. Etiqueta verde, título, mensalidade e quatro tópicos organizam a oferta.",
+  "por_que_funciona": [
+    "O painel branco mantém a leitura separada da fotografia.",
+    "A etiqueta verde identifica a modalidade antes do título.",
+    "A mensalidade fica imediatamente abaixo do nome do curso.",
+    "Setas verdes guiam a leitura das credenciais e condições."
+  ],
+  "quando_usar": "Para apresentar uma especialização a graduados que procuram informações objetivas sobre a oferta.",
+  "estrutura_texto": "Pós-Graduação [modalidade]\n[tema]\nR$[valor]/Mês\nCarga Horária: [horas]\n[avaliação institucional]\nProfessores [titulação]\n[condição do trabalho final]",
+  "legenda": "Conheça a pós-graduação em [tema], com aulas [modalidade] e [carga horária]. Confira corpo docente, duração, condições do trabalho final e mensalidades. Cadastre-se em [canal] para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto contextual em preto e branco ao fundo, sem reproduzir pessoa da referência. Sobreponha painel branco largo à esquerda com cantos arredondados, etiqueta verde, título preto e mensalidade. Abaixo, alinhe quatro tópicos com setas verdes, destacando palavras-chave em negrito.",
+  "alerta_politica": "Não prometa habilitação clínica automática nem resultados terapêuticos. Informe requisitos e limites de atuação; comprove as credenciais anunciadas e diferencie credenciamento institucional de reconhecimento do curso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1572938171229719",
+    "anunciante": "Faculdade Metropolitana - Polo de Graduação e Pós-Graduação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-14",
+    "dias_no_ar": 123,
+    "variacoes_ativas": 1,
+    "texto_original": "Torne-se especialista com título reconhecido pelo MEC em  Psicanálise Clínica por apenas R$69/mês com o curso de Pós-Graduação EAD da Faculdade Metropolitana - Nota Máxima no MEC.\n\n✅ Cursos 100% Online com Duração de 6 meses (intensivo) ou 1 ano.\n\n✅ TCC não obrigatório (conforme Resolução CNE n° 1, de 06 de abril de 2018).\n\nA FATECE é Polo da Faculdade Metropolitana do Estado de São Paulo. \n\nCadastre-se gratuitamente e saiba mais:",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1572938171229719.jpg"
+}

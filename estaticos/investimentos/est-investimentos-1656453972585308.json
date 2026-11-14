@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1656453972585308",
+  "tipo": "estatico",
+  "titulo": "Retorno-alvo em destaque com condição de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça preta com letras amarelas e uma taxa ocupando o centro. Um botão amarelo leva à abertura de conta, com prazo, elegibilidade e ressalva no rodapé.",
+  "por_que_funciona": [
+    "A taxa em corpo muito grande concentra a atenção na proposta.",
+    "O prazo aparece junto ao número, delimitando sua aplicação.",
+    "A exclusividade para novos clientes explicita quem pode acessar a oferta.",
+    "O botão amarelo contrasta com o fundo preto e identifica a ação."
+  ],
+  "quando_usar": "Para campanhas de aquisição com condições financeiras documentadas, prazo e público elegível definidos.",
+  "estrutura_texto": "[Marca] | [Linha de investimento]\nRetorno-alvo de [taxa de referência]\nem até [prazo].*\nOferta [limitação de prazo] e exclusiva para [público elegível].\n[CTA]\n[Link de regras]\n[Ressalva de risco]",
+  "legenda": "Abra sua conta em [plataforma] e conheça [oportunidade]: retorno-alvo de [taxa] por até [prazo], sujeito a [condições]. Consulte regras e riscos em [link]. Retorno-alvo não representa garantia de rentabilidade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, tipografia amarela e um grande número central para a condição financeira fornecida. Acrescente prazo logo abaixo, elegibilidade em branco e botão amarelo arredondado. Na lateral inferior direita, use arquitetura escura e uma linha ascendente apenas decorativa. Reserve rodapé legível para regras e ressalva de que retorno-alvo não é garantia. Não invente taxa nem resultado.",
+  "alerta_politica": "Em publicidade de investimentos, apresente riscos e condições de forma clara, sem sugerir rentabilidade garantida. Alegações de desempenho e comunicações sobre valores mobiliários devem observar as normas aplicáveis da CVM; avisos precisam ser legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1656453972585308",
+    "anunciante": "XP Investimentos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-08",
+    "dias_no_ar": 37,
+    "variacoes_ativas": 1,
+    "texto_original": "Abra sua conta na XP e conheça uma oportunidade para começar a investir: retorno-alvo de 140% do CDI por até 3 meses.*",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1656453972585308.jpg"
+}

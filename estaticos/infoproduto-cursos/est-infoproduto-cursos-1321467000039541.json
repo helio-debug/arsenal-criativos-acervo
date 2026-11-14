@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1321467000039541",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com checklist e preço em selo",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo branco com título azul, lista de serviços com checks e foto de aparelhos de ar-condicionado. Um selo azul destaca o preço reduzido e uma faixa amarela apresenta volume de aulas e acesso.",
+  "por_que_funciona": [
+    "Os checks organizam os serviços ensinados em uma leitura rápida.",
+    "A foto dos aparelhos identifica a especialidade do curso.",
+    "O selo azul reúne preço anterior e atual para facilitar a comparação.",
+    "A faixa amarela evidencia quantidade de aulas e acesso vitalício."
+  ],
+  "quando_usar": "Para cursos técnicos com conteúdo prático e uma oferta de matrícula já definida.",
+  "estrutura_texto": "[CURSO]\n[ESPECIALIDADE]\n[CHAMADA DE CARREIRA]\nAPRENDA: [LISTA DE HABILIDADES]\n+ [BÔNUS]\nDe: [PREÇO ANTERIOR]\nPor: [PREÇO ATUAL]\n[QUANTIDADE] VIDEOAULAS\n[CONDIÇÃO DE ACESSO]",
+  "legenda": "Aprenda [especialidade] com um treinamento que inclui [conteúdos práticos]. São [quantidade] aulas, [certificado, se incluso] e [condição de acesso] por [preço]. Confira o programa e as condições de matrícula em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, azul-marinho e amarelo. Coloque título no alto à esquerda, chamada em cápsula à direita, checklist em duas colunas e a foto da IMAGEM 2 no canto inferior esquerdo. Destaque preços em selo recortado azul no canto inferior direito e aulas/acesso em faixa amarela na base.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1321467000039541",
+    "anunciante": "Top Refrigerista - OnLine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-26",
+    "dias_no_ar": 261,
+    "variacoes_ativas": 1,
+    "texto_original": "🎯 Você Sonha em Ser um Profissional de Sucesso? 🎯\nQuer abrir seu próprio negócio e transformar sua vida?\nAgora é a sua chance!\n\n\nInscreva-se no meu Treinamento Completo com Certificado incluso por apenas R$67,00!\nDomine as técnicas mais modernas de Serviços em AC Split:\n✅Instalação\n✅Limpeza e Manutenção Preventiva\n✅Manutenção Corretiva / Consertos\n✅Recarga de Fluido Refrigerante\n✅Eletrônica Básica. \n✅+ Bônus\n✅Garantia: Se não Gostar tem seu Dinheiro de Volta!\n\n\nCom um passo a passo claro e prático.\nInscreva agora e Garanta a sua vaga com o valor promocional de 197 por apenas 67,00.\nClique em saiba mais, Para se inscrever.\nWhatsApp: (93)99176-5981\nURGENTE: De R$197,00 Por Apenas R$67,00!\n8623 Pessoas Aprovaram!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1321467000039541.jpg"
+}

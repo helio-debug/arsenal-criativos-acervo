@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-718121974624722",
+  "tipo": "estatico",
+  "titulo": "Reposição de ração com chamada para loja próxima",
+  "formato": "Oferta e promoção",
+  "nicho": "pet",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça com um cachorro dourado e um gato rajado em destaque e chamada em faixas coloridas sobre reposição de alimento. Placas de direção listam bairros, enquanto o rodapé verde informa a unidade e o endereço.",
+  "por_que_funciona": [
+    "A pergunta sobre o fim do alimento parte de uma necessidade concreta de reposição.",
+    "As faixas verde, laranja e roxa organizam pergunta e convite em sequência.",
+    "As placas com bairros tornam a cobertura local visível.",
+    "O ícone de mapa junto ao endereço reforça a visita à unidade."
+  ],
+  "quando_usar": "Para lojas pet atraírem moradores próximos quando precisam repor ração.",
+  "estrutura_texto": "Acabou [produto]?\nVem para [loja]\n[Bairros atendidos]\n[Unidade]\n[Endereço]\n[Assinatura]",
+  "legenda": "Acabou [produto do pet]? Encontre [categorias disponíveis] em [loja], na [endereço]. Funcionamos [dias e horários]. Compre por [canais de venda] ou venha com seu pet, conforme [regras de acesso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de um cachorro dourado e um gato rajado à esquerda sobre fundo urbano suave. Sobreponha pergunta curta em duas faixas verde e laranja e convite em faixa roxa. À direita, crie placas direcionais coloridas com minhas regiões atendidas. Faça rodapé verde curvo com ícone de mapa, unidade, endereço e minha assinatura. Não invente desconto e mantenha dados locais substituíveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "718121974624722",
+    "anunciante": "HiperZoo",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-19",
+    "dias_no_ar": 240,
+    "variacoes_ativas": 1,
+    "texto_original": "Hiper comodidade na hora de comprar tudo o que seu pet precisa! 🧡 O melhor pet shop está bem pertinho da sua casa, venha conhecer o HiperZoo Bacacheri.\n\n📍 HiperZoo Bacacheri - Av. Prefeito Erasto Gaertner, 57.\n\n⏰ Abertos de domingo a domingo, até nos feriados!\n🐾 Loja petfriendly: traga o seu pet, todas as espécies são bem vindas.\n\n👉🏻 Compre no site, na loja ou pelo televendas! \n💻 www.hiperzoo.com.br\n☎️ (41) 3051-7764\n📱 (41) 98784-8006\nVem para o HiperZoo!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-718121974624722.jpg"
+}

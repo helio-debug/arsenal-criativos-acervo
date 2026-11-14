@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-441995014119504",
+  "tipo": "estatico",
+  "titulo": "Poltrona com puff em composição de álbum",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma fotografia inclinada mostra uma poltrona cinza com almofada e puff em um quarto de bebê. Fundo bege, fitas ilustradas e traços finos dão aparência de página de álbum.",
+  "por_que_funciona": [
+    "A poltrona ocupa a maior parte da foto e permite observar encosto, braços e assento.",
+    "O puff aparece em primeiro plano e evidencia o conjunto para apoio dos pés.",
+    "O quarto com trocador contextualiza o uso do móvel.",
+    "O título combina letras espaçadas e escrita cursiva, mantendo a função do produto legível."
+  ],
+  "quando_usar": "Para divulgar poltronas e conjuntos de apoio em campanhas de decoração de quarto de bebê e encomendas.",
+  "estrutura_texto": "[CATEGORIA DO MÓVEL]\n[USO PRINCIPAL]",
+  "legenda": "Deixe o momento de [uso] mais aconchegante com [produto] e [acessório]. Consulte [cores, medidas e opções] e encomende em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto do produto em um quarto acolhedor, com o assento à esquerda e o apoio para os pés em primeiro plano à direita. Enquadre a fotografia levemente inclinada sobre fundo bege, com ilustrações de fita adesiva nos cantos e traços orgânicos discretos. No topo, combine uma linha pequena em caixa alta com o nome do uso em cursiva escura. Preserve detalhes reais do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "441995014119504",
+    "anunciante": "Panil Estofados",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2021-12-19",
+    "dias_no_ar": 1791,
+    "variacoes_ativas": 1,
+    "texto_original": "A hora de amamentar, que por si só já é um momento especial, pode ficar ainda mais aconchegante com o conforto de uma poltrona com puff para apoio aos pés. Curtiu? Encomende já :)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-441995014119504.jpg"
+}

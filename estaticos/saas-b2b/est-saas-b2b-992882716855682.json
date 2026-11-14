@@ -1,0 +1,38 @@
+{
+  "id": "est-saas-b2b-992882716855682",
+  "tipo": "estatico",
+  "titulo": "Drama central cercado por cenas da história",
+  "formato": "novo:Mosaico narrativo",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Uma mulher ajoelhada em um salão ocupa a cena central de um drama. Miniaturas com nomes de acontecimentos cercam a imagem, que inclui ícone de reprodução e botão para assistir.",
+  "por_que_funciona": [
+    "A personagem com as mãos no rosto concentra a tensão no centro.",
+    "As miniaturas sugerem acontecimentos anteriores e posteriores.",
+    "O triângulo de reprodução indica conteúdo para assistir.",
+    "O botão branco contrasta com a cena escura e apresenta a ação."
+  ],
+  "quando_usar": "Para promover histórias curtas ou séries disponíveis em um aplicativo, usando cenas que correspondam ao conteúdo real.",
+  "estrutura_texto": "[TÍTULO DA HISTÓRIA]\n1. [ACONTECIMENTO]\n2. [ACONTECIMENTO]\n3. [ACONTECIMENTO]\n4. [ACONTECIMENTO]\n[CTA PARA ASSISTIR]\n[AVISO DE CONTEÚDO GERADO POR IA, SE APLICÁVEL]",
+  "legenda": "Acompanhe [histórias e séries] em [aplicativo]. Descubra [tema da trama] e assista a [conteúdo disponível].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um mosaico de drama com cena vertical central dominante, título branco no alto, ícone de reprodução ao centro e botão branco arredondado na base. Distribua miniaturas legendadas em faixas laterais brancas e numa faixa escura superior. Use fotografia cinematográfica, tons escuros e bordas douradas discretas. Crie personagens e cenas originais; mantenha aviso de geração por IA quando aplicável.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "992882716855682",
+    "anunciante": "TikTok- Global",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 5,
+    "texto_original": "fique por dentro de tudo com o TikTok",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-992882716855682.jpg",
+  "formato_novo_def": "Cena principal de uma história cercada por miniaturas de acontecimentos, com legendas de episódios e chamada para assistir."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-662050709850005",
+  "tipo": "estatico",
+  "titulo": "Catálogo de suplementos com cena de preparo",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma pessoa segurando uma coqueteleira ao lado de uma porção de suplemento em pó. Uma faixa roxa ocupa a base com chamada de variedade e endereço de compra.",
+  "por_que_funciona": [
+    "A coqueteleira aproxima o produto de uma situação de consumo.",
+    "O pó em primeiro plano identifica a categoria sem depender de embalagens.",
+    "A palavra central aparece em amarelo sobre roxo e concentra a leitura.",
+    "O endereço na base indica onde comprar."
+  ],
+  "quando_usar": "Para lojas com várias marcas que querem divulgar o canal de compra online.",
+  "estrutura_texto": "[Selo de compra no site]\nAs melhores marcas de [categoria]\n[site]",
+  "legenda": "Se os [suplementos] acabaram, compre em [site] e escolha [receber em casa ou retirar na loja]. Confira as opções para sua rotina de [atividade].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de preparo no topo, com mão segurando coqueteleira e textura de pó ao lado. Aplique degradê roxo na metade inferior e chamada em letras brancas e amarelas. Reserve um selo no alto para o canal de compra e um endereço legível na base.",
+  "alerta_politica": "Para suplementos, use apenas alegações permitidas e comprováveis, coerentes com o rótulo. Não prometa cura, prevenção de doenças ou resultados físicos garantidos; evite atribuir condições de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "662050709850005",
+    "anunciante": "Supermercados Pague Menos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-05",
+    "dias_no_ar": 558,
+    "variacoes_ativas": 1,
+    "texto_original": "Rotina de quando os suplementos acabam: comprar no site e receber em casa ou retirar na loja. 🛒 😎✨\n\nAh! Não esqueça do alongamento e de beber água, hem! 😌💦\n\n👊🏻 Foca no www.superpaguemenos.com.br\n\n#SupermercadosPagueMenos #FazSuaVidaMelhor #CompraOnline #Delivery #Praticidade #Suplemento #Treino #Academia #Exercício\nBora pro treino? 🏃",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-662050709850005.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1447750252684266",
+  "tipo": "estatico",
+  "titulo": "Equipe odontológica com modelo de implante em primeiro plano",
+  "formato": "Produto em destaque",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Dois profissionais sorridentes aparecem atrás de uma mão que segura um modelo ampliado de implante dentário. A chamada branca ocupa a lateral direita e a imagem tem moldura fina.",
+  "por_que_funciona": [
+    "O modelo de implante em primeiro plano identifica a área do atendimento.",
+    "A dupla sorrindo apresenta visualmente a equipe.",
+    "O texto branco em bloco mantém a promessa de cuidado fácil de ler.",
+    "A palavra final manuscrita ocupa uma área grande e destaca o sorriso."
+  ],
+  "quando_usar": "Para apresentar uma equipe odontológica e seus serviços a pessoas que buscam atendimento na região.",
+  "estrutura_texto": "Nós cuidamos do seu\n[Aspecto do cuidado em destaque manuscrito]",
+  "legenda": "Conheça a equipe de [clínica] em [região]. Atendemos em [serviços odontológicos habilitados]. Consulte os horários e agende uma avaliação em [canal de contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da equipe ou serviço da IMAGEM 2 como imagem principal. Enquadre dois profissionais ao fundo e um modelo didático de implante em primeiro plano, se houver material autorizado. Aplique leve escurecimento, moldura branca fina e chamada branca à direita, com a última palavra em escrita cursiva grande. Não copie os rostos ou o local da referência.",
+  "alerta_politica": "Publicidade odontológica deve observar as regras do CFO/CRO, identificar os responsáveis conforme aplicável e usar imagens com autorização. Evite garantia de resultado, superioridade sem comprovação e afirmações que atribuam problemas dentários ao usuário.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1447750252684266",
+    "anunciante": "Galle Schmidt - Odontologia além do Sorriso",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-08-03",
+    "dias_no_ar": 1199,
+    "variacoes_ativas": 1,
+    "texto_original": "❣️ Nós somos Dr Luiz Flavio Schmidt e Dra Shayene Galle Schmidt 🤍✨\n\n❣️ Juntos, buscamos levar O MELHOR da Odontologia, COM MUITO AMOR para os nossos pacientes!!! 😍\n\n❣️ AMAMOS poder participar da vida de vocês… amamos poder TRANSFORMAR SORRISOS E VIDAS!!! \n\n✨ Atendemos em SÃO JOSÉ DO IMBASSAÍ!!! 😍✨\n\n❣️ SOMOS REFERÊNCIA EM IMPLANTES DENTÁRIOS 😍✨\n\n❗️ Aqui na GALLE SCHMIDT, você encontra os seguintes serviços:\n\n⚜️ CLÍNICA GERAL\n⚜️ IMPLANTODONTIA\n⚜️ ORTODONTIA\n⚜️ CIRURGIA ORAL MENOR ( SISOS, DENTES IMPACTADOS… )\n⚜️ PRÓTESE\n⚜️ HARMONIZAÇÃO FACIAL\n\n✨ SEMPRE COM EXCELÊNCIA, RESPONSABILIDADE, CARINHO E VERDADE! Esse é o nosso lema!!! ✨🤍\n\n📍 Estamos localizados em SÃO JOSÉ DO IMBASSAÍ - Estrada da Cachoeira, 63 - em frente ao posto de saúde São José 2 🙏🏻🤍✨\n\nPara dúvidas, agendamentos e informações, CLIQUE NO BOTÃO: WHATSAPP! 😉\n\nOU, pode nos chamar no número abaixo, ele é WHATSAPP!!! 😉\n📲 (21) 99279-9046\n\n✨E por aqui seguimos construindo sorrisos.✨\n\n________________\nDr Luiz Flávio Schmidt - CRO-RJ: 41.530\nDra Shayene Galle Schmidt - CRO-RJ: 51.393\nWHATSAPP\nDENTISTA EM SÃO JOSÉ DO IMBASSAÍ",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1447750252684266.jpg"
+}

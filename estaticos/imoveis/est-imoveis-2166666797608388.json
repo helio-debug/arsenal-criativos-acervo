@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-2166666797608388",
+  "tipo": "estatico",
+  "titulo": "Torres com condições de compra e proximidade do metrô",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Perspectiva de duas torres sobre céu em tons de roxo, com chamadas brancas à esquerda e faixa laranja de acesso ao transporte. Uma placa vertical de estação ocupa a lateral direita e há rodapé legal pequeno.",
+  "por_que_funciona": [
+    "As torres ocupam a maior parte da peça e apresentam o empreendimento.",
+    "A indicação de dois dormitórios aparece perto do nome, facilitando a leitura da tipologia.",
+    "As chamadas de FGTS e composição de renda antecipam dúvidas sobre a compra.",
+    "A faixa laranja destaca o tempo informado até a estação."
+  ],
+  "quando_usar": "Para lançamentos residenciais com tipologia, localização e condições de financiamento já definidas.",
+  "estrutura_texto": "Lançamento + [empreendimento] + [número de dormitórios] + [opção de varanda] + Use seu [recurso elegível] + Some renda com [quantidade de pessoas] + [tempo e referência de transporte] + [ressalvas]",
+  "legenda": "Conheça [empreendimento] em [bairro planejado]. Apartamentos de [tipologia], com [características verificadas]. Consulte as condições e faça uma simulação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático de imóvel na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base do imóvel anunciado. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma perspectiva de torres ocupando o centro e a direita sobre céu roxo ao entardecer. À esquerda, distribua selo laranja de lançamento, nome do empreendimento, tipologia e condições em branco com números destacados. Inclua faixa laranja inferior para distância ao transporte e elemento vertical de sinalização genérica à direita. Deixe rodapé legível para condições e identificação de imagem ilustrativa. Utilize os dados de MEU PRODUTO e não invente características, valores ou condições.",
+  "alerta_politica": "Ao divulgar financiamento, informe condições, critérios de elegibilidade e sujeição à análise de crédito. Valores de entrada e renda não garantem aprovação; ressalvas e custos aplicáveis devem estar legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2166666797608388",
+    "anunciante": "Plano e Plano Desenvolvimento Imobiliário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-16",
+    "dias_no_ar": 59,
+    "variacoes_ativas": 1,
+    "texto_original": "More em um bairro planejado.\nSaia do aluguel.\nFaça uma simulação.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-2166666797608388.jpg"
+}

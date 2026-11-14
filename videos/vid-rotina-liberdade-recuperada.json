@@ -1,0 +1,95 @@
+{
+ "id": "vid-rotina-liberdade-recuperada",
+ "titulo": "Personagem prepara e come alimentos enquanto explica a liberdade recuperada com o serviço",
+ "formato_video": "broll-voiceover",
+ "nichos": [
+  "estetica-clinicas",
+  "saude",
+  "emagrecimento-fitness"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "50-60s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Eu tava preparando [atividade cotidiana] quando lembrei de [tarefa de cuidado] que ficou pendente.",
+  "texto_tela": "Sem texto na tela (só a legenda automática)",
+  "visual": "Pessoa de camiseta verde circula por uma cozinha clara, ao lado de bancada com frutas e utensílios, levando alimento à boca."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano aberto na cozinha, pessoa preparando algo; locução acompanha a ação.",
+   "fala": "Eu tava preparando [atividade cotidiana] quando lembrei de [tarefa de cuidado] que ficou pendente.",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Pessoa sentada em poltrona, celular na mão, leva a outra mão perto do rosto.",
+   "fala": "Eu vinha adaptando [parte da rotina] por causa de [dificuldade concreta]. Resolvi entender quais opções existem pra [necessidade].",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "16-25s",
+   "cena": "Close de mãos demonstrando uma peça ou ferramenta do serviço; fundo claro.",
+   "fala": "Na explicação de [serviço], eu comecei pelo básico: como funciona [etapa] e quando essa opção pode ser indicada.",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "25-35s",
+   "cena": "Segundo ângulo do mesmo objeto; dedo aponta detalhes, com movimento lento.",
+   "fala": "Pedi pra ver [detalhe do processo] e entender [cuidado necessário]. Também conferi [limite ou condição].",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "35-47s",
+   "cena": "Retorno à mesa de refeição na varanda; adapte para a atividade cotidiana escolhida, sem simular resultado clínico.",
+   "fala": "Meu próximo passo é [ação verificável]. Quero organizar [atividade] com orientação e saber o que cabe na minha rotina.",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "47-58s",
+   "cena": "Plano médio à mesa, pessoa fala olhando para a lente; termine com gesto simples.",
+   "fala": "Pra conhecer [serviço], confira [informação disponível] em [canal]. Dá pra perguntar sobre [etapa inicial] antes de decidir.",
+   "texto_tela": "—"
+  }
+ ],
+ "por_que_funciona": [
+  "A cozinha e a mesa com prato situam a conversa em ações de rotina, em vez de começar no consultório.",
+  "A cena na poltrona com celular muda a postura do apresentador entre os momentos domésticos.",
+  "Os dois closes de mãos enluvadas apontam partes do modelo, dando um objeto concreto à explicação.",
+  "O último frame retorna à refeição na varanda, recuperando o contexto cotidiano da abertura."
+ ],
+ "quando_usar": "Para serviços de cuidado que exigem explicar etapas e limites. Use no meio do funil, quando a pessoa já conhece a categoria e quer entender como seria o atendimento.",
+ "roteiro_modelo": "[0-7s] Eu tava preparando [atividade cotidiana] quando lembrei de [tarefa de cuidado] que ficou pendente.\n\n[pausa; corte]\n\n[7-16s] Eu vinha adaptando [parte da rotina] por causa de [dificuldade concreta]. Resolvi entender quais opções existem pra [necessidade].\n\n[pausa; corte]\n\n[16-25s] Na explicação de [serviço], eu comecei pelo básico: como funciona [etapa] e quando essa opção pode ser indicada.\n\n[pausa; corte]\n\n[25-35s] Pedi pra ver [detalhe do processo] e entender [cuidado necessário]. Também conferi [limite ou condição].\n\n[pausa; corte]\n\n[35-47s] Meu próximo passo é [ação verificável]. Quero organizar [atividade] com orientação e saber o que cabe na minha rotina.\n\n[pausa; corte]\n\n[47-58s] Pra conhecer [serviço], confira [informação disponível] em [canal]. Dá pra perguntar sobre [etapa inicial] antes de decidir.",
+ "tomadas_celular": [
+  "Plano aberto preparando uma atividade na cozinha; janela como luz principal, 7s.",
+  "Plano médio sentado em poltrona com celular sem dados na tela; luz lateral, 9s.",
+  "Close de objeto didático do serviço nas mãos de profissional; fundo neutro e luz difusa, 9s.",
+  "Close de outro ângulo, dedo apontando detalhe do objeto; mesma luz, 10s.",
+  "Plano médio de rotina à mesa, sem comparação de resultados; luz natural da varanda, 12s.",
+  "Plano médio falando para a lente no mesmo lugar; luz frontal suave, 11s."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou no Runway, mantendo a mesma pessoa e os objetos entre cenas. Prompts prontos: \"Vertical 9:16, wide handheld smartphone shot of an adult preparing [everyday activity] in a bright home kitchen, natural window light, ordinary utensils, relaxed pace, 7 seconds, no logos.\" e \"Vertical 9:16, macro shot of gloved hands pointing to [service demonstration object], neutral white background, soft diffused lighting, slow controlled movement, 8 seconds, educational demonstration only, no text.\". Para os demais blocos, mantenha essa linguagem visual e altere a ação conforme a estrutura. Use avatar para falas em quadro e voz sintética em pt-BR para locução; voz clonada apenas com autorização. Monte no CapCut, respeitando os tempos e as pausas. Também dá para montar um slideshow com imagens geradas e movimentos leves de aproximação. Identifique cenas ilustrativas e não apresente avatar como cliente ou profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nRotina com locução em 6 blocos: cozinha, pausa com celular, primeira explicação, detalhe técnico, atividade cotidiana e próximo passo. Tom calmo, cortes motivados pela mudança de ambiente, dois closes didáticos consecutivos. Os frames não exibem legendas legíveis: mantenha imagem limpa ou acrescente legendas discretas, sem inventar cartelas da referência. Não copie identidade, voz, logotipo no uniforme, alegações de liderança ou garantias de segurança. Primeira pessoa só para história verdadeira; em ficção, identifique como cena encenada.\n\nEstrutura com tempos: 0-7s: Plano aberto na cozinha, pessoa preparando algo; locução acompanha a ação.; 7-16s: Pessoa sentada em poltrona, celular na mão, leva a outra mão perto do rosto.; 16-25s: Close de mãos demonstrando uma peça ou ferramenta do serviço; fundo claro.; 25-35s: Segundo ângulo do mesmo objeto; dedo aponta detalhes, com movimento lento.; 35-47s: Retorno à mesa de refeição na varanda; adapte para a atividade cotidiana escolhida, sem simular resultado clínico.; 47-58s: Plano médio à mesa, pessoa fala olhando para a lente; termine com gesto simples..\nUse pt-BR falado, frases curtas e informações comprováveis. Troque dados ausentes por [colchetes]. Adapte o objeto, a dificuldade e a demonstração ao meu produto, sem forçar assunto odontológico. Sem nomes, contatos ou frases da referência. Não use antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou promessa de resultado. Respeite as regras de publicidade do nicho.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Como funciona [serviço] na prática? Comece por [etapa inicial] e tire dúvidas sobre [cuidado necessário]. Confira [canal]. [Identificação de cena encenada, quando aplicável].",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou insatisfação com o corpo; sem antes/depois corporal nem promessa de resultado de saúde. Não use segurança absoluta, cura ou resultado garantido. Em serviços médicos, siga as regras de publicidade do CFM; em odontologia, as do CFO/CRO. Alegações de produtos sujeitos à ANVISA devem respeitar sua regularização e indicações autorizadas. Cenas encenadas ou geradas não podem se passar por depoimento ou resultado clínico real.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-9054347a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-rotina-liberdade-recuperada/frames/f1.jpg",
+    "videos/vid-rotina-liberdade-recuperada/frames/f2.jpg",
+    "videos/vid-rotina-liberdade-recuperada/frames/f3.jpg",
+    "videos/vid-rotina-liberdade-recuperada/frames/f4.jpg",
+    "videos/vid-rotina-liberdade-recuperada/frames/f5.jpg"
+   ]
+  }
+ ]
+}

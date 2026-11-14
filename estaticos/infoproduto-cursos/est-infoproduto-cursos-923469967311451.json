@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-923469967311451",
+  "tipo": "estatico",
+  "titulo": "Curso de culinária em mosaico de prática e pratos",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Mosaico de quatro fotos combina pratos montados e alunos ou profissionais cozinhando. Uma caixa branca central traz o nome do curso em letras pretas espaçadas.",
+  "por_que_funciona": [
+    "As quatro fotos mostram tanto o preparo quanto o resultado final.",
+    "O prato com frango e folhas ocupa um quadrante inteiro e explicita o tema culinário.",
+    "A cena com várias pessoas indica atividade em sala de aula.",
+    "A caixa branca central mantém o nome do curso legível sobre as fotografias."
+  ],
+  "quando_usar": "Cursos de culinária que precisam apresentar o estilo dos pratos e a experiência prática.",
+  "estrutura_texto": "CURSO\n[ESPECIALIDADE]\n[QUALIFICADOR]",
+  "legenda": "Matrículas abertas para [curso]. Aprenda a preparar [tipos de receitas] e conheça conteúdos de [gestão ou formação de preços, se oferecidos]. Consulte [programa, turmas e investimento] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um mosaico 2 por 2 com pratos finalizados e pessoas preparando receitas em cozinha de aula. Use fotos com luz natural e cores dos alimentos preservadas. Sobreponha ao centro uma caixa branca retangular com nome do curso em preto, caixa alta e espaçamento entre letras. Use a IMAGEM 2 nos pratos ou na atividade pertinente ao produto.",
+  "alerta_politica": "Meta: se a divulgação mencionar renda com culinária, não prometa ganhos garantidos. Evite atribuir às receitas efeitos terapêuticos ou resultados corporais sem comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "923469967311451",
+    "anunciante": "Instituto Gourmet BC",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-19",
+    "dias_no_ar": 240,
+    "variacoes_ativas": 2,
+    "texto_original": "❗MATRÍCULAS ABERTAS❗ CURSO EXPRESS!\n\n\"O Corpo é construído com treino e boa alimentação!\"\nO mercado da alimentação saudável está super em alta... Essa é uma ótima oportunidade para você TER UMA ALIMENTAÇÃO SAUDÁVEL e quem sabe até fazer uma RENDA EXTRA!\n\nO que você vai aprender a preparar\n👩🏻🍳 Alimentos Funcionais\n👩🏻🍳 Alimentos sem glúten e sem lactose\n👩🏻🍳 Alimentação vegetariana\n👩🏻🍳 Alimentação Low Carb\n👩🏻🍳 Iniciando meu negócio: Formação de preços, atendimento ao cliente, gestão de pessoas e muito mais.\n\nCLIQUE EM SAIBA MAIS E RECEBA TODAS AS INFORMAÇÕES DO CURSO!\n\nNÃO PERCA TEMPO! VAGAS LIMITADAS.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-923469967311451.jpg"
+}

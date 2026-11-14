@@ -1,0 +1,97 @@
+{
+ "id": "vid-habito-prescritivo-em-lista",
+ "titulo": "Hábito que eu faria todo dia, em lista falada",
+ "formato_video": "lista-motivos",
+ "nichos": [
+  "saude",
+  "emagrecimento-fitness",
+  "investimentos",
+  "relacionamento-desenvolvimento"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "55-62s",
+ "proporcao": "9:16",
+ "validacao": "media",
+ "hook": {
+  "falado": "Três hábitos para organizar [atividade do público].",
+  "texto_tela": "3 hábitos para [atividade]",
+  "visual": "Pessoa do peito para cima, diante de cortinas claras, segurando uma xícara transparente. Título branco com contorno escuro junto ao peito."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano médio com xícara e fundo de cortinas; título junto ao peito.",
+   "fala": "Três hábitos para organizar [atividade do público]. Dá pra começar por [momento da rotina].",
+   "texto_tela": "3 hábitos para [ATIVIDADE]"
+  },
+  {
+   "tempo": "5-18s",
+   "cena": "Manter enquadramento; indicar um com a mão livre.",
+   "fala": "Primeiro: [ação simples 1]. Separe [tempo curto] em [momento do dia]. Isso ajuda a registrar [informação útil] antes de decidir [próxima ação].",
+   "texto_tela": "1. [AÇÃO 1]"
+  },
+  {
+   "tempo": "18-31s",
+   "cena": "Gesto curto com a mão livre; título vira item dois.",
+   "fala": "Segundo: [ação simples 2]. Use [objeto ou ferramenta acessível] para anotar [detalhe]. Assim fica mais fácil conferir [critério] quando a rotina apertar.",
+   "texto_tela": "2. [AÇÃO 2]"
+  },
+  {
+   "tempo": "31-44s",
+   "cena": "Mesmo cenário; leve mudança de postura e número três.",
+   "fala": "Terceiro: [ação simples 3]. Escolha [frequência adequada] para revisar [registro]. Essa revisão mostra [ponto observável] e ajuda a preparar [próximo passo].",
+   "texto_tela": "3. [AÇÃO 3]"
+  },
+  {
+   "tempo": "44-54s",
+   "cena": "Abaixar um pouco a xícara e olhar diretamente para a lente.",
+   "fala": "Comece pelo hábito que cabe na sua rotina. Anote [observação simples] e confira em [momento de revisão]. Ajuste a frequência ao seu contexto.",
+   "texto_tela": "Comece por [HÁBITO]"
+  },
+  {
+   "tempo": "54-62s",
+   "cena": "Plano médio, gesto de salvar; sem cartela comercial.",
+   "fala": "Salve esta lista para consultar em [momento da rotina]. Para continuar, acompanhe os próximos exemplos de [tema ligado ao produto].",
+   "texto_tela": "Salve para [MOMENTO]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame traz um título que anuncia três itens, antecipando o tamanho da lista; a adaptação troca sinais por hábitos.",
+  "A xícara transparente acompanha a apresentadora nos cinco frames, dando continuidade à conversa no mesmo cenário.",
+  "As cortinas claras e a camisa clara deixam o fundo simples; o contorno escuro mantém o texto branco legível.",
+  "Na transcrição, os itens são marcados oralmente por primeiro, segundo e por último, permitindo seguir a sequência pelo áudio."
+ ],
+ "quando_usar": "Para serviços de saúde, rotina financeira ou desenvolvimento pessoal que publicam orientação educativa. Use no topo do funil com ações de organização aplicáveis ao contexto, sem diagnóstico ou prescrição individual.",
+ "tomadas_celular": [
+  "Grave 5s do peito para cima, diante de cortina clara, com luz de janela a 45 graus e uma xícara na mão.",
+  "Grave 13s no mesmo plano e luz, enumerando o primeiro hábito com a mão livre.",
+  "Grave 13s com enquadramento estável, luz difusa de frente, explicando o segundo hábito e [ferramenta].",
+  "Grave 13s no mesmo cenário e luz, mostrando três dedos antes de explicar o terceiro hábito.",
+  "Grave 10s um pouco mais perto, luz lateral suave, explicando como escolher um hábito.",
+  "Grave 8s em plano médio, mesma luz, com pausa para o convite de salvar."
+ ],
+ "caminho_ia": "Faça a fala com avatar autorizado ou voz sintética. Use Veo ou Sora para apoios: \"Vertical 9:16 medium shot of a generic presenter holding a clear glass cup, pale curtains, soft diffused daylight, relaxed eye-level framing, gentle free-hand counting gesture, no logos, no text, 5 seconds.\" e \"Vertical 9:16 overhead close-up of hands writing [product-related routine note] in an unbranded notebook, soft window light, steady smartphone camera, natural slow movement, blank readable page area, no generated lettering, 8 seconds.\" Monte os seis blocos no CapCut com números e legendas brancas de contorno preto. Gere a escrita como sobreposição editável. Mantenha três hábitos com uma razão concreta por item, sem reproduzir o diagnóstico ou a marca da referência.",
+ "legenda": "Três hábitos para [atividade]: 1. [ação 1]. 2. [ação 2]. 3. [ação 3]. Comece pelo que cabe em [momento da rotina]. Salve para consultar em [situação]. Conteúdo educativo; decisões individuais pedem orientação adequada.",
+ "alerta_politica": "Meta: não atribua doença, condição mental ou dificuldade financeira a quem vê o anúncio; evite frases como diagnóstico do espectador. Sem antes/depois corporal ou promessa de resultado de saúde e emagrecimento. Não prescreva medicamentos, dietas ou exercícios individualizados. Publicidade médica deve seguir a Resolução CFM 2.336/2023, com identificação profissional e sem garantia de resultado; alegações sobre produtos sujeitos à ANVISA devem respeitar as autorizações aplicáveis. Em investimentos, respeite as normas da CVM e do Banco Central conforme produto e instituição, informe riscos e não prometa rentabilidade. Resultados passados não asseguram retornos futuros. Fontes: [CFM](https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2336) e [CVM](https://www.gov.br/cvm/pt-br/assuntos/noticias/2019-1/orientacoes-para-analistas-de-valores-mobiliarios-4773d2705983437eab40f7a0e3c45579).",
+ "roteiro_modelo": "Três hábitos para organizar [atividade do público]. Dá pra começar por [momento da rotina].\n\n[pausa curta / corte]\n\nPrimeiro: [ação simples 1]. Separe [tempo curto] em [momento do dia]. Isso ajuda a registrar [informação útil] antes de decidir [próxima ação].\n\n[pausa curta / corte]\n\nSegundo: [ação simples 2]. Use [objeto ou ferramenta acessível] para anotar [detalhe]. Assim fica mais fácil conferir [critério] quando a rotina apertar.\n\n[pausa curta / corte]\n\nTerceiro: [ação simples 3]. Escolha [frequência adequada] para revisar [registro]. Essa revisão mostra [ponto observável] e ajuda a preparar [próximo passo].\n\n[pausa curta / corte]\n\nComece pelo hábito que cabe na sua rotina. Anote [observação simples] e confira em [momento de revisão]. Ajuste a frequência ao seu contexto.\n\n[pausa curta / corte]\n\nSalve esta lista para consultar em [momento da rotina]. Para continuar, acompanhe os próximos exemplos de [tema ligado ao produto].",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 62s em seis blocos: 0-5s lista de três hábitos, 5-18s hábito 1, 18-31s hábito 2, 31-44s hábito 3, 44-54s escolha de um hábito, 54-62s convite para salvar. Para cada hábito, dê ação executável, momento e motivo em uma frase. Tom próximo, ritmo calmo com pausa entre itens. Pessoa em plano médio com xícara, fundo claro, numeração e legendas brancas com contorno escuro. A referência enumera sinais; adapte para hábitos sem dizer que a lista de hábitos aparece nela. Não copie o logotipo nem o diagnóstico da referência. Sem oferta explícita, prescrição clínica, recomendação financeira individual ou promessa de resultado.\nUse pt-BR falado, frases diretas e campos [adaptáveis]. Sem antíteses vazias, superlativos sem prova, perguntas decorativas ou promessa de resultado. Não copie nomes, rostos, marcas, clientes, contatos, alegações ou falas da referência. Não invente dados, depoimentos ou condições comerciais.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a9460ab0",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-habito-prescritivo-em-lista/frames/f1.jpg",
+    "videos/vid-habito-prescritivo-em-lista/frames/f2.jpg",
+    "videos/vid-habito-prescritivo-em-lista/frames/f3.jpg",
+    "videos/vid-habito-prescritivo-em-lista/frames/f4.jpg",
+    "videos/vid-habito-prescritivo-em-lista/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

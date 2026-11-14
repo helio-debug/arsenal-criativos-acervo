@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2352713662147547",
+  "tipo": "estatico",
+  "titulo": "Quantidade ampliada na mesma mensalidade",
+  "formato": "Oferta e promoção",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "financeiro",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Chamada de três maquininhas grátis na mesma mensalidade sobre fundo verde escuro. A foto inferior mostra mãos segurando um terminal verde com tela e comprovante visíveis.",
+  "por_que_funciona": [
+    "O número três e GRÁTIS tornam a oferta quantitativa fácil de localizar.",
+    "A linha na mesma mensalidade explicita a condição central do pacote.",
+    "O terminal ampliado permite reconhecer o produto e sua tela.",
+    "A anotação de faturamento mínimo qualifica a oferta junto à foto."
+  ],
+  "quando_usar": "Para ampliar a quantidade de terminais contratados por estabelecimentos elegíveis.",
+  "estrutura_texto": "[Quantidade de equipamentos]\nGRÁTIS\nNA MESMA MENSALIDADE\n[Critério de faturamento]\n[Condições]",
+  "legenda": "Tenha [quantidade] equipamentos na mesma mensalidade de [plano]. Disponível para [perfil] com faturamento de [valor mínimo]. Consulte [condições] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde escuro ou equivalente da marca e título centralizado em três linhas com quantidade, palavra de oferta e condição da mensalidade. Abaixo, foto grande com cantos arredondados de mãos segurando o produto da IMAGEM 2. Deixe a condição de elegibilidade legível dentro da área da foto.",
+  "alerta_politica": "Serviços financeiros: informar condições de isenção, faturamento mínimo e custos do plano. Se mencionar rendimento, esclarecer base de cálculo, liquidez, tributos e riscos; percentual do CDI não é taxa fixa nem garantia de retorno. Cumprir regras Meta e exigências regulatórias aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2352713662147547",
+    "anunciante": "Stone",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 1,
+    "texto_original": "Mais maquininhas sem aluguel extra. Venda e receba na hora com a maquininha Stone.\nMaquininha para restaurante\nStone para restaurantes: maquininhas grátis, Pix Zero e rendimento de 107% do CDI.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2352713662147547.jpg"
+}

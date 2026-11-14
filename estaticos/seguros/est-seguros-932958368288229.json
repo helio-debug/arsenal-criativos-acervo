@@ -1,0 +1,36 @@
+{
+  "id": "est-seguros-932958368288229",
+  "tipo": "estatico",
+  "titulo": "Seguro residencial sobre foto de sala",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Sala clara com sofá amarelo serve de cenário para a chamada de seguro residencial. Um rodapé reúne convite à cotação, benefício e assinatura visual.",
+  "por_que_funciona": [
+    "O sofá amarelo cria um ponto de atenção no ambiente claro.",
+    "A chamada azul no alto identifica imediatamente o serviço.",
+    "A cotação destacada em amarelo junto ao rodapé indica o próximo passo."
+  ],
+  "quando_usar": "Para oferecer cotação residencial a um público elegível a condições específicas.",
+  "estrutura_texto": "[Categoria de seguro]\n[Assinatura institucional]\nCotação sem compromisso!\n[Benefício de proteção e custo condicionado]\n[Marca]",
+  "legenda": "[Público elegível] e [familiares elegíveis] podem consultar condições para [seguro residencial]. Peça uma cotação sem compromisso e confira coberturas e valores.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma sala luminosa com sofá de cor viva e parede com espaço livre. Posicione a categoria em letras azuis com contorno branco no canto superior esquerdo. Insira chamada de cotação junto à base e faixa branca inferior com benefício e marca do meu produto. Use a IMAGEM 2 como elemento relacionado ao serviço, sem simular uma apólice.",
+  "alerta_politica": "Meta: apresente preço, desconto e coberturas com condições verificáveis. Informe elegibilidade, análise de risco, franquias, limites e condições da seguradora; não prometa aceitação ou proteção irrestrita. Observe as regras da SUSEP e o CDC.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "932958368288229",
+    "anunciante": "AFPESP",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-04-08",
+    "dias_no_ar": 950,
+    "variacoes_ativas": 1,
+    "texto_original": "Seguro Residencial com descontos para Servidores Públicos, seus pais, cônjuge e filhos. \nAproveite, faça uma cotação sem compromisso!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-932958368288229.jpg"
+}

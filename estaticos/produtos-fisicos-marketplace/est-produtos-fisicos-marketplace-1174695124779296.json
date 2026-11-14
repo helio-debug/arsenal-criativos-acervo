@@ -1,0 +1,36 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1174695124779296",
+  "tipo": "estatico",
+  "titulo": "Navegador náutico em uso no painel",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de um navegador náutico instalado no painel de uma embarcação, com mapa e rota na tela. Uma mão aponta para o equipamento e o volante ocupa o primeiro plano.",
+  "por_que_funciona": [
+    "O mapa com rota mostra a função do equipamento em uso.",
+    "A mão junto à tela dá escala ao produto e indica interação.",
+    "O painel e o volante situam a aplicação na embarcação."
+  ],
+  "quando_usar": "Para equipamentos náuticos e eletrônicos instalados, ao mostrar uso e contexto antes da compra.",
+  "estrutura_texto": "[Marca no equipamento]\n[Observação sobre recurso opcional]",
+  "legenda": "[Produto] com [capacidade de processamento], [conectividade] e [tipo de tela] para planejar sua navegação. Conheça [modelo] e confira os recursos disponíveis em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia realista de um equipamento instalado em um painel de embarcação clara, tela grande com mapa e rota visíveis, mão interagindo e volante metálico em primeiro plano. Preserve a identidade do produto da IMAGEM 2. Luz natural, enquadramento próximo e texto mínimo; inclua nota discreta sobre recursos opcionais somente quando aplicável.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1174695124779296",
+    "anunciante": "Garmin Marine",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-08",
+    "dias_no_ar": 310,
+    "variacoes_ativas": 1,
+    "texto_original": "Enhanced processing power ✅ Network connectivity ✅\nHigh-definition display ✅ Garmin Navionics+ chats ✅\n\nThe GPSMAP 16x3 chartplotter has everything you need to plot your paradise on a 16” display. Shop now.\nGPSMAP x3 series\nHigh-definition 16” display",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1174695124779296.jpg"
+}

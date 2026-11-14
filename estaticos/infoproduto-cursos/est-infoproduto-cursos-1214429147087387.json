@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1214429147087387",
+  "tipo": "estatico",
+  "titulo": "Inscrições abertas com mês de início em destaque",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Peça em azul-marinho e vermelho anuncia uma graduação. Uma profissional com notebook aparece em recorte oval, ao lado do nome do curso e do mês de início.",
+  "por_que_funciona": [
+    "O nome do curso ocupa a maior faixa vermelha e identifica a formação rapidamente.",
+    "O bloco branco isola o mês de início do restante das informações.",
+    "A faixa vermelha de inscrições abertas apresenta a ação esperada.",
+    "A foto com notebook e sobreposição tecnológica contextualiza a área de estudo."
+  ],
+  "quando_usar": "Para instituições que estão abrindo inscrições de uma turma com início definido.",
+  "estrutura_texto": "[Instituição]\nGraduação em [área]\nInício das aulas em [mês]\n[Assinatura institucional]\nInscrições abertas!",
+  "legenda": "As inscrições para [curso] estão abertas para [período], com início em [mês]. Confira os detalhes e faça sua inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, grandes faixas vermelhas arredondadas e texto branco. Coloque a identificação no alto à esquerda, o curso em letras grandes no centro esquerdo e uma foto relacionada à formação em recorte oval à direita. Destaque o mês de início em uma cápsula branca e a chamada de inscrição em uma faixa vermelha inferior.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1214429147087387",
+    "anunciante": "Faculdade Ibptech",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-05",
+    "dias_no_ar": 497,
+    "variacoes_ativas": 2,
+    "texto_original": "As inscrições para o Curso de Graduação em Defesa Cibernética da Faculdade IBPTECH estão abertas para o segundo semestre de 2025, com início no mês de agosto. Detalhes e Inscrições no link da Bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1214429147087387.jpg"
+}

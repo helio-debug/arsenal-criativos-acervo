@@ -1,0 +1,109 @@
+{
+ "id": "vid-desafio-criacao-tutorial",
+ "titulo": "Desafio com prazo e criação mostrada no notebook",
+ "formato_video": "tutorial-passo-a-passo",
+ "nichos": [
+  "ia-ferramentas",
+  "renda-extra",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "70-80s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Selfie em plano fechado, título branco dentro de caixa preta no alto.",
+   "fala": "Vou montar [entrega: uma primeira versão de aula] em [prazo testado]. Vou mostrar o processo.",
+   "texto_tela": "[Entrega] em [prazo testado]"
+  },
+  {
+   "tempo": "6-18s",
+   "cena": "Corte para notebook filmado de perto, teclado na base; mostrar o comando de pesquisa.",
+   "fala": "Começo com [público] e [problema específico]. Coloco essas informações em [ferramenta] para levantar opções. Depois confiro as fontes.",
+   "texto_tela": "1. Pesquisar [problema]"
+  },
+  {
+   "tempo": "18-30s",
+   "cena": "Aproximar a tela com opções escritas e apontar a escolhida.",
+   "fala": "Escolhi [ideia] porque atende [situação concreta]. Vou limitar esta versão a [escopo] para conseguir testar.",
+   "texto_tela": "2. Escolher [ideia]"
+  },
+  {
+   "tempo": "30-47s",
+   "cena": "Tela clara do material criado; percorrer título e uma seção utilizável.",
+   "fala": "Agora monto [entrega]. Aqui está [parte principal]. Quem usa consegue [ação demonstrável], como aparece nesta tela. Ainda preciso revisar [ponto de revisão].",
+   "texto_tela": "3. Montar [entrega]"
+  },
+  {
+   "tempo": "47-63s",
+   "cena": "Rolar a página de apresentação e mostrar uma peça de divulgação no notebook.",
+   "fala": "Com a entrega revisada, preparo a página. Ela explica [uso] e mostra [condição real]. Esta peça de divulgação leva para a mesma página.",
+   "texto_tela": "4. Preparar a apresentação"
+  },
+  {
+   "tempo": "63-78s",
+   "cena": "Voltar ao rosto e inserir um último detalhe da tela; legenda branca curta.",
+   "fala": "Nesta sessão, deixei [itens concluídos] prontos. [Etapa pendente] fica para o próximo teste. Para aplicar o processo ao seu produto, veja [material disponível] em [local de acesso].",
+   "texto_tela": "Veja [material disponível]"
+  }
+ ],
+ "hook": {
+  "falado": "Vou montar [entrega: uma primeira versão de aula] em [prazo testado]. Vou mostrar o processo.",
+  "texto_tela": "[Entrega] em [prazo testado]",
+  "visual": "Selfie em plano fechado, título branco dentro de caixa preta no alto."
+ },
+ "por_que_funciona": [
+  "A caixa preta no alto da selfie apresenta entrega e prazo antes das telas de trabalho.",
+  "O teclado aparece abaixo dos comandos, situando a demonstração no notebook.",
+  "A sequência passa de pesquisa em tela escura para material em página clara com destaques verde-limão.",
+  "A escolha de uma ideia é narrada antes da apresentação do material, deixando a decisão acompanhável."
+ ],
+ "quando_usar": "Para cursos, ferramentas e conteúdos sobre criação de produtos, quando o público já conhece a proposta e precisa ver o processo. Use um prazo medido e informe o que ficou fora da sessão.",
+ "roteiro_modelo": "Vou montar [entrega: uma primeira versão de aula] em [prazo testado]. Vou mostrar o processo.\n\n[CORTE / PAUSA]\n\nComeço com [público] e [problema específico]. Coloco essas informações em [ferramenta] para levantar opções. Depois confiro as fontes.\n\n[CORTE / PAUSA]\n\nEscolhi [ideia] porque atende [situação concreta]. Vou limitar esta versão a [escopo] para conseguir testar.\n\n[CORTE / PAUSA]\n\nAgora monto [entrega]. Aqui está [parte principal]. Quem usa consegue [ação demonstrável], como aparece nesta tela. Ainda preciso revisar [ponto de revisão].\n\n[CORTE / PAUSA]\n\nCom a entrega revisada, preparo a página. Ela explica [uso] e mostra [condição real]. Esta peça de divulgação leva para a mesma página.\n\n[CORTE / PAUSA]\n\nNesta sessão, deixei [itens concluídos] prontos. [Etapa pendente] fica para o próximo teste. Para aplicar o processo ao seu produto, veja [material disponível] em [local de acesso].",
+ "tomadas_celular": [
+  "Selfie vertical à altura dos olhos, rosto perto da janela, 6s; deixar espaço para o título superior.",
+  "Notebook em plano próximo, celular apoiado, luz lateral sem reflexo na tela, 12s de comando e pesquisa.",
+  "Detalhe das opções na tela com dedo indicando a escolha, mesma luz lateral, 12s.",
+  "Notebook com página clara e rolagem lenta, exposição ajustada para ler o título, 17s.",
+  "Página de apresentação e peça de divulgação, dois planos próximos de 8s, luz difusa e brilho da tela moderado.",
+  "Selfie de fechamento com luz de janela, 15s; cortar um detalhe do material por cima da fala."
+ ],
+ "caminho_ia": "Use avatar e voz sintética licenciada para a abertura. No Veo ou Runway, gere planos do notebook e sobreponha no CapCut interfaces fictícias legíveis com o conteúdo de [produto]. Prompts: \"Vertical 9:16 handheld close-up of an unbranded laptop on a desk, keyboard in foreground, dark research interface placeholder for [product], soft side window light, slow push-in, no logos, no readable personal data.\" e \"Vertical 9:16 over-the-shoulder laptop shot, bright digital workbook placeholder for [product], lime accent highlights, controlled screen reflections, gentle downward camera tilt, no logos.\" Monte as etapas com legendas brancas e título em caixa preta. Identifique a simulação; não apresente tempo gerado como tempo de execução medido.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nAbra em selfie com entrega e prazo comprovado em caixa preta. Siga pesquisa, escolha justificada, montagem, apresentação e fechamento. Use notebook em close, teclado visível, cortes por etapa e legendas brancas. Reserve 78s e siga os seis intervalos da estrutura. Mostre uma ação utilizável na entrega. Não copie tema, interfaces, pessoas, marcas ou frases da referência. Não invente faturamento, conclusão automática nem prazo de execução. Use pt-BR falado, frases curtas e campos adaptáveis quando faltar informação. Não invente provas, preço, prazo ou funcionalidades. Não use antítese vazia, superlativos sem prova, tríades decorativas, perguntas de enfeite nem fechos de efeito.\n\nEstrutura de tempo e cenas:\n0-6s: Selfie em plano fechado, título branco dentro de caixa preta no alto.\n6-18s: Corte para notebook filmado de perto, teclado na base; mostrar o comando de pesquisa.\n18-30s: Aproximar a tela com opções escritas e apontar a escolhida.\n30-47s: Tela clara do material criado; percorrer título e uma seção utilizável.\n47-63s: Rolar a página de apresentação e mostrar uma peça de divulgação no notebook.\n63-78s: Voltar ao rosto e inserir um último detalhe da tela; legenda branca curta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Do pedido inicial à primeira versão de [entrega]. Mostrei [etapa visível] e o que ainda precisa de revisão. Para aplicar a [produto], veja [material disponível] em [local de acesso]. O tempo depende do escopo e da revisão necessária.",
+ "alerta_politica": "Meta, oportunidades de negócio e renda extra: não garantir ganhos nem apresentar receita excepcional como resultado típico. Informar custos, esforço e condições relevantes; não prometer renda rápida ou execução sem trabalho. Prazos e volumes precisam de comprovação e contexto.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ebab5537",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-desafio-criacao-tutorial/frames/f1.jpg",
+    "videos/vid-desafio-criacao-tutorial/frames/f2.jpg",
+    "videos/vid-desafio-criacao-tutorial/frames/f3.jpg",
+    "videos/vid-desafio-criacao-tutorial/frames/f4.jpg",
+    "videos/vid-desafio-criacao-tutorial/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-301ca339",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-b0a264de",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-relacionamento-desenvolvimento-1770592217098453",
+  "tipo": "estatico",
+  "titulo": "Seis sinais de uma relação difícil no trabalho",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "relacionamento-desenvolvimento",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Lista numerada em preto sobre degradê laranja, com título no alto. À direita, um desenho de pessoa curvada diante do computador tem um emaranhado sobre a cabeça.",
+  "por_que_funciona": [
+    "O número seis delimita a leitura da lista.",
+    "Cada item descreve uma conduta observável no trabalho.",
+    "O desenho da pessoa curvada reforça o tema de desgaste.",
+    "O degradê quente mantém contraste com o texto preto."
+  ],
+  "quando_usar": "Para conteúdo educativo de entrada sobre convivência e comunicação no trabalho.",
+  "estrutura_texto": "[Número] sinais de [situação]\n1 - [Comportamento observável]\n2 - [Comportamento observável]\n[Demais itens]\n[Assinatura]",
+  "legenda": "[Número] comportamentos que merecem atenção nas relações de trabalho: [lista de condutas]. Reconhecer padrões pode ajudar a avaliar a convivência e buscar apoio. Salve para consultar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use degradê horizontal laranja e coral, título preto grande no topo e lista numerada na coluna esquerda. Na direita inferior, inclua ilustração de traço fino de uma pessoa à mesa com emaranhado abstrato acima da cabeça. Adapte a ilustração ao tema do produto, mantendo espaço de leitura e assinatura discreta no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1770592217098453",
+    "anunciante": "Mariana Torres",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-11-02",
+    "dias_no_ar": 742,
+    "variacoes_ativas": 1,
+    "texto_original": "6 sinais de um chefe tóxico\n\n1 - Te expõe na frente dos seus colegas de trabalho\n\n2 - Não compartilha informações importantes com você\n\n3 - Te sobrecarrega de trabalho e incentiva horas extras sem remuneração\n\n4 - Age constantemente de forma autoritária\n\n5 - É imprevisível: você nunca sabe como estará o humor dele\n\n6- Apresenta com frequência uma comunicação violenta\n\nEu já tive uma chefe tóxica e demorei alguns anos para parceber. Quem vê de fora não consegue acreditar, mas essa é uma relação muito parecida com qualquer relacionamento tóxico, muitas vezes não queremos acreditar e demoramos para perceber.\n\nEu lembro que foi em um rompante dela que eu percebi que tinha alguma coisa de errado e comecei a questionar meu pares, minha equipe, quem trabalhava comigo.\n\nEu perguntava: “Por que vocês não me contaram?” e a resposta era sempre a mesma: “Você não iria acreditar, precisava ver com os próprios olhos.”\n\nFoi muito ruim, porque naquele dia eu perdi uma amiga, que nunca existiu. Só eu considerava aquela minha chefe, minha amiga. Um tombo do alto do cavalo.\n\nNão me recuperei. Ficar na empresa ficou insustentável, em um ano eu não estava mais lá. Pedi demissão.\n\nO comportamento tóxico pode ser velado, escondido atrás de agrados e pequenos elogios. É importante saber identificar para sair dessa situação.\n\nDaquela situação tirei muitos aprendizados e um deles é alertar a cada um de vocês que essa situação é real e que tem gente sofrendo com isso hoje.\n\nSe você já conseguiu identificar saia desse lugar. Se organize, conquiste uma nova vaga e saia desse emprego. Pode ser que essa pessoa ainda fique na empresa por anos e anos.\n\nE nenhum salário paga a nossa saúde mental.\n\nAgora um convite: eu vou fazer a maior Black Friday de Linkedin que você já viu. Para saber dos detalhes e tere acesso a essa oportunidade digite EU QUERO nos comentários.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/relacionamento-desenvolvimento/est-relacionamento-desenvolvimento-1770592217098453.jpg"
+}

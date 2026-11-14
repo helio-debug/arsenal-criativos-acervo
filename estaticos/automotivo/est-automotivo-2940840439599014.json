@@ -1,0 +1,37 @@
+{
+  "id": "est-automotivo-2940840439599014",
+  "tipo": "estatico",
+  "titulo": "Chegada da loja com seleção de seminovos",
+  "formato": "Comunicado oficial",
+  "nicho": "automotivo",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "lancamento",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Cinco carros aparecem alinhados diante de uma parede azul iluminada, sobre piso laranja. A chamada de chegada fica no topo e o endereço recebe um ícone de localização.",
+  "por_que_funciona": [
+    "A palavra “CHEGOU!” apresenta a abertura como novidade.",
+    "Os cinco carros mostram variedade de modelos em uma única cena.",
+    "O piso laranja contrasta com a parede azul e destaca os veículos.",
+    "O endereço acompanhado de um pin facilita localizar a loja."
+  ],
+  "quando_usar": "Para divulgar abertura de loja ou chegada de uma operação de seminovos em uma região.",
+  "estrutura_texto": "CHEGOU!\n[Nome da loja]\n[Categoria]\nO SEU PRÓXIMO [produto] ESTÁ AQUI.\n[Endereço]\n[Assinatura]",
+  "legenda": "Seu próximo [veículo] pode estar aqui. Conheça os modelos e marcas disponíveis em [loja/região]. Preencha o formulário e receba opções e condições com nossa equipe.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Composição de inauguração com parede azul, refletores no alto, piso laranja e discretos confetes. Posicione uma seleção de produtos na metade central, com um em primeiro plano. Use chamada de chegada no topo e endereço com pin abaixo. Adapte os textos aos dados de MEU PRODUTO, sem inventar preços, garantias ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2940840439599014",
+    "anunciante": "Grupo Sinal",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-26",
+    "dias_no_ar": 80,
+    "variacoes_ativas": 1,
+    "texto_original": "O seu próximo seminovo está aqui!\n\nNa Sinal Multimarcas você encontra diversos modelos e marcas para escolher o carro que combina com você.\n\nPreencha o formulário e receba opções de seminovos e condições disponíveis direto com nosso time.\n\n👉 Cadastre-se e encontre seu próximo carro!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/automotivo/est-automotivo-2940840439599014.jpg"
+}

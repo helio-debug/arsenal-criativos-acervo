@@ -1,0 +1,102 @@
+{
+ "id": "vid-selfie-produto-prova",
+ "formato_video": "screencast-prova",
+ "nichos": [
+  "ia-ferramentas",
+  "renda-extra",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Selfie com demonstração de produto e etapas do processo",
+ "duracao": "45-55s",
+ "por_que_funciona": [
+  "Nos cinco frames, o rosto ocupa o centro do carro e as legendas brancas ficam abaixo da boca, mantendo a fala fácil de acompanhar.",
+  "A mão aparece próxima da lente na abertura e na conclusão, marcando as entradas e o convite.",
+  "A fala descreve um produto, uma ferramenta e uma página de apresentação em sequência; isso oferece etapas concretas para a montagem demonstrativa.",
+  "O gesto horizontal no segundo frame acompanha a explicação do processo sem depender de uma troca de ambiente."
+ ],
+ "quando_usar": "Para mostrar por dentro um curso, ferramenta ou material de criação de produtos digitais. Use no meio do funil, quando a pessoa precisa conferir o funcionamento e o conteúdo antes de comprar.",
+ "tomadas_celular": [
+  "Selfie próxima em carro estacionado, luz difusa da janela frontal e roupa sem marca, 5s; introduzir o entregável.",
+  "Gravação de tela do celular usando uma função real, brilho suficiente e sem reflexos, 10s; ocultar dados pessoais.",
+  "Selfie do peito para cima no mesmo carro, luz lateral suave, 10s; explicar criação e revisão com um gesto horizontal.",
+  "Captura de tela da página ou apresentação autorizada, interface legível e brilho estável, 10s; rolar devagar pelos itens incluídos.",
+  "Selfie próxima no carro parado, mesma luz natural, 9s; falar sobre revisão e variação de tempo.",
+  "Selfie frontal no mesmo lugar, luz difusa e mão abaixo do rosto, 6s; convidar para a demonstração."
+ ],
+ "caminho_ia": "Gere no Kling uma base de selfie e use avatar ou voz clonada autorizada para a fala. Sem gravar, monte no CapCut um slideshow de telas fornecidas do seu produto; se usar interfaces geradas, identifique-as como simulação e não como prova de funcionamento. Prompts: \"Vertical 9:16 smartphone selfie, fictional adult wearing plain gray hoodie and generic sunglasses, seated in a parked car, soft window daylight, close frontal framing, subtle hand gesture near lens, no logos, introducing [digital product].\" e \"Vertical 9:16 static mobile interface mockup for [product function], clean readable layout, one input field and one output panel, neutral colors, no brand assets, no revenue counters, explicitly illustrative demo, no claims of real performance.\"",
+ "legenda": "Veja [produto] por dentro: [função demonstrada] e as etapas pra montar [entregável]. Confira a demonstração e os materiais incluídos. Tempo de execução e resultados variam conforme o projeto.",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Vou mostrar [entregável] funcionando e o caminho que usei pra montar esta versão.",
+  "texto_tela": "Veja [entregável] funcionando",
+  "visual": "Selfie próxima em carro estacionado; apresentador de roupa lisa, mão perto da lente e legenda branca curta."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Selfie próxima em carro estacionado; apresentador de roupa lisa, mão perto da lente e legenda branca curta.",
+   "fala": "Vou mostrar [entregável] funcionando e o caminho que usei pra montar esta versão.",
+   "texto_tela": "Veja [entregável] funcionando"
+  },
+  {
+   "tempo": "5-15s",
+   "cena": "Manter selfie como base e acrescentar captura legível de uma função real. Sobreposição proposta a partir da fala; não aparece nos frames disponíveis.",
+   "fala": "Aqui eu [ação na ferramenta]. Quando altero [entrada], o produto mostra [saída visível]. Esse é o exemplo que vou usar.",
+   "texto_tela": "[Entrada] → [Saída]"
+  },
+  {
+   "tempo": "15-25s",
+   "cena": "Voltar ao rosto e ao gesto horizontal da mão visto no segundo frame; inserir trecho de processo como montagem proposta.",
+   "fala": "Usei [ferramenta] pra montar [parte do produto]. Comecei com [instrução] e revisei [item que exigiu ajuste].",
+   "texto_tela": "[Ferramenta] | [Etapa revisada]"
+  },
+  {
+   "tempo": "25-35s",
+   "cena": "Sobrepor captura da apresentação do produto, se fizer parte da oferta. Montagem sugerida pela fala; manter rosto em área livre.",
+   "fala": "Depois preparei [página ou material de apresentação]. Mostrei o que vem incluído e como acessar. Essa parte você também acompanha na demonstração.",
+   "texto_tela": "[O que vem incluído]"
+  },
+  {
+   "tempo": "35-44s",
+   "cena": "Retornar à selfie próxima, enquadramento frontal e mão pontuando a explicação.",
+   "fala": "Você vai ver [etapa ensinada] e entender o que precisa revisar no seu caso. O tempo de execução depende do conteúdo e dos ajustes.",
+   "texto_tela": "Revise [item necessário]"
+  },
+  {
+   "tempo": "44-50s",
+   "cena": "Selfie com gesto final para a região do botão; encerrar sem cartela de resultado financeiro.",
+   "fala": "Clique pra assistir à demonstração de [produto] e conferir o conteúdo antes de decidir.",
+   "texto_tela": "Assista à demonstração"
+  }
+ ],
+ "roteiro_modelo": "Vou mostrar [entregável] funcionando e o caminho que usei pra montar esta versão.\n\n[Pausa / corte]\n\nAqui eu [ação na ferramenta]. Quando altero [entrada], o produto mostra [saída visível]. Esse é o exemplo que vou usar.\n\n[Pausa / corte]\n\nUsei [ferramenta] pra montar [parte do produto]. Comecei com [instrução] e revisei [item que exigiu ajuste].\n\n[Pausa / corte]\n\nDepois preparei [página ou material de apresentação]. Mostrei o que vem incluído e como acessar. Essa parte você também acompanha na demonstração.\n\n[Pausa / corte]\n\nVocê vai ver [etapa ensinada] e entender o que precisa revisar no seu caso. O tempo de execução depende do conteúdo e dos ajustes.\n\n[Pausa / corte]\n\nClique pra assistir à demonstração de [produto] e conferir o conteúdo antes de decidir.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meus dados para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça roteiro de 50 segundos: mostrar entregável, demonstrar uma função, explicar ferramenta e revisão, apresentar página ou material, informar limites do processo, convidar para demonstração. Selfie frontal informal em carro parado, ritmo ágil, legendas brancas curtas e capturas legíveis quando houver material real. Os frames disponíveis mostram apenas a selfie; trate sobreposições como montagem proposta. Não copie identidade, roupa com marca, interface, nomes, preço ou promessas de venda automática e ganho rápido. Não invente tempo de execução, resultado financeiro ou prova; identifique simulações. Substitua lacunas por [colchetes] quando faltar informação. Entregue roteiro falado completo no formato descrito, com tempos, legenda do post e um prompt de cena por bloco da estrutura.",
+ "alerta_politica": "Meta: nos anúncios de oportunidades de negócio, não prometa ganhos garantidos, fáceis ou em prazo fixo. Não apresente venda automática como certeza nem um caso isolado como resultado típico; contextualize resultados documentados e informe custos e condições da oferta. Não atribua renda ou dificuldade financeira ao espectador.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-4aafee61",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-selfie-produto-prova/frames/f1.jpg",
+    "videos/vid-selfie-produto-prova/frames/f2.jpg",
+    "videos/vid-selfie-produto-prova/frames/f3.jpg",
+    "videos/vid-selfie-produto-prova/frames/f4.jpg",
+    "videos/vid-selfie-produto-prova/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-d2e531ab",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

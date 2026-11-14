@@ -1,0 +1,38 @@
+{
+  "id": "est-seguros-2314171559382315",
+  "tipo": "estatico",
+  "titulo": "Acidente doméstico com apoio de um amigo",
+  "formato": "novo:Cena cotidiana com chamada",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Duas pessoas retiram água de uma casa alagada. Duas colunas de texto conectam o esquecimento da torneira à presença de um amigo e de um seguro residencial.",
+  "por_que_funciona": [
+    "O piso alagado torna o imprevisto doméstico visível de imediato.",
+    "As duas pessoas com baldes materializam a ideia de ajuda.",
+    "As chamadas em duas colunas ligam a situação ao seguro.",
+    "A faixa de coberturas apresenta categorias concretas do serviço."
+  ],
+  "quando_usar": "Para apresentar seguro residencial a quem ainda não considera os imprevistos da casa.",
+  "estrutura_texto": "Quando você [imprevisto doméstico]...\nComo é bom ter [apoio] e [solução]\n[Produto]\nCobertura\n[Lista de coberturas]\n[Assinatura]",
+  "legenda": "Um [apoio próximo] e [seguro residencial] para ajudar diante de [imprevisto]. Conheça [produto] e consulte as condições de cobertura.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma cena doméstica de alagamento com duas pessoas cooperando e área escura no terço inferior. Use duas colunas de chamada, com primeiras linhas em ciano e complemento branco. Inclua selo arredondado do produto, faixa fina de coberturas e rodapé ciano com assinatura própria. Não sugira cobertura do evento retratado sem confirmação contratual.",
+  "alerta_politica": "Em anúncios de seguro, apresente coberturas, exclusões, elegibilidade e condições de contratação com clareza. Não prometa proteção irrestrita ou indenização garantida; mantenha informações regulatórias e condições da oferta legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2314171559382315",
+    "anunciante": "Chubb Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 1,
+    "texto_original": "Um amigo e a Chubb Seguros para te ajudar a ver o copo meio cheio. Clique aqui e conheça o Seguro Residencial Chubb.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-2314171559382315.jpg",
+  "formato_novo_def": "Fotografia encenada de uma situação cotidiana, com chamada sobreposta que liga a cena a uma solução ou mensagem de marca."
+}

@@ -1,0 +1,97 @@
+{
+ "id": "vid-tela-cheia-com-imagens-na-fala",
+ "tipo": "video",
+ "titulo": "Imagens em tela cheia ilustrando cada frase da narração",
+ "formato_video": "broll-voiceover",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "imoveis",
+  "automotivo",
+  "moveis-decoracao"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "35-40s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Característica concreta] merece atenção na hora de escolher [categoria].",
+  "texto_tela": "[Característica concreta]",
+  "visual": "B-roll em tela cheia de [produto] em seu contexto, sem rosto; palavra principal grande em amarelo e legenda branca na parte inferior."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "B-roll em tela cheia de [produto] em seu contexto, sem rosto; palavra principal grande em amarelo e legenda branca na parte inferior.",
+   "fala": "[Característica concreta] merece atenção na hora de escolher [categoria].",
+   "texto_tela": "[Característica concreta]"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Plano geral do ambiente de uso. Inserir rótulo amarelo com linha apontando para o detalhe citado, inspirado nas marcações dos frames aéreos.",
+   "fala": "Olhe para [detalhe um]. Ele ajuda em [uso específico] porque [explicação verificável].",
+   "texto_tela": "[Detalhe um]"
+  },
+  {
+   "tempo": "11-18s",
+   "cena": "Trocar para um plano mais próximo de outro detalhe, em tela cheia, no começo da frase.",
+   "fala": "Aqui está [detalhe dois]. No dia a dia, isso permite [ação observável].",
+   "texto_tela": "[Detalhe dois]"
+  },
+  {
+   "tempo": "18-26s",
+   "cena": "Mostrar mãos usando ou examinando o produto; em imóvel, percurso em primeira pessoa. Legendas acompanham a narração.",
+   "fala": "O [produto] reúne esses recursos em [configuração]. Veja como fica durante [situação de uso].",
+   "texto_tela": "[Produto] | [configuração]"
+  },
+  {
+   "tempo": "26-34s",
+   "cena": "Plano de detalhe de medida, acabamento ou especificação real; destacar só a palavra central em amarelo.",
+   "fala": "Antes de escolher, confira [medida ou especificação] e compare com [necessidade concreta].",
+   "texto_tela": "Confira [especificação]"
+  },
+  {
+   "tempo": "34-39s",
+   "cena": "Encerrar com tomada limpa do produto e cartela preta com identificação do comprador e CTA branco.",
+   "fala": "Toque no botão para ver os detalhes de [produto] e consultar [informação de compra].",
+   "texto_tela": "Ver detalhes | [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura usa uma palavra amarela bem maior que o restante da chamada sobre uma cena de rua; a hierarquia indica o assunto rapidamente.",
+  "Os frames de vista aérea trazem linhas e rótulos amarelos ligados a pontos específicos, localizando o que a narração menciona.",
+  "A passagem das vistas externas para um interior oferece mudança clara de escala e de ambiente.",
+  "A cartela preta final reduz a quantidade de elementos após as cenas abertas e concentra a atenção na identificação."
+ ],
+ "quando_usar": "Para produtos físicos, imóveis, veículos e móveis com detalhes que possam ser mostrados em uso. Use no meio do funil, quando o público precisa examinar características antes de pedir informações.",
+ "roteiro_modelo": "[Característica concreta] merece atenção na hora de escolher [categoria].\n\n[Pausa curta / corte]\n\nOlhe para [detalhe um]. Ele ajuda em [uso específico] porque [explicação verificável].\n\n[Pausa curta / corte]\n\nAqui está [detalhe dois]. No dia a dia, isso permite [ação observável].\n\n[Pausa curta / corte]\n\nO [produto] reúne esses recursos em [configuração]. Veja como fica durante [situação de uso].\n\n[Pausa curta / corte]\n\nAntes de escolher, confira [medida ou especificação] e compare com [necessidade concreta].\n\n[Pausa curta / corte]\n\nToque no botão para ver os detalhes de [produto] e consultar [informação de compra].",
+ "tomadas_celular": [
+  "Plano geral de [produto] no ambiente de uso, câmera traseira vertical e luz natural lateral; 6s com movimento lento.",
+  "Detalhe de [característica um], câmera firme e luz de janela sem reflexo; 7s.",
+  "Detalhe de [característica dois], aproximação lenta, luz difusa; 7s.",
+  "Mãos usando [produto] ou percurso em primeira pessoa pelo espaço, sem rosto, luz ambiente uniforme; 8s.",
+  "Medida, acabamento ou painel real, plano fechado, luz lateral suave; 7s.",
+  "Plano limpo para encerramento, produto central com espaço para texto, luz frontal difusa; 5s."
+ ],
+ "caminho_ia": "Faça a narração com voz sintética ou voz clonada autorizada. Use Sora ou Kling para cenas ilustrativas e CapCut para rótulos amarelos, legendas brancas e cartela final. Prompts: \"Vertical 9:16 wide establishing shot of [product] in [use environment], natural daylight, slow handheld forward movement, 6 seconds, no faces, no logos, no text.\" e \"Vertical 9:16 macro detail shot of [product feature], soft side light, shallow depth of field, slow lateral camera slide, 6 seconds, no text.\" Preserve características reais; use fotos autorizadas em slideshow quando a geração alterar o produto. Não simule localização, medidas ou acabamento como prova.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 39s de narração em off, sem apresentador visível. Use b-roll em tela cheia trocando por frase: contexto, dois detalhes, uso, critério de escolha e CTA. Texto amarelo para palavras principais e rótulos com linhas; legendas brancas curtas. Alterne geral e detalhe; drone é opcional, substituível por plano do celular. A referência tem apresentador, mas nesta adaptação substitua os trechos dele por imagens do produto. Não copie localização, nomes, condição comercial ou previsão de valorização da referência. Use pt-BR falado, frases curtas e colchetes onde faltar informação. Não copie marcas, pessoas, nomes de clientes, contatos ou falas da referência. Evite antítese vazia, tríades decorativas, perguntas de enfeite e promessas sem prova. Use somente informações fornecidas e indique dados que precisam de comprovação. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [produto] em [situação de uso]. Confira [especificação relevante] antes de escolher. Detalhes e [informação de compra] no botão.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-f86375e7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tela-cheia-com-imagens-na-fala/frames/f1.jpg",
+    "videos/vid-tela-cheia-com-imagens-na-fala/frames/f2.jpg",
+    "videos/vid-tela-cheia-com-imagens-na-fala/frames/f3.jpg",
+    "videos/vid-tela-cheia-com-imagens-na-fala/frames/f4.jpg",
+    "videos/vid-tela-cheia-com-imagens-na-fala/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

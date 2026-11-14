@@ -1,0 +1,95 @@
+{
+ "id": "vid-cartoes-escolha-agenda",
+ "tipo": "video",
+ "titulo": "Textos animados com cartões: escolha, agendamento e download",
+ "formato_video": "motion-texto",
+ "nichos": [
+  "saude",
+  "saas-b2b",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "22s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Escolha [opção] conforme [critério relevante].",
+  "texto_tela": "Escolha por [critério]",
+  "visual": "Cartela vertical com fundo de uma só cor, textura discreta e frase branca grande no centro; identificação pequena no topo."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Cartela com frase central; use cor própria e textura discreta de ícones.",
+   "fala": "Escolha [opção] conforme [critério relevante].",
+   "texto_tela": "Escolha por [critério]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "A frase sobe; entram botões arredondados com duas opções de filtro.",
+   "fala": "Em [produto], você filtra por [categoria disponível].",
+   "texto_tela": "[Filtro A]  [Filtro B]"
+  },
+  {
+   "tempo": "8-12s",
+   "cena": "Substitua filtros por cartões com ícones ou avatares genéricos.",
+   "fala": "Compare [opções disponíveis] e confira [informação útil].",
+   "texto_tela": "Compare [opções]"
+  },
+  {
+   "tempo": "12-17s",
+   "cena": "Cartão maior central com opções de horário ou de entrega, conforme função real.",
+   "fala": "Selecione [opção] e confirme [horário ou etapa seguinte].",
+   "texto_tela": "[Opção] • [horário ou etapa]"
+  },
+  {
+   "tempo": "17-22s",
+   "cena": "Retire o cartão; deixe frase curta e CTA abaixo da identificação.",
+   "fala": "Acesse [produto] em [canal] para começar.",
+   "texto_tela": "Acesse [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "O fundo roxo mantém a mesma textura discreta enquanto as frases brancas mudam.",
+  "Os filtros arredondados tornam visível o critério de escolha mencionado na fala.",
+  "Os avatares circulares apresentam as opções antes do cartão maior com horários.",
+  "A última tela troca o cartão por uma frase central e uma instrução de acesso abaixo."
+ ],
+ "quando_usar": "Para apps e serviços com catálogo, filtros e uma etapa clara de confirmação. Use no meio do funil para mostrar a sequência de escolha sem exigir uma gravação de tela inteira.",
+ "roteiro_modelo": "Escolha [opção] conforme [critério relevante].\n\n[Pausa curta / corte]\n\nEm [produto], você filtra por [categoria disponível].\n\n[Pausa curta / corte]\n\nCompare [opções disponíveis] e confira [informação útil].\n\n[Pausa curta / corte]\n\nSelecione [opção] e confirme [horário ou etapa seguinte].\n\n[Pausa curta / corte]\n\nAcesse [produto] em [canal] para começar.",
+ "tomadas_celular": [
+  "Base de 4s: filme superfície lisa em plano frontal, celular em tripé e luz uniforme; insira a frase na edição.",
+  "Filtros de 4s: filme cartões de papel com [filtros] vistos de cima, janela lateral e câmera fixa; deslize um por vez.",
+  "Opções de 4s: mostre cartões com ícones genéricos em plano superior, mesma luz; alinhe duas opções.",
+  "Confirmação de 5s: detalhe de um cartão com [opção] e [horário ou etapa], luz difusa; a mão aponta a seleção.",
+  "Fecho de 5s: volte à superfície lisa, câmera fixa e luz uniforme; aplique nome e CTA no CapCut."
+ ],
+ "caminho_ia": "Monte sem filmagem no CapCut com tipografia, formas vetoriais e imagens geradas. Use Runway apenas para bases sem texto: \"Vertical 9:16 abstract flat motion graphics background in [brand color], subtle low-contrast outline icons related to [product category], clean center negative space, static camera, four seconds, no letters, no logos.\" E: \"Vertical 9:16 clean UI motion mockup, rounded translucent option cards sliding gently into the center over [brand color], generic circular illustrations, ample negative space, locked camera, five seconds, no readable text, no logos.\" Insira filtros, horários e CTA manualmente para garantir legibilidade. Narre com voz sintética pt-BR ou voz clonada com autorização. Use mockups ilustrativos sem inventar opções ou funções.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato; adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 22s em cinco blocos: 0-4 frase de escolha, 4-8 filtros, 8-12 cartões de opções, 12-17 confirmação e 17-22 acesso. Fundo na cor do meu produto, textura discreta, tipografia branca grande, filtros arredondados, ícones ou avatares e cartão central. Planeje entradas simples entre blocos, com tempo de leitura. Narração direta sincronizada com cada elemento. Não copie o roxo exato, os nomes, os avatares, a interface, as falas nem a marca da referência. Só use filtros e funções existentes. Se não houver agenda, mostre a etapa real de contratação ou uso. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltarem dados. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não copie marcas, pessoas, contatos ou textos da referência. Não invente oferta, função ou resultado. Em saúde, não atribua condição pessoal ao espectador nem prometa resultado.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Escolha [opção] por [critério]. No [produto], você confere [informação útil] antes de confirmar [próxima etapa]. Acesse em [canal].",
+ "alerta_politica": "Meta: não atribua ao espectador condição de saúde física ou mental; fale da situação e do serviço sem diagnóstico presumido. Sem antes/depois de corpo nem promessa de resultado de saúde. Em publicidade médica, siga a Resolução CFM 2.336/2023, com identificação profissional e sem garantia de resultado (https://publicidademedica.cfm.org.br/resolucao/o-que-muda). Para psicologia, respeite as regras do CFP e o sigilo. Se houver produto sujeito à ANVISA, use apenas alegações e indicações autorizadas.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-555e00ad",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-cartoes-escolha-agenda/frames/f1.jpg",
+    "videos/vid-cartoes-escolha-agenda/frames/f2.jpg",
+    "videos/vid-cartoes-escolha-agenda/frames/f3.jpg",
+    "videos/vid-cartoes-escolha-agenda/frames/f4.jpg",
+    "videos/vid-cartoes-escolha-agenda/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-fbf21d14",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

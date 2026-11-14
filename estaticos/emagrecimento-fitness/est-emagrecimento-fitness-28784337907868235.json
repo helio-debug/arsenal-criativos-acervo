@@ -1,0 +1,36 @@
+{
+  "id": "est-emagrecimento-fitness-28784337907868235",
+  "tipo": "estatico",
+  "titulo": "Esteira em destaque com três especificações",
+  "formato": "Produto em destaque",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Esteira fotografada em ambiente escuro com luz laranja. Uma chamada grande no topo acompanha três caixas de especificações à direita e um botão na base.",
+  "por_que_funciona": [
+    "A esteira ocupa a metade inferior e permite reconhecer o produto de imediato.",
+    "As três caixas isolam velocidade, inclinação e potência para facilitar a comparação.",
+    "O laranja destaca a frase principal, os ícones e o botão sobre o fundo escuro."
+  ],
+  "quando_usar": "Para divulgar equipamentos de treino a quem está comparando recursos para uso doméstico.",
+  "estrutura_texto": "[Chamada sobre limite de desempenho]\nAté [velocidade]\n[Quantidade] níveis de [recurso]\nMotor de [potência]\n[CTA]",
+  "legenda": "Treine em casa com [produto]. Confira [velocidade], [níveis de inclinação] e [potência], além de [outros recursos comprovados]. Veja os detalhes em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cenário doméstico sofisticado, piso de madeira e iluminação laranja. Posicione o equipamento em perspectiva na metade inferior, chamada branca e laranja no topo, três caixas técnicas com ícones à direita e botão laranja na base. Use apenas especificações fornecidas.",
+  "alerta_politica": "Meta: evite associar o equipamento a vergonha corporal ou prometer emagrecimento e resultados físicos garantidos. Comprove especificações e alegações de desempenho.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28784337907868235",
+    "anunciante": "MEGAGYM",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 1,
+    "texto_original": "🏃♀️ Corra mais. Evolua mais. Sem sair de casa!\n\nA SMART PACE MAX foi feita para quem quer transformar a rotina de treinos com mais potência, intensidade e tecnologia:\n\n✅ Velocidade de até 18 km/h para caminhadas e corridas mais intensas\n✅ Motor de 3,0 HP de pico para acompanhar sua evolução\n✅ 20 níveis de inclinação automática para variar o estímulo\n✅ Bluetooth compatível com MyWhoosh, Zwift e Kinomap\n✅ Área de corrida de 130 x 47 cm para mais liberdade nos treinos\n✅ Sistema de absorção de impacto e lona com 7 camadas\n✅ Sistema hidráulico de dobragem para otimizar o espaço\n\nVocê pode começar com uma caminhada, aumentar o ritmo, encarar subidas e evoluir para treinos de corrida — tudo no conforto da sua casa. 🔥\n\n💳 Até 15x sem juros\n🚚 Frete grátis em 12 estados\n\nGaranta sua SMART PACE MAX e leve sua corrida para outro nível!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-28784337907868235.jpg"
+}

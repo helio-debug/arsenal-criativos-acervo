@@ -1,0 +1,103 @@
+{
+ "id": "vid-historia-de-personagem-que-virou-licao",
+ "tipo": "video",
+ "titulo": "História de um personagem real que vira lição de negócio",
+ "formato_video": "storytime",
+ "nichos": [
+  "mentoria-high-ticket",
+  "infoproduto-cursos",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "duracao": "60-75s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Uma [pessoa descrita pela função] enfrentava [problema concreto]. A decisão dela mudou [processo observável].",
+  "texto_tela": "[Personagem]: [problema]",
+  "visual": "Apresentador em plano próximo, olhar na lente e legenda branca em negrito; foto autorizada do personagem entra na metade superior."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Apresentador em plano próximo, persiana ou fundo neutro e luz quente. Legenda branca curta.",
+   "fala": "Uma [pessoa descrita pela função] enfrentava [problema concreto]. A decisão dela mudou [processo observável].",
+   "texto_tela": "[Personagem]: [problema]"
+  },
+  {
+   "tempo": "7-18s",
+   "cena": "Foto autorizada na metade superior; narrador permanece embaixo, como na referência.",
+   "fala": "Naquele momento, [contexto comprovado]. O trabalho funcionava assim: [rotina anterior]. Foi nessa rotina que apareceu [obstáculo].",
+   "texto_tela": "[Contexto do caso]"
+  },
+  {
+   "tempo": "18-30s",
+   "cena": "Alternar foto de contexto e close do apresentador; destacar uma palavra por trecho de fala.",
+   "fala": "Ela decidiu [ação documentada]. Para colocar isso em prática, definiu [responsável ou regra] e começou por [primeiro passo].",
+   "texto_tela": "Decisão: [ação]"
+  },
+  {
+   "tempo": "30-43s",
+   "cena": "Imagem autorizada do processo ou objeto relacionado no alto; narrador aponta o detalhe.",
+   "fala": "O registro do caso mostra [resultado comprovado]. Esse resultado veio sob [condição relevante]. O que dá para observar é [mudança concreta no processo].",
+   "texto_tela": "[Resultado] • [condição]"
+  },
+  {
+   "tempo": "43-57s",
+   "cena": "Retorno ao apresentador em quadro inteiro; pequeno corte de aproximação na aplicação.",
+   "fala": "Para quem trabalha com [situação do comprador], vale observar [princípio ligado à decisão]. Antes de repetir a ação, confira se existe [condição necessária].",
+   "texto_tela": "Aplicação: [princípio]"
+  },
+  {
+   "tempo": "57-67s",
+   "cena": "Close de folha com um passo aplicável; voltar ao plano médio.",
+   "fala": "Um começo possível é [ação pequena]. Em [produto], esse ponto aparece em [parte da entrega]. É o trecho que ajuda a organizar [tarefa].",
+   "texto_tela": "Comece por [ação]"
+  },
+  {
+   "tempo": "67-75s",
+   "cena": "Apresentador fecha com a referência factual numa cartela, sem dados pessoais.",
+   "fala": "Salve este caso para revisar [processo]. A fonte está em [referência pública autorizada].",
+   "texto_tela": "Salve para revisar [processo]"
+  }
+ ],
+ "por_que_funciona": [
+  "A apresentadora mantém contato com a câmera enquanto as imagens históricas ocupam a metade superior; a explicação continua durante os apoios.",
+  "Fotos em preto e branco marcam o contexto histórico, separando o relato do comentário atual.",
+  "As palavras brancas em negrito ficam próximas ao centro inferior e acompanham os pontos da fala.",
+  "O retorno ao quadro inteiro da apresentadora abre espaço para passar da história à aplicação prática."
+ ],
+ "quando_usar": "Para quem vende formação ou orientação e dispõe de um caso real documentado. Use para apresentar um critério de trabalho antes de explicar a própria oferta.",
+ "roteiro_modelo": "Uma [pessoa descrita pela função] enfrentava [problema concreto]. A decisão dela mudou [processo observável].\n\n[pausa curta; corte]\n\nNaquele momento, [contexto comprovado]. O trabalho funcionava assim: [rotina anterior]. Foi nessa rotina que apareceu [obstáculo].\n\n[pausa curta; corte]\n\nEla decidiu [ação documentada]. Para colocar isso em prática, definiu [responsável ou regra] e começou por [primeiro passo].\n\n[pausa curta; corte]\n\nO registro do caso mostra [resultado comprovado]. Esse resultado veio sob [condição relevante]. O que dá para observar é [mudança concreta no processo].\n\n[pausa curta; corte]\n\nPara quem trabalha com [situação do comprador], vale observar [princípio ligado à decisão]. Antes de repetir a ação, confira se existe [condição necessária].\n\n[pausa curta; corte]\n\nUm começo possível é [ação pequena]. Em [produto], esse ponto aparece em [parte da entrega]. É o trecho que ajuda a organizar [tarefa].\n\n[pausa curta; corte]\n\nSalve este caso para revisar [processo]. A fonte está em [referência pública autorizada].",
+ "tomadas_celular": [
+  "Apresentador em plano próximo, celular na altura dos olhos e janela lateral suave, 8s.",
+  "Apresentador em plano médio no mesmo cenário, fundo neutro, 12s para contextualizar.",
+  "Mãos organizando papéis genéricos em plano superior, luz difusa, 8s; usar como apoio ilustrativo identificado.",
+  "Objeto ligado ao processo em close, luz lateral, 8s.",
+  "Apresentador em plano próximo com espaço acima para imagem autorizada, mesma luz, 15s.",
+  "Folha com ação prática em detalhe, luz de janela, 6s.",
+  "Fecho em plano médio, luz constante, 8s; reservar 3s para a fonte."
+ ],
+ "caminho_ia": "Use avatar original e voz sintética licenciada para a narração. Gere apoios ilustrativos no Sora ou Runway e monte a faixa superior no CapCut. Prompts: \"Vertical 9:16, illustrative archival-style scene of [professional role] reviewing [work process] in [period], monochrome, subtle film grain, slow pan, six seconds, no identifiable real person, no logos.\" e \"Vertical 9:16, close-up of hands organizing [process materials] on a desk, warm soft light, locked camera, seven seconds, no readable text.\" Identifique as cenas como ilustrações. Use documentos autorizados para sustentar o caso; não gere retratos de uma pessoa real nem apresente reconstituição como arquivo histórico.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nRelate um caso real sem expor nomes: personagem e problema em 0-7s; contexto em 7-18s; decisão em 18-30s; resultado documentado e limites em 30-43s; princípio aplicável em 43-57s; primeiro passo e ponte para o produto em 57-67s; convite para salvar em 67-75s. Tom de conversa profissional. Alterne apresentador e imagens autorizadas na metade superior. Use palavras brancas em negrito, sem excesso de texto. Não copie pessoa, empresa, fatos, logotipos ou frases do caso da referência. Solicite um caso documentado e suas fontes se não forem fornecidos. Não invente resultados nem atribua causalidade sem evidência. Descreva personagens pela função; diferencie arquivo real de ilustração. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Use apenas fatos fornecidos. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e fechos de efeito. Não exponha nomes, pessoas, marcas ou contatos da referência.\n\nEntregue o roteiro falado completo no formato descrito, com tempos por bloco, a legenda do post e um prompt de cena em inglês técnico de vídeo por bloco da estrutura.",
+ "legenda": "Uma [pessoa descrita pela função] mudou [processo] ao decidir [ação]. O caso ajuda a revisar [critério aplicável], considerando [limite]. Salve para usar na próxima revisão de [tarefa].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-1a9afd31",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-historia-de-personagem-que-virou-licao/frames/f1.jpg",
+    "videos/vid-historia-de-personagem-que-virou-licao/frames/f2.jpg",
+    "videos/vid-historia-de-personagem-que-virou-licao/frames/f3.jpg",
+    "videos/vid-historia-de-personagem-que-virou-licao/frames/f4.jpg",
+    "videos/vid-historia-de-personagem-que-virou-licao/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

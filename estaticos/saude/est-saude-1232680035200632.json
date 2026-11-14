@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1232680035200632",
+  "tipo": "estatico",
+  "titulo": "Manchete de saúde de atleta sobre fotografia",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fotografia de atleta com mochila serve de fundo para uma manchete sobre diagnóstico e afastamento. Uma identificação editorial aparece no topo e a categoria fica acima do título.",
+  "por_que_funciona": [
+    "O rosto em grande escala torna o personagem o foco visual da notícia.",
+    "A manchete branca em caixa alta ocupa uma faixa de leitura bem definida.",
+    "A barra vermelha à esquerda sinaliza o início do bloco principal.",
+    "O degradê escuro aumenta a legibilidade do texto sobre a fotografia."
+  ],
+  "quando_usar": "Para conteúdo editorial de saúde com fato verificado, data e fonte; a peça não oferece treino ou consultoria.",
+  "estrutura_texto": "[IDENTIFICAÇÃO EDITORIAL]\n[CATEGORIA]\n[PESSOA] É DIAGNOSTICADA COM [CONDIÇÃO] E [CONSEQUÊNCIA CONFIRMADA]\n[SITE]",
+  "legenda": "[Pessoa] recebeu diagnóstico de [condição], conforme [fonte] em [data]. Segundo [fonte], [atualização confirmada]. Leia a notícia completa em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie um card editorial com fotografia autorizada da IMAGEM 2 ao fundo, identificação editorial genérica no topo, pequeno ícone de categoria e manchete branca em negrito na metade inferior. Aplique degradê preto e uma barra vertical vermelha junto ao título. Use apenas informações verificadas e não apresente o retratado como endossante de produto.",
+  "alerta_politica": "Informação de saúde deve ter fonte e contexto verificáveis. Não transforme diagnóstico de terceiro em alegação sobre o público nem use sua imagem para sugerir endosso comercial.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1232680035200632",
+    "anunciante": "Roberta Jungmann",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-07",
+    "dias_no_ar": 525,
+    "variacoes_ativas": 1,
+    "texto_original": "Neymar foi diagnosticado com covid-19. Segundo o Santos, o quadro viral do atleta foi iniciado na quinta-feira (5).\n\nAinda segundo o clube, o atleta está afastado das atividades desde o início dos sintomas e segue em repousa na sua casa, em tratamento sintomático, por determinação médica.\nPor isso, Neymar não participou do jogo-treino entre Santos e Portuguesa Santista, na manhã deste sábado (7), no CT Rei Pelé.\n.\n.\n#neymar #atleta #covid #robertajungmann",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1232680035200632.jpg"
+}

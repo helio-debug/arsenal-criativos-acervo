@@ -1,0 +1,96 @@
+{
+ "id": "vid-arquitetura-curiosa-tendencia",
+ "titulo": "Selfie no local alterna com detalhes de uma construção para explicar uma tendência",
+ "formato_video": "broll-voiceover",
+ "nichos": [
+  "imoveis",
+  "moveis-decoracao",
+  "marketing-trafego",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "50-55s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Olha [objeto ou situação concreta]. Repara em [detalhe visível]. Esse detalhe muda [uso ou experiência].",
+  "texto_tela": "[Objeto] com [detalhe visível]",
+  "visual": "Plano aberto externo de construção incomum junto à água, vegetação em níveis e legenda branca com contorno escuro na base."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Plano aberto externo de construção incomum junto à água, vegetação em níveis e legenda branca com contorno escuro na base.",
+   "fala": "Olha [objeto ou situação concreta]. Repara em [detalhe visível]. Esse detalhe muda [uso ou experiência].",
+   "texto_tela": "[Objeto] com [detalhe visível]"
+  },
+  {
+   "tempo": "6-14s",
+   "cena": "Selfie em plano de peito, apresentador segura microfone pequeno; cenário amplo atrás.",
+   "fala": "Eu estou em [local ou contexto] para entender uma escolha: [decisão observável]. Dá para ver o efeito em [parte do objeto].",
+   "texto_tela": "[Decisão observável]"
+  },
+  {
+   "tempo": "14-23s",
+   "cena": "Corte para detalhe do objeto; aproximar de uma peça, acabamento ou função que sustenta a explicação.",
+   "fala": "Aqui, [elemento] foi feito para [função]. Segundo [fonte a conferir], [dado verificável]. Isso ajuda a explicar [efeito concreto].",
+   "texto_tela": "[Dado verificado e fonte]"
+  },
+  {
+   "tempo": "23-33s",
+   "cena": "Volta à selfie no mesmo ponto, com gesto direcionado ao entorno.",
+   "fala": "Esse exemplo conversa com uma mudança em [mercado ou comportamento]. Quando [mudança concreta], [critério de escolha] passa a pesar na decisão.",
+   "texto_tela": "[Mudança concreta]"
+  },
+  {
+   "tempo": "33-43s",
+   "cena": "Cena de apoio de pessoa executando ação cotidiana relacionada ao tema; referência mostra entregador de costas.",
+   "fala": "Veja [ação cotidiana]. A pessoa consegue [alternativa disponível]. Para escolher [categoria do produto], ela precisa encontrar [motivo observável].",
+   "texto_tela": "[Alternativa] e [critério de escolha]"
+  },
+  {
+   "tempo": "43-54s",
+   "cena": "Fechar com detalhe externo do objeto; legenda curta sobre a imagem.",
+   "fala": "No meu trabalho com [tema do produto], eu uso esse exemplo para avaliar [critério prático]. Conta nos comentários um caso em que [mudança específica] já apareceu no seu dia a dia.",
+   "texto_tela": "Comente um exemplo de [mudança]"
+  }
+ ],
+ "por_que_funciona": [
+  "O plano aberto mostra a construção e sua vegetação antes de a fala explicar o detalhe.",
+  "A selfie com microfone pequeno mantém o apresentador ligado ao local que comenta.",
+  "A imagem do entregador muda a escala da conversa: do edifício para um hábito cotidiano citado na fala.",
+  "O retorno aos detalhes da fachada dá uma imagem concreta para acompanhar a conclusão sobre experiência."
+ ],
+ "quando_usar": "Para quem ensina ou comenta escolhas de projeto, comportamento e mercado. Use no topo do funil para ligar uma observação visual ao assunto do seu produto, sem depender de uma oferta direta.",
+ "roteiro_modelo": "Olha [objeto ou situação concreta]. Repara em [detalhe visível]. Esse detalhe muda [uso ou experiência].\n\n[pausa curta; corte]\n\nEu estou em [local ou contexto] para entender uma escolha: [decisão observável]. Dá para ver o efeito em [parte do objeto].\n\n[pausa curta; corte]\n\nAqui, [elemento] foi feito para [função]. Segundo [fonte a conferir], [dado verificável]. Isso ajuda a explicar [efeito concreto].\n\n[pausa curta; corte]\n\nEsse exemplo conversa com uma mudança em [mercado ou comportamento]. Quando [mudança concreta], [critério de escolha] passa a pesar na decisão.\n\n[pausa curta; corte]\n\nVeja [ação cotidiana]. A pessoa consegue [alternativa disponível]. Para escolher [categoria do produto], ela precisa encontrar [motivo observável].\n\n[pausa curta; corte]\n\nNo meu trabalho com [tema do produto], eu uso esse exemplo para avaliar [critério prático]. Conta nos comentários um caso em que [mudança específica] já apareceu no seu dia a dia.",
+ "tomadas_celular": [
+  "Abertura: 6s de plano aberto do objeto ou ambiente escolhido, luz natural e movimento lateral lento.",
+  "Selfie: 8s de plano de peito, rosto voltado à sombra clara, cenário visível e celular na altura dos olhos.",
+  "Detalhe: 9s de plano próximo de uma parte funcional, luz lateral suave e foco travado.",
+  "Explicação: 10s de selfie no mesmo ponto, luz uniforme e gesto indicando o objeto.",
+  "Hábito: 10s de plano médio de uma ação relacionada, luz natural; filme alguém autorizado sem identificação de terceiros.",
+  "Fecho: 11s de detalhe ou plano geral do objeto, luz natural e celular apoiado; use duas tomadas curtas na edição."
+ ],
+ "caminho_ia": "Sem gravar, crie um exemplo visual ilustrativo no Sora, use avatar para os trechos de apresentador e voz sintética ou clonada autorizada. Monte no CapCut com legendas brancas de contorno escuro. Não apresente cenário gerado como visita real nem use dado técnico sem fonte; troque a fala presencial por uma observação do exemplo. Prompts de cena: \"Vertical 9:16 wide establishing shot of [product-related environment] featuring [distinct visible design detail], slow lateral camera move, natural daylight, realistic materials, no signage, illustrative concept, 6 seconds.\" \"Vertical 9:16 macro-to-medium detail shot of [product feature] during [everyday use], slow controlled push-in, soft side lighting, shallow depth of field, physically plausible movement, no logos, 9 seconds.\"",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use o conteúdo do meu produto para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie análise visual de 54s em seis blocos: 0-6 objeto curioso, 6-14 apresentador no contexto, 14-23 detalhe e dado verificável, 23-33 mudança de comportamento, 33-43 ação cotidiana que exemplifica a mudança, 43-54 aplicação prática e pedido de exemplo nos comentários. Alterne selfie e cenas de apoio. Use legenda branca com contorno escuro, até duas linhas, e tom de observação direta. O objeto pode ser espaço, recurso, material ou situação relacionado ao meu produto. Não replique o edifício, as cidades, o autor do projeto ou a tese absoluta da referência. Se o caso for gerado, declare que é ilustrativo e não alegue visita. Use pt-BR falado, frases curtas e dados verificáveis. Não copie nomes, pessoas, marcas, locais identificáveis, valores nem frases da referência. Não invente depoimentos, resultados ou credenciais. Evite antíteses vazias, perguntas decorativas e superlativos sem prova. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Detalhe observado] ajuda a entender [mudança concreta]. No trabalho com [tema], vale observar [critério prático]. Conte um exemplo que você já encontrou.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-e20b4878",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-arquitetura-curiosa-tendencia/frames/f1.jpg",
+    "videos/vid-arquitetura-curiosa-tendencia/frames/f2.jpg",
+    "videos/vid-arquitetura-curiosa-tendencia/frames/f3.jpg",
+    "videos/vid-arquitetura-curiosa-tendencia/frames/f4.jpg",
+    "videos/vid-arquitetura-curiosa-tendencia/frames/f5.jpg"
+   ]
+  }
+ ]
+}

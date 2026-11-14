@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1153975976831328",
+  "tipo": "estatico",
+  "titulo": "Curso com lista de aulas, certificados e preço",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte rosa com título em faixa, duas fotos circulares de sobrancelhas e lista de conteúdos com marcadores verdes. O preço e a urgência aparecem à direita, acima de duas miniaturas de certificados.",
+  "por_que_funciona": [
+    "A faixa superior informa de imediato a habilidade ensinada.",
+    "As fotos circulares mostram o tipo de trabalho abordado no curso.",
+    "Os marcadores verdes organizam os conteúdos em uma lista escaneável.",
+    "O preço em bloco magenta e os certificados concentram os argumentos de compra na base."
+  ],
+  "quando_usar": "Para vender curso prático de entrada com conteúdo, certificação e preço definidos.",
+  "estrutura_texto": "[habilidade]\nCURSO ONLINE\n[certificados]\n[quantidade de aulas]\n[tipo de acesso]\n[lista de conteúdos]\n[prazo real]\nPOR APENAS [preço]\n[certificados]",
+  "legenda": "Aprenda [habilidade] com [quantidade de aulas] e [tipo de acesso]. O curso inclui [conteúdos] e [certificação]. Inscreva-se por [preço] até [prazo real] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo rosa, faixas magenta e título branco. Recorte detalhes da IMAGEM 2 em dois círculos com borda branca. Disponha lista de conteúdos à esquerda com marcadores verdes e bloco de preço à direita. Na base, inclua representações de certificados somente se fornecidos. Informe apenas prazo, preço e certificação reais.",
+  "alerta_politica": "Na divulgação de formação em estética, não prometa resultados garantidos nem habilitação profissional que o certificado não conceda. Use prazo e desconto verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1153975976831328",
+    "anunciante": "Fazendo Sobrancelhas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-27",
+    "dias_no_ar": 201,
+    "variacoes_ativas": 2,
+    "texto_original": "Curso Designer de Sobrancelhas com certificado 🎓\n92% de desconto HOJE!\n👉 Clique em 'Saiba Mais' e garanta sua vaga agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1153975976831328.jpg"
+}

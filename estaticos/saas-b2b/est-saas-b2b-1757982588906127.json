@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1757982588906127",
+  "tipo": "estatico",
+  "titulo": "Percentual gigante de ganho operacional",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo azul intenso com marca branca no alto, faixa translúcida indicando o canal de contratação e percentual verde muito grande no centro. A frase branca abaixo explica o ganho de agilidade em seleção.",
+  "por_que_funciona": [
+    "O percentual verde ocupa a maior área tipográfica e captura a atenção.",
+    "A frase abaixo especifica a métrica: agilidade no processo seletivo.",
+    "A faixa com ícone do canal contextualiza como o serviço é usado.",
+    "O fundo azul uniforme mantém a leitura concentrada em uma única mensagem."
+  ],
+  "quando_usar": "Para divulgar um benefício mensurado de software a equipes de recrutamento.",
+  "estrutura_texto": "[Marca]\n[Realize a tarefa] via [canal] com\n[Percentual]\nmais [benefício operacional]\nem [processo]",
+  "legenda": "Da [etapa inicial] à [etapa seguinte], gerencie [processo] pelo [canal]. Agende uma demonstração de [solução] e conheça os recursos para [equipe].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul intenso com leve variação de luminosidade, identificação própria pequena no alto e uma faixa translúcida arredondada com canal e ícone autorizado. Centralize um percentual gigante verde-lima, seguido de benefício branco em negrito e complemento menor. Use a IMAGEM 2 apenas como identificação do produto, sem competir com o número. Só exiba percentual fornecido e comprovado, com espaço para base de comparação e fonte.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1757982588906127",
+    "anunciante": "Gupy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 2,
+    "texto_original": "Smart Vagas: Da Candidatura à Pré-entrevista, tudo no WhatsApp\nAgende uma demonstração!",
+    "origem_coleta": "acervo:mapa-hds"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1757982588906127.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-825366580221313",
+  "tipo": "estatico",
+  "titulo": "Lista de especializações com prazo e mensalidade",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo preto com título amarelo e lista branca de cinco pós-graduações e cargas horárias. Mensalidade e prazo ficam no rodapé, ao lado de uma ilustração de profissionais do esporte.",
+  "por_que_funciona": [
+    "O título amarelo identifica a área de formação no primeiro bloco.",
+    "Os marcadores organizam cursos e cargas horárias em uma coluna.",
+    "A caixa amarela isola o preço na base da composição.",
+    "O selo no alto oferece um sinal visual de credenciamento a ser verificado."
+  ],
+  "quando_usar": "Para divulgar um catálogo de especializações a pessoas graduadas na área.",
+  "estrutura_texto": "Pós-Graduação [MODALIDADE]\n[ÁREA]\n[INFORMAÇÃO DE CREDENCIAMENTO]\n• [CURSO E CARGA HORÁRIA]\nConclusão em [PRAZO]\nApenas [PREÇO]/mês",
+  "legenda": "Para quem já é graduado: especialize-se em [área] com cursos [modalidade], duração mínima de [prazo] e mensalidades de [preço]. Consulte [cursos], requisitos e condições de matrícula.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, título amarelo no topo e lista branca de cinco cursos com cargas horárias à esquerda. Reserve o rodapé para prazo, caixa amarela de preço e ilustração original de pessoas ligadas à área. Insira selo apenas se houver comprovação da informação de credenciamento; não reproduza selo oficial indevidamente.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "825366580221313",
+    "anunciante": "Faveni Ensino a Distância",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-14",
+    "dias_no_ar": 184,
+    "variacoes_ativas": 1,
+    "texto_original": "Conquiste o seu título de especialista na área da EDUCAÇÃO FÍSICA por apenas R$89,90/mês com os cursos de PÓS-GRADUAÇÃO EAD da Faculdade Faveni!\n\n✅ Nota MÁXIMA no MEC;\n✅ 100% Online com duração mínima de 6 meses;\n✅ Vários cursos na área;\n\nMas CORRA: são as últimas vagas com esse super desconto!\nWHATSAPP\nPara GRADUADOS\nTCC Opcional",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-825366580221313.jpg"
+}

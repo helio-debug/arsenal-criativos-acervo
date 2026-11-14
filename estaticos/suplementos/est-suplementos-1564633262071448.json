@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1564633262071448",
+  "tipo": "estatico",
+  "titulo": "Embalagem isolada com sabor ilustrado no rótulo",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Uma embalagem flexível preta de whey aparece centralizada sobre fundo branco. O rótulo traz uma bola de sorvete de chocolate, a categoria, o sabor e o peso.",
+  "por_que_funciona": [
+    "O fundo branco concentra a atenção na embalagem.",
+    "A foto da bola de sorvete torna o sabor reconhecível.",
+    "A embalagem ocupa quase toda a altura e permite examinar o rótulo.",
+    "O contraste das letras brancas com o fundo preto destaca a categoria."
+  ],
+  "quando_usar": "Para catálogo, reconhecimento de embalagem ou apresentação de um sabor específico.",
+  "estrutura_texto": "[Marca]\n[Nome do produto e categoria]\n[Diferencial de composição]\nSabor [sabor]\n[Peso líquido]\n[Denominação do produto]",
+  "legenda": "Conheça [produto], um [categoria] no sabor [sabor], em embalagem de [peso]. Confira a composição, as informações nutricionais e as orientações de consumo em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Faça uma foto de catálogo com a embalagem da IMAGEM 2 centralizada, frontal, inteira e grande sobre fundo branco. Preserve fielmente o formato e o rótulo do produto fornecido, com iluminação uniforme e sombra muito suave. Não acrescente chamadas, benefícios ou ingredientes ausentes do produto. Se houver ilustração de sabor no rótulo, mantenha-a legível.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1564633262071448",
+    "anunciante": "Black Skull USA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-27",
+    "dias_no_ar": 171,
+    "variacoes_ativas": 1,
+    "texto_original": "A BLACKSKULL traz as MELHORES opções de creatina para você construir um shape de respeito! Sejam atletas avançados ou iniciantes, força, potência e explosão agora estão ao alcance com a mais alta tecnologia do mercado.\n\n  PRODUTOS HARDCORE PARA RESULTADOS REAIS:\nCREATOR 500g: 100% creatina monohidratada, micronizada e importada. Potência extrema por R$43,90!\n\nCREATINE TURBO: Creatina com carboidratos para turbinar a absorção e aumentar seu desempenho. A partir de R$24,90!\n\n🔗 VANTAGENS EXCLUSIVAS:\nCombos Creatina + Whey: Para construção de um shape de elite, com preços a partir de R$189,90.\n\n MAIS BENEFÍCIOS PARA VOCÊ:\n\n✅ PREÇO DE FÁBRICA diretamente na loja oficial.\n✅ FRETE GRÁTIS:\nCompras acima de R$149,00 no Sudeste e Sul.\nCompras acima de R$299,00 no restante do Brasil.\n✅ DESCONTO EXTRA: Use o cupom CAVEIRA10 e garanta 10% OFF agora mesmo!\n\n  Promoção válida por tempo limitado e enquanto durarem os estoques.\nResultado é coisa séria. Clique no link e leve sua performance ao próximo nível com BLACKSKULL!\n\n #CreatinaBlackSkull #ForçaHardcore #Creator500g",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1564633262071448.jpg"
+}

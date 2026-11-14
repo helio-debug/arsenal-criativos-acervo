@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3626210094183459",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com incentivo de participação",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo verde com bloco amarelo-limão, título no topo e quadro azul com atributos do curso. Uma caixa de som inteligente ocupa o lado direito e uma faixa amarela anuncia a chance de concorrer ao prêmio.",
+  "por_que_funciona": [
+    "O quadro azul reúne modalidade, gratuidade e certificado em linhas curtas.",
+    "A foto grande do prêmio destaca o incentivo de participação.",
+    "A expressão “concorra” indica chance de ganhar, sem afirmar prêmio garantido.",
+    "O rodapé traz uma instrução direta para começar pelo link."
+  ],
+  "quando_usar": "Para divulgar curso gratuito de empreendedorismo com promoção de participação regulamentada.",
+  "estrutura_texto": "[Chamada sobre empreendedorismo]\n[Faça o curso] [nome]\n[Online]\n[Gratuito]\n[Com certificado]\n[Concorra a prêmio]\n[Condição de participação]\n[Clique no link e comece]",
+  "legenda": "Aprenda sobre [temas de empreendedorismo] no curso [nome], online e gratuito. Ao concluir [condições], você poderá participar de [promoção], conforme [regulamento e período]. Acesse [link] para começar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde-turquesa com bloco amarelo-limão na lateral direita. Coloque título escuro e branco no alto, pequena ilustração de foguete, quadro azul à esquerda com três atributos do curso e foto do prêmio à direita. Sobreponha uma etiqueta amarela com a chamada da promoção e informe condições e acesso ao regulamento. Não prometa renda nem prêmio garantido.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3626210094183459",
+    "anunciante": "Sicoob União Centro Oeste",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-15",
+    "dias_no_ar": 303,
+    "variacoes_ativas": 1,
+    "texto_original": "Oportunidade!!\n\nRealize o curso Conexão Sicoob e desenvolva seu lado empreendedor! \n\nAprenda sobre inovação, desperte sua criatividade e transforme ideias em oportunidades\n\nSe você tem uma ideia, não espere o momento perfeito. Comece hoje, aprenda no caminho e transforme seu propósito em impacto! 💡\n\n Ao realizar o cadastro mencione a cooperativa que indicou: 3136-Sicoob União Centro-Oeste\nComece já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3626210094183459.jpg"
+}

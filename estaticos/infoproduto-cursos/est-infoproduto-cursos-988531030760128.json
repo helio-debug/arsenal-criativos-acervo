@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-988531030760128",
+  "tipo": "estatico",
+  "titulo": "Curso com preço único e lista de conteúdo",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Peça branca com ilustração de uma pessoa no computador e título azul. Preço e certificado aparecem acima de uma lista extensa dos assuntos do curso.",
+  "por_que_funciona": [
+    "O nome do curso em azul é o maior texto da peça e identifica a formação.",
+    "A linha de preço explicita o pagamento único.",
+    "A tarja preta dá contraste à informação sobre certificado.",
+    "A lista de assuntos permite avaliar o conteúdo antes do clique."
+  ],
+  "quando_usar": "Para vender um curso de entrada quando o programa e o preço são os principais critérios de escolha.",
+  "estrutura_texto": "curso [MODALIDADE]\n[NOME DO CURSO]\napenas [PREÇO] | [CONDIÇÃO DE PAGAMENTO]\ncom [CERTIFICADO]\nO curso inclui:\n[TÓPICOS DO PROGRAMA]\n→ E MUITO MAIS!",
+  "legenda": "Aprenda [área] no curso online de [nome]. O programa inclui [temas principais], com [tempo de acesso] e [certificado, se aplicável]. Investimento: [preço e condições]. Consulte o programa completo em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, pequena ilustração de estudo no topo e título azul grande centralizado. Abaixo, insira uma linha divisória preta, preço em negrito e uma tarja preta com texto branco para o certificado. Reserve a metade inferior para lista alinhada à esquerda, com encerramento azul.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "988531030760128",
+    "anunciante": "Desenvolve Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "⚠️ O que você precisa para se tornar um assistente fiscal que as empresas desejam está aqui!\n\n🔥 Curso online de Assistente Fiscal\n- Certificado de Conclusão Válido (lei 9.394/96)\n- Acesso Vitalício\n- Apenas R$ 57,00 (taxa única)\n\nAgora você vai descobrir o motivo das empresas estarem desesperadas pelos assistentes que formamos aqui.\n\n✅ O curso conta com:\nAulas em Vídeo Atualizadas\nAulas sobre Lucro Presumido, Lucro Real e Simples Nacional\nAulas sobre Tributação, SPED Fiscal e Escrita Fiscal\nMaterial complementar em PDF para você baixar\nConteúdos sobre Tributação, Contabilidade e Finanças\nEbook Especial de Carreira (que trabalhamos por 8 anos)\nAtualizações (quase que) semanais\nAcesso Vitalício\nGarantia de 7 Dias\n\n105.341 pessoas estudam conosco! E elas nos levaram a 99% de avaliações positivas\n\n👉🏽 Apenas R$ 57 e nada mais - sem mensalidades e sem pegadinhas\n\n🔐 Destrave o seu acesso aqui: www.desenvolvecursos.com/assistente-fiscal",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-988531030760128.jpg"
+}

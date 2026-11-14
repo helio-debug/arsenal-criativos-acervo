@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-934634363054202",
+  "tipo": "estatico",
+  "titulo": "Indicadores de segurança em composição hospitalar",
+  "formato": "Comunicado oficial",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Composição azul reúne profissional de saúde, quarto hospitalar e três faixas com indicadores de qualidade. Uma faixa inferior resume a mensagem de segurança ao paciente.",
+  "por_que_funciona": [
+    "As duas fotos mostram equipe e estrutura de atendimento.",
+    "As três faixas brancas tornam os indicadores fáceis de localizar.",
+    "O período de dois anos dá precisão temporal ao indicador apresentado.",
+    "O asterisco no rodapé explica a sigla usada na chamada."
+  ],
+  "quando_usar": "Para serviços hospitalares apresentarem indicadores documentados e protocolos de atendimento.",
+  "estrutura_texto": "[UNIDADE DE SAÚDE]\n[SETOR] de alta performance no [ESTABELECIMENTO]\n[CERTIFICAÇÃO]\n[INDICADOR E PERÍODO]\n[PROTOCOLO]\nIndicadores que representam [BENEFÍCIO ASSISTENCIAL].\n* [EXPLICAÇÃO DA SIGLA]",
+  "legenda": "Em [serviço], acompanhamos [indicadores] em [período]. Conheça [certificação verificável] e os protocolos adotados para [objetivo assistencial]. Saiba mais em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo azul escuro com textura discreta, identificação institucional no topo, bloco branco de chamada à esquerda e duas fotografias autorizadas da equipe e estrutura à direita. Sobreponha três faixas brancas com indicadores comprovados e finalize com faixa azul mais clara e nota explicativa pequena, mas legível. Use apenas dados fornecidos e verificáveis.",
+  "alerta_politica": "Observar as normas de publicidade médica do CFM e as regras Meta para saúde. Indicadores e certificações precisam de comprovação e contexto temporal; não garantir segurança absoluta ou resultado clínico. Usar imagens de pacientes e profissionais com autorização e identificação profissional quando exigida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "934634363054202",
+    "anunciante": "Hospital Moriah",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-02",
+    "dias_no_ar": 43,
+    "variacoes_ativas": 1,
+    "texto_original": "Quando falamos em UTI de alta performance, falamos de resultado acompanhado de perto todos os dias.\n\nNo Hospital Moriah, isso aparece em indicadores concretos, como o selo UTI Top Performer (certificação de excelência concedida pela Epimed Solutions e AMIB às Unidades de Terapia Intensiva brasileiras que atingem os melhores resultados clínicos e a maior eficiência no uso de recursos) e 2 anos sem casos de PAV (pneumonia associada à ventilação mecânica) em nossa UTI.\n\nPara o paciente e para a família, esses números significam menos risco de infecções graves, cuidado intensivo mais protegido e uma rotina conduzida por equipe experiente, protocolos rígidos de segurança e atenção constante aos detalhes.\n\nÉ tecnologia, método e humanização trabalhando juntos para buscar os melhores desfechos possíveis em momentos críticos.\n\n💙 Se você está passando pela experiência de ter alguém querido na UTI, a equipe do Hospital Moriah está à disposição pelos canais oficiais para esclarecer dúvidas e orientar cada etapa da jornada.\n\n*Imagem meramente ilustrativa, desenvolvida com o auxílio de inteligência artificial.\n\n#hospitalmoriah #uti #cuidadosintensivos #segurançadopaciente #topperformer #qualidadedeatendimento",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-934634363054202.jpg"
+}

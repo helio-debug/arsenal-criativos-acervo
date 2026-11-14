@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1375365787502514",
+  "tipo": "estatico",
+  "titulo": "Guia de investimentos por objetivo no caderno",
+  "formato": "Feito à mão",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Folha de caderno com três faixas de horizonte de investimento. Marcações coloridas e desenhos de calendário, gráfico e patrimônio acompanham as explicações.",
+  "por_que_funciona": [
+    "Os números de 1 a 3 organizam a leitura por prazo.",
+    "Verde, amarelo e azul separam os horizontes.",
+    "Cada desenho reforça o tema da seção ao lado.",
+    "O quadro final destaca o lembrete de diversificação."
+  ],
+  "quando_usar": "Para conteúdo educativo introdutório que ajuda a relacionar objetivos e prazos.",
+  "estrutura_texto": "ONDE [AÇÃO]\nde acordo com [CRITÉRIO]\n1 [PRAZO CURTO]\n[ALTERNATIVAS]\nFOCO: [PRIORIDADE]\n2 [PRAZO MÉDIO]\n[ALTERNATIVAS]\nFOCO: [PRIORIDADE]\n3 [PRAZO LONGO]\n[ALTERNATIVAS]\nFOCO: [PRIORIDADE]\nLEMBRE-SE: [RESSALVA]",
+  "legenda": "Quando você pretende usar [recurso]? Esse prazo ajuda a avaliar [liquidez], [risco] e [alternativas]. Organize seus objetivos antes de comparar investimentos. [CTA educativo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use folha de caderno pautada com espiral à esquerda, escrita manual legível, três seções numeradas com marca-texto verde, amarelo e azul, desenhos simples e quadro de lembrete na base. Generalize exemplos e não reproduza nomes de carteiras.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta. Conteúdo educativo não deve sugerir adequação universal de um investimento; considere perfil, liquidez e risco.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1375365787502514",
+    "anunciante": "Mirna Borges",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não escolhe um investimento pelo nome.\n\nVocê escolhe pelo objetivo.\n\nO erro de muita gente é investir pensando apenas na rentabilidade e esquecer quando vai precisar daquele dinheiro.\n\nSe o objetivo é de curto prazo, a prioridade é uma.\nSe é de médio prazo, a estratégia muda.\nE quando o foco é construir patrimônio e viver de renda, a lógica é completamente diferente.\n\nCada objetivo pede um caminho diferente.\n\nQuem tenta usar o mesmo investimento para tudo, normalmente acaba frustrado.\n\nAntes de perguntar “onde investir?”, faça uma pergunta ainda mais importante:\n\nPara que você está investindo?\n\nÉ essa resposta que deve definir a sua estratégia.\n\nQual é o seu principal objetivo financeiro hoje?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1375365787502514.jpg"
+}

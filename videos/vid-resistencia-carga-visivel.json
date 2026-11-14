@@ -1,0 +1,74 @@
+{
+  "id": "vid-resistencia-carga-visivel",
+  "tipo": "video",
+  "titulo": "Teste de resistência com carga identificada e plano fixo",
+  "formato_video": "teste-resistencia",
+  "nichos": [
+    "produtos-fisicos-marketplace",
+    "moveis-decoracao"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "garantia",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Quanto peso esse [produto] aguenta nesta condição?",
+    "texto_tela": "Teste nas condições do manual",
+    "visual": "Produto vazio em plano aberto com balança"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Produto vazio em plano aberto com balança",
+      "fala": "Vou colocar [carga prevista no manual], nesta superfície.",
+      "texto_tela": "Teste nas condições do manual"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Peso identificado entra sem corte na ação",
+      "fala": "A carga aqui é [peso], medida agora.",
+      "texto_tela": "Carga: [peso]"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Câmera permanece no produto com contador",
+      "fala": "Vamos manter por [tempo de teste]. Repare em [ponto de apoio].",
+      "texto_tela": "[tempo] de observação"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Retira carga e mostra encaixes",
+      "fala": "Aqui está como ficou depois. Confira os limites de uso e a garantia.",
+      "texto_tela": "Consulte limites e garantia"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra produto vazio em plano aberto com balança, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém a medição e as condições do teste visíveis.",
+    "O fechamento exibe retira carga e mostra encaixes, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é teste de resistência com carga identificada e plano fixo.",
+  "roteiro_modelo": "[Abertura] Quanto peso esse [produto] aguenta nesta condição?\n[0-4s] Vou colocar [carga prevista no manual], nesta superfície.\n[4-10s] A carga aqui é [peso], medida agora.\n[10-18s] Vamos manter por [tempo de teste]. Repare em [ponto de apoio].\n[18-25s] Aqui está como ficou depois. Confira os limites de uso e a garantia.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Produto vazio em plano aberto com balança.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Peso identificado entra sem corte na ação.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Câmera permanece no produto com contador.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Retira carga e mostra encaixes."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, produto vazio em plano aberto com balança, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, peso identificado entra sem corte na ação, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Teste de resistência com carga identificada e plano fixo. Preserve esta mecânica: Produto vazio em plano aberto com balança; Peso identificado entra sem corte na ação; Câmera permanece no produto com contador; Retira carga e mostra encaixes. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não exceder carga nem condições previstas pelo fabricante. Área isolada e protegida; ninguém sob cargas. Um teste doméstico não certifica segurança nem resistência geral. Informar condições, limites e garantia real.",
+  "legenda": "Veja [produto] de perto: teste de resistência com carga identificada e plano fixo. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": "Não exceder carga nem condições previstas pelo fabricante. Área isolada e protegida; ninguém sob cargas. Um teste doméstico não certifica segurança nem resistência geral. Informar condições, limites e garantia real.",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1033265243082222",
+      "dias_no_ar": 62,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência de produto e argumento comercial consultada pela copy local. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

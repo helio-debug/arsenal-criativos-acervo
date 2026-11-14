@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2091574795091901",
+  "tipo": "estatico",
+  "titulo": "Combo de cinco apostilas com preço total",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Cinco capas de apostilas aparecem em duas fileiras sobre fundo branco, com preços antigos riscados e novos em verde. Uma faixa inferior concentra total, preço anterior e selo amarelo de desconto.",
+  "por_que_funciona": [
+    "As cinco capas mostram visualmente o conteúdo do pacote.",
+    "Os preços riscados ao lado dos verdes permitem comparar valores.",
+    "O total em tamanho grande destaca o custo do conjunto.",
+    "O selo amarelo separa o desconto dos demais elementos do rodapé."
+  ],
+  "quando_usar": "Para vender um pacote de materiais educativos quando conteúdo, preço e desconto já estão definidos.",
+  "estrutura_texto": "[CAPA 1] [CAPA 2] [CAPA 3]\nDe [PREÇO] por [PREÇO UNITÁRIO]\n[CAPA 4] [CAPA 5]\nDe [PREÇO] por [PREÇO UNITÁRIO]\nTOTAL [PREÇO DO COMBO] [PREÇO ANTERIOR] [DESCONTO]",
+  "legenda": "Comece a estudar [tema] com [quantidade] apostilas sobre [conteúdos]. O pacote reúne [escopo do material] por [preço], conforme [condições]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre cinco mockups de apostilas com capas próprias derivadas da IMAGEM 2, três na primeira fileira e dois centralizados na segunda. Fundo branco, preço anterior cinza riscado e preço atual verde sob cada capa. Separe o rodapé com linha fina e destaque TOTAL, valor final grande e selo amarelo de desconto. Use valores coerentes entre unidades, total e percentual. Não invente os textos miúdos das capas.",
+  "alerta_politica": "Meta e normas aplicáveis da CVM: material educativo não deve prometer ganhos, renda garantida ou ausência de risco. Não apresentar prazo de aprendizado como garantia de resultado financeiro; preço anterior e desconto precisam ser reais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2091574795091901",
+    "anunciante": "Eduardo Lopes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-28",
+    "dias_no_ar": 139,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não precisa esperar \"sobrar dinheiro\" para começar a investir.\n\nO problema é que a maioria das pessoas nunca começa porque acredita que investir é complicado, arriscado ou que precisa de muito dinheiro.\n\nMas a verdade é: com o método certo, você consegue dar os primeiros passos ainda hoje.\n\nPor isso, reunimos **5 apostilas completas** para te guiar do zero até a construção da sua primeira carteira de investimentos.\n\nVocê vai aprender a:\n\n✅ entender por que o dinheiro foge e como organizar sua vida financeira\n✅ fazer seu primeiro investimento nas próximas 24 horas\n✅ escolher ações, FIIs e ETFs sem depender de assessor\n✅ montar uma estratégia de renda passiva com dividendos\n✅ desenvolver a mentalidade de um investidor de verdade\n\nDe **R$97**, hoje por apenas **R$29**.\n\nUma biblioteca completa para quem quer parar de adiar e começar a investir com segurança, clareza e direção.\n\n⚠️ Oferta por tempo limitado.\n\nClique no botão e garanta agora as suas **5 apostilas de investimentos**.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2091574795091901.jpg"
+}

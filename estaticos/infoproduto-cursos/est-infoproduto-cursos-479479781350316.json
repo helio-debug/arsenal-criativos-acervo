@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-479479781350316",
+  "tipo": "estatico",
+  "titulo": "Comunicado de vagas gratuitas por cidade",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo verde com símbolo de atenção e título de comunicado. Um painel branco concentra a cidade, a oferta de 75 vagas e um botão azul de inscrição.",
+  "por_que_funciona": [
+    "O triângulo amarelo chama atenção junto ao título.",
+    "O nome da cidade ocupa a primeira linha do painel branco.",
+    "O número de vagas torna a disponibilidade concreta.",
+    "O botão azul separa a ação do restante do texto."
+  ],
+  "quando_usar": "Para divulgar inscrições locais com quantidade real de vagas e identificação clara de quem oferece o curso.",
+  "estrutura_texto": "[COMUNICADO]\n[CIDADE]\n[PROJETO] VAI OFERECER VAGAS PARA [CURSOS]\n[QUANTIDADE] VAGAS [CONDIÇÕES]\n[ORIENTAÇÃO DE CADASTRO]\n[INSCREVA-SE]\n[DISPONIBILIDADE]\n[RESPONSÁVEL]",
+  "legenda": "Inscrições para [cursos] em [cidade/UF]. Consulte as vagas gratuitas e as bolsas parciais, os critérios e as condições em [link]. Cadastre-se para [próxima etapa].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde em degradê, ícone amarelo de atenção e título branco contornado. Centralize um painel branco com cidade em preto, oferta em negrito, explicação curta e CTA azul. Reserve espaço para identificar o ofertante real; não use brasões ou aparência de órgão público sem autorização. Só mostre quantidade e escassez comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "479479781350316",
+    "anunciante": "Mais Profissão - Projeto Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-07-06",
+    "dias_no_ar": 861,
+    "variacoes_ativas": 2,
+    "texto_original": ">> CURSOS GRATUITOS E BOLSAS PARCIAIS  EM PORTO VELHO - RO <<\n\nhttps://maisprofissao.com.br/gratis/portovelho.php  <<\n\nSelecione agora seu CURSO GRÁTIS e\n✅VAGAS PARA BOLSAS PARCIAIS:\nInformática Avançada\nMarketing Digital\nDesenvolvedor de Games\nDesigner Gráfico\nProgramação de computadores\nMontagem e manutenção de computador\nAdministração\nSecretariado\nGestão de Pessoas\nAtendente de farmácia\nRecepcionista de serviços de saúde\nPower BI\n\n- VAGAS LIMITADAS -\n\nhttps://maisprofissao.com.br/gratis/portovelho.php\nCURSOS GRATUITOS E BOLSAS PARCIAIS EM PORTO VELHO - RO",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-479479781350316.jpg"
+}

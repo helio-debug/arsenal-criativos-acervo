@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1363341764874466",
+  "tipo": "estatico",
+  "titulo": "Pessoa com notebook e oferta de combo de pós",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma mulher com notebook ocupa a lateral esquerda. À direita, título, credenciais e uma caixa de preço anunciam o combo de pós-graduação, com botão vermelho de inscrição.",
+  "por_que_funciona": [
+    "A caixa de preço amplia o parcelamento e informa que o valor é por curso.",
+    "A faixa “ganhe a 4ª pós” destaca o bônus do combo.",
+    "Os três itens com ícones apresentam reconhecimento e prazos em um bloco curto.",
+    "O botão vermelho separa a ação de inscrição do restante das informações."
+  ],
+  "quando_usar": "Para campanhas de matrícula em formação online com combo, bônus e condições de pagamento claramente definidos.",
+  "estrutura_texto": "[Formação]\n[Modalidade]\n[Reconhecimento]\n[Prazo de conclusão]\n[Prazo de certificado]\nCombo [quantidade de cursos]\nPor apenas [parcelas e valor] por curso no cartão\nGanhe [bônus]\nInscreva-se\n[Condições e marca]",
+  "legenda": "Conheça [formação] na modalidade [modalidade]. Escolha entre [opções de cursos], confira [condições de conclusão e certificação] e aproveite o combo de [quantidade] com [bônus], por [parcelamento] por curso. Consulte as condições e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie peça vertical com fundo cinza-claro, pessoa de blusa roxa segurando notebook à esquerda e textos à direita. Organize três benefícios com ícones pequenos, chamada de combo e caixa de preço com contorno azul, parcela em grande destaque e bônus numa faixa azul inferior. Finalize com botão vermelho de inscrição. Identifique valor por curso, quantidade de parcelas e condições do combo. Inclua somente reconhecimento, prazos e certificações comprováveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1363341764874466",
+    "anunciante": "Facuvale Faculdade de Minas EaD",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-25",
+    "dias_no_ar": 568,
+    "variacoes_ativas": 13,
+    "texto_original": "Pós-Graduação 100% Online: eleve sua carreira para o próximo nível aqui na Facuvale.\n\n✅ + De 2 mil cursos\n✅ O Tcc é opcional\n✅ Conclusão a partir de 3 meses\n✅ Reconhecido pelo MEC\n\nGaranta seu desconto agora!\nPós-Graduação Facuvale",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1363341764874466.jpg"
+}

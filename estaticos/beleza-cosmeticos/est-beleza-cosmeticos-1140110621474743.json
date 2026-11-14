@@ -1,0 +1,36 @@
+{
+  "id": "est-beleza-cosmeticos-1140110621474743",
+  "tipo": "estatico",
+  "titulo": "Perfume e embalagem sobre fundo branco",
+  "formato": "Produto em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Frasco de perfume claro aparece à direita da caixa sobre fundo branco. A embalagem tem tipografia preta grande e uma faixa diagonal amarela no canto superior.",
+  "por_que_funciona": [
+    "O fundo branco isola frasco e caixa sem elementos concorrentes.",
+    "A caixa ao lado do frasco permite reconhecer a apresentação do produto.",
+    "A faixa amarela contrasta com a embalagem clara e chama atenção para seu topo."
+  ],
+  "quando_usar": "Para anúncios de catálogo ou revenda em que a legenda apresenta preço, desconto e condições de entrega.",
+  "estrutura_texto": "[MARCA E NOME DO PRODUTO NA EMBALAGEM]\n[DESCRIÇÃO DO PRODUTO]\n[VOLUME E INFORMAÇÕES DO RÓTULO]",
+  "legenda": "Encontre [categoria de produtos] para uso próprio ou revenda. Confira os valores de atacado e [desconto] no pagamento por [meio de pagamento]. Entregamos em [região]; consulte condições em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma foto de catálogo quadrada sobre fundo branco puro. Posicione a caixa vertical à esquerda e o frasco à direita, ligeiramente à frente, usando fielmente o produto da IMAGEM 2. Mantenha iluminação suave, sombra discreta, margens amplas e rótulos legíveis. Preserve apenas a identidade do meu produto, sem inserir chamada promocional externa ou reproduzir textos da referência.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Depoimentos e oportunidades divulgadas devem ser reais e verificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1140110621474743",
+    "anunciante": "Vida Perfumada",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-14",
+    "dias_no_ar": 488,
+    "variacoes_ativas": 1,
+    "texto_original": "Aqui na Vida Perfumada você encontra preço acessível nos produtos, para você que é consumidor ou para você que quer fazer uma renda extra revendendo! 📦💙\n\nNo nosso site os valores de atacado ainda tem 10% de desconto com pagamento via PIX!\n\nVocê só encontra aqui!!! 💙  \nDetalhe: Enviamos para todo o Brasil! 🔥🚀",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1140110621474743.jpg"
+}

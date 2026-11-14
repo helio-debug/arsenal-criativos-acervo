@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-890604077248609",
+  "tipo": "estatico",
+  "titulo": "Imersão presencial com desconto sobre foto de palco",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com título branco e faixa vermelha no alto. A oferta de desconto e a indicação de vagas limitadas antecedem uma foto de palestrante no palco, iluminado em azul e vermelho.",
+  "por_que_funciona": [
+    "A faixa vermelha destaca o tema principal do encontro.",
+    "A linha com duração, datas e região dá informações práticas antes da oferta.",
+    "O desconto em vermelho se destaca na chamada branca em itálico.",
+    "A foto do palco mostra o contexto de imersão presencial."
+  ],
+  "quando_usar": "Para converter profissionais interessados em um encontro presencial com desconto vigente.",
+  "estrutura_texto": "[Marca]\nImersão\n[Tema]\n[Duração e proposta]\n[Datas] - [Local]\nGaranta sua vaga com [desconto]\nVagas limitadas",
+  "legenda": "Nova turma de [imersão presencial] em [local], nos dias [datas]. Conteúdo aplicado sobre [tema] para [público profissional], com [materiais ou acompanhamento incluídos]. Confira [desconto e condições] em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, identidade própria pequena no alto e título branco alinhado à esquerda. Destaque o tema em faixa vermelha, adicione duração, datas e local em corpo menor e chamada de desconto em itálico com percentual vermelho. Use a foto do evento ou especialista na metade inferior, com iluminação de palco azul e vermelha. Só anuncie desconto e vagas limitadas verificáveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "890604077248609",
+    "anunciante": "Grupo Studio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-22",
+    "dias_no_ar": 84,
+    "variacoes_ativas": 2,
+    "texto_original": "NOVA TURMA! Vagas LIMITADAS para a Imersão Presencial na Faria Lima. 25 E 26 DE NOVEMBRO!\n\nDois dias intensos destrinchando, na prática, tudo sobre a Reforma Tributária e a distribuição de lucros no novo sistema.\n\nExclusivo para profissionais que atendem empresas.\nConteúdo aplicado, cálculos reais e acesso direto ao nosso time tributário.\n\nAlém do evento, você recebe:\n— Mentorias quinzenais durante todo 2026\n-- Plataforma de ensino estilo netflix com conteúdos exclusivos\n— Grupo VIP\n— Material impresso exclusivo\n— Certificado premium\n\nVagas limitadas. Garanta a sua agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-890604077248609.jpg"
+}

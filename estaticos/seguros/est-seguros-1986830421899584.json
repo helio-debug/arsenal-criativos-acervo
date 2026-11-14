@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1986830421899584",
+  "tipo": "estatico",
+  "titulo": "Seguro com trio de porta-vozes e oferta",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Peça azul com chamada branca à esquerda, preço de adesão em moldura e cupom preto. Três porta-vozes aparecem na metade inferior direita, atrás de um carro prateado.",
+  "por_que_funciona": [
+    "A chamada branca ocupa a área superior esquerda sobre fundo azul.",
+    "A moldura destaca valor e natureza da cobrança: adesão.",
+    "O carro em primeiro plano vincula a oferta ao seguro automotivo.",
+    "O trio de rostos cria um foco visual ao lado da oferta."
+  ],
+  "quando_usar": "Para uma variação de campanha de seguro que combine condição de entrada, cupom e porta-vozes autorizados.",
+  "estrutura_texto": "[Marca]\n[Assinatura]\n[Chamada com vantagem comprovável]\n[Prazo]\n[Valor] na adesão\nCupom [código]",
+  "legenda": "Seu [seguro] pode ser contratado [canal de contratação]. Confira a adesão por [valor], use [cupom] e consulte coberturas e valores recorrentes em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul vibrante com arco em degradê violeta e rosa. Distribua chamada branca grande à esquerda e três porta-vozes autorizados na metade inferior direita, com o principal à frente. Adicione bloco de preço contornado, selo pequeno de cupom e foto do bem segurado em primeiro plano na base. Preserve respiro e legibilidade das condições.",
+  "alerta_politica": "Meta: evite alegações enganosas e superlativos de preço sem comprovação. Informe condições de adesão, vigência, elegibilidade e cobertura; diferencie taxa de adesão de mensalidade. Use apenas depoimentos e imagens de pessoas com autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1986830421899584",
+    "anunciante": "Loovi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-28",
+    "dias_no_ar": 290,
+    "variacoes_ativas": 7,
+    "texto_original": "O seguro de carro do Neymar! 100% rápido para contratar, online e direto no seu celular.",
+    "origem_coleta": "acervo:loovi"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1986830421899584.jpg"
+}

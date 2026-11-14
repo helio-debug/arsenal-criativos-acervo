@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-1084509160701483",
+  "tipo": "estatico",
+  "titulo": "Comparação entre PDFs e uma nova isca digital",
+  "formato": "Comparativo",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Título de ruptura sobre duas colunas: capas de PDFs à esquerda e telas de ferramentas digitais à direita. Uma seta central aponta para a alternativa mais recente.",
+  "por_que_funciona": [
+    "As duas colunas materializam a troca de formato com exemplos visuais.",
+    "A seta branca central estabelece a direção da mudança.",
+    "O verbo STOP em destaque cria tensão com a experiência citada no título.",
+    "Os rótulos com anos deixam explícita a comparação temporal."
+  ],
+  "quando_usar": "Para apresentar um treinamento sobre uma alternativa a um método que o público já usa.",
+  "estrutura_texto": "Ensinei [público/quantidade comprovada] a criar [formato antigo].\nAgora recomendo [mudança].\n[Formato antigo] — [ano]\n[Novo formato] — [ano]\nCrie [alternativa] →\n[Descrição da novidade]",
+  "legenda": "Já ensinamos [método anterior] a [público, se comprovado]. Agora, [mudança observada] pede outra abordagem. Conheça [novo formato] e veja no [treinamento] como criar uma versão para [objetivo]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte duas colunas em fundo escuro, separadas por linha fina. À esquerda, use uma colagem de materiais do método anterior; à direita, mostre a solução da IMAGEM 2 em telas de computador e celular. Coloque seta branca entre os lados e rótulos curtos abaixo. Reserve o topo para título de mudança de recomendação e o rodapé para CTA grande. Não invente números de alunos, taxas de conversão ou comprovações.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1084509160701483",
+    "anunciante": "Vessel Business",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 2,
+    "texto_original": "I built my first business teaching people to make PDF lead magnets.\n\nThe Canva kit. The ebook templates. The Instagram posts selling \"ultimate guides.\" Thousands of people built their first freebies with my stuff in 2019, 2020, 2021. It worked. It built real businesses.\n\nThat was the last big thing.\n\nThe bar has moved since then. PDFs that pulled 30% opt-ins in 2022 pull 4% now. Checklists get deleted. Quizzes feel gimmicky. Custom GPTs dead-end halfway through. \n\nA new format is taking over — and the first movers are already eating.\n\nI'm telling you this because I spotted the last wave. And I'm telling you I've spotted the next one.\n\nWe call it a MATE. Not a PDF. Not a checklist. Not a Custom GPT. Something entirely new.\n\nIn this training, we'll show you exactly what it is and how to build one.\n​\nActive",
+    "origem_coleta": "acervo:vessel-business"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1084509160701483.jpg"
+}

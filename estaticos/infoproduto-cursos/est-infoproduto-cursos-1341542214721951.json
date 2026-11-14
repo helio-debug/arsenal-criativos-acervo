@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1341542214721951",
+  "tipo": "estatico",
+  "titulo": "Post curto sobre a escolha do procedimento jurídico",
+  "formato": "Post e comentários",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1.91:1",
+  "descricao": "Peça preta que imita um post de perfil, com avatar circular, nome, identificação e selo azul. Duas passagens em branco questionam a escolha da usucapião como caminho para um caso.",
+  "por_que_funciona": [
+    "O cabeçalho com avatar e identificação dá ao conteúdo aparência de publicação de perfil.",
+    "A primeira frase cita uma habilidade específica da rotina jurídica.",
+    "O segundo bloco introduz o risco de escolher um procedimento inadequado.",
+    "O fundo preto e o amplo espaço entre blocos priorizam a leitura da mensagem."
+  ],
+  "quando_usar": "Para apresentar uma formação prática a profissionais que conhecem procedimentos, mas precisam aprimorar a análise de casos.",
+  "estrutura_texto": "[NOME DO PERFIL]\n[IDENTIFICAÇÃO]\nVocê pode até saber [EXECUTAR PROCEDIMENTO].\nE ainda assim [COMETER ERRO NO CASO]\nao escolher [PROCEDIMENTO].",
+  "legenda": "Conhecer [procedimento], os documentos e as etapas ajuda na execução. Antes disso, é preciso avaliar se esse caminho se aplica ao caso. Em [formação], trabalhe a análise de [situações práticas] para fundamentar a escolha do procedimento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reproduza a composição de um post em fundo preto: avatar circular com imagem da IMAGEM 2 no canto superior esquerdo, identificação ao lado e dois blocos curtos de texto branco abaixo. Use fonte sem serifa, bastante espaço vertical e uma provocação sobre escolha profissional. Não reproduza selo de verificação sem autorização nem invente comentários.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1341542214721951",
+    "anunciante": "MDI - Manual de Direito Imobiliário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 1,
+    "texto_original": "Esse é um ponto que aparece muito.\n\nO advogado pode conhecer o procedimento, saber os documentos necessários, entender as etapas e até já ter conduzido outros casos parecidos.\n\nMas existe uma pergunta anterior:\n\nesse é realmente o procedimento adequado para esse caso?\n\nPorque o cliente não chega no escritório dizendo:\n\n“Doutor, meu caso é uma usucapião.”\n\nEle conta uma história.\n\nE cabe ao advogado entender a situação possessória, registral, documental e jurídica antes de definir o caminho.\n\nÉ aí que existe uma diferença importante entre conhecer um procedimento e saber diagnosticar um caso imobiliário.\n\nE é exatamente esse raciocínio que buscamos desenvolver dentro da Mentoria Individual do MDI.\n\nPrimeiro o diagnóstico. Depois o procedimento.\n\nMentoria Individual em Direito Imobiliário — link na bio.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1341542214721951.jpg"
+}

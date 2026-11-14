@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-26563087053301333",
+  "tipo": "estatico",
+  "titulo": "Crédito e parcela em composição minimalista",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical branca com marca no alto do bloco de conteúdo e dois valores destacados em azul. Uma fileira de ícones imobiliários e financeiros aparece abaixo da oferta, com amplo espaço vazio.",
+  "por_que_funciona": [
+    "Os valores em azul e negrito separam crédito total e parcela do texto de apoio.",
+    "O fundo branco e o espaço livre concentram a leitura na oferta.",
+    "Os ícones de edifício, chave e poupança reforçam o contexto imobiliário."
+  ],
+  "quando_usar": "Para divulgar uma faixa de crédito imobiliário com parcela inicial em peças verticais de leitura rápida.",
+  "estrutura_texto": "[MARCA]\ncompre seu imóvel de\nR$ [CRÉDITO]\ncom parcelas a partir de\nR$ [PARCELA]",
+  "legenda": "Planeje a compra de [tipo de imóvel] para [morar ou investir]. Conheça o crédito de [valor] com parcelas a partir de [parcela]. Faça uma simulação e confira taxas, prazo e regras de contemplação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical branca e minimalista, com o conteúdo alinhado à esquerda no terço central superior. Use azul nos dois valores principais e preto nas frases de apoio. Posicione uma fileira de cinco ícones lineares de imóveis e finanças abaixo dos valores. Preserve bastante espaço em branco e inclua condições legíveis; a foto da IMAGEM 2 pode orientar um ícone ou pequeno recorte sem dominar a peça.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "26563087053301333",
+    "anunciante": "Porto Vale Consórcio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-04",
+    "dias_no_ar": 194,
+    "variacoes_ativas": 32,
+    "texto_original": "Porto: A melhor condição do mercado para a compra do seu imóvel. Faça sua simulação🏡\nPara Morar ou Investir!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-26563087053301333.jpg"
+}

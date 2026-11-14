@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-938162551977624",
+  "tipo": "estatico",
+  "titulo": "Programa de intercâmbio com público e inclusões explícitos",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Faixas vermelhas destacam destino e recorte de público sobre uma foto de mulher diante de uma ponte turística. Na base, uma lista apresenta curso, acomodação, suporte e prazo de embarque, seguida de botão azul.",
+  "por_que_funciona": [
+    "O nome do destino em letras muito grandes domina o topo.",
+    "O recorte para mulheres acima de uma faixa etária torna a proposta específica.",
+    "A pessoa no cenário turístico ajuda a visualizar a experiência oferecida.",
+    "A lista inferior torna duração, acomodação e suporte fáceis de conferir."
+  ],
+  "quando_usar": "Para divulgar um programa de idioma no exterior a um público definido, quando o pacote reúne estudo e acomodação.",
+  "estrutura_texto": "INTERCÂMBIO [DESTINO] [FAIXA ETÁRIA]\n[DESTINO EM DESTAQUE]\nPrograma para [PÚBLICO] que busca [OBJETIVO]\n[DURAÇÃO] de curso de [IDIOMA]\n[DURAÇÃO] de acomodação\n[SUPORTE]\nEmbarque até [DATA]\n[MARCA]\n[CTA]",
+  "legenda": "Conheça o programa de intercâmbio em [DESTINO] para [PÚBLICO]. São [DURAÇÃO] de curso de [IDIOMA], [DURAÇÃO] de acomodação e [SUPORTE]. Planeje seu embarque até [DATA] e consulte condições e disponibilidade em [CANAL].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia contextual de uma participante adulta em destino compatível com meu produto, sem copiar pessoa ou ponto turístico exato. Sobreponha faixas vermelhas no topo com categoria, faixa etária e destino em branco muito grande. Abaixo do título, inclua proposta curta para o público. Na base, crie bloco vermelho com lista branca de inclusões, área clara para marca própria e botão azul escuro. Preserve boa leitura sem cobrir o rosto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "938162551977624",
+    "anunciante": "ICGroup - Education",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 1,
+    "texto_original": "Nunca é tarde para investir no seu maior ativo: você.\nEste NÃO é apenas um curso de inglês… \nÉ um programa desenhado para mulheres que buscam expandir seus horizontes, fazer networking internacional e mergulhar na cultura britânica com sofisticação e segurança.\nO que está incluso: \n✅ 4 semanas de curso de inglês geral. \n✅ 4 semanas de acomodação selecionada. \n✅ Suporte presencial para sua total tranquilidade. \n✅ Flexibilidade total: você tem até dezembro de 2027 para embarcar!\nDê o próximo passo na sua carreira e na sua vida pessoal.\n🔗 Clique em \"Saiba Mais\" e receba todos os detalhes pelo WhatsApp.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-938162551977624.jpg"
+}

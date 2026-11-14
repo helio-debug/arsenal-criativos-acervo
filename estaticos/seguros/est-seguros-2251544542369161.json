@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-2251544542369161",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre prioridades com foto de casal",
+  "formato": "Interativo",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Casal com canecas em uma varanda ao pôr do sol. Uma pergunta em letras brancas contrasta filhos e seguro de vida, com seta no rodapé.",
+  "por_que_funciona": [
+    "A pergunta coloca duas prioridades lado a lado e convida à reflexão.",
+    "O seguro de vida aparece em negrito e ocupa o maior peso da chamada.",
+    "A foto do casal com canecas aproxima o tema de planos de vida.",
+    "A seta no canto inferior sugere continuidade do conteúdo."
+  ],
+  "quando_usar": "Para abrir uma conversa sobre planejamento e apresentar seguro de vida em uma sequência educativa.",
+  "estrutura_texto": "[Prioridade A] OU\n[Prioridade B]\nQual a prioridade de [grupo ou momento de vida]?\n[Marca]\n[Seta de continuidade]",
+  "legenda": "Como [público amplo] organiza suas prioridades hoje? Conheça [seguro] e as coberturas e serviços disponíveis para [necessidade de proteção]. Consulte as condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto de casal adulto em varanda ao entardecer, com canecas e cidade desfocada ao fundo. Posicione no terço inferior esquerdo uma pergunta em branco: primeira opção em peso leve e segunda opção em negrito grande, seguida de pergunta de apoio menor. Preserve contraste sobre a roupa escura e adicione uma seta branca discreta no canto inferior direito.",
+  "alerta_politica": "Meta: evitar atribuir ao público condições pessoais ou financeiras e não prometer proteção absoluta. Apresentar coberturas, condições, exclusões e elegibilidade com clareza, conforme as regras aplicáveis ao seguro.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2251544542369161",
+    "anunciante": "Omint",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 1,
+    "texto_original": "Proteger a sua independência financeira é o movimento certo para o agora ✨\n\nAs novas gerações recalcularam a rota: o objetivo é manter o próprio estilo de vida intacto, mesmo diante de imprevistos. O Seguro de Vida Individual Omint oferece coberturas inteligentes com serviços para utilização em vida, para que você tenha a tranquilidade necessária para viver melhor o presente.\n\nDescubra o seguro ideal para a sua vida. Link na bio.\n\n#Omint #OmintSeguroDeVida #ViverMelhor #PlanejamentoInteligente #ProteçãoDeRenda #IndependênciaFinanceira",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/seguros/est-seguros-2251544542369161.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1039081574822333",
+  "tipo": "estatico",
+  "titulo": "Peças artesanais ao lado de faixas com inscrição e preço",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Garrafas decoradas aparecem à esquerda em uma foto ao ar livre. À direita, faixas com textura de pincel apresentam o curso, as inscrições e o preço.",
+  "por_que_funciona": [
+    "As garrafas prontas mostram exemplos concretos do que o aluno pode aprender.",
+    "A divisão entre foto e texto facilita identificar resultado e oferta.",
+    "As faixas em cores diferentes separam inscrição, modalidade e preço.",
+    "A textura de pincel combina visualmente com o trabalho artesanal."
+  ],
+  "quando_usar": "Para abrir inscrições de cursos de artesanato cujo resultado pode ser mostrado em peças prontas.",
+  "estrutura_texto": "[Nome do curso]\nInscrições abertas\nCurso online\n[Preço]\n[Assinatura da marca]",
+  "legenda": "Inscrições abertas para [curso]. Por [preço], aprenda a [técnica] para criar [peças ou presentes]. Veja o conteúdo e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou curso. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição horizontal em foto de peças prontas à esquerda e área creme à direita. Use quatro faixas de pincel em ocre, amarelo, verde-petróleo e marrom, com título, inscrições, modalidade e preço. Mantenha letras grandes e assinatura discreta no canto inferior.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1039081574822333",
+    "anunciante": "Atelier Michelle Moyses",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-07",
+    "dias_no_ar": 586,
+    "variacoes_ativas": 1,
+    "texto_original": "Inscrições abertas para o curso Garrafas Sem Mistério.Por R$ 97,00 você vai aprender a personalizar garrafas e surpreender com presentes lindos! Inscreva-se já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1039081574822333.jpg"
+}

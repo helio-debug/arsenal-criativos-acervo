@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-990619869975328",
+  "tipo": "estatico",
+  "titulo": "Curso como plano principal com retrato profissional",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical com fundo em degradê vinho e roxo, chamada branca no topo e data da prova à esquerda. Uma mulher de jaleco ocupa a metade inferior diante de um traço luminoso.",
+  "por_que_funciona": [
+    "A chamada grande conecta o curso à escolha de carreira.",
+    "O bloco curto de vestibular e data permite localizar a informação de inscrição.",
+    "O jaleco associa o retrato à área de formação anunciada.",
+    "O traço luminoso emoldura a personagem e mantém contraste com o fundo escuro."
+  ],
+  "quando_usar": "Para divulgar vestibulares de um curso específico durante o período de inscrições.",
+  "estrutura_texto": "[CURSO] É SEU [PLANO PRINCIPAL], COM [INSTITUIÇÃO]\nVestibular [MODALIDADE E PERÍODO]\nProva [DATA]\nINSCREVA-SE",
+  "legenda": "Uma prova para concorrer a [curso] em até [quantidade] unidades. Escolha suas opções no [processo seletivo]. Prova em [data]. Inscreva-se em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com degradê vinho e roxo, título branco forte no terço superior e pequeno bloco de data e inscrição à esquerda. Posicione uma pessoa com vestimenta relacionada ao curso na parte inferior e um contorno geométrico luminoso atrás dela.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "990619869975328",
+    "anunciante": "Afya Graduação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 1,
+    "texto_original": "Uma prova, diferentes possibilidades para estudar Medicina!\nNo Vestibular Unificado Afya, você pode escolher até 3 unidades para concorrer com uma única prova.\n\n📍 Prova em 06/12\nVestibular Unificado",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-990619869975328.jpg"
+}

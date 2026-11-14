@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-873636335285774",
+  "tipo": "estatico",
+  "titulo": "Seguro com preço de adesão e cupom",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo claro com arco em degradê, chamada de seguro e bloco azul com preço de adesão. Um porta-voz de camiseta azul ocupa a direita e gesticula em direção à oferta; um carro aparece no canto inferior.",
+  "por_que_funciona": [
+    "O preço de adesão recebe um bloco azul próprio e numerais grandes.",
+    "O cupom em cápsula preta fica separado da oferta e facilita a leitura.",
+    "O gesto do porta-voz aponta para a área de texto.",
+    "O carro pequeno identifica o bem segurado."
+  ],
+  "quando_usar": "Para campanhas de aquisição de seguro com condição de entrada e cupom, deixando claro o custo posterior.",
+  "estrutura_texto": "[Marca]\n[Assinatura]\n[Chamada de seguro com vantagem comprovável]\n[Prazo da promoção]\n[Valor] na adesão\nCupom [código]",
+  "legenda": "Contrate [seguro] pelo celular, com [condição de adesão] usando o cupom [código]. Consulte [coberturas], [mensalidade] e condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte fundo lavanda claro com arco amplo em degradê rosa e violeta. Coloque chamada preta à esquerda, seguida de prazo e bloco azul com valor de adesão em branco; abaixo, cápsula preta com cupom. Posicione porta-voz autorizado à direita com gesto voltado à oferta e foto pequena do bem segurado na base. Use apenas vantagens comprovadas e reserve espaço legível às condições.",
+  "alerta_politica": "Meta: evite alegações enganosas e superlativos de preço sem comprovação. Informe condições de adesão, vigência, elegibilidade e cobertura; diferencie taxa de adesão de mensalidade. Use apenas depoimentos e imagens de pessoas com autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "873636335285774",
+    "anunciante": "Loovi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-22",
+    "dias_no_ar": 296,
+    "variacoes_ativas": 7,
+    "texto_original": "O seguro de carro do Neymar! 100% rápido para contratar, online e direto no seu celular.",
+    "origem_coleta": "acervo:loovi"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-873636335285774.jpg"
+}

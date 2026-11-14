@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-886505884515098",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com título amplo e benefícios em lista",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto de dois profissionais diante de telas com código ocupa o topo. Um degradê roxo sustenta o título da pós-graduação e quatro benefícios acompanhados por ícones brancos.",
+  "por_que_funciona": [
+    "O título amplo em caixa alta destaca a área da especialização.",
+    "A imagem com código e profissionais situa o tema em desenvolvimento de software.",
+    "Os quatro ícones organizam a leitura dos benefícios na parte inferior."
+  ],
+  "quando_usar": "Para apresentar uma especialização a profissionais que buscam formação complementar.",
+  "estrutura_texto": "[Instituição]\nPós-graduação em\n[Área de especialização]\n[Benefício 1]\n[Benefício 2]\n[Benefício 3]\n[Benefício 4]",
+  "legenda": "Aprofunde seus conhecimentos em [área] com a pós-graduação em [curso]. Desenvolva competências para [atividade profissional] e conheça [conteúdo e condições da formação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use formato quadrado, foto de profissionais em ambiente tecnológico no topo e degradê roxo cobrindo a parte inferior. Posicione marca própria no alto, subtítulo leve e nome do curso em letras brancas grandes. Empilhe quatro benefícios com ícones brancos à esquerda. Inclua linhas geométricas finas como moldura parcial, sem prejudicar a leitura.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "886505884515098",
+    "anunciante": "UniÚnica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-21",
+    "dias_no_ar": 116,
+    "variacoes_ativas": 1,
+    "texto_original": "Seja o profissional apto a projetar e desenvolver softwares capazes de otimizar processos, dominando todo o ciclo do desenvolvimento.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-886505884515098.jpg"
+}

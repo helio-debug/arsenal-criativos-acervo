@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1035341286007084",
+  "tipo": "estatico",
+  "titulo": "Cupom de seguro auto em bilhete de desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de homem no banco de um carro ocupa o fundo escuro. À esquerda, a chamada sazonal conduz a um bilhete roxo com desconto, taxa de adesão e código do cupom.",
+  "por_que_funciona": [
+    "O bilhete roxo destaca a oferta sobre o fundo preto e azul.",
+    "O desconto e a adesão têm números grandes e condições imediatamente abaixo.",
+    "A indicação de 1000 cupons explicita o limite da promoção.",
+    "O código aparece em uma cápsula própria, facilitando localizar o que usar na contratação."
+  ],
+  "quando_usar": "Para campanhas sazonais de seguro auto com cupom, limite de uso e condições comerciais definidos.",
+  "estrutura_texto": "[Marca]\nPromoção [data comemorativa]\n[Chamada da campanha]\n[Quantidade] cupons\n[Produto]\n[Desconto] no [período] + [valor] na adesão\nCupom [código]",
+  "legenda": "Aproveite a promoção de [data comemorativa] do [seguro auto]. Use [cupom] para ter [desconto] no [período] e [condição de adesão]. São [quantidade] cupons, sujeitos a [condições]. Faça sua cotação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de uma pessoa adulta dentro de um carro, à direita, com iluminação azul e fundo escuro. Organize a chamada sazonal em branco à esquerda. Sobreponha um bilhete roxo com cantos arredondados, picote lateral, números grandes da oferta e condições legíveis. Posicione o cupom em cápsula abaixo. Não reproduza a identidade da pessoa da referência. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de seguros: informar coberturas, exclusões, elegibilidade e condições contratuais com clareza, conforme regras aplicáveis da SUSEP e do CDC. Não prometer aceitação ou proteção irrestrita; evitar alegações enganosas nas políticas da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1035341286007084",
+    "anunciante": "Loovi Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 3,
+    "texto_original": "Garanta o seguro do Neymar por quase nada! 🏆\nUse o cupom\n🪙Clique no link para participar e garanta sua cobertura completa!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1035341286007084.jpg"
+}

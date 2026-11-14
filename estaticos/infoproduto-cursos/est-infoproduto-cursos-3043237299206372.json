@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3043237299206372",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com docentes e prática em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Peça roxa e turquesa apresenta uma pós-graduação em estética com quatro retratos de docentes. A base reúne reconhecimento acadêmico, aulas online e prática presencial.",
+  "por_que_funciona": [
+    "A palavra “Pós” ocupa o maior corpo e identifica a modalidade de imediato.",
+    "As profissões no topo delimitam para quem a formação foi desenhada.",
+    "Os quatro retratos com titulações dão rosto ao corpo docente.",
+    "O bloco turquesa destaca o funcionamento das aulas e a cidade das práticas."
+  ],
+  "quando_usar": "Para divulgar uma especialização a profissionais que já conhecem a área e precisam avaliar docentes e formato das aulas.",
+  "estrutura_texto": "[Modalidade] em [especialidade]\nPara [profissões]\n[Docentes e credenciais]\n[Reconhecimento verificável]\n[Aulas em formato] com práticas em [local]\n[Qualificação do corpo docente]\n[Marca]",
+  "legenda": "Especialize-se em [área] com [formato das aulas] e atividades práticas em [cidade]. Conheça o programa de [formação], destinado a [público habilitado], e consulte os requisitos de ingresso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo em degradê roxo e turquesa, título branco grande no alto à esquerda e público em texto menor ao lado. Monte uma faixa central com retratos autorizados de [docentes], nomes e credenciais em pequenas tarjas claras. Na base, distribua três blocos de informação, destacando [formato e local das práticas] em um retângulo turquesa. Use apenas credenciais e reconhecimentos comprováveis; não invente docentes.",
+  "alerta_politica": "Por envolver formação em estética e saúde, não prometa resultados clínicos nem habilitação profissional automática. Informe requisitos e limites de atuação conforme o conselho de cada profissão. Reconhecimento pelo MEC e uso de pacientes reais exigem precisão e autorizações cabíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3043237299206372",
+    "anunciante": "VerboMED",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "Pós em Estética Avançada em SÃO PAULO. Você que é profissional da saúde e gostaria de ingressar no rentável mercado de estética a oportunidade é agora! Tenha aulas práticas em pacientes reais e especialize-se!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3043237299206372.jpg"
+}

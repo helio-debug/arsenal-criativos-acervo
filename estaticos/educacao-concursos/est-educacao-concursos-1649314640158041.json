@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1649314640158041",
+  "tipo": "estatico",
+  "titulo": "Lista de entregas da mentoria de estudos",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Título grande sobre fundo de papel claro apresenta uma mentoria. Seis faixas arredondadas com ícones dourados detalham as entregas, com objetos de estudo nas bordas.",
+  "por_que_funciona": [
+    "As seis faixas permitem comparar as entregas sem ler um parágrafo longo.",
+    "Cada ícone acompanha um benefício concreto, como material e cronograma.",
+    "As linhas menores explicam o alcance de cada entrega.",
+    "O título verde escuro e dourado cria hierarquia sobre o fundo claro."
+  ],
+  "quando_usar": "Para explicar o que está incluído numa mentoria de preparação para concursos.",
+  "estrutura_texto": "Mentoria individual [nome]\nO que você vai encontrar:\n[Entrega 1]\n[Explicação 1]\n[Repetir para seis entregas]",
+  "legenda": "Depois de [experiência relevante], reunimos um acompanhamento para quem precisa organizar os estudos para [concurso]. A mentoria inclui [entregas], com ajustes à sua rotina e ao edital. Conheça [como participar].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use papel claro com detalhes verdes e dourados, título serifado no topo e seis faixas claras arredondadas empilhadas. Em cada faixa, alinhe ícone à esquerda, benefício em negrito e explicação curta abaixo. Reserve as bordas para caderno, caneta e livros discretos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1649314640158041",
+    "anunciante": "Professor Concursado",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-10",
+    "dias_no_ar": 35,
+    "variacoes_ativas": 1,
+    "texto_original": "Há mais de 10 anos atuando em sala de aula, em alguns dos mais importantes cursos preparatórios, acompanho de perto a rotina, as dificuldades e os desafios de quem sonha com a aprovação em um concurso público.\n\nEssa experiência me permitiu conhecer não apenas o conteúdo, mas também aquilo que muitas vezes impede bons professores de avançarem: falta de direção, dificuldade para organizar os estudos, excesso de materiais, insegurança e ausência de uma estratégia realmente personalizada.\n\nDepois de anos de capacitação e de aprimoramento constante do meu processo de acompanhamento, hoje consigo oferecer a melhor versão da minha Mentoria Individual SEDF: um trabalho pensado para entender a sua realidade, organizar sua preparação e transformar esforço em evolução.\n\nSe você quer construir uma preparação mais estratégica para a SEDF, me chama no Direct ou no WhatsApp. Vamos conversar e começar uma parceria com um objetivo muito claro: a sua aprovação.\nQUERO SER APROVADO(A) NA SEDF!\nEducation Service",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1649314640158041.jpg"
+}

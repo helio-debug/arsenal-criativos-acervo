@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-826043076610130",
+  "tipo": "estatico",
+  "titulo": "Assinatura de cursos com catálogo no celular",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo preto com textura vermelha, título à esquerda e celular inclinado à direita com aulas de treinamento físico. Um círculo vermelho destaca a mensalidade e faixas abaixo apresentam acesso ao catálogo e matrícula.",
+  "por_que_funciona": [
+    "O vocativo no topo identifica o público profissional do curso.",
+    "As miniaturas no celular dão exemplos visuais das aulas disponíveis.",
+    "O círculo vermelho torna a mensalidade fácil de localizar.",
+    "A frase sobre todos os cursos comunica a abrangência da assinatura."
+  ],
+  "quando_usar": "Para divulgar uma assinatura de cursos de atualização para profissionais do treinamento físico.",
+  "estrutura_texto": "[Profissional],\n[ESCOLHA OS CURSOS]\n[Valor] [mensais]\n[TODOS OS CURSOS]\n[Matricule-se: site]\n[Exemplos de aulas no catálogo]",
+  "legenda": "Atualize seus conhecimentos em [área profissional] por [valor] mensais. A assinatura inclui [escopo do catálogo] e [condições de acesso e cancelamento]. Veja as aulas disponíveis e assine em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto texturizado com pontos vermelhos, título branco e vermelho no lado esquerdo e mockup de celular inclinado no lado direito. Dentro do aparelho, exiba miniaturas reais das aulas do meu produto. Destaque a mensalidade num círculo vermelho, com periodicidade legível, e coloque a matrícula numa faixa branca.",
+  "alerta_politica": "Na Meta, evite promessas de transformação corporal e afirmações sobre a condição física de quem vê o anúncio. Apresente o conteúdo como capacitação profissional, sem garantir resultados clínicos ou físicos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "826043076610130",
+    "anunciante": "Educafit",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-05",
+    "dias_no_ar": 313,
+    "variacoes_ativas": 1,
+    "texto_original": "Hey você, já conhece a Educafit? 🤔\n\nSomos um Canal de Assinatura de Cursos On-line do Mercado Fitness. Feito exatamente para você, que quer se atualizar Profissionalmente gastando pouco!!\n\n Isso mesmo, POUCO! \n\n👉 POR APENAS R$ 39,90 mensais você terá acesso a TODOS os nossos cursos.\n\nPodendo interromper a assinatura a qualquer momento, sem taxas, multas ou ressentimentos. \n\nSão mais de 300 cursos, com certificados reconhecidos e válidos por TODO BRASIL.\n\nTa esperando o que ? 👀\n\n👉Toque no botão e garanta sua vaga!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-826043076610130.jpg"
+}

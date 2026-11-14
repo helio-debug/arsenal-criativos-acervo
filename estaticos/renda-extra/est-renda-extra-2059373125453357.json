@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2059373125453357",
+  "tipo": "estatico",
+  "titulo": "Convite para revenda com benefícios e contato direto",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Uma mulher segura catálogos de beleza na metade esquerda. A metade direita apresenta o convite para consultoria, quatro benefícios com ícones e uma faixa inferior com telefone e brinde.",
+  "por_que_funciona": [
+    "Os catálogos nas mãos da modelo mostram o material associado à atividade de revenda.",
+    "O título grande “renda extra” torna o tema central identificável no topo.",
+    "Os quatro ícones organizam benefícios de cadastro em blocos curtos.",
+    "A faixa inferior dá grande destaque ao contato e ao incentivo de cadastro."
+  ],
+  "quando_usar": "Para recrutar consultores de revenda quando houver condições de cadastro e benefícios confirmados.",
+  "estrutura_texto": "[Renda extra aqui]\n[Seja consultor(a) de categoria]\n[Benefício 1] | [Benefício 2] | [Benefício 3] | [Benefício 4]\n[Fale comigo]\n[Contato]\n[Condição do incentivo de cadastro]",
+  "legenda": "Conheça a oportunidade de revender [categoria de produtos] em [área atendida]. Consulte os requisitos de cadastro, os benefícios disponíveis e as condições de [incentivo]. Fale em [canal de contato] para saber como começar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição quadrada com pessoa segurando catálogos à esquerda e título grande à direita. Use fundo creme, roxo escuro, dourado e rosa, com uma palavra em lettering. Organize quatro benefícios com ícones em uma linha e reserve a faixa inferior roxa para contato e incentivo de cadastro. Substitua textos dos catálogos por elementos genéricos e só apresente benefícios comprovados. Adapte a mensagem aos dados de MEU PRODUTO, sem inventar benefícios ou condições. Escreva em pt-BR e preserve a legibilidade.",
+  "alerta_politica": "Meta: não garantir renda nem aprovação de cadastro. Informar critérios de participação e condições de brindes; alegações sobre conta digital e benefícios de saúde devem corresponder ao serviço real, sem promessa de cobertura irrestrita.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2059373125453357",
+    "anunciante": "Cadastre Aqui",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-14",
+    "dias_no_ar": 92,
+    "variacoes_ativas": 1,
+    "texto_original": "Vem fazer parte da MAIOR Consultoria de Beleza do Brasil!! Chama No WhatsApp e comece já (11) 98878-3861 \n\nVenda para todo BRASIL sem sair de casa!\nWHATSAPP\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2059373125453357.jpg"
+}

@@ -1,0 +1,122 @@
+{
+ "id": "vid-caixinha-risco",
+ "tipo": "video",
+ "titulo": "Caixinha fixa com dúvida prática, risco e próximo passo",
+ "formato_video": "faq-resposta",
+ "nichos": [
+  "servicos-locais",
+  "consorcio-credito",
+  "investimentos"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "duracao": "45-55s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "A pergunta foi: uso [solução atual] em [situação concreta]. O que preciso conferir?",
+  "texto_tela": "Faça uma pergunta.\nUso [solução] em [situação]. O que conferir?",
+  "visual": "Selfie próxima do rosto, com leve deslocamento inicial. Caixinha preta e branca fixa no topo, sem cobrir os olhos."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Selfie próxima do rosto, com leve deslocamento inicial. Caixinha preta e branca fixa no topo, sem cobrir os olhos.",
+   "fala": "A pergunta foi: uso [solução atual] em [situação concreta]. O que preciso conferir?",
+   "texto_tela": "Faça uma pergunta.\nUso [solução] em [situação]. O que conferir?"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Estabilize o celular em plano de rosto e peito, luz frontal suave, prateleiras e parede lisa ao fundo.",
+   "fala": "O primeiro ponto é [critério que precisa ser verificado]. Só [sinal superficial] não mostra se essa escolha atende ao seu caso.",
+   "texto_tela": "Caixinha fixa com a mesma pergunta."
+  },
+  {
+   "tempo": "16-26s",
+   "cena": "Mantenha a caixinha. Aproxime um pouco o rosto e explique olhando para a lente.",
+   "fala": "Se [condição específica] acontecer, pode haver [consequência concreta]. Isso depende de [regra ou condição aplicável], então vale conferir antes de continuar.",
+   "texto_tela": "Caixinha fixa com a mesma pergunta."
+  },
+  {
+   "tempo": "26-36s",
+   "cena": "Pequena mudança de ângulo; gesto lateral da mão acompanha o exemplo, sem inserir prints ou cifras.",
+   "fala": "Por exemplo: em [cenário hipotético], [escolha] pode exigir [ajuste]. É um exemplo pra mostrar o que verificar, sem antecipar o resultado de cada caso.",
+   "texto_tela": "Caixinha fixa com a mesma pergunta."
+  },
+  {
+   "tempo": "36-44s",
+   "cena": "Volte a olhar direto para a câmera, plano próximo e caixinha ainda visível.",
+   "fala": "Separe [informação necessária] e confira [ponto de atenção]. Com isso, dá pra avaliar [decisão] com mais contexto.",
+   "texto_tela": "Caixinha fixa com a mesma pergunta."
+  },
+  {
+   "tempo": "44-51s",
+   "cena": "Mesmo cenário, selfie estável e gesto curto de convite. Não acrescente legendas corridas.",
+   "fala": "Se precisar de apoio, veja como [produto ou serviço] funciona em [destino]. A análise começa por [etapa real do atendimento].",
+   "texto_tela": "Caixinha fixa com a mesma pergunta."
+  }
+ ],
+ "por_que_funciona": [
+  "A caixinha preta e branca permanece no topo em todos os frames, preservando o contexto da resposta.",
+  "O enquadramento de selfie aproxima o rosto e mantém a resposta com aparência de conversa direta.",
+  "As mudanças de distância e os gestos sustentam a variação visual sem trocar de cenário.",
+  "A fala passa da dúvida para uma consequência prática e termina oferecendo um contato relacionado ao tema."
+ ],
+ "quando_usar": "Para serviços locais, crédito e educação sobre investimentos que recebem dúvidas recorrentes. Use quando a pessoa já considera uma solução e precisa entender o que verificar antes de decidir.",
+ "roteiro_modelo": "[0-7s] A pergunta foi: uso [solução atual] em [situação concreta]. O que preciso conferir?\n\n[Pausa curta / corte]\n[7-16s] O primeiro ponto é [critério que precisa ser verificado]. Só [sinal superficial] não mostra se essa escolha atende ao seu caso.\n\n[Pausa curta / corte]\n[16-26s] Se [condição específica] acontecer, pode haver [consequência concreta]. Isso depende de [regra ou condição aplicável], então vale conferir antes de continuar.\n\n[Pausa curta / corte]\n[26-36s] Por exemplo: em [cenário hipotético], [escolha] pode exigir [ajuste]. É um exemplo pra mostrar o que verificar, sem antecipar o resultado de cada caso.\n\n[Pausa curta / corte]\n[36-44s] Separe [informação necessária] e confira [ponto de atenção]. Com isso, dá pra avaliar [decisão] com mais contexto.\n\n[Pausa curta / corte]\n[44-51s] Se precisar de apoio, veja como [produto ou serviço] funciona em [destino]. A análise começa por [etapa real do atendimento].",
+ "tomadas_celular": [
+  "Selfie com rosto próximo e espaço no topo para caixinha, luz de janela à frente; grave 7s com pequeno deslocamento.",
+  "Rosto e peito com celular estabilizado, parede lisa e luz frontal difusa; grave 9s sobre o critério.",
+  "Plano próximo olhando para a lente, mesma luz sem contraluz; grave 10s sobre a consequência condicional.",
+  "Selfie levemente lateral com gesto de mão, luz uniforme; grave 10s de exemplo hipotético.",
+  "Selfie frontal estável com espaço acima da cabeça, luz suave; grave 15s para orientação e convite."
+ ],
+ "caminho_ia": "Use um avatar autorizado em enquadramento de selfie, com voz sintética em pt-BR, e sobreponha a caixinha no CapCut durante todo o vídeo. Gere o ambiente no Sora com: \"Vertical 9:16 smartphone selfie composition, fictional office professional wearing a plain white shirt, soft frontal daylight, muted green wall and shelves, empty upper quarter for [product question] overlay, no logos, no text.\" Para variar o plano, use: \"Vertical 9:16 close-up selfie angle, fictional presenter making a small explanatory hand gesture in a modest office, natural facial movement, soft even light, clear upper headroom for [product question], no text or branding.\" Monte a fala com avatar para sincronizar a boca. Identifique perguntas criadas para o anúncio como exemplos, sem simular depoimento real de seguidor.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie resposta de 51s em seis blocos: dúvida concreta, critério de verificação, consequência condicional, exemplo hipotético, informação para conferir e convite. Selfie com pequenas mudanças de distância e ângulo, caixinha preta e branca fixa no topo, sem legendas corridas. Tom de conversa profissional, sem alarmismo. A dúvida deve ser sobre uma situação compatível com o produto. Não copie nome, aparência, cifras, caso de cliente ou afirmação tributária da referência. Não invente pergunta recebida: identifique pergunta ilustrativa quando necessário. Em crédito e investimentos, não prometa aprovação, retorno ou economia e não atribua condição financeira ao espectador. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite antíteses vazias, tríades decorativas, superlativos sem prova, perguntas de enfeite e frases de efeito. Use somente informações fornecidas, sem inventar resultados ou provas. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Dúvida comum: [pergunta concreta]. Antes de decidir, confira [critério]. Para entender o atendimento de [produto ou serviço], veja [destino]. Cada caso depende de [condição aplicável].",
+ "alerta_politica": "Meta: não afirmar nem insinuar atributos pessoais do espectador, como dívida ou dificuldade financeira. Para investimentos, observar as regras aplicáveis da CVM, informar riscos e não garantir rentabilidade. Para crédito e consórcio, observar a regulação do Banco Central, informar custos e condições e não prometer aprovação ou contemplação. Exemplos devem ser identificados e não apresentados como resultado garantido.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-afced8d7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-caixinha-risco/frames/f1.jpg",
+    "videos/vid-caixinha-risco/frames/f2.jpg",
+    "videos/vid-caixinha-risco/frames/f3.jpg",
+    "videos/vid-caixinha-risco/frames/f4.jpg",
+    "videos/vid-caixinha-risco/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-86a8024a",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-8ee7975c",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-c22d1a28",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-3ce5ec92",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2997158733811304",
+  "tipo": "estatico",
+  "titulo": "Graduação a distância com foto em recorte oval e duração",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul com faixas curvas, título amarelo e foto de reunião de profissionais em torno de uma mesa dentro de um recorte oval inclinado. A duração aparece em destaque abaixo da foto, seguida da assinatura institucional.",
+  "por_que_funciona": [
+    "O nome do curso em amarelo ocupa a faixa de maior destaque.",
+    "O recorte oval integra a foto às curvas azuis do fundo.",
+    "O ícone de relógio e o número de anos apresentam uma informação prática de matrícula.",
+    "A expressão graduação a distância esclarece a modalidade logo abaixo do título."
+  ],
+  "quando_usar": "Para divulgar uma graduação específica e informar modalidade e tempo de formação.",
+  "estrutura_texto": "[TIPO DE GRADUAÇÃO]\n[NOME DO CURSO]\n[MODALIDADE]\nDuração [NÚMERO] anos\n[SITE]\n[MARCO INSTITUCIONAL COMPROVADO]\n[CONDIÇÕES]",
+  "legenda": "Conheça a graduação em [curso] na modalidade [modalidade]. Confira [atividades práticas], [recursos incluídos] e as condições de [desconto vigente]. Consulte o programa e faça sua matrícula em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul com faixas curvas em diferentes tons. No topo, escreva o tipo de graduação em branco, o nome do curso em amarelo grande e a modalidade em branco. Insira a foto da IMAGEM 2 em um recorte oval inclinado ao centro. Abaixo, destaque duração com ícone de relógio. Reserve rodapé para marca própria, site e condições reais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2997158733811304",
+    "anunciante": "Grupo Uninter",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-25",
+    "dias_no_ar": 173,
+    "variacoes_ativas": 3,
+    "texto_original": "Aproveite as promoções para Graduação EAD.👇  \n\n✅ Aulas Práticas Interativas.   \n✅ Curso de Inglês On-line Grátis\n✅ Pratique nos laboratórios quando quiser.\n✅ Descontos de até 80%.\n\nNão fique fora dessa. Matricule-se já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2997158733811304.jpg"
+}

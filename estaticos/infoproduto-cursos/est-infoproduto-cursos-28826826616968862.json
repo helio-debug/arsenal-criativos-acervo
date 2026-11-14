@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-28826826616968862",
+  "tipo": "estatico",
+  "titulo": "Banner de cursos gratuitos em ambiente de oficina",
+  "formato": "Mídia de rua",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Um jovem de uniforme aponta para um banner pendurado em uma oficina. O banner reúne oito áreas de cursos, etiquetas vermelhas de gratuidade e uma chamada para ver o catálogo.",
+  "por_que_funciona": [
+    "O ambiente de oficina conecta visualmente a capacitação ao trabalho.",
+    "O jovem aponta com as duas mãos para o banner e conduz a atenção para a oferta.",
+    "As etiquetas vermelhas “GRÁTIS” se destacam sobre o fundo branco.",
+    "A lista em linhas curtas permite localizar rapidamente uma área de interesse."
+  ],
+  "quando_usar": "Para apresentar várias formações gratuitas em uma campanha de descoberta de cursos.",
+  "estrutura_texto": "[MARCA]\n[CONDIÇÃO DE CERTIFICAÇÃO]\n[CURSOS ONLINE GRATUITOS]\n[CURSO] [GRÁTIS]\n[VER TODOS OS CURSOS]",
+  "legenda": "Cursos gratuitos em [áreas] com [condição de certificação]. Consulte o catálogo e inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma oficina iluminada com uma pessoa uniformizada à esquerda apontando para um banner branco à direita. Use título azul em letras grandes, selo vermelho de certificação, oito linhas de cursos com etiquetas vermelhas e botão azul no rodapé. A marca deve ser a informada no bloco MEU PRODUTO, sem reproduzir identidade de instituições de ensino de terceiros.",
+  "alerta_politica": "Meta: não usar identidade de instituição sem autorização nem sugerir afiliação inexistente. Comprovar gratuidade e condições do certificado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "28826826616968862",
+    "anunciante": "Olav Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-27",
+    "dias_no_ar": 18,
+    "variacoes_ativas": 8,
+    "texto_original": "💼 Capacitação gratuita com certificado reconhecido. Inscreva-se!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-28826826616968862.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1212948104155088",
+  "tipo": "estatico",
+  "titulo": "Curso de estética com benefícios em caixas",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Título dourado e branco ocupa o topo de uma peça cinza. Uma seringa e um frasco aparecem à esquerda; seis caixas douradas listam características do curso à direita, sobre uma foto corporal escurecida.",
+  "por_que_funciona": [
+    "As seis caixas separam modalidade, acesso, suporte e demais condições de forma escaneável.",
+    "A seringa e o frasco identificam visualmente o assunto da formação.",
+    "O contraste dourado sobre cinza destaca título e contornos dos benefícios.",
+    "A última caixa delimita o público profissional."
+  ],
+  "quando_usar": "Para apresentar escopo e condições de uma formação técnica destinada a profissionais habilitados.",
+  "estrutura_texto": "[TEMA DO CURSO]\n[MODALIDADE]\n[TEMPO DE ACESSO]\n[SUPORTE]\n[CERTIFICADO E CARGA HORÁRIA]\n[RECURSOS ADICIONAIS]\n[PÚBLICO ELEGÍVEL]",
+  "legenda": "Amplie seus conhecimentos em [área] com um curso sobre [tema]. Inclui [conteúdo], [suporte] e [condições de acesso]. Consulte os pré-requisitos profissionais antes de se inscrever.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como material visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um layout quadrado com fundo cinza e fotografia temática escurecida. Use título serifado dourado e branco no topo, imagem do material didático à esquerda com brilho suave e seis caixas de contorno dourado à direita. Liste um atributo por caixa, com tipografia branca em caixa alta.",
+  "alerta_politica": "Formação sobre procedimentos estéticos deve informar pré-requisitos e limites de atuação profissional. Não prometer cura, emagrecimento ou resultado corporal garantido; imagens e menções a substâncias devem respeitar as regras sanitárias e profissionais aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1212948104155088",
+    "anunciante": "Professor Leandro Ramos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 1,
+    "texto_original": "Aumente seus conhecimentos e técnicas na área da estética, e se torne um profissional referência em sua região !",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1212948104155088.jpg"
+}

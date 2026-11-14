@@ -1,0 +1,36 @@
+{
+  "id": "est-ia-ferramentas-1748684539921025",
+  "tipo": "estatico",
+  "titulo": "Cronograma de liberação de módulos",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "saas-app",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo azul quase preto, uma linha do tempo vertical lista três liberações. Miniaturas à direita representam vídeo, carrossel e módulo comercial.",
+  "por_que_funciona": [
+    "A linha vertical com três marcadores organiza a ordem das entregas.",
+    "“Hoje” em verde diferencia o recurso já disponível dos módulos com data.",
+    "As miniaturas à direita associam cada etapa a um resultado visual."
+  ],
+  "quando_usar": "Em lançamentos com acesso inicial e funcionalidades liberadas em datas diferentes.",
+  "estrutura_texto": "LANÇAMENTO EM ETAPAS\n[Categoria do produto]\n[Nome do produto]\nHoje: [recurso disponível]\n[Data]: [próximo recurso]\n[Data]: [módulo futuro]\n[Responsáveis e aviso de independência]",
+  "legenda": "O acesso a [produto] será liberado em etapas. Hoje você já pode usar [recurso disponível]. Em [data] chega [recurso seguinte] e em [data] entra [módulo final]. A condição de lançamento é [preço] até [prazo]. Confira o que está incluído em cada etapa.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto ou material principal. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul quase preto, título no alto à esquerda e uma etiqueta pequena no alto à direita. Construa uma linha do tempo vertical à esquerda com três marcadores, datas e recursos. Use verde para a etapa atual, azul para a seguinte e laranja para a última. À direita, alinhe três miniaturas correspondentes. Inclua rodapé discreto com responsáveis e aviso de independência quando aplicável.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1748684539921025",
+    "anunciante": "Raphael Cardoso Marketing Jurídico",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 6,
+    "texto_original": "O Marketing Jurídico com Claude está sendo liberado em etapas. Hoje já funciona o plugin de edição de vídeo, em 26/10 chega o plugin de carrossel no Canva e em 30/10 entra o módulo comercial.\n \nQuem entra agora começa pelo vídeo, que é onde o advogado mais emperra: grava e não edita. As etapas seguintes aparecem no seu acesso nas datas da imagem. R$ 157 até 01/11. Depois da Black, R$ 297.",
+    "origem_coleta": "acervo:raphael-cardoso"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1748684539921025.jpg"
+}

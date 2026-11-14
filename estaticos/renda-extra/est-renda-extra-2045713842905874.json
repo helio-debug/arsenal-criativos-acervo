@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2045713842905874",
+  "tipo": "estatico",
+  "titulo": "Celular com cupom e notificação de comissão",
+  "formato": "Print de tela",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo em degradê pastel enquadra um celular inclinado com vídeo de uma criadora e cupom. Uma notificação de venda aparece sobre a tela, acima do botão de adesão ao programa.",
+  "por_que_funciona": [
+    "A notificação de comissão traduz visualmente o mecanismo de remuneração.",
+    "O cupom sobre o vídeo liga conteúdo publicado e atribuição de venda.",
+    "O celular inclinado ocupa o centro e concentra a demonstração.",
+    "O botão verde escuro se destaca do fundo pastel."
+  ],
+  "quando_usar": "Para explicar programas de afiliados ou criadores e direcionar pessoas interessadas ao cadastro.",
+  "estrutura_texto": "[MARCA]\n[Renda extra / BENEFÍCIO] [CONTEXTO]?\n[NOTIFICAÇÃO DE VENDA]\n[STATUS DA COMISSÃO]\nMEU CUPOM [CUPOM]\n[CTA DE ADESÃO]\n[REGULAMENTO E VARIAÇÃO DOS GANHOS]",
+  "legenda": "Seu conteúdo pode gerar comissões por [ação elegível]. Receba [recurso do programa], confira [suporte disponível] e divulgue conforme [regras]. Veja os critérios de pagamento e cadastre-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use degradê suave em pêssego, lilás e verde acinzentado. Coloque pergunta em fonte serifada escura no topo, celular inclinado ao centro e botão verde arredondado na base. Insira a foto do produto na demonstração dentro da tela, com cupom genérico e notificação ilustrativa de venda. Identifique a simulação e reserve rodapé legível para condições e variação dos ganhos.",
+  "alerta_politica": "Meta: não prometer ganhos garantidos ou facilidade financeira irreal. Esclarecer que a comissão depende de vendas elegíveis e das regras do programa; identificar notificações e resultados ilustrativos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2045713842905874",
+    "anunciante": "Voy",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-28",
+    "dias_no_ar": 17,
+    "variacoes_ativas": 2,
+    "texto_original": "Seu conteúdo pode render mais. 💸\nEntre para o Squad Voy e ganhe até R$350 por novo cliente que fechar com o seu cupom.\n✅ Cupom exclusivo para seus seguidores\n✅ Comunidade e suporte dedicado\n✅ Poste na frequência que quiser\nCadastre-se e comece a divulgar.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2045713842905874.jpg"
+}

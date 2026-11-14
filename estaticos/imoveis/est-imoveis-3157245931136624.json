@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-3157245931136624",
+  "tipo": "estatico",
+  "titulo": "Planta vertical com convite à simulação",
+  "formato": "Produto em destaque",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Planta mobiliada ocupa a metade direita sobre fundo mostarda com faixas coloridas. À esquerda ficam tipologias e argumento de localização; um botão azul chama para simular.",
+  "por_que_funciona": [
+    "A planta mostra a distribuição dos cômodos antes do contato.",
+    "O bloco azul isola as opções de um e dois dormitórios.",
+    "A faixa superior apresenta critérios de composição de renda.",
+    "O botão azul torna visível a ação de simulação."
+  ],
+  "quando_usar": "Para divulgar um lançamento com tipologias definidas e captar interessados em simulação.",
+  "estrutura_texto": "[Critério de renda e composição] → [lançamento e região] → [tipologias] → [benefício de localização] → [simulação]",
+  "legenda": "Conheça [empreendimento] em [região], com [tipologias] e [opcional]. Consulte [condições disponíveis] e faça uma simulação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição vertical com fundo mostarda e pinceladas diagonais suaves. Use planta mobiliada grande à direita, chamada e tipologias à esquerda em branco e azul e botão de simulação abaixo. Inclua condições reais em rodapé legível.",
+  "alerta_politica": "Se anunciar financiamento, informe critérios de renda e condições sem garantir aprovação. Mantenha informações de preço, disponibilidade e opcionais verificáveis; observe as restrições de segmentação aplicáveis a moradia.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3157245931136624",
+    "anunciante": "Plano e Plano Desenvolvimento Imobiliário",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 1,
+    "texto_original": "Seu novo endereço perto de tudo no Butantã.\nPlano&Mais Butantã\n1 e 2 dorms. com opção de varanda. Condições facilitadas para você morar bem. Faça uma simulação!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-3157245931136624.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-722958733591263",
+  "tipo": "estatico",
+  "titulo": "Tabela de higienização com preços por tamanho",
+  "formato": "Oferta e promoção",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Arte azul-clara com ilustração de sofá e selo vermelho de desconto no topo. Duas tabelas mostram preços anteriores riscados e atuais para higienização de sofás e colchões.",
+  "por_que_funciona": [
+    "As linhas por tamanho permitem localizar rapidamente o preço do serviço.",
+    "Os valores anteriores riscados tornam a redução visível em cada categoria.",
+    "O selo vermelho destaca a promoção sobre o fundo azul.",
+    "A base informa deslocamento grátis e parcelamento junto à tabela."
+  ],
+  "quando_usar": "Para serviços locais de higienização com preços padronizados por tamanho e região atendida definida.",
+  "estrutura_texto": "[DESCONTO]% OFF\n[MARCA]\nHigienização de [ITEM]\n[TAMANHO] [PREÇO ANTERIOR RISCADO] → [PREÇO ATUAL]\nHigienização de [SEGUNDO ITEM]\n[TAMANHO] [PREÇO ANTERIOR RISCADO] → [PREÇO ATUAL]\nTaxa de deslocamento [CONDIÇÃO]\nEm até [PARCELAS]x sem acréscimo",
+  "legenda": "[Cidade e região]: aproveite a promoção de higienização de [sofás e colchões]. Consulte o valor para o tamanho do seu item e as condições de atendimento. [Condição de deslocamento] e pagamento em até [parcelas]x. Agende seu serviço.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-claro com textura suave e pequena ilustração de sofá no topo. Coloque selo circular vermelho de desconto no canto superior direito. Organize duas tabelas com categorias sublinhadas, tamanhos à esquerda, preços anteriores riscados no meio e atuais em negrito à direita. Reserve a base para deslocamento e parcelamento. Garanta leitura em celular e coerência entre percentual e preços; não use promessas absolutas de remoção.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "722958733591263",
+    "anunciante": "Fietz Clean Porto Alegre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-05-27",
+    "dias_no_ar": 536,
+    "variacoes_ativas": 1,
+    "texto_original": "PORTO ALEGRE E REGIÃO! \nAPROVEITE nossa PROMOÇÃO SUPER ESPECIAL!\n\nProdutos e MÉTODO EXCLUSIVO.\nParece mágica, mas é apenas nosso método fazendo a diferença.\nSeu sofá/colchão estará pronto para uso no mesmo dia.\n\nRenove seu SOFÁ e COLCHÃO.\nRemoção total de SUJEIRA E ODORES.\nRemoção parcial ou total das MANCHAS.\n\nCasa com Crianças e Pets são os que mais necessitam de higienização.\nXixi, mau cheiro, riscos de canetinha, comidas e bebidas derramados, secreção de pet.\nTUDO ISSO E MUITO MAIS é totalmente SOLUCIONADO com a higienização PROFISSIONAL. Com aplicação da nossas Soluções alcalinas e ácidas próprias para cada tipo de tecidos com registo pela ANVISA. Garantindo a remoção TOTAL de ácaros, bactéria e qualquer tipo de microorganismos que estão nesse momento em seu sofá.\n\nAPERTE EM “Agendar agora” e agende com nossa atendente agora mesmo.\nWhatsApp - 51 98602.9129\nfb.com\nHome Care",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-722958733591263.jpg"
+}

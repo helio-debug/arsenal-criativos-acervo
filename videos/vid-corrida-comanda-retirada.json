@@ -1,0 +1,74 @@
+{
+ "id": "vid-corrida-comanda-retirada",
+ "tipo": "video",
+ "titulo": "Relógio acompanha uma comanda da entrada até a retirada",
+ "formato_video": "cronometro-processo",
+ "nichos": [
+  "servicos-locais"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quanto levou para esse [pedido] ficar pronto?",
+  "texto_tela": "Um pedido acompanhado",
+  "visual": "Cronômetro começa junto com a entrada de um pedido real anonimizado."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Cronômetro começa junto com a entrada de um pedido real anonimizado.",
+   "fala": "Quanto levou para esse [pedido] ficar pronto?",
+   "texto_tela": "Um pedido acompanhado"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Relógio segue visível nos cortes de preparo.",
+   "fala": "Entrou às [hora]. Agora passa por [etapa do preparo].",
+   "texto_tela": "Cortes com horário original"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Pedido é finalizado e relógio para na retirada.",
+   "fala": "Neste atendimento, foram [tempo medido]. O prazo muda com [fila e preparo].",
+   "texto_tela": "Tempo desta amostra"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Tela divide pedido pronto e informação de horário.",
+   "fala": "Consulte a previsão de hoje para [pedido] em [canal] antes de sair de casa.",
+   "texto_tela": "Confira o prazo atual"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Cronômetro começa junto com a entrada de um pedido real anonimizado.",
+  "O desenvolvimento mantém a informação ligada à imagem: Relógio segue visível nos cortes de preparo.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Pedido é finalizado e relógio para na retirada."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho servicos-locais, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Quanto levou para esse [pedido] ficar pronto? [Manter na tela: Um pedido acompanhado]\n4-11s | Entrou às [hora]. Agora passa por [etapa do preparo]. [Manter na tela: Cortes com horário original]\n11-19s | Neste atendimento, foram [tempo medido]. O prazo muda com [fila e preparo]. [Manter na tela: Tempo desta amostra]\n19-27s | Consulte a previsão de hoje para [pedido] em [canal] antes de sair de casa. [Manter na tela: Confira o prazo atual]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Cronômetro começa junto com a entrada de um pedido real anonimizado.",
+  "Plano próximo sem reflexos; travar foco e exposição: Relógio segue visível nos cortes de preparo.",
+  "Plano de detalhe legível, sem zoom digital: Pedido é finalizado e relógio para na retirada.",
+  "Plano final estável, com área livre para legenda e botão: Tela divide pedido pronto e informação de horário.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Cronômetro começa junto com a entrada de um pedido real anonimizado. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Relógio segue visível nos cortes de preparo. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Relógio acompanha uma comanda da entrada até a retirada, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Cronômetro começa junto com a entrada de um pedido real anonimizado. Depois, Relógio segue visível nos cortes de preparo. Depois, Pedido é finalizado e relógio para na retirada. Depois, Tela divide pedido pronto e informação de horário. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "legenda": "Consulte a previsão de hoje para [pedido] em [canal] antes de sair de casa. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Usar informações verificáveis, autorização de imagem e dados pessoais anonimizados. Identificar cenas ilustrativas. Não usar imagem ou áudio sintético como prova técnica, tempo real ou resultado de atendimento.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1124225636657640",
+   "dias_no_ar": 32,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/servicos-locais/delivery/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

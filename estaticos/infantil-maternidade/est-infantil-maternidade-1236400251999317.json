@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1236400251999317",
+  "tipo": "estatico",
+  "titulo": "Almofada infantil com embalagem ao fundo",
+  "formato": "Produto em destaque",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Almofada branca oval com rebaixo central em primeiro plano e embalagem amarela atrás, sobre fundo branco. A embalagem mostra o produto e uma foto de bebê.",
+  "por_que_funciona": [
+    "O fundo branco mantém a atenção no produto.",
+    "A posição inclinada deixa visíveis o contorno e o rebaixo central.",
+    "A embalagem amarela separa visualmente produto e fundo.",
+    "Produto e caixa juntos mostram o que será recebido."
+  ],
+  "quando_usar": "Para apresentar um item de enxoval em catálogo ou anúncio de consideração.",
+  "estrutura_texto": "[Produto em primeiro plano]\n[Embalagem ao fundo]\n[Identificação e informações do rótulo]",
+  "legenda": "Complete o enxoval com [produto]. Confira [características verificadas], disponibilidade e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma foto de catálogo em fundo branco, com produto grande no primeiro plano à esquerda e caixa atrás à direita. Preserve textura, formato e escala do produto enviado; use sombra suave e bastante espaço livre. Não acrescente preço ou selos não fornecidos. Não invente indicação terapêutica ou posição de sono segura.",
+  "alerta_politica": "Meta: não atribuir ao produto prevenção ou correção de condições médicas sem comprovação. Não apresentar almofadas infantis como garantia de sono seguro; respeitar as orientações de uso do fabricante.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1236400251999317",
+    "anunciante": "BabyTunes - By Vanessa",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-13",
+    "dias_no_ar": 246,
+    "variacoes_ativas": 1,
+    "texto_original": "🤩 Tudo que faltava pra você fechar seu enxoval e deixar tudo perfeito!\n\nBabytunes é a Loja da Mamãe e do Baby\n\nLinha completa de produtos para amamentação, carrinhos e cadeirinhas pra qualquer fase, brinquedos, bolsas e muito mais.\n\n🇺🇸 Direito de Miami pra você",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1236400251999317.jpg"
+}

@@ -1,0 +1,95 @@
+{
+ "id": "vid-cartelas-objecoes-garantia",
+ "formato_video": "motion-texto",
+ "nichos": [
+  "eventos-lives",
+  "infoproduto-cursos",
+  "mentoria-high-ticket"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "garantia",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Objeções em cartelas, garantia em selo e comparação de custos",
+ "duracao": "55-62s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Antes de confirmar [inscrição], vale conferir como funciona [evento] e quais são as condições de participação.",
+  "texto_tela": "Antes de confirmar [inscrição]",
+  "visual": "Apresentador sentado em sofá, com microfone de lapela e luminária quente lateral; título no alto e desenho simples de página junto ao rosto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Plano médio de apresentador sentado no sofá, luz quente lateral, título fino no alto e desenho de página ao fundo.",
+   "fala": "Antes de confirmar [inscrição], vale conferir como funciona [evento] e quais são as condições de participação.",
+   "texto_tela": "Antes de confirmar [inscrição]"
+  },
+  {
+   "tempo": "7-17s",
+   "cena": "Cartelas quase pretas com caixas contornadas; frases entram uma a uma, com voz em off.",
+   "fala": "Duas dúvidas aparecem nessa decisão: o conteúdo cabe em [contexto de uso]? E como levar a atividade para a prática?",
+   "texto_tela": "O conteúdo cabe em [contexto]?\nComo aplicar a atividade?"
+  },
+  {
+   "tempo": "17-26s",
+   "cena": "Volta ao plano médio do sofá; gesto aberto e legenda branca na base.",
+   "fala": "A programação inclui [atividade concreta] e [forma de apoio]. Confira os pré-requisitos para saber se a proposta atende ao que você procura.",
+   "texto_tela": "[Atividade] | [pré-requisito]"
+  },
+  {
+   "tempo": "26-39s",
+   "cena": "Cartela preta e dourada, selo circular grande com número de dias e condições abaixo.",
+   "fala": "A inscrição tem [prazo real] de garantia, contado a partir de [marco inicial]. Para solicitar [reembolso previsto], use [canal], conforme as condições da página.",
+   "texto_tela": "[Prazo] de garantia\n[Marco inicial] | [condição principal]"
+  },
+  {
+   "tempo": "39-53s",
+   "cena": "Balança ilustrada dourada no alto; fala da pessoa em janela na metade inferior.",
+   "fala": "Para avaliar o custo, compare [preço da inscrição] com [custo atual verificável da tarefa]. Considere o tempo necessário para participar e executar o exercício. Essa conta depende do seu contexto.",
+   "texto_tela": "[Preço da inscrição] × [custo atual]\nConsidere o tempo de execução"
+  },
+  {
+   "tempo": "53-62s",
+   "cena": "Volta ao rosto em tela cheia com CTA curto na base, mantendo o fundo do sofá.",
+   "fala": "Consulte a agenda e leia a garantia completa. Se o conteúdo servir para [objetivo], toque em saiba mais e confira as condições da inscrição.",
+   "texto_tela": "Confira agenda e garantia | saiba mais"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura coloca uma chamada de página acima do rosto e acrescenta um desenho de janela, conectando fala e inscrição.",
+  "As cartelas escuras retiram o rosto do quadro durante as dúvidas e reservam espaço para ler cada frase.",
+  "O selo circular com o número de dias dá destaque próprio ao prazo de garantia.",
+  "A balança dourada ocupa o topo enquanto a apresentadora continua na metade inferior, sustentando visualmente a comparação de custos."
+ ],
+ "quando_usar": "Para cursos, eventos e mentorias com garantia documentada e conteúdo já apresentado na página. Use quando a decisão depende de entender aplicação, custo e condições de reembolso.",
+ "roteiro_modelo": "[0-7s | corte e pausa breve]\nAntes de confirmar [inscrição], vale conferir como funciona [evento] e quais são as condições de participação.\n\n[7-17s | corte e pausa breve]\nDuas dúvidas aparecem nessa decisão: o conteúdo cabe em [contexto de uso]? E como levar a atividade para a prática?\n\n[17-26s | corte e pausa breve]\nA programação inclui [atividade concreta] e [forma de apoio]. Confira os pré-requisitos para saber se a proposta atende ao que você procura.\n\n[26-39s | corte e pausa breve]\nA inscrição tem [prazo real] de garantia, contado a partir de [marco inicial]. Para solicitar [reembolso previsto], use [canal], conforme as condições da página.\n\n[39-53s | corte e pausa breve]\nPara avaliar o custo, compare [preço da inscrição] com [custo atual verificável da tarefa]. Considere o tempo necessário para participar e executar o exercício. Essa conta depende do seu contexto.\n\n[53-62s | corte e pausa breve]\nConsulte a agenda e leia a garantia completa. Se o conteúdo servir para [objetivo], toque em saiba mais e confira as condições da inscrição.",
+ "tomadas_celular": [
+  "Grave 7s sentado em sofá, plano médio vertical, luz de janela lateral e luminária quente ao fundo.",
+  "Grave 10s de voz para as cartelas em um cômodo silencioso, celular a 20 cm da boca; use fundo gráfico sem necessidade de imagem.",
+  "Grave 9s explicando a atividade, plano médio frontal, luz suave e gesto aberto.",
+  "Grave 13s de voz sobre a garantia, celular próximo em ambiente silencioso; fotografe os termos reais com luz uniforme para consulta na edição.",
+  "Grave 14s da comparação em plano fechado, rosto na metade inferior e espaço acima para a balança, mesma luz lateral.",
+  "Grave 9s do convite final em plano médio, olho na lente, luz constante e margem inferior para a legenda."
+ ],
+ "caminho_ia": "Crie a fala com avatar e voz sintética e monte as cartelas no CapCut. Para a base visual no Sora: \"Vertical 9:16 medium shot of a fictional presenter seated on a neutral sofa, warm practical wall lamp, soft side key light, calm explanatory delivery, locked camera, clean upper area for graphics, 7 seconds.\" Para a comparação: \"Vertical 9:16 minimal editorial animation of a thin gold balance scale on a near-black background, two blank label plates, slow controlled movement, no readable text, no logos, 6 seconds.\" Faça selo, número de dias e caixas de dúvidas no editor; não peça ao gerador para escrever os termos. Repita o avatar em janela inferior durante a balança e use somente a garantia efetivamente oferecida.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nProduza 62s em seis blocos: 0-7 decisão de inscrição; 7-17 duas dúvidas concretas em cartelas; 17-26 atividade e pré-requisitos; 26-39 garantia com marco inicial e canal; 39-53 comparação de preço e custo verificável; 53-62 agenda e CTA. Tom calmo, sem culpa ou ameaça; dê pausa de leitura às cartelas. Use fundo quase preto, contornos dourados, tipografia clara e selo com prazo real. Na balança, mantenha o apresentador em janela inferior. Não copie a garantia de sete dias automaticamente nem alegue ausência de risco. Não afirme saber que a pessoa visitou uma página, perdeu dinheiro ou ficou para trás. Não invente economia ou retorno financeiro. Use pt-BR falado, frases curtas e campos [adaptáveis] onde faltar informação. Não invente provas, preços, datas, depoimentos ou condições. Não copie nomes, rostos, marcas, identidade visual, falas literais ou dados comerciais da referência. Evite superlativos, perguntas decorativas, antíteses vazias e fechos de efeito.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Confira a programação de [evento], os pré-requisitos e a atividade [atividade]. A garantia é de [prazo], a partir de [marco inicial], conforme [condições]. Leia os termos e veja como participar em [CTA].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-bc8031df",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-cartelas-objecoes-garantia/frames/f1.jpg",
+    "videos/vid-cartelas-objecoes-garantia/frames/f2.jpg",
+    "videos/vid-cartelas-objecoes-garantia/frames/f3.jpg",
+    "videos/vid-cartelas-objecoes-garantia/frames/f4.jpg",
+    "videos/vid-cartelas-objecoes-garantia/frames/f5.jpg"
+   ]
+  }
+ ]
+}

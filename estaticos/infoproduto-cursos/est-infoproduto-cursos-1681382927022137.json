@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1681382927022137",
+  "tipo": "estatico",
+  "titulo": "Cartaz de cursos gratuitos com lista de opções",
+  "formato": "Mídia de rua",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Duas pessoas uniformizadas apontam para um cartaz em um ambiente de formação técnica. O cartaz destaca cursos online gratuitos com certificado e apresenta oito opções em linhas com ícones e etiquetas vermelhas.",
+  "por_que_funciona": [
+    "A palavra “GRATUITOS” ocupa a maior área de texto do cartaz e torna a condição da oferta visível de imediato.",
+    "A faixa vermelha “COM CERTIFICADO!” destaca um benefício adicional logo abaixo da chamada principal.",
+    "As oito linhas com ícones, nomes de cursos e etiquetas “GRÁTIS” permitem localizar rapidamente uma área de interesse.",
+    "Os gestos das duas pessoas apontam para o cartaz e conduzem o olhar à lista de cursos."
+  ],
+  "quando_usar": "Para divulgar um catálogo de cursos gratuitos na captação inicial de interessados, quando a variedade de temas e a emissão de certificado forem condições reais da oferta.",
+  "estrutura_texto": "[Marca]\n[Assinatura institucional]\n[Modalidade dos cursos]\n[Condição principal em destaque]\n[Benefício adicional]\n[Curso 1] — [Condição]\n[Curso 2] — [Condição]\n[Curso 3] — [Condição]\n[Demais cursos e respectivas condições]",
+  "legenda": "💼 [Capacitação] gratuita com [tipo de certificado efetivamente oferecido]. Conheça os cursos de [áreas disponíveis] e inscreva-se em [link ou canal de inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma cena fotográfica com um cartaz vertical ocupando os dois terços direitos e duas pessoas à esquerda apontando para ele, em um ambiente coerente com o produto. Use fundo claro no cartaz, títulos grandes em azul-escuro e faixas e etiquetas vermelhas com texto branco. Coloque a marca própria no topo, a modalidade em uma faixa, a condição principal na maior tipografia e um benefício comprovável logo abaixo. Na metade inferior, organize até oito opções reais da oferta em linhas com pequenos ícones à esquerda e etiquetas de condição à direita. Adapte os textos aos dados de MEU PRODUTO; anuncie gratuidade e certificado somente se estiverem previstos na oferta. Mantenha os textos legíveis e preserve margens ao redor do cartaz.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1681382927022137",
+    "anunciante": "Olav Cursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-23",
+    "dias_no_ar": 22,
+    "variacoes_ativas": 8,
+    "texto_original": "💼 Capacitação gratuita com certificado reconhecido. Inscreva-se!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1681382927022137.jpg"
+}

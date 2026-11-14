@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-1380063137387415",
+  "tipo": "estatico",
+  "titulo": "Cão e gato frente a frente com linha de antiparasitários",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Faixa rosa no topo, foto de cão e gato em um gramado no centro e base azul com embalagens de antiparasitários. A mensagem de proteção aparece à direita dos animais.",
+  "por_que_funciona": [
+    "O encontro dos focinhos aproxima visualmente cão e gato.",
+    "A chamada branca contrasta com o fundo escuro da fotografia.",
+    "As embalagens alinhadas mostram a variedade de produtos.",
+    "O selo circular destaca o tema da campanha no limite entre as faixas."
+  ],
+  "quando_usar": "Para campanhas de conscientização sobre cuidados veterinários que também apresentem uma linha de produtos.",
+  "estrutura_texto": "[Selo da campanha]\n[Chamada sobre bem-estar]\n[Benefício de proteção]\n[Orientação de cuidado] com [linha de produtos].",
+  "legenda": "[Comportamentos habituais] podem expor cães e gatos a [parasitas]. Converse com o médico-veterinário sobre [cuidado periódico] e conheça [linha de produtos] adequada ao seu pet.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o layout em faixa superior rosa, fotografia central de cão e gato em ambiente externo e faixa inferior azul. Posicione uma chamada curta branca à direita dos animais, um selo circular próprio à esquerda e as embalagens da IMAGEM 2 alinhadas sobre a base. Use somente alegações aprovadas e reserve espaço legível para orientação veterinária.",
+  "alerta_politica": "Produtos veterinários: use apenas indicações e alegações aprovadas no registro aplicável junto ao MAPA. Evite garantia absoluta de proteção; indique orientação do médico-veterinário.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1380063137387415",
+    "anunciante": "Elanco Pets Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-19",
+    "dias_no_ar": 148,
+    "variacoes_ativas": 4,
+    "texto_original": "🐶 Tem cachorro que cheira tudo.\n😺 Tem gato que explora cada cantinho da casa.\nEsses comportamentos são naturais — mas também podem aumentar o contato com vermes e parasitas invisíveis.\n👉 O movimento Xô Verme reforça a importância da vermifugação periódica para manter cães e gatos protegidos.\n✅ Mais cuidado para os pets. Mais tranquilidade para você.\nXô Verme! Um movimento Elanco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-1380063137387415.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1099422508707388",
+  "tipo": "estatico",
+  "titulo": "Formação profissional com benefícios em grade",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo azul-escuro com conexões luminosas sustenta o nome de uma formação em análise de inteligência. Abaixo, itens em branco e amarelo apresentam modalidade, duração, flexibilidade e recursos de carreira.",
+  "por_que_funciona": [
+    "O nome da formação em amarelo é o maior bloco da composição.",
+    "A duração de nove meses aparece ao lado da modalidade online.",
+    "A grade organiza bolsa de trabalho, práticas e bolsas de estudo em itens curtos.",
+    "A expressão de últimas vagas introduz uma condição de disponibilidade visível."
+  ],
+  "quando_usar": "Para apresentar formações profissionais com duração definida e recursos de apoio ao aluno, quando houver vagas limitadas de fato.",
+  "estrutura_texto": "[Contexto profissional e benefício]\n[Tipo de formação]\n[Especialidade]\n[Modalidade] | [Duração] | [Flexibilidade]\n[Recurso de carreira] | [Atividade prática]\n[Disponibilidade] | [Bolsas]\n[Marca]",
+  "legenda": "Forme-se em [especialidade] no formato [modalidade], com [flexibilidade]. Conheça os docentes, o programa e os recursos de [apoio profissional]. Confira [condições de pagamento] e a disponibilidade de vagas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho com pontos e linhas luminosas discretas. Posicione uma frase curta no topo, seguida de categoria branca e nome do curso em amarelo grande. Distribua duração, modalidade e benefícios em grade central com duas ou três colunas e amplo espaçamento. Reserve a base para a minha marca. Use textos em pt-BR com os dados do MEU PRODUTO e apenas condições e credenciais comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1099422508707388",
+    "anunciante": "LISA Institute - Seguridad, Ciberseguridad, Inteligencia y Geopolítica",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-22",
+    "dias_no_ar": 388,
+    "variacoes_ativas": 1,
+    "texto_original": "➡️ Fórmate 100% Online, Flexible y a tu ritmo\n👨🏽💻 Los Mentores son Profesionales en activo\n📋 Accede +120 Ofertas de trabajo semanales\n👁🗨 Plazas limitadas 💰 Pago en cómodas cuotas\n🎯 No necesitas conocimientos previos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1099422508707388.jpg"
+}

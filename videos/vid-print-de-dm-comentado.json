@@ -1,0 +1,89 @@
+{
+ "id": "vid-print-de-dm-comentado",
+ "titulo": "Print de mensagem de cliente na tela e resposta falada",
+ "formato_video": "conversa-mensagens",
+ "nichos": [
+  "mentoria-high-ticket",
+  "infoproduto-cursos",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "30-34s",
+ "proporcao": "9:16",
+ "validacao": "media",
+ "hook": {
+  "falado": "Chegou esta dúvida: como [tarefa] sem [problema concreto]?",
+  "texto_tela": "Como [tarefa] sem [problema concreto]?",
+  "visual": "Rosto em close sob uma caixa branca de mensagem no topo. Nos frames, a caixa é de pergunta; na adaptação, use uma DM autorizada e anonimizada."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Close em ambiente interno, luz quente no fundo; mensagem fixa acima do rosto.",
+   "fala": "Chegou esta dúvida: como [tarefa] sem [problema concreto]?",
+   "texto_tela": "[Mensagem autorizada e anonimizada: dúvida curta]"
+  },
+  {
+   "tempo": "5-12s",
+   "cena": "Manter mensagem; pequeno gesto junto ao peito.",
+   "fala": "Eu começaria por [critério]. Se [condição concreta] ainda está indefinida, fazer [atalho comum] pode criar [complicação].",
+   "texto_tela": "[Mesma mensagem fixa]"
+  },
+  {
+   "tempo": "12-21s",
+   "cena": "Aproximar levemente o rosto e explicar um exemplo sem nomes.",
+   "fala": "Por exemplo: em [situação], confira [informação necessária]. Depois, faça [ação simples] e veja se [critério de conferência] foi atendido.",
+   "texto_tela": "[Mesma mensagem fixa]"
+  },
+  {
+   "tempo": "21-28s",
+   "cena": "Retomar distância inicial; mensagem permanece legível.",
+   "fala": "Em [produto], essa etapa vem com [recurso incluído]. Você consegue ver [entrega] antes de escolher [próximo passo].",
+   "texto_tela": "[Mesma mensagem fixa]"
+  },
+  {
+   "tempo": "28-34s",
+   "cena": "Olhar direto para a câmera; gesto discreto para baixo.",
+   "fala": "Envie [palavra-chave] por mensagem para receber [detalhes] e consultar [forma de atendimento].",
+   "texto_tela": "[Mensagem fixa] | Envie [PALAVRA]"
+  }
+ ],
+ "por_que_funciona": [
+  "A caixa branca com pergunta ocupa o topo em todos os frames, mantendo o assunto visível durante a resposta.",
+  "O close deixa o rosto grande sob a pergunta, ligando visualmente a dúvida a quem responde.",
+  "A luminária quente e os painéis ao fundo criam um cenário de conversa em escritório com poucos elementos.",
+  "A transcrição passa da dúvida para um cuidado de implementação e só depois faz o convite; essa ordem sustenta a resposta antes da oferta."
+ ],
+ "quando_usar": "Para quem recebe a mesma dúvida antes de vender curso, mentoria ou serviço local. Use no meio do funil, com uma mensagem autorizada que permita explicar um critério de decisão.",
+ "tomadas_celular": [
+  "Grave 5s em close vertical, luz de janela lateral e espaço acima da cabeça para a mensagem.",
+  "Grave 7s no mesmo close, luz suave de frente e luminária ao fundo; explique [critério].",
+  "Grave 9s com câmera fixa na altura dos olhos e luz igual, trazendo um exemplo com gesto curto.",
+  "Grave 7s um pouco mais afastado, luz frontal suave, apresentando [recurso].",
+  "Grave 6s em close, mesma luz, falando o convite com uma pausa antes de [palavra-chave]."
+ ],
+ "caminho_ia": "Use avatar autorizado e voz sintética para toda a resposta. No Runway, gere fundos ou cenas de apoio com: \"Vertical 9:16 eye-level close-up of a generic presenter in a cozy office, warm practical lamp in background, soft window key light, natural conversational expression, leave upper quarter empty for message overlay, no text, no logos, 5 seconds.\" e \"Vertical 9:16 medium close-up of a generic presenter explaining [product decision criterion], subtle hand gesture, steady smartphone framing, warm office background, soft frontal light, empty upper title area, no logos, 8 seconds.\" Sobreponha no CapCut a mensagem anonimizada, fixa e legível. Se não houver DM autorizada, identifique o cartão como dúvida frequente, sem simular depoimento real.",
+ "legenda": "Uma dúvida sobre [tarefa]: como evitar [problema concreto]? A resposta começa por [critério]. Para consultar [produto ou atendimento], envie [palavra-chave] por mensagem.",
+ "alerta_politica": null,
+ "roteiro_modelo": "Chegou esta dúvida: como [tarefa] sem [problema concreto]?\n\n[pausa curta / corte]\n\nEu começaria por [critério]. Se [condição concreta] ainda está indefinida, fazer [atalho comum] pode criar [complicação].\n\n[pausa curta / corte]\n\nPor exemplo: em [situação], confira [informação necessária]. Depois, faça [ação simples] e veja se [critério de conferência] foi atendido.\n\n[pausa curta / corte]\n\nEm [produto], essa etapa vem com [recurso incluído]. Você consegue ver [entrega] antes de escolher [próximo passo].\n\n[pausa curta / corte]\n\nEnvie [palavra-chave] por mensagem para receber [detalhes] e consultar [forma de atendimento].",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 34s em 5 blocos: 0-5s leitura de dúvida, 5-12s critério, 12-21s exemplo, 21-28s recurso do produto, 28-34s convite. Mensagem branca fixa no topo, rosto em close abaixo, tom de resposta individual e ritmo de conversa. A referência mostra caixinha de pergunta, não uma DM comprovada. Use DM somente com autorização e dados removidos; sem DM, escreva dúvida frequente. Não invente cliente, citação, experiência ou lista de empresas atendidas. Evite excesso de legendas competindo com a mensagem.\nUse pt-BR falado, frases diretas e campos [adaptáveis]. Sem antíteses vazias, superlativos sem prova, perguntas decorativas ou promessa de resultado. Não copie nomes, rostos, marcas, clientes, contatos, alegações ou falas da referência. Não invente dados, depoimentos ou condições comerciais.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-cca83e9c",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-print-de-dm-comentado/frames/f1.jpg",
+    "videos/vid-print-de-dm-comentado/frames/f2.jpg",
+    "videos/vid-print-de-dm-comentado/frames/f3.jpg",
+    "videos/vid-print-de-dm-comentado/frames/f4.jpg",
+    "videos/vid-print-de-dm-comentado/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

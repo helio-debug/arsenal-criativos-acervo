@@ -1,0 +1,36 @@
+{
+  "id": "est-imoveis-2677618299108964",
+  "tipo": "estatico",
+  "titulo": "Entrada facilitada com renda familiar em destaque em blocos de cor",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Composição dividida entre bloco branco superior com identificação de programa habitacional e bloco azul inferior. A renda familiar aparece em amarelo, com o valor ocupando grande parte da metade inferior.",
+  "por_que_funciona": [
+    "A divisão entre branco e azul organiza programa e condição de acesso.",
+    "O valor amarelo sobre azul concentra a atenção na renda familiar.",
+    "A expressão renda familiar diferencia o valor anunciado de uma prestação."
+  ],
+  "quando_usar": "Para captar interessados em habitação popular, informando renda de referência e encaminhando para análise de elegibilidade.",
+  "estrutura_texto": "ENTRADA FACILITADA\n[Programa habitacional]\nCOM RENDA FAMILIAR\nA PARTIR DE\n[Valor da renda]",
+  "legenda": "Conheça as opções de imóveis em [região] pelo [programa habitacional]. Famílias com renda a partir de [valor de referência] podem solicitar uma simulação. Subsídio e financiamento dependem de [regras vigentes], enquadramento e análise. Preencha [formulário] para consultar as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a arte em metade superior branca e inferior azul escuro. No topo, destaque entrada facilitada e uma identificação textual genérica do programa, sem copiar selos oficiais. Na metade inferior, use renda familiar e valor em amarelo, com valor muito grande e a expressão a partir de em branco. Não confunda renda com parcela; reserve espaço para condições.",
+  "alerta_politica": "Financiamento e subsídio dependem de regras vigentes, enquadramento e análise de crédito. Não garantir aprovação nem subsídio máximo; deixar claro que o valor é renda familiar, não parcela. Evitar uso de selo oficial que sugira vínculo inexistente e observar as regras da Meta aplicáveis a anúncios de moradia.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2677618299108964",
+    "anunciante": "Construtora Tenda",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-17",
+    "dias_no_ar": 485,
+    "variacoes_ativas": 4,
+    "texto_original": "Você pode conseguir até 55 mil de subsídio para conquistar a casa própria. Preencha o formulário e saiba mais!\nConquiste pelo Minha Casa Minha Vida com a Tenda!\nFaça seu cadastro e descubra como conseguir o desconto.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-2677618299108964.jpg"
+}

@@ -1,0 +1,73 @@
+{
+  "id": "vid-encaixe-gaveta-grade",
+  "tipo": "video",
+  "titulo": "Organização de gaveta com grade desenhada e encaixes vistos de cima",
+  "formato_video": "organizacao-encaixe",
+  "nichos": [
+    "produtos-fisicos-marketplace"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Esses potes cabem juntos? Vamos montar a gaveta.",
+    "texto_tela": "Medida interna",
+    "visual": "Gaveta vazia com fita delimitando medidas"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Gaveta vazia com fita delimitando medidas",
+      "fala": "O espaço útil aqui tem [largura] por [profundidade].",
+      "texto_tela": "Medida interna"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Sobreposição desenha uma grade na gaveta",
+      "fala": "Separei o espaço em [quantidade] módulos de [medida].",
+      "texto_tela": "Plano de encaixe"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Mãos inserem os recipientes conforme a grade",
+      "fala": "Os [itens] entram nesta ordem. Aqui ficou [folga] para abrir.",
+      "texto_tela": "Encaixe real"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Abre e fecha gaveta no mesmo ângulo",
+      "fala": "Confira as medidas do kit e da sua gaveta antes de pedir.",
+      "texto_tela": "Kit [quantidade de peças]"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra gaveta vazia com fita delimitando medidas, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém o mesmo produto como referência entre os cortes.",
+    "O fechamento exibe abre e fecha gaveta no mesmo ângulo, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é organização de gaveta com grade desenhada e encaixes vistos de cima.",
+  "roteiro_modelo": "[Abertura] Esses potes cabem juntos? Vamos montar a gaveta.\n[0-4s] O espaço útil aqui tem [largura] por [profundidade].\n[4-10s] Separei o espaço em [quantidade] módulos de [medida].\n[10-18s] Os [itens] entram nesta ordem. Aqui ficou [folga] para abrir.\n[18-25s] Confira as medidas do kit e da sua gaveta antes de pedir.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Gaveta vazia com fita delimitando medidas.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Sobreposição desenha uma grade na gaveta.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mãos inserem os recipientes conforme a grade.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Abre e fecha gaveta no mesmo ângulo."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, gaveta vazia com fita delimitando medidas, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, sobreposição desenha uma grade na gaveta, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Organização de gaveta com grade desenhada e encaixes vistos de cima. Preserve esta mecânica: Gaveta vazia com fita delimitando medidas; Sobreposição desenha uma grade na gaveta; Mãos inserem os recipientes conforme a grade; Abre e fecha gaveta no mesmo ângulo. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não invente medidas, estoque, garantia nem condições comerciais.",
+  "legenda": "Veja [produto] de perto: organização de gaveta com grade desenhada e encaixes vistos de cima. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": null,
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "2136083016946936",
+      "dias_no_ar": 40,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy e arte estática de recipientes em grade. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

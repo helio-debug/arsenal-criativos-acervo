@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-866305189783959",
+  "tipo": "estatico",
+  "titulo": "Cupom sazonal sobre foto de motorista",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de um homem dentro de um carro, com luz azul e área escura para a chamada à esquerda. Um cupom roxo destaca desconto no primeiro mês e valor de adesão.",
+  "por_que_funciona": [
+    "A foto dentro do carro contextualiza imediatamente o seguro automotivo.",
+    "A chamada de data comemorativa fornece um motivo visível para a promoção.",
+    "O cupom roxo contrasta com a foto escura e concentra as duas condições de preço.",
+    "O código em uma cápsula separada facilita identificar o que inserir na contratação."
+  ],
+  "quando_usar": "Para uma campanha sazonal de seguro com cupom e condições de adesão definidas.",
+  "estrutura_texto": "Promoção [data comemorativa]\n[assinatura da campanha]\n[quantidade] cupons\n[tipo de seguro]\n[desconto] no [período] + [valor] na adesão\nCUPOM [código]",
+  "legenda": "Use [cupom] para contratar [seguro] com [desconto] no [período] e [valor de adesão]. Consulte [condições], [coberturas] e [vigência da promoção] antes de contratar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma foto de motorista no interior de um carro, com iluminação azul escura e rosto à direita. Posicione a chamada sazonal branca no alto à esquerda. Crie um grande cupom roxo com bordas arredondadas na parte inferior esquerda, divisão pontilhada e números grandes para desconto e adesão. Abaixo, coloque uma cápsula com o código. Use os dados fornecidos do produto e mantenha as condições legíveis.",
+  "alerta_politica": "Seguro: informe condições, vigência, coberturas e restrições da oferta sem sugerir proteção irrestrita. A arte mostra adesão de R$ 1,00 e a legenda original anuncia adesão grátis; concilie os valores antes de veicular.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "866305189783959",
+    "anunciante": "Loovi com Renato Cariani",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-11",
+    "dias_no_ar": 64,
+    "variacoes_ativas": 13,
+    "texto_original": "🔥 ADESÃO GRÁTIS + 50%OFF! O cupom que você queria na Loovi finalmente chegou.\n\nSe você estava esperando o momento certo para proteger o seu carro, a hora é agora. Por tempo estritamente limitado, você garante taxa zero de adesão no seu plano mensal.\n\n👉 Cupom: pai1000",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-866305189783959.jpg"
+}

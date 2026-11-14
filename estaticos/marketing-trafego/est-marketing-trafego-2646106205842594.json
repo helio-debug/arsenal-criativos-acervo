@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-2646106205842594",
+  "tipo": "estatico",
+  "titulo": "Capacitação de marketing com lista e foto de operação",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "gratis-isca",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul-marinho com título ciano, apresentação da capacitação e três itens de formato. A parte inferior traz uma comerciante fotografando um produto, em recorte diagonal com borda ciano.",
+  "por_que_funciona": [
+    "O título ciano destaca o assunto no alto da peça.",
+    "A lista permite verificar rapidamente duração, aulas e mentoria.",
+    "O botão branco se diferencia do fundo escuro e concentra o CTA.",
+    "A foto de produção de conteúdo exemplifica uma aplicação prática do programa."
+  ],
+  "quando_usar": "Para divulgar capacitação gratuita de marketing a pequenos negócios que precisam melhorar conteúdo e vendas digitais.",
+  "estrutura_texto": "[Nome da capacitação]\nAprenda a [atrair público] com [conteúdos] e [estratégias nos canais].\n● Duração: [prazo]\n● [Modalidade das aulas]\n● [Mentoria individual]\n[CTA de inscrição]",
+  "legenda": "Participe de [jornada online gratuita] para aprender a [atrair clientes], produzir [conteúdo] e usar [canais digitais]. Conte com [mentoria individual] para aplicar o aprendizado ao seu negócio. Inscreva-se em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, título ciano no alto, parágrafo branco em negrito e lista de três itens com marcadores ciano. Insira CTA em retângulo branco arredondado. Na metade inferior, posicione foto da IMAGEM 2 em grande recorte diagonal com borda ciano e um selo circular temático. Use identidade própria e mencione gratuidade apenas se confirmada.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2646106205842594",
+    "anunciante": "Sebrae Tocantins",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 1,
+    "texto_original": "No UP Digital Marketing, uma jornada 100% online e gratuita do Sebrae, você aprende a atrair o cliente certo, criar conteúdos de baixo custo e usar os canais digitais para vender mais com o acompanhamento de mentorias individuais exclusivas para a sua empresa. Chega de improviso: invista seu tempo onde realmente traz retorno.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-2646106205842594.jpg"
+}

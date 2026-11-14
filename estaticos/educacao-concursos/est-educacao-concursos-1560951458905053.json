@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1560951458905053",
+  "tipo": "estatico",
+  "titulo": "Curso técnico com retrato e selo de avaliação",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo cinza claro com bordas quadriculadas e retrato em quadrado vermelho no topo. O nome do curso, a modalidade e um selo vermelho de avaliação aparecem centralizados abaixo.",
+  "por_que_funciona": [
+    "O nome do curso em preto é a principal informação depois do retrato.",
+    "A etiqueta “EAD” permite reconhecer a modalidade sem ler a legenda.",
+    "O selo vermelho de avaliação cria um ponto de contraste junto à oferta.",
+    "A linha de turmas abertas e início imediato dá uma orientação concreta sobre matrícula."
+  ],
+  "quando_usar": "Para captar interessados em uma formação técnica definida, apresentando modalidade e disponibilidade de turmas.",
+  "estrutura_texto": "[Marca]\nCurso técnico em [área] [modalidade]\n[Avaliação comprovada]\n[Turmas abertas] | [Início] - [Condições]",
+  "legenda": "Prepare-se para atuar em [área] com o curso técnico em [especialidade]. Conheça as disciplinas, possibilidades de atuação e condições de matrícula em [modalidade]. Consulte a disponibilidade das próximas turmas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical com bastante espaço livre no terço inferior, fundo cinza claro e pequenos quadrados suaves nas bordas superior e inferior. No alto, reserve espaço para a identidade própria. Abaixo, coloque a imagem em um quadrado de cantos arredondados com fundo vermelho. Centralize [modalidade], [nome do curso] em preto e uma pequena etiqueta vermelha para [formato]. Inclua cápsula vermelha com [avaliação comprovável] e linha discreta de [condições de matrícula]. Não invente reconhecimento acadêmico.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1560951458905053",
+    "anunciante": "Faspec",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-23",
+    "dias_no_ar": 144,
+    "variacoes_ativas": 1,
+    "texto_original": "Torne-se um Técnico em Mineração!\nExecute e conduza trabalhos nas áreas de pesquisa mineral, extração e tratamento de minérios.\nAtue com gestão de equipes de trabalho em empresas de mineração, petróleo, consultoria e centros de pesquisa.\n\nQual é o seu próximo passo?\nEstude na Faspec",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1560951458905053.jpg"
+}

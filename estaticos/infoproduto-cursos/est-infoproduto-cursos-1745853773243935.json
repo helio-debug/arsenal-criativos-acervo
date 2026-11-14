@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1745853773243935",
+  "tipo": "estatico",
+  "titulo": "Nome da especialização em destaque com padrão vermelho",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Metade clara com título preto em três linhas e modalidade no alto. À direita, um brasão branco aparece sobre formas geométricas vermelhas e vinho.",
+  "por_que_funciona": [
+    "O título em três linhas ocupa boa parte da área clara e facilita identificar o tema.",
+    "A modalidade no topo antecipa uma informação prática da oferta.",
+    "A frase sobre debates multidisciplinares especifica a abordagem do curso.",
+    "O painel geométrico usa contraste de vermelho e vinho para destacar a identidade."
+  ],
+  "quando_usar": "Para divulgar uma formação especializada com nome e abordagem bem definidos.",
+  "estrutura_texto": "[Selo de pós-graduação]\n[Modalidade]\n[Nome da especialização]\n[Abordagem pedagógica]\n[Identidade da instituição]",
+  "legenda": "Especialize-se em [área] com [curso]. A formação reúne [formato das aulas], [perfil docente] e conteúdos voltados a [habilidades profissionais]. Conheça a proposta e a grade.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie layout dividido igualmente. Na esquerda, fundo branco quente, selo discreto no alto, modalidade no canto superior direito e nome do curso em preto grande, quebrado em três linhas. Na direita, aplique padrão angular vermelho e vinho com identidade própria branca central. Use a IMAGEM 2 apenas se pertinente à apresentação do produto. Acrescente uma frase curta sobre a abordagem pedagógica.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1745853773243935",
+    "anunciante": "Educação Continuada da PUC-Rio com CCEC - PUC- Rio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 2,
+    "texto_original": "Coloque a excelência e tradição da PUC-Rio no seu currículo. Faça sua especialização em Direito Médico e Hospitalar. \n\nCom o ensino digital, você contará com a qualidade que conhece, aliada à flexibilidade que o digital permite. Aqui você terá aulas com professores altamente qualificados, encontros ao vivo e conteúdos voltados para o desenvolvimento das habilidades que o mercado procura.\nExcelência no Direito\nConheça o curso.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1745853773243935.jpg"
+}

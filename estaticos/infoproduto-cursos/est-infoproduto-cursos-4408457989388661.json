@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-4408457989388661",
+  "tipo": "estatico",
+  "titulo": "Inscrições abertas com professor e capa do curso",
+  "formato": "Comunicado oficial",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um profissional de jaleco aparece à esquerda sobre fundo clínico desfocado. À direita, a capa do curso traz a ilustração anatômica de um cão, com balão vermelho de inscrições abertas no topo.",
+  "por_que_funciona": [
+    "O balão vermelho coloca o status das inscrições no ponto mais alto.",
+    "O retrato de jaleco relaciona o curso ao ambiente profissional.",
+    "A capa com anatomia do cão torna a especialidade visível.",
+    "O título da capa informa tema e modalidade sem depender da legenda."
+  ],
+  "quando_usar": "Para abrir inscrições de capacitação veterinária voltada a profissionais com os pré-requisitos exigidos.",
+  "estrutura_texto": "[INSCRIÇÕES ABERTAS]\n[Curso online]\n[Fundamentos da especialidade]\n[Identidade do curso]",
+  "legenda": "Estão abertas as inscrições para [curso de especialidade veterinária]. A formação reúne [módulos e temas] com acesso por [período]. Confira o programa, os pré-requisitos profissionais e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo clínico desfocado, retrato autorizado de um docente à esquerda e capa do meu curso à direita, com ilustração anatômica relacionada ao conteúdo. No topo, crie balão vermelho com letras brancas anunciando inscrições abertas. Dê destaque ao título da especialidade e à modalidade online. Não invente credenciais nem garanta competência cirúrgica após o curso.",
+  "alerta_politica": "Em capacitação de saúde veterinária, não prometa cura, sucesso cirúrgico ou habilitação profissional automática. Use credenciais verdadeiras e imagens clínicas sem conteúdo gráfico; evite alegações enganosas na Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4408457989388661",
+    "anunciante": "Orthoscience vet",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-15",
+    "dias_no_ar": 303,
+    "variacoes_ativas": 1,
+    "texto_original": "Increva-se neste curso online completo de Neurocirurgia de Cães e Gatos e tenha acesso a toda base teórica e prática para se tornar um cirurgião veterrinário de excelência\nTenha acesso à 6 módulos do básico ao avançado dentro das cirurgias de coluna veretbral e encéfalo de cães e gatos por 1 ano de acesso.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-4408457989388661.jpg"
+}

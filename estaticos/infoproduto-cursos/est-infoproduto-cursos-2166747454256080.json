@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-2166747454256080",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre demora nas aprovações",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Foto de uma mesa com documento sendo assinado e bandejas de papel ocupa a base. Sobre área clara, uma pergunta destaca em lilás a passagem de uma aprovação por várias mesas.",
+  "por_que_funciona": [
+    "A pergunta sobre quantas mesas uma aprovação percorre torna visível um gargalo cotidiano.",
+    "A bandeja de documentos e a assinatura conectam a mensagem ao trabalho administrativo.",
+    "A frase inferior explicita a consequência da espera sobre a próxima etapa."
+  ],
+  "quando_usar": "Para atrair profissionais de serviços interessados em reduzir atrasos entre áreas e apresentar formação prática em processos.",
+  "estrutura_texto": "Uma [TAREFA SIMPLES]\npassa por quantas [ETAPAS]?\nCada [ATRASO] adia [ENTREGA] e paralisa [PRÓXIMO PASSO].",
+  "legenda": "[Aprovações demoradas] e [retrabalho] podem indicar gargalos no fluxo entre áreas. Em [programa], você aprende a identificar esses pontos e desenvolve [projeto real] com [mentoria individual]. Veja como analisar o seu processo em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de atividade administrativa da IMAGEM 2 na metade inferior, incluindo mãos, documento e bandeja. Preserve área clara no topo. Insira pergunta em duas linhas, com a segunda em lilás, pequeno traço lilás e explicação abaixo em azul muito escuro. Não inclua botão se prejudicar o espaço da pergunta.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2166747454256080",
+    "anunciante": "Leanshop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-07",
+    "dias_no_ar": 38,
+    "variacoes_ativas": 1,
+    "texto_original": "Aprovações que demoram, informações espalhadas e tarefas reffeitas: quando isso vira rotina, o problema não é a dedicação da equipe, mas o caminho que o trabalho percorre entre as áreas.\n\nNo Programa Prático de Formação Lean Serviços, você aprende a identificar e eliminar os gargalos do seu fluxo de informação, aplicando as ferramentas em um projeto prático real da sua empresa sob mentoria individual.\n\nVeja como identificar os pontos em que o fluxo perde tempo.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2166747454256080.jpg"
+}

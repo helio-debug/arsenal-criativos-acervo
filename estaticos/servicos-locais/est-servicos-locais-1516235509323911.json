@@ -1,0 +1,37 @@
+{
+  "id": "est-servicos-locais-1516235509323911",
+  "tipo": "estatico",
+  "titulo": "Comunicado de vaga com cargo em destaque",
+  "formato": "Comunicado oficial",
+  "nicho": "servicos-locais",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de um profissional ocupa o fundo com filtro verde e escurecimento na base. A chamada de recrutamento, o cargo e o e-mail ficam alinhados à esquerda.",
+  "por_que_funciona": [
+    "A etiqueta “COMUNICADO” identifica o caráter informativo da peça.",
+    "O cargo em branco e negrito concentra a leitura na oportunidade.",
+    "A base escura aumenta o contraste do texto sobre a foto.",
+    "O e-mail no rodapé oferece um caminho direto para candidatura."
+  ],
+  "quando_usar": "Para escritórios e empresas locais divulgarem uma vaga específica a candidatos da região.",
+  "estrutura_texto": "COMUNICADO\nTEMOS VAGA PARA\n[Cargo]\nno [Departamento]\n[E-mail de candidatura]",
+  "legenda": "Faça parte do nosso time. Estamos recebendo currículos para [cargo] em [departamento]. Requisitos: [formação] e [experiência]. Local: [cidade]. Envie seu currículo para [e-mail] com o assunto [cargo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use retrato profissional na metade direita, filtro verde profundo e gradiente preto inferior. À esquerda, disponha uma etiqueta verde de comunicado, uma linha espaçada de recrutamento, o cargo em branco e negrito e um contato abaixo de um filete. Adapte a foto da IMAGEM 2 ao contexto profissional.",
+  "alerta_politica": "Em anúncios de emprego, evite requisitos discriminatórios e segmentação por atributos protegidos; configure a categoria especial de emprego quando aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1516235509323911",
+    "anunciante": "Vanguarda Contabilidade",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-07-24",
+    "dias_no_ar": 843,
+    "variacoes_ativas": 1,
+    "texto_original": "Faça parte do nosso time ✅\n\nEstamos recebendo currículos para a vaga de Operador/Analista no departamento FISCAL. Confira os requisitos necessários:\n\n- Formação completa ou em andamento em áreas correlatas à contabilidade;\n- Experiência prévia na função será considerada um diferencial;\nPreferencialmente, buscamos candidatos residentes em Birigui.\n\n✳ Envie seu currículo para o e-mail rh@vanguardacontabilidade.com.br, utilizando o assunto ou arquivo anexo: \"Operador/Analista no Departamento FISCAL\". \n\nOu diretamente pelo link do site:\n\nhttps://vanguardacontabilidade.com.br/trabalhe-conosco/\n\nAgradecemos o seu interesse em fazer parte da nossa equipe.\nVanguarda Contabilidade",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/servicos-locais/est-servicos-locais-1516235509323911.jpg"
+}

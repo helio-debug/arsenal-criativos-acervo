@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1699952361164207",
+  "tipo": "estatico",
+  "titulo": "Curso de unhas com preço baixo e bônus na Black Friday",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Arte branca com degradê rosa no rodapé, título de Black Friday e duas fotos circulares de unhas. Preço e últimas vagas aparecem à direita, com lista de conteúdos, apostila e certificado abaixo.",
+  "por_que_funciona": [
+    "As duas fotos circulares mostram acabamentos relacionados às técnicas ensinadas.",
+    "O preço em vermelho se destaca ao lado da chamada de últimas vagas.",
+    "A lista com marcas de verificação detalha o conteúdo do curso.",
+    "A apostila e o certificado visíveis reforçam o conjunto de materiais anunciado."
+  ],
+  "quando_usar": "Para campanhas sazonais de cursos práticos com preço definido, bônus reais e condições de encerramento claras.",
+  "estrutura_texto": "[EVENTO PROMOCIONAL]\n[ÁREA]\nCURSO ONLINE\n[TÉCNICA]\nÚltimas vagas\nPor [PREÇO]\n[LISTA DE CONTEÚDOS]\nBônus exclusivo\nApostila: [TÍTULO]\nCertificado incluso",
+  "legenda": "Conheça o curso online de [técnica]. Acesse [conteúdos], com [bônus] e [condições do certificado], por [preço]. Envie uma mensagem para consultar [prazo e disponibilidade da oferta].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com degradê rosa suave no rodapé, título preto e vermelho no topo, duas fotos circulares da IMAGEM 2 com bordas vermelhas e preço destacado à direita. Organize conteúdos com pequenos checks verdes à esquerda e bônus e certificado no rodapé. Use escassez e evento promocional apenas se forem reais. Adapte os textos aos dados de MEU PRODUTO, sem inventar benefícios, preços, credenciais ou resultados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1699952361164207",
+    "anunciante": "Gabi Oliveira Nail Designer",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-01-29",
+    "dias_no_ar": 289,
+    "variacoes_ativas": 2,
+    "texto_original": "Chat in Instagram",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1699952361164207.jpg"
+}

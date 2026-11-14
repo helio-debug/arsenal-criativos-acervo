@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1441384154337149",
+  "tipo": "estatico",
+  "titulo": "Formação clínica com demonstração e desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Peça apresenta curso de agulhamento a seco com título grande e restrição a graduados em saúde. Demonstração prática ocupa o centro, com preço em faixa lateral e benefícios, avaliações e CTA na base.",
+  "por_que_funciona": [
+    "A faixa de público informa que a formação é voltada a graduados em saúde.",
+    "A demonstração prática central identifica o procedimento ensinado.",
+    "O preço atual em grande escala facilita localizar a oferta.",
+    "A base reúne acesso, bônus, avaliações e botão de inscrição."
+  ],
+  "quando_usar": "Para divulgar formação clínica a profissionais habilitados, com escopo de atuação e condições da oferta explícitos.",
+  "estrutura_texto": "CURSO DE [TÉCNICA]\n[POSICIONAMENTO COMPROVÁVEL]\nExclusivo para [PÚBLICO HABILITADO]\nDomine [CONTEÚDOS]\n[ABRANGÊNCIA DO PROGRAMA]\nDe [PREÇO ANTERIOR] por [PREÇO ATUAL]\n[CONDIÇÃO DE ACESSO]\n[BÔNUS]\n[AVALIAÇÕES VERIFICADAS]\n[CTA]",
+  "legenda": "Formação em [técnica] destinada a [profissionais habilitados]. Estude [fundamentos] e [aplicações previstas no programa], com certificado de [carga horária]. Consulte requisitos profissionais, conteúdo, bônus e condições de matrícula em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco na parte superior e degradê azul-escuro na base. Título em preto grande, faixa de elegibilidade escura e demonstração de ensino ao centro com a IMAGEM 2. Preço em etiqueta verde com borda laranja à esquerda; diagrama técnico simples à direita. Distribua acesso, bônus e CTA na base com ícones pequenos. Omita promessas de alívio imediato, rankings e avaliações sem comprovação.",
+  "alerta_politica": "Meta: evitar promessas de resultado clínico garantido e alegações de superioridade sem comprovação. A frase de alívio imediato exige revisão; não a reutilizar como garantia. Direcionar apenas a profissionais habilitados e respeitar o escopo do conselho profissional aplicável; certificado de curso livre não equivale a título de especialista.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1441384154337149",
+    "anunciante": "Dr. André Torres",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-16",
+    "dias_no_ar": 243,
+    "variacoes_ativas": 1,
+    "texto_original": "O agulhamento a seco se tornou uma das técnicas mais eficazes no tratamento da dor miofascial.\nNesta formação completa você aprende desde os fundamentos até aplicações avançadas com EletroDry, ampliando suas possibilidades clínicas e os resultados com seus pacientes.\nDomine o Dry Needling e EletroDry\nFormação completa com certificado de 100h",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1441384154337149.jpg"
+}

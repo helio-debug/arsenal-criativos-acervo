@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2050137065873053",
+  "tipo": "estatico",
+  "titulo": "Receita em close com chamada de curiosidade",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Close de banana preparada com cobertura em pó e um garfo no primeiro plano. Caixas brancas anunciam a receita; uma apresentadora aparece recortada no canto inferior direito.",
+  "por_que_funciona": [
+    "O close da banana mostra textura e resultado da receita.",
+    "A caixa branca no topo torna o tema legível sobre a comida.",
+    "A frase terminada em reticências deixa a transformação em aberto.",
+    "O rosto recortado aproxima a peça do conteúdo de um criador."
+  ],
+  "quando_usar": "Para divulgar descoberta de receitas em um aplicativo de conteúdo, com uma amostra visual do que o público encontrará.",
+  "estrutura_texto": "[INGREDIENTE] [EMOJI]\nna [EQUIPAMENTO]\nVeja como transformar [INGREDIENTE EM DETERMINADA CONDIÇÃO]...",
+  "legenda": "Descubra [receitas e dicas do seu interesse] em [aplicativo]. Acompanhe [tipo de conteúdo] e encontre ideias para [ocasião].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma imagem culinária em close como fundo integral, com textura apetecível e um utensílio entrando pela borda. Coloque título em caixa branca arredondada no topo e uma frase de curiosidade em outra caixa branca no terço inferior. Inclua um pequeno recorte de apresentador autorizado no canto inferior direito. Use letras pretas grandes. Adapte a cena ao conteúdo disponível no aplicativo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2050137065873053",
+    "anunciante": "TikTok- Global",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 5,
+    "texto_original": "fique por dentro de tudo com o TikTok",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2050137065873053.jpg"
+}

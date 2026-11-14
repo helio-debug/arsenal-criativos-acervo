@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-847921497989359",
+  "tipo": "estatico",
+  "titulo": "Pagamento no boleto com foto de atendimento",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de duas pessoas sorrindo na parte superior; um degradê escuro sustenta a palavra BOLETO em amarelo e uma chamada de agendamento em faixa azul.",
+  "por_que_funciona": [
+    "BOLETO em grande escala destaca a forma de pagamento.",
+    "A foto de duas pessoas sorrindo aproxima a oferta de uma situação de atendimento.",
+    "O degradê escuro dá contraste ao texto amarelo.",
+    "A faixa inferior separa o agendamento da mensagem principal."
+  ],
+  "quando_usar": "Para divulgar condições reais de pagamento de uma clínica odontológica na etapa de agendamento.",
+  "estrutura_texto": "[Foto de atendimento]\n[Marca]\n[Tratamento] NO\n[Forma de pagamento]\nAGENDE [Avaliação]",
+  "legenda": "Conheça [tratamento] com [condições de pagamento]. Agende uma avaliação para entender as possibilidades para o seu caso e consultar valores e condições. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia autorizada de atendimento na metade superior e degradê para grafite na inferior. Destaque [forma de pagamento] em amarelo, com fonte condensada pesada, e coloque o CTA em faixa azul no rodapé. Não atribua depoimento ou resultado às pessoas fotografadas.",
+  "alerta_politica": "CFO: observar regras de publicidade odontológica, identificação profissional e limites para apelos comerciais. Informar condições reais de pagamento; obter consentimento de imagem e evitar garantia de resultado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "847921497989359",
+    "anunciante": "Dr. Allysson Yoshio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-28",
+    "dias_no_ar": 351,
+    "variacoes_ativas": 1,
+    "texto_original": "Recupere Seu Sorriso, Transforme Sua Vida – Implantes Dentários com Condições Imperdíveis!\n\nJá imaginou como seria viver sem se preocupar com o sorriso? Com nossos implantes dentários, você pode finalmente recuperar a confiança e a liberdade de sorrir sem medo.\n\nO que um implante dentário pode fazer por você?\n\n✅ Transformação de vida: Voltar a sorrir com naturalidade e sem inseguranças vai além da estética. É sobre se sentir bem consigo mesmo, restaurar a autoconfiança e abrir portas para novas oportunidades – no trabalho, na vida social e no seu bem-estar.\n\n✅ Preços acessíveis para o seu bolso: Sabemos que a saúde bucal é importante, mas também entendemos a realidade do seu orçamento. Por isso, oferecemos condições de pagamento facilitadas, para que você invista na sua saúde sem comprometer suas finanças.\n\n✅ Sorria ainda este ano: Não espere mais! Com nossa equipe especializada, você terá seu sorriso renovado ainda em 2024, sem complicação e com total apoio durante todo o processo.\n\nNão adie mais a sua felicidade! O sorriso dos seus sonhos está ao seu alcance, e a transformação começa agora. \n\nAgende sua avaliação gratuita e dê o primeiro passo para um novo capítulo na sua vida!\n\nResponsável Técnico.\nDr. Allysson Yoshio B. Fujiki - CRO-PR 25.820\nWHATSAPP\n✅ Quer saber mais?👉\nImplantes em Foz",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-847921497989359.jpg"
+}

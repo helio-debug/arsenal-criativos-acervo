@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1615542679133347",
+  "tipo": "estatico",
+  "titulo": "Perfil de aluna abre análise de estratégia",
+  "formato": "Post e comentários",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Post com bastante espaço branco, avatar e uma lista de características de uma aluna. A última linha encaminha para a estratégia na legenda.",
+  "por_que_funciona": [
+    "O título em caixa alta apresenta um caso específico enviado por uma aluna.",
+    "A lista reúne notas, idioma e orçamento para tornar o caso concreto.",
+    "O objetivo de graduação no exterior fecha o perfil com uma direção clara.",
+    "A chamada final transfere a curiosidade para a legenda."
+  ],
+  "quando_usar": "Para demonstrar como uma orientação avalia um caso e atrair pessoas com objetivos semelhantes.",
+  "estrutura_texto": "[Autor]\nUMA [ALUNA] ME MANDOU AQUI:\n- [Idade]\n- [Escolaridade]\n- [Notas]\n- [Idioma]\n- [Ocupação]\n- [Orçamento]\n- [Experiências]\n- [Necessidade]\n- [Objetivo]\nMINHA ESTRATÉGIA NA LEGENDA [seta]",
+  "legenda": "Para um perfil com [nível de idioma], [formação] e objetivo de [estudar fora], eu começaria por [ação]. Depois, avaliaria [critérios das bolsas] e [calendário de candidatura]. Na [mentoria], organizamos esse processo conforme cada caso.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, margens amplas e cabeçalho de post com a foto do produto em avatar e identificação genérica. Coloque título preto em negrito, lista alinhada à esquerda com nove linhas e chamada final para a legenda. Use um caso autorizado ou explicitamente hipotético, sem inventar testemunho.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1615542679133347",
+    "anunciante": "Matheus A. Tomoto",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-06-22",
+    "dias_no_ar": 510,
+    "variacoes_ativas": 1,
+    "texto_original": "MINHA OPINIÃO SINCERA👇🏼\n\n1. Para dar um UP no inglês, você pode aplicar para bolsas de idiomas este ano e passar algumas semanas na Europa.\n\nMas precisa aplicar agora, antes que as bolsas acabem.\n\nEscolha instituições com alimentação e hospedagem para economizar.\n\nSeguindo a estratégia que ensino no M60, seu único custo será com passagens aéreas, mas disponibilizamos aulas para você acumular milhas.\n\nVocê pode ficar no exterior durante as férias de julho, voltar em agosto e começar sua preparação para graduação.\n\nVerifique se as universidades que vai aplicar oferecem ensino em inglês.\n\nSenão, terá que focar em outro idioma.\n\n2. Caminho fácil:\n\nA Europa tem universidades gratuitas e acessíveis que podem ser interessantes.\n\nEm Valência, recomendo 5:\n\nUniversitat de València\nUniversitat Politècnica de Valencia\nUniversidad Cardenal Herrera\nUniversidad Europea de València\nUniversidad Internacional de València\n\nMuitas instituições do sul europeu não pedem extracurriculares, e você pode usar a nota do ENEM.\n\n3. Mas se você precisa de bolsas com moradia, alimentação e salário, o norte da Europa é melhor!\n\nSuíça, Holanda, Dinamarca, Noruega, Irlanda, Reino Unido, Luxemburgo e Liechtenstein são fenomenais.\n\nQuanto melhor você se preparar, mais bolsas recebe.\n\n- Você precisará fazer o SAT, para conseguir as melhores bolsas;\n- TOEFL ou outra prova de idioma;\n- Boas extracurriculares, como os programas da NASA, ONU etc.\n\nTodas são recomendadas no M60 e você pode usar os simuladores de provas para se preparar.\n\nGraduação, mestrado e PhD permitem que você trabalhe enquanto estuda.\n\nDepois de formada, pode continuar trabalhando e pedir residência permanente.\n\nSe quiser adicionar um país fora da Europa, recomendo EUA.\n\nÉ o país com mais bolsas para estudantes internacionais QUE FAZEM TUDO LEGALMENTE.\n\nEm uma agência, você gastaria mais de 300 mil reais.\n\nMas podemos seguir o caminho das bolsas e economizar até 100% do valor.\n\nNotas, idade ou área não importam nesse cenário.\n\nEsse caminho faz sentido para você?\n\nComente “ #920k “ para se preparar na minha Mentoria M60 se você deseja ter uma estratégia personalizada, passo a passo detalhado e acompanhamento 👇🏼",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1615542679133347.jpg"
+}

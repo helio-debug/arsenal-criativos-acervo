@@ -1,0 +1,129 @@
+{
+ "id": "vid-tutorial-duas-faixas",
+ "formato_video": "tutorial-passo-a-passo",
+ "nichos": [
+  "ia-ferramentas",
+  "saas-b2b",
+  "marketing-trafego"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Tutorial em duas faixas com configuração e resultado na tela",
+ "duracao": "75s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Faixa superior com diagrama do produto ligado a destinos genéricos; apresentador abaixo, sentado com notebook e microfone.",
+   "fala": "Vou mostrar como usar [produto] pra [tarefa concreta]. O resultado vai aparecer na tela.",
+   "texto_tela": "Como fazer [tarefa] com [produto]"
+  },
+  {
+   "tempo": "7-16s",
+   "cena": "Acima, visão do fluxo; abaixo, apresentador aponta para a área demonstrativa.",
+   "fala": "Neste exemplo, vou usar [entrada] e gerar [saída]. Antes de começar, tenha [pré-requisito] disponível.",
+   "texto_tela": "Separe [pré-requisito]"
+  },
+  {
+   "tempo": "16-27s",
+   "cena": "Amplie a tela de configuração até ocupar o quadro; destaque o campo relevante.",
+   "fala": "Abra [menu inicial] e escolha [opção]. Copie [informação necessária] e confira se ela corresponde à sua conta.",
+   "texto_tela": "1. Abra [menu] e copie [informação]"
+  },
+  {
+   "tempo": "27-39s",
+   "cena": "Retome as duas faixas; tela superior mostra o campo e a confirmação da configuração.",
+   "fala": "Agora entre em [menu de destino], cole em [campo] e confirme [permissão necessária]. Confira o aviso de conexão antes de seguir.",
+   "texto_tela": "2. Preencha [campo] e confirme"
+  },
+  {
+   "tempo": "39-51s",
+   "cena": "Tela superior com dados ou painel; apresentador explica embaixo e gesticula.",
+   "fala": "Com tudo pronto, envie: [comando de exemplo]. Aqui usei [entrada demonstrativa]. A resposta trouxe [saída observável].",
+   "texto_tela": "3. Execute [comando]"
+  },
+  {
+   "tempo": "51-63s",
+   "cena": "Acima, mostre a entrada enviada e o resultado lado a lado ou em sequência.",
+   "fala": "Pra usar outro [arquivo ou dado], selecione [opção] e envie [nova entrada]. Revise [critério] antes de confirmar a ação.",
+   "texto_tela": "4. Revise [critério]"
+  },
+  {
+   "tempo": "63-70s",
+   "cena": "Mostre painel final, lista ou calendário com a tarefa concluída; preserve a faixa do rosto abaixo.",
+   "fala": "Abra [painel final]. É aqui que você confere [estado esperado]. Se aparecer [erro comum], revise [configuração].",
+   "texto_tela": "Confira [estado esperado]"
+  },
+  {
+   "tempo": "70-75s",
+   "cena": "Mantenha o resultado em cima e o apresentador olhando para a lente embaixo.",
+   "fala": "Salve o passo a passo e abra [página do produto] pra conferir os recursos disponíveis.",
+   "texto_tela": "Salve o tutorial | Veja [produto]"
+  }
+ ],
+ "hook": {
+  "falado": "Vou mostrar como usar [produto] pra [tarefa concreta]. O resultado vai aparecer na tela.",
+  "texto_tela": "Como fazer [tarefa] com [produto]",
+  "visual": "Faixa superior com diagrama do produto ligado a destinos genéricos; apresentador abaixo, sentado com notebook e microfone."
+ },
+ "por_que_funciona": [
+  "O primeiro frame coloca o diagrama de conexões acima do rosto, apresentando a tarefa antes do passo a passo.",
+  "A tela de configuração chega a ocupar o quadro, dando espaço para localizar campos pequenos.",
+  "Gráficos e respostas aparecem na faixa superior enquanto o apresentador segue explicando na inferior.",
+  "O calendário preenchido no fim mostra o estado final citado na fala, em vez de encerrar só com a promessa."
+ ],
+ "quando_usar": "Para ferramentas de IA, software de gestão e processos de marketing com uma sequência verificável na interface. Use no meio do funil para explicar a configuração e mostrar uma execução completa.",
+ "roteiro_modelo": "Vou mostrar como usar [produto] pra [tarefa concreta]. O resultado vai aparecer na tela.\n\n[Pausa curta / corte]\n\nNeste exemplo, vou usar [entrada] e gerar [saída]. Antes de começar, tenha [pré-requisito] disponível.\n\n[Pausa curta / corte]\n\nAbra [menu inicial] e escolha [opção]. Copie [informação necessária] e confira se ela corresponde à sua conta.\n\n[Pausa curta / corte]\n\nAgora entre em [menu de destino], cole em [campo] e confirme [permissão necessária]. Confira o aviso de conexão antes de seguir.\n\n[Pausa curta / corte]\n\nCom tudo pronto, envie: [comando de exemplo]. Aqui usei [entrada demonstrativa]. A resposta trouxe [saída observável].\n\n[Pausa curta / corte]\n\nPra usar outro [arquivo ou dado], selecione [opção] e envie [nova entrada]. Revise [critério] antes de confirmar a ação.\n\n[Pausa curta / corte]\n\nAbra [painel final]. É aqui que você confere [estado esperado]. Se aparecer [erro comum], revise [configuração].\n\n[Pausa curta / corte]\n\nSalve o passo a passo e abra [página do produto] pra conferir os recursos disponíveis.",
+ "tomadas_celular": [
+  "Plano médio fixo atrás de notebook, câmera na altura dos olhos, janela lateral e luz de apoio suave; grave a introdução por 16s.",
+  "Grave a tela pelo recurso nativo do celular ou filme o monitor de frente com brilho ajustado e sem reflexos; capture [menu inicial] por 11s.",
+  "Capture [campo] e confirmação em close da tela, luz ambiente baixa para evitar reflexo; grave 12s.",
+  "Plano médio explicando [comando], mesma luz lateral e fundo; grave 12s.",
+  "Capture o envio de [entrada] e a revisão do resultado na tela, com foco e exposição travados; grave 12s.",
+  "Capture [painel final] por 7s, enquadramento fechado, sem dados de terceiros ou reflexos.",
+  "Plano médio com contato visual para o CTA, mesma luz e câmera fixa; grave 5s."
+ ],
+ "caminho_ia": "Use avatar ou voz sintética para a explicação e componha no CapCut com telas demonstrativas autorizadas já existentes. Sem acesso a telas reais, crie diagramas ou slideshow de imagens geradas e identifique como simulação, sem inventar botões de um tutorial operacional. Prompt 1: \"Vertical 9:16 locked medium shot of an original adult presenter behind a laptop and tabletop microphone, indoor plants, warm practical light on the left and subtle green background accent, lower-half composition, seven seconds, no text or logos.\" Prompt 2: \"Vertical 9:16 clean top-half motion graphic illustrating [input] flowing through [product] into [output], simple generic interface cards, readable spacing, slow cursor highlight, seven seconds, no fabricated metrics, no baked-in labels.\" Gere os trechos no Runway ou Veo, adicione os rótulos no editor e sincronize cada ação com a narração. Dados e resultados demonstrados devem ser verificáveis ou marcados como exemplo.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça original.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 75s em oito blocos: 0-7s tarefa; 7-16s entrada e pré-requisito; 16-27s primeira configuração; 27-39s campo e confirmação; 39-51s comando; 51-63s nova entrada e revisão; 63-70s estado final; 70-75s CTA. Rosto na faixa inferior e execução na superior, com ampliação temporária dos campos pequenos. Tom de aula prática, cortes entre ações e legendas brancas em caixas escuras. Mostre o comando e o resultado correspondente. Troque o calendário por um painel compatível com meu produto quando preciso. Não copie marcas, contas, dados ou integrações da referência. Não invente menus nem prometa configuração em tempo menor que o mostrado. Se faltarem informações da interface, use [nome do menu] e sinalize o que precisa ser confirmado. Não copie pessoas, marcas, nomes, interfaces identificáveis nem falas da referência. Use apenas benefícios comprováveis. Não invente preço, prazo ou resultado. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas de enfeite e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Passo a passo pra [tarefa] com [produto]. Você precisa de [pré-requisito]. Salve pra acompanhar a configuração e confira [critério de revisão] antes de confirmar. Recursos e condições em [página do produto].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-dc6da0e1",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-tutorial-duas-faixas/frames/f1.jpg",
+    "videos/vid-tutorial-duas-faixas/frames/f2.jpg",
+    "videos/vid-tutorial-duas-faixas/frames/f3.jpg",
+    "videos/vid-tutorial-duas-faixas/frames/f4.jpg",
+    "videos/vid-tutorial-duas-faixas/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-fe4bfa5c",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-531297b7",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-a618eea3",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

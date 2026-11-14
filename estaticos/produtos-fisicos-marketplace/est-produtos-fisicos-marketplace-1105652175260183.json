@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1105652175260183",
+  "tipo": "estatico",
+  "titulo": "Equipamento de venda autônoma com preço e itens inclusos",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Geladeira abastecida ocupa a metade direita sobre cenário urbano escuro com efeitos dourados. À esquerda, lançamento, versão, preço à vista, parcelamento e lista do que acompanha o equipamento.",
+  "por_que_funciona": [
+    "A geladeira abastecida mostra a aplicação do equipamento.",
+    "O preço à vista e as parcelas aparecem em um quadro próprio com borda luminosa.",
+    "A lista com ícones detalha os três itens incluídos.",
+    "O contraste entre preto e dourado organiza os blocos e destaca os números."
+  ],
+  "quando_usar": "Para vender equipamento de comércio autônomo a compradores que precisam comparar preço e escopo da solução.",
+  "estrutura_texto": "NOVO\nLANÇAMENTO\n[Nome do equipamento]\n[Versão]\n[Preço à vista]\n[Meio de pagamento]\nOU EM ATÉ [número]X DE\n[Valor da parcela]\nTUDO INCLUSO:\n[Equipamento]\n[Sistema de compra]\n[Monitoramento]",
+  "legenda": "Comece uma operação de [tipo de negócio] com [equipamento]. Por [preço à vista] ou [parcelamento], você recebe [itens inclusos]. Consulte os requisitos de instalação, os custos da operação e as condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição quadrada com equipamento da IMAGEM 2 grande à direita, inteiramente visível, sobre cenário urbano noturno escuro. À esquerda, empilhe selo de lançamento, nome, versão, quadro de preço à vista e parcelamento. Abaixo, coloque lista de itens inclusos com ícones simples. Use preto, dourado e branco, com brilho contido em bordas e base circular. Exiba preço total parcelado e condições em texto legível. Não reproduza marcas dos produtos expostos na referência.",
+  "alerta_politica": "Meta: preços e parcelamento devem ser claros, com total e condições. Ao associar o equipamento a renda extra, não prometer faturamento ou lucro garantido; distinguir faturamento de lucro e informar custos e premissas de qualquer projeção.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1105652175260183",
+    "anunciante": "Gela Smart",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-07",
+    "dias_no_ar": 99,
+    "variacoes_ativas": 4,
+    "texto_original": "Renda extra hoje ? R$ 10.900 para você começar um negócio autônomo hoje.\n\nTudo incluso: Geladeira, Sistema de Compra Autônomo e Monitoramento em vídeo.\nVenda qualquer produto em sua Gela Smart: Cervejas, Chopp, Bebidas, Carnes, Snacks e muito mais.\n\nInstale em sua empresa, em seu prédio, ou em sua loja... condomínios, areas de piscinas e muito mais.\nFature até R$ 10.000 como renda extra.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1105652175260183.jpg"
+}

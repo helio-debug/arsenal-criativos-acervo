@@ -1,0 +1,90 @@
+{
+ "id": "vid-torcida-piada-solucao",
+ "titulo": "Esquete de torcedor com narração esportiva transforma uma piada em indicação de serviço",
+ "formato_video": "esquete-dialogada",
+ "nichos": [
+  "estetica-clinicas",
+  "servicos-locais",
+  "automotivo",
+  "seguros"
+ ],
+ "tipo_solucao": "servico-local",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "25-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Vai, agora! Era só [ação simples]!",
+  "texto_tela": "Sem texto na tela (só a legenda automática)",
+  "visual": "Torcedor de camiseta amarela sentado diante de parede de madeira, mão na testa e pequena bandeira em primeiro plano."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio do torcedor sentado; ele acompanha uma partida fora de quadro e leva a mão à testa.",
+   "fala": "Vai, agora! Era só [ação simples]!",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "4-9s",
+   "cena": "Mesmo ambiente, pessoa abre a mão em direção à tela; narrador fala fora de quadro.",
+   "fala": "Narrador: Parou tudo pra resolver [contratempo cotidiano ligado ao serviço]. Perdeu a jogada!",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "9-14s",
+   "cena": "Pessoa se vira para a câmera, ainda com o objeto de torcida na mão.",
+   "fala": "Torcedor: Na próxima, eu deixo [tarefa relacionada ao serviço] organizada antes do jogo.",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "14-22s",
+   "cena": "Dois cortes para profissional demonstrando o atendimento com um objeto; mantenha a execução clara.",
+   "fala": "Narrador: Com [serviço], o atendimento começa por [etapa inicial]. A equipe explica [procedimento] e informa [condição importante].",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "22-28s",
+   "cena": "Retorno ao sofá; personagem sorri, ergue o objeto de torcida e olha para a partida.",
+   "fala": "Torcedor: Vou conferir [serviço] em [canal]. Agora deixa eu ver essa cobrança!",
+   "texto_tela": "—"
+  }
+ ],
+ "por_que_funciona": [
+  "A mão na testa abre a peça com uma reação legível mesmo sem texto de tela.",
+  "A narração esportiva da transcrição acompanha os gestos exagerados do personagem sentado.",
+  "Dois frames centrais mostram atendimento com máscara e luvas, deslocando a cena do sofá para a execução do serviço.",
+  "O último frame volta ao torcedor sorrindo com a bandeira, retomando a cena de abertura."
+ ],
+ "quando_usar": "Para serviços que cabem num contratempo cotidiano fácil de encenar. Use em campanhas de alcance perto de partidas, com humor dirigido à situação.",
+ "roteiro_modelo": "[0-4s] Vai, agora! Era só [ação simples]!\n\n[pausa; corte]\n\n[4-9s] Narrador: Parou tudo pra resolver [contratempo cotidiano ligado ao serviço]. Perdeu a jogada!\n\n[pausa; corte]\n\n[9-14s] Torcedor: Na próxima, eu deixo [tarefa relacionada ao serviço] organizada antes do jogo.\n\n[pausa; corte]\n\n[14-22s] Narrador: Com [serviço], o atendimento começa por [etapa inicial]. A equipe explica [procedimento] e informa [condição importante].\n\n[pausa; corte]\n\n[22-28s] Torcedor: Vou conferir [serviço] em [canal]. Agora deixa eu ver essa cobrança!",
+ "tomadas_celular": [
+  "Plano médio no sofá com camiseta lisa e objeto de torcida sem escudo; luz de janela, 4s.",
+  "Plano fechado da mão na testa e reação à partida fora de quadro; luz lateral suave, 5s.",
+  "Plano médio virando para a câmera e falando; luz da abertura, 5s.",
+  "Close das mãos de um profissional explicando um objeto do serviço; luz difusa, 4s.",
+  "Plano lateral da mesma demonstração, sem dados de cliente; luz ambiente reforçada por janela, 4s.",
+  "Retorno ao sofá com gesto de torcida e convite; mesma luz, 6s."
+ ],
+ "caminho_ia": "Sem gravar, gere os planos no Veo ou no Runway, mantendo a mesma pessoa e os objetos entre cenas. Prompts prontos: \"Vertical 9:16, medium shot of an adult sports fan on a couch against a wood-paneled wall, plain yellow shirt, hand to forehead reacting to an off-screen match, soft side light, handheld smartphone realism, 4 seconds, no team logos.\" e \"Vertical 9:16, close-up of a professional demonstrating [service process] with [neutral prop], clean workspace, soft diffuse key light, steady camera, 5 seconds, no logos, no medical outcome claims.\". Para os demais blocos, mantenha essa linguagem visual e altere a ação conforme a estrutura. Use avatar para falas em quadro e voz sintética em pt-BR para locução; voz clonada apenas com autorização. Monte no CapCut, respeitando os tempos e as pausas. Também dá para montar um slideshow com imagens geradas e movimentos leves de aproximação. Identifique cenas ilustrativas e não apresente avatar como cliente ou profissional real.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use os dados abaixo para criar uma peça do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nEsquete de 28 segundos em 5 blocos: reação, comentário do narrador, virada para o serviço, dois inserts de atendimento e retorno à torcida. Diferencie narrador e torcedor. Fala rápida na abertura, explicação em ritmo mais calmo, pausa antes do retorno. Os frames não mostram cartelas legíveis: use imagem limpa; legendas de acessibilidade são opcionais. Não copie rosto, voz, escudos, transmissão esportiva ou a piada que ridiculariza uma condição física.\n\nEstrutura com tempos: 0-4s: Plano médio do torcedor sentado; ele acompanha uma partida fora de quadro e leva a mão à testa.; 4-9s: Mesmo ambiente, pessoa abre a mão em direção à tela; narrador fala fora de quadro.; 9-14s: Pessoa se vira para a câmera, ainda com o objeto de torcida na mão.; 14-22s: Dois cortes para profissional demonstrando o atendimento com um objeto; mantenha a execução clara.; 22-28s: Retorno ao sofá; personagem sorri, ergue o objeto de torcida e olha para a partida..\nUse pt-BR falado, frases curtas e informações comprováveis. Troque dados ausentes por [colchetes]. Adapte o objeto, a dificuldade e a demonstração ao meu produto, sem forçar assunto odontológico. Sem nomes, contatos ou frases da referência. Não use antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou promessa de resultado. Respeite as regras de publicidade do nicho.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "O jogo começou e [contratempo] apareceu bem na hora. Conheça como funciona [serviço] e confira [condições] em [canal]. Cena encenada.",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou insatisfação com o corpo; sem antes/depois corporal nem promessa de resultado de saúde. Não use segurança absoluta, cura ou resultado garantido. Em serviços médicos, siga as regras de publicidade do CFM; em odontologia, as do CFO/CRO. Alegações de produtos sujeitos à ANVISA devem respeitar sua regularização e indicações autorizadas. Cenas encenadas ou geradas não podem se passar por depoimento ou resultado clínico real. Para seguros, apresente cobertura, exclusões e condições reais; não prometa aceitação ou indenização garantida. A piada deve recair no contratempo, sem ridicularizar deficiência ou condição de saúde.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-dc699584",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-torcida-piada-solucao/frames/f1.jpg",
+    "videos/vid-torcida-piada-solucao/frames/f2.jpg",
+    "videos/vid-torcida-piada-solucao/frames/f3.jpg",
+    "videos/vid-torcida-piada-solucao/frames/f4.jpg",
+    "videos/vid-torcida-piada-solucao/frames/f5.jpg"
+   ]
+  }
+ ]
+}

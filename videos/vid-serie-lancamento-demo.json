@@ -1,0 +1,109 @@
+{
+ "id": "vid-serie-lancamento-demo",
+ "titulo": "Diário em série com página pronta e teste do produto",
+ "formato_video": "desafio-dias",
+ "nichos": [
+  "ia-ferramentas",
+  "renda-extra",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "65-75s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Selfie de peito para cima com caixa preta no topo e título branco do episódio.",
+   "fala": "Dia [número] de [projeto da série]. Hoje vou testar [parte da entrega].",
+   "texto_tela": "Dia [número]: [tarefa de hoje]"
+  },
+  {
+   "tempo": "6-19s",
+   "cena": "Corte para notebook; mostrar página clara, perguntas frequentes e botão amarelo em faixa verde.",
+   "fala": "Esta é a página que preparei. Aqui explico [uso principal] e respondo [dúvida de compra]. O botão leva para [destino real].",
+   "texto_tela": "Página de [produto]"
+  },
+  {
+   "tempo": "19-30s",
+   "cena": "Close mais baixo na página, com teclado aparente; apontar condição e ação do botão.",
+   "fala": "Antes de divulgar, confiro [condição da oferta] e testo o caminho até [próxima ação]. Nesta demonstração, [status verdadeiro do teste].",
+   "texto_tela": "Teste: [status verificado]"
+  },
+  {
+   "tempo": "30-42s",
+   "cena": "Mostrar duas peças de divulgação lado a lado na tela do notebook.",
+   "fala": "Também preparei estas peças. Uma mostra [situação de uso]. A outra detalha [benefício verificável]. As duas levam para esta página.",
+   "texto_tela": "Peças de divulgação"
+  },
+  {
+   "tempo": "42-61s",
+   "cena": "Abrir formulário com alternativas, selecionar uma opção e mostrar o retorno correspondente.",
+   "fala": "Agora vou usar a entrega. Seleciono [opção de exemplo] e avanço. O retorno mostra [conteúdo previsto]. Vou conferir se essa orientação corresponde ao que foi selecionado.",
+   "texto_tela": "Escolher → avançar → conferir"
+  },
+  {
+   "tempo": "61-71s",
+   "cena": "Manter detalhe do produto e fechar com selfie curta.",
+   "fala": "Hoje testei [parte demonstrada]. Falta revisar [pendência]. No próximo episódio, vou mostrar [próximo passo]. Para ver [material disponível], acesse [local].",
+   "texto_tela": "Próximo: [próximo passo]"
+  }
+ ],
+ "hook": {
+  "falado": "Dia [número] de [projeto da série]. Hoje vou testar [parte da entrega].",
+  "texto_tela": "Dia [número]: [tarefa de hoje]",
+  "visual": "Selfie de peito para cima com caixa preta no topo e título branco do episódio."
+ },
+ "por_que_funciona": [
+  "O número do dia aparece no título superior da selfie e situa o episódio da série.",
+  "As perguntas frequentes e o botão amarelo aparecem no notebook antes das peças de divulgação.",
+  "Duas peças lado a lado tornam visível o material preparado para divulgar.",
+  "A seleção de alternativas no formulário mostra uma interação além da leitura da página."
+ ],
+ "quando_usar": "Para quem publica uma série sobre construção de produto, ferramenta ou conteúdo. Use quando já existe uma entrega navegável e o episódio consegue mostrar uma tarefa concluída ou uma pendência concreta.",
+ "roteiro_modelo": "Dia [número] de [projeto da série]. Hoje vou testar [parte da entrega].\n\n[CORTE / PAUSA]\n\nEsta é a página que preparei. Aqui explico [uso principal] e respondo [dúvida de compra]. O botão leva para [destino real].\n\n[CORTE / PAUSA]\n\nAntes de divulgar, confiro [condição da oferta] e testo o caminho até [próxima ação]. Nesta demonstração, [status verdadeiro do teste].\n\n[CORTE / PAUSA]\n\nTambém preparei estas peças. Uma mostra [situação de uso]. A outra detalha [benefício verificável]. As duas levam para esta página.\n\n[CORTE / PAUSA]\n\nAgora vou usar a entrega. Seleciono [opção de exemplo] e avanço. O retorno mostra [conteúdo previsto]. Vou conferir se essa orientação corresponde ao que foi selecionado.\n\n[CORTE / PAUSA]\n\nHoje testei [parte demonstrada]. Falta revisar [pendência]. No próximo episódio, vou mostrar [próximo passo]. Para ver [material disponível], acesse [local].",
+ "tomadas_celular": [
+  "Selfie em plano médio, luz de janela de frente, 6s; reservar topo para o número do episódio.",
+  "Notebook em close com perguntas frequentes e botão, luz lateral sem reflexos, 13s.",
+  "Detalhe do botão e destino de teste com dados fictícios, celular firme e exposição na tela, 11s.",
+  "Notebook com duas peças lado a lado, enquadramento frontal e luz difusa, 12s.",
+  "Formulário em close: selecionar alternativa e avançar, brilho moderado e luz lateral, 19s.",
+  "Selfie final na mesma luz da abertura, 10s, com próximo episódio na tela."
+ ],
+ "caminho_ia": "Crie um avatar recorrente para a série e use voz sintética licenciada. No Sora ou Kling, gere cenas de notebook e aplique páginas e formulário fictícios no CapCut. Prompts: \"Vertical 9:16 medium close-up of a fictional presenter wearing a casual open shirt, indoor daylight, direct eye contact, empty upper frame for an episode title, natural handheld movement, no logos.\" e \"Vertical 9:16 close-up of an unbranded laptop, white landing page placeholder for [product], dark green footer and yellow call-to-action area, visible keyboard, soft side light, slow camera tilt.\" Anime a seleção do formulário na edição, marque como demonstração simulada e use o mesmo avatar nos próximos episódios.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie episódio de 71s. Abra com Dia [número] e tarefa concreta; apresente página e dúvidas, teste o botão, mostre duas peças e execute uma interação antes de anunciar o próximo passo. Caixa preta no título, legendas brancas, notebook com teclado visível, página clara com faixa verde e botão amarelo. Tom de diário, ritmo de demonstração com tempo para ler. Não copie o nicho específico, a oferta, as marcas nem os números da referência. Não afirme vendas, conversão ou pagamentos aprovados sem comprovação. Use pt-BR falado, frases curtas e campos adaptáveis quando faltar informação. Não invente provas, preço, prazo ou funcionalidades. Não use antítese vazia, superlativos sem prova, tríades decorativas, perguntas de enfeite nem fechos de efeito.\n\nEstrutura de tempo e cenas:\n0-6s: Selfie de peito para cima com caixa preta no topo e título branco do episódio.\n6-19s: Corte para notebook; mostrar página clara, perguntas frequentes e botão amarelo em faixa verde.\n19-30s: Close mais baixo na página, com teclado aparente; apontar condição e ação do botão.\n30-42s: Mostrar duas peças de divulgação lado a lado na tela do notebook.\n42-61s: Abrir formulário com alternativas, selecionar uma opção e mostrar o retorno correspondente.\n61-71s: Manter detalhe do produto e fechar com selfie curta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Dia [número] de [projeto]. Hoje testei [interação] em [produto]. [Pendência] fica para o próximo episódio. Veja [material disponível] em [local de acesso].",
+ "alerta_politica": "Meta, oportunidades de negócio e renda extra: não garantir ganhos nem apresentar receita excepcional como resultado típico. Informar custos, esforço e condições relevantes; não prometer renda rápida ou execução sem trabalho. Prazos e volumes precisam de comprovação e contexto.",
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-0a45cb1d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-serie-lancamento-demo/frames/f1.jpg",
+    "videos/vid-serie-lancamento-demo/frames/f2.jpg",
+    "videos/vid-serie-lancamento-demo/frames/f3.jpg",
+    "videos/vid-serie-lancamento-demo/frames/f4.jpg",
+    "videos/vid-serie-lancamento-demo/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-8bd29750",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-2a1d22c9",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

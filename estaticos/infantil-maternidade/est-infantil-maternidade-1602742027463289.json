@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1602742027463289",
+  "tipo": "estatico",
+  "titulo": "Caixa de jogo da memória com animais ilustrados",
+  "formato": "Produto em destaque",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Caixa de jogo da memória infantil fotografada em perspectiva sobre fundo branco. A embalagem laranja traz animais coloridos, leão grande na frente e informações de peças e faixa etária.",
+  "por_que_funciona": [
+    "A perspectiva mostra a frente e a lateral da embalagem.",
+    "O leão grande cria um foco visual reconhecível.",
+    "O contraste de laranja e azul destaca a caixa no fundo branco.",
+    "As indicações de peças, pares e idade ajudam a avaliar o produto."
+  ],
+  "quando_usar": "Para anunciar um jogo infantil com foto clara da embalagem e informações verificadas de conteúdo e idade.",
+  "estrutura_texto": "[Nome do jogo]\n[Quantidade de peças]\n[Quantidade de pares]\n[Faixa etária]\n[Ilustrações do tema]",
+  "legenda": "Conheça [jogo infantil], com [quantidade de peças] e tema [tema]. Indicado para [faixa etária conforme embalagem]. Confira conteúdo, disponibilidade e preço em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Fotografe a embalagem do produto em perspectiva de três quartos, preenchendo quase todo o quadro, sobre fundo branco com sombra discreta. Preserve ilustrações e dados reais da IMAGEM 2, deixando frente e lateral visíveis. Não utilize a descrição de outro brinquedo e não invente selos ou benefícios de desenvolvimento.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1602742027463289",
+    "anunciante": "Arte de Brincar",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 1,
+    "texto_original": "Robot Warriors Ambulância Transformável - Zoop Toys",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1602742027463289.jpg"
+}

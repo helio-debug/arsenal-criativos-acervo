@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1007454075246202",
+  "tipo": "estatico",
+  "titulo": "Automóvel frontal com parcela em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto frontal de um carro com faróis acesos sobre fundo noturno. Na parte inferior, o nome do modelo e a parcela amarela aparecem em um quadro vermelho, com faixas amarelas e brancas nas bordas.",
+  "por_que_funciona": [
+    "O carro frontal ocupa quase toda a largura da composição.",
+    "Os faróis acesos evidenciam a silhueta no fundo escuro.",
+    "O preço amarelo cercado de vermelho concentra atenção na parcela.",
+    "A indicação de consórcio no rodapé identifica a modalidade."
+  ],
+  "quando_usar": "Para divulgar consórcio de veículo com parcela inicial e condições completas disponíveis na simulação.",
+  "estrutura_texto": "[Chamada da categoria]\n[Modelo do veículo]\nPARCELAS A PARTIR DE\n[Valor] AO MÊS\n[Modalidade]",
+  "legenda": "Planeje a compra de [veículo] com [consórcio] e parcelas a partir de [valor]. Consulte prazo, taxas, reajustes e regras de contemplação. Veja as opções em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto do veículo da IMAGEM 2 em vista frontal, com faróis acesos e fundo noturno escuro. Acrescente faixas geométricas amarelas e brancas nas bordas. Na metade inferior, disponha nome do modelo em branco e valor amarelo grande dentro de moldura vermelha, com indicação de parcela mensal e modalidade. Reserve área para condições, sem prometer entrega imediata.",
+  "alerta_politica": "Em anúncios de crédito e consórcio, informe taxas, custos e condições de forma clara. Não prometa aprovação, contemplação ou entrega imediata do bem. Consórcio depende de contemplação por sorteio ou lance; ausência de juros não elimina taxa de administração e outros encargos. Evite afirmar a situação financeira pessoal do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1007454075246202",
+    "anunciante": "Consórcio Chevrolet Online",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-15",
+    "dias_no_ar": 122,
+    "variacoes_ativas": 1,
+    "texto_original": "Você não precisa pagar juros para trocar de carro.\n\nO Consórcio Chevrolet é para quem pensa no futuro e quer comprar de forma estratégica, pagando parcelas que cabem no bolso.\n\n▪️ Sem juros.\n▪️ Com planejamento.\n▪️ Com acompanhamento especializado.\n\nSe você quer entender como funciona e ver as opções disponíveis, clique em Saiba mais.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1007454075246202.jpg"
+}

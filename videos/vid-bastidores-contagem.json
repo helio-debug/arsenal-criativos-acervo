@@ -1,0 +1,88 @@
+{
+ "id": "vid-bastidores-contagem",
+ "formato_video": "bastidores",
+ "nichos": [
+  "eventos-lives",
+  "educacao-concursos",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "escassez-prazo",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Recado de bastidores com contagem regressiva",
+ "duracao": "31s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Faltam [minutos reais] para começar [atividade] de [produto ou evento].",
+  "texto_tela": "Faltam [minutos reais]",
+  "visual": "Plano aberto diante do palco azul e cronômetro grande."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Plano aberto diante do palco azul e cronômetro grande.",
+   "fala": "Faltam [minutos reais] para começar [atividade] de [produto ou evento].",
+   "texto_tela": "Faltam [minutos reais]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Aproxima para plano médio, telão ainda visível.",
+   "fala": "Vou mostrar [tema específico] usando [material da atividade].",
+   "texto_tela": "[Tema específico]"
+  },
+  {
+   "tempo": "11-17s",
+   "cena": "Plano médio com pequeno microfone junto à boca e gestos da mão livre.",
+   "fala": "A gente vai passar por [etapa prática] e ver como aplicar em [situação].",
+   "texto_tela": "[Etapa prática]"
+  },
+  {
+   "tempo": "17-24s",
+   "cena": "Enquadramento mais próximo; palco permanece ao fundo.",
+   "fala": "O encontro é para [público] que precisa organizar [tarefa concreta].",
+   "texto_tela": "Para [público]"
+  },
+  {
+   "tempo": "24-31s",
+   "cena": "Apresentador aponta para a câmera e mantém o microfone na mão.",
+   "fala": "Toque em [botão] e fale com a equipe. Ela confirma [disponibilidade real] e explica como participar.",
+   "texto_tela": "Consulte a disponibilidade"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame inclui palco, caixas de som e cronômetro acima de onze minutos, situando o recado antes da atividade.",
+  "A mudança do plano aberto ao médio aproxima os gestos e o microfone.",
+  "As legendas brancas em blocos curtos acompanham a explicação sobre o fundo azul.",
+  "O gesto para a câmera no último frame reforça o convite falado para falar com a equipe."
+ ],
+ "quando_usar": "Para lembrar uma atividade prestes a começar a pessoas que já conhecem a formação ou evento. Use enquanto o horário e a disponibilidade anunciados forem válidos.",
+ "roteiro_modelo": "[0-5s; início]\nFaltam [minutos reais] para começar [atividade] de [produto ou evento].\n\n[5-11s; corte]\nVou mostrar [tema específico] usando [material da atividade].\n\n[11-17s; corte]\nA gente vai passar por [etapa prática] e ver como aplicar em [situação].\n\n[17-24s; corte]\nO encontro é para [público] que precisa organizar [tarefa concreta].\n\n[24-31s; corte]\nToque em [botão] e fale com a equipe. Ela confirma [disponibilidade real] e explica como participar.",
+ "tomadas_celular": [
+  "Plano aberto diante do palco azul e cronômetro grande. Celular vertical apoiado na altura dos olhos; luz frontal suave e exposição fixa; cerca de 5s.",
+  "Aproxima para plano médio, telão ainda visível. Celular vertical apoiado na altura dos olhos; luz frontal suave e exposição fixa; cerca de 6s.",
+  "Plano médio com pequeno microfone junto à boca e gestos da mão livre. Celular vertical apoiado na altura dos olhos; luz frontal suave e exposição fixa; cerca de 6s.",
+  "Enquadramento mais próximo; palco permanece ao fundo. Celular vertical apoiado na altura dos olhos; luz frontal suave e exposição fixa; cerca de 7s.",
+  "Apresentador aponta para a câmera e mantém o microfone na mão. Celular vertical apoiado na altura dos olhos; luz frontal suave e exposição fixa; cerca de 7s."
+ ],
+ "caminho_ia": "Use Sora ou Runway para cenas e CapCut para montagem e textos editáveis. Use avatar autorizado ou voz clonada com autorização para a fala. Prompts: \"Vertical 9:16, presenter holding a small microphone in front of a blue auditorium stage, blank LED screen with space for timer, [product] session context, eye-level smartphone camera, soft frontal fill lighting, natural motion, no logos, no text.\" e \"Vertical 9:16, same presenter gesturing toward camera, medium framing, blue stage background, [product] workshop context, blank screen, soft indoor lighting, locked camera, realistic proportions, no branding.\" Insira a contagem como camada editável, somente para um prazo real. Identifique a cena sintética como ilustrativa; não apresente auditório gerado como registro de evento realizado.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte ao produto abaixo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nRecado de bastidores: contagem real, tema, etapa prática, público e contato. Comece aberto com palco e cronômetro, depois use plano médio. Tom direto, legendas brancas curtas. Não copie evento, nomes, números ou temas da referência. Não invente prazo; retire o anúncio quando expirar. Use estes blocos: 0-5s: Plano aberto diante do palco azul e cronômetro grande.; 5-11s: Aproxima para plano médio, telão ainda visível.; 11-17s: Plano médio com pequeno microfone junto à boca e gestos da mão livre.; 17-24s: Enquadramento mais próximo; palco permanece ao fundo.; 24-31s: Apresentador aponta para a câmera e mantém o microfone na mão.. Escreva em pt-BR falado, frases curtas e campos [adaptáveis], sem superlativos sem prova ou frases de efeito. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Atividade] começa em [data e horário]. Vamos trabalhar [tema] com [material]. Consulte a disponibilidade em [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-9df29fb6",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-bastidores-contagem/frames/f1.jpg",
+    "videos/vid-bastidores-contagem/frames/f2.jpg",
+    "videos/vid-bastidores-contagem/frames/f3.jpg",
+    "videos/vid-bastidores-contagem/frames/f4.jpg",
+    "videos/vid-bastidores-contagem/frames/f5.jpg"
+   ]
+  }
+ ]
+}

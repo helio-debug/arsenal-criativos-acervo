@@ -1,0 +1,103 @@
+{
+ "id": "vid-detalhe-tecnico-peca",
+ "titulo": "Especialista explica diferenças técnicas com close da peça real",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "automotivo",
+  "produtos-fisicos-marketplace",
+  "servicos-locais",
+  "moveis-decoracao"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "60-75s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-7s",
+   "cena": "Apresentador frontal em plano médio, com legendas brancas inferiores e bordas de acento verde e laranja; roupa adequada à atividade.",
+   "fala": "Compare [versão A] e [versão B] antes de escolher [produto]. A diferença aparece em [detalhe técnico].",
+   "texto_tela": "[VERSÃO A] OU [VERSÃO B]?"
+  },
+  {
+   "tempo": "7-19s",
+   "cena": "Apresentador gesticula e indica onde o detalhe será mostrado; enquadramento um pouco mais próximo.",
+   "fala": "Por fora, elas podem parecer parecidas. Mas [característica verificável] muda o uso. Vou mostrar esse ponto para você conferir na hora de escolher.",
+   "texto_tela": "CONFIRA [CARACTERÍSTICA]"
+  },
+  {
+   "tempo": "19-32s",
+   "cena": "Inserir close da peça real, com foco na superfície ou região que diferencia a versão A.",
+   "fala": "Nesta [versão A], observe [detalhe visível]. Isso acontece por causa de [processo ou composição]. Na ficha técnica, essa característica aparece como [nome da especificação].",
+   "texto_tela": "[DETALHE DA VERSÃO A]"
+  },
+  {
+   "tempo": "32-45s",
+   "cena": "Voltar ao apresentador em plano médio; peça ou imagem de apoio pode ficar ao lado, sem cobrir a legenda.",
+   "fala": "Essa opção atende [uso compatível], quando [condição de uso]. Antes de comprar, confira [medida ou requisito] no seu projeto e compare com a especificação do produto.",
+   "texto_tela": "A: [USO COMPATÍVEL]"
+  },
+  {
+   "tempo": "45-61s",
+   "cena": "Apresentador explica a segunda versão; inserir close equivalente para a adaptação, sem afirmar que ele existe na amostra.",
+   "fala": "Já a [versão B] tem [diferença comprovável]. Ela pode atender [outro uso] quando [condição técnica]. A escolha depende do que você vai usar e dos limites informados pelo fabricante.",
+   "texto_tela": "B: [OUTRO USO]"
+  },
+  {
+   "tempo": "61-75s",
+   "cena": "Retorno frontal com gesto curto e contato genérico na faixa inferior; manter legendas brancas.",
+   "fala": "Para escolher, separe [informação do projeto] e confira [especificação decisiva]. Se precisar de orientação, envie esses dados para [canal de atendimento]. Assim a equipe consegue avaliar a aplicação e indicar as opções compatíveis.",
+   "texto_tela": "ENVIE [DADO DO PROJETO]"
+  }
+ ],
+ "hook": {
+  "falado": "Compare [versão A] e [versão B] antes de escolher [produto]. A diferença aparece em [detalhe técnico].",
+  "texto_tela": "[VERSÃO A] OU [VERSÃO B]?",
+  "visual": "Apresentador frontal em plano médio, com legendas brancas inferiores e bordas de acento verde e laranja; roupa adequada à atividade."
+ },
+ "por_que_funciona": [
+  "O apresentador abre falando de duas versões do mesmo item, estabelecendo uma comparação técnica delimitada.",
+  "O close do interior do tubo mostra a rebarba mencionada na fala, em vez de deixar a explicação só no apresentador.",
+  "A volta ao plano médio permite ligar o detalhe interno aos usos descritos na transcrição.",
+  "As legendas brancas inferiores acompanham os termos técnicos, enquanto as bordas verde e laranja mantêm a moldura entre os planos."
+ ],
+ "quando_usar": "Para produtos com versões ou especificações que mudam a aplicação, inclusive peças automotivas e itens vendidos por serviços locais. Use no meio do funil para preparar a escolha e solicitar dados do projeto.",
+ "roteiro_modelo": "\n\n[CORTE / PAUSA · 0-7s]\nCompare [versão A] e [versão B] antes de escolher [produto]. A diferença aparece em [detalhe técnico].\n\n[CORTE / PAUSA · 7-19s]\nPor fora, elas podem parecer parecidas. Mas [característica verificável] muda o uso. Vou mostrar esse ponto para você conferir na hora de escolher.\n\n[CORTE / PAUSA · 19-32s]\nNesta [versão A], observe [detalhe visível]. Isso acontece por causa de [processo ou composição]. Na ficha técnica, essa característica aparece como [nome da especificação].\n\n[CORTE / PAUSA · 32-45s]\nEssa opção atende [uso compatível], quando [condição de uso]. Antes de comprar, confira [medida ou requisito] no seu projeto e compare com a especificação do produto.\n\n[CORTE / PAUSA · 45-61s]\nJá a [versão B] tem [diferença comprovável]. Ela pode atender [outro uso] quando [condição técnica]. A escolha depende do que você vai usar e dos limites informados pelo fabricante.\n\n[CORTE / PAUSA · 61-75s]\nPara escolher, separe [informação do projeto] e confira [especificação decisiva]. Se precisar de orientação, envie esses dados para [canal de atendimento]. Assim a equipe consegue avaliar a aplicação e indicar as opções compatíveis.",
+ "tomadas_celular": [
+  "Grave a abertura frontal em plano médio, celular na altura dos olhos e luz de janela frontal, 7s; use EPI só se a atividade exigir.",
+  "Filme a explicação inicial num plano um pouco mais próximo, luz difusa e fundo neutro, 12s.",
+  "Grave o detalhe da versão A em close, celular apoiado e luz lateral para revelar a superfície, 13s.",
+  "Registre o uso compatível com a peça apoiada, plano médio e luz uniforme, 13s.",
+  "Filme a versão B no mesmo ângulo do close anterior, luz lateral igual e foco travado, 16s.",
+  "Grave o retorno com orientação de contato, plano médio e luz frontal suave, 14s."
+ ],
+ "caminho_ia": "Sem gravar, use avatar de apresentador e voz sintética licenciada, com closes no Runway ou Veo baseados em imagens e especificações reais. Prompt 1: \"Vertical 9:16 macro product inspection of [version A], reveal [verified physical feature], slow push-in, side raking light, neutral workshop background, accurate materials, no logos.\" Prompt 2: \"Vertical 9:16 matched macro shot of [version B], identical lens and camera angle, focus on [verified differentiating feature], soft side light, locked camera, no text.\" Gere o apresentador em plano médio e monte no CapCut com legendas brancas e bordas coloridas. Confira a geometria dos closes; prefira fotos técnicas reais em slideshow quando a geração distorcer o detalhe.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo; não reproduza a identidade nem as alegações da referência.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nMonte 6 blocos em 75s: comparação A/B, critério de escolha, close real do detalhe A, aplicação A, diferença B com aplicação e contato pedindo dados do projeto. Tom técnico acessível, fala contínua com uma pausa no close. Use apresentador frontal em plano médio, legendas brancas inferiores e bordas verde e laranja. O close deve comprovar a característica descrita; use apenas especificações fornecidas. Não copie uniforme, cenário, identidade do especialista ou siglas da peça de referência. Não invente desempenho, segurança ou compatibilidade. Adapte a comparação a duas versões reais do meu produto. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltar informação. Não invente números, depoimentos ou resultados. Não copie nomes, pessoas, marcas, interfaces identificáveis, contatos nem frases da referência. Evite antítese vazia, superlativos, perguntas de enfeite e fecho de efeito.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Versão A] ou [versão B]: confira [característica] antes de comprar. Para avaliar a aplicação, envie [dados necessários] por [canal].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-87091e98",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-detalhe-tecnico-peca/frames/f1.jpg",
+    "videos/vid-detalhe-tecnico-peca/frames/f2.jpg",
+    "videos/vid-detalhe-tecnico-peca/frames/f3.jpg",
+    "videos/vid-detalhe-tecnico-peca/frames/f4.jpg",
+    "videos/vid-detalhe-tecnico-peca/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-66b81b43",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

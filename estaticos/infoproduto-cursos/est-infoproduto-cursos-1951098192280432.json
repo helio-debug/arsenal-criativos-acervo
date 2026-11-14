@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1951098192280432",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação em IA com selo de dupla certificação",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Layout horizontal dividido entre área clara com nome da pós-graduação e foto de profissional usando tablet. Detalhes roxos e selo circular de dupla certificação conectam as duas áreas.",
+  "por_que_funciona": [
+    "O nome da formação ocupa o bloco de texto de maior tamanho.",
+    "O selo roxo destaca a dupla certificação em posição próxima ao título.",
+    "A foto com tablet contextualiza o curso no trabalho profissional.",
+    "A frase abaixo do título explicita para quem a formação é dirigida."
+  ],
+  "quando_usar": "Para divulgar formação voltada a profissionais que já consideram estudar aplicações de IA nos negócios.",
+  "estrutura_texto": "[Instituições]\n[Selo de certificação comprovável]\nPós em\n[Nome da formação]\nPara profissionais que buscam [objetivo]",
+  "legenda": "Para [gestores, analistas ou empreendedores] que querem aplicar [tecnologia] a [atividade profissional]. Na [formação], você aprende [competência] para apoiar [resultado de trabalho]. Conheça a grade, os requisitos e as condições de inscrição em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte layout horizontal com área clara à esquerda para assinaturas próprias pequenas, identificador da formação em roxo, título preto grande em três linhas e frase curta de público abaixo. Na metade direita, use foto de profissional com tablet em ambiente corporativo. Sobre a divisão, inclua selo circular roxo de certificação apenas se essa credencial estiver comprovada nos dados do produto. Acrescente faixa roxa discreta no topo esquerdo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1951098192280432",
+    "anunciante": "Educação Continuada da PUC-Rio Digital com CCEC - PUC- Rio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-07",
+    "dias_no_ar": 221,
+    "variacoes_ativas": 4,
+    "texto_original": "Este curso é ideal para você que já entendeu que a Inteligência Artificial não é o futuro. É uma ferramenta de liderança para o agora.  \n \nGestores, analistas e empreendedores que querem usar a tecnologia para pensar, decidir e gerar resultados melhores e mais rápidos, inscrevam-se já. Aqui, você aprende a transformar dados em estratégia e impacto. Inscreva-se.\nPara quem quer liderar com IA.\nTransforme dados em resultados.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1951098192280432.jpg"
+}

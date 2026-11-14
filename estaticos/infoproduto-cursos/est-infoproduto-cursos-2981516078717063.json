@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-2981516078717063",
+  "tipo": "estatico",
+  "titulo": "Curso gratuito com certificado pago",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo roxo com curvas turquesa nas bordas e chamada branca central. Um botão rosa apresenta a ação abaixo da explicação sobre o certificado pago.",
+  "por_que_funciona": [
+    "A chamada separa o estudo gratuito do pagamento pelo certificado.",
+    "O texto central branco contrasta com o fundo roxo liso.",
+    "O botão rosa destaca a ação de começar."
+  ],
+  "quando_usar": "Para plataformas de cursos livres que oferecem acesso gratuito e cobram pela emissão do certificado.",
+  "estrutura_texto": "[Estude grátis],\n[pague só o certificado]\n[Benefício do ensino online]\n[Como funciona o acesso e a certificação]\n[COMECE AGORA]",
+  "legenda": "Estude [tema] online, no seu tempo. O acesso ao curso é [condição de gratuidade], e a emissão do certificado custa [valor]. Confira [regras de certificação] e comece em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo roxo vibrante, curvas largas turquesa parcialmente cortadas nas bordas, título branco central em duas linhas, explicação curta e botão rosa. Reserve espaço discreto no rodapé para a identidade da minha marca. Explicite qualquer cobrança do certificado e não invente reconhecimento oficial.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2981516078717063",
+    "anunciante": "Só Educador",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-20",
+    "dias_no_ar": 329,
+    "variacoes_ativas": 1,
+    "texto_original": "Um mês é o tempo que você precisa para impulsionar sua carreira!\nCom a Só Educador, seu certificado está mais perto do que nunca. \nPeça agora e dê um salto na sua trajetória!\nCertificado Só Educador: Um Mês para Mudar Seu Futuro.\nCursos Online",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2981516078717063.jpg"
+}

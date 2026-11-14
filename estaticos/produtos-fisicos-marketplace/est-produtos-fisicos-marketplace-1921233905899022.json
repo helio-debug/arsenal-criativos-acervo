@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1921233905899022",
+  "tipo": "estatico",
+  "titulo": "Acessório ampliado com teto de preço e selos",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Um bico com corpo preto e base metálica aparece ampliado sobre fundo branco, com conector separado no alto à direita. A faixa superior mostra preço de até R$59,99, e dois selos inferiores destacam devolução e oferta por tempo limitado.",
+  "por_que_funciona": [
+    "A ampliação do bico permite observar ranhuras e encaixe metálico.",
+    "O conector separado mostra um segundo componente sem esconder o principal.",
+    "O preço em amarelo dentro de cápsula preta fica isolado no topo.",
+    "O selo vermelho de prazo chama atenção junto ao selo de devolução."
+  ],
+  "quando_usar": "Para anunciar acessórios com preço promocional e prazo real, mostrando detalhes físicos e componentes incluídos.",
+  "estrutura_texto": "[marca]\nATÉ [preço]\n[identificação gravada no produto]\nDEVOLUÇÃO [condição]\nOFERTA POR TEMPO LIMITADO",
+  "legenda": "Confira [acessório] e outras ofertas em [destino]. Frete grátis conforme [preço, peso, distância e demais regras]; envio em [prazo informado]. Consulte preço, disponibilidade e condições de devolução antes de comprar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco e uma faixa amarela estreita no topo, com identidade própria e cápsula preta contendo o preço em amarelo. Amplie o produto em diagonal no centro e coloque o conector incluído separado no alto à direita. Na base esquerda, insira selo preto de devolução e selo vermelho de oferta com prazo verdadeiro. Preserve materiais e encaixes da foto do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1921233905899022",
+    "anunciante": "Mercado Livre",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 1,
+    "texto_original": "Aproveite as Milhares de Ofertas com Frete Grátis* e Envio Super Rápido.\nO frete grátis dependerá do preço, peso e distância do envio do pedido, conforme as condições e limitações da oferta de frete grátis, disponível em www.mercadolivre.com.br/l/fretegratis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1921233905899022.jpg"
+}

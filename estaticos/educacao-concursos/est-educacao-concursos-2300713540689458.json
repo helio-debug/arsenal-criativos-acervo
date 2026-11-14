@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-2300713540689458",
+  "tipo": "estatico",
+  "titulo": "Preparação gratuita com lista de recursos",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "gratis-isca",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título azul contornado no alto, lista de recursos à esquerda e foto de estudante à direita sobre biblioteca desfocada. Um selo aparece sobre a foto.",
+  "por_que_funciona": [
+    "O título volumoso identifica a prova logo no topo.",
+    "“Preparação grátis” apresenta a condição antes da lista.",
+    "As quantidades de videoaulas e exercícios tornam o conteúdo tangível.",
+    "A estudante e a biblioteca situam a oferta no contexto de preparação."
+  ],
+  "quando_usar": "Para divulgar materiais gratuitos e captar estudantes antes de uma prova.",
+  "estrutura_texto": "FOCO no [EXAME]\nPREPARAÇÃO GRÁTIS PARA:\n• [Benefício de aprendizado]\n• [Quantidade de aulas]\n• [Quantidade de exercícios]\n[Mensagem de preparação]\n[Selo de apoio]",
+  "legenda": "Prepare-se gratuitamente para [exame] com [recursos disponíveis]. Pratique [habilidade] e acesse [aulas e exercícios] para avançar na sua preparação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro com ambiente de estudos desfocado, título grande azul com contorno branco no terço superior, lista azul à esquerda e foto do produto à direita e abaixo. Inclua um pequeno selo azul de apoio. Preserve a hierarquia de gratuidade e recursos; use apenas quantidades comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2300713540689458",
+    "anunciante": "Unopar Universidade",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-09",
+    "dias_no_ar": 66,
+    "variacoes_ativas": 1,
+    "texto_original": "🚀 Quanto mais você se prepara, mais perto fica do seu objetivo. Conte com preparação gratuita para o ENEM.\nFoco no ENEM 📚\nPrepare-se gratuitamente para o ENEM e fique mais perto do próximo passo. 💙",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-2300713540689458.jpg"
+}

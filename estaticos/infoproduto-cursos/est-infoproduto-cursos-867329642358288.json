@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-867329642358288",
+  "tipo": "estatico",
+  "titulo": "Alerta local para curso com demonstração prática",
+  "formato": "Alerta e educação",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Cabeçalho verde com triângulo de atenção e chamada local, seguido de faixa cinza com nome do curso. Uma foto de reparo de celular ocupa a maior parte da arte e o botão de matrícula fecha a composição.",
+  "por_que_funciona": [
+    "O triângulo amarelo diferencia o cabeçalho e chama atenção para a mensagem.",
+    "A cidade em letras grandes delimita a oferta local.",
+    "A foto mostra mãos trabalhando no aparelho aberto, evidenciando a prática.",
+    "O botão azul no rodapé explicita a próxima ação."
+  ],
+  "quando_usar": "Cursos presenciais com matrículas abertas que precisam mostrar a atividade ensinada.",
+  "estrutura_texto": "ATENÇÃO [cidade]\nVagas abertas para o curso de [especialidade]\n[assinatura]\nMATRICULE-SE JÁ",
+  "legenda": "Matrículas abertas para [curso] em [cidade]. Aprenda na prática [habilidades ensinadas] com atividades desde [etapa das aulas]. Consulte [turmas, investimento e condições] em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie cabeçalho verde com ícone triangular amarelo de atenção e chamada para [cidade]. Abaixo, inclua faixa cinza arredondada com título azul. Use uma foto grande de mãos executando a atividade, moldura branca e botão azul de matrícula no canto inferior direito. Aplique detalhes amarelos nas bordas.",
+  "alerta_politica": "Meta: qualquer menção a renda decorrente do curso deve evitar ganhos rápidos ou garantidos; descreva habilidades e condições reais da formação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "867329642358288",
+    "anunciante": "Cebrac Anápolis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-16",
+    "dias_no_ar": 333,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 Atenção, Anápolis!\n\nOs celulares quebram todos os dias… e sempre tem alguém ganhando dinheiro com isso. A pergunta é: por que ainda não é você?\n\nCom o Curso de Conserto de Celulares do CEBRAC, você aprende NA PRÁTICA a fazer reparos que dão lucro rápido — tela, bateria, sistema, conectores, manutenção completa.\nNada de teoria solta: você coloca a mão na massa desde as primeiras aulas!\n\nImagine ter uma profissão que te permite:\n✔️ Trabalhar por conta própria\n✔️ Ganhar dinheiro todos os dias\n✔️ Atender de casa ou montar sua assistência\n✔️ Ter uma renda que cresce conforme você trabalha\n✔️ Nunca depender de desemprego ou crise\n\nE o melhor: é uma profissão que só cresce, porque todos têm um celular — e todos quebram!\n\nAs vagas em Anápolis já estão ABERTAS e são LIMITADAS.\n\n📲 Se inscreva agora e veja como garantir sua matrícula com condições especiais!\n\n👉 Clique para falar com a gente!\nSeu futuro profissional começa com uma mensagem.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-867329642358288.jpg"
+}

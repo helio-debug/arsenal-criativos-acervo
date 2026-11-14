@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1672439861058283",
+  "tipo": "estatico",
+  "titulo": "Número de visualizações acima do retrato do professor",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Retrato em preto e branco de um professor de terno ocupa o centro, com número de visualizações enorme ao fundo. Um degradê preto sustenta a promessa de atendimento individual e o botão laranja.",
+  "por_que_funciona": [
+    "O número enorme de visualizações apresenta uma medida de alcance logo no topo.",
+    "O retrato central dá um rosto ao serviço individual.",
+    "A frase em laranja destaca a exclusividade do professor.",
+    "O botão de WhatsApp repete a cor de destaque e oferece contato direto."
+  ],
+  "quando_usar": "Para converter o público que já acompanha conteúdo gratuito de um professor em interessados em aulas individuais.",
+  "estrutura_texto": "[Número] mi\nde views ensinando [tema] em [tempo].\nNa [mentoria], o professor é só seu.\nFale com [profissional] no WhatsApp",
+  "legenda": "Você acompanha conteúdos de [idioma], mas quer praticar a fala com alguém ouvindo e corrigindo? A [mentoria] oferece aula individual ao vivo com [método]. A partir de [preço]/mês, [condição de contratação]. Fale pelo WhatsApp.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie retrato central monocromático com fundo cinza e número muito grande atrás da cabeça. Aplique degradê preto no rodapé, texto branco e uma linha em itálico laranja sobre atendimento individual. Inclua botão laranja arredondado com ícone de WhatsApp. Use apenas métricas comprováveis do produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1672439861058283",
+    "anunciante": "João Antunes English Expert",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-13",
+    "dias_no_ar": 32,
+    "variacoes_ativas": 1,
+    "texto_original": "8,3 milhões de views ensinando inglês em 1 minuto.\n\nMuita gente aprendeu a entender com esses vídeos. Falar é outra etapa: precisa de alguém do outro lado ouvindo e corrigindo.\n\n\"Eu consigo ler, entender e não consigo falar 😢\", escreveu uma seguidora.\n\nÉ pra isso que existe a Mentoria MindFlow: aula individual ao vivo, com o método do Prof. João e um professor só seu.\n\nA partir de R$ 327/mês, sem fidelidade.\nWHATSAPP\nMentoria MindFlow: aula individual",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1672439861058283.jpg"
+}

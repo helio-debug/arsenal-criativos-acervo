@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1342362987477598",
+  "tipo": "estatico",
+  "titulo": "Curso sobre foto de escrita na natureza",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto vertical de uma pessoa escrevendo em um caderno sobre uma rocha, cercada de vegetação. O título branco ocupa a metade inferior, com um selo de curso online.",
+  "por_que_funciona": [
+    "A pessoa escrevendo ao ar livre demonstra a atividade ensinada.",
+    "O título branco grande se destaca sobre a vegetação escura.",
+    "O selo arredondado identifica imediatamente a modalidade online."
+  ],
+  "quando_usar": "Para divulgar cursos de práticas criativas ao ar livre a pessoas que já se interessam pelo tema.",
+  "estrutura_texto": "Como criar e implementar [atividade]\n[Nome do curso]\nCURSO ONLINE",
+  "legenda": "Aprenda [técnicas] para planejar e conduzir [atividade] com [público]. Conheça o curso online de [tema] e veja o conteúdo em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto da IMAGEM 2 como fundo em tela cheia, com atmosfera natural e uma pessoa praticando a atividade, quando houver. Escureça suavemente a área inferior; coloque uma introdução curta, título branco grande alinhado à esquerda e selo branco arredondado com a modalidade. Reserve uma pequena área para a identidade da marca. Escreva os textos em pt-BR e adapte a mensagem aos dados de MEU PRODUTO.",
+  "alerta_politica": "Evite prometer redução de ansiedade, tratamento de estresse ou recuperação clínica sem comprovação; apresente a atividade como educativa e de bem-estar.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1342362987477598",
+    "anunciante": "Forest Therapy Hub Español",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-04",
+    "dias_no_ar": 375,
+    "variacoes_ativas": 1,
+    "texto_original": "Aprenderás los Beneficios del Diario de Naturaleza Journaling para reducir el estrés y la ansiedad 🧘♂️❤️, Habilidades y Técnicas para diseñar un Taller de Diario de Naturaleza impactante 📔✏️, el Arte de impartir estos talleres incorporando mindfulness 🌿🎨 y proporcionando apoyo 🤝, y los Secretos de la Promoción y Colaboraciones efectivas para compartir cómo el Diario de Naturaleza puede apoyar los procesos de recuperación 🌍🤝.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1342362987477598.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-1392972359438895",
+  "tipo": "estatico",
+  "titulo": "Edital em destaque com materiais de acesso imediato",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Moldura vermelha envolve um painel branco com o nome de um concurso municipal em letras pretas grandes. Ícones de arquivo e vídeo acompanham a chamada de acesso imediato.",
+  "por_que_funciona": [
+    "O nome do concurso domina o painel e permite reconhecer rapidamente o destino da preparação.",
+    "A moldura vermelha contrasta com o miolo branco.",
+    "Os ícones de arquivo e vídeo tornam tangíveis os materiais incluídos."
+  ],
+  "quando_usar": "Para divulgar preparação específica a quem já escolheu um concurso.",
+  "estrutura_texto": "CURSO COMPLETO\n[órgão e local do concurso]\n[material 1] + [material 2] COM ACESSO IMEDIATO",
+  "legenda": "Prepare-se para [concurso] com materiais focados em [edital]. Acesse [formatos de conteúdo] e estude com [recursos disponíveis]. Consulte os planos e escolha a opção adequada à sua preparação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use borda e cabeçalho vermelhos, painel branco com cantos inferiores arredondados, ícone institucional genérico no alto e nome do concurso em preto muito grande no centro. Na base, desenhe cápsula contornada com ícones de documento e vídeo e chamada de acesso. Não use brasões oficiais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1392972359438895",
+    "anunciante": "Gran Cursos Online - Concursos Públicos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-08",
+    "dias_no_ar": 129,
+    "variacoes_ativas": 1,
+    "texto_original": "O melhor investimento para a sua carreira está no catálogo do Gran! 💎 Escolha entre nossos cursos 100% focados no seu edital ou a nossa Assinatura Ilimitada para acesso total:\n📌 Acesso a +25.000 cursos: Todas as carreiras em um só lugar.\n📌 Download Ilimitado: Videoaulas e livros digitais disponíveis offline.\n📌 Plataforma Intuitiva: Organize seu progresso de forma simples e rápida.\n📌 Garantia de Satisfação: 7 dias para testar sem compromisso.\n\nClique e escolha o plano que melhor se adapta ao seu bolso e ao seu sonho! 👇",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1392972359438895.jpg"
+}

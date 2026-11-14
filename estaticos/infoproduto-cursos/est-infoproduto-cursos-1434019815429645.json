@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1434019815429645",
+  "tipo": "estatico",
+  "titulo": "Certificação profissional com checklist de etapas",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Título azul e laranja pergunta sobre a progressão de auxiliar para técnico. À esquerda há etapas e condições com checks; à direita, um profissional segura uma ferramenta em ambiente de oficina.",
+  "por_que_funciona": [
+    "A palavra em laranja destaca a ocupação citada na chamada.",
+    "Os checks dividem o processo em itens curtos e identificáveis.",
+    "A ferramenta e o uniforme situam a oferta no ambiente da profissão.",
+    "O botão azul torna visível a chamada de início imediato."
+  ],
+  "quando_usar": "Para explicar um processo de certificação por competências a profissionais elegíveis, com requisitos e validade confirmados.",
+  "estrutura_texto": "Você é [ocupação de origem] e busca [qualificação]?\n[Modalidade de certificação e base aplicável]\n[Requisito de experiência]\n[Etapa de avaliação]\n[Modalidade do processo]\n[Prazo condicionado]\n[Validade e registro comprováveis]\n[Chamada para começar]",
+  "legenda": "Conheça o processo de [certificação] para profissionais com experiência em [área]. Consulte requisitos, avaliação e documentação necessária. Confira a validade da formação e as condições para [registro profissional] antes de iniciar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto, quando adequada. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte peça quadrada com fundo claro e foto de profissional com ferramenta à direita, usando a IMAGEM 2 se pertinente. À esquerda, coloque título azul com ocupação em laranja, explicação curta e checklist com checks laranja. Termine com botão azul e faixa inferior para informações institucionais próprias. Use apenas requisitos, prazos e credenciais comprovados; não reproduza selos de órgãos públicos como endosso.",
+  "alerta_politica": "Verifique habilitação da instituição, critérios de certificação por competências e possibilidade de registro profissional. Prazos de diploma devem informar condições; citar uma lei ou exibir órgãos públicos não comprova autorização nem endosso.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1434019815429645",
+    "anunciante": "Itp Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-25",
+    "dias_no_ar": 142,
+    "variacoes_ativas": 2,
+    "texto_original": "Conquiste seu Diploma de Técnico em Mecânica em até 7 dias com base na Lei N° 9.394/96",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1434019815429645.jpg"
+}

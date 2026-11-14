@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1057975363824798",
+  "tipo": "estatico",
+  "titulo": "Cobertura residencial com apoio à moradia provisória",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Fundo verde em degradê apresenta uma cobertura de aluguel para mulheres em situação de violência doméstica. Um retrato feminino em ambiente externo ocupa o centro, com chamada para o site e condições no rodapé.",
+  "por_que_funciona": [
+    "A abertura em cápsula apresenta a cobertura como diferencial do seguro.",
+    "O negrito destaca o público atendido e a situação coberta no texto.",
+    "O retrato central dá presença humana a uma assistência descrita em termos contratuais.",
+    "A chamada contornada para o site fica separada das condições do rodapé."
+  ],
+  "quando_usar": "Para explicar uma assistência de seguro residencial com recorte de elegibilidade e finalidade claramente definidos.",
+  "estrutura_texto": "[Diferencial comprovado do seguro residencial]:\n[Proteção] na cobertura de [despesa] para [finalidade].\nAcesse [site] e saiba mais.\n[Marca]\n[Elegibilidade, vigência e condições regulatórias]",
+  "legenda": "Conheça a cobertura de [despesas com aluguel] do [seguro residencial], voltada a [público elegível] em [situação prevista no contrato]. Consulte [assistências disponíveis], critérios e condições em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo verde em degradê, abertura branca dentro de cápsula contornada e parágrafo curto abaixo com trechos em negrito. Use retrato respeitoso de uma mulher adulta em ambiente externo, dentro de retângulo largo com cantos arredondados. Inclua chamada contornada para o site, área de marca e condições legíveis no rodapé. Evite cenas de agressão ou sinais visuais de vitimização. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de seguros: informar coberturas, exclusões, elegibilidade e condições contratuais com clareza, conforme regras aplicáveis da SUSEP e do CDC. Não prometer aceitação ou proteção irrestrita; evitar alegações enganosas nas políticas da Meta. Tratar violência doméstica com respeito, sem imagens chocantes nem presumir que a pessoa que vê o anúncio vive essa situação. Alegação de pioneirismo exige comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1057975363824798",
+    "anunciante": "Tokio Marine Seguradora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-01",
+    "dias_no_ar": 74,
+    "variacoes_ativas": 1,
+    "texto_original": "Um lugar seguro para recomeçar. 💚\n\nO Seguro Residencial da Tokio Marine foi o primeiro do mercado brasileiro a disponibilizar a cobertura de Despesas com Aluguel para mulheres encontrarem uma moradia temporária neste momento tão difícil, além de oferecer orientação jurídica e apoio psicológico.\n\nMais cuidado, mais acolhimento, mais proteção. Iniciativa idealizada pela Tokio Marine. Saiba mais no site.\n\n#tokiomarine #seguroresidencial #Segurança #Cuidado #Assistencia\nSeguro Residencial Tokio Marine: Um lugar Seguro para recomeçar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1057975363824798.jpg"
+}

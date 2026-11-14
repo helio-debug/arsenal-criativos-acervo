@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1357445103156410",
+  "tipo": "estatico",
+  "titulo": "Maquete de casa com crédito e parcela",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma maquete de casa aparece no alto sobre fundo claro. A parte central destaca a parcela em números grandes, seguida por faixas com prazo, ausência de entrada e valor do crédito.",
+  "por_que_funciona": [
+    "A maquete da casa contextualiza a finalidade imobiliária.",
+    "A parcela ocupa a maior tipografia da composição.",
+    "O bloco escuro realça a expressão sobre vantagens do consórcio.",
+    "As caixas contornadas agrupam prazo, entrada e valor de crédito."
+  ],
+  "quando_usar": "Para apresentar uma condição específica de consórcio imobiliário a quem pesquisa construção ou reforma.",
+  "estrutura_texto": "[Escassez real e comprovada]\nConstrua [objetivo] com [solução].\nPor parcelas de [valor]*\n[Condição de entrada] - Até [prazo]\nCrédito de [valor]\n[Característica do processo]\n[Condições e reajustes]",
+  "legenda": "Planeje [reforma ou construção] com [consórcio imobiliário]. Conheça o crédito de [valor], prazo de [prazo] e condições de [parcela reduzida, se aplicável]. Consulte taxas, reajustes e regras de contemplação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo claro levemente rosado e maquete de casa no terço superior. Abaixo, crie chamada preta com trecho em branco sobre retângulo escuro. Destaque parcela em números grandes em caixa com contorno verde claro; adicione faixa escura para entrada e prazo e outra caixa para crédito e condição. Use escassez somente se comprovada e reserve rodapé legível para taxas, reajustes e contemplação.",
+  "alerta_politica": "Em anúncios de crédito e consórcio, informe taxas, custos e condições de forma clara. Não prometa aprovação, contemplação ou entrega imediata do bem. Consórcio depende de contemplação por sorteio ou lance; ausência de juros não elimina taxa de administração e outros encargos. Evite afirmar a situação financeira pessoal do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1357445103156410",
+    "anunciante": "Âncora Adm. Consórcios",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-17",
+    "dias_no_ar": 120,
+    "variacoes_ativas": 1,
+    "texto_original": "Pensando em tirar do papel a reforma da sua casa? Ou mesmo construir o imóvel que sempre planejou? O Consórcio imobiliário é a chave para a conquista dos seus sonhos. Planos flexíveis, customizados à sua realidade, sem entrada e com meia parcela até o ato da contemplação.\n Clique no botão Whatsapp e transforme a sua vida 📲\nSimule sua Carta de Crédito",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1357445103156410.jpg"
+}

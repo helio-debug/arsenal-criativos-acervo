@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-1673633773950610",
+  "tipo": "estatico",
+  "titulo": "Automação de relatórios com integrações visuais",
+  "formato": "Produto em destaque",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "saas-app",
+  "oferta": "amostra-teste",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Cartão claro com chamada laranja e promessa de extração automática de dados. Ícones de plataformas e ferramentas de análise rodeiam o texto sobre um fundo de gráficos desfocados.",
+  "por_que_funciona": [
+    "A saudação laranja identifica o público antes de apresentar o recurso.",
+    "O texto central explica a tarefa automatizada e o destino dos dados.",
+    "Os ícones ao redor tornam visíveis as integrações oferecidas.",
+    "O fundo com gráficos contextualiza o uso em relatórios de campanhas."
+  ],
+  "quando_usar": "Para apresentar uma ferramenta de integração a profissionais que montam relatórios recorrentes.",
+  "estrutura_texto": "Ei, [PÚBLICO]!\n[VERBO] dados de [ORIGENS]\nautomaticamente para [DESTINOS].\n[MARCA]",
+  "legenda": "Conecte [origens de dados] a [ferramentas de destino] e gere relatórios para [uso]. Conheça [produto] e teste grátis por [prazo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com gráficos desfocados, cartão central creme de cantos arredondados, saudação laranja e benefício em letras pretas arredondadas e fortes. Posicione símbolos das integrações reais nas bordas e dois ícones maiores abaixo do texto. Use apenas ativos autorizados e destaque a identidade própria no rodapé. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1673633773950610",
+    "anunciante": "Stract.to",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-06",
+    "dias_no_ar": 192,
+    "variacoes_ativas": 1,
+    "texto_original": "Pare de gastar em dólares com outras ferramentas, ou ter problemas com as suas queries no Adveronix.\n\nConheça a Stract e conecte as suas campanhas ao Google Sheets e Looker Studio.\n\nGere dashboards customizados para seus projetos.\n\nTeste grátis por 14 dias! 🚀",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-1673633773950610.jpg"
+}

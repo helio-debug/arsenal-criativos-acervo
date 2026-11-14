@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1578055333397961",
+  "tipo": "estatico",
+  "titulo": "Pneu com medidas e lista de benefícios",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Catálogo de pneu para bicicleta com cabeçalho vermelho e preto sobre fundo cinza-claro. Medidas e benefícios ficam à esquerda, enquanto embalagem e detalhe da banda de rodagem ocupam a direita.",
+  "por_que_funciona": [
+    "As duas medidas em destaque ajudam a comparar a compatibilidade.",
+    "O recorte ampliado da banda mostra o desenho do pneu.",
+    "Uma linha vermelha conecta o detalhe ao produto embalado.",
+    "Os benefícios com ícones de verificação permitem leitura rápida."
+  ],
+  "quando_usar": "Para apresentar um produto técnico a compradores que comparam medidas, construção e características de uso.",
+  "estrutura_texto": "[Linha de produto] | [Especificação técnica]\n[Nome do produto]\n[Medida 1]\n[Medida 2]\n✓ [Benefício 1]\n✓ [Benefício 2]\n✓ [Benefício 3]\n[Reforço do benefício]\n[Origem comprovada]\n[Marca]",
+  "legenda": "Conheça [produto] para [aplicação], disponível nas medidas [opções]. Confira [característica técnica] e [benefício comprovado]. Consulte compatibilidade e compre em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma ficha de produto quadrada com fundo cinza-claro texturizado, cabeçalho vermelho e preto e nome em destaque. Organize medidas e três benefícios à esquerda. À direita, mostre a foto do produto e um recorte ampliado de detalhe, ligados por linha vermelha. Use marca própria no rodapé e apenas especificações e origem comprovadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1578055333397961",
+    "anunciante": "Cinborg Pneus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-05",
+    "dias_no_ar": 282,
+    "variacoes_ativas": 1,
+    "texto_original": "COMPRE AGORA!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1578055333397961.jpg"
+}

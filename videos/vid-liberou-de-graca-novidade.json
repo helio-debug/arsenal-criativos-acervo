@@ -1,0 +1,97 @@
+{
+ "id": "vid-liberou-de-graca-novidade",
+ "formato_video": "formato-noticia",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "saas-b2b",
+  "infoproduto-cursos"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "gratis-isca",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "titulo": "Notícia de recurso gratuito com três usos",
+ "duracao": "38s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "[Responsável pelo recurso] liberou [recurso] de graça para [uso coberto].",
+  "texto_tela": "[Recurso] grátis: [escopo]",
+  "visual": "Tela vertical dividida: apresentador em close na metade inferior, painel superior com anúncio verificado do recurso. Fundo em degradê discreto; legenda branca com uma palavra em cor."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Tela vertical dividida: apresentador em close na metade inferior, painel superior com anúncio verificado do recurso. Fundo em degradê discreto; legenda branca com uma palavra em cor.",
+   "fala": "[Responsável pelo recurso] liberou [recurso] de graça para [uso coberto].",
+   "texto_tela": "[Recurso] grátis: [escopo]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Painel superior troca para captura do anúncio oficial, com data, trecho relevante e condições legíveis. Apresentador permanece abaixo.",
+   "fala": "O acesso inclui [limite gratuito]. [Condição de acesso] vale desde [data confirmada].",
+   "texto_tela": "[Limite] • [condição] • [data]"
+  },
+  {
+   "tempo": "10-17s",
+   "cena": "No alto, demonstração de uma entrada e sua saída, em diagrama simples. Embaixo, fala direta.",
+   "fala": "Primeiro uso: [tarefa um]. Você coloca [entrada] e confere [saída].",
+   "texto_tela": "1. [Uso prático um]"
+  },
+  {
+   "tempo": "17-24s",
+   "cena": "Painel superior vira checklist com um item marcado e amostra real da segunda tarefa.",
+   "fala": "Segundo: [tarefa dois]. Aqui, revise [ponto que exige conferência].",
+   "texto_tela": "2. [Uso prático dois]"
+  },
+  {
+   "tempo": "24-31s",
+   "cena": "Painel superior mostra a terceira tarefa, com rótulo curto e detalhe ampliado da interface autorizada.",
+   "fala": "Terceiro: [tarefa três]. O gratuito atende até [limite relevante].",
+   "texto_tela": "3. [Uso prático três]"
+  },
+  {
+   "tempo": "31-38s",
+   "cena": "Painel superior volta à página oficial, destacando como acessar. Retire ícones decorativos e preserve o rosto abaixo.",
+   "fala": "Salve para testar depois. O acesso e as condições estão em [local indicado na legenda].",
+   "texto_tela": "Salve • acesso em [local]"
+  }
+ ],
+ "por_que_funciona": [
+  "Os frames mantêm o rosto na metade inferior e trocam o conteúdo da metade superior, combinando fala contínua com apoio visual.",
+  "Um dos painéis compara fluxos com ícones de entrada e saída; o recurso abstrato ganha uma representação concreta.",
+  "Outro frame apresenta caixas marcadas e uma forma de onda, aproximando cada característica citada de um elemento visível.",
+  "O frame final exibe uma página de anúncio acima do apresentador, dando ao convite um destino visual."
+ ],
+ "quando_usar": "Para anunciar um recurso com gratuidade confirmada e utilidade imediata, quando o público ainda não conhece a ferramenta. Use apenas se o escopo gratuito estiver claro; a referência visual, sozinha, não comprova gratuidade.",
+ "roteiro_modelo": "[Responsável pelo recurso] liberou [recurso] de graça para [uso coberto].\n\n[Pausa curta / corte]\n\nO acesso inclui [limite gratuito]. [Condição de acesso] vale desde [data confirmada].\n\n[Pausa curta / corte]\n\nPrimeiro uso: [tarefa um]. Você coloca [entrada] e confere [saída].\n\n[Pausa curta / corte]\n\nSegundo: [tarefa dois]. Aqui, revise [ponto que exige conferência].\n\n[Pausa curta / corte]\n\nTerceiro: [tarefa três]. O gratuito atende até [limite relevante].\n\n[Pausa curta / corte]\n\nSalve para testar depois. O acesso e as condições estão em [local indicado na legenda].",
+ "tomadas_celular": [
+  "Close vertical do apresentador, celular à altura dos olhos, janela frontal e espaço acima para painel; grave 10s.",
+  "Gravação de tela da página oficial, fonte ampliada e brilho legível, por 6s.",
+  "Captura de tela executando a primeira tarefa com dados fictícios identificados, sem reflexo; grave 7s.",
+  "Captura da segunda tarefa e sua conferência, interface limpa, por 7s.",
+  "Captura da terceira tarefa com limite de uso visível, brilho uniforme; grave 7s.",
+  "Close de encerramento, mesma posição e luz frontal suave; grave 7s."
+ ],
+ "caminho_ia": "Use avatar com voz sintética na metade inferior e Runway ou Veo para cenas ilustrativas no painel superior. Prompts: \"Vertical 9:16 composition, generic presenter in lower half, eye-level close-up, soft frontal light, upper half left empty for a product interface overlay, no logos, no text, 4 seconds.\" e \"Landscape insert shot for upper video panel, clean desktop with [product] interface represented by blank input and output cards, slow push-in, neutral studio lighting, no fabricated metrics, 7 seconds.\" Monte no CapCut com capturas autorizadas ou slideshow de imagens geradas identificadas como ilustração. Adicione legendas curtas e os limites reais da oferta. Não fabrique página oficial nem depoimento.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e o ritmo. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie notícia prática de 38s em 9:16, com blocos 0-4, 4-10, 10-17, 17-24, 24-31 e 31-38s. Apresentador embaixo e painéis de apoio em cima. Abra com recurso gratuito, mostre fonte/data/limites, entregue três usos distintos e peça para salvar. Esses três usos são o conteúdo da lista, cada um com entrada e saída; evite enumeração decorativa. Tom de descoberta, fala direta, painéis trocados por assunto e legenda branca curta com destaque de uma palavra. A transcrição de referência não comprova recurso gratuito: exija a informação do meu produto. Se for teste ou plano limitado, diga isso no gancho. Não copie celebridades, ícones de empresas, métricas de popularidade, voz, alegações de superioridade ou a notícia da referência. Não copie pessoa, anunciante, marca, logotipo, domínio, cenário identificável nem falas da referência. Use apenas os dados fornecidos; deixe [colchetes] para informação ausente. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, antítese vazia ou pergunta decorativa.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Recurso] tem [plano gratuito/teste] para [uso]. Três aplicações: [uso 1], [uso 2] e [uso 3]. Limites: [condições]. Fonte e acesso: [canal oficial], consultado em [data]. Salve para testar.",
+ "alerta_politica": "Gratuidade deve ter escopo, prazo e limitações claros; não anunciar como gratuito um acesso que exige pagamento oculto. Não usar celebridade ou voz clonada sem autorização, nem sugerir endosso de terceiros.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-8aec5658",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-liberou-de-graca-novidade/frames/f1.jpg",
+    "videos/vid-liberou-de-graca-novidade/frames/f2.jpg",
+    "videos/vid-liberou-de-graca-novidade/frames/f3.jpg",
+    "videos/vid-liberou-de-graca-novidade/frames/f4.jpg",
+    "videos/vid-liberou-de-graca-novidade/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

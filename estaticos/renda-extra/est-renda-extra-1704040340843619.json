@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1704040340843619",
+  "tipo": "estatico",
+  "titulo": "Franquia para público profissional com investimento explícito",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de escritório escuro com iluminação azul ocupa o fundo. O centro destaca uma franquia para advogados; a parte inferior reúne três benefícios com ícones, investimento em letras grandes e botão azul.",
+  "por_que_funciona": [
+    "A expressão que define o público aparece em letras grandes dentro de uma moldura.",
+    "A foto do escritório situa a oferta no contexto de serviços profissionais.",
+    "Os três ícones facilitam localizar os benefícios do modelo de negócio.",
+    "O investimento explícito permite avaliar a faixa de entrada antes do clique."
+  ],
+  "quando_usar": "Para apresentar oportunidades de franquia a profissionais com perfil definido, informando investimento e condições de operação.",
+  "estrutura_texto": "[Categoria da franquia]\nPARA [público]\nCONHEÇA [marca]\nTransforme [experiência] em [oportunidade de negócio].\n[Benefícios comprováveis do modelo]\nINVESTIMENTO: [valor e condições]\n[CTA]",
+  "legenda": "Conheça uma franquia de [segmento] voltada a [público]. O modelo oferece [estrutura de apoio] e possibilidade de contratos [periodicidade], conforme a operação. Investimento inicial de [valor], sujeito a [condições]. Consulte os detalhes em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto autorizada de escritório contemporâneo com tratamento azul escuro e área inferior escurecida para leitura. Centralize a categoria e uma chamada grande para o público em moldura azul fina. Abaixo, coloque descrição curta, três benefícios com ícones brancos e investimento inicial grande no canto inferior esquerdo; botão azul à direita. Não prometa faturamento, retorno garantido ou renda automática.",
+  "alerta_politica": "Meta: oportunidades de negócio não podem prometer renda ou retorno garantido. A menção a receita recorrente deve explicar o modelo de contratos, sem sugerir ganhos certos. Informe investimento total aplicável e condições da franquia.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1704040340843619",
+    "anunciante": "Somaxi Group",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-15",
+    "dias_no_ar": 122,
+    "variacoes_ativas": 3,
+    "texto_original": "Franquia de LGPD para Advogados e TI\n\nModelo com contratos mensais, sua base de clientes cresce mês a mês.\n\nVer detalhes da franquia\nVer detalhes da franquia\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1704040340843619.jpg"
+}

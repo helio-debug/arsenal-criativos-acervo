@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1587254613193374",
+  "tipo": "estatico",
+  "titulo": "Fundos imobiliários com ícone de prédios",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Composição vertical em blocos e degradês de laranja, bege e azul. Título e benefício centralizados ficam acima de um botão e de um ícone de três prédios.",
+  "por_que_funciona": [
+    "O título grande identifica a modalidade de investimento.",
+    "O benefício ocupa linhas curtas no centro da composição.",
+    "O botão roxo cria contraste com o fundo claro.",
+    "O ícone de prédios associa visualmente a oferta ao mercado imobiliário."
+  ],
+  "quando_usar": "Para divulgar acesso a fundos imobiliários e direcionar à abertura de conta.",
+  "estrutura_texto": "[MARCA]\n[MODALIDADE]\n[RENDA POTENCIAL] sem precisar [COMPRA DIRETA]\n[CTA]",
+  "legenda": "Explore [fundos imobiliários] em [plataforma] e entenda como funcionam seus rendimentos, custos e riscos. Confira [opções] e [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use composição vertical com blocos translúcidos e degradê laranja, bege e azul claro; título grande roxo centralizado, benefício em três linhas, botão roxo arredondado e ícone linear original de prédios na parte inferior. Inclua ressalva sobre a variabilidade dos rendimentos.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta. Distribuições de fundos imobiliários são variáveis; evite apresentar “aluguéis” como renda garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1587254613193374",
+    "anunciante": "Rico.com.vc",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 3,
+    "texto_original": "Procurando por dividendos mensais?\nConheça nossas opções de Fundos Imobiliários e comece hoje mesmo a investir.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1587254613193374.jpg"
+}

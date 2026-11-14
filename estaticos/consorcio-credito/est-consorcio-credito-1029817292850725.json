@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-1029817292850725",
+  "tipo": "estatico",
+  "titulo": "Tutorial de antecipação de parcelas com mascote",
+  "formato": "Alerta e educação",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Capa de tutorial com fundo azul, título branco e gato ilustrado acenando. Formas laranja e ciano completam a composição e uma seta indica continuidade.",
+  "por_que_funciona": [
+    "As palavras sobre antecipação e parcelas aparecem em branco e em peso maior, destacando o assunto.",
+    "O gato de braços abertos ocupa a metade inferior e dá identidade à série educativa.",
+    "A seta lateral sinaliza que há mais etapas para consultar."
+  ],
+  "quando_usar": "Para instituições financeiras que precisam ensinar clientes a usar uma função do aplicativo.",
+  "estrutura_texto": "[Mascote] explica\nPasso a passo de como [ação] as [parcelas] da sua [fatura].",
+  "legenda": "Confira o passo a passo para [ação financeira] pelo [aplicativo]. Arraste para o lado para acompanhar as etapas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul intenso, tipografia branca com a ação principal em negrito, selo pequeno de série educativa no alto e mascote ilustrado na metade inferior. Acrescente formas abstratas em ciano e laranja e uma seta discreta à direita. Use os dados do produto para contextualizar a função, sem inventar telas ou condições financeiras.",
+  "alerta_politica": "Em conteúdo financeiro, informe condições e custos aplicáveis com clareza; não prometa economia garantida nem atribua ao público uma situação de dívida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1029817292850725",
+    "anunciante": "Cartões CAIXA",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-31",
+    "dias_no_ar": 14,
+    "variacoes_ativas": 2,
+    "texto_original": "Arrasta para o lado e confira o tutorial de antecipação de parcelas direto pelo App Cartões CAIXA. 💳✨\n\n#seujeitinho #CartoesCAIXA \n\n#ParaTodosVerem: a publicação mostra uma sequência de cinco imagens com fundo azul e elementos gráficos em azul-claro e laranja. Em todas as imagens aparece o logo Cartões CAIXA e o personagem Miau, um gato cinza ilustrado. Na primeira imagem, Miau acena ao lado do texto: “Miau explica. Passo a passo de como antecipar as parcelas da sua fatura.”. Na segunda imagem, Miau segura um celular. O texto diz: “Passo 1. Abra o App Cartões CAIXA e acesse a aba ‘Faturas’.”. A tela do aplicativo aparece em destaque. Na terceira imagem, Miau continua com o celular. O texto diz: “Passo 2. Clique na opção ‘Antecipação de parcelas’.”. Na quarta imagem, Miau aparece em tamanho maior. O texto diz: “Passo 3. Selecione a compra que deseja antecipar, veja as parcelas disponíveis e escolha a melhor opção para você.”. Na última imagem, Miau é segurado por duas mãos. O texto diz: “Pronto! O valor antecipado será acrescentado ao saldo da sua fatura aberta.”. Ao lado, outro texto informa: “Acompanhe o nosso perfil para ficar por dentro das novidades do App Cartões CAIXA.”. Em todas as imagens há elementos gráficos circulares e flores estilizadas em tons de azul e laranja.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1029817292850725.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1640556657857347",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com personagem e catálogo",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Um fundo laranja recebe um título branco grande com destaque verde. Uma personagem ilustrada segura cédulas, enquanto várias fileiras de potes preenchem a base.",
+  "por_que_funciona": [
+    "O título grande apresenta a ação de se tornar revendedor de imediato.",
+    "A faixa verde reforça a palavra central da chamada.",
+    "As fileiras de potes mostram variedade no catálogo.",
+    "A personagem segurando cédulas conecta a revenda à motivação de renda."
+  ],
+  "quando_usar": "Divulgação inicial de um programa de revenda de alimentos em potes para pequenos comércios.",
+  "estrutura_texto": "Seja um\n[REVENDEDOR]\ne tenha uma\n[OPORTUNIDADE DE RENDA EXTRA]!",
+  "legenda": "Você tem [tipo de comércio]? Conheça [linha de produtos] e a tabela para revenda. Consulte [pedido mínimo] e [condições comerciais] em [canal]. [Condição sobre consignação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo laranja vivo, título branco grande no topo e faixa verde atrás da palavra principal. Inclua uma personagem ilustrada simpática na metade esquerda e os produtos da IMAGEM 2 organizados em fileiras no rodapé. Posicione uma frase curta em lettering branco na área central direita. Use apelo de oportunidade de revenda sem prometer ganhos.",
+  "alerta_politica": "Meta: apresente a atividade e suas condições com clareza. Não prometa renda garantida ou liberdade financeira; valores de ganhos precisam de comprovação e contexto de custos, esforço e resultados variáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1640556657857347",
+    "anunciante": "Doces Vovó de São Lourenço",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 4,
+    "texto_original": "🤔 Dono de mercadinho ou supermercado?\n\n🤑 Cadastre-se e revenda um produto com ótima saída nas gôndolas.\n\n👉 Tabela especial para revenda\n\n🤝 Fale com a gente!\n\n*Não trabalhamos com consignado.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1640556657857347.jpg"
+}

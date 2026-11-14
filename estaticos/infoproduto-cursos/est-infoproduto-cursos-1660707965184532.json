@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1660707965184532",
+  "tipo": "estatico",
+  "titulo": "Pós online com preço parcelado em bloco central",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Retrato de uma mulher ocupa a direita sobre fundo claro. À esquerda, a oferta de três pós online combina prazo de conclusão, quadro vermelho com parcela em tamanho grande e botão de chamada.",
+  "por_que_funciona": [
+    "O valor 19,90 é o maior elemento do bloco comercial e concentra a atenção no preço.",
+    "A faixa verde separa a introdução do valor dentro do quadro vermelho.",
+    "O prazo de quatro meses aparece em amarelo no bloco superior.",
+    "O botão arredondado abaixo do preço indica a ação esperada."
+  ],
+  "quando_usar": "Para campanhas de matrícula de pós-graduação com oferta parcelada e condições comerciais já definidas.",
+  "estrutura_texto": "[QUANTIDADE] PÓS ONLINE\n[AVALIAÇÃO INSTITUCIONAL VERIFICÁVEL]\nCONCLUSÃO A PARTIR DE [PRAZO]\nPOR APENAS:\n[PARCELAS] X R$ [VALOR]\n[CONDIÇÕES POR CURSO]\nGARANTA SUA [FORMAÇÃO]!",
+  "legenda": "Conheça a pós-graduação em [área], com aulas [modalidade] e conclusão a partir de [prazo]. Consulte [condições acadêmicas], valores e parcelamento em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo cinza-claro com diagonais suaves e retrato da IMAGEM 2 à direita. Reserve a esquerda para título, faixa de prazo e quadro vermelho de preço com cabeçalho verde. Destaque a parcela em branco e apresente quantidade de parcelas e condições por curso de forma legível. Finalize com botão vermelho arredondado. Use avaliações ou reconhecimento somente se informados e verificáveis. Adapte os textos às informações de MEU PRODUTO, sem inventar preços, descontos, certificações ou benefícios.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1660707965184532",
+    "anunciante": "Educaminas EaD",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 4,
+    "texto_original": "A Pós-Graduação dos seus sonhos agora:\n\n✅ 100% Online\n✅ Conclusão a Partir de 4 Meses\n✅ Cursos Reconhecidos pelo MEC\n✅ TCC Opcional\n\nClique no link e saiba mais\n\nGarantir Desconto",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1660707965184532.jpg"
+}

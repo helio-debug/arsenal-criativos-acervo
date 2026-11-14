@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-830497696144760",
+  "tipo": "estatico",
+  "titulo": "Balanço externo com desconto e entrada reduzida",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Balanço estofado ocupa um terraço com vista para o mar. Texto branco no céu e faixa cinza inferior apresentam descontos e pagamento parcial.",
+  "por_que_funciona": [
+    "O balanço ocupa a maior área e permite observar assento, almofadas e estrutura.",
+    "O cenário de terraço mostra uma possibilidade de uso do móvel.",
+    "A caixa branca inferior destaca os percentuais de desconto.",
+    "O bloco de pagamento informa entrada de 20% e saldo na entrega."
+  ],
+  "quando_usar": "Para lojas de móveis externos anunciarem uma peça com condições comerciais claras e ambientação de uso.",
+  "estrutura_texto": "[Marca]\n[Chamada de uso e conforto]\n[Categoria do produto]\nATÉ [Desconto]% OFF\n+ EXTRA [Desconto adicional]% OFF\n[Condição de pagamento]\nPAGUE [Entrada]% HOJE E\nO RESTANTE [Condição]",
+  "legenda": "Conheça [produto] para [ambientes]. Aproveite até [desconto]% de desconto e [condição do desconto adicional]. Pague [entrada]% agora e o saldo em [momento]. Confira materiais, medidas, entrega e condições em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Destaque o móvel da IMAGEM 2 em um terraço amplo com plantas e horizonte aberto, sem reproduzir o lugar da referência. Posicione chamada serifada branca no céu à direita e identidade própria no topo. Crie faixa cinza inferior com caixa branca de descontos à esquerda e condição de entrada e saldo à direita. Não some percentuais automaticamente; apresente as regras reais da promoção.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "830497696144760",
+    "anunciante": "Dreamline Outdoor Furniture",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-14",
+    "dias_no_ar": 396,
+    "variacoes_ativas": 1,
+    "texto_original": "Luxury, Comfort & Savings—All in One! 🏡✨\nDon’t miss out on this limited-time offer! ⏳\n\n💳 Easy Payment Plan – Pay just 20% now & the rest on delivery!\n\n🔹 Why Choose Dreamline?\n✅ Built to Last – Premium materials for all-weather durability\n✅ Ultimate Comfort – Plush cushions for pure relaxation\n✅ Stylish & Space-Saving – Perfect for patios, balconies & gardens\n✅ Convenient Shopping – Partial payment + COD available\n\n🛍️ Shop Now: Dreamlineoutdoorfurniture.com\nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\nPay just 20% now, rest on delivery.\nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nPay just 20% now, rest on delivery.\nShop Now\n \nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-830497696144760.jpg"
+}

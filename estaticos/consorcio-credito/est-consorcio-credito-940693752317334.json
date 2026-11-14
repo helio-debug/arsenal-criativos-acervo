@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-940693752317334",
+  "tipo": "estatico",
+  "titulo": "Casa própria com porta-voz em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um homem sorridente aparece em primeiro plano, visto de cima, cercado por uma multidão com desfoque radial. Título branco, bloco de marca vermelho e botão de simulação contrastam com o fundo escuro.",
+  "por_que_funciona": [
+    "O rosto central tem maior nitidez que a multidão ao redor.",
+    "O título grande no alto apresenta o objetivo de casa própria.",
+    "O botão branco com texto vermelho destaca a ação de simular.",
+    "O desfoque radial direciona o olhar ao personagem e à chamada."
+  ],
+  "quando_usar": "Para campanhas de consórcio imobiliário com porta-voz autorizado e foco em pedidos de simulação.",
+  "estrutura_texto": "Conquiste [objetivo]!\n[Afirmação institucional comprovável]\nSIMULE AGORA\n[Mensagem de posicionamento]\n[Base da afirmação institucional]",
+  "legenda": "Casa, apartamento ou terreno: conheça as possibilidades de [consórcio imobiliário]. Consulte planos, custos e regras de contemplação e simule em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com multidão desfocada radialmente, pessoa autorizada em primeiro plano vista de cima e título branco grande no alto. Reserve canto superior esquerdo para a própria identidade visual e CTA branco com texto vermelho no rodapé. Não reproduza o rosto da referência nem alegações de liderança sem comprovação.",
+  "alerta_politica": "Em anúncios de crédito e consórcio, informe taxas, custos e condições de forma clara. Não prometa aprovação, contemplação ou entrega imediata do bem. Consórcio depende de contemplação por sorteio ou lance; ausência de juros não elimina taxa de administração e outros encargos. Evite afirmar a situação financeira pessoal do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "940693752317334",
+    "anunciante": "Ademicon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 1,
+    "texto_original": "Casa, apartamento ou terreno? Com o crédito Ademicon, você escolhe onde quer morar.\nConsórcio imobiliário com parcelas reduzidas\nÉ crédito. É investimento.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-940693752317334.jpg"
+}

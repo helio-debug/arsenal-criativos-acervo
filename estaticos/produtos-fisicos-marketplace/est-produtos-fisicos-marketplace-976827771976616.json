@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-976827771976616",
+  "tipo": "estatico",
+  "titulo": "Medidor em uso com acessórios alinhados",
+  "formato": "Produto em destaque",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Medidor digital mergulhado em um copo com água sobre fundo branco. A tampa aparece à esquerda e três sachês de calibração formam uma coluna à direita.",
+  "por_que_funciona": [
+    "O visor verde com números grandes destaca a leitura do aparelho.",
+    "O copo mostra como posicionar a ponta do medidor durante o uso.",
+    "Os três sachês alinhados apresentam os acessórios de calibração.",
+    "O fundo branco isola o conjunto e facilita ver cada componente."
+  ],
+  "quando_usar": "Para apresentar um instrumento de medição e os componentes incluídos antes da decisão de compra.",
+  "estrutura_texto": "[marca no canto]\n[modelo e leitura no visor]\n[funções e botões do aparelho]\n[identificação dos acessórios de calibração]",
+  "legenda": "Confira [medidor] e os itens incluídos em [kit]. Veja [desconto disponível], [condição de frete] e o valor final em [destino]. Os valores podem variar conforme [tributos e condições aplicáveis].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma foto de catálogo sobre fundo branco. Coloque o medidor vertical no centro, com a ponta dentro de um copo transparente com água; deixe a tampa à esquerda e três acessórios de calibração empilhados à direita. Preserve os detalhes reais do visor e dos rótulos da IMAGEM 2, sem inventar funções ou itens incluídos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "976827771976616",
+    "anunciante": "Techfindshub3",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-18",
+    "dias_no_ar": 180,
+    "variacoes_ativas": 1,
+    "texto_original": "🤩🛒Até 80% OFF e FRETE GRÁTIS em milhares de   produtos🚛 Entrando no clima de férias com algo especial.\n✨Os valores poderão sofrer variações dos impostos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-976827771976616.jpg"
+}

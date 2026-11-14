@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-986260760235215",
+  "tipo": "estatico",
+  "titulo": "Loteamento com parcela em destaque e cadastro",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto aérea de um loteamento ao pôr do sol, com identificação no alto e parcela em branco sobre a imagem. Faixas curvas em laranja, coral e roxo reúnem argumento de pagamento, cadastro e aviso de últimas unidades.",
+  "por_que_funciona": [
+    "A foto aérea mostra o traçado das ruas e dos lotes.",
+    "O valor de R$ 299,00 tem destaque sobre o fundo escuro da fotografia.",
+    "A faixa roxa separa o convite ao cadastro do restante do texto.",
+    "O selo de últimas unidades acrescenta uma condição de disponibilidade visível."
+  ],
+  "quando_usar": "Para captar contatos de compradores interessados em lotes com pagamento parcelado.",
+  "estrutura_texto": "[Empreendimento]\n[Cidade - UF]\nParcelas a partir de [valor]\n[Marca]\nLotes com [condição de pagamento]\nCadastre-se e consulte [condição]\n[Disponibilidade]\n[Condições de análise]",
+  "legenda": "Conheça [loteamento], em [região], com [infraestrutura verificável]. Parcelas a partir de [valor], conforme [entrada, prazo e correção]. Cadastre-se para consultar disponibilidade e condições completas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto aérea autorizada do empreendimento ao pôr do sol. Crie selo no canto superior direito em coral, com faixa roxa para localização. Destaque a parcela em branco na lateral inferior da foto. Reserve a base para ondas laranja e coral, título de pagamento e faixa roxa com CTA de cadastro. Inclua condições legíveis e use escassez somente se comprovada.",
+  "alerta_politica": "Na oferta de imóveis parcelados, informe entrada, quantidade e valor das parcelas, correção, juros e condições de aprovação aplicáveis. Não prometa valorização ou retorno garantidos nem aprovação de crédito irrestrita; a comunicação deve corresponder às condições reais da oferta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "986260760235215",
+    "anunciante": "Trinus",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-21",
+    "dias_no_ar": 450,
+    "variacoes_ativas": 1,
+    "texto_original": "Loteamento Recanto do Sol: Um investimento inteligente com grande potencial de valorização!\n\nCom lotes a partir de R$299, localização estratégica e infraestrutura planejada para o futuro, este é o momento ideal para diversificar e ampliar seu portfólio de investimentos.\n\nA proximidade com a Rodovia dos Romeiros e a crescente demanda por imóveis na região garantem uma alta perspectiva de retorno.\n\nConsulte as condições e aproveite esta oportunidade única!\nSeu lote com parcelinha que cabe no bolso! ✨\nSign Up\n​\nActive",
+    "origem_coleta": "acervo:trinus"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-986260760235215.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-958431523297526",
+  "tipo": "estatico",
+  "titulo": "Manchete sobre automação com convite para continuar",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Montagem escura mostra uma figura pública segurando um nome em letras tridimensionais e um robô vermelho. Uma manchete branca condensada apresenta uma alegação sobre compra de rede social, seguida de frase curta e seta.",
+  "por_que_funciona": [
+    "A montagem com um robô vermelho cria um foco de cor no fundo escuro.",
+    "A manchete em letras condensadas ocupa boa parte da metade inferior.",
+    "O trecho final em negrito destaca a restrição mencionada na chamada.",
+    "A seta no canto inferior indica continuidade do conteúdo."
+  ],
+  "quando_usar": "Para abrir conteúdo educativo sobre mudanças no mercado de anúncios, usando fatos checados e contextualizados.",
+  "estrutura_texto": "[MANCHETE FACTUAL SOBRE MUDANÇA NO SETOR]\n[DETALHE QUE DESPERTA CURIOSIDADE]\n[FRASE CURTA DE CONTINUIDADE]\n[SETA]",
+  "legenda": "[Mudança verificada no setor] pode afetar o trabalho com [atividade]. Veja como acompanhar [indicadores após o anúncio] e identificar [gargalos comerciais]. Confira a análise e as fontes em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase preto, retrato autorizado da IMAGEM 2 na metade superior e um objeto tecnológico vermelho em destaque. Coloque uma manchete factual em branco condensado na metade inferior, com o trecho central em negrito, frase de apoio e seta no canto. Não reproduza a pessoa pública, nomes ou logotipos da referência. Não atribua aquisição ou endosso a empresas sem fonte verificável.",
+  "alerta_politica": "Verificar a alegação de aquisição antes de reutilizar a mensagem. A montagem não comprova o fato; não publicar notícia falsa nem sugerir endosso de pessoa pública sem autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "958431523297526",
+    "anunciante": "Tintim",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-25",
+    "dias_no_ar": 234,
+    "variacoes_ativas": 1,
+    "texto_original": "A Meta comprou uma rede social onde humanos não podiam postar.\n\nSó IAs. Criando conteúdo, fundando religiões e desenvolvendo linguagem própria entre elas.\n\nE você ainda tá preocupado se o botão de otimização tá no lugar certo.\n\nQuando a plataforma ficar totalmente automatizada, o que vai separar o gestor mediano do estrategista de resultado é simples:\n\nsaber interpretar o que os dados dizem depois que o lead saiu do anúncio.\n\nA máquina não sabe se seu cliente perdeu venda por criativo ruim ou por atendimento lerdo no WhatsApp.\n\nIsso só quem rastreia o caminho completo enxerga.\n\nComenta BOLETIM aqui embaixo que eu te mando o link da newsletter. Toda segunda e quinta, 5 minutos com o que realmente importa pra quem vive de tráfego.\n\n#gestordetrafego #metaads #inteligenciaartificial #trafegopago #marketingdigital",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-958431523297526.jpg"
+}

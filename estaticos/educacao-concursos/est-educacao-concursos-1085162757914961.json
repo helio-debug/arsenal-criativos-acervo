@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1085162757914961",
+  "tipo": "estatico",
+  "titulo": "Rotina guiada de estudos em post de perfil",
+  "formato": "Post e comentários",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo branco com avatar e identificação de perfil no alto. O texto explica a rotina da mentoria, destaca metas diárias em negrito e termina com uma aplicação.",
+  "por_que_funciona": [
+    "O avatar e o cabeçalho de perfil dão ao texto aparência de publicação pessoal.",
+    "O negrito concentra a leitura na definição das metas diárias.",
+    "A sequência com setas apresenta o método de estudo em uma linha.",
+    "O convite final em negrito indica a próxima ação."
+  ],
+  "quando_usar": "Para apresentar uma mentoria de concursos a quem já busca acompanhamento e precisa entender a rotina de estudo.",
+  "estrutura_texto": "[Nome do especialista]\n[@perfil]\nNa [mentoria], funciona assim:\nVocê [acessa a plataforma] e [executa as metas definidas pelo mentor].\n[Etapa 1] → [Etapa 2] → [Etapa 3]\n[Objetivo da preparação].\nAplique para uma vaga.",
+  "legenda": "Estude para [concurso] com um plano guiado por [especialista]. Receba [metas diárias] para organizar sua preparação. Faça sua aplicação em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, texto preto alinhado à esquerda e amplas margens. No topo, coloque avatar circular e identificação genérica de perfil. Distribua a mensagem em blocos curtos, destaque o mecanismo em negrito, apresente três etapas com setas e finalize com CTA em negrito. Evite garantir aprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1085162757914961",
+    "anunciante": "Mentoria Tribunal do Trabalho",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-16",
+    "dias_no_ar": 29,
+    "variacoes_ativas": 4,
+    "texto_original": "Você está a um clique de estudar com um plano 100% guiado por mim até sua aprovação no TRT.\nFaça sua aplicação agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1085162757914961.jpg"
+}

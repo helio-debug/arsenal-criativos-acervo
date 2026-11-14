@@ -1,0 +1,95 @@
+{
+ "id": "vid-convite-credenciais",
+ "tipo": "video",
+ "titulo": "Convite frontal com credenciais, logos de clientes, público e datas",
+ "formato_video": "convite-evento",
+ "nichos": [
+  "eventos-lives",
+  "mentoria-high-ticket",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "evento",
+ "oferta": "lancamento",
+ "etapa_funil": "fundo",
+ "duracao": "30-35s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Já conduzimos [experiência comprovável: número de turmas] sobre [tema].",
+  "texto_tela": "[Credencial verificável]",
+  "visual": "Apresentador de frente, plano próximo, camiseta lisa e lapela, fundo de escritório desfocado. Legendas brancas curtas."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-6s",
+   "cena": "Apresentador de frente, plano próximo, camiseta lisa e lapela, fundo de escritório desfocado. Legendas brancas curtas.",
+   "fala": "Já conduzimos [experiência comprovável: número de turmas] sobre [tema].",
+   "texto_tela": "[Credencial verificável]"
+  },
+  {
+   "tempo": "6-12s",
+   "cena": "Corte para plano médio, mãos visíveis e prateleiras claras ao fundo.",
+   "fala": "Agora abrimos uma turma para [público] que precisa [aplicação concreta].",
+   "texto_tela": "Para [público]"
+  },
+  {
+   "tempo": "12-19s",
+   "cena": "Plano médio um pouco mais aberto, apresentador explica olhando para a lente.",
+   "fala": "No [evento], vamos trabalhar [atividade prática] para você aplicar em [contexto].",
+   "texto_tela": "[Atividade do encontro]"
+  },
+  {
+   "tempo": "19-25s",
+   "cena": "Plano frontal, data em branco maior no centro, sem cobrir o rosto.",
+   "fala": "O encontro será em [data], no formato [online ou presencial], em [horário].",
+   "texto_tela": "[Data]\n[Horário] • [formato]"
+  },
+  {
+   "tempo": "25-32s",
+   "cena": "Plano mais aberto, apresentador aponta para baixo; encerrar em cartela simples com nome do evento.",
+   "fala": "Toque no link para consultar a programação e fazer sua inscrição no [evento].",
+   "texto_tela": "Ver programação e inscrição"
+  }
+ ],
+ "por_que_funciona": [
+  "A fala abre com experiência anterior antes de apresentar o convite, oferecendo um motivo concreto para ouvir o apresentador.",
+  "Os frames passam de plano próximo para enquadramentos com mãos e corpo visíveis, variando uma fala no mesmo ambiente.",
+  "A data aparece em branco no centro da imagem enquanto é dita, facilitando a identificação do dia.",
+  "O gesto para baixo acompanha a chamada de clique no trecho final."
+ ],
+ "quando_usar": "Para uma turma, imersão ou encontro de mentoria com data definida e credenciais comprováveis. Use no fundo do funil, quando falta entender quem conduz, o conteúdo e como se inscrever.",
+ "roteiro_modelo": "[0-6s] Já conduzimos [experiência comprovável: número de turmas] sobre [tema].\n\n[pausa curta; corte]\n\n[6-12s] Agora abrimos uma turma para [público] que precisa [aplicação concreta].\n\n[pausa curta; corte]\n\n[12-19s] No [evento], vamos trabalhar [atividade prática] para você aplicar em [contexto].\n\n[pausa curta; corte]\n\n[19-25s] O encontro será em [data], no formato [online ou presencial], em [horário].\n\n[pausa curta; corte]\n\n[25-32s] Toque no link para consultar a programação e fazer sua inscrição no [evento].",
+ "tomadas_celular": [
+  "Grave 6s em plano próximo frontal, celular na altura dos olhos, lapela e luz suave de janela.",
+  "Grave 6s em plano médio com mãos visíveis, mesma luz frontal e fundo organizado.",
+  "Grave 7s um passo mais distante da câmera, luz lateral suave e rosto bem exposto.",
+  "Grave 6s para data e horário, plano médio estável, luz frontal e área livre para sobreposição.",
+  "Grave 7s em plano da cintura para cima, luz constante, fazendo o gesto para o link sem sair do quadro."
+ ],
+ "caminho_ia": "Use um avatar autorizado sobre um escritório gerado no Veo ou Kling, com voz sintética licenciada. Prompts: \"Vertical 9:16 medium close-up of an authorized presenter in a plain dark shirt, bright office shelves in soft focus, eye-level camera, soft window key light, natural hand gestures, six seconds, no logos or text.\" e \"Vertical 9:16 medium wide shot of the same presenter in [event setting], subtle backward camera move, consistent wardrobe and daylight, pointing gently downward, seven seconds, clean lower frame for CTA overlay.\" No CapCut, alterne recortes e insira legendas, data e cartela. Preencha credenciais apenas com fatos fornecidos; não gere logos de clientes como prova.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto para criar o conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 32s em cinco blocos: 0-6s credencial comprovável; 6-12s público; 12-19s atividade do evento; 19-25s data, horário e formato; 25-32s programação e inscrição. Apresentador frontal, tom de convite profissional, cortes de plano próximo para médio e mais aberto. Use legendas brancas curtas e data em destaque. A experiência deve ser específica ao meu produto e comprovável; se não houver, abra com uma amostra real de conteúdo. Não invente empresas atendidas, títulos ou depoimentos. Não copie pessoas, personagens, falas, marcas, nomes de clientes, logotipos, datas ou identidade visual da referência. Use apenas dados e provas fornecidos sobre meu produto; se faltar informação, deixe [colchetes]. Escreva em pt-BR falado, com frases curtas, sem superlativos sem prova, pergunta decorativa, tríade decorativa ou antítese vazia. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Evento] acontece em [data], às [horário], em [local ou plataforma]. Vamos trabalhar [atividade prática] com [público]. Confira a programação e a inscrição no link.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-280b2a39",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-convite-credenciais/frames/f1.jpg",
+    "videos/vid-convite-credenciais/frames/f2.jpg",
+    "videos/vid-convite-credenciais/frames/f3.jpg",
+    "videos/vid-convite-credenciais/frames/f4.jpg",
+    "videos/vid-convite-credenciais/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ff3ca75b",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1707423754023927",
+  "tipo": "estatico",
+  "titulo": "Última fase de apartamentos com varanda em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "lancamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça de lançamento imobiliário com especificação de dois quartos, chamada de última fase e uma grande imagem de varanda ao pôr do sol. Selos laterais reforçam unidades disponíveis e financiamento.",
+  "por_que_funciona": [
+    "A imagem ampla da varanda mostra um ambiente concreto do imóvel.",
+    "O número de quartos aparece em tamanho grande no topo.",
+    "A faixa de última fase e o selo de últimas unidades tornam a urgência visível.",
+    "O selo de financiamento acrescenta uma informação ligada à decisão de compra."
+  ],
+  "quando_usar": "Para divulgar uma fase de empreendimento com disponibilidade e condições de lançamento confirmadas.",
+  "estrutura_texto": "Abertura da [fase]\n[Empreendimento]\nApartamentos de [número de quartos]\ncom [atributos]\n[Chamada de aquisição]\n[Condições de lançamento]\n[Localização]\n[Disponibilidade]\n[Condição de financiamento]\n[Marca]",
+  "legenda": "Conheça os apartamentos de [número de quartos] com [varanda e lazer] em [região]. Consulte a disponibilidade da [fase] e as condições de lançamento e financiamento. Solicite informações sobre [empreendimento] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use faixa superior marrom com chamada de fase, área clara com textura discreta para nome e especificações, e grande imagem de varanda abaixo. Destaque quartos em tipografia grande, acrescente etiqueta de localização e selos de disponibilidade e financiamento. Finalize com rodapé verde escuro. Use apenas escassez comprovada e condições reais.",
+  "alerta_politica": "Em anúncios de moradia na Meta, evite discriminação e observe as exigências de categoria especial aplicáveis ao mercado. Escassez e condições de lançamento devem ser verificáveis. Se houver financiamento, esclareça análise de crédito, taxas e elegibilidade; não prometa aprovação garantida.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1707423754023927",
+    "anunciante": "Direcional Engenharia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-12",
+    "dias_no_ar": 155,
+    "variacoes_ativas": 1,
+    "texto_original": "Esta é a sua última chance de garantir um apartamento com varanda gourmet no ponto mais estratégico da Zona Oeste! 🌅\nNão fique de fora do maior sucesso de vendas da região. \n\n🛏️ Apartamentos de 2 quartos com varanda gourmet\n🏗️ Empreendimento seguro com obras avançadas\n🏦 Crédito aprovado e facilitado pelo programa Caixa\n\nGaranta sua unidade agora mesmo! 👇\nÚltimas unidades com varanda gourmet\nCondições exclusivas de lançamento*",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1707423754023927.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2295348230871079",
+  "tipo": "estatico",
+  "titulo": "Pós-graduação com fotografia de interação profissional",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Sobre fundo claro, selo e brasão aparecem no alto, seguidos do nome da formação e uma frase de benefício. Uma fotografia de pessoas conversando ocupa a parte inferior, atravessada por grafismos roxos.",
+  "por_que_funciona": [
+    "O nome do curso em letras grandes ocupa a área central superior.",
+    "A frase abaixo do título liga a formação à liderança na área.",
+    "A foto de pessoas conversando contextualiza o ambiente de atuação.",
+    "Os grafismos roxos enquadram a foto e reforçam a continuidade visual."
+  ],
+  "quando_usar": "Para apresentar uma pós-graduação ligada a gestão, projetos ou atividades criativas.",
+  "estrutura_texto": "[Selo de pós-graduação]\n[Identidade da instituição]\nPós em [área]\n[Capacitação e aplicação profissional]",
+  "legenda": "Aprenda a [planejar, captar ou liderar projetos da área] com a pós-graduação em [tema]. Conheça [conteúdos] e a proposta de formação. Acesse [site] e saiba mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use formato vertical com fundo branco quente, selo no alto à esquerda e identidade própria à direita. Abaixo, título preto grande e benefício em duas linhas. Reserve a metade inferior para foto contextual da IMAGEM 2, com pessoas em interação quando disponível. Sobreponha faixas geométricas roxas curvas na base, sem cobrir rostos ou texto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2295348230871079",
+    "anunciante": "Educação Continuada da PUC-Rio com CCEC - PUC- Rio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-11",
+    "dias_no_ar": 156,
+    "variacoes_ativas": 2,
+    "texto_original": "Chegou a hora de transformar cultura em impacto. Aprenda a planejar, captar e liderar projetos culturais com visão estratégica. Acesse o site e saiba mais.\nPós Graduação Gestão Cultural\nConheça o Curso",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2295348230871079.jpg"
+}

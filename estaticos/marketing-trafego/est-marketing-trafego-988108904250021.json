@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-988108904250021",
+  "tipo": "estatico",
+  "titulo": "Pasta de downloads mostra o destino das iscas em PDF",
+  "formato": "Print de tela",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Um celular central exibe uma pasta de downloads cheia de PDFs e o aviso de que nunca foram abertos. O título apresenta o problema e a chamada inferior propõe uma nova isca digital.",
+  "por_que_funciona": [
+    "A lista longa de arquivos torna visível o acúmulo de PDFs.",
+    "O aviso “Last opened: Never” concentra a crítica ao baixo uso dos materiais.",
+    "O celular isolado sobre fundo escuro mantém a atenção na pasta de arquivos.",
+    "A chamada inferior oferece uma continuidade direta para o problema mostrado."
+  ],
+  "quando_usar": "Para atrair produtores e profissionais de marketing que distribuem materiais gratuitos e querem aumentar o uso após o download.",
+  "estrutura_texto": "[Local onde o material fica].\nSeu [conteúdo] sem leitura.\n[Interface com lista de materiais acumulados]\nCrie esta nova [isca] →\n[Benefício de uso esperado]",
+  "legenda": "Você dedica [tempo] a criar [material gratuito], divulga e recebe downloads. Mas quanto desse conteúdo chega a ser usado? Conheça [alternativa] e veja como criar uma experiência voltada a [ação útil para o público]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase preto e título branco em duas linhas no topo. No centro, crie um mockup de celular com interface ilustrativa de downloads, vários PDFs genéricos e indicação de arquivos não abertos. Use nomes fictícios sem promessas de faturamento. Insira a solução da IMAGEM 2 apenas se ajudar a representar a alternativa. No rodapé, use CTA branco e uma linha menor com benefício plausível. Não prometa que todos usarão o material.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "988108904250021",
+    "anunciante": "Vessel Business",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-25",
+    "dias_no_ar": 81,
+    "variacoes_ativas": 2,
+    "texto_original": "You spent a weekend on it, wrote the outline, designed the cover in Canva, agonized over the color palette, rewrote the intro three times, launched it, promoted it. \n\nYou watched the downloads come in and felt — for a second — like you'd built something that mattered.\n\nHere's where it went.\n\nTheir downloads folder. Stacked between 11 other PDFs they also never opened. \"Last opened: Never.\" Your beautiful freebie is sitting next to The Ultimate Email List Guide from August 2020 and The Perfect Webinar Script from March 2022. None of them got read.\n\nThis is a format problem. People don't read PDFs anymore. They download them, feel good about it for 10 seconds, and forget.\n\nThe new lead magnet is an experience they actually finish. We call it a MATE.\n\nIn this training, we'll show you exactly what it is and how to build one.I built my first business teaching people to make PDF lead magnets.\n\nThe Canva kits, ebook templates, Instagram posts selling \"ultimate guides.\" Thousands of people built their first freebies with my stuff in 2019, 2020, 2021. It worked. It built real businesses.\n\nThat was the last big thing.\n\nThe bar has moved since then. PDFs that pulled 30% opt-ins in 2022 pull 4% now. Checklists get deleted. Quizzes feel gimmicky. Custom GPTs dead-end halfway through. \n\nA new format is taking over — and the first movers reaping the benefits.\n\nI'm telling you this because I spotted the last wave. And I'm telling you I've spotted the next one.\n\nWe call it a MATE. Not a PDF. Not a checklist. Not a Custom GPT. Something entirely new.\n\nIn this $7 training, we'll show you exactly what it is and how to build one and give you the one we use to build our business.\n​\nActive",
+    "origem_coleta": "acervo:vessel-business"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-988108904250021.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-moveis-decoracao-482749511461627",
+  "tipo": "estatico",
+  "titulo": "Quadro de motocicleta ambientado em parede de tijolos",
+  "formato": "Produto em destaque",
+  "nicho": "moveis-decoracao",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Quadro preto com ilustração técnica de motocicleta, medidas e especificações sobre parede de tijolos. Uma faixa inferior reúne assinatura, perfil social e site.",
+  "por_que_funciona": [
+    "A parede de tijolos mostra como o quadro pode compor a decoração.",
+    "O desenho técnico com medidas evidencia o detalhamento da arte.",
+    "A moldura preta delimita o produto e contrasta com a parede.",
+    "O site na faixa inferior indica onde encontrar a coleção."
+  ],
+  "quando_usar": "Para vender quadros temáticos a pessoas que querem decorar ambientes com seus interesses.",
+  "estrutura_texto": "[Nome do tema]\n[Ilustração técnica]\n[Medidas e especificações]\n[Perfil social] | [Site]",
+  "legenda": "Leve sua paixão por [tema] para a decoração. Conheça quadros com [tipo de ilustração e detalhes] e escolha sua arte em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Mostre o produto em moldura escura sobre parede de tijolos, com luz lateral suave. Dentro do quadro, destaque a arte da IMAGEM 2 e informações reais relacionadas a ela. Use faixa inferior preta com perfil e site da minha marca; preserve a aparência de fotografia de produto ambientado.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "482749511461627",
+    "anunciante": "Interlakes",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-11-04",
+    "dias_no_ar": 740,
+    "variacoes_ativas": 1,
+    "texto_original": "Apaixonado por carros, motos e velocidade? 🏎️🏁 Conheça a Interlakes!\n\nTransformamos os carros e as pistas que você ama em artes exclusivas para os apaixonados por velocidade.\n\nNossos produtos são criados com precisão e cuidado, capturando cada detalhe do seu carro, moto ou curvas de suas pistas favoritas.\n\nVisite interlakes.com.br e encontre a arte que acelera seu coração. Compre agora e traga a emoção da corrida e paixão por carros para sua casa!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moveis-decoracao/est-moveis-decoracao-482749511461627.jpg"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "est-educacao-concursos-3177121575817771",
+  "tipo": "estatico",
+  "titulo": "Catálogo de cursos com mensalidades e desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Catálogo em três colunas agrupa cursos por mensalidade. Um selo grande de desconto e um estudante com capelo acompanham a chamada para falar com um consultor.",
+  "por_que_funciona": [
+    "Faixas coloridas de preço permitem localizar grupos de cursos.",
+    "O selo de 70% ocupa uma área grande e destaca a condição comercial.",
+    "A faixa inferior reúne benefícios e direciona ao consultor."
+  ],
+  "quando_usar": "Para instituições de ensino divulgarem matrículas com várias opções de curso.",
+  "estrutura_texto": "[Marca] | [Modalidade] a partir de [mensalidade] | [Matrículas abertas] | [Grupos de cursos por preço] | [Desconto] | [Benefícios] | [CTA para consultor]",
+  "legenda": "Conheça os cursos de [instituição]. Estude em [modalidade], com mensalidades a partir de [valor] e [condição de desconto]. Confira os cursos, as condições e o suporte disponível com [canal de atendimento].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um catálogo em três colunas sobre fundo claro, com listas de opções, faixas roxas e laranjas para preços e selo grande de desconto à direita. Reserve o rodapé para benefícios com ícones e uma faixa de contato. Use a imagem do produto como apoio visual no canto inferior direito. Mantenha listas legíveis e exiba somente ofertas informadas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3177121575817771",
+    "anunciante": "Unif Educação BR",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-30",
+    "dias_no_ar": 107,
+    "variacoes_ativas": 2,
+    "texto_original": "Conhece a UniFatecie? A UniFatecie é Centro Universitário top 10 do BR — nota MÁXIMA no MEC — e oferece cursos de graduação com 70% de desconto durante todo o período.\n\n🏫 Centro universitário nota máxima no MEC.\n📊 Mais de 600 mil alunos ativos no Brasil.\n📘 Mais de 100 cursos superiores reconhecidos.\n\n✔ Graduações a partir de 2 anos\n✔ Plataforma moderna\n✔ Suporte especializado\n✔ Instituição nota Máxima no MEC\n✔ Cursos a partir de 67,50 mensais\n\nInvista no seu futuro pagando menos.\n\n👉 Clique no botão e fale agora conosco!\n\nParceiro autorizado.\nWHATSAPP\nFale agora no WHATS🎉\n👉 Graduação EAD reconhecida pelo MEC com mensalidades acessíveis.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-3177121575817771.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2035306233779864",
+  "tipo": "estatico",
+  "titulo": "Entregador na moto e bônus por missões",
+  "formato": "Oferta e promoção",
+  "nicho": "renda-extra",
+  "tipo_solucao": "saas-app",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1.91:1",
+  "descricao": "Banner vermelho com homem com jaqueta vermelha, mochila e moto à esquerda. À direita, valor de ganho extra em amarelo e botão arredondado de ação.",
+  "por_que_funciona": [
+    "O valor amarelo em tamanho grande domina a metade direita.",
+    "A pessoa com equipamentos de entrega identifica a atividade rapidamente.",
+    "O botão amarelo arredondado separa a ação do restante da mensagem.",
+    "A chamada de retorno fala diretamente com quem já realiza entregas."
+  ],
+  "quando_usar": "Para reativar entregadores cadastrados e apresentar uma campanha de missões com regras e elegibilidade definidas.",
+  "estrutura_texto": "[Marca]\nRode, [ação necessária] e [benefício]\naté [valor máximo]\nextras\nGrana extra te espera no [canal]\nVoltar a [atividade]",
+  "legenda": "Volte a [atividade] e participe das [missões] no [aplicativo]. Você pode receber até [valor] extras ao cumprir [condições]. Confira sua elegibilidade e as regras no app.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte banner horizontal com fundo vermelho e ondas discretas em tons mais escuros. À esquerda, use pessoa autorizada representando a atividade com equipamentos pertinentes, recortada sobre painel branco de cantos arredondados. À direita, organize marca própria no topo, chamada branca, valor máximo amarelo muito grande, apoio branco e botão amarelo arredondado. Adapte a mensagem aos benefícios reais do produto e inclua condições da campanha.",
+  "alerta_politica": "Meta: não prometer renda garantida nem apresentar ganhos excepcionais como resultado típico. Informar condições, elegibilidade, custos e que os ganhos dependem da atividade e dos resultados individuais.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2035306233779864",
+    "anunciante": "iFood para Entregadores",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-03",
+    "dias_no_ar": 103,
+    "variacoes_ativas": 3,
+    "texto_original": "Ganhe até R$ 1.000 extras completando missões no app. Volte agora e aumente sua renda.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2035306233779864.jpg"
+}

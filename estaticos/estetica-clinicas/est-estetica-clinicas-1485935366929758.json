@@ -1,0 +1,37 @@
+{
+  "id": "est-estetica-clinicas-1485935366929758",
+  "tipo": "estatico",
+  "titulo": "Convite para paciente modelo sobre foto de atendimento",
+  "formato": "Oferta e promoção",
+  "nicho": "estetica-clinicas",
+  "tipo_solucao": "servico-local",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de procedimento facial acompanhado por alunas ocupa toda a peça. Texto serifado branco e bege sobre degradê vinho convida pacientes modelo e destaca vagas limitadas.",
+  "por_que_funciona": [
+    "A foto mostra a atividade prática e a presença de profissionais acompanhando.",
+    "Paciente modelo aparece em letras grandes e define o público da chamada.",
+    "O texto menor explica o planejamento individualizado e o contexto da imersão.",
+    "Vagas limitadas e condições especiais aparecem separadas no rodapé."
+  ],
+  "quando_usar": "Para apresentar uma seleção de pacientes modelo, condicionada à avaliação profissional e às normas da profissão.",
+  "estrutura_texto": "Seja [perfil de participante].\n[Última edição/período] de [atividade].\n[Descrição do planejamento e acompanhamento].\n[Vagas] | [Condições]",
+  "legenda": "Seleção de pacientes modelo para [procedimento] em [cidade]. A participação depende de avaliação profissional. A equipe explica os critérios, a proposta de tratamento, os valores e as condições. Envie uma mensagem para saber mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto autorizada de atendimento estético com profissionais acompanhando, em cores quentes. Sobreponha degradê vinho no rodapé e título serifado branco e bege à esquerda. Acrescente descrição curta, período e condições reais da seleção, sem exibir antes e depois ou prometer resultado.",
+  "alerta_politica": "Publicidade estética deve seguir as regras do conselho do profissional responsável, inclusive sobre pacientes modelo, preços e promoções. Exija consentimento para uso de imagem, identificação profissional aplicável e avaliação prévia; evite promessa de resultado e exposição inadequada do procedimento.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1485935366929758",
+    "anunciante": "Dra. Nayara Morais - Assessoria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-13",
+    "dias_no_ar": 32,
+    "variacoes_ativas": 1,
+    "texto_original": "SELEÇÃO DE PACIENTES MODELO PARA FULL FACE ✨\n\nA Nayara está selecionando pacientes modelo para uma mentoria presencial em  São José do Rio Preto.\n\nA participação depende de avaliação profissional. A proposta de tratamento, os valores e as condições serão explicados pela equipe.\n\n📍 São José do Rio Preto\n\nQuer conhecer os critérios de participação?\n\nToque em “Enviar mensagem” e converse com nossa equipe pelo WhatsApp.\nConverse conosco",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/estetica-clinicas/est-estetica-clinicas-1485935366929758.jpg"
+}

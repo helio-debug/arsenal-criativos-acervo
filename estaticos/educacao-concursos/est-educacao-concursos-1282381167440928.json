@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1282381167440928",
+  "tipo": "estatico",
+  "titulo": "Chamada de matemática visual em post minimalista",
+  "formato": "Post e comentários",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Arte branca imita um post de perfil com avatar e identificação no topo. A promessa de aprendizagem aparece em texto preto, com método em negrito e seta no rodapé.",
+  "por_que_funciona": [
+    "O cabeçalho com avatar aproxima a peça de uma publicação de professor.",
+    "O fundo branco deixa a chamada como foco principal.",
+    "O negrito destaca o método visual dentro do texto de apoio.",
+    "A seta indica que há continuação da explicação."
+  ],
+  "quando_usar": "Para professores apresentarem um método de estudo e estimularem o avanço para o próximo conteúdo.",
+  "estrutura_texto": "[PROFESSOR]\n[@PERFIL]\nA BASE QUE [BENEFÍCIO DE APRENDIZAGEM],\nPRINCIPALMENTE ESTUDANDO COM [MÉTODO]\n[SETA]",
+  "legenda": "Aprenda [disciplina] com [método], usando [recurso didático] para entender [conteúdo]. Para saber mais, comente [palavra ou código].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte uma composição branca com bastante espaço vazio. No alto, coloque avatar circular pequeno, nome e identificador próprios em cinza. Use chamada preta em negrito no centro, apoio em corpo menor e destaque o método em negrito. Inclua seta horizontal fina no rodapé indicando continuação. Evite selos de aprovação ou resultados garantidos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1282381167440928",
+    "anunciante": "Professor Diego Freitas",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-13",
+    "dias_no_ar": 336,
+    "variacoes_ativas": 1,
+    "texto_original": "Eu literalmente DESENHO a matemática para você ser aprovado de ano, CONCURSOS, ENEM e VESTIBULARES!\n\nPra saber mais digite 1234 aqui nos comentários\n\n#matemáticavisual",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1282381167440928.jpg"
+}

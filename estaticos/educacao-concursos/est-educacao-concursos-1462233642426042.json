@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1462233642426042",
+  "tipo": "estatico",
+  "titulo": "Cartaz de aulas particulares com listas e contato",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Cartaz vertical reúne título de matemática, listas de serviços e públicos, indicadores e foto do professor. Pinceladas verdes e amarelas contrastam com branco e azul escuro; WhatsApp aparece no rodapé.",
+  "por_que_funciona": [
+    "A palavra matemática domina o topo e identifica a disciplina imediatamente.",
+    "A faixa de escolaridade esclarece quais alunos podem ser atendidos.",
+    "As listas com marcas de verificação tornam os serviços concretos.",
+    "A foto e o número de WhatsApp unem identificação do professor e canal de contato."
+  ],
+  "quando_usar": "Para divulgar reforço escolar a responsáveis e estudantes com informações completas sobre o atendimento.",
+  "estrutura_texto": "Aulas particulares de [disciplina]\nDe [série inicial] a [série final] + [provas]\n[Chamada sobre dificuldade]\n[Lista de entregas]\nPara quem é o atendimento?\n[Perfis]\nPor que escolher [serviço]?\n[Diferenciais]\n[Indicador comprovado]\nFale comigo agora: [contato]",
+  "legenda": "Quando os conteúdos de [disciplina] se acumulam, um acompanhamento pode ajudar o aluno a retomar os estudos. Em [serviço], ele conta com [aulas], [exercícios] e [acompanhamento]. Consulte horários e vagas pelo [contato].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto ou serviço. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte cartaz vertical com fundo branco, pinceladas verdes e amarelas, títulos pretos fortes e rodapé azul escuro. Organize listas curtas de entregas e públicos à esquerda, foto do professor à direita e WhatsApp em destaque na base. Inclua escolaridade atendida e apenas indicadores de satisfação documentados; reduza texto para preservar legibilidade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1462233642426042",
+    "anunciante": "Mentoria Calcule",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-13",
+    "dias_no_ar": 32,
+    "variacoes_ativas": 1,
+    "texto_original": "Uma nota ruim pode ser apenas o começo. Quando os conteúdos vão se acumulando, o aluno pode perder a confiança e começar a acreditar que “não nasceu para Matemática”. ❌\nIsso pode mudar. 💪\n\nNa Mentoria Calcule, seu filho conta com:\n🔥 Aulas ao vivo\n🔥 Resolução de questões\n🔥 Acompanhamento individual\n🔥 Mapas mentais\n🎯 O objetivo é transformar dificuldade em compreensão e confiança.\n📲 Vagas limitadas. \nFale agora:\n81 99788-2420\nWHATSAPP\n🚨 NÃO DEIXE A DIFICULDADE EM MATEMÁTICA VIRAR REPROVAÇÃO!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1462233642426042.jpg"
+}

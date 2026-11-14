@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-1789298582333836",
+  "tipo": "estatico",
+  "titulo": "Cupom com prazo final em texto de alto contraste",
+  "formato": "Oferta e promoção",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo preto com ícone de alerta vermelho e texto centralizado em letras brancas e vermelhas. Sublinhados destacam o acesso, a aplicação e o preço posterior.",
+  "por_que_funciona": [
+    "O triângulo vermelho abre a leitura com um sinal visual de urgência.",
+    "O desconto de 20% aparece no centro do bloco de texto, junto ao acesso vitalício.",
+    "A expressão de encerramento em vermelho destaca a perda do cupom.",
+    "O preço posterior sublinhado oferece uma referência concreta para comparar a oferta."
+  ],
+  "quando_usar": "Para vender acesso a um sistema de criação com IA durante o encerramento real de um cupom.",
+  "estrutura_texto": "[ÚLTIMAS HORAS]: o cupom que dá [desconto] no [tipo de acesso] ao [sistema] que [função] em [ferramenta] [encerra]. Depois, é [preço].",
+  "legenda": "Crie [formato de conteúdo] com [sistema] em [ferramenta], sem precisar de [etapas dispensadas]. Acesso [modalidade] e [prazo de garantia]. Use [cupom] até [prazo real].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, ampla margem externa e um pequeno triângulo de alerta vermelho no topo. Centralize um bloco compacto de tipografia condensada e pesada. Destaque o prazo e o encerramento em vermelho; mantenha benefício, desconto e preço em branco. Sublinhe trechos-chave com linhas finas. Evite fotos decorativas; represente o produto por sua função no texto. Use apenas condições reais, sem garantir viralização.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1789298582333836",
+    "anunciante": "BrandsDecoded",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-29",
+    "dias_no_ar": 46,
+    "variacoes_ativas": 3,
+    "texto_original": "Tem uma peça que falta e você ainda não enxergou. Instala o sistema que cria carrossel viral direto no Claude — sem aparecer, sem gravar, sem saber escrever. Acesso vitalício. 30 dias de garantia.",
+    "origem_coleta": "acervo:brandsdecoded"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-1789298582333836.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-investimentos-1701654308194249",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre renda com cidade ilustrada",
+  "formato": "Produto em destaque",
+  "nicho": "investimentos",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo laranja com pergunta em azul escuro e chamada para abrir conta no alto. Uma cidade ilustrada em tons de laranja e branco ocupa a metade inferior.",
+  "por_que_funciona": [
+    "A pergunta curta apresenta um benefício que desperta curiosidade.",
+    "A frase seguinte identifica os fundos imobiliários como solução.",
+    "O CTA sublinhado fica destacado abaixo da explicação.",
+    "Os edifícios ilustrados tornam o tema imobiliário reconhecível."
+  ],
+  "quando_usar": "Para apresentar uma plataforma de investimentos a pessoas interessadas em fundos imobiliários.",
+  "estrutura_texto": "[MARCA]\nReceber [TIPO DE RENDA] sem [COMPRA DIRETA]?\nConheça [MODALIDADE] com [PLATAFORMA].\n[CTA DE ABERTURA DE CONTA]",
+  "legenda": "Conheça [opções de fundos imobiliários] disponíveis em [plataforma] e avalie seus objetivos e riscos antes de investir. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie peça vertical com fundo laranja em degradê, assinatura própria no topo, pergunta central azul escura e CTA sublinhado. Preencha a metade inferior com edifícios ilustrados em tons claros e alaranjados. Inclua ressalva legível sobre riscos e rendimentos variáveis.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta. Rendimentos de fundos imobiliários podem variar e não equivalem a aluguel contratualmente garantido ao cotista.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1701654308194249",
+    "anunciante": "Rico.com.vc",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 3,
+    "texto_original": "Procurando por dividendos mensais?\nConheça nossas opções de Fundos Imobiliários e comece hoje mesmo a investir.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/investimentos/est-investimentos-1701654308194249.jpg"
+}

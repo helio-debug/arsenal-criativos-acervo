@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-1104534531307877",
+  "tipo": "estatico",
+  "titulo": "Capa educativa com recém-nascido em fundo claro",
+  "formato": "Alerta e educação",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "A fotografia de um recém-nascido dormindo ocupa quase toda a peça. O título aparece na base em azul e branco, com uma faixa lilás arredondada sob o assunto principal e identificação profissional no alto.",
+  "por_que_funciona": [
+    "O rosto do bebê ocupa o centro visual e situa imediatamente a fase da vida abordada.",
+    "A roupa e o fundo brancos deixam espaço visual para o título.",
+    "A faixa lilás destaca “recém-nascidos” e delimita o público do conteúdo.",
+    "A identificação profissional no canto superior apresenta a autoria das orientações."
+  ],
+  "quando_usar": "Para abrir um conteúdo educativo de pediatria destinado a famílias que buscam orientações gerais sobre os primeiros cuidados.",
+  "estrutura_texto": "[CUIDADOS COM]\n[FASE OU PÚBLICO]\n[IDENTIFICAÇÃO PROFISSIONAL E REGISTROS]",
+  "legenda": "Os primeiros dias com [fase do bebê] podem trazer dúvidas sobre [tema]. Confira orientações gerais de [profissional habilitado] sobre [cuidados abordados] e procure atendimento para questões individuais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma capa quadrada com fotografia delicada de bebê dormindo, roupa e fundo brancos, com espaço livre na base. Escreva a primeira linha em azul com fonte leve e a segunda em branco, negrito, sobre faixa lilás orgânica arredondada. Reserve o canto superior direito para identidade própria e registros profissionais fornecidos. Use somente fotografia autorizada e não reproduza a identidade da referência.",
+  "alerta_politica": "CFM: publicidade médica deve informar nome, CRM/UF e RQE ao divulgar especialidade, conforme regras vigentes. Usar imagem de paciente apenas nas condições autorizadas. Meta: manter caráter educativo, sem diagnóstico individual, promessa de resultado ou alegação de cura.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1104534531307877",
+    "anunciante": "Dra. Patrícia Novak",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-09-04",
+    "dias_no_ar": 436,
+    "variacoes_ativas": 1,
+    "texto_original": "Quando nasce um bebê, nasce também muitas dúvidas e incertezas sobre os primeiros cuidados e como será a vida dali em diante.\n\n👉Para te ajudar, vou te dar algumas dicas do que fazer na fase inicial da vida dos pequenos.\n\nSou a Dra. Patrícia Novak, sou Médica Pediatra especializada em Neonatologia com olhar integrativo e compartilho informações para te ajudar a encarar a maternidade de forma mais leve e tranquila.  \n\nDra. Patrícia Novak 🌷\nPediatra e Neonatologista\nCRM 19104 | RQE 14381",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-1104534531307877.jpg"
+}

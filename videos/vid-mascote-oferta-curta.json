@@ -1,0 +1,79 @@
+{
+ "id": "vid-mascote-oferta-curta",
+ "formato_video": "mascote-animado",
+ "nichos": [
+  "saas-b2b",
+  "marketing-trafego",
+  "produtos-fisicos-marketplace"
+ ],
+ "tipo_solucao": "saas-app",
+ "oferta": "desconto-cupom",
+ "etapa_funil": "fundo",
+ "tipo": "video",
+ "titulo": "Mascote com celular apresenta benefício e desconto em poucos segundos",
+ "duracao": "10-12s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-3s",
+   "cena": "Mascote 3D original segura celular no centro, fundo azul em degradê, título preto grande acima.",
+   "fala": "[Tarefa concreta] ficou pra depois?",
+   "texto_tela": "[Tarefa concreta] pendente?"
+  },
+  {
+   "tempo": "3-6s",
+   "cena": "Mesma composição; celular mostra [uso do produto] e faixa clara destaca a função.",
+   "fala": "Use [produto] pra [função verificável].",
+   "texto_tela": "[Função do produto]"
+  },
+  {
+   "tempo": "6-9s",
+   "cena": "Selo inclinado de desconto entra ao lado do mascote; composição central permanece.",
+   "fala": "Hoje, [desconto real] em [item elegível].",
+   "texto_tela": "[Desconto] até [data real]"
+  },
+  {
+   "tempo": "9-12s",
+   "cena": "Cartela clara em branco e lilás; nome adaptável, botão roxo e selo de oferta.",
+   "fala": "Toque e confira as condições.",
+   "texto_tela": "[CTA curto] • [Condição principal]"
+  }
+ ],
+ "hook": {
+  "falado": "[Tarefa concreta] ficou pra depois?",
+  "texto_tela": "[Tarefa concreta] pendente?",
+  "visual": "Mascote 3D original segura celular no centro, fundo azul em degradê, título preto grande acima."
+ },
+ "por_que_funciona": [
+  "O mascote roxo segura o celular de frente, deixando a tela no centro da composição.",
+  "O título preto grande ocupa o alto e a função aparece numa faixa branca logo abaixo.",
+  "O selo de desconto surge inclinado ao lado do personagem sem trocar o fundo azul.",
+  "A cartela clara final troca o personagem por nome e botão roxo, preservando o selo promocional."
+ ],
+ "quando_usar": "Para ofertas simples que cabem em uma frase e já têm condições definidas. Use no fundo do funil durante uma promoção com prazo real.",
+ "roteiro_modelo": "[Tarefa concreta] ficou pra depois?\n\n[Pausa / corte]\n\nUse [produto] pra [função verificável].\n\n[Pausa / corte]\n\nHoje, [desconto real] em [item elegível].\n\n[Pausa / corte]\n\nToque e confira as condições.",
+ "tomadas_celular": [
+  "Filme um boneco ou recorte original segurando um celular, plano frontal, luz difusa e fundo azul liso, 3s.",
+  "Faça detalhe frontal da tela com [uso do produto], luz lateral sem reflexos, 3s; para produto físico, mostre sua foto no aparelho.",
+  "Repita o plano do boneco com espaço lateral para o selo no editor, luz constante, 3s.",
+  "Grave [produto ou embalagem] em fundo claro com celular fixo e luz frontal, 3s; sobreponha nome e botão na edição."
+ ],
+ "caminho_ia": "Crie um mascote original no Kling, Sora ou Runway e mantenha os movimentos pequenos para a tela continuar legível. Prompts: \"Vertical 9:16 stylized 3D original mascot holding a smartphone displaying [product], centered full-body composition, blue gradient studio background, soft shadows, subtle idle animation, ample headline space above, no logos, no text.\" e \"Vertical 9:16 clean white and pale lilac end card, [product] centered above a purple rounded call-to-action placeholder, small tilted promotional badge placeholder, static camera, soft studio lighting, no lettering.\" Use voz sintética ou voz clonada autorizada para a fala; no CapCut, acrescente título, função, desconto e botão. Só inclua avaliação por estrelas se houver fonte real comprovável.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 12s em quatro blocos: 0-3 tarefa pendente; 3-6 função; 6-9 desconto; 9-12 CTA. Use poucas palavras, fala curta, mascote original com celular, fundo azul, título preto grande, faixa branca de função, selo inclinado e cartela branca/lilás com botão roxo. A abertura deve nomear uma tarefa real, sem pergunta decorativa. Não copie o personagem, a interface ou a promessa de liderança da referência. Não invente estrelas ou avaliações. Use desconto e prazo somente se informados e verificáveis; limite a fala a cerca de 25 palavras. Não copie pessoas, marcas, nomes, slogans, interface, números ou alegações da referência. Use apenas informações comprováveis do meu produto. Escreva em pt-BR falado, com frases curtas e campos adaptáveis entre colchetes. Evite superlativos, perguntas decorativas e antíteses vazias.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Produto] para [tarefa concreta]. [Desconto real] em [item elegível] até [data]. Confira [condições e restrições] no link.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ca6d887d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-mascote-oferta-curta/frames/f1.jpg",
+    "videos/vid-mascote-oferta-curta/frames/f2.jpg",
+    "videos/vid-mascote-oferta-curta/frames/f3.jpg"
+   ]
+  }
+ ]
+}

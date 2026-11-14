@@ -1,0 +1,38 @@
+{
+  "id": "est-seguros-1809718486732689",
+  "tipo": "estatico",
+  "titulo": "Imprevisto na cozinha vira chamada de seguro",
+  "formato": "novo:Cena cotidiana com chamada",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Duas pessoas reagem a uma panela em chamas na cozinha. A chamada usa a expressão “pegando fogo” e conecta o episódio ao seguro residencial.",
+  "por_que_funciona": [
+    "As chamas na panela criam um foco visual forte na parte superior.",
+    "A expressão da dupla reforça a urgência da cena.",
+    "O texto repete o acontecimento da foto e facilita a leitura da mensagem.",
+    "O selo do seguro e a faixa de coberturas identificam o serviço anunciado."
+  ],
+  "quando_usar": "Para campanhas de reconhecimento de seguro residencial baseadas em imprevistos reconhecíveis.",
+  "estrutura_texto": "Quando [situação de risco]...\nComo é bom ter [apoio] e [solução]\n[Produto]\nCobertura\n[Coberturas]\n[Assinatura]",
+  "legenda": "Se [imprevisto doméstico] acontecer, conte com [apoio] e conheça [seguro residencial]. Consulte as coberturas e condições de [produto].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma cozinha com duas pessoas reagindo a um incidente encenado e uma panela com chamas como foco. Reserve a metade inferior para duas colunas de texto, em ciano e branco sobre sombra escura. Acrescente selo do serviço, linha de coberturas e rodapé ciano. Evite representar procedimentos perigosos como orientação de segurança.",
+  "alerta_politica": "Em anúncios de seguro, apresente coberturas, exclusões, elegibilidade e condições de contratação com clareza. Não prometa proteção irrestrita ou indenização garantida; mantenha informações regulatórias e condições da oferta legíveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1809718486732689",
+    "anunciante": "Chubb Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-30",
+    "dias_no_ar": 45,
+    "variacoes_ativas": 1,
+    "texto_original": "Se pegar fogo… conte com um bom amigo e a Chubb Seguros. Clique aqui e conheça nosso Seguro Residencial.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1809718486732689.jpg",
+  "formato_novo_def": "Fotografia encenada de uma situação cotidiana, com chamada sobreposta que liga a cena a uma solução ou mensagem de marca."
+}

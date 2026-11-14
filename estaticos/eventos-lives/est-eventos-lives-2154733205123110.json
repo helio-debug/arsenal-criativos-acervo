@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-2154733205123110",
+  "tipo": "estatico",
+  "titulo": "Convite para imersão setorial com limite de participantes",
+  "formato": "Comunicado oficial",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Foto de edifícios corporativos ocupa o topo e se dissolve em fundo preto. A chamada branca apresenta uma imersão para construção civil, seguida por descrição, limite de participantes e faixas azuis com data e local.",
+  "por_que_funciona": [
+    "O destaque azul na cidade situa o evento logo no início da chamada.",
+    "A expressão do setor em maiúsculas identifica para quem é o conteúdo.",
+    "O parágrafo informa formato da sala e quantidade de participantes.",
+    "As faixas azuis no rodapé agrupam datas, tema e localização."
+  ],
+  "quando_usar": "Para vender inscrições de uma imersão técnica com público setorial e capacidade restrita.",
+  "estrutura_texto": "[Cidade] será palco de [chamada do evento]\nImersão sobre [tema] em [setor]\n[Formato, local, capacidade e conteúdo]\n[Datas]\n[Nome da imersão]\n[Cidade e região]",
+  "legenda": "Aprofunde os impactos de [mudança regulatória] em [setor]. Participe de uma imersão presencial sobre [conteúdos], em [datas], das [horário], em [local]. São [quantidade] vagas. Confira a programação e faça sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Coloque foto real do local no terço superior com degradê para preto. Abaixo, use título branco alinhado à esquerda, cidade sobre pequeno destaque azul e setor em maiúsculas. Acrescente parágrafo curto com capacidade e temas, seguido por faixas azuis de data e localização. Não reproduza o edifício da referência nem use superlativos sem comprovação.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2154733205123110",
+    "anunciante": "Grupo Studio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-20",
+    "dias_no_ar": 25,
+    "variacoes_ativas": 5,
+    "texto_original": "A Reforma Tributária vai impactar diretamente a construção civil. Sua empresa está preparada?\n\nNovas regras, mudanças na tributação, contratos e precificação podem comprometer a margem de lucro de construtoras e incorporadoras.\n\nParticipe de uma imersão presencial e prática com especialistas e descubra como preparar sua empresa para os desafios da Reforma Tributária.\n\n📅 04 e 05 de dezembro de 2026\n🕣 Das 08h30 às 18h\n📍 Av. Brigadeiro Faria Lima, 3402 — São Paulo/SP\n\nApenas 45 vagas disponíveis!\n\nClique em Saiba Mais e garanta sua participação.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-2154733205123110.jpg"
+}

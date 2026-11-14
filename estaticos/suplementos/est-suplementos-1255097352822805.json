@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-1255097352822805",
+  "tipo": "estatico",
+  "titulo": "Trio de frascos com rótulo em evidência",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Três frascos de suplemento aparecem sobre fundo branco, com o frasco central à frente. O rótulo roxo concentra nome, composição e informações de uso.",
+  "por_que_funciona": [
+    "O frasco central maior facilita a leitura da categoria e da composição.",
+    "Os dois frascos ao fundo dão volume à apresentação do produto.",
+    "O fundo branco separa a embalagem escura e mantém o foco no rótulo."
+  ],
+  "quando_usar": "Para apresentar um suplemento a quem já considera a categoria, acompanhando uma condição comercial na legenda.",
+  "estrutura_texto": "[Marca]\n[Nome do suplemento]\n[Linha ou proposta]\n[Ingredientes]\n[Recomendação de uso aprovada]\n[Quantidade e classificação]",
+  "legenda": "Use [cupom] e receba [valor] de desconto em compras acima de [valor mínimo]. Confira [suplemento] e as condições em [site]. Válido até [prazo] ou enquanto houver estoque.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize três frascos da IMAGEM 2 sobre fundo branco, com um central à frente e dois parcialmente atrás. Use iluminação suave, sombras discretas e rótulos legíveis em tons escuros e roxos, respeitando a embalagem real. Não adicione alegações de sono ou saúde além das informações autorizadas do produto.",
+  "alerta_politica": "Suplementos: usar apenas alegações e orientações de uso autorizadas para o produto; não prometer tratar insônia, curar doenças ou garantir resultados. Não atribuir uma condição de saúde ao público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1255097352822805",
+    "anunciante": "Always FIT - Saúde, Longevidade e Autoestima",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-22",
+    "dias_no_ar": 237,
+    "variacoes_ativas": 2,
+    "texto_original": "🎉 R$20 OFF pra você! Por tempo limitado! 🎉\nAproveite R$20 de desconto em qualquer compra acima de R$100 no site da Always Fit! 🛍️✨\nUse o cupom PROMO20 e economize enquanto cuida da sua saúde!\n⏳ Válido por tempo limitado ou enquanto durarem os estoques! Não deixe pra depois!\n🔥 Corre e garanta seu desconto agora mesmo! 👉 alwaysfit.com.br",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1255097352822805.jpg"
+}

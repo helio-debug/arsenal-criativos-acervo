@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-4212961252296336",
+  "tipo": "estatico",
+  "titulo": "Plano empresarial com tabela por faixa etária",
+  "formato": "Oferta e promoção",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Tabela de mensalidades por faixa etária sobre fundo azul escuro, com cabeçalho branco e chamada para contratação empresarial a partir de duas vidas.",
+  "por_que_funciona": [
+    "Os valores em branco e negrito formam uma coluna fácil de comparar.",
+    "A frase sobre duas vidas e CNPJ explicita o requisito de contratação.",
+    "O título em azul claro separa o produto da tabela.",
+    "A indicação de coparticipação no rodapé informa uma condição relevante."
+  ],
+  "quando_usar": "Para divulgar planos empresariais a empresas que já estão comparando preços e requisitos.",
+  "estrutura_texto": "[Marca]\n[Tipo de plano]\n[Proposta de valor comprovável]\nA partir de [mínimo de vidas] para [perfil empresarial]\n[Faixa etária] [Mensalidade]\n[Modalidade e condições]\n[Contato]",
+  "legenda": "Conheça as condições do [plano empresarial] para [perfil de empresa]. Contratação a partir de [número de vidas], com [modalidade]. Cadastre-se para receber valores e detalhes de cobertura.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use cabeçalho branco com curva inferior, fundo azul escuro e título em azul claro. Organize faixas etárias à esquerda e mensalidades em negrito à direita. Reserve rodapé para modalidade e condições legíveis. Use apenas valores fornecidos e comprováveis.",
+  "alerta_politica": "Em planos de saúde, observe as regras da ANS e informe elegibilidade, coparticipação, abrangência e condições dos preços. Não use superioridade de preço ou benefício sem comprovação; evite inferir condições de saúde do público na Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4212961252296336",
+    "anunciante": "Quer Seguros Rio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-12-05",
+    "dias_no_ar": 344,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 Aproveite o MELHOR Preço do Estado!\nContrate seu Plano com as melhores condições do ano para sua empresa.\nClique no botão abaixo e se cadastre para receber mais informações!\nReceba mais informações >>",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-4212961252296336.jpg"
+}

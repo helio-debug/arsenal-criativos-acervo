@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1607504600214390",
+  "tipo": "estatico",
+  "titulo": "Aviso de edital com chamada para curso preparatório",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Uma faixa amarela anuncia a futura publicação de edital sobre fundo azul escuro. A foto de uma mulher ocupa a direita e o endereço do curso aparece em outra faixa amarela à esquerda.",
+  "por_que_funciona": [
+    "A faixa amarela superior destaca o evento que motiva a preparação.",
+    "O nome do concurso delimita a oportunidade anunciada.",
+    "O endereço em bloco amarelo oferece uma ação direta.",
+    "O retrato ocupa metade da composição e dá presença humana à peça."
+  ],
+  "quando_usar": "Para cursos preparatórios captarem interessados antes da publicação de um edital confirmado.",
+  "estrutura_texto": "O EDITAL VAI SER PUBLICADO!\nCONCURSO PÚBLICO DE [ÓRGÃO]\nADQUIRA [CURSO] E ESTUDE [CONTEÚDOS]\nAcesse: [SITE]",
+  "legenda": "Vai começar a estudar quando sair o edital de [concurso]? Conheça [curso] e organize sua preparação para [conteúdos previstos]. Confira as informações em [site].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul escuro, faixa amarela no topo com manchete preta pesada e subtítulo branco centralizado. Coloque um retrato recortado na lateral direita, texto de apoio e faixa amarela com site à esquerda. Reserve uma faixa menor para identificações pertinentes. Diferencie claramente o curso do órgão responsável pelo concurso.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1607504600214390",
+    "anunciante": "Jaula Concursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-10-28",
+    "dias_no_ar": 382,
+    "variacoes_ativas": 1,
+    "texto_original": "Vai deixar pra estudar quando sair o Edital?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1607504600214390.jpg"
+}

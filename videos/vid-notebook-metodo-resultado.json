@@ -1,0 +1,102 @@
+{
+ "id": "vid-notebook-metodo-resultado",
+ "titulo": "Apresentador vira o notebook: método em funcionamento e resultado",
+ "formato_video": "demonstracao",
+ "nichos": [
+  "marketing-trafego",
+  "infoproduto-cursos",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "65-80s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Eu preciso de [tarefa], mas gasto [tempo real] repetindo [etapa].",
+  "texto_tela": "[PÚBLICO DO PRODUTO]",
+  "visual": "Plano médio de uma pessoa de camisa escura à mesa clara, com notebook aberto e tarja vermelha no alto."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-8s",
+   "cena": "Apresentador encara a câmera atrás do notebook. Tarja vermelha identifica o público.",
+   "fala": "Eu preciso de [tarefa], mas gasto [tempo real] repetindo [etapa]. Essa dúvida aparece nas conversas com [público].",
+   "texto_tela": "[PÚBLICO DO PRODUTO]"
+  },
+  {
+   "tempo": "8-20s",
+   "cena": "Gira o notebook para a lente e aponta a tela com a etapa em funcionamento.",
+   "fala": "Vou mostrar como [produto] entra nessa rotina. Aqui está [etapa principal] funcionando. Primeiro, você [ação de entrada]. Depois, [ação seguinte]. Essa parte fica pronta para [uso concreto].",
+   "texto_tela": "[ETAPA PRINCIPAL]"
+  },
+  {
+   "tempo": "20-33s",
+   "cena": "Aproxima a tela com o fluxo; mantém parte do rosto visível e usa legendas brancas embaixo.",
+   "fala": "Nesse exemplo, [explique o que aparece na tela]. O processo precisa de [recurso ou preparação]. Quando [condição], você confere [ponto de revisão] antes de seguir.",
+   "texto_tela": "[O QUE CONFERIR]"
+  },
+  {
+   "tempo": "33-47s",
+   "cena": "Corte para detalhe da tabela; dedo aponta duas linhas com períodos comparáveis.",
+   "fala": "Agora olha este registro de [período]. Foram [medida real] em [intervalo]. No período seguinte, [medida real]. Os dados vêm de [fonte própria verificável] e consideram [condição relevante].",
+   "texto_tela": "[PERÍODO] • [MEDIDA VERIFICADA]"
+  },
+  {
+   "tempo": "47-61s",
+   "cena": "Volta ao plano médio, notebook ainda virado para o público.",
+   "fala": "Para usar isso em [situação do comprador], você prepara [insumo] e define [responsável ou rotina]. Depois, acompanha [indicador]. Aqui ainda foi necessário [trabalho que continuou existindo].",
+   "texto_tela": "[PREPARO NECESSÁRIO]"
+  },
+  {
+   "tempo": "61-75s",
+   "cena": "Apresentador olha para a câmera e indica o botão, sem esconder a tela.",
+   "fala": "Na página de [produto], eu explico [etapa demonstrada] e mostro o que você precisa para começar. Confira [requisito de uso] e veja se cabe na sua operação. Clique em saiba mais para ver os detalhes.",
+   "texto_tela": "Veja como aplicar [produto]"
+  }
+ ],
+ "por_que_funciona": [
+  "A tarja vermelha no alto identifica o público antes de a explicação avançar.",
+  "O giro do notebook coloca a demonstração no mesmo espaço do apresentador.",
+  "O detalhe do dedo sobre a tabela dá um ponto específico para acompanhar os números falados.",
+  "A volta ao rosto, com o notebook ainda no quadro, conecta a explicação ao convite final."
+ ],
+ "quando_usar": "Para cursos, ferramentas ou consultorias cujo processo possa ser mostrado numa tela. Use quando o público já conhece o problema e precisa entender a aplicação e os limites do exemplo.",
+ "roteiro_modelo": "Eu preciso de [tarefa], mas gasto [tempo real] repetindo [etapa]. Essa dúvida aparece nas conversas com [público].\n\n[pausa / corte]\n\nVou mostrar como [produto] entra nessa rotina. Aqui está [etapa principal] funcionando. Primeiro, você [ação de entrada]. Depois, [ação seguinte]. Essa parte fica pronta para [uso concreto].\n\n[pausa / corte]\n\nNesse exemplo, [explique o que aparece na tela]. O processo precisa de [recurso ou preparação]. Quando [condição], você confere [ponto de revisão] antes de seguir.\n\n[pausa / corte]\n\nAgora olha este registro de [período]. Foram [medida real] em [intervalo]. No período seguinte, [medida real]. Os dados vêm de [fonte própria verificável] e consideram [condição relevante].\n\n[pausa / corte]\n\nPara usar isso em [situação do comprador], você prepara [insumo] e define [responsável ou rotina]. Depois, acompanha [indicador]. Aqui ainda foi necessário [trabalho que continuou existindo].\n\n[pausa / corte]\n\nNa página de [produto], eu explico [etapa demonstrada] e mostro o que você precisa para começar. Confira [requisito de uso] e veja se cabe na sua operação. Clique em saiba mais para ver os detalhes.",
+ "tomadas_celular": [
+  "Plano médio vertical à mesa, celular na altura dos olhos e janela a 45 graus; grave a abertura por 8s.",
+  "Mesmo plano, luz lateral suave; grave o giro lento do notebook por 12s, sem reflexo na tela.",
+  "Plano fechado do rosto e da borda do notebook, luz de janela; explique a etapa por 13s.",
+  "Detalhe da tela, celular apoiado e exposição reduzida para ler os dados; aponte duas linhas durante 14s.",
+  "Plano médio com a tela virada para a lente, luz lateral; explique o preparo por 14s.",
+  "Plano médio frontal, mesma luz; grave o convite por 14s."
+ ],
+ "caminho_ia": "Sem gravar, use avatar com voz sintética no plano da mesa e Runway para os apoios. Prompts: \"Vertical 9:16 medium shot of a fictional presenter at a light desk, rotating a blank laptop toward camera, soft side window light, locked camera, natural hand motion, no logos, 8 seconds, [product context].\" e \"Vertical 9:16 close-up of a hand pointing at two rows on a blank laptop screen, realistic desk setting, soft daylight, slow push-in, no text, 6 seconds, [product workflow].\" No CapCut, sobreponha telas próprias ou diagramas com dados verificados; não gere uma tabela fictícia como prova. Monte as legendas brancas e a tarja vermelha na edição.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto como fonte do conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo 9:16 de 75s em seis blocos: 0-8s dúvida concreta; 8-20s notebook virado com demonstração; 20-33s explicação da tela; 33-47s registro verificável; 47-61s preparo e limites; 61-75s convite para detalhes. Tom de conversa técnica à mesa. Alterne plano médio, rosto com tela e detalhe apontado com o dedo. Use tarja vermelha com o público e legendas brancas curtas. Se faltarem números, peça dados ou mantenha [medida verificada]; nunca preencha com números fictícios. Se não houver registro, mostre a conclusão da tarefa sem alegar resultado comercial. Não simule chat ao vivo nem apresente gravação como transmissão atual. Não copie nomes, rostos, marcas, domínios, números ou falas da referência. Não invente resultados, depoimentos, experiência ou condições comerciais. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias, tríades decorativas ou fechos de efeito. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja [produto] em uso: [etapa demonstrada]. O exemplo considera [condições e período]. Para conferir o processo e os requisitos, acesse [destino].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ec541d85",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-notebook-metodo-resultado/frames/f1.jpg",
+    "videos/vid-notebook-metodo-resultado/frames/f2.jpg",
+    "videos/vid-notebook-metodo-resultado/frames/f3.jpg",
+    "videos/vid-notebook-metodo-resultado/frames/f4.jpg",
+    "videos/vid-notebook-metodo-resultado/frames/f5.jpg"
+   ]
+  },
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-aeb3d688",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": []
+  }
+ ]
+}

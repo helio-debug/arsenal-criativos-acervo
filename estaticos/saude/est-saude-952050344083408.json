@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-952050344083408",
+  "tipo": "estatico",
+  "titulo": "Cinco cuidados com curiosidade visual",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Chamada para cinco cuidados diários sobre fundo bege, com imagem de um pêssego em close e marcações brancas que remetem à região anal.",
+  "por_que_funciona": [
+    "O número 5 antecipa uma lista de leitura rápida.",
+    "O título em negrito contrasta com a continuação em fonte leve.",
+    "A seta curva e o círculo tracejado dirigem o olhar ao centro da imagem.",
+    "A seta horizontal no canto inferior sugere continuidade do conteúdo."
+  ],
+  "quando_usar": "Para abrir uma sequência educativa de saúde íntima com linguagem acessível e imagem adequada ao contexto médico.",
+  "estrutura_texto": "[Perfil]\n[Número] cuidados diários\nque você deve ter com [Tema]\n[Gancho de curiosidade].\n[Seta de continuidade]\n[Identificação profissional]",
+  "legenda": "[Hábitos cotidianos] podem influenciar a saúde de [região]. Conheça [número] cuidados e procure orientação profissional em caso de [sintomas]. Qual cuidado faz parte da sua rotina?",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo bege e fotografia de fruta como metáfora visual discreta, sem nudez nem genitais. Posicione número e título em negrito escuro no alto, complemento em fonte leve, seta curva e círculo tracejado sobre a fruta e seta pequena de continuidade no rodapé. Inclua identificação profissional legível.",
+  "alerta_politica": "Meta: manter contexto educativo, sem nudez explícita, exposição íntima ou insinuação de condição pessoal. CFM: identificar profissionais conforme as regras de publicidade médica e evitar sensacionalismo; não usar grafia alterada para contornar moderação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "952050344083408",
+    "anunciante": "DuoProcto Coloproctologia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-11",
+    "dias_no_ar": 217,
+    "variacoes_ativas": 1,
+    "texto_original": "O que você veste, o que come e até como você cuida das suas roupas íntimas pode impactar diretamente na sua saúde 4nal. Muitas vezes, algo que pode passar despercebido na sua rotina pode trazer irritações, inflamações e desconfortos.\n\nQuais cuidados você já pratica no seu dia a dia?\n\n#proctologistabrasilia #coloproctologistabrasilia #brasilia #duoprocto #alineamaro #danilomunhoz #cistopilonidal #hemorroida #fistula #fissuras",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-952050344083408.jpg"
+}

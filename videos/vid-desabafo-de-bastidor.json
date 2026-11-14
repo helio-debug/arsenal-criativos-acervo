@@ -1,0 +1,96 @@
+{
+ "id": "vid-desabafo-de-bastidor",
+ "titulo": "Desabafo de bastidor com uma lição prática no fim",
+ "formato_video": "desabafo-confissao",
+ "nichos": [
+  "mentoria-high-ticket",
+  "relacionamento-desenvolvimento",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "topo",
+ "tipo": "video",
+ "duracao": "40-50s",
+ "proporcao": "9:16",
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Selfie próxima, sentado; cartela branca no topo e fundo escuro com luz quente.",
+   "fala": "Eu passei [tempo gasto] tentando resolver [situação concreta]. E deixei [tarefa importante] esperando.",
+   "texto_tela": "Meu bastidor com [situação]"
+  },
+  {
+   "tempo": "5-13s",
+   "cena": "Corte para plano médio lateral, braços apoiados; legenda branca em caixa alta no topo.",
+   "fala": "Eu começava por [ação habitual]. Aí mudava [detalhe], voltava ao início e abria mais uma versão.",
+   "texto_tela": "MAIS UMA VERSÃO"
+  },
+  {
+   "tempo": "13-22s",
+   "cena": "Mesmo plano, gesto de contagem com a mão; aproximação leve na edição.",
+   "fala": "Quando conferi, já tinha gasto [tempo real]. O que eu precisava entregar era só [entrega concreta].",
+   "texto_tela": "[TEMPO REAL] EM [TAREFA]"
+  },
+  {
+   "tempo": "22-32s",
+   "cena": "Plano médio; olhar sai da lente por um instante e volta na conclusão.",
+   "fala": "O que me prendia era [comportamento observado]. Eu continuava mexendo mesmo depois de [critério de conclusão].",
+   "texto_tela": "JÁ DAVA PRA ENCERRAR"
+  },
+  {
+   "tempo": "32-42s",
+   "cena": "Retorno ao enquadramento frontal, gesto curto indicando limite.",
+   "fala": "Agora eu começo definindo [critério simples]. Uso [produto ou serviço] na etapa de [uso específico] e paro quando [condição verificável].",
+   "texto_tela": "PARAR EM [CRITÉRIO]"
+  },
+  {
+   "tempo": "42-50s",
+   "cena": "Plano próximo com pausa antes do convite; sem cartela comercial.",
+   "fala": "No próximo vídeo eu mostro [exemplo concreto] funcionando. Siga o perfil pra acompanhar.",
+   "texto_tela": "Próximo: [exemplo]"
+  }
+ ],
+ "hook": {
+  "falado": "Eu passei [tempo gasto] tentando resolver [situação concreta]. E deixei [tarefa importante] esperando.",
+  "texto_tela": "Meu bastidor com [situação]",
+  "visual": "Selfie próxima, sentado; cartela branca no topo e fundo escuro com luz quente."
+ },
+ "por_que_funciona": [
+  "A cartela branca inicial separa a confissão do fundo escuro e apresenta o assunto antes das legendas.",
+  "A passagem da selfie próxima para o plano lateral acompanha a troca entre introdução e relato.",
+  "A fala descreve tempo gasto e versões acumuladas, tornando o comportamento fácil de visualizar.",
+  "Os gestos e as legendas brancas no alto acompanham o relato sem exigir imagens de apoio."
+ ],
+ "quando_usar": "Para consultores e prestadores que querem mostrar uma decisão de bastidor antes de apresentar seu serviço. Use no topo do funil, com uma situação vivida e um critério prático que o público possa testar.",
+ "roteiro_modelo": "Eu passei [tempo gasto] tentando resolver [situação concreta]. E deixei [tarefa importante] esperando.\n\n[pausa curta; corte]\n\nEu começava por [ação habitual]. Aí mudava [detalhe], voltava ao início e abria mais uma versão.\n\n[pausa curta; corte]\n\nQuando conferi, já tinha gasto [tempo real]. O que eu precisava entregar era só [entrega concreta].\n\n[pausa curta; corte]\n\nO que me prendia era [comportamento observado]. Eu continuava mexendo mesmo depois de [critério de conclusão].\n\n[pausa curta; corte]\n\nAgora eu começo definindo [critério simples]. Uso [produto ou serviço] na etapa de [uso específico] e paro quando [condição verificável].\n\n[pausa curta; corte]\n\nNo próximo vídeo eu mostro [exemplo concreto] funcionando. Siga o perfil pra acompanhar.",
+ "tomadas_celular": [
+  "Selfie do peito para cima, celular na altura dos olhos e luz de janela lateral, 5s.",
+  "Plano médio a 45 graus, celular apoiado e abajur ao fundo, rosto iluminado pela janela, 8s.",
+  "Mesmo plano com mãos visíveis contando tentativas, luz lateral suave, 9s.",
+  "Plano médio com pausa e mudança de expressão, mantenha a exposição do rosto, 10s.",
+  "Plano frontal próximo, luz suave e espaço acima da cabeça para legenda, 10s.",
+  "Plano próximo do convite, mesma luz e câmera firme, 8s."
+ ],
+ "caminho_ia": "Use um avatar com aparência própria e voz sintética ou voz clonada com autorização. Gere fundos e planos de apoio no Veo ou Runway e monte os cortes no CapCut. Prompt 1: \"Vertical 9:16, intimate smartphone talking-head, medium close-up, original adult presenter discussing [product], dark home office, soft warm practical light, eye-level camera, natural hand gestures, no text, 5 seconds.\" Prompt 2: \"Vertical 9:16, three-quarter medium shot of the same original presenter explaining [product use], elbows near desk, soft side window light, subtle handheld motion, natural pause, no logos, 8 seconds.\" Adicione a cartela e as legendas na edição, sem reproduzir o rosto ou a voz da referência.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nDesabafo de 50s: confissão concreta, repetição do comportamento, custo observado, percepção, critério prático e convite para acompanhar um exemplo. Tom de conversa, sem diagnóstico psicológico. Alterne selfie próxima e plano médio lateral em ambiente escuro com luz quente. Cartela branca inicial; depois legendas brancas em caixa alta no topo. Preserve pausas naturais e corte nas mudanças de ideia. Não invente vivência: se faltar relato real, peça os fatos. Não copie a menção à terapia, o tema tecnológico, nomes, rosto ou frases da referência. Escreva em pt-BR falado, com frases curtas e campos [adaptáveis]. Evite antítese vazia, perguntas decorativas, superlativos sem prova e promessas não comprovadas. Use só os dados fornecidos do meu produto.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Gastei [tempo] em [tarefa] e percebi que já podia ter parado em [critério]. Hoje uso [produto ou serviço] em [etapa concreta]. No próximo vídeo, mostro [exemplo]. Siga pra acompanhar.",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-66523102",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-desabafo-de-bastidor/frames/f1.jpg",
+    "videos/vid-desabafo-de-bastidor/frames/f2.jpg",
+    "videos/vid-desabafo-de-bastidor/frames/f3.jpg",
+    "videos/vid-desabafo-de-bastidor/frames/f4.jpg",
+    "videos/vid-desabafo-de-bastidor/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

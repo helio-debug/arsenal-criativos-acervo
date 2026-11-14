@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-4020882518208161",
+  "tipo": "estatico",
+  "titulo": "Guia de cursos com cartão de perfil em cenário 3D",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Um cartão de perfil ilustrado aparece sobre um pedestal roxo com luz amarela, cercado por ícones de curtida e coração. No topo, uma chamada apresenta um guia de cursos e, embaixo, um botão convida a saber mais.",
+  "por_que_funciona": [
+    "O título amarelo em moldura destaca o tema do guia contra o fundo roxo.",
+    "O cartão de perfil e os ícones sociais tornam o assunto identificável sem ler todo o título.",
+    "O pedestal iluminado e o botão rosa estabelecem uma sequência visual do conteúdo até a ação."
+  ],
+  "quando_usar": "Para atrair interesse em um guia de formação e apresentar temas antes da oferta de matrícula.",
+  "estrutura_texto": "Saiba mais sobre\n[Guia de cursos de área] [ano]\n[Ilustração temática com perfil e indicadores]\n[Saiba mais]",
+  "legenda": "Conheça o guia de cursos de [área] para [ano]. Veja [tópicos], [habilidades práticas] e [formatos de estudo] para comparar as opções. Acesse e saiba mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie cenário 3D roxo com detalhes amarelos, título grande dentro de moldura fina e pedestal circular iluminado. Posicione a imagem do produto no centro, acompanhada de ícones ligados ao tema. Se usar cartão de perfil, mantenha indicadores claramente ilustrativos, sem apresentá-los como resultados do curso. Finalize com botão rosa de saiba mais.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4020882518208161",
+    "anunciante": "Beyond the Flag",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-08",
+    "dias_no_ar": 67,
+    "variacoes_ativas": 1,
+    "texto_original": "Learn more about Digital Marketing Courses 2026, including course topics, practical skills, learning formats, and emerging trends in digital marketing.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-4020882518208161.jpg"
+}

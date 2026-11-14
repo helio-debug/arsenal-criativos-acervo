@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2458251871253112",
+  "tipo": "estatico",
+  "titulo": "Curso de bolos com lista de entregáveis",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de bolo com coberturas e docinhos recebe uma camada escura para sustentar o texto branco. Título manuscrito, lista de entregáveis e preço grande formam a oferta.",
+  "por_que_funciona": [
+    "A camada escura permite ler o texto branco sobre a fotografia.",
+    "O título manuscrito atravessa o topo e nomeia o conteúdo do curso.",
+    "A lista com folhas como marcadores permite conferir os entregáveis rapidamente.",
+    "O preço grande na base fica próximo à chamada de clique."
+  ],
+  "quando_usar": "Para apresentar um curso com entregáveis definidos e compra direta por preço de entrada.",
+  "estrutura_texto": "CURSO COMPLETO EM [formato] + [material]!\n[Nome do curso]\n[Entregável 1]\n[Entregável 2]\n[Entregável 3]\n[Entregável 4]\nAPENAS: [preço]\n[CTA]",
+  "legenda": "Aprenda [habilidade] com [formato das aulas]. Tenha acesso a [materiais], [bônus] e [certificado, se disponível] por [preço]. Confira o conteúdo e as condições em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto do bolo da IMAGEM 2 preenchendo todo o fundo, com sobreposição escura uniforme. Texto branco: chamada pequena no topo, nome do curso em escrita cursiva grande, lista alinhada à esquerda com quatro entregáveis confirmados e pequenos ícones de folhas. Na metade inferior, preço grande em negrito e CTA no rodapé. Acrescente ramos finos nos cantos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2458251871253112",
+    "anunciante": "Thayná Oliveira Doceria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-29",
+    "dias_no_ar": 169,
+    "variacoes_ativas": 2,
+    "texto_original": "🍰 Aprenda a fazer Bolos Caseiros Incríveis e Lucrativos! 🍰\n\nQuer ganhar dinheiro sem sair de casa ou surpreender a família com bolos irresistíveis?\n\n📚 Com o Curso de Bolos Caseiros Lucrativos, você aprende passo a passo com vídeo aulas práticas, mesmo que nunca tenha feito um bolo na vida!\n\n💥 Por apenas R$ 12,90 você leva:\n✅ Acesso imediato ao curso completo\n✅ Bônus exclusivos (receitas extras, dicas de vendas e muito mais!)\n✅ Certificado de conclusão incluso\n✅ Suporte para tirar dúvidas\n✅ Liberdade para assistir quando e onde quiser\n\n👩🍳 Comece hoje mesmo a transformar sua cozinha em fonte de renda!\n\n👉 Clique agora em SAIBA MAIS e garanta sua vaga por só R$ 12,90 antes que o valor mude!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2458251871253112.jpg"
+}

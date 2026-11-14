@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1373601964229541",
+  "tipo": "estatico",
+  "titulo": "Pergunta provocativa com comparação de estratégias",
+  "formato": "Comparativo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "evento",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Retrato sobre fundo preto, com pergunta em branco e dourado. Dois quadros contrapõem renda fixa e consórcio, acima de uma chamada para evento.",
+  "por_que_funciona": [
+    "A pergunta em letras grandes coloca a objeção no centro da peça.",
+    "Os dois quadros usam o mesmo aporte e prazo para facilitar a comparação.",
+    "Vermelho e dourado diferenciam visualmente as alternativas.",
+    "O botão dourado destaca a chamada para o evento."
+  ],
+  "quando_usar": "Para divulgar um evento educativo sobre uma estratégia financeira a quem já conhece a modalidade.",
+  "estrutura_texto": "[MODALIDADE] É [OBJEÇÃO]?\n[APORTE] · [ESTRATÉGIA A] · [PRAZO]\n[RESULTADO A]\nVS\n[APORTE] · [ESTRATÉGIA B] · [PRAZO]\n[RESULTADO B]\n[REENQUADRAMENTO DA OBJEÇÃO]\nParticipe de [EVENTO].\n[CTA] — [LIMITE REAL]",
+  "legenda": "Você já comparou os custos e as condições de [estratégia] com outras alternativas? Em [evento], conheça o funcionamento, os riscos e os critérios para avaliar [modalidade]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto, retrato da IMAGEM 2 no alto quando adequado, título central em branco e dourado, dois quadros lado a lado com condições comparáveis, selo VS e botão dourado inferior. Não invente resultados financeiros nem equivalência entre modalidades.",
+  "alerta_politica": "Em publicidade financeira, apresente riscos, custos e condições com clareza; simulações não garantem resultados futuros. Evite prometer rentabilidade, segurança absoluta ou renda mensal garantida e observe as regras aplicáveis da CVM e da Meta. Consórcio envolve taxas e regras de contemplação; carta de crédito não equivale a receita garantida. A comparação precisa explicitar suas premissas.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1373601964229541",
+    "anunciante": "Gabriel.Utzig",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-13",
+    "dias_no_ar": 93,
+    "variacoes_ativas": 1,
+    "texto_original": "Você já colocou na ponta do lápis o quanto custa de verdade construir riqueza sem uma estratégia clara? No final das contas, a maioria das pessoas perde anos de rentabilidade por pura falta de método. 🤯\n\nMas existe um caminho pouco explorado pelos brasileiros para construir um Patrimônio Lucrativo de alta rentabilidade, focando em alavancagem inteligente e segura.\n\nNós mapeamos o método exato para você investir de forma inteligente, acelerar o acúmulo de bens e criar fontes de renda passiva sólida.\n\nQuer entender como virar o jogo? Toque no link e descubra o método na próxima página. 👉",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1373601964229541.jpg"
+}

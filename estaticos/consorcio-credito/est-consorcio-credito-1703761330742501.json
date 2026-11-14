@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1703761330742501",
+  "tipo": "estatico",
+  "titulo": "Autonomia na escolha das parcelas com foto ao volante",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Foto de uma pessoa ao volante vista de trás, com texto branco na área escura à esquerda. Uma faixa amarela curva ocupa a base e destaca a mensagem de autonomia em roxo.",
+  "por_que_funciona": [
+    "O texto relaciona controle das parcelas ao ato de escolher a música no carro.",
+    "A área escura da fotografia sustenta o contraste do título branco.",
+    "A faixa amarela separa o benefício final da fotografia.",
+    "O ícone de celular acompanha a orientação de contratação no aplicativo."
+  ],
+  "quando_usar": "Para apresentar consórcio de automóvel a quem valoriza planejamento e escolha de plano.",
+  "estrutura_texto": "Você controla [condição do plano] e [detalhe da experiência com o bem]\nCom [modalidade], quem fica no comando é você\n[CTA] pelo [canal].",
+  "legenda": "Conheça [consórcio de automóvel] com [opções de plano]. Simule pelo [canal] e escolha uma condição compatível com [seu planejamento]. Confira [regras, taxas e contemplação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fotografia de pessoa ao volante em enquadramento lateral ou por trás, com área escura à esquerda para título branco. Crie faixa curva amarela na base, mensagem grande em roxo e CTA menor junto de ícone de celular. Integre a IMAGEM 2 ao contexto do bem ou serviço.",
+  "alerta_politica": "Meta: apresentar condições financeiras com clareza, sem garantir contemplação ou prazo para recebimento do crédito. A expressão “sem juros” não significa ausência de custos: esclarecer taxa de administração, fundo de reserva e demais encargos aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1703761330742501",
+    "anunciante": "Banco do Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-10",
+    "dias_no_ar": 96,
+    "variacoes_ativas": 1,
+    "texto_original": "Processo 100% digital, seguro e simples. Simule e garanta o carro que cabe no seu plano e no seu bolso.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1703761330742501.jpg"
+}

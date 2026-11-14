@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-1429685355638329",
+  "tipo": "estatico",
+  "titulo": "Linha infantil com cena de banho e produtos na base",
+  "formato": "Produto em destaque",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Peça azul-clara mostra duas crianças em um ambiente de banho e uma linha de cosméticos infantis no rodapé. A chamada sobre cheirinho e carinho fica no topo, com formas arredondadas brancas em volta da foto.",
+  "por_que_funciona": [
+    "A cena de banho mostra o contexto de uso dos produtos.",
+    "A fileira de embalagens coloridas apresenta a variedade da linha.",
+    "O título azul escuro sobre fundo claro é fácil de localizar.",
+    "As formas arredondadas integram a fotografia ao fundo da peça."
+  ],
+  "quando_usar": "Para campanhas de lembrança de marca de higiene infantil e apresentação de linha.",
+  "estrutura_texto": "[Frase sensorial ligada ao cuidado] + [marca própria] + [cena de uso] + [linha de produtos].",
+  "legenda": "O cuidado de [momento da rotina] pode ter o cheirinho de [produto]. Conheça a linha [nome] e encontre [opções disponíveis] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-claro, chamada curta azul escura no topo e fotografia autorizada de rotina de higiene no centro, preservando privacidade e enquadramento adequado à idade. Posicione as embalagens da IMAGEM 2 em uma fileira bem legível na base e faça a transição com formas arredondadas brancas. Não prometa benefícios terapêuticos.",
+  "alerta_politica": "ANVISA: alegações cosméticas devem corresponder à regularização e à comprovação do produto, sem promessas terapêuticas. Usar imagens de crianças com autorização e contexto apropriado.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1429685355638329",
+    "anunciante": "Baruel Baby",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-03",
+    "dias_no_ar": 103,
+    "variacoes_ativas": 1,
+    "texto_original": "Tem cheirinho que vira lembrança. Baruel Baby deixa o cuidado ainda mais especial todos os dias.\nCheirinho de carinho",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-1429685355638329.jpg"
+}

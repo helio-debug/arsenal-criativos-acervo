@@ -1,0 +1,95 @@
+{
+ "id": "vid-setup-prova-social",
+ "tipo": "video",
+ "titulo": "Tela dividida: credencial do criador, ferramentas do setup e prova de uso",
+ "formato_video": "split-screen",
+ "nichos": [
+  "ia-ferramentas",
+  "marketing-trafego",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "infoproduto",
+ "oferta": "gratis-isca",
+ "etapa_funil": "meio",
+ "duracao": "32-38s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Quem conseguiu [credencial comprovada] liberou o material usado em [trabalho concreto].",
+  "texto_tela": "[CREDENCIAL] + [MATERIAL DISPONÍVEL]",
+  "visual": "Página escura na metade superior com manchete branca; apresentador em plano médio na metade inferior, ao ar livre diante da água."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Tela dividida: página do material acima, apresentador ao ar livre abaixo.",
+   "fala": "Quem conseguiu [credencial comprovada] liberou o material usado em [trabalho concreto].",
+   "texto_tela": "[CREDENCIAL COMPROVADA]"
+  },
+  {
+   "tempo": "5-11s",
+   "cena": "Substitua a página por documentação do material, com o rosto fixo embaixo.",
+   "fala": "Esse é [material]. Ele foi preparado durante [período documentado] de uso em [contexto].",
+   "texto_tela": "[MATERIAL] • [CONTEXTO]"
+  },
+  {
+   "tempo": "11-18s",
+   "cena": "Mostre a organização do acervo, ampliando uma seção de cada vez.",
+   "fala": "Você encontra [quantidade conferida] itens. Vou abrir [item específico] para mostrar como funciona.",
+   "texto_tela": "[QUANTIDADE] [ITENS]"
+  },
+  {
+   "tempo": "18-25s",
+   "cena": "Exiba o item em uso na metade superior; mantenha legendas brancas sobre faixa escura na divisão.",
+   "fala": "Este [item] ajuda a fazer [tarefa]. Aqui está [etapa observável], aplicada a [exemplo].",
+   "texto_tela": "[ITEM] → [TAREFA]"
+  },
+  {
+   "tempo": "25-32s",
+   "cena": "Cartela colorida com contextos de uso; depois, registro autorizado do trabalho citado.",
+   "fala": "Dá para usar em [contexto compatível]. No trabalho citado, ele foi usado para [entrega documentada].",
+   "texto_tela": "Uso em [CONTEXTO]"
+  },
+  {
+   "tempo": "32-38s",
+   "cena": "Metade superior branca com chamada preta grande; apresentador continua embaixo.",
+   "fala": "Comente [palavra] para receber [material gratuito] e as instruções de acesso.",
+   "texto_tela": "Comente [PALAVRA]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame reúne uma manchete e uma página do material acima da fala, fazendo a credencial abrir a apresentação.",
+  "O apresentador permanece diante da enseada enquanto documentação e telas mudam acima dele.",
+  "A faixa escura sob as legendas brancas mantém a leitura sobre telas e paisagem claras.",
+  "A cartela final branca com palavra grande substitui as telas densas e deixa uma única ação visível."
+ ],
+ "quando_usar": "Para cursos de ferramentas, marketing ou educação que tenham um material gratuito e uma credencial verificável ligada a ele. Use no meio do funil para mostrar o conteúdo por dentro antes de pedir o comentário.",
+ "roteiro_modelo": "Quem conseguiu [credencial comprovada] liberou o material usado em [trabalho concreto].\n\n[Corte / pausa]\n\nEsse é [material]. Ele foi preparado durante [período documentado] de uso em [contexto].\n\n[Corte / pausa]\n\nVocê encontra [quantidade conferida] itens. Vou abrir [item específico] para mostrar como funciona.\n\n[Corte / pausa]\n\nEste [item] ajuda a fazer [tarefa]. Aqui está [etapa observável], aplicada a [exemplo].\n\n[Corte / pausa]\n\nDá para usar em [contexto compatível]. No trabalho citado, ele foi usado para [entrega documentada].\n\n[Corte / pausa]\n\nComente [palavra] para receber [material gratuito] e as instruções de acesso.",
+ "tomadas_celular": [
+  "Grave a abertura do peito para cima em exterior silencioso, celular apoiado, sombra aberta e cenário ao fundo; 5s.",
+  "Grave a apresentação do material no mesmo ponto, luz constante e olhar para a lente; 6s.",
+  "Filme a organização do material com câmera traseira perpendicular à tela, sem reflexo e luz ambiente suave; 7s.",
+  "Filme um item sendo usado, close das mãos ou da tela, luz lateral difusa; 7s.",
+  "Capture a entrega documentada com celular apoiado, enquadramento fechado e iluminação uniforme; 7s.",
+  "Grave o CTA em plano médio no exterior, sombra aberta e áudio próximo; 6s."
+ ],
+ "caminho_ia": "Monte no CapCut um avatar na metade inferior e slideshow de imagens geradas na superior. Use Sora para cenas de apoio e voz sintética ou clonada com autorização. Prompts: \"Vertical 9:16 medium shot of a fictional instructor outdoors beside a calm bay, open shade, eye-level locked camera, natural gestures, leave upper half available for editorial overlay, no logos.\" e \"Close-up of [learning material] arranged on a neutral desk, soft daylight, slow lateral camera movement, clear visual grouping, no readable text, no branding.\" Acrescente títulos na edição. Credencial e entrega precisam de registros reais autorizados; não gere prova social fictícia.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie 38s em seis blocos: credencial comprovada e material; contexto de criação; conteúdo por dentro; um item em uso; aplicação documentada; comentário para acesso gratuito. Use split-screen, apresentador abaixo em exterior e telas acima. Tom informativo, cortes a cada mudança de tela, legendas brancas sobre faixa escura e cartela final branca com CTA preto. Adapte a cursos, marketing ou educação sem exigir código ou software. Não copie nomes, local exato, interfaces, prêmios, quantidades ou resultados da referência. Nunca invente credencial; use [credencial a comprovar] se faltar. Não use antíteses vazias, superlativos sem prova ou perguntas decorativas. Escreva em pt-BR falado, com [colchetes] para dados que preciso completar.\n\nEntregue o roteiro falado completo no formato descrito (com tempos), a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja por dentro de [material gratuito]: [item demonstrado] aplicado a [tarefa]. Comente [palavra] para receber o acesso e conferir [condição de uso].",
+ "alerta_politica": null,
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-611a5c20",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-setup-prova-social/frames/f1.jpg",
+    "videos/vid-setup-prova-social/frames/f2.jpg",
+    "videos/vid-setup-prova-social/frames/f3.jpg",
+    "videos/vid-setup-prova-social/frames/f4.jpg",
+    "videos/vid-setup-prova-social/frames/f5.jpg"
+   ]
+  }
+ ]
+}

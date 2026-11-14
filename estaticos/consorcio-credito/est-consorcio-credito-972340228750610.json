@@ -1,0 +1,36 @@
+{
+  "id": "est-consorcio-credito-972340228750610",
+  "tipo": "estatico",
+  "titulo": "Tabela imobiliária sobre foto de casa",
+  "formato": "Oferta e promoção",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Foto de casa contemporânea serve de fundo para um painel branco com cantos arredondados. O painel reúne título azul e preto, quatro pares de crédito e parcela e duas faixas vermelhas na base.",
+  "por_que_funciona": [
+    "O painel branco mantém a tabela legível sobre a fotografia da casa.",
+    "Quatro pares de valores ajudam a comparar faixas de crédito.",
+    "As faixas vermelhas destacam a condição anunciada e o prazo máximo."
+  ],
+  "quando_usar": "Para comparar planos de consórcio imobiliário e captar pedidos de simulação por faixa de crédito.",
+  "estrutura_texto": "CONSÓRCIO IMOBILIÁRIO\nCRÉDITO | PARCELA*\nR$ [CRÉDITO] | R$ [PARCELA]\n[CONDIÇÃO DE JUROS]\nATÉ [PRAZO] MENSAIS\n[REGRAS DA PARCELA REDUZIDA E CUSTOS]",
+  "legenda": "Planeje [compra, construção ou reforma] com consórcio imobiliário. Consulte créditos de [faixa de valores] e planos de até [prazo]. As parcelas de [valor] seguem [regra de redução]; confira taxa de administração, demais custos e regras de contemplação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a foto imobiliária da IMAGEM 2 como fundo em tela inteira. Sobreponha painel branco grande de cantos arredondados. No topo, coloque símbolo próprio do usuário à esquerda e título preto e azul à direita. Monte tabela de duas colunas com quatro linhas em preto e negrito. Na base, use duas cápsulas vermelhas para condição e prazo, com ressalvas legíveis abaixo. Não anuncie ausência de custos ao mencionar juros.",
+  "alerta_politica": "Meta: anúncios de crédito e consórcio devem apresentar condições verdadeiras e evitar aprovação ou contemplação garantida. Informar taxas, custos, prazo e regras de contemplação; “sem juros” não significa ausência de taxa de administração e outros encargos. Aplicar a categoria especial de crédito quando exigida pela plataforma.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "972340228750610",
+    "anunciante": "Maria Paula Consórcio Porto",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "O CONSÓRCIO PORTO é a melhor forma de se planejar para o seu próximo bem 👇 🏠\n\nCom o consórcio Porto, você tem a possibilidade de pagar em até 200 meses, podendo utilizar o crédito para adquirir um imóvel ou terreno, construir ou reformar.\n\nCOM O CONSÓRCIO PORTO VOCÊ TEM:\n\n✅ Parcelas mensais sem juros;\n✅ Parcelas reduzidas até a contemplação;\n✅ Flexibilidade para quitação de financiamento, compra de imóveis em todo território nacional, lotes, salas comerciais, construção e reforma, casa na praia ou campo;\n✅ Contemplações mensais;\n✅ Lance embutido;\n✅ Até 200 meses para pagar;\n✅ Lance e assembleia pelo aplicativo;\n✅ Use o seu FGTS para dar lances.\n\nFicou interessado? Entre em contato agora mesmo com um consultor, basta clicar no botão \"SAIBA MAIS\" e preencher o formulário.\n\n*Preços referentes ao plano com parcelas reduzidas até a contemplação, sujeitos a alteração sem aviso prévio, entre em contato e consulte-nos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-972340228750610.jpg"
+}

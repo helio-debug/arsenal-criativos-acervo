@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1017976747916067",
+  "tipo": "estatico",
+  "titulo": "Elenco de especialistas com chamada de acesso VIP",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Montagem de retratos de profissionais sobre fundo preto e dourado. O título metálico ocupa o centro inferior, seguido por uma faixa vermelha de edição especial e acesso VIP.",
+  "por_que_funciona": [
+    "A montagem de vários profissionais destaca quem participa do evento.",
+    "O título dourado em duas linhas concentra a atenção no tema.",
+    "A faixa vermelha separa a modalidade de acesso do restante da peça.",
+    "Data e localização aparecem em uma linha próxima ao título."
+  ],
+  "quando_usar": "Para divulgar uma edição especial de congresso ou imersão com especialistas confirmados.",
+  "estrutura_texto": "[Datas] | [Cidade e região]\n[Nome do evento]\n[Descrição da imersão]\n[Edição especial] | [Modalidade de acesso]\n[Marca]",
+  "legenda": "Participe de [evento presencial] sobre [tema], nos dias [datas], em [local]. Conteúdo aplicado para [público profissional], com [especialistas confirmados]. Consulte os detalhes de [modalidade de acesso] e faça sua inscrição.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição de retratos autorizados dos palestrantes na metade superior, com figura central maior e duas fileiras menores. Use fundo preto com detalhes dourados, título largo em dourado e faixa vermelha horizontal para modalidade de ingresso. Inclua datas e local em branco. Não invente palestrantes ou superioridade nacional.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1017976747916067",
+    "anunciante": "GS Educação",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-16",
+    "dias_no_ar": 59,
+    "variacoes_ativas": 1,
+    "texto_original": "Reforma Tributaria! Vagas LIMITADAS para a Imersão Presencial na Faria Lima. 25 E 26 DE NOVEMBRO!\n\nDois dias intensos destrinchando, na prática, tudo sobre a Reforma Tributária e a distribuição de lucros no novo sistema.\n\nExclusivo para profissionais que atendem empresas.\nConteúdo aplicado, cálculos reais e acesso direto ao nosso time tributário.\n\nAlém do evento, você recebe:\n— Mentorias quinzenais durante todo 2026\n-- Plataforma de ensino estilo netflix com conteúdos exclusivos\n— Grupo VIP\n— Material impresso exclusivo\n— Certificado premium\n\nVagas limitadas. Garanta a sua agora.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1017976747916067.jpg"
+}

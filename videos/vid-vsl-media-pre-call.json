@@ -1,0 +1,103 @@
+{
+ "id": "vid-vsl-media-pre-call",
+ "titulo": "VSL de 3 a 7 minutos que aquece o lead antes da call",
+ "formato_video": "vsl-media",
+ "nichos": [
+  "mentoria-high-ticket",
+  "servicos-locais",
+  "estetica-clinicas",
+  "saas-b2b"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "300s",
+ "proporcao": "16:9",
+ "validacao": "media",
+ "hook": {
+  "falado": "[Situação recorrente] ocupa [tempo ou recurso] na rotina de [público]. Neste vídeo, vou mostrar como [produto ou serviço] atende essa situação e o que vale conferir antes de agendar uma conversa.",
+  "texto_tela": "[Situação concreta] | Antes de agendar",
+  "visual": "Apresentador em plano médio ao ar livre, cidade ao fundo e legenda curta na faixa inferior, como no primeiro frame."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-20s",
+   "cena": "Plano médio externo, apresentador centralizado e fundo urbano desfocado. Legendas brancas curtas sobre base escura.",
+   "fala": "[Situação recorrente] ocupa [tempo ou recurso] na rotina de [público]. Neste vídeo, vou mostrar como [produto ou serviço] atende essa situação e o que vale conferir antes de agendar uma conversa.",
+   "texto_tela": "[Situação concreta] | Antes de agendar"
+  },
+  {
+   "tempo": "20-55s",
+   "cena": "Corte para interior escuro, plano médio, luz lateral suave e detalhe verde ao fundo.",
+   "fala": "Eu sou [função profissional]. Meu trabalho envolve [atividade ligada à oferta]. A proposta aqui é [entrega concreta]. Ela serve para [perfil atendido] quando [condição de uso]. Se a necessidade for [limite de atendimento], a conversa precisa começar por esse limite. A avaliação começa por [informação necessária]. Esse dado ajuda a entender se o escopo atende ao pedido. Quando falta essa informação, a equipe solicita [complemento] antes de apresentar uma proposta.",
+   "texto_tela": "[Entrega concreta] | Para [perfil]"
+  },
+  {
+   "tempo": "55-100s",
+   "cena": "Mesmo ambiente, aproximação discreta. Intercalar detalhe de um objeto usado no processo.",
+   "fala": "O problema costuma aparecer em [momento da rotina]. Primeiro acontece [etapa observável]. Depois, [consequência verificável]. Um exemplo é [situação curta, sem identificar cliente]. Antes de escolher uma solução, vale conferir [critério]. Esse ponto muda o que precisa ser feito e evita contratar [recurso inadequado]. Esse cuidado é útil quando existem várias opções parecidas. Compare o que cada uma entrega, o prazo informado e a participação exigida. Guarde essa comparação para levar à conversa.",
+   "texto_tela": "Confira [critério de escolha]"
+  },
+  {
+   "tempo": "100-150s",
+   "cena": "Apresentador gesticula no plano médio. Inserir demonstração própria sobre a fala, sem telas de terceiros.",
+   "fala": "Na nossa proposta, o começo é [primeira etapa]. A partir disso, [responsável] faz [ação concreta]. O próximo passo é [segunda etapa]. Aqui está [amostra da entrega]. Repare em [detalhe visível]. Esse detalhe permite [uso do recurso]. A participação de quem contrata é [responsabilidade]. O prazo previsto é [prazo real], sujeito a [condição aplicável]. Durante a execução, você acompanha [registro do andamento]. Se aparecer [situação prevista], o caminho é [ajuste combinado]. Essas etapas precisam estar descritas na proposta para que o acompanhamento seja claro.",
+   "texto_tela": "[Etapa inicial] → [Entrega]"
+  },
+  {
+   "tempo": "150-205s",
+   "cena": "Demonstração em tela cheia, depois retorno ao rosto. Reservar 15 segundos para observar a amostra com legenda.",
+   "fala": "Veja este exemplo de [entrega real anonimizada]. O ponto de partida era [contexto documentado]. Foi feito [procedimento ou trabalho permitido]. O registro mostra [dado comprovado, ou característica verificável da entrega]. Esse exemplo tem [limitação]. Para outro contexto, a avaliação precisa ser individual. Agora vou deixar a amostra na tela para você conferir [detalhe relevante].",
+   "texto_tela": "[Evidência verificável] | [Condição do exemplo]"
+  },
+  {
+   "tempo": "205-260s",
+   "cena": "Plano médio interno. Cards pequenos entram ao lado do apresentador, mantendo o rosto visível.",
+   "fala": "O atendimento inclui [entrega principal] e [acompanhamento existente]. [Item opcional] só entra se fizer parte do plano combinado. Sobre [objeção principal], funciona assim: [resposta objetiva]. O investimento é [valor ou critério de orçamento]. As condições de contratação e eventual cancelamento são [condições reais]. Na conversa, você pode confirmar escopo e custo antes de decidir. Confira também [custo ou requisito adicional, se houver]. Se alguma condição depender de avaliação, ela deve ficar explícita antes da contratação. O agendamento permite esclarecer esse ponto e receber uma orientação sobre a próxima etapa.",
+   "texto_tela": "Inclui [entrega] | Condições: [resumo]"
+  },
+  {
+   "tempo": "260-300s",
+   "cena": "Retorno ao rosto, transição breve com banho de cor verde e cartela escura de CTA. Segurar cartela por 5 segundos.",
+   "fala": "Para agendar, toque no botão e preencha [informações necessárias]. A equipe usa essas respostas para entender [necessidade]. Na conversa, vamos conferir [ponto de avaliação] e apresentar [próximo passo]. Separe [informação ou material útil]. O agendamento segue [disponibilidade real]. Confira os detalhes na página e escolha um horário.",
+   "texto_tela": "Agende uma conversa | [Orientação do próximo passo]"
+  }
+ ],
+ "por_que_funciona": [
+  "O primeiro frame coloca o apresentador na rua; os seguintes o trazem para um interior escuro. Essa mudança separa a situação inicial da explicação.",
+  "As legendas brancas aparecem em trechos curtos na parte inferior, deixando o rosto e os gestos livres.",
+  "A fala da referência explica acesso e garantia antes do pedido final. O modelo usa esse espaço para esclarecer escopo e condições antes do agendamento.",
+  "O banho de luz verde antecede uma cartela escura de convite, criando uma passagem visual para a ação."
+ ],
+ "quando_usar": "Para ofertas que precisam de avaliação ou conversa comercial, depois que o lead pediu informações. Use na página de agendamento ou na confirmação, com escopo e condições reais.",
+ "roteiro_modelo": "[Situação recorrente] ocupa [tempo ou recurso] na rotina de [público]. Neste vídeo, vou mostrar como [produto ou serviço] atende essa situação e o que vale conferir antes de agendar uma conversa.\n\n[PAUSA / CORTE]\n\nEu sou [função profissional]. Meu trabalho envolve [atividade ligada à oferta]. A proposta aqui é [entrega concreta]. Ela serve para [perfil atendido] quando [condição de uso]. Se a necessidade for [limite de atendimento], a conversa precisa começar por esse limite. A avaliação começa por [informação necessária]. Esse dado ajuda a entender se o escopo atende ao pedido. Quando falta essa informação, a equipe solicita [complemento] antes de apresentar uma proposta.\n\n[PAUSA / CORTE]\n\nO problema costuma aparecer em [momento da rotina]. Primeiro acontece [etapa observável]. Depois, [consequência verificável]. Um exemplo é [situação curta, sem identificar cliente]. Antes de escolher uma solução, vale conferir [critério]. Esse ponto muda o que precisa ser feito e evita contratar [recurso inadequado]. Esse cuidado é útil quando existem várias opções parecidas. Compare o que cada uma entrega, o prazo informado e a participação exigida. Guarde essa comparação para levar à conversa.\n\n[PAUSA / CORTE]\n\nNa nossa proposta, o começo é [primeira etapa]. A partir disso, [responsável] faz [ação concreta]. O próximo passo é [segunda etapa]. Aqui está [amostra da entrega]. Repare em [detalhe visível]. Esse detalhe permite [uso do recurso]. A participação de quem contrata é [responsabilidade]. O prazo previsto é [prazo real], sujeito a [condição aplicável]. Durante a execução, você acompanha [registro do andamento]. Se aparecer [situação prevista], o caminho é [ajuste combinado]. Essas etapas precisam estar descritas na proposta para que o acompanhamento seja claro.\n\n[PAUSA / CORTE]\n\nVeja este exemplo de [entrega real anonimizada]. O ponto de partida era [contexto documentado]. Foi feito [procedimento ou trabalho permitido]. O registro mostra [dado comprovado, ou característica verificável da entrega]. Esse exemplo tem [limitação]. Para outro contexto, a avaliação precisa ser individual. Agora vou deixar a amostra na tela para você conferir [detalhe relevante].\n\n[PAUSA / CORTE]\n\nO atendimento inclui [entrega principal] e [acompanhamento existente]. [Item opcional] só entra se fizer parte do plano combinado. Sobre [objeção principal], funciona assim: [resposta objetiva]. O investimento é [valor ou critério de orçamento]. As condições de contratação e eventual cancelamento são [condições reais]. Na conversa, você pode confirmar escopo e custo antes de decidir. Confira também [custo ou requisito adicional, se houver]. Se alguma condição depender de avaliação, ela deve ficar explícita antes da contratação. O agendamento permite esclarecer esse ponto e receber uma orientação sobre a próxima etapa.\n\n[PAUSA / CORTE]\n\nPara agendar, toque no botão e preencha [informações necessárias]. A equipe usa essas respostas para entender [necessidade]. Na conversa, vamos conferir [ponto de avaliação] e apresentar [próximo passo]. Separe [informação ou material útil]. O agendamento segue [disponibilidade real]. Confira os detalhes na página e escolha um horário.\n\n[PAUSA DE DEMONSTRAÇÃO: 15s no bloco de evidência. CARTELA FINAL: 5s. Os tempos incluem essas pausas e a leitura das telas.]",
+ "tomadas_celular": [
+  "Abertura: celular horizontal na altura dos olhos, plano médio externo, sombra aberta e rua sem placas legíveis; grave 25s.",
+  "Apresentação: celular fixo horizontal, plano médio em sala, janela lateral e fundo mais escuro; grave 40s.",
+  "Contexto: mesmo plano com leve recorte na edição, janela difusa, grave 50s e mantenha pausas entre exemplos.",
+  "Processo: filme mãos e material próprio por cima da mesa, luz de janela, 20s por etapa; oculte dados pessoais.",
+  "Evidência: capture amostra anonimizada de perto, celular apoiado e luz sem reflexos; grave 30s e deixe 15s de observação.",
+  "Condições e convite: plano médio no mesmo interior, luz lateral, grave 90s em duas falas; finalize com cartela de 5s na edição."
+ ],
+ "caminho_ia": "Use avatar licenciado para as falas e monte no CapCut em 16:9. Gere apenas cenas de contexto no Veo ou Runway; mantenha demonstrações e evidências como materiais próprios, sem fabricar resultados. Prompts: \"Horizontal 16:9 medium shot of a generic presenter in an unbranded urban plaza, soft open shade, eye-level locked camera, subtle natural gestures, clean lower-third space, no readable text, contextual topic: [produto ou serviço].\" e \"Horizontal 16:9 tabletop close-up illustrating [etapa do processo de produto ou serviço], soft side light, slow controlled push-in, anonymous props, no logos, no personal data, eight-second shot.\" Use voz sintética licenciada ou voz clonada com autorização, legendas brancas e uma transição verde curta antes da cartela.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Use imagens, identidade e argumentos próprios para o meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma VSL média de 300s, horizontal 16:9, para aquecer o lead antes da call. Use 7 blocos: 0-20 situação e objetivo; 20-55 apresentação e adequação; 55-100 contexto; 100-150 mecanismo e demonstração; 150-205 evidência com 15s de observação; 205-260 escopo, objeção e condições; 260-300 agendamento com cartela final de 5s. Tom calmo e explicativo. Abra em plano médio externo e passe para interior escuro com detalhe verde. Use legendas brancas curtas, sem parágrafos sobre o rosto. Faça cortes nas mudanças de assunto e insira amostra própria. O material de referência é curto e não comprova uma VSL de cinco minutos; desenvolva a estrutura indicada. Inclua fala suficiente para a duração, considerando pausas e demonstração. Adapte a clínicas sem diagnosticar quem assiste nem prometer resultado. Não copie pessoa, marca, logotipo, cenário identificável, domínio, preço ou falas da referência. Escreva em pt-BR falado, com frases curtas. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não invente provas, escassez ou condições comerciais. Mantenha [colchetes] onde faltarem dados. Termine entregando: roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Antes de agendar, veja como funciona [produto ou serviço], o que está incluído e quais informações levar. Toque no botão para escolher [horário disponível].",
+ "alerta_politica": "Meta: não atribua ao espectador uma condição de saúde ou característica corporal; não use antes/depois de corpo nem prometa resultado de saúde. Para estética médica, siga a Resolução CFM 2.336/2023: identificação profissional exigida e nenhuma garantia de resultado. Quando houver cosmético ou dispositivo, use apenas alegações compatíveis com a regularização na ANVISA. Fonte CFM: https://sistemas.cfm.org.br/normas/visualizar/resolucoes/BR/2023/2336",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-010ccfde",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-vsl-media-pre-call/frames/f1.jpg",
+    "videos/vid-vsl-media-pre-call/frames/f2.jpg",
+    "videos/vid-vsl-media-pre-call/frames/f3.jpg",
+    "videos/vid-vsl-media-pre-call/frames/f4.jpg",
+    "videos/vid-vsl-media-pre-call/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

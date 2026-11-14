@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-2141456660092894",
+  "tipo": "estatico",
+  "titulo": "Recrutamento de revendedores com cenário gamer",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo rosa com faixa amarela, título branco sobre vermelho e foto de um jovem segurando um produto em um ambiente com computador e iluminação gamer. Um bloco inferior convida a participar da revenda.",
+  "por_que_funciona": [
+    "A referência a vida extra conecta o título ao cenário gamer da foto.",
+    "O título grande em faixa vermelha concentra a chamada de recrutamento.",
+    "O produto na mão apresenta a atividade comercial de forma concreta.",
+    "O bloco inferior vermelho concentra o convite para participar."
+  ],
+  "quando_usar": "Para recrutar revendedores com uma linguagem visual ligada a interesses do público.",
+  "estrutura_texto": "[Gancho ligado ao universo do público]\n[Convite para trabalhar por conta própria]\n[Foto de pessoa com produto]\nFaça parte e [ação desejada]\n[Categoria da oportunidade]",
+  "legenda": "Quer complementar sua renda para [objetivo pessoal]? Conheça a revenda de [categoria], veja as condições e comece a oferecer os produtos para [público próximo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo rosa, faixa amarela no topo com um gancho curto e uma faixa vermelha com título branco grande. Abaixo, insira foto de uma pessoa autorizada segurando o produto da IMAGEM 2 em ambiente relacionado ao interesse do público. Na base, inclua um bloco vermelho com CTA e identificação discreta da categoria. Não prometa lucro imediato.",
+  "alerta_politica": "Evite prometer renda garantida, lucro certo ou ganhos sem esforço. Informe condições, custos e critérios de participação; valores de ganhos precisam de comprovação e contexto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2141456660092894",
+    "anunciante": "Avon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-23",
+    "dias_no_ar": 52,
+    "variacoes_ativas": 2,
+    "texto_original": "Dinheiro para o setup novo? Seja consultor de beleza agora\nUpgrade Na Sua Renda\nUse seu tempo online para ganhar dinheiro real. Venda para os amigos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-2141456660092894.jpg"
+}

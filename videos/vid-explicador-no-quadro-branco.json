@@ -1,0 +1,97 @@
+{
+ "id": "vid-explicador-no-quadro-branco",
+ "titulo": "Explicação desenhada em quadro branco, passo a passo",
+ "formato_video": "whiteboard",
+ "nichos": [
+  "saas-b2b",
+  "investimentos",
+  "infoproduto-cursos",
+  "servicos-locais"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "aula-ou-live-gratuita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "50-60s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Vou desenhar o caminho de [situação inicial] até [objetivo do cliente].",
+  "texto_tela": "De [situação inicial] a [objetivo]",
+  "visual": "Papel off-white ocupa a tela vertical. A mão começa um desenho de trajeto, com ponto inicial preto e destino circulado em vermelho."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-5s",
+   "cena": "Slide 1: capa em papel off-white, título manuscrito e dois pontos ligados por uma linha incompleta. Close fixo de cima.",
+   "fala": "Vou desenhar o caminho de [situação inicial] até [objetivo do cliente].",
+   "texto_tela": "De [situação inicial] a [objetivo]"
+  },
+  {
+   "tempo": "5-14s",
+   "cena": "Slide 2: desenho simples do ponto de partida. A caneta contorna o objeto que representa a situação; uma ideia por tela.",
+   "fala": "Hoje, [público] começa com [recurso ou condição inicial]. Quando tenta [tarefa], encontra [obstáculo concreto]. Vou marcar esse ponto aqui.",
+   "texto_tela": "Ponto de partida: [situação]"
+  },
+  {
+   "tempo": "14-24s",
+   "cena": "Slide 3: seta interrompida pelo obstáculo, em vermelho. Aproximar a folha para destacar o cruzamento das linhas.",
+   "fala": "Esse [obstáculo] atrapalha [etapa específica]. Por isso, antes de seguir, a gente precisa conferir [critério verificável]. É o detalhe que vou circular.",
+   "texto_tela": "Confira [critério]"
+  },
+  {
+   "tempo": "24-35s",
+   "cena": "Slide 4: nova folha mostra uma caixa para o produto e uma seta verde saindo dela. A mão acrescenta o próximo passo ao vivo.",
+   "fala": "[Produto] entra nesta etapa. Ele oferece [recurso ou orientação] para [ação do cliente]. No desenho, a ligação passa por [passo essencial do uso].",
+   "texto_tela": "[Produto] → [ação]"
+  },
+  {
+   "tempo": "35-47s",
+   "cena": "Slide 5: exemplo visual com dois cartões, entrada e saída, unidos por seta. Legendas brancas com uma palavra vermelha acompanham a voz, sem cobrir o desenho.",
+   "fala": "Veja um exemplo: com [entrada do exemplo], você faz [ação demonstrável] e pode conferir [saída observável]. Esse é um exemplo de uso. [Condição ou limite relevante] também precisa entrar na conta.",
+   "texto_tela": "Exemplo: [entrada] → [saída]"
+  },
+  {
+   "tempo": "47-60s",
+   "cena": "Slide 6: plano de cima mais aberto revela o percurso completo. A caneta aponta a caixa final e sublinha o convite.",
+   "fala": "Agora o caminho está desenhado. Na [aula ou live gratuita], eu explico [tema específico] usando [exemplo prático]. Toque em [botão] para ver [data e condições de acesso] e fazer sua inscrição.",
+   "texto_tela": "[Aula gratuita] • [data]\nInscreva-se em [botão]"
+  }
+ ],
+ "por_que_funciona": [
+  "O funil desenhado ocupa quase todo o quadro nos frames centrais; as divisões tornam as etapas localizáveis enquanto a fala avança.",
+  "A mão aparece acrescentando uma caixa e setas ao diagrama. O raciocínio ganha uma ligação visível a cada explicação.",
+  "Os closes mudam do desenho amplo para o ponto indicado pela caneta; o olhar acompanha exatamente a parte comentada.",
+  "As legendas alternam branco e vermelho na referência. O vermelho destaca a palavra ligada ao argumento sem exigir outro gráfico."
+ ],
+ "quando_usar": "Para quem precisa explicar um processo antes de apresentar a oferta. Use no meio do funil, quando o público já conhece o assunto, mas precisa entender onde o produto entra.",
+ "roteiro_modelo": "Vou desenhar o caminho de [situação inicial] até [objetivo do cliente].\n\n[Corte]\n\nHoje, [público] começa com [recurso ou condição inicial]. Quando tenta [tarefa], encontra [obstáculo concreto]. Vou marcar esse ponto aqui.\n\n[Corte]\n\nEsse [obstáculo] atrapalha [etapa específica]. Por isso, antes de seguir, a gente precisa conferir [critério verificável]. É o detalhe que vou circular.\n\n[Corte]\n\n[Produto] entra nesta etapa. Ele oferece [recurso ou orientação] para [ação do cliente]. No desenho, a ligação passa por [passo essencial do uso].\n\n[Corte]\n\nVeja um exemplo: com [entrada do exemplo], você faz [ação demonstrável] e pode conferir [saída observável]. Esse é um exemplo de uso. [Condição ou limite relevante] também precisa entrar na conta.\n\n[Corte]\n\nAgora o caminho está desenhado. Na [aula ou live gratuita], eu explico [tema específico] usando [exemplo prático]. Toque em [botão] para ver [data e condições de acesso] e fazer sua inscrição.",
+ "tomadas_celular": [
+  "Filme a capa em uma folha off-white, celular vertical preso acima da mesa, luz difusa de janela pela lateral; 5s.",
+  "Grave o ponto inicial em outra folha, mesmo enquadramento de cima, sem sombra da mão no texto; 9s.",
+  "Faça um close do obstáculo sendo circulado em vermelho, janela lateral e celular apoiado; 10s.",
+  "Grave a caixa do produto recebendo uma seta verde, câmera de cima e iluminação constante; 11s.",
+  "Filme dois cartões de exemplo unidos à mão por uma seta, plano fechado e luz suave; 12s.",
+  "Abra o plano para o percurso completo e a inscrição escrita na última folha, luz de janela, sem reflexos; 13s. Grave a voz separadamente no celular em ambiente silencioso."
+ ],
+ "caminho_ia": "Sem gravar, gere seis imagens de papel off-white com desenhos de canetinha e monte um slideshow no CapCut. Use Runway para animar só o traço ou uma mão genérica, com voz sintética em pt-BR; voz clonada apenas com autorização. Prompts: \"Vertical 9:16 overhead locked shot, warm off-white paper texture, imperfect black felt-tip sketch of [customer starting situation], red circle around [obstacle], progressive line reveal, soft diffuse daylight, no logos, no rendered text.\" e \"Vertical 9:16 top-down close-up, hand-drawn box representing [product], green marker arrow connecting [input] to [observable output], slightly uneven strokes, warm paper background, static camera, no typography.\" Insira as palavras no editor para manter a grafia e sincronize cada seta com a explicação. Não use desenho gerado como prova de desempenho.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um whiteboard de 60s, vertical, com seis telas: capa do percurso (0-5s), situação inicial (5-14s), obstáculo e critério (14-24s), lugar do produto (24-35s), exemplo com limite (35-47s) e convite para aula gratuita (47-60s). Uma ideia por tela. Papel off-white, traço de canetinha irregular, setas verdes e círculos vermelhos. Voz didática de conversa; faça pequenas pausas para cada desenho aparecer. Texto de tela curto e manuscrito; legendas brancas com uma palavra vermelha. Preserve a progressão de setas e closes da referência. Não repita o funil, percentuais, resultados comerciais ou conteúdo do anunciante. Use uma metáfora simples adequada ao meu produto.\n\nUse pt-BR falado, frases curtas e dados verificáveis. Não copie nomes, pessoas, marcas, logotipos, valores, domínios, interfaces proprietárias ou frases da referência. Use apenas informações do meu produto; quando faltar um dado, marque [preencher]. Não invente prova, prazo ou benefício. Evite superlativos, perguntas decorativas, antíteses vazias e promessa de resultado.\n\nEntregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Veja onde [produto] entra no processo de [tarefa]. Na [aula gratuita], vou desenhar [etapa ou exemplo] com você. Inscrição em [botão]. [Data e condições].",
+ "alerta_politica": "Investimentos: não prometa rentabilidade nem trate um exemplo como retorno garantido. Informe riscos e limites das simulações; material de oferta pública deve seguir a Resolução CVM 160 e as regras aplicáveis ao produto. Se a adaptação oferecer crédito, siga as exigências do Banco Central para informação de CET e condições da operação. Fontes: [CVM](https://conteudo.cvm.gov.br/export/sites/cvm/legislacao/resolucoes/anexos/100/resol160.pdf) e [Banco Central](https://www.bcb.gov.br/meubc/faqs/p/cuidados-na-hora-de-contratar-uma-operacao-de-credito).",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-84239f2d",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-explicador-no-quadro-branco/frames/f1.jpg",
+    "videos/vid-explicador-no-quadro-branco/frames/f2.jpg",
+    "videos/vid-explicador-no-quadro-branco/frames/f3.jpg",
+    "videos/vid-explicador-no-quadro-branco/frames/f4.jpg",
+    "videos/vid-explicador-no-quadro-branco/frames/f5.jpg"
+   ],
+   "nota_referencia": "Frames de vídeo real com enquadramento e ritmo afins ao formato; a estrutura do card vem da especificação do método, não deste vídeo."
+  }
+ ]
+}

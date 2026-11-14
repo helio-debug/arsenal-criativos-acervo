@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-2021950121779492",
+  "tipo": "estatico",
+  "titulo": "Curso artesanal com mosaico de peças e desconto",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fundo creme com título manuscrito roxo, benefícios em coluna e mosaico de peças artesanais à direita. Uma faixa inferior destaca desconto de 50% e bônus.",
+  "por_que_funciona": [
+    "O mosaico mostra tipos concretos de peças que o aluno poderá aprender a fazer.",
+    "A coluna com ícones separa aprendizado, projetos, comercialização e bônus.",
+    "O percentual grande e a indicação de prazo tornam a oferta fácil de localizar.",
+    "A tipografia manuscrita e os ramos florais remetem ao trabalho artesanal."
+  ],
+  "quando_usar": "Para cursos de artesanato com exemplos de projetos e uma promoção real de matrícula.",
+  "estrutura_texto": "CURSO DE [TÉCNICA]\n[APLICAÇÕES DA TÉCNICA]\nTransforme [HABILIDADE] em [POSSIBILIDADE DE ATUAÇÃO]\n[APRENDIZADO INICIAL + EXPLICAÇÃO]\n[PROJETOS + EXPLICAÇÃO]\n[COMERCIALIZAÇÃO + EXPLICAÇÃO]\n[BÔNUS + EXPLICAÇÃO]\n[DESCONTO] só até [PRAZO]\n[QUANTIDADE DE BÔNUS]\n[RECURSOS DO CURSO]",
+  "legenda": "Aprenda [técnica artesanal] com aulas passo a passo e desenvolva [tipos de peças]. O curso inclui [recursos] e orientações para [comercialização]. Matrículas com [desconto] até [prazo real]. Confira [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo creme, roxo suave e verde oliva. Coloque título manuscrito no alto à esquerda, quatro benefícios com ícones abaixo e mosaico de fotos do produto da IMAGEM 2 à direita. Reserve faixa inferior para desconto, prazo e bônus confirmados. Inclua pequenos ícones dos recursos do curso e mantenha o texto legível.",
+  "alerta_politica": "Meta: não prometa renda garantida nem sugira conhecer a dificuldade financeira de quem vê o anúncio. Use desconto e prazo verificáveis; resultados de vendas dependem da execução individual.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2021950121779492",
+    "anunciante": "Mundo de Artesanías y Manualidades",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-23",
+    "dias_no_ar": 175,
+    "variacoes_ativas": 1,
+    "texto_original": "🎨 50% DE DESCUENTO SOLO HOY\n\n¿Necesitas generar ingresos pero no puedes salir de casa? ¿El dinero nunca alcanza y no sabes cómo empezar?\n\nMientras otros siguen en trabajos agotadores, hay mujeres generando desde casa con arcilla fría. 💰\n\nLa solución está en tus manos. El ingreso que necesitas puede llegar mientras creas algo hermoso. Solo falta que TÚ descubras esta oportunidad. ✨\n\nCrea piezas que se venden como:\n✨ Souvenirs personalizados para fiestas\n🎁 Porta fotos únicos y memorables\n🕯️ Porta velas decorativos\n🎮 Juegos de triqui artesanales\n🌸 Llaveros personalizados\n💎 Bandejas y servilleteros elegantes y mucho más...\n\nNo necesitas horno, experiencia previa ni miles de inversión. Solo necesitas ganas de generar, treinta minutos al día y treinta dólares para empezar. 🏠\n\n🎓 MI CURSO COMPLETO INCLUYE:\n💻 Acceso 100% online de por vida\n📹 Técnicas paso a paso desde cero\n👩🏫 Acompañamiento personalizado directo conmigo\n🎓 Certificado profesional al terminar\n💰 Cómo vender y fijar precios rentables\n📱 Estrategias de venta en redes y grupos locales\n🔄 Actualizaciones gratuitas con nuevas técnicas\n\n🔥 OFERTA ESPECIAL: 50% DE DESCUENTO SOLO HOY 🔥\n\n👉 Dale clic al botón de WHATSAPP para toda la información. Respondo todas tus preguntas y te ayudo a empezar tu negocio rentable.\nWHATSAPP\n50% DE DESCUENTO 👉\n+ de 1.000 estudiantes ✅",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-2021950121779492.jpg"
+}

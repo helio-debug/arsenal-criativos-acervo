@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-731240272249269",
+  "tipo": "estatico",
+  "titulo": "Livro de receitas natalinas com apelo de renda extra",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Mockup de livro com capa creme, enfeites natalinos dourados e foto de panetones cobertos de chocolate. A capa combina receitas para a família com uma alegação de renda extra de até R$7.000,00.",
+  "por_que_funciona": [
+    "O mockup com lombada torna o material de receitas visualmente concreto.",
+    "Os enfeites dourados no topo identificam de imediato a ocasião natalina.",
+    "A foto central mostra panetones com cobertura e castanhas, dando uma amostra das receitas.",
+    "O bloco em negrito abaixo da foto conecta o uso familiar à possibilidade de vender os preparos."
+  ],
+  "quando_usar": "Para divulgar um material de receitas sazonais a quem procura preparar produtos para vender no Natal, com expectativas de resultado responsáveis.",
+  "estrutura_texto": "[Receitas da ocasião]\n[Assinatura editorial]\n[Foto dos preparos]\n[Aproveite com a família e conheça receitas para vender em ocasião sazonal]\n[Marca]",
+  "legenda": "Prepare [receitas sazonais] para compartilhar com a família ou incluir no seu cardápio de vendas. Conheça [material de receitas] e veja os detalhes em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Monte um mockup de livro vertical com capa creme, lombada visível à direita e sombra discreta sobre fundo branco. No topo da capa, distribua pequenos enfeites natalinos dourados. Coloque um título preto grande em três linhas, uma foto central dos preparos ou do produto da IMAGEM 2 e um bloco curto em negrito abaixo com [benefício de uso] e [possibilidade de aplicação comercial, sem promessa de ganhos]. Reserve um pequeno espaço para a marca informada no rodapé. Não reproduza a alegação de renda da referência. Não copie a marca, o logotipo nem o local exato da IMAGEM 1.",
+  "alerta_politica": "A alegação de até R$7.000,00 de renda extra exige comprovação e contexto; não deve ser apresentada como resultado garantido ou típico. Evite promessas de ganhos fáceis ou certos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "731240272249269",
+    "anunciante": "mundo_da_dona_elvira",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2023-12-07",
+    "dias_no_ar": 1073,
+    "variacoes_ativas": 1,
+    "texto_original": "Maravilhosas receitas natalinas da Vó. clique no link da Bio e saiba mais. #receitas #receitasdenatal #natal #chef #rendaextra",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-731240272249269.jpg"
+}

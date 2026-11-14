@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-2141803383382065",
+  "tipo": "estatico",
+  "titulo": "Seguro auto com preço inicial e três benefícios",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Em fundo branco, uma chamada sobre elegibilidade aparece acima de três carros. Uma faixa verde concentra o preço mensal, seguida por três benefícios com ícones e botão de cotação.",
+  "por_que_funciona": [
+    "Três modelos de carro ilustram a amplitude anunciada na chamada.",
+    "O preço mensal ocupa a maior área tipográfica da faixa verde.",
+    "Os três ícones de confirmação permitem percorrer rapidamente coberturas e assistência.",
+    "O botão verde de cotação deixa a próxima ação visível no rodapé."
+  ],
+  "quando_usar": "Para captar cotações de seguro auto com preço de entrada e critérios de elegibilidade verificáveis.",
+  "estrutura_texto": "[Marca]\n[Seguro] para [público ou veículos elegíveis]\n[Condição de elegibilidade]\nA partir de [preço]/mês*\n[Cobertura]\n[Assistência]\n[Benefício operacional]\n[Cotação agora]\n*Consulte condições",
+  "legenda": "Conheça o [seguro auto] para [veículos elegíveis], com [coberturas] e [assistência]. Planos a partir de [preço]/mês, sujeitos a [análise e condições]. Solicite uma cotação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, título verde escuro em duas linhas e subtítulo laranja. Disponha três veículos recortados em uma fileira central. Abaixo, crie faixa verde arredondada com preço inicial grande, três colunas de benefícios com ícones de confirmação e botão largo de cotação. Preserve espaço legível para condições. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de seguros: informar coberturas, exclusões, elegibilidade e condições contratuais com clareza, conforme regras aplicáveis da SUSEP e do CDC. Não prometer aceitação ou proteção irrestrita; evitar alegações enganosas nas políticas da Meta. Alegações como qualquer carro e aprovação rápida exigem comprovação; o preço inicial deve ter condições de contratação identificáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2141803383382065",
+    "anunciante": "Grupo Attiva",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-28",
+    "dias_no_ar": 78,
+    "variacoes_ativas": 1,
+    "texto_original": "🚨 ATENÇÃO: condições liberadas por tempo limitado\n\nSeu carro está sem seguro… e você está contando com a sorte?\n\nHoje já é possível proteger QUALQUER carro, independente do ano, com cobertura completa.\n\nMas essa condição pode sair do ar a qualquer momento.\n\nA partir de R$ 62,40/mês*\n\n👉 Clique agora e faça sua cotação antes que acabe.\nProteja seu carro a partir de R$ 62,40*\n⚠️ Condições sujeitas à análise e podem mudar sem aviso.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-2141803383382065.jpg"
+}

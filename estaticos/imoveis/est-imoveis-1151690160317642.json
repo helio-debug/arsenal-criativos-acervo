@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1151690160317642",
+  "tipo": "estatico",
+  "titulo": "Interior decorado com renda familiar mínima",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Foto de sala integrada à área de jantar emoldurada por blocos magenta e turquesa. A base apresenta dois quartos e renda familiar a partir de um valor destacado.",
+  "por_que_funciona": [
+    "A sala mobiliada torna visível uma possibilidade de uso do apartamento.",
+    "A chamada sobre aluguel apresenta uma motivação concreta para a compra.",
+    "O valor de renda familiar está identificado como renda, dentro de um bloco próprio.",
+    "A faixa de dois quartos resume a configuração do imóvel."
+  ],
+  "quando_usar": "Para apresentar opções de compra e orientar consultas sobre elegibilidade ao financiamento.",
+  "estrutura_texto": "[Chamada sobre sair do aluguel]\n[Frase sobre nova moradia]\n[Marca]\n[Programa habitacional]\n[Quantidade de quartos]\nRenda familiar a partir de [valor]*\n*Consulte condições.\n[Endereço]",
+  "legenda": "Conheça apartamentos de [quantidade de quartos] em [região]. Consulte as condições de financiamento, a possibilidade de usar [recurso permitido] e os critérios de renda para esta opção. Solicite uma simulação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie blocos geométricos magenta e turquesa ao redor da foto central de um ambiente decorado. Mantenha chamada no alto à esquerda, marca própria no alto à direita e faixa inferior com quartos e renda familiar. Identifique o valor como renda mínima de referência, nunca como preço ou parcela, e inclua condições legíveis.",
+  "alerta_politica": "Ao divulgar financiamento habitacional, informe condições, critérios de renda e sujeição à análise de crédito. Não prometa aprovação, subsídio ou uso de recursos garantidos. Apresente entrada, parcelas e preço de forma clara e use identificação de programa público somente quando aplicável e autorizada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1151690160317642",
+    "anunciante": "Vivaz Residencial RJ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-07-29",
+    "dias_no_ar": 473,
+    "variacoes_ativas": 2,
+    "texto_original": "Chegou a sua hora! Compre seu apartamento próprio na Av. Geremário Dantas com pagamento facilitado, financiamento Minha Casa Minha Vida e possibilidade de usar o seu FGTS!\nSaia do Aluguel\nVivaz",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1151690160317642.jpg"
+}

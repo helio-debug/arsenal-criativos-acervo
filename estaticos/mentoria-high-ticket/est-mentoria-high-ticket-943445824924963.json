@@ -1,0 +1,36 @@
+{
+  "id": "est-mentoria-high-ticket-943445824924963",
+  "tipo": "estatico",
+  "titulo": "Dependência do fundador em cena de escritório",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Foto de um executivo trabalhando sentado, com três pessoas ao fundo. A chamada ocupa o topo e um botão azul aparece sobre a mesa.",
+  "por_que_funciona": [
+    "A frase sobre o fundador conecta a cena de trabalho individual ao tema da sucessão.",
+    "As pessoas ao fundo tornam visível a existência de uma equipe esperando espaço.",
+    "O botão azul se destaca da fotografia escurecida e oferece um próximo passo."
+  ],
+  "quando_usar": "Para consultorias de governança que querem despertar interesse em um diagnóstico de sucessão empresarial.",
+  "estrutura_texto": "[CATEGORIA DA CONSULTORIA]\nQuando tudo passa por [figura central], [consequência para a continuidade].\n[CTA DE PROTEÇÃO DO LEGADO] →",
+  "legenda": "A sucessão de [tipo de empresa] exige preparação. Avalie [regras e responsabilidades] com [diagnóstico gratuito] e identifique os próximos passos para [continuidade da gestão]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul-marinho, categoria pequena no alto com filete ciano, título branco grande alinhado à esquerda e fotografia de ambiente profissional na metade inferior. Se a foto do produto não representar pessoas, integre-a à cena sem inventar um porta-voz. Aplique degradê escuro, botão ciano com CTA curto e assinatura discreta no rodapé.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "943445824924963",
+    "anunciante": "GoNext Governança & Sucessão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 6,
+    "texto_original": "Sua empresa familiar está preparada para a sucessão?\n\n Transferência de liderança não é algo que acontece da noite para o dia. \n Exige governança, regras claras e alinhamento entre família, sócios e gestão.\n\n Descubra em qual estágio sua empresa se encontra com nosso Indicador de Maturidade de Governança! Proteja seu legado, reduza conflitos e garanta continuidade.\nClique aqui para saber mais!\nPrepare a sucessão da sua empresa\nFaça o diagnóstico gratuito e descubra o nível de maturidade da governança da sua empresa familiar.\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-943445824924963.jpg"
+}

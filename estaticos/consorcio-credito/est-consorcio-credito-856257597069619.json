@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-856257597069619",
+  "tipo": "estatico",
+  "titulo": "Saída do aluguel com foto de família",
+  "formato": "Produto em destaque",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com título azul no alto e foto de uma família diante de uma casa na metade inferior. A chamada para simular aparece sobre a foto.",
+  "por_que_funciona": [
+    "O contraste azul sobre amarelo destaca a promessa no topo.",
+    "A família diante da casa associa o plano a uma situação de moradia concreta.",
+    "As três condições aparecem agrupadas abaixo do título.",
+    "A chamada sobre a foto indica o aplicativo como próximo passo."
+  ],
+  "quando_usar": "Para divulgar consórcio imobiliário a quem está pesquisando a compra planejada da moradia.",
+  "estrutura_texto": "[Categoria]\nTroque [situação atual] por [objetivo desejado].\nPlaneje [bem] do seu jeito.\n[Condição 1].\n[Condição 2].\nSimule e contrate em [canal].",
+  "legenda": "Planeje a compra de [imóvel] com [condições do plano]. Consulte os custos, as regras de contemplação e faça uma simulação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo vivo, tipografia azul, título alinhado à esquerda no terço superior e foto contextual de família diante de uma casa ocupando a parte inferior com recorte diagonal. Posicione condições em corpo menor e CTA sobre área livre da foto.",
+  "alerta_politica": "Em anúncios de crédito e consórcio, informe taxas, custos e condições de forma clara. Não prometa aprovação, contemplação ou entrega imediata do bem. Consórcio depende de contemplação por sorteio ou lance; ausência de juros não elimina taxa de administração e outros encargos. Evite afirmar a situação financeira pessoal do público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "856257597069619",
+    "anunciante": "Banco do Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-11",
+    "dias_no_ar": 156,
+    "variacoes_ativas": 1,
+    "texto_original": "Conquiste seu imóvel com mais controle. Sem juros e sem IOF. Simule no app BB e comece agora.\nSaia do aluguel hoje mesmo",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-856257597069619.jpg"
+}

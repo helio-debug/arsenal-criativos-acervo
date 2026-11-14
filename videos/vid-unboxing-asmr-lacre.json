@@ -1,0 +1,73 @@
+{
+  "id": "vid-unboxing-asmr-lacre",
+  "tipo": "video",
+  "titulo": "Unboxing ASMR: lacre, encaixe e conteúdo da caixa",
+  "formato_video": "unboxing",
+  "nichos": [
+    "produtos-fisicos-marketplace"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Dá pra ouvir cada detalhe dessa abertura.",
+    "texto_tela": "Abrindo [produto]",
+    "visual": "Mãos rompem o lacre junto ao microfone"
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Mãos rompem o lacre junto ao microfone",
+      "fala": "[som do lacre; sem voz]",
+      "texto_tela": "Abrindo [produto]"
+    },
+    {
+      "tempo": "4-10s",
+      "cena": "Papel sai devagar, sem música",
+      "fala": "[som da embalagem; sem voz]",
+      "texto_tela": "Conteúdo da caixa"
+    },
+    {
+      "tempo": "10-18s",
+      "cena": "Cada componente é apoiado na mesa, um por vez",
+      "fala": "Vieram [itens realmente incluídos].",
+      "texto_tela": "O que acompanha"
+    },
+    {
+      "tempo": "18-25s",
+      "cena": "Produto é fechado e reaberto perto da câmera",
+      "fala": "O encaixe fica assim. Veja [modelo] e o que acompanha no anúncio.",
+      "texto_tela": "Confira os itens"
+    }
+  ],
+  "por_que_funciona": [
+    "A abertura mostra mãos rompem o lacre junto ao microfone, permitindo entender a tarefa antes da explicação.",
+    "A sequência mantém o mesmo produto como referência entre os cortes.",
+    "O fechamento exibe produto é fechado e reaberto perto da câmera, junto ao convite para conferir os dados."
+  ],
+  "quando_usar": "Para apresentar [produto] a quem já está comparando opções. Use quando houver material verificável para registrar a execução e especificações reais para preencher as medidas; a mecânica central é unboxing asmr: lacre, encaixe e conteúdo da caixa.",
+  "roteiro_modelo": "[Abertura] Dá pra ouvir cada detalhe dessa abertura.\n[0-4s] [som do lacre; sem voz]\n[4-10s] [som da embalagem; sem voz]\n[10-18s] Vieram [itens realmente incluídos].\n[18-25s] O encaixe fica assim. Veja [modelo] e o que acompanha no anúncio.\n[Fechamento] Os detalhes de [modelo], as condições de [oferta vigente] e as medidas estão na descrição. Confira antes de comprar.",
+  "tomadas_celular": [
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Mãos rompem o lacre junto ao microfone.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Papel sai devagar, sem música.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Cada componente é apoiado na mesa, um por vez.",
+    "Grave em vertical com celular no tripé, luz de janela lateral e exposição travada: Produto é fechado e reaberto perto da câmera."
+  ],
+  "caminho_ia": "Com fotos autorizadas do produto, monte os planos no CapCut e gere apenas fundos e movimentos de apoio no Veo ou Sora. Prompt de cena 1: \"Vídeo vertical, câmera fixa, luz difusa lateral, mãos rompem o lacre junto ao microfone, manter aparência e proporções da foto de referência, sem texto e sem logotipo inventado.\" Prompt de cena 2: \"Vídeo vertical, papel sai devagar, sem música, continuidade de posição e luz, movimento lento, sem elementos extras e sem texto.\" Insira rótulos e números no editor. Em testes de desempenho, textura ou caimento, use imagens reais fornecidas e aprovadas; se indisponíveis, produza uma animação esquemática identificada como simulação, sem apresentar resultado sintético como demonstração real. Grave locução sintética com o roteiro e revise continuidade e dados antes da exportação.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos no formato Unboxing ASMR: lacre, encaixe e conteúdo da caixa. Preserve esta mecânica: Mãos rompem o lacre junto ao microfone; Papel sai devagar, sem música; Cada componente é apoiado na mesa, um por vez; Produto é fechado e reaberto perto da câmera. Entregue hook falado, texto de tela, roteiro com tempos, legenda e um prompt por cena com câmera, luz, ação, duração e continuidade. Use pt-BR falado e [colchetes] para dados que faltam. Use só especificações fornecidas; não invente preço, depoimento, eficácia ou teste realizado. Identifique qualquer simulação. A referência serve de contexto de produto e oferta, sem copiar marcas. Não invente medidas, estoque, garantia nem condições comerciais.",
+  "legenda": "Veja [produto] de perto: unboxing asmr: lacre, encaixe e conteúdo da caixa. Os dados de [modelo] e as condições de [oferta vigente] estão na descrição. Confira [medida, composição ou compatibilidade] antes de escolher.",
+  "alerta_politica": null,
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "2136083016946936",
+      "dias_no_ar": 40,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy e arte estática de recipientes em grade. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    }
+  ],
+  "validacao": "media"
+}

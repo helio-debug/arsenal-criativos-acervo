@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1370543781803359",
+  "tipo": "estatico",
+  "titulo": "Inscrições abertas com retrato do instrutor",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Homem de camiseta azul com braços cruzados ocupa a esquerda sobre fundo escuro. À direita aparecem ícones de plataformas, a chamada de inscrições abertas e um botão verde.",
+  "por_que_funciona": [
+    "O retrato grande e sorridente dá um rosto à apresentação do curso.",
+    "“ABERTAS” em branco e grande evidencia o período de inscrição.",
+    "Os ícones no topo indicam as plataformas relacionadas à formação.",
+    "O botão verde destaca a ação de reservar a vaga sobre o fundo preto."
+  ],
+  "quando_usar": "Para abrir inscrições de uma formação com instrutor identificado e condições comerciais disponíveis.",
+  "estrutura_texto": "[ÍCONES DOS TEMAS]\nINSCRIÇÕES ABERTAS\nSeja um [PROFISSIONAL] [QUALIFICAÇÃO].\n[FORMação]\nGARANTA SUA VAGA!",
+  "legenda": "Estão abertas as inscrições para [formação]. Aprenda [competências abordadas] com [metodologia]. Pagamento em até [parcelas] e condição de [oferta] para [quantidade de vagas] até [prazo]. Confira os detalhes em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com luz azul discreta. Posicione uma pessoa autorizada em corte de meio corpo à esquerda e organize a oferta à direita. Inclua ícones autorizados dos temas no topo, chamada branca ampla, nome da formação no centro e botão verde abaixo. Adapte os textos para pt-BR usando os dados de MEU PRODUTO, sem inventar preços, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1370543781803359",
+    "anunciante": "Filipe Detrey",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-02",
+    "dias_no_ar": 165,
+    "variacoes_ativas": 1,
+    "texto_original": "Clique no botão e garanta agora sua vaga, o melhor curso de formação de gestor de tráfego profissional.\n\nAproveite as condições de pagamento em até 12X com valor especial para os primeiros 100 alunos este mês. \n\nClique em saiba mais.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1370543781803359.jpg"
+}

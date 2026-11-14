@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-1672401077152025",
+  "tipo": "estatico",
+  "titulo": "Assistência aos filhos com abraço em família",
+  "formato": "Produto em destaque",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Faixa verde apresenta o benefício do seguro de vida. A foto abaixo mostra um pai abraçando o filho, com um personagem de expressão triste sentado ao fundo.",
+  "por_que_funciona": [
+    "O abraço entre pai e filho dá uma representação concreta ao tema da proteção familiar.",
+    "A faixa verde separa a chamada da fotografia e concentra a leitura no benefício.",
+    "A assistência aos filhos aparece na chamada, tornando uma cobertura específica o argumento central.",
+    "O personagem triste ao fundo cria um contraste visual com a tranquilidade da família."
+  ],
+  "quando_usar": "Para divulgar seguro de vida a responsáveis por filhos, apresentando uma assistência específica antes da cotação.",
+  "estrutura_texto": "Com a certeza da [assistência] do [seguro], [incerteza] não tira seu sono.\nFale com [canal de atendimento].\n[Site]\n[Assinatura da marca]",
+  "legenda": "Dos planos de hoje à proteção de amanhã: conheça o [seguro de vida] e as [assistências e coberturas] disponíveis para sua família. Fale com [corretor] e consulte as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Reserve o terço superior para uma faixa verde com chamada branca alinhada à esquerda e pequeno espaço para a identidade da marca. Nos dois terços inferiores, mostre uma cena doméstica acolhedora de responsável e criança se abraçando, com elemento simbólico de preocupação ao fundo. Inclua canal de contato no rodapé. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de seguros: informar coberturas, exclusões, elegibilidade e condições contratuais com clareza, conforme regras aplicáveis da SUSEP e do CDC. Não prometer aceitação ou proteção irrestrita; evitar alegações enganosas nas políticas da Meta.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1672401077152025",
+    "anunciante": "HDI Seguros Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-16",
+    "dias_no_ar": 90,
+    "variacoes_ativas": 1,
+    "texto_original": "Dos sonhos de hoje à segurança de amanhã, o Seguro HDI Vida é a certeza de proteger quem mais importa. Ampla assistência e coberturas especiais\nFale com seu corretor",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-1672401077152025.jpg"
+}

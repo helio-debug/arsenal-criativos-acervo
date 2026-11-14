@@ -1,0 +1,95 @@
+{
+ "id": "vid-live-objecao-encenada",
+ "titulo": "Corte de videoconferência com especialista encenando uma objeção e sua resposta",
+ "formato_video": "corte-live",
+ "nichos": [
+  "marketing-trafego",
+  "mentoria-high-ticket",
+  "educacao-concursos"
+ ],
+ "tipo_solucao": "mentoria-consultoria",
+ "oferta": "garantia",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "duracao": "65-85s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Cliente: “Gostei, mas vou comparar com [outra opção].”",
+  "texto_tela": "Como responder a: “Vou comparar”",
+  "visual": "Chamada em duas faixas: participante menor acima e especialista com microfone ampliado abaixo; caixa amarela entre os rostos."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-9s",
+   "cena": "Chamada empilhada com título amarelo. Especialista anuncia a simulação e muda a voz ao representar o cliente.",
+   "fala": "Vamos ensaiar uma conversa sobre [produto]. Cliente: “Gostei, mas vou comparar com [outra opção].”",
+   "texto_tela": "Como responder a: “Vou comparar”"
+  },
+  {
+   "tempo": "9-21s",
+   "cena": "Retira o título e mantém os dois participantes no quadro.",
+   "fala": "Atendente: “Certo. O que você quer conferir nessa comparação? [Critério de escolha] pesa mais na sua decisão? Posso explicar como esse ponto funciona aqui.”",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "21-35s",
+   "cena": "Amplia o especialista na faixa inferior. A faixa superior passa a mostrar seu plano mais aberto.",
+   "fala": "Cliente: “Quero entender [dúvida concreta].” Atendente: “Em [produto], isso funciona assim: [explicação objetiva]. A proposta inclui [entrega] e tem [limite ou requisito]. Vou te mandar esses pontos por escrito.”",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "35-50s",
+   "cena": "Especialista mantém a resposta em tom calmo, microfone visível.",
+   "fala": "Atendente: “Sobre a garantia: [prazo real] para [cobertura prevista]. Para solicitar, use [canal] e siga [condição aplicável]. Confira os termos antes de decidir. Se algum ponto ficar aberto, a gente esclarece.”",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "50-65s",
+   "cena": "Mesmo recorte empilhado; pequena pausa separa simulação e comentário do professor.",
+   "fala": "Saindo da simulação: a pessoa pediu tempo para comparar. A resposta precisa explicar [critério] e deixar as condições acessíveis. Só apresente uma garantia que exista na sua oferta. Evite pressionar a compra com a ideia de cancelar depois.",
+   "texto_tela": "—"
+  },
+  {
+   "tempo": "65-80s",
+   "cena": "Especialista olha para a lente e encerra a orientação.",
+   "fala": "Para adaptar essa conversa a [produto], anote a objeção que você mais recebe e confira sua proposta. Troque [critério] pelo ponto que o cliente citou. Salve este exemplo para preparar a próxima conversa.",
+   "texto_tela": "—"
+  }
+ ],
+ "por_que_funciona": [
+  "A caixa amarela traz a objeção antes da explicação e ocupa a divisão entre os participantes.",
+  "O rosto ampliado e o microfone visível mantêm a resposta com aparência de trecho de aula.",
+  "A fala alterna cliente e atendente para mostrar a resposta em uso, em vez de apenas listar uma recomendação.",
+  "Nos frames seguintes, o título sai e a mesma pessoa aparece em dois recortes, concentrando a atenção na fala."
+ ],
+ "quando_usar": "Para quem vende orientação, cursos ou serviços e recebe pedidos de comparação antes da compra. Use no meio do funil para ensinar uma conversa de venda com condições claras.",
+ "roteiro_modelo": "Vamos ensaiar uma conversa sobre [produto]. Cliente: “Gostei, mas vou comparar com [outra opção].”\n\n[pausa / corte]\n\nAtendente: “Certo. O que você quer conferir nessa comparação? [Critério de escolha] pesa mais na sua decisão? Posso explicar como esse ponto funciona aqui.”\n\n[pausa / corte]\n\nCliente: “Quero entender [dúvida concreta].” Atendente: “Em [produto], isso funciona assim: [explicação objetiva]. A proposta inclui [entrega] e tem [limite ou requisito]. Vou te mandar esses pontos por escrito.”\n\n[pausa / corte]\n\nAtendente: “Sobre a garantia: [prazo real] para [cobertura prevista]. Para solicitar, use [canal] e siga [condição aplicável]. Confira os termos antes de decidir. Se algum ponto ficar aberto, a gente esclarece.”\n\n[pausa / corte]\n\nSaindo da simulação: a pessoa pediu tempo para comparar. A resposta precisa explicar [critério] e deixar as condições acessíveis. Só apresente uma garantia que exista na sua oferta. Evite pressionar a compra com a ideia de cancelar depois.\n\n[pausa / corte]\n\nPara adaptar essa conversa a [produto], anote a objeção que você mais recebe e confira sua proposta. Troque [critério] pelo ponto que o cliente citou. Salve este exemplo para preparar a próxima conversa.",
+ "tomadas_celular": [
+  "Grave o professor sentado em plano médio horizontal para a faixa superior, janela à frente e celular apoiado; 15s de abertura.",
+  "Com a mesma luz, grave o outro participante ouvindo em plano de peito; 12s, com autorização para uso.",
+  "Grave o especialista em plano fechado vertical, microfone ou fone visível e luz frontal suave; 25s para pergunta e resposta.",
+  "Mesmo plano e luz; grave 15s explicando a garantia real sem improvisar os termos.",
+  "Plano fechado com luz frontal; grave 15s de comentário fora da simulação.",
+  "Mesmo enquadramento; grave 15s do fechamento e recorte os trechos na montagem."
+ ],
+ "caminho_ia": "Sem gravar, crie dois avatares fictícios com vozes sintéticas e monte uma chamada encenada no CapCut. Para fundos no Veo: \"Static medium shot of a fictional online instructor in a neutral home office, desk microphone in foreground, soft frontal daylight, eye-level camera, no logos or text, [product topic], 8 seconds.\" e \"Static webcam-style chest-up shot of a fictional adult participant listening in a bright office, subtle nod, soft window light, no interface labels, [product audience], 6 seconds.\" Identifique como simulação. Empilhe o participante acima e o professor ampliado abaixo; não use avatar para fingir depoimento ou aula real de outra pessoa.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato. Use meu produto como fonte do conteúdo.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie uma simulação didática 9:16 de 80s, com chamada empilhada. Blocos: 0-9s objeção falada e título amarelo; 9-21s pergunta sobre critério real; 21-35s resposta e limite da entrega; 35-50s garantia com termos; 50-65s comentário do professor; 65-80s orientação para adaptar e salvar. Tom calmo de aula, pausas entre os papéis e câmera quase fixa. O título some após a abertura; não acrescente legendas corridas como elemento obrigatório. Remova nomes da interface. Não copie o argumento jurídico da referência nem trate garantia comercial como direito universal. Não sugira comprar para cancelar depois. Use [prazo], [cobertura] e [condições] se não houver dados. Não copie nomes, rostos, marcas, domínios, números ou falas da referência. Não invente resultados, depoimentos, experiência ou condições comerciais. Escreva em pt-BR falado, com frases curtas, sem superlativos, antíteses vazias, tríades decorativas ou fechos de efeito. Termine com uma ação concreta.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Objeção: “[frase real do cliente]”. Antes de responder, confira qual ponto ele quer comparar. Use [critério] para explicar sua entrega e apresente [garantia real] com os termos. Salve para adaptar à próxima conversa.",
+ "alerta_politica": "Garantia anunciada deve corresponder à oferta e informar prazo, cobertura, condições e canal de solicitação. Não afirme que todo contrato tem o mesmo direito de cancelamento nem use reembolso como pressão para comprar.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-cbca4ab0",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-live-objecao-encenada/frames/f1.jpg",
+    "videos/vid-live-objecao-encenada/frames/f2.jpg",
+    "videos/vid-live-objecao-encenada/frames/f3.jpg",
+    "videos/vid-live-objecao-encenada/frames/f4.jpg",
+    "videos/vid-live-objecao-encenada/frames/f5.jpg"
+   ]
+  }
+ ]
+}

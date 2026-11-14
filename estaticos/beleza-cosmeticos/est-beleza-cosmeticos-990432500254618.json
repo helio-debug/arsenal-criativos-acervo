@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-990432500254618",
+  "tipo": "estatico",
+  "titulo": "Kit de cuidados com a pele com preço e prazo",
+  "formato": "Oferta e promoção",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Kit de três cosméticos sobre pedestal claro com flores rosas. À esquerda, chamada provocativa sobre o preço, valor anterior riscado, preço promocional grande e aviso de prazo.",
+  "por_que_funciona": [
+    "O preço promocional em verde escuro domina o bloco comercial.",
+    "O valor anterior riscado oferece referência para comparar a redução.",
+    "Os três produtos juntos mostram o conteúdo do kit.",
+    "Flores e pedestal criam uma apresentação delicada ligada a cuidados com a pele."
+  ],
+  "quando_usar": "Para promover kit de cosméticos com desconto verificável e prazo real de encerramento.",
+  "estrutura_texto": "[Chamada de surpresa sobre a oferta]\n[Kit completo por este preço]\nOFERTA [tipo]\nDe R$ [valor anterior]\nPor R$ [valor atual]\n[Prazo]\n[Benefício cosmético comprovado]",
+  "legenda": "Conheça o kit [nome do kit] para [cuidado cosmético]. Inclui [produtos do kit] por [preço], até [prazo real]. Veja as condições em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical em creme e rosa suave, com flores decorativas e pedestal de pedra claro. Posicione os produtos da IMAGEM 2 agrupados à direita e texto verde escuro à esquerda. Destaque preço atual muito grande, preço anterior riscado e selo de prazo dourado. Substitua a ameaça de demissão por uma chamada factual sobre o kit. Use apenas benefícios cosméticos comprovados e condições reais.",
+  "alerta_politica": "Cosméticos: evitar promessa de transformação garantida, pele perfeita ou efeito terapêutico. Benefícios devem ter respaldo. Não reproduzir ameaça fictícia de demissão ou urgência falsa como justificativa do preço.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "990432500254618",
+    "anunciante": "Kokeshi",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-27",
+    "dias_no_ar": 140,
+    "variacoes_ativas": 2,
+    "texto_original": "✨ Descubra a Pele de Porcelana! ✨\n\nTransforme sua pele com nossa linha exclusiva de cosméticos, feita especialmente para realçar a beleza. Nossos produtos hidratam, iluminam e proporcionam uma textura suave e radiante. \n\n🌸 Sinta-se confiante e linda em qualquer idade! \n\n👉 Clique e conheça a linha que vai fazer você brilhar!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-990432500254618.jpg"
+}

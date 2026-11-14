@@ -1,0 +1,37 @@
+{
+  "id": "est-imoveis-1100494128890532",
+  "tipo": "estatico",
+  "titulo": "Vista da varanda com mensalidade em destaque",
+  "formato": "Oferta e promoção",
+  "nicho": "imoveis",
+  "tipo_solucao": "imovel",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Uma varanda com vista para montanhas preenche a peça. Texto branco apresenta quartos e vaga, enquanto faixas turquesa e magenta destacam lançamento, proximidade da praia e mensalidade.",
+  "por_que_funciona": [
+    "O guarda-corpo e a vista mostram a varanda mencionada no texto.",
+    "A mensalidade tem o maior corpo tipográfico da metade inferior.",
+    "A distância em minutos associa a localização a um destino específico.",
+    "O selo circular no topo reforça a mensagem de procura pelo empreendimento."
+  ],
+  "quando_usar": "Para campanhas de lançamento com condições de pagamento verificadas e localização como argumento de venda.",
+  "estrutura_texto": "[Marca]\n[Selo de desempenho comprovado]\n[Quantidade de quartos] com [diferencial]\ne [opcional].\nNOVO LANÇAMENTO\nA [tempo] de [ponto de interesse]\nMensais a partir de [valor]*\n[Programa habitacional]\n*Consulte condições.",
+  "legenda": "Apartamentos de [quantidade de quartos] com [diferencial] em [região], próximos de [ponto de interesse]. Conheça o lançamento e consulte a composição do pagamento, as parcelas e as condições de financiamento.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a fotografia de uma varanda com vista como fundo integral. Aplique textos brancos à esquerda, selo próprio pequeno no topo e faixas turquesa e magenta na metade inferior. Destaque lançamento, referência de localização e mensalidade. Reserve área legível para entrada, demais parcelas e condições; só use selo de vendas e tempo de deslocamento com comprovação.",
+  "alerta_politica": "Ao divulgar financiamento habitacional, informe condições, critérios de renda e sujeição à análise de crédito. Não prometa aprovação, subsídio ou uso de recursos garantidos. Apresente entrada, parcelas e preço de forma clara e use identificação de programa público somente quando aplicável e autorizada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1100494128890532",
+    "anunciante": "Vivaz Residencial RJ",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-14",
+    "dias_no_ar": 457,
+    "variacoes_ativas": 1,
+    "texto_original": "Sua chance de morar pertinho do Shopping Metropolitano Barra e a apenas 10 minutos da Praia da Barra!\n2 quartos com varanda\nPróximo à Barra.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/imoveis/est-imoveis-1100494128890532.jpg"
+}

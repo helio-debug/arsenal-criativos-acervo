@@ -1,0 +1,81 @@
+{
+ "id": "vid-depoimento-crenca",
+ "tipo": "video",
+ "titulo": "Depoimento curto: receio inicial, experiência positiva e convite",
+ "formato_video": "depoimento",
+ "nichos": [
+  "saude",
+  "estetica-clinicas",
+  "educacao-concursos",
+  "emagrecimento-fitness"
+ ],
+ "tipo_solucao": "servico-online",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "fundo",
+ "duracao": "18s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Eu adiava [ação] por causa de [receio real].",
+  "texto_tela": "Eu adiava [ação]",
+  "visual": "Pessoa centralizada em plano médio diante de cortina clara; legenda branca em negrito sobre a blusa escura."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Plano médio do tronco para cima diante de cortina lisa, olhar na lente.",
+   "fala": "Eu adiava [ação] por causa de [receio real].",
+   "texto_tela": "Eu adiava [ação]"
+  },
+  {
+   "tempo": "4-8s",
+   "cena": "Mesmo quadro; abra as mãos ao explicar o primeiro uso.",
+   "fala": "Quando usei [produto], consegui [ação concreta vivida].",
+   "texto_tela": "Consegui [ação concreta]"
+  },
+  {
+   "tempo": "8-13s",
+   "cena": "Mãos à frente do tronco; faça uma pausa antes do detalhe.",
+   "fala": "O que facilitou foi [detalhe real da experiência], porque [razão prática].",
+   "texto_tela": "[Detalhe da experiência]"
+  },
+  {
+   "tempo": "13-18s",
+   "cena": "Feche com olhar direto, mãos baixas e expressão natural.",
+   "fala": "Para conhecer [recurso], veja como funciona em [canal].",
+   "texto_tela": "Conheça [recurso]"
+  }
+ ],
+ "por_que_funciona": [
+  "A fala de abertura apresenta uma crença anterior em primeira pessoa, acompanhada por legenda em negrito.",
+  "A cortina clara e a blusa escura mantêm o rosto e as legendas como pontos de atenção.",
+  "As mãos se abrem na passagem para o relato da experiência, sem mudar de cenário.",
+  "O plano médio permanece até o convite; não há montagem de resultados físicos para sustentar o relato."
+ ],
+ "quando_usar": "Para produtos e serviços cujo uso real tenha um detalhe capaz de responder a uma objeção. Use no fundo do funil com relato autorizado de cliente; sem relato real, adapte para apresentação demonstrativa e retire a primeira pessoa de cliente.",
+ "roteiro_modelo": "Eu adiava [ação] por causa de [receio real].\n\n[Pausa curta / corte]\n\nQuando usei [produto], consegui [ação concreta vivida].\n\n[Pausa curta / corte]\n\nO que facilitou foi [detalhe real da experiência], porque [razão prática].\n\n[Pausa curta / corte]\n\nPara conhecer [recurso], veja como funciona em [canal].",
+ "tomadas_celular": [
+  "Receio inicial de 4s: plano médio vertical até a cintura, cortina clara, luz frontal difusa e olhar na lente.",
+  "Primeiro uso de 4s: mesmo quadro e luz, mãos abertas; peça à pessoa que conte só o que realmente ocorreu.",
+  "Detalhe de 5s: câmera fixa na altura dos olhos, luz suave, gesto pequeno indicando [detalhe].",
+  "Convite de 5s: mesmo plano e luz, mãos relaxadas; deixe um segundo de respiro após a última palavra."
+ ],
+ "caminho_ia": "Sem gravar, use avatar ficcional com aviso visível de dramatização e voz sintética autorizada. Troque o depoimento por demonstração: \"Veja como [produto] funciona. O primeiro passo é [ação]. O recurso [detalhe] permite [uso verificável]. Confira em [canal].\" No Veo, use: \"Vertical 9:16 medium shot of a fictional adult presenter centered in front of plain white curtains, dark solid shirt, soft frontal daylight, natural open-hand gesture, locked camera, no logos, no text.\" E: \"Vertical 9:16 medium shot of the same fictional adult presenter against white curtains, relaxed hands and direct eye contact, subtle natural smile, soft even lighting, five seconds, no text.\" Sincronize com avatar e monte as legendas em negrito no CapCut. Não apresente a pessoa gerada como cliente nem invente experiência de uso.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura do formato; adapte o conteúdo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nFaça 18s em quatro blocos: 0-4 receio real, 4-8 ação realizada, 8-13 detalhe verificável e 13-18 convite. Pessoa em plano médio diante de cortina clara, roupa lisa escura, gestos pequenos e legendas brancas em negrito sobre o tronco. Tom de relato simples, sem dramatização de sofrimento. Só escreva em primeira pessoa se eu fornecer depoimento real autorizado; caso contrário, entregue demonstração narrada, sem testemunho inventado. Não copie identidade, nomes, frases nem alegações de saúde da referência. Use pt-BR falado, frases curtas e campos [adaptáveis] quando faltarem dados. Sem antítese vazia, tríades decorativas, superlativos sem prova, perguntas de enfeite ou fecho de efeito. Não copie marcas, pessoas, contatos ou textos da referência. Não invente oferta, função ou resultado. Em saúde, não atribua condição pessoal ao espectador nem prometa resultado.\n\nEntregue o roteiro falado completo no formato descrito, com tempos, a legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "[Detalhe real do produto] na prática: [descrição breve do uso]. Confira como funciona e as condições em [canal].",
+ "alerta_politica": "Meta: não atribua ao espectador condição de saúde física ou mental; fale da situação e do serviço sem diagnóstico presumido. Sem antes/depois de corpo nem promessa de resultado de saúde. Em publicidade médica, siga a Resolução CFM 2.336/2023, com identificação profissional e sem garantia de resultado (https://publicidademedica.cfm.org.br/resolucao/o-que-muda). Para psicologia, respeite as regras do CFP e o sigilo. Se houver produto sujeito à ANVISA, use apenas alegações e indicações autorizadas.",
+ "validacao": "media",
+ "referencias": [
+  {
+   "origem": "acervo-interno",
+   "url_ou_id": "ref-ac4c6dd8",
+   "dias_no_ar": null,
+   "views": null,
+   "frames": [
+    "videos/vid-depoimento-crenca/frames/f1.jpg",
+    "videos/vid-depoimento-crenca/frames/f2.jpg",
+    "videos/vid-depoimento-crenca/frames/f3.jpg",
+    "videos/vid-depoimento-crenca/frames/f4.jpg"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,38 @@
+{
+  "id": "est-renda-extra-3017158345147533",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com ilustração de duas mulheres",
+  "formato": "novo:Convite de parceria",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com assinatura no topo e convite verde à venda de produtos naturais. Duas mulheres ilustradas e folhagens coloridas ocupam a metade inferior.",
+  "por_que_funciona": [
+    "O amarelo uniforme destaca a mensagem verde sem outros blocos de oferta.",
+    "A palavra “GANHE” em negrito concentra a leitura no benefício proposto.",
+    "A ilustração de duas mulheres abraçadas cria uma cena de proximidade.",
+    "As folhas conectam visualmente a oportunidade à categoria de produtos naturais."
+  ],
+  "quando_usar": "Para apresentar programas de revenda e despertar interesse antes de explicar margem, cadastro e funcionamento.",
+  "estrutura_texto": "[MARCA]\nTrabalhe com [CATEGORIA] e [BENEFÍCIO POTENCIAL]!",
+  "legenda": "Conheça a oportunidade de revender [categoria]. O cadastro é [condição] e inclui [treinamentos disponíveis]. Consulte o desconto de revenda, os custos e as regras em [link]. Os resultados dependem das vendas realizadas.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo intenso, identificação própria pequena no topo e mensagem verde centralizada no terço superior, destacando apenas uma expressão em negrito. Na metade inferior, componha ilustração de duas pessoas adultas com folhagens e formas rosa, verde e azul; use a IMAGEM 2 como referência da categoria de produto. Não prometa ganhos certos. Escreva em pt-BR e adapte as informações aos dados de MEU PRODUTO.",
+  "alerta_politica": "Meta: não prometer renda, lucro garantido ou ganhos sem esforço. Informar condições, custos e critérios da oportunidade; resultados dependem da atividade e não são assegurados. Para produtos naturais, evitar alegações de cura ou benefícios terapêuticos sem autorização e comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3017158345147533",
+    "anunciante": "Phytoterápica Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-15",
+    "dias_no_ar": 183,
+    "variacoes_ativas": 2,
+    "texto_original": "Você gostaria de ganhar uma renda extra, trabalhando com bem-estar e ajudando as pessoas a se cuidarem de forma natural?\nSer consultor(a) de óleos essenciais da Phytoterápica uma forma de unir propósito com lucro.\nVocê faz seu cadastro gratuitamente, recebe acesso a treinamentos, e pode comprar todos os produtos com 30% de desconto para revender e lucrar.\nVocê não precisa ter experiência com vendas. E o melhor: pode trabalhar do seu jeito, nos horários que quiser e de onde estiver.\nQuer saber como começar?\nClica aqui e converse conosco. Vamos te explicar todos os detalhes.\nPhytoterápica | Seja Consultor(a)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-3017158345147533.jpg",
+  "formato_novo_def": "Convite publicitário para aderir a um programa de revenda ou afiliação, centrado no papel do participante e no benefício de participar, com ilustração ou mockup como apoio."
+}

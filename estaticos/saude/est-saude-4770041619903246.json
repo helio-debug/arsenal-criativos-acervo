@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-4770041619903246",
+  "tipo": "estatico",
+  "titulo": "Capa educativa de mitos e verdades sobre Alzheimer",
+  "formato": "Alerta e educação",
+  "nicho": "saude",
+  "tipo_solucao": "servico-local",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Capa laranja com título branco sobre mitos e verdades e seta para continuar. Uma foto central de mulher idosa é cercada por traços lilases; a assinatura aparece em um bloco lilás na base.",
+  "por_que_funciona": [
+    "O título anuncia um conteúdo organizado em dúvidas comuns.",
+    "A seta junto ao subtítulo sinaliza continuação em outros cards.",
+    "O fundo laranja dá contraste ao texto branco e à fotografia.",
+    "A foto central aproxima visualmente o tema do envelhecimento."
+  ],
+  "quando_usar": "Para abrir um carrossel educativo de um serviço de saúde ou estimulação cognitiva, com conteúdo revisado por profissional habilitado.",
+  "estrutura_texto": "Mitos e verdades\nsobre [tema de saúde] →\n[Foto contextual]\n[Marca]\n[Área de atuação]",
+  "legenda": "Informação confiável ajuda a compreender [tema de saúde] e apoiar quem precisa. Reunimos dúvidas comuns e explicações baseadas em [fontes confiáveis]. Deslize os cards e confira. Para orientação individual, procure [profissional habilitado].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo laranja, título branco grande no topo e subtítulo menor com seta lilás. Coloque foto contextual autorizada no centro, com cantos parcialmente arredondados, linhas curvas lilases ao redor e bloco de assinatura na base. Use o material fornecido sem associar a pessoa fotografada a um diagnóstico.",
+  "alerta_politica": "Meta: não atribua diagnóstico ou condição de saúde ao público nem sugira que a pessoa retratada tem Alzheimer. Não prometa cura, reversão ou prevenção garantida; revise alegações com fontes confiáveis e cumpra as normas do conselho profissional aplicável.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4770041619903246",
+    "anunciante": "Método Supera",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-05",
+    "dias_no_ar": 40,
+    "variacoes_ativas": 1,
+    "texto_original": "Informação de qualidade e confiável faz toda a diferença quando falamos sobre demências. E com a doença de Alzheimer não é diferente! 🧠💜\n\nEntender o que é mito e o que é verdade ajuda a reconhecer melhor a doença, apoiar quem está passando por isso e conhecer formas de prevenção.\nPor isso, preparamos um carrossel com mitos e verdades sobre a doença de Alzheimer para você descobrir o que realmente faz sentido e o que não passa de boato.\n\nDeslize os cards e confira! \n\nE para falar um pouco mais sobre a importância do setembro lilás e do Despertando a Sociedade para a Saúde do Cérebro, nossa parceira, gerontóloga e uma das palestrantes do evento, Profa. Dra. Thais Bento, deixou uma mensagem especial. \n\n“O setembro lilás é uma campanha mundial para garantir os direitos humanos e cuidados com a pessoa que vivem com a demência, estudos científicos apontam que para combatermos os estigmas relacionados às demências precisamos informar e educar a população sobre as demências, sua prevenção e tratamento. Por isso trouxemos aqui alguns mitos e verdades relacionados à doença de Alzheimer.\n\nEstudos realizados pela Alzheimers Disease International (2026) mostram que a forma como a demência é apresentada e discutida publicamente influencia as atitudes em relação às pessoas que vivem com essa condição. Uma comunicação baseada apenas em incapacidade e declínio pode reforçar emoções negativas e estereótipos. Por outro lado, abordagens que apresentam a pessoa para além do diagnóstico podem contribuir para atitudes mais positivas e menos estigmatizantes.\n\nAproveitamos para convidá-los para a 8ª edição do evento: Despertando a Sociedade para a Saúde do Cérebro 2026, um evento do Supera realizado em parceria com a Associação Brasileira de Gerontologia (ABG) com especialistas das diferentes áreas. \n\nUm evento gratuito, que acontecerá no contexto presencial e no formato remoto no canal do método Supera, @metodosupera, com emissão de certificado de participação. \n\nComente “eu quero” e receba pela DM o link para inscrever-se no evento ou acesse o link disponível na bio do Instagram.\n\nEndereço: Edifício Bunkyo. Rua São Joaquim, 381, Liberdade, São Paulo (SP)”",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-4770041619903246.jpg"
+}

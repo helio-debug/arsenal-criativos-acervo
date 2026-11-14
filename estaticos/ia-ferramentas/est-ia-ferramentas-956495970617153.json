@@ -1,0 +1,37 @@
+{
+  "id": "est-ia-ferramentas-956495970617153",
+  "tipo": "estatico",
+  "titulo": "Segurança em campo com equipamento em primeiro plano",
+  "formato": "Alerta e educação",
+  "nicho": "ia-ferramentas",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Equipamento laranja aparece em primeiro plano diante de um caminhão e de uma equipe em manutenção elétrica. Setas laranjas percorrem a cena sob um título branco sobre segurança.",
+  "por_que_funciona": [
+    "O equipamento ampliado cria um ponto focal ligado à tecnologia usada em campo.",
+    "A equipe e o caminhão mostram o contexto de aplicação.",
+    "As setas laranjas conduzem o olhar entre título, equipamento e operação.",
+    "O título branco aproveita o céu como área de leitura."
+  ],
+  "quando_usar": "Para apresentar uma aplicação de monitoramento inteligente em segurança operacional e contextualizar uma iniciativa institucional.",
+  "estrutura_texto": "Toda [transformação]\nque traz\nmais [benefício]\ncomeça com [tema da marca].",
+  "legenda": "Em [operação], [solução de monitoramento] ajuda a identificar [situações de risco] para apoiar a proteção das equipes. Conheça a iniciativa e seu funcionamento em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto externa de uma operação técnica ao fim da tarde. Dê destaque ao equipamento da IMAGEM 2 em primeiro plano, com equipe e veículo ao fundo. Insira título branco na área de céu e linhas laranjas com setas que conectem os pontos da cena. Não copie o local, trabalhadores ou marcas da referência. Retrate procedimentos e equipamentos de proteção adequados, sem prometer eliminação total de riscos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "956495970617153",
+    "anunciante": "CPFL Energia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-11-12",
+    "dias_no_ar": 2,
+    "variacoes_ativas": 1,
+    "texto_original": "Todos os dias, milhares de atividades são realizadas para manter o sistema elétrico em funcionamento.\n \nPara proteger as equipes que estão em campo, a CPFL desenvolveu câmeras inteligentes que identificam em tempo real comportamentos de risco durante a execução das atividades. \n\nO resultado é mais proteção para quem trabalha todos os dias para levar energia a residências, comércios e indústrias.\nQuer saber mais sobre as ações da CPFL?",
+    "origem_coleta": "novo"
+  },
+  "validacao": "fraca",
+  "arquivo": "estaticos/ia-ferramentas/est-ia-ferramentas-956495970617153.jpg"
+}

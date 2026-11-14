@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1041660338545337",
+  "tipo": "estatico",
+  "titulo": "Mestrado no exterior com destaque para bolsas",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Fotografia de um edifício monumental preenche o fundo. Faixas claras destacam titulação e destino do mestrado, e uma faixa verde na base anuncia bolsas com identificação institucional.",
+  "por_que_funciona": [
+    "A fotografia situa visualmente a proposta de estudar no exterior.",
+    "A faixa branca mantém a chamada principal legível sobre a arquitetura.",
+    "A faixa verde separa a informação sobre bolsas da chamada do curso.",
+    "A linha final acrescenta emprego e estágios como apoio à decisão."
+  ],
+  "quando_usar": "Para divulgar formação internacional com bolsas e parcerias verificáveis.",
+  "estrutura_texto": "[Tipo de titulação]\n[Instituições]\nEstude [formação] em [destino]\n[Bolsas disponíveis]\n[Entidade parceira, se comprovada]\n[Serviço de apoio profissional]",
+  "legenda": "Estude [formação] em [destino], com [condições de titulação]. Conheça os critérios para [bolsas disponíveis] e os detalhes de [curso complementar, se incluído]. Consulte requisitos, custos e processo de inscrição em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use foto de arquitetura do destino como fundo, diferente da referência. No topo, inclua pequena chamada de titulação e identidades próprias autorizadas. No centro, coloque título preto grande sobre faixa branca translúcida. Na base, use faixa verde para condições de bolsas e uma linha complementar de apoio profissional. Use a IMAGEM 2 como material do produto quando pertinente. Só inclua parcerias, bolsas e titulação comprovadas, sem sugerir emprego garantido.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1041660338545337",
+    "anunciante": "Next Educación",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-16",
+    "dias_no_ar": 151,
+    "variacoes_ativas": 2,
+    "texto_original": "Gostaria de ESTUDAR um MASTER em MADRI?\n✅ Curso Intensivo de Espanhol gratuito incluído\n✅ Aprender com profissionais de sucesso que ENSINAM a partir da sua EXPERIÊNCIA PROFISSIONAL",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1041660338545337.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1984551399095937",
+  "tipo": "estatico",
+  "titulo": "Especialização online com composição dividida",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "A metade esquerda em fundo claro apresenta modalidade, nome da formação e uma frase de apoio. A metade direita traz padrão geométrico em tons de turquesa com brasão central.",
+  "por_que_funciona": [
+    "A divisão em duas metades separa informação e identidade visual.",
+    "O nome da formação em preto tem alto contraste com o fundo claro.",
+    "O selo 100% online torna a modalidade fácil de localizar.",
+    "A frase curta abaixo do título delimita os conteúdos da formação."
+  ],
+  "quando_usar": "Para apresentar uma especialização a pessoas que já reconhecem a área de interesse.",
+  "estrutura_texto": "[Selo de pós-graduação]\n[Modalidade]\n[Nome do curso]\n[Conteúdos e diferencial]\n[Identidade da instituição]",
+  "legenda": "Desenvolva suas habilidades em [área] com a especialização [curso]. Estude [conteúdos] em [modalidade], com [dinâmica de ensino] e [certificações disponíveis]. Conheça a grade e as condições.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida o anúncio em duas metades: esquerda em branco quente com selo pequeno no topo, modalidade e título preto grande; direita com padrão geométrico turquesa em dois tons e identidade própria central. Use a IMAGEM 2 discretamente se adequada à identidade do produto. Mantenha bastante espaço livre e uma frase curta abaixo do título.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1984551399095937",
+    "anunciante": "Educação Continuada da PUC-Rio com CCEC - PUC- Rio",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-10",
+    "dias_no_ar": 157,
+    "variacoes_ativas": 2,
+    "texto_original": "O mercado da TI está cada vez mais competitivo. E você está pronto para se destacar nele? \n\nEstude como o mercado trabalha no curso de Desenvolvimento Full Stack da PUC-Rio Digital. Tenha suas disciplinas em formato de sprint, desenvolva as skills mais desejadas pelos empregadores e ainda conquiste diversos certificados.  \n\nInvista no seu futuro profissional com a PUC-Rio Digital\nPós é na PUC-Rio Digital\nConheça o curso.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1984551399095937.jpg"
+}

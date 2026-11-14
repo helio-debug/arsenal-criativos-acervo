@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-879217158341766",
+  "tipo": "estatico",
+  "titulo": "Benefício em destaque sobre foto de atendimento",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto coletiva de mulheres com bebês em um escritório, com faixas sobrepostas apresentando um benefício e um valor inicial.",
+  "por_que_funciona": [
+    "A foto coletiva com bebês aproxima a oferta do contexto de maternidade.",
+    "O título branco na faixa laranja ocupa a região de maior contraste.",
+    "A faixa branca separa os critérios do título e facilita a leitura.",
+    "O valor fica isolado em um bloco laranja no canto inferior."
+  ],
+  "quando_usar": "Para apresentar uma assessoria de benefícios a quem busca entender critérios de acesso.",
+  "estrutura_texto": "[Nome do benefício]\nPara [público] que [critério]\nA partir de [valor condicionado à análise]",
+  "legenda": "Conheça os critérios de [benefício] e confira quais documentos são necessários. A elegibilidade e o valor dependem de [regras e histórico individual]. Saiba como funciona [serviço de orientação].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto autorizada de atendimento relacionada ao meu serviço como fundo. Sobreponha título grande branco em faixa laranja, critérios em faixa branca com letras azuis e bloco laranja menor para uma informação de valor comprovada. Use detalhes geométricos azuis. Não invente clientes, concessões ou resultados; inclua que elegibilidade e valores dependem de análise.",
+  "alerta_politica": "Benefício previdenciário: não garantir concessão ou valor nem apresentar idade do filho e vínculo anterior como critérios suficientes. Evitar afirmar a condição pessoal da leitora; usar imagens com autorização e informações comprováveis, sem sugerir vínculo oficial com o órgão público.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "879217158341766",
+    "anunciante": "Ferreira Lima Assessoria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-10",
+    "dias_no_ar": 96,
+    "variacoes_ativas": 1,
+    "texto_original": "Não ignore isso! Se você é mãe de uma criança de até 5 anos ou está grávida, existe um benefício que pode transformar seu momento atual — mas muitas mulheres só descobrem depois que perderam a chance. O salário-maternidade pode chegar a valores acima de R$6.578 e foi criado justamente para te apoiar.\n\nVeja se você se encaixa nos requisitos:\n✨ Estar grávida ou ter filhos menores de 5 anos;\n✨ Estar desempregada no dia do parto;\n✨ Ter trabalhado pelo menos 1 dia com carteira assinada antes do nascimento do bebê.\n\nSe isso faz parte da sua realidade, é possível que você tenha direito. E, com acompanhamento profissional, o processo fica mais rápido, seguro e sem dores de cabeça.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-879217158341766.jpg"
+}

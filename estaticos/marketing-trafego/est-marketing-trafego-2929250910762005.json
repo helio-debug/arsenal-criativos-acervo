@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-2929250910762005",
+  "tipo": "estatico",
+  "titulo": "Manchete de procurado com mockups e oferta de entrada",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Manchete preta e vermelha sobre fundo claro imita uma notícia de exclusividade. Uma pessoa aparece à direita acima de mockups de caixa, computador e celular; preço e CTA ocupam a base.",
+  "por_que_funciona": [
+    "O selo vermelho de exclusividade e a palavra entre aspas simulam uma manchete chamativa.",
+    "O preço aparece na chamada e novamente na faixa inferior.",
+    "Os mockups de computador e celular mostram o tipo de estrutura digital oferecida.",
+    "Os três ícones azuis separam os argumentos de venda em blocos curtos."
+  ],
+  "quando_usar": "Para apresentar um material digital de entrada com prévias do conteúdo e preço acessível, sem fabricar notícias ou resultados.",
+  "estrutura_texto": "[Selo]\n[personagem] “[gancho figurado]” após revelar\nPor apenas [preço]\n[estrutura oferecida]\n[benefícios]\nAcesse [produto] por [preço]\n[CTA]",
+  "legenda": "Copie e adapte [estrutura de quiz] ao seu produto. O material inclui [sequência de perguntas] e [estrutura pronta]. Toque em [CTA] para ver o conteúdo completo por [preço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo claro com textura editorial discreta. Use manchete grande preta, uma palavra destacada em faixa vermelha e preço menor em azul. Coloque uma pessoa autorizada à direita e três benefícios com ícones à esquerda. Abaixo da pessoa, componha mockups do produto em caixa, notebook e celular com telas reais ou ilustrativas identificadas. Finalize com faixa de preço branca e CTA azul. Não invente notícias, métricas ou endossos.",
+  "alerta_politica": "Promessas de faturamento, conversão ou lucro precisam de comprovação e contexto; não apresente resultados de terceiros como garantia. Use imagem, nome e depoimento de pessoas apenas com autorização, sem sugerir endosso inexistente.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2929250910762005",
+    "anunciante": "Quiz de 100k",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-13",
+    "dias_no_ar": 62,
+    "variacoes_ativas": 10,
+    "texto_original": "Funil de quiz pronto pra copiar e adaptar no seu produto. Sem montar do zero. Toque em \"Saiba mais\" e veja a estrutura completa.",
+    "origem_coleta": "acervo:funis-quiz-influenciadores"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-2929250910762005.jpg"
+}

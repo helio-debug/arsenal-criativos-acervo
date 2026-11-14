@@ -1,0 +1,37 @@
+{
+  "id": "est-saude-1309554904144553",
+  "tipo": "estatico",
+  "titulo": "Quatro formas de uso em colunas ilustradas",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "saude",
+  "tipo_solucao": "servico-online",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Infográfico em fundo creme compara quatro apresentações de canabidiol. Cada coluna reúne uma ilustração verde, nome, barra com intervalo em minutos e descrição curta.",
+  "por_que_funciona": [
+    "Quatro colunas alinhadas permitem comparar as apresentações rapidamente.",
+    "As ilustrações distinguem frasco, cápsula, tópico e pote.",
+    "Números dentro das barras tornam os intervalos o foco da comparação.",
+    "A paleta verde mantém unidade entre títulos e desenhos."
+  ],
+  "quando_usar": "Para serviços de orientação médica explicarem apresentações e vias de uso permitidas, com dados revisados por profissional habilitado.",
+  "estrutura_texto": "FORMAS DE USAR [SUBSTÂNCIA OU PRODUTO]\n[APRESENTAÇÃO 1] | [APRESENTAÇÃO 2] | [APRESENTAÇÃO 3] | [APRESENTAÇÃO 4]\n[Informação validada de cada via]\n[Característica de cada apresentação]\n[Nota explicativa]",
+  "legenda": "Conheça as diferenças entre [apresentações permitidas]. A escolha depende da avaliação médica e das regras aplicáveis. Agende uma consulta por [valor vigente] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte infográfico em fundo creme com quatro colunas, ilustrações verdes de cada apresentação, nomes em negrito e notas curtas na base. Só use barras e intervalos quando os dados forem comparáveis e tiverem fonte validada; diferencie início de ação de absorção. Não represente apresentações não autorizadas como opções disponíveis.",
+  "alerta_politica": "ANVISA e Meta: produtos de cannabis têm restrições de autorização e publicidade; verificar a elegibilidade da divulgação e de cada apresentação. Tempos variam por formulação e via e exigem comprovação. CFM: publicidade de consulta não deve induzir prescrição. A arte mistura velocidade de absorção e tempo, exigindo revisão técnica.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1309554904144553",
+    "anunciante": "Click.Cannabis",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-12",
+    "dias_no_ar": 155,
+    "variacoes_ativas": 1,
+    "texto_original": "Prazer, somos a Click! 🌱\nUma empresa focada em democratizar o acesso ao acompanhamento médico especializado no Brasil!\n\nEsse é o seu convite para agendar uma consulta com um de nossos médicos por apenas R$50.\n👉 Clique em \"saiba mais\" e agende sua consulta.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saude/est-saude-1309554904144553.jpg"
+}

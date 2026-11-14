@@ -1,0 +1,37 @@
+{
+  "id": "est-moda-acessorios-1312588294178923",
+  "tipo": "estatico",
+  "titulo": "Calçado infantil com visão de três quartos",
+  "formato": "Produto em destaque",
+  "nicho": "moda-acessorios",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Um pequeno calçado preto com sola branca aparece em vista de três quartos sobre fundo quase branco. O cabedal tem relevos curvos e há uma alça na parte traseira.",
+  "por_que_funciona": [
+    "A vista de três quartos mostra a frente e a lateral do calçado simultaneamente.",
+    "Os relevos do cabedal ficam visíveis pela iluminação lateral suave.",
+    "A sola branca contrasta com a parte superior preta.",
+    "O produto ocupa a área inferior central e fica isolado pelo espaço vazio."
+  ],
+  "quando_usar": "Para apresentar calçados infantis e seus detalhes em anúncios de coleção.",
+  "estrutura_texto": "[Foto do produto em três quartos, sem chamada escrita]",
+  "legenda": "Confira [coleção de calçados infantis] em [site]. Veja [modelos e tamanhos disponíveis] e escolha a opção para [ocasião de uso].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte do produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Apresente o produto fornecido sozinho em vista de três quartos, com a ponta à esquerda e a parte traseira à direita, sobre fundo quase branco. Posicione o produto abaixo do centro, com bastante espaço livre acima. Evidencie textura, relevos e sola com luz suave e sombra curta. Sem texto sobreposto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1312588294178923",
+    "anunciante": "Nike",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-20",
+    "dias_no_ar": 178,
+    "variacoes_ativas": 3,
+    "texto_original": "Coleções exclusivas e principais lançamentos para completar o seu look. Tenha uma experiência premium de compra em Nike.com",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/moda-acessorios/est-moda-acessorios-1312588294178923.jpg"
+}

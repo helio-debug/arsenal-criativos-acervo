@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-4675161329384689",
+  "tipo": "estatico",
+  "titulo": "Anúncio contextual demonstrado em conversa",
+  "formato": "Conversa no celular",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça branca com chamada no topo e simulação de conversa abaixo. Um cartão patrocinado com foto de camiseta aparece integrado à interface; parte da resposta está esmaecida.",
+  "por_que_funciona": [
+    "A pergunta sobre deslocamento cria um contexto de uso específico.",
+    "O cartão com foto mostra como o anúncio aparece dentro da conversa.",
+    "A identificação de conteúdo patrocinado torna a função do cartão explícita.",
+    "O fundo branco concentra a leitura na chamada e na demonstração."
+  ],
+  "quando_usar": "Para plataformas de mídia explicarem visualmente um posicionamento de anúncio e convidarem empresas a anunciar.",
+  "estrutura_texto": "Faça sua empresa crescer com [SOLUÇÃO DE ANÚNCIOS]\nAnuncie em [PLATAFORMA] hoje\n[PERGUNTA DO USUÁRIO]\n[ANUNCIANTE] · Patrocinado\n[BENEFÍCIO DO PRODUTO]\n[ATRIBUTO]",
+  "legenda": "Alcance novos clientes enquanto eles [descobrem, comparam ou escolhem produtos da categoria]. Conheça [solução de anúncios] e veja como anunciar em [plataforma].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, chamada preta no terço superior e bastante espaço livre abaixo. Monte uma conversa ilustrativa com balão cinza e um cartão patrocinado arredondado abaixo, texto à esquerda e foto do produto à direita. Identifique a simulação e a publicidade. Não reproduza identidade visual, logotipo ou interface proprietária da referência; use uma interface genérica. Transcreva apenas a copy fornecida, com legibilidade.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4675161329384689",
+    "anunciante": "ChatGPT",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-09",
+    "dias_no_ar": 36,
+    "variacoes_ativas": 2,
+    "texto_original": "Com o ChatGPT Anúncios, alcance novos clientes enquanto eles descobrem, comparam e decidem\nAnuncie no ChatGPT hoje",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-4675161329384689.jpg"
+}

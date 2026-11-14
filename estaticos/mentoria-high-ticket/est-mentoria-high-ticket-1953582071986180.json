@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1953582071986180",
+  "tipo": "estatico",
+  "titulo": "Estatística de sucessão com dominós interrompidos",
+  "formato": "Alerta e educação",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Um percentual laranja domina a peça escura. Ao lado, uma mão interrompe a queda de dominós de madeira.",
+  "por_que_funciona": [
+    "O percentual laranja cria um ponto de entrada imediato na composição.",
+    "A mão barrando os dominós transforma continuidade empresarial em uma metáfora visual concreta.",
+    "O texto curto abaixo do número explica a que a estatística se refere.",
+    "O CTA azul oferece uma ação ligada à proteção do legado."
+  ],
+  "quando_usar": "Para divulgar diagnósticos de governança com um dado verificável sobre continuidade empresarial.",
+  "estrutura_texto": "[CATEGORIA]\n[PERCENTUAL COM FONTE]\n[CONTEXTO DO DADO SOBRE SUCESSÃO].\n[CTA] →",
+  "legenda": "[Dado verificado sobre sucessão] ajuda a dimensionar a necessidade de preparação. Descubra o estágio de [empresa] com [diagnóstico gratuito] e avalie [próximos passos de governança]. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte composição vertical com fundo preto e verde profundo, percentual muito grande em laranja na metade superior esquerda, explicação branca em poucas linhas e botão azul abaixo. Na metade inferior e à direita, mostre uma mão interrompendo dominós como metáfora de prevenção. Integre a foto do produto quando fizer sentido. Use somente estatística fornecida e verificável; se ausente, substitua por uma chamada sem número.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1953582071986180",
+    "anunciante": "GoNext Governança & Sucessão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 6,
+    "texto_original": "Sua empresa familiar está preparada para a sucessão?\n\n Transferência de liderança não é algo que acontece da noite para o dia. \n Exige governança, regras claras e alinhamento entre família, sócios e gestão.\n\n Descubra em qual estágio sua empresa se encontra com nosso Indicador de Maturidade de Governança! Proteja seu legado, reduza conflitos e garanta continuidade.\nClique aqui para saber mais!\nPrepare a sucessão da sua empresa\nFaça o diagnóstico gratuito e descubra o nível de maturidade da governança da sua empresa familiar.\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1953582071986180.jpg"
+}

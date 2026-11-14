@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-1344438420869740",
+  "tipo": "estatico",
+  "titulo": "Whey com ficha de atributos e contato local",
+  "formato": "Produto em destaque",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Arte azul e branca apresenta um pote de whey ao lado de uma lista de atributos com ícones. Chocolate, respingos de leite e um rodapé de contato completam a composição.",
+  "por_que_funciona": [
+    "O pote grande à esquerda facilita identificar a categoria oferecida.",
+    "A coluna com ícones divide os atributos em blocos de leitura.",
+    "Chocolate e leite ilustram o sabor anunciado.",
+    "O rodapé reúne localização e contato para orientar a compra local."
+  ],
+  "quando_usar": "Para destacar um suplemento disponível em loja física, reunindo composição, sabor e meios de contato.",
+  "estrutura_texto": "[Loja e região]\n[Categoria do produto]\n[Qualidade principal]\n[Atributo 1 + explicação]\n[Atributo 2 + explicação]\n[Atributo 3 + explicação]\n[Endereço e contato]",
+  "legenda": "Encontre [produto] na [loja] em [região]. Disponível em [sabor], com [informação nutricional comprovada]. Consulte preço e disponibilidade pelo [canal] ou visite [endereço].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Adote paleta azul-escura e branca, produto grande à esquerda e título de categoria à direita. Organize os atributos em quatro blocos com ícones e descrições curtas. Inclua ingredientes associados ao sabor na base e respingos discretos. Reserve um rodapé legível para endereço e contato. Evite excesso de selos e use apenas informações nutricionais comprovadas.",
+  "alerta_politica": "Meta: evite atribuir condições de saúde ao público ou prometer resultados físicos garantidos. ANVISA: use apenas alegações autorizadas para a composição e a dose do produto; não atribua prevenção, tratamento ou cura a suplementos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1344438420869740",
+    "anunciante": "Empório Butterfly",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-05-19",
+    "dias_no_ar": 179,
+    "variacoes_ativas": 1,
+    "texto_original": "Cansado de procurar itens saudáveis e só encontrar opções genéricas? No Empório Butterfly, nós selecionamos o que há de melhor para sua saúde e sua mesa!\n\n✅ Temperos fresquinhos que mudam o sabor da sua comida.\n\n✅ Chás funcionais para cada momento do seu dia.\n\n✅ O melhor do granel, com qualidade que você sente no aroma.\n\n✅ Opções que você não encontra em qualquer prateleira de mercado.\n\nNão precisa mais ir longe ou comprar online e esperar dias. Estamos pertinho de você, prontos para te ajudar a ter uma vida mais leve com um atendimento que entende o que você precisa.\n\n📍 Faça-nos uma visita: Rua Vereador Wadislau Bugalski, 4712 - Lamenha Grande, Almirante Tamandaré.\n\n🚀 Siga nosso perfil para acompanhar as ofertas da semana e dicas exclusivas!\n\n#AlmiranteTamandaré #ProdutosNaturais #SaudeTamandare #EmporioButterfl",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-1344438420869740.jpg"
+}

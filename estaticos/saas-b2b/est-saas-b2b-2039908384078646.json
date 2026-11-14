@@ -1,0 +1,37 @@
+{
+  "id": "est-saas-b2b-2039908384078646",
+  "tipo": "estatico",
+  "titulo": "Pergunta de sucessão com ampulheta em destaque",
+  "formato": "Alerta e educação",
+  "nicho": "saas-b2b",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical em azul escuro com pergunta grande à esquerda e ampulheta à direita sobre uma mesa. Uma faixa azul clara convida ao planejamento da sucessão.",
+  "por_que_funciona": [
+    "A pergunta curta apresenta diretamente o problema da continuidade da empresa.",
+    "A ampulheta torna visível o tema da passagem do tempo.",
+    "O texto superior identifica a especialidade da consultoria antes da pergunta.",
+    "A faixa azul clara destaca a ação no conjunto escuro."
+  ],
+  "quando_usar": "Para captar gestores de empresas familiares interessados em avaliar governança e preparar a sucessão.",
+  "estrutura_texto": "CONSULTORIA EM [ESPECIALIDADE]\nSua empresa [PERGUNTA SOBRE CONTINUIDADE]?\n[CHAMADA PARA PLANEJAMENTO] →",
+  "legenda": "Sua empresa familiar está preparada para [transição de liderança]? Avalie [aspectos de governança] com [diagnóstico gratuito] e identifique pontos que precisam de atenção. Clique para conhecer.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie composição vertical azul marinho e preta. No alto, insira a especialidade em letras brancas pequenas e uma linha azul clara. Abaixo, coloque uma pergunta grande à esquerda e uma ampulheta realista à direita sobre uma mesa. Use a IMAGEM 2 como elemento da solução quando pertinente. Finalize a área principal com faixa azul clara e CTA branco, deixando respiro na parte inferior.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2039908384078646",
+    "anunciante": "GoNext Governança & Sucessão",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-25",
+    "dias_no_ar": 50,
+    "variacoes_ativas": 6,
+    "texto_original": "Sua empresa familiar está preparada para a sucessão?\n\n Transferência de liderança não é algo que acontece da noite para o dia. \n Exige governança, regras claras e alinhamento entre família, sócios e gestão.\n\n Descubra em qual estágio sua empresa se encontra com nosso Indicador de Maturidade de Governança! Proteja seu legado, reduza conflitos e garanta continuidade.\nClique aqui para saber mais!\nPrepare a sucessão da sua empresa\nFaça o diagnóstico gratuito e descubra o nível de maturidade da governança da sua empresa familiar.\nSee Details\n​\nActive",
+    "origem_coleta": "acervo:ora"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/saas-b2b/est-saas-b2b-2039908384078646.jpg"
+}

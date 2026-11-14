@@ -1,0 +1,36 @@
+{
+  "id": "est-marketing-trafego-1103630309281474",
+  "tipo": "estatico",
+  "titulo": "Crédito de anúncio destacado em balão sobre foto de criador",
+  "formato": "Oferta e promoção",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "saas-app",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Fundo amarelo com letras brancas sobre recortes pretos, foto oval de um criador gravando com celular e balão de crédito promocional. Um botão rosa ocupa a parte inferior.",
+  "por_que_funciona": [
+    "O contraste entre amarelo, preto e rosa torna a chamada e o botão fáceis de distinguir.",
+    "O balão branco coloca o valor do crédito próximo da promessa principal.",
+    "O celular com iluminação circular mostra uma situação concreta de criação de conteúdo."
+  ],
+  "quando_usar": "Para campanhas de aquisição de anunciantes com incentivo promocional e critérios de elegibilidade definidos.",
+  "estrutura_texto": "[Marca]\nEncontre [público desejado] em [canal], a [benefício de custo]\nAté [valor] em [crédito promocional]\nExperimente agora [solução]",
+  "legenda": "Alcance [público] com [plataforma de anúncios]. Conheça a oferta de até [valor] em créditos, sujeita a [critérios de elegibilidade e uso]. Consulte as condições e comece sua campanha.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo amarelo vivo, chamada em letras brancas sobre faixas pretas e destaques em rosa. Coloque a foto em recorte oval central, com desenhos simples ao redor, balão branco com valor promocional e botão rosa arredondado no rodapé. Adapte a cena ao produto fornecido e inclua condições do crédito sem prometer redução de custo garantida.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1103630309281474",
+    "anunciante": "TikTok For Business",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-07",
+    "dias_no_ar": 68,
+    "variacoes_ativas": 21,
+    "texto_original": "Pare de sofrer com pouco tráfego. Use o poder do TikTok Ads para alcançar novos clientes. Comece hoje mesmo!\nR$ 32.800 em créditos de anúncio: Resgate hoje!\nGet Offer\nVer mais\nStatus do sistema\nAPI da Biblioteca de AnúnciosSobre anúncios e uso de dadosPrivacidadeTermosCookies\nPortuguês (Brasil)",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-1103630309281474.jpg"
+}

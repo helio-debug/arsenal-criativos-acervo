@@ -1,0 +1,36 @@
+{
+  "id": "est-suplementos-973791868654458",
+  "tipo": "estatico",
+  "titulo": "Compre o suplemento e ganhe um brinde",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Duas embalagens ocupam lados opostos sobre fundo de gelo claro. As palavras “compre” e “ganhe” identificam o produto principal e o brinde, acompanhado de selo dourado.",
+  "por_que_funciona": [
+    "Os dois títulos associam diretamente cada embalagem ao seu papel na oferta.",
+    "As fotos grandes permitem reconhecer o produto principal e o brinde.",
+    "O selo dourado destaca o valor atribuído ao presente."
+  ],
+  "quando_usar": "Ações de compra com brinde definido e disponibilidade de estoque informada.",
+  "estrutura_texto": "COMPRE [produto principal]\nGANHE [brinde]\nBRINDE DE [valor] GRÁTIS",
+  "legenda": "Na compra de [produto principal], ganhe [brinde]. Confira [combinações participantes] e [condições de estoque]. Veja a oferta em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição em duas colunas sobre fundo claro com textura gelada. Coloque COMPRE em preto acima do produto principal à esquerda e GANHE em verde acima do brinde à direita. Use fotos grandes e selo dourado com valor real do brinde; mantenha legibilidade das condições.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio. Informar condições e disponibilidade do brinde; não usar valor de referência sem comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "973791868654458",
+    "anunciante": "CwTrends Suplementos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-26",
+    "dias_no_ar": 233,
+    "variacoes_ativas": 1,
+    "texto_original": "A lógica é simples: por que pagar o mesmo valor e levar menos produtos para casa? 🤔\n\nAqui na CwTrends, criamos uma seleção especial onde o seu dinheiro rende mais. São produtos oficiais das melhores marcas onde a regra é clara: Comprou o item principal, o presente vai junto na caixa.\n\nSem sorteio e sem letras miúdas. É a nossa forma de valorizar quem escolhe a loja certa.\n\nOs brindes e combinações podem mudar a qualquer momento conforme o estoque.\n\n👇 Toque no botão \"Comprar Agora\" e veja qual presente está ativo hoje!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-973791868654458.jpg"
+}

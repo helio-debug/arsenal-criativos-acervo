@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-655613494118011",
+  "tipo": "estatico",
+  "titulo": "Lembrete de retorno com cupom e suplementos",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Produtos de suplementação sobre uma base azul, com pessoa treinando ao fundo escuro. A chamada pede retorno e o rodapé destaca cupom de 10% de desconto.",
+  "por_que_funciona": [
+    "“VOLTE!” em azul grande torna explícito o convite de retorno.",
+    "A composição reúne vários produtos e amplia a exposição do catálogo.",
+    "A base azul separa os pacotes do fundo escuro.",
+    "O desconto no rodapé oferece um incentivo concreto para retomar a compra."
+  ],
+  "quando_usar": "Para retargeting de visitantes de uma loja de suplementos ou retomada de interesse no catálogo.",
+  "estrutura_texto": "[Marca]\nVOLTE!\nVOCÊ ESQUECEU\n[Categoria de produtos]!\n[Produtos em destaque]\nRESGATE AGORA SEU CUPOM\n[Percentual] DE DESCONTO",
+  "legenda": "Seus [produtos] estão por aqui. Use [cupom] e ganhe [percentual] de desconto em [site]. Consulte [validade, produtos elegíveis e condições].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com foto discreta de adulto treinando e iluminação azul no canto superior. Posicione a chamada “VOLTE!” em azul grande e apoio branco em caixa alta no terço superior. Agrupe os produtos da IMAGEM 2 sobre um pedestal circular azul no centro inferior, com rótulos visíveis. No rodapé, coloque chamada curta para resgatar o cupom e o percentual de desconto em azul grande. Não enfatize transformação corporal.",
+  "alerta_politica": "Meta/ANVISA: usar apenas alegações autorizadas para o suplemento e compatíveis com o rótulo. Não prometer cura, prevenção de doenças ou resultado físico garantido; alegações de composição devem ser comprováveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "655613494118011",
+    "anunciante": "HealthTime Nutrition",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-04-07",
+    "dias_no_ar": 586,
+    "variacoes_ativas": 1,
+    "texto_original": "Já usou seu cupom de Desconto? \nCompre usando o 10primeiracompra e ganhe 10% OFF!\n\n⚡ Transforme seus treinos com o melhor da nutrição esportiva!\nUse: 10PRIMEIRACOMPRA\nProdutos com garantia de qualidade e responsabilidade.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-655613494118011.jpg"
+}

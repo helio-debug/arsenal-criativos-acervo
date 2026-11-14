@@ -1,0 +1,37 @@
+{
+  "id": "est-produtos-fisicos-marketplace-1554477473098103",
+  "tipo": "estatico",
+  "titulo": "Combo técnico com benefício e parcelamento ampliado",
+  "formato": "Oferta e promoção",
+  "nicho": "produtos-fisicos-marketplace",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "parcelamento",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Fundo laranja enquadra dois receptores flutuantes à direita, com benefício e preço à esquerda. Uma faixa preta e um selo branco inclinado destacam o parcelamento na base.",
+  "por_que_funciona": [
+    "Os dois equipamentos separados visualmente tornam o combo reconhecível.",
+    "O benefício de coletar pontos inacessíveis explica a aplicação do laser.",
+    "O preço em negrito estabelece o valor total do kit.",
+    "O selo branco inclinado com até 36 parcelas recebe contraste próprio no rodapé."
+  ],
+  "quando_usar": "Para divulgar um combo de equipamentos a equipes que já buscam a solução e precisam avaliar o investimento.",
+  "estrutura_texto": "[MODELO A] + [MODELO B]\n[CATEGORIA]\n[BENEFÍCIO E RECURSO]\nKIT COMPLETO POR\nR$ [PREÇO]\n[CHAMADA DE PARCELAMENTO]\nEM ATÉ [NÚMERO]X\n[MARCA]\n[CONDIÇÕES]",
+  "legenda": "Combine [PRODUTO A] e [PRODUTO B] para realizar [APLICAÇÃO]. O kit reúne [BENEFÍCIO A] e [BENEFÍCIO B], por R$ [PREÇO], com parcelamento em até [PARCELAS]. Consulte a composição e as condições em [CANAL].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha fundo laranja com variações amarelas e formas diagonais. Faça título grande no topo, benefício em coluna à esquerda e duas fotos recortadas do kit à direita, com sombra abaixo. Destaque preço à esquerda e use faixa preta horizontal seguida de selo branco inclinado para parcelas. Inclua condições legíveis e não invente efeitos de laser ou funcionalidades ausentes no produto.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1554477473098103",
+    "anunciante": "Tecnosat Geotecnologias",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-21",
+    "dias_no_ar": 85,
+    "variacoes_ativas": 1,
+    "texto_original": "A combinação perfeita para elevar o nível dos seus levantamentos! 🚀⛰️\n\nCom o combo Xmap X10 Geo e X10 Laser, a sua equipe ganha a versatilidade necessária para encarar qualquer desafio de topografia e georreferenciamento com máxima precisão e agilidade.\n\n📍 O que cada um traz para a sua operação:\n• X10 Geo: Leveza, alta sensibilidade de sinal e inicialização ultra-rápida. Ideal para a rotina ágil no campo com rastreamento de múltiplas constelações.\n\n• X10 Laser: A tecnologia que elimina o risco e a complicação de medir pontos inacessíveis ou perigosos, permitindo capturar dados à distância através do laser integrado.\n\n• Tecnologia Integrada: Ambos contam com IMU de alta precisão (medição com bastão inclinado) e conectividade total para otimizar seu tempo.\n\nA dupla ideal para garantir produtividade máxima do início ao fim do dia. 🌐\n\n📲 Quer conhecer as condições especiais para o kit? Fale com a equipe de consultores da Tecnosat no link da bio!\n\n#X10Geo #X10Laser ⁠#RTK #Topografia #Agrimensura #Georreferenciamento #Mapeamento #Agricultura #Tecnosat",
+    "origem_coleta": "acervo:safeboat-referencias"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/produtos-fisicos-marketplace/est-produtos-fisicos-marketplace-1554477473098103.jpg"
+}

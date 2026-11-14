@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1427876852834167",
+  "tipo": "estatico",
+  "titulo": "Atendimento internacional com cenário de trabalho remoto",
+  "formato": "Alerta e educação",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Título grande convida terapeutas a atender portugueses e receber em euro. A montagem mostra fotos do Brasil e de Portugal ligadas por uma rota sobre mapa, com uma profissional em videochamada diante de uma paisagem portuguesa.",
+  "por_que_funciona": [
+    "A chamada nomeia terapeutas e apresenta uma possibilidade específica de atuação internacional.",
+    "As fotos com etiquetas de países e a rota pontilhada explicam o deslocamento de mercado.",
+    "O notebook em videochamada mostra como o atendimento remoto aconteceria.",
+    "A faixa vermelha na base destaca o convite para entender o funcionamento."
+  ],
+  "quando_usar": "Para apresentar conteúdo ou formação sobre atuação remota internacional, esclarecendo requisitos e limites de exercício profissional.",
+  "estrutura_texto": "[PROFISSIONAL], JÁ PENSOU\n[ATENDER PÚBLICO INTERNACIONAL]\nE [RECEBER EM MOEDA]?\n[PAÍS DE ORIGEM] → [PAÍS DE DESTINO]\n[VEJA COMO FUNCIONA]",
+  "legenda": "Assista ao vídeo e conheça como funciona [modalidade de atendimento] para [público internacional]. Entenda os requisitos para atuar, a organização dos atendimentos e as condições de pagamento em [moeda]. Acesse pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie montagem com título condensado muito grande no topo, em vermelho, preto e dourado. Abaixo, disponha duas fotos de destinos em molduras inclinadas ligadas por rota pontilhada sobre mapa. Use a IMAGEM 2 na cena de trabalho com notebook em videochamada, mesa e paisagem urbana ao fundo. Finalize com pincelada vermelha e CTA branco. Não copie monumentos, cenário exato ou inscrições da referência. Não sugira renda garantida ou resultados financeiros fáceis.",
+  "alerta_politica": "Não prometa ganhos garantidos, renda fácil ou valorizações automáticas por receber em moeda estrangeira. Para atendimento terapêutico internacional, descreva qualificações e requisitos de atuação sem prometer cura ou resultados clínicos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1427876852834167",
+    "anunciante": "Estratégia -X",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 1,
+    "texto_original": "Assistao vídeo e descubra enquanto está no ar",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1427876852834167.jpg"
+}

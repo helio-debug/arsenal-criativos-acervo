@@ -1,0 +1,37 @@
+{
+  "id": "est-marketing-trafego-4556633831331318",
+  "tipo": "estatico",
+  "titulo": "Captação internacional para terapeutas com mapa entre países",
+  "formato": "Alerta e educação",
+  "nicho": "marketing-trafego",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo preto com bandeiras nos cantos, chamada branca com destaques amarelos e mapa ligando Brasil e Portugal por avião. Uma pincelada amarela sustenta o CTA vermelho na parte inferior.",
+  "por_que_funciona": [
+    "A palavra “TERAPEUTA” destacada em amarelo identifica diretamente o público profissional.",
+    "O mapa com rota de avião torna visível a conexão entre os dois países.",
+    "O destaque em “FATURAR” associa a proposta à moeda estrangeira, concentrando a atenção na oportunidade comercial.",
+    "A pincelada amarela separa “VEJA COMO FUNCIONA” como ação final."
+  ],
+  "quando_usar": "Para introduzir uma oferta de orientação de captação internacional a terapeutas interessados em conhecer outros mercados.",
+  "estrutura_texto": "[Profissional], já pensou em atender [Público em outro país] e faturar em [Moeda]?\n[Mapa com origem e destino]\n[CTA para explicação]",
+  "legenda": "[Profissional], conheça formas de apresentar seu serviço a [público no exterior]. A [consultoria] aborda [posicionamento], [canais de captação] e [organização do atendimento]. Veja como funciona em [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo preto com elementos de bandeiras nos cantos. No topo, componha pergunta em caixa alta branca, com profissão e oportunidade destacadas por retângulos amarelos. Ao centro, inclua mapa ilustrado conectando país de origem e destino por linha pontilhada e avião. Na base, coloque CTA vermelho sobre pincelada amarela. Use a IMAGEM 2 para identificar a oferta de orientação. Não prometa renda ou clientes garantidos nem sugira habilitação automática para atender em outros países.",
+  "alerta_politica": "Meta: apresentar faturamento em moeda estrangeira como possibilidade, sem renda garantida ou resultados fáceis. Em captação para terapeutas, respeitar as regras de publicidade do conselho profissional aplicável e os requisitos para atendimento transfronteiriço; não prometer resultados terapêuticos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4556633831331318",
+    "anunciante": "Estratégia -X",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-24",
+    "dias_no_ar": 21,
+    "variacoes_ativas": 1,
+    "texto_original": "🌎 Terapeuta, seus próximos clientes podem estar na Europa, e você ainda não está chegando até eles! 💶\n\nEnquanto você concentra sua captação no Brasil, milhares de brasileiros vivem em Portugal, Londres, Paris e outros lugares da Europa. Muitos trabalham, recebem em euros ou outras moedas fortes e podem buscar atendimento de profissionais que compreendam sua língua e sua realidade.\n\nE você não precisa se mudar, falar outro idioma ou abandonar os clientes que já atende para explorar essa possibilidade.\n\nO desafio é saber como chegar até esse público e fazer com que ele conheça o seu trabalho.\n\nSe você é psicólogo, psicanalista ou terapeuta holístico, preparei um vídeo rápido, com menos de 10 minutos, para mostrar uma estratégia de captação voltada aos brasileiros que vivem no exterior.\n\n🌎 Seu próximo cliente pode estar do outro lado do oceano.\n\n👉 Toque em Saiba mais e assista ao vídeo para descobrir como começar!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "media",
+  "arquivo": "estaticos/marketing-trafego/est-marketing-trafego-4556633831331318.jpg"
+}

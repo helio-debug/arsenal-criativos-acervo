@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-934640653035579",
+  "tipo": "estatico",
+  "titulo": "Ranking de avaliações de seguradoras em cinco posições",
+  "formato": "Comparativo",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Ranking de cinco empresas em fundo lilás claro reúne posição, logotipo, nota numérica, estrelas e quantidade de avaliações. Linhas horizontais separam cada concorrente.",
+  "por_que_funciona": [
+    "A posição de cada empresa aparece em círculo numerado, facilitando a comparação.",
+    "Notas numéricas e estrelas apresentam o mesmo indicador por duas formas visuais.",
+    "A quantidade de avaliações adiciona contexto ao lado de cada nota.",
+    "As linhas e colunas repetidas permitem comparar as cinco opções rapidamente."
+  ],
+  "quando_usar": "Para apresentar comparações de reputação com fonte, data e método verificáveis, usando dados atualizados.",
+  "estrutura_texto": "Top [quantidade]\n[Categoria] mais bem avaliadas por [fonte]\n[Posição] [Empresa] [Nota] [Estrelas] [Quantidade de avaliações]\n[Repita por empresa]\n[Fonte, data e critério do levantamento]",
+  "legenda": "Compare as avaliações de [categoria] em [fonte], no levantamento de [data], com [critério e universo da comparação]. Consulte as notas e o volume de avaliações. Conheça [serviço] e solicite sua cotação em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo lilás muito claro, título central azul e subtítulo preto. Monte tabela visual de cinco linhas, com posição em círculo à esquerda, identidade de cada opção, nota, estrelas amarelas e número de avaliações. Separe as linhas com traços finos. Use apenas dados fornecidos e comprovados, reservando área para fonte, data e critério. Não copie marcas da referência. Use a IMAGEM 2 como referência visual do produto ou serviço anunciado, sem inventar características. Escreva em pt-BR e use apenas benefícios e condições fornecidos no bloco MEU PRODUTO.",
+  "alerta_politica": "Publicidade de seguros: informar coberturas, exclusões, elegibilidade e condições contratuais com clareza, conforme regras aplicáveis da SUSEP e do CDC. Não prometer aceitação ou proteção irrestrita; evitar alegações enganosas nas políticas da Meta. Ranking e avaliações precisam de fonte, data, recorte e metodologia verificáveis. Não fabricar estrelas, notas ou endosso da plataforma de avaliações.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "934640653035579",
+    "anunciante": "Loovi Seguros",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-21",
+    "dias_no_ar": 54,
+    "variacoes_ativas": 1,
+    "texto_original": "Entenda porque a Loovi é a empresa de seguro auto mais bem avaliada do Google. ⭐⭐⭐⭐⭐\n⭐⭐⭐⭐⭐\n📱 Cotação em 5 minutos",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-934640653035579.jpg"
+}

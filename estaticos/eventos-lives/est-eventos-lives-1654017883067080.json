@@ -1,0 +1,37 @@
+{
+  "id": "est-eventos-lives-1654017883067080",
+  "tipo": "estatico",
+  "titulo": "Retrato com cartão de pré-venda e preço destacado",
+  "formato": "Oferta e promoção",
+  "nicho": "eventos-lives",
+  "tipo_solucao": "evento",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Retrato de uma mulher de blazer ocupa a metade direita de um fundo escuro. À esquerda, um cartão apresenta o evento, selo de pré-venda, preço anterior riscado e valor promocional grande.",
+  "por_que_funciona": [
+    "O número 34 ocupa a maior área tipográfica do cartão e evidencia a condição de entrada.",
+    "O preço anterior riscado dá contexto ao desconto anunciado.",
+    "O retrato ao lado do conteúdo associa a oferta a uma apresentadora.",
+    "O botão escuro com seta aponta a ação de compra do ingresso."
+  ],
+  "quando_usar": "Para vender ingressos de um evento educacional quando houver uma condição promocional definida.",
+  "estrutura_texto": "[EDIÇÃO]\n[EVENTO E TEMA]\nPRÉ-VENDA LIBERADA\nde [PREÇO ANTERIOR]\npor [PREÇO ATUAL]\nClique em Saiba Mais e garanta seu ingresso",
+  "legenda": "Em [datas], participe de [evento] para aprender [conteúdo principal] e [aplicação prática]. Ingressos de [preço anterior] por [preço atual], conforme [condições]. Veja a programação em Saiba Mais.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo quase preto, retrato da IMAGEM 2 na metade direita e cartão marrom escuro translúcido à esquerda. Coloque título fino, selo dourado de pré-venda, preço anterior riscado e valor atual muito grande. Acrescente botão arredondado com seta e chamada para ingresso. Utilize apenas preços e descontos informados.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1654017883067080",
+    "anunciante": "Incorporação na Prática",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 13,
+    "texto_original": "O que você aprende nos dois dias ao vivo, 7 e 8 de novembro:\n✓ O Fluxo do Desenvolvimento Imobiliário completo, da leitura de mercado à estrutura de lançamento \n✓ Como ler o mercado e saber quem compra na sua região, por que compra e quanto pode pagar \n✓ Como transformar dado em hipótese de produto, em vez de decidir por feeling \n✓ As três viabilidades (mercado, técnica e financeira) e por que falhar em uma derruba as outras \n✓ Como achar o teto do terreno antes de negociar, para não comprometer a margem ✓ Como usar a IA para acelerar a análise dentro do processo, sem terceirizar a decisão \n✓ Como estruturar um lançamento que vende antes de você levantar a obra\nE se, ao final, o método não fizer sentido para você, são 7 dias de garantia\n▶ Inscreva-se agora clicando no botão.",
+    "origem_coleta": "acervo:incorporacao-na-pratica"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/eventos-lives/est-eventos-lives-1654017883067080.jpg"
+}

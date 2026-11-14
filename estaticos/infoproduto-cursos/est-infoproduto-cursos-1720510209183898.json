@@ -1,0 +1,36 @@
+{
+  "id": "est-infoproduto-cursos-1720510209183898",
+  "tipo": "estatico",
+  "titulo": "Catálogo de cursos separado por áreas e carga horária",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "escassez-prazo",
+  "etapa_funil": "meio",
+  "proporcao": "9:16",
+  "descricao": "Catálogo vertical de cursos organizado em colunas com categorias coloridas, ícones e horas ao lado de cada opção. Uma faixa escura no rodapé reúne vantagens e chamada de inscrição.",
+  "por_que_funciona": [
+    "Cabeçalhos coloridos separam as áreas e ajudam a localizar cursos de interesse.",
+    "A carga horária ao lado de cada nome permite comparar o tamanho das formações.",
+    "A faixa de inscrição no rodapé encerra a consulta com uma ação explícita."
+  ],
+  "quando_usar": "Para apresentar um catálogo amplo a um público com interesses profissionais variados; exige tamanho que preserve a leitura.",
+  "estrutura_texto": "[Cursos profissionalizantes]\n[Chamada de escolha]\n[Área 1]: [cursos e horas]\n[Área 2]: [cursos e horas]\n[Demais áreas]\n[Condição de vagas e bônus]\n[Inscreva-se]\n[Certificação e modalidades]",
+  "legenda": "Escolha sua próxima formação em [áreas disponíveis]. Os cursos de [instituição] oferecem [modalidades] e [tipo de certificação], com conteúdos voltados à prática. Consulte a lista e as condições de [bônus ou inscrição].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como imagem do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte um catálogo sobre fundo branco, com cabeçalho em preto e laranja. Divida os cursos em colunas, cada área com ícone, cor própria e lista com carga horária alinhada à direita. Use quantidade de itens compatível com leitura em celular e rodapé escuro com vantagens e botão de inscrição. Não invente escassez ou bônus.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1720510209183898",
+    "anunciante": "Anhanguera Educacional",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-21",
+    "dias_no_ar": 85,
+    "variacoes_ativas": 1,
+    "texto_original": "O mercado de trabalho não espera. Chegou a hora de escolher o seu caminho e investir no seu futuro! 🚀\n\nTemos dezenas de Cursos Livres Profissionalizantes em áreas como:\n💻 Tecnologia e Digital\n🍳 Gastronomia e Bebidas\n💼 Gestão, Negócios e Carreira\n💆♀️ Beleza, Bem-Estar e Saúde\n... e muito mais!\n\nAqui, o foco é em conteúdo atualizado e aplicável na prática, para você já colocar a mão na massa e ver resultados reais na sua carreira.\n\nConfira as vantagens:\n🎓 Certificação Anhanguera\n🏡 Modalidade 100% EAD ou semipresencial\n🎁 BÔNUS EXCLUSIVO para os 10 primeiros matriculados!\n\nAs vagas são limitadas. Clique em \"Saiba Mais\", encontre o curso ideal para você e dê o próximo passo profissional! 👇\nCursos Profissionalizantes. Escolha seu caminho!\nCertificação Anhanguera e Bônus aos 10 primeiros.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1720510209183898.jpg"
+}

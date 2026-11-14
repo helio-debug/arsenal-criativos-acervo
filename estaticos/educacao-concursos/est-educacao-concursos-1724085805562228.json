@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1724085805562228",
+  "tipo": "estatico",
+  "titulo": "Desconto com cupom e limite de vagas para mentoria",
+  "formato": "Oferta e promoção",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Retrato de mentora e selo de 50 vagas aparecem acima do título da mentoria. Fundo escuro com ampulheta, detalhes dourados e blocos amarelos apresentam cupom, desconto e prazo.",
+  "por_que_funciona": [
+    "O selo de 50 vagas transforma a limitação de capacidade em um dado concreto.",
+    "O retrato com cargo profissional identifica quem oferece o acompanhamento.",
+    "Os blocos amarelos isolam cupom e percentual para facilitar a consulta.",
+    "A ampulheta e a data de validade reforçam visualmente o prazo da oferta."
+  ],
+  "quando_usar": "Para uma campanha de matrícula com desconto real, data definida e capacidade limitada de atendimento.",
+  "estrutura_texto": "[Marca]\nAPENAS [NÚMERO] VAGAS\n[Nome da mentora]\n[Credencial]\nMENTORIA INDIVIDUALIZADA\n[Carreira-alvo]\n[Vagas e desconto por prazo limitado]\nGaranta sua vaga com [percentual] usando [cupom]. Válido até [data].\nCupom [código]\n[Percentual] de desconto\n[Vagas limitadas]\n[CTA]",
+  "legenda": "Receba acompanhamento individual de [perfil do mentor] na preparação para [carreira]. Até [data], use o cupom [código] para obter [percentual] de desconto em [oferta]. Consulte as condições e garanta sua vaga em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul muito escuro com luz dourada no alto e ampulheta discreta à direita. Coloque retrato da IMAGEM 2 na região superior, credencial ao lado e selo hexagonal com quantidade de vagas à esquerda. Centralize título serifado, subtítulo espaçado e uma faixa azul com a carreira. Destaque cupom, percentual e vagas em pequenas faixas amarelas; encerre com CTA legível. Utilize somente prazo, desconto e quantidade de vagas informados pelo usuário.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1724085805562228",
+    "anunciante": "Aprovação PGE",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-15",
+    "dias_no_ar": 60,
+    "variacoes_ativas": 1,
+    "texto_original": "Não é qualquer mentoria. É um mentor que já é Procurador Federal ou Advogado da União te orientando pessoalmente — com 15% off e Freepass inclusos.\n\nSó até 21/09:\n✅ Acompanhamento individual com mentor aprovado na AGU\n✅ 15% de desconto com o cupom AGU15\n\nGaranta agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1724085805562228.jpg"
+}

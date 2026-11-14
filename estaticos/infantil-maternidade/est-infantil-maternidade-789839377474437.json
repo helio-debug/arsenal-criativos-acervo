@@ -1,0 +1,37 @@
+{
+  "id": "est-infantil-maternidade-789839377474437",
+  "tipo": "estatico",
+  "titulo": "Duas cores de kit maternidade com preço no topo",
+  "formato": "Oferta e promoção",
+  "nicho": "infantil-maternidade",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Dois kits de bolsa grande e mochila, em rosa e bege, ocupam a foto sobre fundo claro. Título, composição, atributos e preço aparecem centralizados acima dos produtos.",
+  "por_que_funciona": [
+    "Os dois conjuntos lado a lado mostram opções de cor.",
+    "O texto identifica exatamente os dois itens do kit.",
+    "A faixa com atributos facilita localizar as características.",
+    "O preço em caixa rosa fica separado do restante da chamada."
+  ],
+  "quando_usar": "Para vender kits de bolsas maternidade quando a composição, as cores e o preço já estão definidos.",
+  "estrutura_texto": "[Nome do kit]\n[Item principal] + [Item complementar]\n[Características verificadas]\n[Preço]",
+  "legenda": "Kit [nome]: [item principal] + [item complementar] por [preço]. [Características verificadas]. Consulte cores, personalização e entrega para [região]. Peça por [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como fonte visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte foto quadrada com dois kits de bolsas em cores diferentes, apoiados sobre superfície clara diante de parede neutra. Organize mochilas acima e bolsas maiores abaixo. No topo, centralize nome do kit em marrom, composição em rosa, atributos em faixa bege arredondada e preço preto sobre retângulo rosa. Use apenas itens e características presentes na IMAGEM 2, sem copiar nome ou identidade da referência.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "789839377474437",
+    "anunciante": "Pingo de Gente",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-22",
+    "dias_no_ar": 145,
+    "variacoes_ativas": 1,
+    "texto_original": "🌸 Kit Paris: Bolsa G + Mochila por apenas R$ 170,00!\n✨ Térmicas, impermeáveis e perfeitas para acompanhar você e seu bebê.\n💚Temos várias cores, inclusive modelos masculinos.\n\n📦 Enviamos para todo o Brasil\n🎀 Fazemos do jeitinho que você imaginou\n📲 Peça pelo link na bio ou chama no WhatsApp\nPingo de Gente | Bolsas Maternidade Personalizadas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infantil-maternidade/est-infantil-maternidade-789839377474437.jpg"
+}

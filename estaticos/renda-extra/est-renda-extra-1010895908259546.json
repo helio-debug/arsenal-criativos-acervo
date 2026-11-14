@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1010895908259546",
+  "tipo": "estatico",
+  "titulo": "Papelaria floral em tons de rosa",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Cadernos e pasta rosa com estampas florais preenchem uma composição vista de cima. Flores secas, caneta e uma máquina de escrever rosa aparecem nas bordas.",
+  "por_que_funciona": [
+    "A repetição de estampas florais apresenta uma coleção coordenada.",
+    "A pasta rosa em primeiro plano destaca textura, fecho e pingente.",
+    "A máquina de escrever e as flores secas reforçam o cenário de papelaria.",
+    "O enquadramento aproximado permite observar argolas e acabamentos dourados."
+  ],
+  "quando_usar": "Para apresentar variedade e acabamento de uma coleção de papelaria em anúncios de revenda com explicação na legenda.",
+  "estrutura_texto": "[Frase decorativa impressa no produto, se houver]\n[Sem chamada publicitária sobreposta]",
+  "legenda": "Conheça [coleção de papelaria] e as condições para revender [categoria]. Confira [catálogo], [pedido mínimo] e [suporte disponível] antes de começar. [CTA].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie foto vista de cima de uma coleção de papelaria da IMAGEM 2 sobre superfície clara. Distribua cadernos florais nas laterais e uma pasta rosa grande em primeiro plano; evidencie argolas, fecho e pingentes. Tons rosa suave, creme e dourado, com flores secas e parte de uma máquina de escrever nas bordas. Não acrescente texto publicitário; preserve apenas inscrições reais do produto.",
+  "alerta_politica": "Meta: não prometer renda garantida, ganhos fáceis ou resultados financeiros sem comprovação. Apresentar condições da revenda e custos de entrada com clareza.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1010895908259546",
+    "anunciante": "buendia.papelaria",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-03",
+    "dias_no_ar": 164,
+    "variacoes_ativas": 3,
+    "texto_original": "Já pensou em ganhar uma renda extra revendendo papelaria? Conheça a Buendia, a primeira revenda de papelaria fofa do Brasil.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1010895908259546.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-seguros-4120375418278164",
+  "tipo": "estatico",
+  "titulo": "Seguro auto com preço, desconto e botão verde",
+  "formato": "Oferta e promoção",
+  "nicho": "seguros",
+  "tipo_solucao": "financeiro",
+  "oferta": "desconto-cupom",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça vertical azul combina retrato masculino, carro branco e preço inicial. Uma lista com ícones, um selo de desconto e um botão verde completam a oferta.",
+  "por_que_funciona": [
+    "O preço branco grande ganha destaque sobre o fundo azul.",
+    "O selo recortado separa o desconto das demais informações.",
+    "A lista com ícones torna coberturas e assistência fáceis de localizar.",
+    "O botão verde “Cote agora” concentra a ação abaixo do carro."
+  ],
+  "quando_usar": "Para anúncios de conversão com cotação de seguro e desconto real, condicionado ao perfil e às regras da campanha.",
+  "estrutura_texto": "[Marca]\n[Categoria de seguro]\nA partir de R$ [valor]\n[Critério de análise]\n[Assistências e coberturas]\nAté [percentual] de desconto na [cobrança]\n[Reputação verificável]\n[CTA de cotação]",
+  "legenda": "Consulte até [percentual]% de desconto na mensalidade de [seguro]. Faça sua cotação em [canal] e confira o valor para seu perfil, as coberturas e as condições da campanha.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Monte peça vertical com degradê azul-marinho no alto e azul vivo na base. Coloque categoria no topo, retrato autorizado ao centro-esquerda e preço à direita. Insira lista curta com ícones à esquerda, selo de desconto à direita e automóvel da IMAGEM 2 em primeiro plano. Finalize com botão verde de cotação e condições legíveis. Só use reputação documentada e imagem de pessoa autorizada.",
+  "alerta_politica": "Meta: apresente preço, desconto e coberturas com condições verificáveis. Informe elegibilidade, análise de risco, franquias, limites e condições da seguradora; não prometa aceitação ou proteção irrestrita. Observe as regras da SUSEP e o CDC. Notas de reputação e selos precisam de fonte e data verificáveis; não crie endosso de pessoa pública sem autorização.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4120375418278164",
+    "anunciante": "Bem Protege Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-08-14",
+    "dias_no_ar": 457,
+    "variacoes_ativas": 1,
+    "texto_original": "Até 20% de DESCONTO na mensalidade do seu Seguro hoje!\nO seguro do povo brasileiro!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/seguros/est-seguros-4120375418278164.jpg"
+}

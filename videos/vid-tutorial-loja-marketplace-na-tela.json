@@ -1,0 +1,94 @@
+{
+ "id": "vid-tutorial-loja-marketplace-na-tela",
+ "nichos": [
+  "produtos-fisicos-marketplace",
+  "moda-acessorios",
+  "pet"
+ ],
+ "tipo_solucao": "produto-fisico",
+ "oferta": "sem-oferta-explicita",
+ "etapa_funil": "meio",
+ "tipo": "video",
+ "titulo": "Tutorial de compra com celular ilustrado e passos na tela",
+ "formato_video": "tutorial-passo-a-passo",
+ "duracao": "30s",
+ "proporcao": "16:9",
+ "hook": {
+  "falado": "Veja como pedir [produto] pelo celular.",
+  "texto_tela": "Como pedir [produto]",
+  "visual": "Cartela de cor viva, título escuro grande alinhado à esquerda."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Cartela de cor viva, título escuro grande alinhado à esquerda.",
+   "fala": "Veja como pedir [produto] pelo celular.",
+   "texto_tela": "Como pedir [produto]"
+  },
+  {
+   "tempo": "4-10s",
+   "cena": "Celular em moldura ilustrada à direita; instrução curta à esquerda. Mostrar tela própria sem dados de cliente.",
+   "fala": "Abra [canal de compra] e toque em [botão de entrada].",
+   "texto_tela": "Passo 1: [ação de entrada]"
+  },
+  {
+   "tempo": "10-16s",
+   "cena": "Tela de formulário no celular à esquerda; caixa de dica à direita.",
+   "fala": "Preencha [dados necessários]. Confira [informação importante] antes de continuar.",
+   "texto_tela": "Dica: confira [informação]"
+  },
+  {
+   "tempo": "16-23s",
+   "cena": "Trocar a tela do celular por seleção de item ou opção; preservar fundo liso.",
+   "fala": "Escolha [variação do produto] e confira [medida, tamanho ou quantidade].",
+   "texto_tela": "Passo 2: escolha [opção]"
+  },
+  {
+   "tempo": "23-27s",
+   "cena": "Aproximar o resumo do pedido sem expor endereço ou pagamento.",
+   "fala": "Revise o pedido e toque em [botão de confirmação].",
+   "texto_tela": "Passo 3: revise e confirme"
+  },
+  {
+   "tempo": "27-30s",
+   "cena": "Cartela final com nome substituível e uma única chamada.",
+   "fala": "Acesse [canal] para fazer seu pedido.",
+   "texto_tela": "Peça pelo [canal]"
+  }
+ ],
+ "por_que_funciona": [
+  "O fundo amarelo uniforme destaca o título preto da abertura e os textos dos passos.",
+  "A moldura de celular com mão desenhada mantém a atenção na interface que deve ser seguida.",
+  "A caixa lateral de dica interrompe a sequência para explicar um detalhe do cadastro.",
+  "A cartela final elimina a interface e deixa apenas a chamada de ação."
+ ],
+ "quando_usar": "Para quem vende produtos físicos e recebe dúvidas sobre como comprar online. Use perto da decisão de compra, com a interface real do seu canal.",
+ "roteiro_modelo": "Veja como pedir [produto] pelo celular.\n\n[Corte / pausa curta]\n\nAbra [canal de compra] e toque em [botão de entrada].\n\n[Corte / pausa curta]\n\nPreencha [dados necessários]. Confira [informação importante] antes de continuar.\n\n[Corte / pausa curta]\n\nEscolha [variação do produto] e confira [medida, tamanho ou quantidade].\n\n[Corte / pausa curta]\n\nRevise o pedido e toque em [botão de confirmação].\n\n[Corte / pausa curta]\n\nAcesse [canal] para fazer seu pedido.",
+ "tomadas_celular": [
+  "Filme o celular em close por 6s, em suporte, com luz lateral difusa e brilho ajustado para a tela ficar legível.",
+  "Grave a abertura do canal em plano fechado por 6s, sem reflexo de janela na tela.",
+  "Filme o preenchimento com dados fictícios por 6s; câmera fixa e luz difusa.",
+  "Grave a escolha de uma variação em close por 7s; mantenha o dedo fora do texto principal.",
+  "Filme o resumo do pedido por 4s, com enquadramento fechado e dados privados ocultos."
+ ],
+ "caminho_ia": "Sem gravar, monte no CapCut um slideshow de telas demonstrativas próprias dentro de uma moldura de celular; adicione a fala com voz sintética licenciada. Use Veo para gerar fundos e objetos, sem depender dele para escrever interfaces legíveis. Prompts: \"Landscape 16:9 motion graphic, flat [brand color] background, illustrated hand holding a blank smartphone on the right, locked camera, six seconds, empty left area for instructional overlay, no logos, no text.\" e \"Landscape 16:9 clean product selection mockup for [product], centered blank smartphone, soft even lighting, subtle push-in, seven seconds, no readable text, no branding.\" Acrescente botões e textos manualmente no editor.",
+ "prompt_ia": "A IMAGEM/VÍDEO de referência descreve só a estrutura visual e narrativa do formato. Adapte tudo ao meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um tutorial horizontal de 30s: abertura 0-4s, entrada no canal 4-10s, dados e dica 10-16s, seleção 16-23s, revisão 23-27s, CTA 27-30s. Use fundo de cor viva, celular ilustrado alternando os lados e instruções curtas fora da tela. A referência tem música e não oferece fala transcrita utilizável: crie narração nova, opcional. Para estes nichos, ensine a comprar o produto; não ensine a abrir uma loja do anunciante original. Só descreva botões que existam no canal informado. Use pt-BR falado, frases curtas e campos adaptáveis entre colchetes. Não copie nomes, pessoas, marcas, logotipos, domínios ou frases da referência. Não invente dados, resultados ou depoimentos. Evite superlativos, perguntas de enfeite, antíteses vazias e promessas sem prova. Entregue roteiro falado completo no formato descrito (com tempos), legenda do post e um prompt de cena por bloco da estrutura.",
+ "legenda": "Para pedir [produto], siga os passos do vídeo. Confira [detalhe da escolha] e finalize em [canal].",
+ "alerta_politica": null,
+ "validacao": "forte",
+ "referencias": [
+  {
+   "origem": "youtube",
+   "url_ou_id": "eBM2498801M",
+   "dias_no_ar": null,
+   "views": 24327337,
+   "frames": [
+    "videos/vid-tutorial-loja-marketplace-na-tela/frames/f1.jpg",
+    "videos/vid-tutorial-loja-marketplace-na-tela/frames/f2.jpg",
+    "videos/vid-tutorial-loja-marketplace-na-tela/frames/f3.jpg",
+    "videos/vid-tutorial-loja-marketplace-na-tela/frames/f4.jpg",
+    "videos/vid-tutorial-loja-marketplace-na-tela/frames/f5.jpg"
+   ]
+  }
+ ]
+}

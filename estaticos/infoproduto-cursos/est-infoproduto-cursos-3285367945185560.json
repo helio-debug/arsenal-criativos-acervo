@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-3285367945185560",
+  "tipo": "estatico",
+  "titulo": "Oportunidade profissional com maleta de dinheiro",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo azul com chamada sobre ganhar dinheiro em proteção de dados. Uma maleta aberta com cédulas ocupa a metade inferior e recebe o botão de inscrição.",
+  "por_que_funciona": [
+    "A expressão em azul-claro destaca o benefício financeiro no centro da chamada.",
+    "A maleta aberta materializa a ideia de remuneração em uma imagem fácil de reconhecer.",
+    "A frase sobre começar do zero reduz a barreira de entrada apresentada pela formação.",
+    "O botão na frente da maleta encerra a leitura junto ao elemento de maior apelo visual."
+  ],
+  "quando_usar": "Para apresentar uma formação profissional a pessoas que ainda desconhecem a área de atuação.",
+  "estrutura_texto": "[Identificação da formação]\nVocê nem sabe...\nMas pode [benefício profissional]\ncom [área de atuação]\nE não precisa [barreira de entrada].\n[CTA de inscrição]",
+  "legenda": "Conheça as possibilidades de atuação em [área]. A formação [nome] ajuda você a desenvolver [competências] para prestar [serviço]. Veja o conteúdo e as condições em [link].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo azul profundo com textura discreta, identificação pequena no topo e chamada central em branco, destacando o benefício em azul-claro. Na metade inferior, crie uma maleta aberta com cédulas como metáfora de remuneração e um CTA curto em sua frente. Use a IMAGEM 2 na identificação da formação. Evite prometer ganhos garantidos.",
+  "alerta_politica": "Meta: evitar promessa de renda garantida ou fácil. Valores por cliente exigem comprovação e contexto sobre experiência, escopo e variação dos resultados; imagens de dinheiro não comprovam ganhos.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "3285367945185560",
+    "anunciante": "LGPD10",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-12",
+    "dias_no_ar": 94,
+    "variacoes_ativas": 4,
+    "texto_original": "Você está ignorando um mercado que pode te pagar até R$ 5.000 por cliente? 💸\n\nExiste um mercado inteiro se formando no Brasil agora mesmo. E a maioria dos profissionais ainda não percebeu.\n\nMais de 20 milhões de empresas tratam dados todos os dias. E 83% delas ainda não têm um DPO (Encarregado de Proteção de Dados).\n\nIsso significa uma coisa muito clara: existe demanda, existe urgência e existe dinheiro na mesa. As multas da LGPD podem chegar a R$ 50 milhões, e as empresas estão desesperadas por alguém que resolva esse problema.\n\nSe você é contador ou advogado, você já tem a base necessária. Você já lida com dados sensíveis e obrigações legais. O que falta é transformar isso em um serviço estruturado.\n\nO Curso de Formação para DPOs LGPD10 foi criado exatamente para isso. São mais de 8 horas de conteúdo prático, mentoria e acesso a um software exclusivo para te dar estrutura, método e aplicação prática.\n\nE o melhor: as inscrições estão abertas com 50% de desconto (de R$ 799 por apenas R$ 399).\n\nClique em \"Saiba Mais\" e garanta sua vaga antes que outros ocupem esse espaço. 🚀\n​\nActive",
+    "origem_coleta": "acervo:luiz-gomes-lgpd"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-3285367945185560.jpg"
+}

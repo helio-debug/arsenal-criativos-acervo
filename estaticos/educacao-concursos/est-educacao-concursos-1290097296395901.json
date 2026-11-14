@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1290097296395901",
+  "tipo": "estatico",
+  "titulo": "Preparatório com dois professores em destaque",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo escuro de escritório, a sigla dos tribunais aparece em azul turquesa. Três benefícios com ícones ficam no centro, e dois professores com nomes e cargos ocupam os cantos inferiores.",
+  "por_que_funciona": [
+    "A sigla em turquesa contrasta com o fundo escuro e identifica as provas.",
+    "Os três ícones organizam modalidade, professores e conteúdo.",
+    "Os retratos acompanhados de cargos dão informação concreta sobre o corpo docente.",
+    "O endereço de acesso fica isolado em um contorno que facilita sua localização."
+  ],
+  "quando_usar": "Para apresentar um preparatório a candidatos que já escolheram a área de concurso.",
+  "estrutura_texto": "[Nome do preparatório]\n[Provas-alvo]\n[Modalidade] | [Corpo docente] | [Tipo de conteúdo]\n[Acesse e adquira]\n[Site]\n[Professor e credencial]\n[Professor e credencial]",
+  "legenda": "Prepare-se para [concursos e cargos] com [curso]. Tenha acesso a [trilhas de estudo], [aulas atualizadas] e [conteúdo direcionado às bancas]. Confira a proposta e faça sua matrícula em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como base visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo de escritório escurecido em azul-marinho. Centralize título estreito branco e sigla grande turquesa no alto. Abaixo, alinhe três ícones pequenos com benefícios e um endereço em cápsula contornada. Coloque dois retratos profissionais recortados nos cantos inferiores, com nomes e credenciais verificáveis. Adapte todo o texto aos dados de MEU PRODUTO, em pt-BR, sem inventar benefícios, credenciais ou condições.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1290097296395901",
+    "anunciante": "Escola Trabalhista",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-04-06",
+    "dias_no_ar": 222,
+    "variacoes_ativas": 1,
+    "texto_original": "O Acesso Total TRT/TST foi criado para quem se prepara de forma estratégica para as provas da área trabalhista, especialmente para os cargos de analista judiciário e técnico judiciário.\n\nVocê terá trilhas organizadas, aulas atualizadas e estudo direcionado à jurisprudência e ao padrão das bancas dos Tribunais do Trabalho.\n\nMatricule-se agora!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1290097296395901.jpg"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1806870927394954",
+  "tipo": "estatico",
+  "titulo": "Notícia de edital sobre foto de tribunal",
+  "formato": "Comunicado oficial",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Foto de fachada de tribunal recebe uma camada escura, título branco e destaque verde para edital e salário. Datas aparecem abaixo e o contador indica a primeira página de uma sequência.",
+  "por_que_funciona": [
+    "A fachada situa visualmente o tema de concurso público.",
+    "A etiqueta verde “Edital publicado” destaca a novidade.",
+    "O valor salarial recebe o mesmo verde e se torna um ponto focal no título.",
+    "As datas de inscrição e prova acrescentam informação prática à chamada."
+  ],
+  "quando_usar": "Para atrair candidatos com uma notícia verificável e iniciar uma sequência de conteúdo sobre preparação.",
+  "estrutura_texto": "[Categoria]\n[Status do edital]\n[Órgão ou concurso] sai com salários de até [valor]\n[Período de inscrições e banca]\n[Data de prova]\n[Contador da sequência]\n[Perfil]",
+  "legenda": "O edital de [concurso] foi publicado para [cargos], com organização de [banca]. A prova está prevista para [data]. Conheça a preparação para [concurso e provas relacionadas]. Comente [palavra-chave] para receber [link ou informações] por mensagem.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie uma capa de conteúdo com foto contextual de edifício ligada ao produto, usando a IMAGEM 2 como imagem principal quando adequada. Aplique camada escura para legibilidade. Posicione pequena categoria no alto, etiqueta verde de status, título branco em negrito e valor em destaque verde. Abaixo, escreva datas em corpo menor. No rodapé, inclua contador de páginas e perfil da marca. Use apenas informações verificadas fornecidas e deixe clara a autoria independente do órgão público.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1806870927394954",
+    "anunciante": "123passei",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-02",
+    "dias_no_ar": 43,
+    "variacoes_ativas": 1,
+    "texto_original": "Saiu o edital do TRT-8! \n\nO Tribunal Regional do Trabalho da 8ª Região (Pará e Amapá) publicou o edital para técnico e analista judiciário. A banca é a FCC.\n\nSão 107 dias até a prova. Dá tempo de se preparar mesmo trabalhando, desde que você estude o que a FCC realmente cobra.\n\nQuer se preparar uma vez só para o TRT-8 e para os próximos TRTs? Comenta TRT que a gente te manda o link do Do Zero aos TRT's no direct. 👇\n\n#concursoTRT8 #TRT8 #concursospublicos #concurseiro #TRT #tecnicojudiciario #analistajudiciario #FCC #concursoPará #concursoAmapá #123passei\n123passei\n \n123passei\n \n123passei\n \n123passei\n \n123passei\n \n123passei",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1806870927394954.jpg"
+}

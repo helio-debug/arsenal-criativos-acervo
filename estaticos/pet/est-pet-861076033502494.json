@@ -1,0 +1,37 @@
+{
+  "id": "est-pet-861076033502494",
+  "tipo": "estatico",
+  "titulo": "Sachê de alimento úmido com sabor em faixa lateral",
+  "formato": "Produto em destaque",
+  "nicho": "pet",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "frete-gratis",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Sachê de alimento para gatos sobre fundo branco, com faixa coral à esquerda indicando carne e bloco marrom com o peso. A embalagem mostra um gato e uma porção do alimento.",
+  "por_que_funciona": [
+    "A faixa coral torna o sabor fácil de localizar.",
+    "O bloco separado com 85 g destaca a quantidade.",
+    "A foto da porção na embalagem mostra a aparência do alimento.",
+    "O sachê grande permite reconhecer a apresentação do produto."
+  ],
+  "quando_usar": "Para anúncios de catálogo de alimento pet, com legenda que detalhe as condições comerciais da loja.",
+  "estrutura_texto": "[Sabor]\n[Peso]\n[Embalagem do produto com identificação da linha].",
+  "legenda": "Ofereça [alimento úmido] sabor [sabor] ao seu gato. Em pedidos a partir de [valor mínimo], a entrega é grátis em [área atendida]. Confira as condições e peça pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco com a embalagem da IMAGEM 2 ocupando os dois terços direitos. À esquerda, crie uma faixa vertical coral com o sabor em branco e um bloco marrom inferior com o peso. Mantenha a foto e os dados reais do rótulo, sem inventar selos. Deixe margens amplas.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "861076033502494",
+    "anunciante": "Nutripet Rações - Pet Shop",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-21",
+    "dias_no_ar": 116,
+    "variacoes_ativas": 1,
+    "texto_original": "😸 Seu gatinho vai encarar aquela ração de sempre de novo?\n\nQue tal surpreender ele com um sachê saboroso?\n\n👉 Pedidos no valor de R$100 ou mais, ganham entrega grátis. \n\n🐾 Com a Nutripet, você recebe sem sair de casa, com frete grátis.\n\nAperte no botão disponível e faça seu pedido pelo nosso Shop! ❤️",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/pet/est-pet-861076033502494.jpg"
+}

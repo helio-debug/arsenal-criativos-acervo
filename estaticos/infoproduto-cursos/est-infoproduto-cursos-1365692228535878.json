@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1365692228535878",
+  "tipo": "estatico",
+  "titulo": "Curso introdutório com preço em selo e certificado",
+  "formato": "Oferta e promoção",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "fundo",
+  "proporcao": "1:1",
+  "descricao": "Arte branca com letras grandes coloridas, selo verde de R$9 e informação de certificado de 180 horas. Ilustrações de uma profissional e crianças com brinquedos ocupam a parte inferior.",
+  "por_que_funciona": [
+    "O tema do curso ocupa grande parte do topo em cores diferentes.",
+    "O selo verde separa o preço dos demais textos.",
+    "A carga horária do certificado aparece em um bloco grande à direita.",
+    "As ilustrações de crianças e profissional contextualizam o campo de estudo."
+  ],
+  "quando_usar": "Para divulgar cursos introdutórios na área de desenvolvimento infantil, com escopo, carga horária e limites de atuação claramente informados.",
+  "estrutura_texto": "[Marca]\nCURSO ONLINE\n[Tema do curso]\n[Nome da formação]\nR$[Preço]\nCERTIFICADO DE\n[Carga horária] HORAS",
+  "legenda": "Conheça o curso online de [tema], com aulas em vídeo, [materiais] e [suporte]. Acesso por [preço e condições], com certificado de [carga horária]. Confira o conteúdo, os pré-requisitos e o escopo da formação.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo branco, título rosa no topo e tema central em letras grandes roxas, laranjas e verdes. Posicione preço em selo verde à esquerda e carga horária em verde à direita. Na base, use ilustrações originais de uma profissional e crianças brincando, com faixa multicolorida fina no rodapé. Não sugira diagnóstico ou resultado clínico garantido. Use textos em pt-BR com os dados do MEU PRODUTO e apenas condições e credenciais comprovadas.",
+  "alerta_politica": "Meta: não atribuir autismo ou outra condição de saúde ao leitor ou a seus filhos. Não prometer cura, tratamento de alta performance ou resultados clínicos garantidos. Informar o escopo do curso e não apresentar certificado de curso livre como habilitação clínica ou reconhecimento oficial sem comprovação.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1365692228535878",
+    "anunciante": "institutoneuro",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2025-11-01",
+    "dias_no_ar": 378,
+    "variacoes_ativas": 8,
+    "texto_original": "🔎 Quer aprender a aplicar a abordagem ABA, desenvolver habilidades básicas e promover um tratamento de alta performance? 🌟\n\nApresentamos nosso curso online 💻, onde você se capacitará em ABA para Autismo.\n\nMelhor de tudo, temos valores promocionais super acessíveis!\n\n🎉 Apenas 9 reais por uma taxa única de pagamento 💵, com direito a certificado gratuito e reconhecido 📜\n\nNosso curso é na plataforma EAD\n\n✅ aulas em vídeos 🎥\n\n✅material para impressão 🖨️\n\n✅suporte técnico\n\n✅ acesso vitalício às aulas 🗓️\n\nFaça sua inscrição em Institutoneuro.com.br 🌐\n\nO que você irá destravar 🔐\n\n1️⃣ Introdução ao ABA (Conhecendo o ABA e suas contribuições no TEA)\n\n2️⃣ Ensino naturalísticos\n\n3️⃣ Habilidades iniciais e funcionais\n\n4️⃣ Habilidades sociais 🤝\n\n5️⃣ Habilidades Educacionais 🎓\n\n6️⃣ Linguagem e Educação 📝\n\n7️⃣ Adaptação curricular 🔄\n\n8️⃣ Inclusão escolar e Plano Educacional individualizado 🏫\n\n9️⃣ Estratégias de Ensino 🧠\n\n🔟 ABA e Seletividade Alimentar 🥗\n\n1️⃣1️⃣ Autismo em Adultos e Adolescentes 🧑🦱\n\n1️⃣2️⃣ Estratégias de Intervenção na Adolescência e com Adultos 👥\n\n1️⃣3️⃣ Construção do Programa ABA 📈\n\n1️⃣4️⃣ Estudos de caso (envio e orientação de casos individuais) 📚\n\nAulas práticas no ensino de habilidades no TEA:\n\n1️⃣ Avaliação do Desenvolvimento 👶\n\n2️⃣ Habilidades de Atenção 👀\n\n3️⃣ Habilidades de Imitação 🐒\n\n4️⃣ Desenvolvimento das habilidades de comunicação 🗣️\n\n5️⃣ Desenvolvimento das habilidades Pre-Acadêmicas 🏫\n\nFaça sua inscrição agora! 🎓💼\nAPLICADOR ABA - CERTIFICADO GRATUITO",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1365692228535878.jpg"
+}

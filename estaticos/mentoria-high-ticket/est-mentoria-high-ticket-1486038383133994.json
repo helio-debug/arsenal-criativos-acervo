@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-1486038383133994",
+  "tipo": "estatico",
+  "titulo": "Lista de situações para introduzir uma mudança de carreira",
+  "formato": "Checklist e lista de sinais",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "4:5",
+  "descricao": "Fundo claro texturizado com pergunta em vinho, quatro situações de carreira marcadas por setas e chamada final em faixas vinho.",
+  "por_que_funciona": [
+    "A pergunta em vinho concentra a atenção no início da leitura.",
+    "As quatro setas organizam situações de trabalho em blocos curtos.",
+    "O negrito destaca reconhecimento, equilíbrio e urgência dentro dos itens.",
+    "A seta curva ao lado da chamada sugere continuidade do conteúdo."
+  ],
+  "quando_usar": "Para abrir um carrossel de orientação de carreira e apresentar situações que motivam a procura por apoio.",
+  "estrutura_texto": "[Pergunta de identificação]\n→ [Situação 1]\n→ [Situação 2]\n→ [Situação 3]\n→ [Situação 4]\n[Convite à identificação]\n[Chamada para continuar]",
+  "legenda": "Falta de reconhecimento e dificuldade para planejar o próximo passo podem motivar uma mudança de carreira. Conheça como [mentoria] apoia [público] na definição de [objetivo profissional].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual da minha oferta. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie fundo branco com textura suave de papel e uma faixa vinho estreita na borda direita. No terço superior, insira título em vinho com fonte sem serifa pesada. Organize quatro itens pretos com setas à esquerda e destaques em negrito. Termine com duas faixas vinho de texto branco e uma seta curva discreta. Use situações gerais de carreira, sem atribuir sofrimento psicológico ao leitor.",
+  "alerta_politica": "Na Meta, evite afirmar ou insinuar que o leitor tem uma condição de saúde mental. Substitua a pergunta e a afirmação sobre saúde mental por situações gerais de trabalho.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1486038383133994",
+    "anunciante": "PraCarreiras",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-02-26",
+    "dias_no_ar": 261,
+    "variacoes_ativas": 22,
+    "texto_original": "Você já se sentiu perdido na sua carreira? Sabe aquela sensação de não se encaixar em um ambiente, mas também não saber para onde ir? Um sentimento de não saber qual próximo passo dar e nem se tem a capacidade para conseguir algo melhor? \n\nIsso é consequência de uma carreia que te desgasta emocionalmente. E a gente perde tempo - e saúde - tentando se adaptar a um espaço que não nos cabe. \n\nPara viver os sonhos, você precisa abrir mão dos medos. Sabe, é ir com medo mesmo. É se lançar para o mundo sabendo que você merece mais, mesmo quando todos te dizem quem não. Mesmo quando todas as circunstâncias parecem querer te dar sinais pra desistir. \n\nSabe por que a mentoria se chama Mentoria Individual Diamante? Porque eu vejo todas as pessoas como verdadeiros diamantes, cheias de valor. São diamantes que precisam apenas ser lapidados para mostrar seu valor. E diamantes que precisam estar no lugar certo para serem valorizados de verdade. \n\nA culpa não é sua se você ainda não conseguiu um emprego que te valorizasse e respeitasse. Mas a responsabilidade está nas suas mãos para mudar esse cenário.\n\nClica no meu link da bio e fala com meu time. \nVocê só precisa da estratégia certa! Vambora?\n\nClica no link da bio aqui @carolina.okubo\n\n#mentoriaindividual #mentoriadecarreira #currículo #entrevistadeemprego #consultoriadecarreira",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-1486038383133994.jpg"
+}

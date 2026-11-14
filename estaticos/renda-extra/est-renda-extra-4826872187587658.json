@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-4826872187587658",
+  "tipo": "estatico",
+  "titulo": "Loja digital demonstrada em notebook e celular",
+  "formato": "Produto em destaque",
+  "nicho": "renda-extra",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Uma mulher observa notebook e celular com uma vitrine de materiais pedagógicos. Faixas coloridas apresentam a proposta e a quantidade de arquivos, enquanto um selo destaca a licença de revenda e um botão rosa ocupa a base.",
+  "por_que_funciona": [
+    "Notebook e celular mostram como a vitrine pode aparecer em duas telas.",
+    "As capas e os preços nos cards tornam o acervo mais concreto.",
+    "O selo amarelo destaca a licença de revenda como parte do produto.",
+    "A chamada rosa na base repete o objetivo de montar uma loja."
+  ],
+  "quando_usar": "Para apresentar um acervo digital com direitos de revenda a quem já considera vender materiais pela internet.",
+  "estrutura_texto": "Já pensou em ter [projeto próprio]?\nSem [etapa dispensada]\n[Quantidade e categoria] com [licença]\n[Prévia da vitrine]\n[CTA]",
+  "legenda": "Monte [tipo de loja] com [acervo] pronto para [usos permitidos]. Você recebe [quantidade] materiais com licença para [direitos efetivos]. Confira o conteúdo, as condições de uso e como começar.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Componha uma cena doméstica acolhedora com pessoa ao lado de notebook e celular exibindo uma vitrine do produto da IMAGEM 2. Use manchete preta em faixas branca e amarela, apoio em rosa e roxo, selo amarelo de licença e CTA rosa largo na base. Deixe as telas legíveis e não invente volume de arquivos, preços nem direitos de revenda.",
+  "alerta_politica": "Meta: oportunidades de renda devem explicar a atividade e as condições, sem garantir ganhos ou sugerir resultados típicos sem comprovação. Valores e depoimentos precisam de evidências; ressalvas não corrigem uma promessa enganosa. A licença de revenda deve autorizar expressamente os usos anunciados.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "4826872187587658",
+    "anunciante": "Portal da Pedagogia",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-15",
+    "dias_no_ar": 30,
+    "variacoes_ativas": 1,
+    "texto_original": "Quer fazer sua primeira venda no digital sem criar um produto do zero?\n\nCom este PLR Pedagógico você recebe mais de 25 mil atividades e recursos pedagógicos  prontos para editar, personalizar, vender e lucrar.\n\nVocê pode:\n✔️ Revender pelo preço que quiser\n✔️ Editar com a sua marca\n✔️ Usar como isca digital\n✔️ Imprimir ou vender em formato digital\n✔️ Ficar com 100% do lucro de cada venda\n\n💰 Na prática: revenda por R$27 e fique com os R$27 inteiros — 10 vendas = R$270 no seu bolso, sem custo de produção e sem estoque.\n\nProduto validado e com alta demanda.\n\n🔥 Acesso a partir de R$10\n\n👉 Clique em **SAIBA MAIS** e comece hoje mesmo a construir sua renda no digital.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-4826872187587658.jpg"
+}

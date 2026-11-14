@@ -1,0 +1,37 @@
+{
+  "id": "est-beleza-cosmeticos-2079349539323214",
+  "tipo": "estatico",
+  "titulo": "Shampoo com ilustração da ação na raiz",
+  "formato": "Alerta e educação",
+  "nicho": "beleza-cosmeticos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Sobre fundo vermelho, uma chamada descreve a penetração na raiz em dois minutos. A imagem ampliada de um folículo com setas fica à esquerda e o frasco grande à direita, acima do CTA.",
+  "por_que_funciona": [
+    "A chamada branca em caixa alta ocupa o bloco superior esquerdo.",
+    "As setas pretas indicam a região destacada na ilustração.",
+    "O frasco grande permite reconhecer a categoria do produto.",
+    "A indicação de origem no topo funciona como informação de procedência."
+  ],
+  "quando_usar": "Para explicar um mecanismo de ação comprovado de cosmético capilar, com ilustração identificada e limites claros da alegação.",
+  "estrutura_texto": "[Procedência comprovada]\n[Ação comprovada]\nEM [Tempo comprovado]\n[Ilustração explicativa identificada]\n[Produto]\n[CTA]",
+  "legenda": "Conheça [shampoo] com [ingrediente] e saiba como incluí-lo em [rotina de lavagem]. Confira [benefício comprovado] e as orientações de uso em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo vermelho, chamada branca grande no alto à esquerda e embalagem em grande escala à direita. Inclua à esquerda uma ilustração explicativa identificada, com setas indicando o mecanismo comprovado. Coloque CTA branco em retângulo preto na base direita. Só inclua tempo de ação e origem quando documentados; não represente ilustração como prova clínica.",
+  "alerta_politica": "Meta: não inferir que a pessoa tem queda capilar nem garantir recuperação. ANVISA: alegações de prevenção da queda, penetração na raiz e ação em tempo específico exigem comprovação e compatibilidade com a regularização; não sugerir cura de alopecia.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2079349539323214",
+    "anunciante": "Alpecin Brasil",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-02",
+    "dias_no_ar": 135,
+    "variacoes_ativas": 1,
+    "texto_original": "Milhões de homens já confiam no Alpecin Caffeine Shampoo C1 no banheiro deles. Entre para o time vencedor.\n250 milhões de frascos vendidos.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/beleza-cosmeticos/est-beleza-cosmeticos-2079349539323214.jpg"
+}

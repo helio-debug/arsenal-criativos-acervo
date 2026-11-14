@@ -1,0 +1,37 @@
+{
+  "id": "est-consorcio-credito-1564164805457435",
+  "tipo": "estatico",
+  "titulo": "Explicação do consórcio em três pontos",
+  "formato": "Alerta e educação",
+  "nicho": "consorcio-credito",
+  "tipo_solucao": "financeiro",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Foto aproximada de um veículo azul ocupa o topo. Na metade inferior azul, uma pergunta amarela abre a explicação, seguida de uma faixa preta e três tópicos sobre contratação.",
+  "por_que_funciona": [
+    "A pergunta “Como você participa?” apresenta o assunto da explicação.",
+    "A faixa preta separa a introdução da lista.",
+    "Os tópicos citam decisões concretas: valor da carta, prazo e grupo.",
+    "A fotografia do veículo identifica o objetivo de uso do consórcio."
+  ],
+  "quando_usar": "Para explicar a contratação a pessoas que estão começando a pesquisar consórcio de automóvel.",
+  "estrutura_texto": "[Marca e modalidade]\nComo você participa?\nAo contratar [modalidade], você:\n• Escolhe [valor];\n• Define [prazo e parcelas];\n• Entra em [grupo e dinâmica].",
+  "legenda": "Planejando [compra do bem]? Entenda como funciona [consórcio]: escolha [carta de crédito], consulte [prazos e parcelas] e conheça [regras do grupo e contemplação]. Saiba mais pelo [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use a IMAGEM 2 em foto aproximada do bem na metade superior. Aplique painel azul na metade inferior com cantos inferiores arredondados, pergunta amarela em caixa alta, faixa preta com contorno branco e lista de três pontos em fonte legível. Explique etapas reais sem prometer acesso imediato ao crédito.",
+  "alerta_politica": "Meta: apresentar condições financeiras com clareza, sem garantir contemplação ou prazo para recebimento do crédito. A expressão “sem juros” não significa ausência de custos: esclarecer taxa de administração, fundo de reserva e demais encargos aplicáveis.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1564164805457435",
+    "anunciante": "Consórcio Chevrolet Federalle",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-27",
+    "dias_no_ar": 79,
+    "variacoes_ativas": 4,
+    "texto_original": "Você não precisa pagar juros para trocar de carro.\n\nO consórcio é para quem pensa no futuro e quer comprar de forma estratégica, pagando parcelas que cabem no bolso.\n\n▪️ Sem juros.\n▪️ Com planejamento.\n▪️ Com acompanhamento especializado.\n\nSe você quer entender como funciona e ver as opções disponíveis, clique em Saiba mais.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/consorcio-credito/est-consorcio-credito-1564164805457435.jpg"
+}

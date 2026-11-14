@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-455262160232003",
+  "tipo": "estatico",
+  "titulo": "Grade de concursos atendidos pela mentoria",
+  "formato": "Infográfico e linha do tempo",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "aplicacao-agendamento",
+  "etapa_funil": "meio",
+  "proporcao": "1:1",
+  "descricao": "Fundo verde com pergunta no topo e vinte blocos brancos com categorias e símbolos de concursos. Na base, uma pessoa aponta para o convite de solicitar um plano.",
+  "por_que_funciona": [
+    "A pergunta inicial explicita a dúvida sobre a abrangência do programa.",
+    "A grade de blocos permite localizar rapidamente uma carreira de interesse.",
+    "O verde vivo destaca a chamada para solicitar o plano.",
+    "A pessoa apontando conduz o olhar à ação na base."
+  ],
+  "quando_usar": "Para apresentar a cobertura de uma preparação quando o candidato ainda verifica se seu concurso é atendido.",
+  "estrutura_texto": "Para quais [concursos da área] a [mentoria] serve?\n[Grade de categorias atendidas]\nSolicite o plano para [seu objetivo]\nClique em [CTA]",
+  "legenda": "Prepare-se para [categoria de concurso] com [curso e acompanhamento]. O programa inclui [conteúdo], [plano de estudos] e [avaliação de desempenho]. Consulte a cobertura do seu edital e solicite [plano].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como elemento visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo verde escuro com brilho verde na base, título central branco e verde vivo e grade de vinte cartões brancos arredondados com categorias e ícones próprios. Posicione a foto do produto no canto inferior direito sem cobrir a grade. Destaque o CTA na base. Não reproduza emblemas oficiais nem sugira vínculo com órgãos públicos.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "455262160232003",
+    "anunciante": "EnfConcursos",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2024-04-29",
+    "dias_no_ar": 929,
+    "variacoes_ativas": 2,
+    "texto_original": "Curso Completo com Mentoria e Aulas Diários para o Concursos de Enfermagem\n\n✅ Curso Completo das Básicas e Específicas\n\n✅ Plano de Estudos Diário\n\n✅ Aula de 100% dos Tópicos do Edital\n\n✅ Mentorias Diárias com os Professores\n\n✅ Simulados com Resultado e Avaliação Individual de Desempenho\n\n✅ Mapas Mentais e Resumos Prontos\n\n✅ 1.800 Questões Comentadas em Vídeo\n\n✅ Acompanhamento com Tutor e Relatório de Desempenho\n\n✅ Resolução Semanal de Provas Anteriores de Português, SUS, Legislação da EBSERH, Raciocínio Lógico e Específicas",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-455262160232003.jpg"
+}

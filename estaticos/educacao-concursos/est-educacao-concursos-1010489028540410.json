@@ -1,0 +1,37 @@
+{
+  "id": "est-educacao-concursos-1010489028540410",
+  "tipo": "estatico",
+  "titulo": "Graduação em tecnologia com foto de ambiente profissional",
+  "formato": "Produto em destaque",
+  "nicho": "educacao-concursos",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "1.91:1",
+  "descricao": "Foto escurecida de um profissional ocupa a maior parte da peça. O nome da graduação e dois argumentos aparecem à esquerda; uma faixa verde à direita reúne inscrição e identidade visual.",
+  "por_que_funciona": [
+    "O nome do curso em letras grandes identifica a formação de imediato.",
+    "A foto em ambiente de trabalho associa a formação à atuação profissional.",
+    "Os dois tópicos abaixo do título apresentam razões objetivas para considerar o curso.",
+    "A faixa lateral separa a chamada de inscrição do conteúdo principal."
+  ],
+  "quando_usar": "Para divulgar uma graduação a distância durante a captação de candidatos.",
+  "estrutura_texto": "[Nome do curso]\n[Modalidade]\n[Reconhecimento do diploma]\n[Diferencial institucional]\nInscreva-se\n[Marca]",
+  "legenda": "Prepare-se para atuar em [área] com a graduação em [curso]. Estude na modalidade [modalidade], com [conteúdos] e [recursos de aprendizagem]. Confira os requisitos e inscreva-se em [processo seletivo].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1.91:1, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 para representar meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Divida a composição entre uma foto profissional escurecida em cerca de dois terços da largura e uma faixa lateral verde. Use título creme em destaque sobre a foto, modalidade abaixo e dois tópicos curtos no rodapé. Na lateral, coloque CTA de inscrição e marca própria. Use apenas reconhecimentos e diferenciais comprováveis.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1010489028540410",
+    "anunciante": "Ulbra",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-06-01",
+    "dias_no_ar": 166,
+    "variacoes_ativas": 1,
+    "texto_original": "Tech é o setor que mais contrata no Brasil, e não vai parar tão cedo.\n\nNo Ulbra Online, a graduação em Análise e Desenvolvimento de Sistemas EAD te forma como tecnólogo em 5 semestres, com conteúdo conectado ao mercado, plataforma feita pra estudar pelo celular e diploma reconhecido pelo MEC.\n\nProgramação web, mobile, gestão e manutenção de software: tudo o que as empresas estão buscando agora.\n\nA sua entrada na tecnologia começa pela sua vaga no vestibular.\n👉 Inscrições abertas para o Vestibular 2026.\nUlbra | Matricule-se já!",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/educacao-concursos/est-educacao-concursos-1010489028540410.jpg"
+}

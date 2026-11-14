@@ -1,0 +1,91 @@
+{
+  "id": "vid-bolsa-capacidade-vista-superior",
+  "tipo": "video",
+  "titulo": "Teste de capacidade sem corte com objetos conhecidos",
+  "formato_video": "teste-capacidade",
+  "nichos": [
+    "moda-acessorios",
+    "infantil-maternidade",
+    "automotivo"
+  ],
+  "tipo_solucao": "produto-fisico",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "duracao": "25s",
+  "proporcao": "9:16",
+  "hook": {
+    "falado": "Será que [itens conhecidos] cabem neste [produto]?",
+    "texto_tela": "O que cabe em [modelo]",
+    "visual": "Compartimento aberto e vazio junto aos objetos identificados que serão colocados nele; câmera fixa mostra a abertura inteira."
+  },
+  "estrutura": [
+    {
+      "tempo": "0-4s",
+      "cena": "Enquadramento alto ou lateral inclui compartimento vazio e todos os objetos, sem esconder a abertura.",
+      "fala": "Separei [objetos conhecidos, com quantidade e medidas] para testar o espaço de [modelo].",
+      "texto_tela": "Itens e medidas do teste"
+    },
+    {
+      "tempo": "4-12s",
+      "cena": "Uma pessoa coloca cada objeto no compartimento, sem corte e sem retirar itens do quadro.",
+      "fala": "Primeiro vai [objeto maior]. Depois entram [demais itens], nesta ordem.",
+      "texto_tela": "Carregamento contínuo"
+    },
+    {
+      "tempo": "12-19s",
+      "cena": "No mesmo plano, tenta fechar a bolsa, tampa ou porta do compartimento sem força e mostra a condição do fecho.",
+      "fala": "Com esses itens, o fechamento ficou [condição observada]. Aqui sobrou [espaço observado].",
+      "texto_tela": "Fechamento e espaço restante"
+    },
+    {
+      "tempo": "19-25s",
+      "cena": "Reabre o compartimento, mantém os itens visíveis e insere medidas úteis e limite de carga em texto.",
+      "fala": "Este teste usou [itens]. Confira as medidas e o limite de carga de [modelo] antes de escolher.",
+      "texto_tela": "Medidas úteis e limite de carga"
+    }
+  ],
+  "por_que_funciona": [
+    "Objetos conhecidos ao lado do compartimento dão uma referência concreta de escala.",
+    "O carregamento sem corte permite acompanhar tudo o que entrou e a ordem de colocação.",
+    "A tentativa de fechamento mostra uma condição de uso que a litragem isolada não mostra."
+  ],
+  "quando_usar": "Para mostrar a capacidade útil de bolsas, bolsas de maternidade e compartimentos de veículos com um conjunto real de objetos. Mantenha a mesma mecânica: vazio à vista, carregamento contínuo e fechamento. Informe a configuração testada, as medidas dos objetos e os limites do fabricante.",
+  "roteiro_modelo": "Será que [itens conhecidos] cabem neste [produto]? Separei [objetos, quantidade e medidas] e deixei o compartimento vazio para você acompanhar. Primeiro vai [objeto maior]. Depois entram [demais itens], nesta ordem. [Manter a colocação e o fechamento sem corte.] Com esses itens, o fechamento ficou [condição observada]. Aqui sobrou [espaço observado]. Este teste usou [itens e configuração]. Confira as medidas úteis e o limite de carga de [modelo] antes de escolher.",
+  "tomadas_celular": [
+    "Fixe o celular em tripé, com luz difusa e a abertura inteira no quadro; use vista superior para bolsa ou lateral alta para porta-malas.",
+    "Grave o compartimento vazio com todos os objetos identificados ao lado; inclua régua ou trena para escala.",
+    "Registre cada objeto entrando e o fechamento na mesma tomada, sem cortes, aceleração, força ou mãos ocultando a abertura.",
+    "Reabra e mostre a distribuição final; registre separadamente a etiqueta ou manual com medidas úteis e limite de carga."
+  ],
+  "caminho_ia": "Para uma versão sem gravação, use fotos autorizadas do compartimento vazio e dos objetos reais, com medidas verificadas. No editor, anime um esquema identificado como simulação; não apresente objetos gerados como prova de que cabem. Prompt 1: \"Vídeo vertical esquemático, câmera fixa, compartimento aberto e objetos identificados ao lado, escala coerente com medidas fornecidas, fundo neutro, sem texto inventado.\" Prompt 2: \"Animar cada objeto entrando no compartimento, um de cada vez, preservando dimensões e sem sobreposição impossível; mostrar fechamento apenas se houver dados suficientes para sustentá-lo.\" Insira medidas, limite de carga e aviso de simulação no CapCut. Para uma demonstração real, utilize tomada contínua fornecida pelo vendedor; a IA pode legendar e narrar sem alterar o carregamento.",
+  "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo vertical de 25 segundos chamado Teste de capacidade sem corte com objetos conhecidos. Sirva tanto para uma bolsa quanto para um porta-malas: mostre o compartimento vazio, identifique objetos e medidas, acompanhe cada objeto entrando sem cortes e mostre o fechamento sem força. Entregue hook, roteiro com tempos, legenda e prompt de cada cena, incluindo câmera, luz e continuidade. Preserve a escala e os limites de carga fornecidos. Não invente capacidade nem simule prova real com IA; sem imagens reais, entregue esquema claramente identificado como simulação. Use pt-BR falado e [colchetes] para dados ausentes. Não afirme compatibilidade universal; informe configuração e objetos do teste.",
+  "legenda": "O que cabe em [modelo]? Neste teste usamos [itens e medidas], na configuração [configuração]. Veja o carregamento e o fechamento no vídeo. Confira medidas úteis e limite de carga antes de escolher.",
+  "alerta_politica": "Não exceder carga prevista pelo fabricante nem forçar fechos. Em veículos, testar estacionado, sem pessoas no compartimento; não sugerir que toda bagagem dispensa amarração ou que esta demonstração comprova segurança. Em bolsas de maternidade, não usar bebê como objeto do teste. A capacidade observada depende das medidas e da disposição dos itens.",
+  "referencias": [
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "1701579024266586",
+      "dias_no_ar": 58,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência local de produto/argumento comercial, consultada pela copy. Não há vídeo assistido nem frames deste anúncio que comprovem esta execução; a estrutura cena a cena é proposta de adaptação. O tempo no ar se refere ao anúncio e não valida o formato de vídeo."
+    },
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "987470424171541",
+      "dias_no_ar": 192,
+      "views": 0,
+      "frames": [],
+      "nota_referencia": "Referência de produto, contexto de uso e oferta extraída da copy e/ou arte raspada em bruto/infantil-maternidade/amamentacao/spy-ads.json. A sequência deste modelo é adaptação editorial; o vídeo completo não foi inspecionado. Sem comprovação de performance específica do formato."
+    },
+    {
+      "origem": "meta-ad-library",
+      "url_ou_id": "4258540287622635",
+      "dias_no_ar": 155,
+      "views": null,
+      "frames": [],
+      "nota_referencia": "Referência de oferta e contexto comercial em bruto/automotivo/carro-seminovo/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+    }
+  ],
+  "validacao": "media"
+}

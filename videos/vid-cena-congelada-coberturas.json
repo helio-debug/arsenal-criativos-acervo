@@ -1,0 +1,74 @@
+{
+ "id": "vid-cena-congelada-coberturas",
+ "tipo": "video",
+ "titulo": "Cena congela e etiquetas mostram cobertura, limite e exclusão",
+ "formato_video": "freeze-frame-anotado",
+ "nichos": [
+  "seguros"
+ ],
+ "tipo_solucao": "financeiro",
+ "oferta": "aplicacao-agendamento",
+ "etapa_funil": "meio",
+ "duracao": "20-30s",
+ "proporcao": "9:16",
+ "hook": {
+  "falado": "Se acontecer [evento], o que essa proposta prevê?",
+  "texto_tela": "O que está coberto?",
+  "visual": "Carro parado e cena congelada, sem colisão gráfica."
+ },
+ "estrutura": [
+  {
+   "tempo": "0-4s",
+   "cena": "Carro parado e cena congelada, sem colisão gráfica.",
+   "fala": "Se acontecer [evento], o que essa proposta prevê?",
+   "texto_tela": "O que está coberto?"
+  },
+  {
+   "tempo": "4-11s",
+   "cena": "Etiquetas surgem no objeto correspondente.",
+   "fala": "A cobertura [nome] prevê [condição], até [limite contratado].",
+   "texto_tela": "Cobertura e limite"
+  },
+  {
+   "tempo": "11-19s",
+   "cena": "Etiqueta cinza marca a exceção, sem desaparecer.",
+   "fala": "Já [situação excluída] segue [exclusão da proposta].",
+   "texto_tela": "Confira as exclusões"
+  },
+  {
+   "tempo": "19-27s",
+   "cena": "Descongela para mostrar a proposta nas mãos.",
+   "fala": "Peça uma cotação de [seguro] e confira franquia e condições antes de contratar.",
+   "texto_tela": "Solicite uma cotação"
+  }
+ ],
+ "por_que_funciona": [
+  "A abertura mostra a ação principal: Carro parado e cena congelada, sem colisão gráfica.",
+  "O desenvolvimento mantém a informação ligada à imagem: Etiquetas surgem no objeto correspondente.",
+  "A ressalva aparece junto do detalhe que precisa de contexto: Etiqueta cinza marca a exceção, sem desaparecer."
+ ],
+ "quando_usar": "Para apresentar [produto ou serviço] no nicho seguros, quando a pessoa já compara opções e precisa entender a execução ou as condições. Usar dados e materiais autorizados. A referência local sustenta o contexto comercial, sem confirmar a execução audiovisual desta mecânica.",
+ "roteiro_modelo": "0-4s | Se acontecer [evento], o que essa proposta prevê? [Manter na tela: O que está coberto?]\n4-11s | A cobertura [nome] prevê [condição], até [limite contratado]. [Manter na tela: Cobertura e limite]\n11-19s | Já [situação excluída] segue [exclusão da proposta]. [Manter na tela: Confira as exclusões]\n19-27s | Peça uma cotação de [seguro] e confira franquia e condições antes de contratar. [Manter na tela: Solicite uma cotação]",
+ "tomadas_celular": [
+  "Vertical 9:16, câmera apoiada e luz lateral suave: Carro parado e cena congelada, sem colisão gráfica.",
+  "Plano próximo sem reflexos; travar foco e exposição: Etiquetas surgem no objeto correspondente.",
+  "Plano de detalhe legível, sem zoom digital: Etiqueta cinza marca a exceção, sem desaparecer.",
+  "Plano final estável, com área livre para legenda e botão: Descongela para mostrar a proposta nas mãos.",
+  "Gravar voz em ambiente silencioso; obter autorização, cobrir dados pessoais e guardar registros dos valores ou medições usados."
+ ],
+ "caminho_ia": "Produzir uma versão ilustrativa em Sora/Veo, sem apresentar cenas geradas como registro de atendimento, inspeção ou desempenho real. Cena 1: \"Vídeo vertical, Carro parado e cena congelada, sem colisão gráfica. Luz natural difusa, câmera estável, sem marcas nem texto gerado.\" Cena 2: \"Vídeo vertical, Etiquetas surgem no objeto correspondente. Continuidade de objetos e iluminação, espaço livre para sobreposição.\" Montar as quatro etapas no CapCut, inserir texto, números e documentos verificados manualmente e narrar o roteiro. Identificar simulação visual; para áudio mecânico, medições, imóvel real e prova de prazo, usar arquivo autorizado ou substituir por diagrama explicitamente ilustrativo.",
+ "prompt_ia": "MEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um vídeo no formato Cena congela e etiquetas mostram cobertura, limite e exclusão, vertical 9:16, de 20 a 30 segundos. Preserve esta mecânica: Carro parado e cena congelada, sem colisão gráfica. Depois, Etiquetas surgem no objeto correspondente. Depois, Etiqueta cinza marca a exceção, sem desaparecer. Depois, Descongela para mostrar a proposta nas mãos. Entregue hook falado e visual, roteiro cena a cena com tempo, fala em pt-BR e texto de tela, legenda do anúncio e um prompt visual por cena. Use [colchetes] quando faltarem dados. Não invente medidas, rentabilidade, cláusulas, resultados, depoimentos ou preços. Diferencie arquivo real de simulação e coloque as ressalvas perto da informação correspondente. Não copie nomes ou identidade da referência. Apresentar apenas coberturas, limites, carências, franquias e assistências que constam da proposta. Identificar seguradora e responsável pela comercialização na peça final quando aplicável; informar condições de aceitação. Não chamar proteção mutualista de seguro nem prometer cobertura irrestrita.",
+ "legenda": "Peça uma cotação de [seguro] e confira franquia e condições antes de contratar. Veja [condições aplicáveis] em [canal de atendimento].",
+ "alerta_politica": "Apresentar apenas coberturas, limites, carências, franquias e assistências que constam da proposta. Identificar seguradora e responsável pela comercialização na peça final quando aplicável; informar condições de aceitação. Não chamar proteção mutualista de seguro nem prometer cobertura irrestrita.",
+ "referencias": [
+  {
+   "origem": "meta-ad-library",
+   "url_ou_id": "1910199469690387",
+   "dias_no_ar": 177,
+   "views": null,
+   "frames": [],
+   "nota_referencia": "Referência de oferta e contexto comercial em bruto/seguros/seguro-auto/spy-ads.json. Arte/copy consultada; vídeo integral não disponível. A mecânica de vídeo deste card é uma adaptação proposta, não uma transcrição nem comprovação visual deste anúncio."
+  }
+ ],
+ "validacao": "media"
+}

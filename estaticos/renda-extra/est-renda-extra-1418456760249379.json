@@ -1,0 +1,37 @@
+{
+  "id": "est-renda-extra-1418456760249379",
+  "tipo": "estatico",
+  "titulo": "Convite à revenda com vitrine de cosméticos",
+  "formato": "Comunicado oficial",
+  "nicho": "renda-extra",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "9:16",
+  "descricao": "Título de recrutamento em fundo vermelho acima de dois blocos com cosméticos. Um balão com moedas conecta os produtos à oportunidade de renda e o rodapé rosa apresenta o convite.",
+  "por_que_funciona": [
+    "O título branco grande destaca a chamada de recrutamento.",
+    "Os blocos laranja e rosa separam dois grupos de cosméticos.",
+    "O balão com três moedas associa a vitrine à oportunidade comercial.",
+    "O rodapé reserva uma área limpa para o convite à consultoria."
+  ],
+  "quando_usar": "Para captar interessados em adicionar cosméticos ao portfólio de revenda.",
+  "estrutura_texto": "[Convite para ampliar renda]\n[Chamada de recrutamento]\n[Produtos em dois blocos]\n[Ícone de oportunidade financeira]\nFaça parte de [atividade]",
+  "legenda": "Adicione [categoria de produtos] ao seu portfólio e concilie a revenda com [rotina]. Conheça as condições para participar de [programa] em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Organize a arte em três faixas: topo vermelho escuro com frase curta e título branco grande; centro dividido entre laranja e rosa forte com recortes dos produtos da IMAGEM 2; base rosa clara com convite à revenda. Inclua um pequeno balão ilustrado com moedas entre os produtos, sem sugerir ganhos garantidos.",
+  "alerta_politica": "Evite prometer renda garantida, lucro certo ou ganhos sem esforço. Informe condições, custos e critérios de participação; valores de ganhos precisam de comprovação e contexto.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1418456760249379",
+    "anunciante": "Consultoria Natura e Avon",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-09-24",
+    "dias_no_ar": 51,
+    "variacoes_ativas": 2,
+    "texto_original": "Mais liberdade, mais dinheiro. Adicione cosméticos ao portfólio.\nRenda Extra Para Freelas\nMantenha sua liberdade de freela e garanta renda extra segura.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/renda-extra/est-renda-extra-1418456760249379.jpg"
+}

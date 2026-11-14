@@ -1,0 +1,37 @@
+{
+  "id": "est-infoproduto-cursos-1680210220405956",
+  "tipo": "estatico",
+  "titulo": "Especialização com cena profissional e horários",
+  "formato": "Produto em destaque",
+  "nicho": "infoproduto-cursos",
+  "tipo_solucao": "infoproduto",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "meio",
+  "proporcao": "4:5",
+  "descricao": "Cabeçalho vinho e laranja apresenta uma pós-graduação em nutrição esportiva e emagrecimento. A foto central mostra atendimento com tablet, alimentos e instrumentos de avaliação, seguida de faixa de aulas ao vivo e horários.",
+  "por_que_funciona": [
+    "O cabeçalho reúne nível de formação, tema e modalidade antes da foto.",
+    "A cena de atendimento mostra um contexto de aplicação da especialização.",
+    "O selo circular laranja chama atenção para as aulas ao vivo.",
+    "Os dias e horários no rodapé permitem avaliar a compatibilidade com a rotina."
+  ],
+  "quando_usar": "Divulgação de especializações profissionais quando modalidade e agenda são critérios importantes de escolha.",
+  "estrutura_texto": "[Instituição]\n[Pós-graduação]\n[Área de especialização]\n[Modalidade]\n[Enfoque do curso]\n[Aulas ao vivo]\n[Dias e horários]",
+  "legenda": "Conheça a pós-graduação em [área], voltada a [público com formação exigida]. Confira a modalidade [modalidade], a programação e as aulas em [dias e horários]. Veja os requisitos de ingresso em [canal].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como referência visual do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Crie cabeçalho vinho com faixa laranja para o nível de formação e título branco centralizado. Use foto ampla de contexto profissional coerente com o curso, sem apresentar o produto como tratamento. Acrescente selo laranja de aulas ao vivo e rodapé vinho com faixa laranja e horários legíveis. Adapte os elementos da IMAGEM 2 ao contexto e use identidade própria.",
+  "alerta_politica": "Por abordar nutrição e emagrecimento, mantenha o anúncio como divulgação educacional: não prometa perda de peso, cura ou resultados clínicos, nem use comparações de corpos ou afirmações sobre a saúde de quem vê a peça.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1680210220405956",
+    "anunciante": "Universidade de Vassouras",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-10-01",
+    "dias_no_ar": 44,
+    "variacoes_ativas": 1,
+    "texto_original": "Especialização e MBA – Univassouras\nA Pós-Graduação da Universidade de Vassouras abrange uma variedade de programas, voltados para candidatos com diplomas de graduação, além de cursos livres de aperfeiçoamento. Reconhecida como a segunda melhor universidade privada do estado do Rio de Janeiro pelo Índice Geral de Cursos (IGC) ...",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/infoproduto-cursos/est-infoproduto-cursos-1680210220405956.jpg"
+}

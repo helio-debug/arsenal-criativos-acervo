@@ -1,0 +1,37 @@
+{
+  "id": "est-mentoria-high-ticket-912241118199742",
+  "tipo": "estatico",
+  "titulo": "Pergunta estratégica com convite ao diagnóstico",
+  "formato": "novo:Retrato com chamada e CTA",
+  "nicho": "mentoria-high-ticket",
+  "tipo_solucao": "mentoria-consultoria",
+  "oferta": "quiz-diagnostico",
+  "etapa_funil": "fundo",
+  "proporcao": "4:5",
+  "descricao": "Retrato de um homem diante de um microfone à direita, com pergunta alta à esquerda. O rodapé escuro contém texto verde e um contorno arredondado com chamada para diagnóstico gratuito.",
+  "por_que_funciona": [
+    "A pergunta especifica um horizonte de 12 meses para a decisão.",
+    "O retrato com microfone dá contexto de conversa profissional.",
+    "O arco verde separa o convite gratuito do restante da mensagem."
+  ],
+  "quando_usar": "Para captar empresários em uma conversa individual de diagnóstico.",
+  "estrutura_texto": "[Qual decisão levaria ao objetivo] nos próximos [prazo]?\n[Convite para conversar sobre a dúvida].\nSolicite seu [diagnóstico] gratuito.",
+  "legenda": "Sua empresa de [segmento] já tem [estrutura], mas o crescimento ainda depende de [limitação]? Uma reunião individual ajuda a examinar [gargalos]. Preencha [formulário] para solicitar seu [diagnóstico gratuito].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 4:5, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Posicione a pessoa da IMAGEM 2 à direita em contexto de entrevista com microfone. À esquerda, use pergunta em fonte condensada branca e caixa alta. Aplique degradê preto no rodapé, texto de apoio verde e CTA branco dentro de um grande contorno verde arredondado, com pequena seta para baixo.",
+  "alerta_politica": null,
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "912241118199742",
+    "anunciante": "Pedro Quintanilha - Mentalidade Empreendedora",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-08-28",
+    "dias_no_ar": 78,
+    "variacoes_ativas": 3,
+    "texto_original": "✅Mentoria Makers✅\n\nCandidatura · vagas limitadas\n\nO seu faturamento está preso à sua agenda?\nEnquanto o crescimento depender de você atender mais, o teto já está definido. Reunião estratégica individual para empresários de serviço que querem escalar sem trabalhar mais horas.\n\n⚠️\nNão é para quem está começando nem para quem procura um plano B. É para empresa de serviço já estruturada, com time e faturamento consolidado. Preencha com números reais: é por eles que a seleção acontece.",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/mentoria-high-ticket/est-mentoria-high-ticket-912241118199742.jpg",
+  "formato_novo_def": "Retrato como fundo ou elemento lateral, com chamada sobreposta e uma área própria de CTA. A hierarquia conduz da mensagem principal ao convite para uma ação."
+}

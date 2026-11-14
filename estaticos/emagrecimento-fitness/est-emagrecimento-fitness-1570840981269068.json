@@ -1,0 +1,37 @@
+{
+  "id": "est-emagrecimento-fitness-1570840981269068",
+  "tipo": "estatico",
+  "titulo": "Pergunta sobre dieta em selfie de treino",
+  "formato": "Alerta e educação",
+  "nicho": "emagrecimento-fitness",
+  "tipo_solucao": "servico-online",
+  "oferta": "sem-oferta-explicita",
+  "etapa_funil": "topo",
+  "proporcao": "1:1",
+  "descricao": "Selfie de uma mulher com fones de ouvido e roupa de treino em ambiente escuro. A pergunta sobre como começar uma dieta aparece em branco no centro inferior, seguida de uma chamada curta.",
+  "por_que_funciona": [
+    "O rosto sorridente aproxima o conteúdo de uma publicação pessoal.",
+    "Os fones e a roupa de treino contextualizam hábitos de atividade física.",
+    "O texto branco contrasta com a região escura da foto.",
+    "A pergunta seguida de “Tente isso” deixa a orientação para o próximo passo."
+  ],
+  "quando_usar": "Para introduzir conteúdo ou serviço de planejamento alimentar a quem procura orientação para começar.",
+  "estrutura_texto": "Por onde começar\n[uma mudança de rotina]?\nTente [esta orientação] 👉🏻",
+  "legenda": "Uma rotina alimentar pode incluir [alimentos preferidos] e considerar [objetivos e necessidades]. Conheça [serviço de planejamento alimentar] em [destino] e veja como funciona.",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 1:1, usando a IMAGEM 1 apenas como referência de layout. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use uma foto autorizada da IMAGEM 2 relacionada ao serviço em enquadramento de selfie, com contexto de treino e luz naturalista. Preserve o rosto visível na metade superior. Na parte central inferior mais escura, insira pergunta curta em branco e negrito, com duas linhas; abaixo, chamada menor com seta. Evite foco em medidas corporais, comparações de corpo e promessas de emagrecimento.",
+  "alerta_politica": "Evitar inferir peso, insatisfação corporal ou condição de saúde do público. Não prometer dieta ideal, resultado fácil ou emagrecimento garantido. Planejamento alimentar individualizado deve respeitar a atuação profissional habilitada.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "1570840981269068",
+    "anunciante": "Nutri inteligente",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-07-01",
+    "dias_no_ar": 136,
+    "variacoes_ativas": 1,
+    "texto_original": "A dieta ideal com seus alimentos preferidos? É possível e fácil! Descubra como atingir seus objetivos com prazer e praticidade. Clique em \"Saiba Mais\" e monte agora sua dieta 💪🥦",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/emagrecimento-fitness/est-emagrecimento-fitness-1570840981269068.jpg"
+}

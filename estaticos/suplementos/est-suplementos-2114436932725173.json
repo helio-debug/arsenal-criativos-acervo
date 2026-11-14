@@ -1,0 +1,37 @@
+{
+  "id": "est-suplementos-2114436932725173",
+  "tipo": "estatico",
+  "titulo": "Kit promocional com preço e brinde",
+  "formato": "Oferta e promoção",
+  "nicho": "suplementos",
+  "tipo_solucao": "produto-fisico",
+  "oferta": "kit-combo",
+  "etapa_funil": "fundo",
+  "proporcao": "9:16",
+  "descricao": "Peça em turquesa e rosa com mulher segurando um frasco, quatro frascos no alto e bloco de preço à direita. Selos destacam desconto, brinde e envio imediato, com botão na base.",
+  "por_que_funciona": [
+    "O preço em números grandes cria um ponto de leitura à direita.",
+    "Os quatro frascos juntos tornam a composição do kit visível.",
+    "A pessoa segurando o frasco oferece referência de tamanho do produto.",
+    "O botão rosa na base explicita a próxima ação."
+  ],
+  "quando_usar": "Campanhas sazonais de kits com preço, quantidade e brinde claramente definidos.",
+  "estrutura_texto": "[Marca]\n[Promoção sazonal]\n[Prazo da oferta]\n[Kit com quantidade]\n[Desconto]\n[Preço anterior] por [preço atual]\n[Brinde]\n[Condição de envio]\n[CTA]",
+  "legenda": "Oferta de [data promocional]: leve [quantidade e produtos do kit] por [preço]. Inclui [brinde], com [condição de envio]. Confira [validade e condições] e aproveite em [destino].",
+  "prompt_ia": "Anexei 2 imagens a esta mensagem: IMAGEM 1 = criativo de referência | IMAGEM 2 = foto do meu produto.\n\nMEU PRODUTO\n- Nome: {{nome}}\n- O que é: {{o_que_e}}\n- Para quem é: {{para_quem}}\n- Problema que resolve: {{problema}}\n- Principais benefícios: {{beneficios}}\n- Oferta, preço ou garantia: {{oferta}}\n- Marca e site: {{marca}}\n\nCrie um anúncio estático na proporção 9:16, usando a IMAGEM 1 apenas como referência de layout e a IMAGEM 2 como foto do meu produto. Não copie a marca, o logotipo nem o local exato da IMAGEM 1. Use fundo turquesa e blocos rosa intenso. Posicione no topo uma placa inclinada com a data promocional; abaixo, fotos do kit à direita e uma pessoa autorizada segurando o produto à esquerda. Destaque preço, brinde e envio em blocos separados e coloque botão largo na base. Não reproduza a pessoa da referência. Use desconto e urgência apenas se reais.",
+  "alerta_politica": "Suplementos: usar apenas alegações autorizadas para o produto e compatíveis com o rótulo; não prometer cura, prevenção de doenças ou resultados garantidos. Evitar atribuir deficiência nutricional ou condição de saúde a quem vê o anúncio. Desconto, preço anterior, brinde e envio devem corresponder à oferta real; não sugerir que o suplemento garante crescimento capilar.",
+  "fonte": {
+    "origem": "meta-ad-library",
+    "library_id": "2114436932725173",
+    "anunciante": "By Pamella",
+    "page_id": null,
+    "pais": "BR",
+    "inicio": "2026-03-04",
+    "dias_no_ar": 255,
+    "variacoes_ativas": 1,
+    "texto_original": "💅💖 A By Pamella trouxe a melhor oferta do Dia do Consumidor: Happy Hair 3+1 por 79,99.\n👑💅 Mega promoção By Pamella\n💖🌸 Oferta Dia do Consumidor By Pamella - Envio Imediato",
+    "origem_coleta": "novo"
+  },
+  "validacao": "forte",
+  "arquivo": "estaticos/suplementos/est-suplementos-2114436932725173.jpg"
+}
